@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Skólarnir</w>
+  <w>keppa</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Skólarnir</w>
+  <w>keppa</w>
+  <w>í</w>
+  <w>ýmsum</w>
+  <w>greinum</w>
+  <c>,</c>
+  <w>í</w>
+  <w>öllum</w>
+  <w>stigum</w>
+  <w>skólakerfisins</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Þessar</w>
+  <w>keppnir</w>
+  <w>eru</w>
+  <w>oft</w>
+  <w>æsispennandi</w>
+  <w>og</w>
+  <w>gott</w>
+  <w>afþreyingarefni</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Þeim</w>
+  <w>er</w>
+  <w>oft</w>
+  <w>sjónvarpað</w>
+  <w>og</w>
+  <w>eru</w>
+  <w>úrslitin</w>
+  <revision id="1">
+    <original><w>gerð</w><w>kunngjörn</w></original>
+    <corrected><w>kunngjörð</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>fjölmiðlum</w>
+  <w>landsins</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Milli</w>
+  <w>grunnskóla</w>
+  <w>er</w>
+  <w>til</w>
+  <w>dæmis</w>
+  <w>ein</w>
+  <w>fræg</w>
+  <w>keppni</w>
+  <w>sem</w>
+  <w>heitir</w>
+  <w>Nema</w>
+  <w>hvað</w>
+  <c>?</c>
+</s>
+<s n="6">
+  <w>Hún</w>
+  <w>er</w>
+  <revision id="2">
+    <original><w>einskonar</w><w>einn</w></original>
+    <corrected><w>eins</w><w>konar</w></corrected>
+      <errors>
+        <error xtype="merged-words" idx="2-1" eid="0" />
+        <error xtype="extra-word" idx="2-1" eid="0" />
+      </errors>
+  </revision>
+  <w>angi</w>
+  <w>keppninnar</w>
+  <w>Gettu</w>
+  <w>betur</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>Margir</w>
+  <w>sigurvegarar</w>
+  <w>Gettu</w>
+  <w>betur</w>
+  <w>kepptu</w>
+  <w>einu</w>
+  <w>sinni</w>
+  <w>í</w>
+  <w>Nema</w>
+  <w>hvað</w>
+  <c>?</c>
+</s>
+<s n="8">
+  <w>Menntaskólar</w>
+  <w>keppa</w>
+  <w>einmitt</w>
+  <w>í</w>
+  <w>Gettu</w>
+  <w>betur</w>
+  <w>sem</w>
+  <w>er</w>
+  <w>spurningakeppni</w>
+  <w>og</w>
+  <w>MORFÍS</w>
+  <w>sem</w>
+  <w>er</w>
+  <w>mælsku- og rökfræðikeppni</w>
+  <c>.</c>
+</s>
+<s n="9">
+  <w>Háskólar</w>
+  <w>keppa</w>
+  <w>oft</w>
+  <w>gegn</w>
+  <w>hver</w>
+  <w>öðrum</w>
+  <c>,</c>
+  <revision id="3">
+    <original><w>einnig</w><w>innan</w><w>sem</w></original>
+    <corrected><w>bæði</w></corrected>
+      <errors>
+        <error xtype="wording" idx="3-1" eid="0" />
+      </errors>
+  </revision>
+  <w>milli</w>
+  <revision id="4">
+    <original><w>deildna</w></original>
+    <corrected><w>deilda</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="4-1" eid="0" />
+        <error xtype="nonword" idx="4-1" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>skora</w>
+  <revision id="5">
+    <original></original>
+    <corrected><w>og</w><w>innan</w><w>þeirra</w></corrected>
+      <errors>
+        <error xtype="dep" depId="5-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="10">
+  <w>Hverjar</w>
+  <w>eru</w>
+  <w>afleiðingarnar</w>
+  <w>þegar</w>
+  <w>börn</w>
+  <w>keppa</w>
+  <w>á</w>
+  <w>móti</w>
+  <revision id="6">
+    <original><w>hvort</w></original>
+    <corrected><w>hvert</w></corrected>
+      <errors>
+        <error xtype="each" eid="0" />
+      </errors>
+  </revision>
+  <w>öðru</w>
+  <c>?</c>
+</s>
+<s n="11">
+  <w>Er</w>
+  <w>rétt</w>
+  <w>að</w>
+  <w>gera</w>
+  <w>upp</w>
+  <w>á</w>
+  <w>milli</w>
+  <w>skóla</w>
+  <c>?</c>
+</s>
+<s n="12">
+  <w>Í</w>
+  <w>sambandi</w>
+  <w>við</w>
+  <w>gáfur</w>
+  <c>,</c>
+  <w>hæfileika</w>
+  <w>og</w>
+  <w>fegurð</w>
+  <c>.</c>
+</s>
+<s n="13">
+  <w>Í</w>
+  <w>þessari</w>
+  <w>ritgerð</w>
+  <w>mun</w>
+  <w>ég</w>
+  <w>skoða</w>
+  <w>hvert</w>
+  <w>stig</w>
+  <w>fyrir</w>
+  <w>sig</w>
+  <w>og</w>
+  <w>hafa</w>
+  <w>niðurstöður</w>
+  <w>aftast</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>
