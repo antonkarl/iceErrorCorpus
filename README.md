@@ -20,6 +20,8 @@ The project is funded by the Icelandic Government as a part of the Language Tech
 
 Anna Björk Nikulásdóttir, Jón Guðnason, Anton Karl Ingason, Hrafn Loftsson, Eiríkur Rögnvaldsson, Einar Freyr Sigurðsson, Steinþór Steingrímsson. 2020. Language Technology Programme for Icelandic 2019–2023. Proceedings of LREC 2020 (https://arxiv.org/pdf/2003.09244.pdf)
 
+# Íslensk villumálheild (IceEC)
+
 Útgáfa 0.9
 
 Höfundarréttur 2020 Anton Karl Ingason, Lilja Björk Stefánsdóttir, Þórunn Arnardóttir.
