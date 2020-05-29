@@ -1,0 +1,158 @@
+code	error	class
+caps4low	hástafir þar sem ættu að vera lágstafir	capitalization
+lower4upper-acro	lítill stafur í hánefni	capitalization
+lower4upper-initial	lítill stafur í upphafi málsgreinar	capitalization
+lower4upper-proper	lítill stafur í upphafi sérnafns	capitalization
+upper4lower-common (-proper)	stór stafur í upphafi samnafns	capitalization
+upper4lower-noninitial	stór stafur þar sem málsgrein hefst ekki	capitalization
+upper4lower-proper	stór stafur í sérnafni þar sem hann á ekki að vera	capitalization
+collocation	fast orðasamband	collocation
+collocation-idiom	fast orðasamband með ógagnsæja merkingu	collocation
+gendered	kynjað mál, menn fyrir fólk	exclusion
+foreign-error	villa í útlendu orði	foreign
+fw	sletta, útlent orð	foreign
+adj4adv	lýsingarorð í stað atviksorðs	grammar
+adjective-inflection	lýsingarorð vitlaust beygt	grammar
+adv4adj	atviksorð í stað lýsingarorðs	grammar
+agreement	samræmi persónub. sagnar við nafnlið	grammar
+agreement-concord	samræmi innan nafnliðar	grammar
+agreement-pred	samræmi umsagnar við frumlag	grammar
+agreement-pro	samræmi fornafns við undanfara	grammar
+bad-contraction	samdráttarmynd ranglega notuð	grammar
+conjunction	vitlaus notkun á samtengingu	grammar
+cont4simple	vera að + nafnh. í stað nútíðar	grammar
+dative-sub	þágufallshneigð	grammar
+def4ind	ákveðið fyrir óákveðið	grammar
+dem-pro	hinn í stað fyrir sá; sá ekki til eða ofnotað	grammar
+dir4loc	stefna fyrir stöðu (directional for locative)	grammar
+each	villa í gagnverkandi fornöfnum	grammar
+have	hafa / eiga / vera með	grammar
+ind4def	óákveðið fyrir ákveðið	grammar
+ind4sub	framsöguháttur fyrir vh.	grammar
+indef-pro	óákveðið fornafn	grammar
+loc4dir	staða fyrir stefnu (locative for directional)	grammar
+marked4unmarked	markað í stað ómarks kyns (kvk. eða hk. notað sem ómarkað kyn)	grammar
+missing-inf-part	vantar nafnháttarmerki	grammar
+new-passive	nýja setningagerðin	grammar
+nominal-inflection	nafnorð vitlaust beygt	grammar
+noun4pro	nafnorð í stað fornafns	grammar
+past4pres	sögn í þátíð í stað nútíðar	grammar
+pers4dem	persónufornafn í staðinn fyrir ábendingarf.	grammar
+plural4singular	fleirtala í stað eintölu	grammar
+pres4past	sögn í nútíð í stað þátíðar	grammar
+pro4noun	fornafn í stað nafnorðs	grammar
+pro4reflexive	nafnorð í stað afturbeygðs fornafns	grammar
+pronoun4reflexive	persónufornafn í stað afturbeygðs fn.	grammar
+reflexive4pro	afturbeygt fornafn í stað nafnorðs	grammar
+reflexive4pro	afturbeygt fornafn í stað nafnorðs	grammar
+singular4plural	eintala í stað fleirtala	grammar
+sub4ind	viðtengingarh. fyrir fh.	grammar
+v3	sögn ranglega í þriðja sæti	grammar
+v3-subordinate	sögn ranglega í þriðja sæti eftir aukasetningu	grammar
+verb-inflection	sögn vitlaust beygð	grammar
+want	vill í stað vil	grammar
+extra-accent	broddi ofaukið	insertion
+extra-letter	bókstaf ofaukið	insertion
+extra-word	orði ofaukið	insertion
+extra-words	orðum ofaukið	insertion
+compound-collocation	samsett orð gegn hefð	nonword
+compound-nonword	samsett orð ekki til	nonword
+nonword	orðmynd er ekki til	nonword
+number4word	tala fyrir orðmynd	numbers
+word4number	orðmynd fyrir tölu	numbers
+missing-accent	brodd vantar	omission
+missing-letter	vantar staf	omission
+missing-word	orð vantar	omission
+missing-words	fleiri en eitt orð vantar	omission
+context	rangt orð í samhengi	other
+extra-bracket	sviga ofaukið	other
+missing-bracket	svigi vantar	other
+symbol4word	tákn fyrir orð	other
+abbreviation-period	punktur ranglega notaður í skammstöfun	punctuation
+bracket4slash	svigi fyrir skástrik	punctuation
+bracket4square	svigi fyrir hornklofa	punctuation
+comma-plus-conjunction	komma ranglega a undan aðaltengingu	punctuation
+comma4bracket	komma fyrir sviga	punctuation
+comma4colon	komma fyrir tvípunkt	punctuation
+comma4conjunction	komma fyrir samtengingu	punctuation
+comma4ex	komma fyrir upphrópun	punctuation
+comma4period	komma fyrir punkt	punctuation
+comma4qm	komma fyrir spurningarmerki	punctuation
+comma4semicolon	komma fyrir semíkommu	punctuation
+conjunction-drop	hluti orðs felldur niður í samsetningu	punctuation
+conjunction4comma	samtenging fyrir kommu	punctuation
+conjunction4period	samtenging fyrir punkt	punctuation
+conjunction4qm	samtenging fyrir spurningarmerki	punctuation
+dash4comma	bandstrik fyrir kommu	punctuation
+date-period	vantar punkt í dagsetningu	punctuation
+double-punctuation	tvöfalt greinarmerki	punctuation
+extra-abbreviation	skammstöfun ofaukið	punctuation
+extra-comma	auka komma	punctuation
+extra-dash	bandstriki ofaukið	punctuation
+extra-period	auka punktur	punctuation
+extra-punctuation	auka greinarmerki	punctuation
+extra-quot	gæsalöpp ofaukið	punctuation
+extra-quots	gæsalöppum ofaukið	punctuation
+extra-semicolon	semíkommu ofaukið	punctuation
+iteration-colon	greinarmerki við upptalningu, tvíp.	punctuation
+misplaced-quot	gæsalöpp á röngum stað	punctuation
+missing-colon	tvípunkt vantar	punctuation
+missing-comma	kommu vantar	punctuation
+missing-commas	kommur vantar utan um innskot	punctuation
+missing-conjunction	samtengingu vantar	punctuation
+missing-degree	vantar gráðumerki	punctuation
+missing-ex	vantar upphrópunarmerki	punctuation
+missing-period	punkt vantar	punctuation
+missing-qm	spurningamerki vantar	punctuation
+missing-quot	gæsalöpp vantar	punctuation
+missing-quots	gæsalappir vantar	punctuation
+missing-semicolon	vantar semíkommu	punctuation
+missing-slash	skrástrik vantar	punctuation
+ordinal-period	meðferð punkts með raðtölu	punctuation
+period-plus-conjunction	punktur ranglega á undan aðaltengingu	punctuation
+period4colon	punktur fyrir tvípunkt	punctuation
+period4comma	punktur fyrir kommu	punctuation
+period4conjunction	punktur fyrir samtengingu	punctuation
+period4ex	punktur fyrir upphrópun	punctuation
+period4qm	punktur fyrir spurningarmerki	punctuation
+punctuation	greinarmerki	punctuation
+qm4comma	spurningarmerki fyrir kommu	punctuation
+qm4ex	spurningarmerki fyrir upphrópun	punctuation
+qm4period	spurningarmerki fyrir punkt	punctuation
+semicolon4colon	semíkomma fyrir tvípunkt	punctuation
+semicolon4comma	semíkomma fyrir kommu	punctuation
+square4bracket	hornklofi fyrir sviga	punctuation
+word4dash	orð í stað bandstriks	punctuation
+merged-words	orðum skeytt saman	spacing
+missing-dash	bandstrik vantar í samsetningu	spacing
+missing-space	vantar bil	spacing
+split-compound	samsett orð slitið sundur	spacing
+split-word	orð slitið sundur	spacing
+split-words	fleiri en tvö orð slitin sundur	spacing
+hv4kv	hv notað í stað kv	spelling
+i4y	i fyrir y	spelling
+í4ý	í fyrir ý	spelling
+kv4hv	kv notað í stað hv	spelling
+n4nn	n fyrir nn	spelling
+ngnk	breiður sérhljóði á undan ng/nk	spelling
+nn4n	nn fyrir n	spelling
+pronoun-writing	skrifað eftir framburði	spelling
+y4i	y fyrir i	spelling
+ý4í	ý fyrir í	spelling
+fw4ice	erlent orð þýtt yfir á íslensku	style
+loan-syntax	lánuð setningagerð	style
+style	stíll	style
+taboo-word	óviðeigandi orð	style
+u4y	u í stað y	style
+unicelandic	óíslenskuleg málnotkun	style
+abbreviation4words	skammstöfun notuð í stað orða	tradition
+að4af	að notað í stað af	tradition
+af4að	af notað í stað að	tradition
+words4abbreviation	orð notuð í stað skammstöfunar	tradition
+wrong-prep	röng notkun á forsetningu	tradition
+letter-rep	staf skipt út fyrir annan	typo
+swapped-letters	stöfum víxlað	typo
+zzz	to revisit	unannotated
+xxx	unclassified	unclassified
+aux	meðferð vera og verða, hjálparsagna	wording
+wording	orðalag	wording
