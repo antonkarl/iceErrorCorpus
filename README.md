@@ -1,8 +1,13 @@
 # Icelandic Error Corpous (IceEC)
+
 Version 0.9
+
 Copyright 2020 Anton Karl Ingason, Lilja Björk Stefánsdóttir, Þórunn Arnardóttir.
+
 Repository: https://github.com/antonkarl/iceErrorCorpus
+
 Contact: anton.karl.ingason@gmail.com
+
 License: Creative Commons Attribution 4.0 International (CC BY 4.0; See repository for text)
 
 The Icelandic Error Corpus (IceEC) is a collection of texts in modern Icelandic annotated for mistakes related to spelling, grammar, and other issues. The texts are organized by genre. The current version includes sentences from student essays as well as online news texts.
