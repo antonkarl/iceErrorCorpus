@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <revision id="1">
+    <original><w>Íraskar</w></original>
+    <corrected><w>Írakskar</w></corrected>
+      <errors>
+        <error xtype="swapped-letters" idx="1-1" eid="0" />
+        <error xtype="nonword" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>öryggissveitir</w>
+  <w>hafa</w>
+  <w>fundið</w>
+  <w>lík</w>
+  <w>53</w>
+  <w>manna</w>
+  <w>í</w>
+  <w>garði</w>
+  <w>í</w>
+  <w>borginni</w>
+  <w>Hilla</w>
+  <c>,</c>
+  <w>um</w>
+  <w>100</w>
+  <w>kílómetra</w>
+  <w>suður</w>
+  <w>af</w>
+  <w>höfuðborginni</w>
+  <w>Bagdad</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Talsmenn</w>
+  <w>yfirvalda</w>
+  <w>segja</w>
+  <w>mennina</w>
+  <w>hafa</w>
+  <w>verið</w>
+  <revision id="2">
+    <original><w>bundnir</w></original>
+    <corrected><w>bundna</w></corrected>
+      <errors>
+        <error xtype="agreement-pred" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>síðar</w>
+  <revision id="3">
+    <original><w>myrtir</w></original>
+    <corrected><w>myrta</w></corrected>
+      <errors>
+        <error xtype="agreement-pred" eid="0" />
+      </errors>
+  </revision>
+  <w>líkt</w>
+  <w>og</w>
+  <w>um</w>
+  <w>fjöldaaftöku</w>
+  <w>væri</w>
+  <w>að</w>
+  <w>ræða</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Höfðu</w>
+  <w>þeir</w>
+  <w>verið</w>
+  <w>með</w>
+  <w>bundið</w>
+  <w>fyrir</w>
+  <w>augun</w>
+  <c>,</c>
+  <w>bundnir</w>
+  <w>á</w>
+  <w>höndum</w>
+  <w>og</w>
+  <revision id="4">
+    <original></original>
+    <corrected><w>með</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>skotsár</w>
+  <w>bæði</w>
+  <w>á</w>
+  <w>höfði</w>
+  <w>og</w>
+  <w>bringu</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Á</w>
+  <w>vef</w>
+  <w>SvD</w>
+  <w>segir</w>
+  <w>að</w>
+  <w>starfsmaður</w>
+  <revision id="5">
+    <original><w>á</w></original>
+    <corrected><w>í</w></corrected>
+      <errors>
+        <error xtype="wrong-prep" eid="0" />
+      </errors>
+  </revision>
+  <w>líkhúsi</w>
+  <w>í</w>
+  <w>borginni</w>
+  <w>telji</w>
+  <w>að</w>
+  <w>fórnarlömbin</w>
+  <w>hafi</w>
+  <w>látist</w>
+  <w>fyrir</w>
+  <revision id="6">
+    <original><w>minnst</w></original>
+    <corrected><w>að</w><w>minnsta</w><w>kosti</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>einni</w>
+  <w>viku</w>
+  <w>síðan</w>
+  <c>,</c>
+  <w>en</w>
+  <w>rannsókn</w>
+  <w>málsins</w>
+  <w>stendur</w>
+  <w>nú</w>
+  <w>yfir</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

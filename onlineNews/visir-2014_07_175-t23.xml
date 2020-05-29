@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Óskar</w>
+  <w>Bjarni</w>
+  <w>Óskarsson</w>
+  <c>,</c>
+  <w>fyrrverandi</w>
+  <w>þjálfari</w>
+  <w>karlaliðs</w>
+  <w>Vals</w>
+  <w>og</w>
+  <w>aðstoðarþjálfari</w>
+  <w>íslenska</w>
+  <w>landsliðsins</w>
+  <w>í</w>
+  <w>handbolta</w>
+  <c>,</c>
+  <w>verður</w>
+  <w>aðalþjálfari</w>
+  <w>meistaraflokks</w>
+  <w>kvenna</w>
+  <w>hjá</w>
+  <w>Val</w>
+  <w>á</w>
+  <w>næstu</w>
+  <w>leiktíð</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Þetta</w>
+  <w>kemur</w>
+  <w>fram</w>
+  <w>í</w>
+  <w>Morgunblaðinu</w>
+  <w>í</w>
+  <w>dag</w>
+  <revision id="1">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>en</w>
+  <w>Ómar</w>
+  <w>Ómarsson</w>
+  <c>,</c>
+  <w>formaður</w>
+  <w>handknattleiksdeildar</w>
+  <w>Vals</w>
+  <c>,</c>
+  <w>staðfestir</w>
+  <w>tíðindin</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Stefán</w>
+  <w>Arnarson</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>gerði</w>
+  <w>Val</w>
+  <w>fjórum</w>
+  <w>sinnum</w>
+  <w>að</w>
+  <w>meisturum</w>
+  <w>á</w>
+  <w>síðustu</w>
+  <w>fimm</w>
+  <w>árum</w>
+  <c>,</c>
+  <w>lét</w>
+  <w>af</w>
+  <w>störfum</w>
+  <w>eftir</w>
+  <w>síðasta</w>
+  <w>tímabil</w>
+  <w>og</w>
+  <w>samdi</w>
+  <w>við</w>
+  <w>Fram</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Óskar</w>
+  <w>Bjarni</w>
+  <w>var</w>
+  <w>aðstoðarmaður</w>
+  <w>hans</w>
+  <w>á</w>
+  <w>síðustu</w>
+  <w>leiktíð</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Breytingar</w>
+  <w>verða</w>
+  <w>á</w>
+  <w>Valsliðinu</w>
+  <w>frá</w>
+  <w>síðustu</w>
+  <w>leiktíð</w>
+  <w>en</w>
+  <revision id="2">
+    <original><w>lykilmenn</w></original>
+    <corrected><w>lykilkonur</w></corrected>
+      <errors>
+        <error xtype="gendered" idx="2-1" eid="0" />
+        <error xtype="wording" idx="2-1" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>borð</w>
+  <w>við</w>
+  <w>Hrafnhildi</w>
+  <w>Skúladóttur</w>
+  <c>,</c>
+  <revision id="3">
+    <original><w>Guðný</w></original>
+    <corrected><w>Guðnýju</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
+  <w>Jenny</w>
+  <w>Ásmundsdóttur</w>
+  <w>og</w>
+  <revision id="4">
+    <original><w>Önnur</w></original>
+    <corrected><w>Önnu</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="4-1" eid="0" />
+        <error xtype="nominal-inflection" idx="4-1" eid="0" />
+      </errors>
+  </revision>
+  <w>Úrsúlu</w>
+  <w>Guðmundsdóttur</w>
+  <w>eru</w>
+  <w>horfnar</w>
+  <w>á</w>
+  <w>braut</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

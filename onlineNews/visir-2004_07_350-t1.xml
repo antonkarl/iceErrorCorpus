@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <revision id="1">
+    <original><w>Forystumenn</w></original>
+    <corrected><w>Forystufólk</w></corrected>
+      <errors>
+        <error xtype="gendered" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>stjórnarandstöðunnar</w>
+  <revision id="2">
+    <original><w>telja</w></original>
+    <corrected><w>telur</w></corrected>
+      <errors>
+        <error xtype="dep" depId="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>Framsóknarflokknum</w>
+  <w>standi</w>
+  <w>betri</w>
+  <w>vist</w>
+  <w>til</w>
+  <w>boða</w>
+  <w>í</w>
+  <w>ríkisstjórn</w>
+  <w>en</w>
+  <w>með</w>
+  <w>Sjálfstæðisflokknum</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <revision id="3">
+    <original><w>Þeir</w><w>reikna</w></original>
+    <corrected><w>Það</w><w>reiknar</w></corrected>
+      <errors>
+        <error xtype="dep" depId="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>þó</w>
+  <w>ekki</w>
+  <w>með</w>
+  <w>því</w>
+  <w>að</w>
+  <revision id="4">
+    <original><w>framsóknarmenn</w></original>
+    <corrected><w>Framsóknarmenn</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
+  <w>slíti</w>
+  <w>stjórnarsamstarfinu</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Í</w>
+  <w>þætti</w>
+  <w>Arnþrúðar</w>
+  <w>Karlsdóttur</w>
+  <w>á</w>
+  <w>Bylgjunni</w>
+  <w>í</w>
+  <w>dag</w>
+  <w>taldi</w>
+  <w>Össur</w>
+  <w>Skarphéðinsson</w>
+  <revision id="5">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-commas" idx="5-1" eid="0" />
+      </errors>
+  </revision>
+  <w>formaður</w>
+  <w>Samfylkingarinnar</w>
+  <revision id="6">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="5-1" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>Framsóknarflokkurinn</w>
+  <w>hefði</w>
+  <w>hvað</w>
+  <w>eftir</w>
+  <w>annað</w>
+  <w>gleypt</w>
+  <w>við</w>
+  <w>hverju</w>
+  <w>vandræðamálinu</w>
+  <w>á</w>
+  <w>eftir</w>
+  <w>öðru</w>
+  <w>frá</w>
+  <revision id="7">
+    <original><w>sjálfstæðismönnum</w></original>
+    <corrected><w>Sjálfstæðismönnum</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>við</w>
+  <w>slíkar</w>
+  <w>aðstæður</w>
+  <w>yrði</w>
+  <w>tíð</w>
+  <w>Halldórs</w>
+  <w>Ásgrímssonar</w>
+  <revision id="8">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>forsætisráðherra</w>
+  <w>með</w>
+  <revision id="9">
+    <original><w>sjálfstæðismönnum</w><c>,</c></original>
+    <corrected><w>Sjálfstæðismönnum</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
+  <w>samfelld</w>
+  <w>píslarganga</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Hann</w>
+  <w>benti</w>
+  <w>á</w>
+  <w>að</w>
+  <w>Halldór</w>
+  <w>ætti</w>
+  <w>fleiri</w>
+  <w>möguleika</w>
+  <c>;</c>
+  <w>til</w>
+  <w>væri</w>
+  <w>önnur</w>
+  <w>vist</w>
+  <w>í</w>
+  <w>ríkisstjórn</w>
+  <w>en</w>
+  <w>með</w>
+  <revision id="10">
+    <original><w>sjálfstæðisflokki</w></original>
+    <corrected><w>Sjálfstæðisflokknum</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" idx="10-1" eid="0" />
+        <error xtype="ind4def" idx="10-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Össur</w>
+  <w>telur</w>
+  <w>framtíðina</w>
+  <w>verða</w>
+  <w>ríkisstjórninni</w>
+  <w>mjög</w>
+  <w>þungbæra</w>
+  <w>því</w>
+  <w>flokkarnir</w>
+  <w>tveir</w>
+  <w>eigi</w>
+  <w>eftir</w>
+  <w>að</w>
+  <w>rífast</w>
+  <w>um</w>
+  <w>svo</w>
+  <w>margt</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Þeir</w>
+  <w>eigi</w>
+  <w>eftir</w>
+  <w>að</w>
+  <w>reyna</w>
+  <w>að</w>
+  <w>leiða</w>
+  <w>þetta</w>
+  <w>mál</w>
+  <w>til</w>
+  <w>lykta</w>
+  <c>,</c>
+  <w>takast</w>
+  <w>á</w>
+  <w>um</w>
+  <w>skattamálin</w>
+  <c>,</c>
+  <w>heilbrigðismálin</w>
+  <w>og</w>
+  <w>menntamálin</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>Össur</w>
+  <w>telur</w>
+  <w>þó</w>
+  <w>ekkert</w>
+  <w>benda</w>
+  <w>til</w>
+  <w>að</w>
+  <revision id="11">
+    <original><w>framsóknarmenn</w></original>
+    <corrected><w>Framsóknarmenn</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
+  <w>söðli</w>
+  <w>um</w>
+  <w>og</w>
+  <w>biðli</w>
+  <w>til</w>
+  <w>stjórnarandstöðuflokkanna</w>
+  <c>,</c>
+  <w>og</w>
+  <w>undir</w>
+  <w>það</w>
+  <w>tekur</w>
+  <w>Steingrímur</w>
+  <w>J.</w>
+  <w>Sigfússon</w>
+  <c>,</c>
+  <w>formaður</w>
+  <w>Vinstri</w>
+  <w>grænna</w>
+  <c>.</c>
+</s>
+<s n="8">
+  <w>Hann</w>
+  <w>segir</w>
+  <w>Framsóknarflokkinn</w>
+  <w>vera</w>
+  <w>búinn</w>
+  <w>að</w>
+  <w>borga</w>
+  <w>svo</w>
+  <w>mikið</w>
+  <w>inn</w>
+  <w>á</w>
+  <revision id="12">
+    <original><w>15.</w><w>septmeber</w></original>
+    <corrected><w>15. september</w></corrected>
+      <errors>
+        <error xtype="swapped-letters" idx="12-1" eid="0" />
+        <error xtype="nonword" idx="12-1" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>þeir</w>
+  <w>muni</w>
+  <c>„</c>
+  <w>ekki</w>
+  <w>afskrifa</w>
+  <w>það</w>
+  <w>allt</w>
+  <w>saman</w>
+  <w>bara</w>
+  <w>út</w>
+  <w>af</w>
+  <w>þessu</w>
+  <w>máli</w>
+  <c>.</c>
+</s>
+<s n="9">
+  <w>Hins</w>
+  <w>vegar</w>
+  <w>kann</w>
+  <w>vel</w>
+  <w>að</w>
+  <w>vera</w>
+  <w>að</w>
+  <w>þeir</w>
+  <w>nái</w>
+  <w>að</w>
+  <w>slá</w>
+  <w>nýtt</w>
+  <w>met</w>
+  <w>í</w>
+  <w>undirlægjuhætti</w>
+  <w>gagnvart</w>
+  <w>Sjálfstæðisflokknum</w>
+  <c>,</c>
+  <c>“</c>
+  <w>segir</w>
+  <w>Steingrímur</w>
+  <c>.</c>
+</s>
+<s n="10">
+  <w>Hann</w>
+  <w>spáir</w>
+  <w>því</w>
+  <w>að</w>
+  <w>stjórnarsamstarfið</w>
+  <w>hangi</w>
+  <w>saman</w>
+  <w>á</w>
+  <w>löngun</w>
+  <w>stjórnarliða</w>
+  <w>til</w>
+  <w>að</w>
+  <w>sitja</w>
+  <w>í</w>
+  <w>valdastólum</w>
+  <c>.</c>
+</s>
+<s n="11">
+  <w>Ekki</w>
+  <w>náðist</w>
+  <w>í</w>
+  <w>Guðjón</w>
+  <w>A.</w>
+  <w>Kristjánsson</w>
+  <c>,</c>
+  <w>formann</w>
+  <w>Frjálslynda</w>
+  <w>flokksins</w>
+  <c>,</c>
+  <w>þar</w>
+  <w>sem</w>
+  <w>hann</w>
+  <w>heldur</w>
+  <w>nú</w>
+  <w>upp</w>
+  <w>á</w>
+  <w>sextugsafmæli</w>
+  <w>sitt</w>
+  <w>á</w>
+  <revision id="13">
+    <original><w>Vesturfjöðum</w></original>
+    <corrected><w>Vestfjörðum</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="13-1" eid="0" />
+        <error xtype="nonword" idx="13-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

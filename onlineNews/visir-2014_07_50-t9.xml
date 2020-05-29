@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Eins</w>
+  <w>og</w>
+  <w>tilkynnt</w>
+  <w>var</w>
+  <w>um</w>
+  <w>í</w>
+  <w>gær</w>
+  <w>neyddist</w>
+  <w>hljómsveitin</w>
+  <w>Swans</w>
+  <w>til</w>
+  <w>að</w>
+  <w>afbóka</w>
+  <w>sig</w>
+  <w>á</w>
+  <w>síðustu</w>
+  <w>stundu</w>
+  <w>vegna</w>
+  <w>veikinda</w>
+  <revision id="1">
+    <original><c>,</c><w>en</w><w>nú</w></original>
+    <corrected><c>.</c><w>Nú</w></corrected>
+      <errors>
+        <error xtype="comma4period" idx="1-1" eid="0" />
+        <error xtype="extra-word" idx="1-2" eid="0" />
+      </errors>
+  </revision>
+  <w>hefur</w>
+  <w>verið</w>
+  <w>tilkynnt</w>
+  <w>um</w>
+  <w>hvaða</w>
+  <w>sveit</w>
+  <w>það</w>
+  <revision id="2">
+    <original><w>er</w></original>
+    <corrected><w>verður</w></corrected>
+      <errors>
+        <error xtype="aux" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>kemur</w>
+  <w>til</w>
+  <w>með</w>
+  <w>að</w>
+  <w>fylla</w>
+  <w>í</w>
+  <w>skarðið</w>
+  <w>fyrir</w>
+  <w>hljómsveitina</w>
+  <w>annað</w>
+  <w>kvöld</w>
+  <w>á</w>
+  <w>hátíðinni</w>
+  <c>,</c>
+  <revision id="3">
+    <original></original>
+    <corrected><w>það</w><w>verður</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <w>Spiritualized</w>
+  <w>Acoustic</w>
+  <w>Mainline</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Hljómsveitina</w>
+  <w>Spiritualized</w>
+  <w>þarf</w>
+  <w>vart</w>
+  <w>að</w>
+  <w>kynna</w>
+  <c>,</c>
+  <w>en</w>
+  <w>Spiritualized</w>
+  <w>Acoustic</w>
+  <w>Mainline</w>
+  <w>samanstendur</w>
+  <w>af</w>
+  <w>forsprakka</w>
+  <w>Spiritualized</w>
+  <c>,</c>
+  <w>J</w>
+  <w>Spaceman</w>
+  <c>,</c>
+  <w>ásamt</w>
+  <w>gítarleikara</w>
+  <w>sveitarinnar</w>
+  <c>,</c>
+  <w>Tony</w>
+  <w>Goster</w>
+  <revision id="4">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>auk</w>
+  <w>Amiinu</w>
+  <w>á</w>
+  <w>strengjum</w>
+  <w>og</w>
+  <w>íslenskum</w>
+  <w>söngvurum</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Hljómsveitin</w>
+  <w>kemur</w>
+  <w>fram</w>
+  <w>í</w>
+  <w>Andrews</w>
+  <w>Theatre</w>
+  <w>annað</w>
+  <w>kvöld</w>
+  <revision id="5">
+    <original><w>klukkan 21.45</w></original>
+    <corrected><w>klukkan 21:45</w></corrected>
+      <errors>
+        <error xtype="period4colon" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>breytist</w>
+  <w>því</w>
+  <w>dagskráin</w>
+  <w>örlítið</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Hér</w>
+  <w>má</w>
+  <w>nálgast</w>
+  <w>dagskránna</w>
+  <w>í</w>
+  <w>heild</w>
+  <w>sinni</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <revision id="6">
+    <original><w>Auk</w><w>heildardagskrár</w><w>tónleika</w></original>
+    <corrected><w>Heildardagskrá</w><w>tónleikanna</w></corrected>
+      <errors>
+        <error xtype="extra-word" idx="6-1" eid="0" />
+        <error xtype="ind4def" idx="6-2" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>hátíðinni</w>
+  <c>,</c>
+  <w>auk</w>
+  <revision id="7">
+    <original><w>kvikmynda</w><w>og</w><w>bókalista</w></original>
+    <corrected><w>kvikmynda- og bókalista</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>vegum</w>
+  <w>Portishead</w>
+  <w>og</w>
+  <w>HAM</w>
+  <c>,</c>
+  <w>var</w>
+  <w>nýlega</w>
+  <revision id="8">
+    <original></original>
+    <corrected><w>birt</w><w>og</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <w>tilkynnt</w>
+  <revision id="9">
+    <original><w>um</w></original>
+    <corrected><w>hefur</w><w>verið</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>dagskrá</w>
+  <w>yfir</w>
+  <w>aðrar</w>
+  <w>uppákomur</w>
+  <w>á</w>
+  <w>hátíðardögunum</w>
+  <c>,</c>
+  <w>en</w>
+  <w>þar</w>
+  <w>á</w>
+  <w>meðal</w>
+  <w>er</w>
+  <w>bókabingó</w>
+  <c>,</c>
+  <revision id="10">
+    <original><w>pöbbkviss</w></original>
+    <corrected><w>kráargáta</w></corrected>
+      <errors>
+        <error xtype="fw" idx="10-1" eid="0" />
+        <error xtype="style" idx="10-1" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>fótboltamót</w>
+  <w>og</w>
+  <w>leiðsögn</w>
+  <w>um</w>
+  <w>hátíðarsvæðið</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>
