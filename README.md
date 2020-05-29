@@ -1,4 +1,4 @@
-# Icelandic Error Corpous (IceEC)
+# Icelandic Error Corpus (IceEC)
 
 Version 0.9
 
