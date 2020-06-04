@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Tuttugu</w>
+  <w>og</w>
+  <w>eins</w>
+  <w>árs</w>
+  <w>gamall</w>
+  <w>Akureyringur</w>
+  <w>var</w>
+  <w>í</w>
+  <w>gær</w>
+  <w>dæmdur</w>
+  <w>í</w>
+  <w>þrjátíu</w>
+  <w>daga</w>
+  <w>skilorðsbundið</w>
+  <w>fangelsi</w>
+  <c>,</c>
+  <w>til</w>
+  <revision id="1">
+    <original><w>sjötiu</w><w>þúsund</w></original>
+    <corrected><w>sjötíu þúsund</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
+  <w>króna</w>
+  <w>sektar</w>
+  <w>og</w>
+  <revision id="2">
+    <original><w>ökuleyfissviptingu</w></original>
+    <corrected><w>var</w><w>sviptur</w><w>ökuleyfi</w></corrected>
+      <errors>
+        <error xtype="missing-word" idx="2-1" eid="0" />
+        <error xtype="wording" idx="2-2" eid="0" />
+      </errors>
+  </revision>
+  <w>fyrir</w>
+  <w>fíkniefnabrot</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Pilturinn</w>
+  <w>hafði</w>
+  <w>ekið</w>
+  <w>bíl</w>
+  <w>um</w>
+  <w>Akureyrarbæ</w>
+  <w>undir</w>
+  <w>áhrifum</w>
+  <w>fíkniefna</w>
+  <w>í</w>
+  <w>janúar</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Þá</w>
+  <w>var</w>
+  <w>hann</w>
+  <w>með</w>
+  <w>tæp</w>
+  <revision id="3">
+    <original><w>10</w></original>
+    <corrected><w>tíu</w></corrected>
+      <errors>
+        <error xtype="number4word" eid="0" />
+      </errors>
+  </revision>
+  <w>grömm</w>
+  <w>af</w>
+  <w>grasi</w>
+  <w>í</w>
+  <w>bílnum</w>
+  <c>,</c>
+  <w>en</w>
+  <w>við</w>
+  <w>húsleit</w>
+  <w>hjá</w>
+  <w>félaga</w>
+  <w>hans</w>
+  <w>fundust</w>
+  <w>tæp</w>
+  <w>100</w>
+  <w>grömm</w>
+  <w>af</w>
+  <w>efninu</w>
+  <w>að</w>
+  <w>auki</w>
+  <w>í</w>
+  <w>sameiginlegri</w>
+  <w>vörslu</w>
+  <w>þeirra</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Dómurinn</w>
+  <w>féll</w>
+  <w>fyrir</w>
+  <w>héraðsdómi</w>
+  <w>Norðurlands</w>
+  <w>eystra</w>
+  <c>,</c>
+  <w>en</w>
+  <w>drengurinn</w>
+  <w>greiddi</w>
+  <w>einnig</w>
+  <w>sakarkostnað</w>
+  <w>vegna</w>
+  <w>málsins</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

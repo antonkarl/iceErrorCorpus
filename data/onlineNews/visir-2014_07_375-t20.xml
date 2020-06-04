@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Lewis</w>
+  <w>Hamilton</w>
+  <revision id="1">
+    <original></original>
+    <corrected><w>var</w></corrected>
+      <errors>
+        <error xtype="wording" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>Mercedes</w>
+  <revision id="2">
+    <original><c>.</c></original>
+    <corrected><w>þegar</w><w>hann</w></corrected>
+      <errors>
+        <error xtype="extra-period" eid="0" />
+        <error xtype="dep" depId="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>vann</w>
+  <w>breska</w>
+  <w>kappaksturinn</w>
+  <revision id="3">
+    <original><c>.</c><w>Eftir</w></original>
+    <corrected><w>eftir</w></corrected>
+      <errors>
+        <error xtype="extra-period" eid="0" />
+      </errors>
+  </revision>
+  <w>gríðarlega</w>
+  <w>dramatíska</w>
+  <w>keppni</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Valtteri</w>
+  <w>Bottas</w>
+  <w>á</w>
+  <w>Williams</w>
+  <w>var</w>
+  <w>annar</w>
+  <w>og</w>
+  <w>Daniel</w>
+  <w>Ricciardo</w>
+  <w>á</w>
+  <w>Red</w>
+  <w>Bull</w>
+  <w>varð</w>
+  <w>þriðji</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Kimi</w>
+  <w>Raikkonen</w>
+  <w>ók</w>
+  <w>á</w>
+  <w>Felipe</w>
+  <w>Massa</w>
+  <w>á</w>
+  <w>fyrsta</w>
+  <w>hring</w>
+  <w>og</w>
+  <w>báðir</w>
+  <w>duttu</w>
+  <w>út</w>
+  <w>keppni</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Þessi</w>
+  <w>árekstur</w>
+  <w>gerði</w>
+  <w>það</w>
+  <w>að</w>
+  <w>verkum</w>
+  <w>að</w>
+  <w>keppnin</w>
+  <w>var</w>
+  <w>stöðvuð</w>
+  <w>og</w>
+  <w>endurræst</w>
+  <w>eftir</w>
+  <w>töluverða</w>
+  <w>töf</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Keppnin</w>
+  <w>hófst</w>
+  <w>þá</w>
+  <w>aftur</w>
+  <w>á</w>
+  <w>eftir</w>
+  <w>öryggisbílnum</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Nico</w>
+  <w>Rosberg</w>
+  <revision id="4">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>tilkynnti</w>
+  <revision id="5">
+    <original><w>gírkasavandræði</w></original>
+    <corrected><w>gírkassavandræði</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="5-1" eid="0" />
+        <error xtype="nonword" idx="5-1" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>29.</w>
+  <w>hring</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>Hann</w>
+  <w>missti</w>
+  <w>forystuna</w>
+  <w>til</w>
+  <w>liðsfélaga</w>
+  <w>síns</w>
+  <c>,</c>
+  <w>Lewis</w>
+  <w>Hamilton</w>
+  <c>.</c>
+</s>
+<s n="8">
+  <w>Rosberg</w>
+  <w>datt</w>
+  <w>úr</w>
+  <w>keppni</w>
+  <w>í</w>
+  <w>fyrsta</w>
+  <w>sinn</w>
+  <w>á</w>
+  <w>tímabilinu</w>
+  <c>.</c>
+</s>
+<s n="9">
+  <c>„</c>
+  <w>Þetta</w>
+  <w>gerðist</w>
+  <w>hægt</w>
+  <w>og</w>
+  <w>rólega</w>
+  <c>,</c>
+  <w>byrjaði</w>
+  <w>á</w>
+  <w>hring</w>
+  <w>20</w>
+  <c>.</c>
+</s>
+<s n="10">
+  <w>Ég</w>
+  <w>reyndi</w>
+  <w>að</w>
+  <w>bjarga</w>
+  <w>gírkassanum</w>
+  <w>með</w>
+  <w>því</w>
+  <w>að</w>
+  <w>breyta</w>
+  <w>aksturslaginu</w>
+  <revision id="6">
+    <original><c>.</c><w>En</w></original>
+    <corrected><w>en</w></corrected>
+      <errors>
+        <error xtype="extra-period" eid="0" />
+      </errors>
+  </revision>
+  <w>það</w>
+  <w>dugði</w>
+  <w>ekki</w>
+  <w>til</w>
+  <c>,</c>
+  <c>“</c>
+  <w>sagði</w>
+  <w>Rosberg</w>
+  <w>eftir</w>
+  <w>að</w>
+  <w>hann</w>
+  <w>hætti</w>
+  <w>keppni</w>
+  <c>.</c>
+</s>
+<s n="11">
+  <w>Eftir</w>
+  <w>rosaleg</w>
+  <w>baráttu</w>
+  <w>tókst</w>
+  <w>Sebastian</w>
+  <w>Vettel</w>
+  <w>að</w>
+  <w>komast</w>
+  <w>fram</w>
+  <w>úr</w>
+  <w>Fernando</w>
+  <w>Alonso</w>
+  <c>.</c>
+</s>
+<s n="12">
+  <w>Þeir</w>
+  <w>voru</w>
+  <w>búnir</w>
+  <w>að</w>
+  <w>berjast</w>
+  <w>í</w>
+  <w>þó</w>
+  <w>nokkurn</w>
+  <w>tíma</w>
+  <c>.</c>
+</s>
+<s n="13">
+  <w>Hamilton</w>
+  <w>vann</w>
+  <w>síðast</w>
+  <w>á</w>
+  <w>Silverstone</w>
+  <w>brautinni</w>
+  <w>6. júlí 2008</w>
+  <c>.</c>
+</s>
+<s n="14">
+  <w>Það</w>
+  <w>var</w>
+  <w>síðasta</w>
+  <w>skipti</w>
+  <w>sem</w>
+  <w>breskur</w>
+  <w>ökumaður</w>
+  <w>vann</w>
+  <w>Formúlu</w>
+  <w>1</w>
+  <w>keppni</w>
+  <w>á</w>
+  <w>Silverstone</w>
+  <w>brautinni</w>
+  <c>.</c>
+</s>
+<s n="15">
+  <w>Valtteri</w>
+  <w>Bottas</w>
+  <w>átti</w>
+  <w>einn</w>
+  <w>besta</w>
+  <w>akstur</w>
+  <w>dagsins</w>
+  <revision id="7">
+    <original><w>en</w></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="conjunction4comma" eid="0" />
+      </errors>
+  </revision>
+  <w>hann</w>
+  <w>ræsti</w>
+  <w>17.</w>
+  <w>en</w>
+  <w>endaði</w>
+  <w>í</w>
+  <w>2.</w>
+  <w>sæti</w>
+  <c>.</c>
+</s>
+<s n="16">
+  <w>Hann</w>
+  <w>náði</w>
+  <w>öðru</w>
+  <w>verðlaunasæti</w>
+  <w>sínu</w>
+  <w>í</w>
+  <w>röð</w>
+  <c>,</c>
+  <w>eftir</w>
+  <revision id="8">
+    <original><w>a</w></original>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="missing-letter" eid="0" />
+      </errors>
+  </revision>
+  <w>hafa</w>
+  <w>náð</w>
+  <w>sínu</w>
+  <w>fyrsta</w>
+  <w>í</w>
+  <w>síðustu</w>
+  <w>keppni</w>
+  <c>.</c>
+</s>
+<s n="17">
+  <c>„</c>
+  <w>Auðvitað</w>
+  <w>vill</w>
+  <w>maður</w>
+  <w>aldrei</w>
+  <w>að</w>
+  <w>liðsfélagi</w>
+  <w>falli</w>
+  <w>úr</w>
+  <w>keppni</w>
+  <w>en</w>
+  <w>ég</w>
+  <w>þurfti</w>
+  <w>virkilega</w>
+  <w>á</w>
+  <w>þessu</w>
+  <w>að</w>
+  <w>halda</w>
+  <c>,</c>
+  <c>“</c>
+  <w>sagði</w>
+  <w>Hamilton</w>
+  <c>.</c>
+</s>
+<s n="18">
+  <c>„</c>
+  <w>Markmiðið</w>
+  <w>var</w>
+  <w>að</w>
+  <w>enda</w>
+  <w>eins</w>
+  <w>ofarlega</w>
+  <w>og</w>
+  <w>hægt</w>
+  <w>var</w>
+  <c>,</c>
+  <w>liðið</w>
+  <w>hefur</w>
+  <w>verið</w>
+  <w>frábært</w>
+  <w>og</w>
+  <w>bíllinn</w>
+  <w>er</w>
+  <w>góður</w>
+  <c>,</c>
+  <c>“</c>
+  <w>sagði</w>
+  <w>Bottas</w>
+  <c>.</c>
+</s>
+<s n="19">
+  <c>„</c>
+  <w>Við</w>
+  <w>rétt</w>
+  <w>náðum</w>
+  <w>að</w>
+  <w>halda</w>
+  <w>Jenson</w>
+  <w>fyrir</w>
+  <w>aftan</w>
+  <w>okkur</w>
+  <c>,</c>
+  <w>einn</w>
+  <w>hringur</w>
+  <w>í</w>
+  <w>viðbót</w>
+  <w>hefði</w>
+  <w>gert</w>
+  <w>þetta</w>
+  <w>virkilega</w>
+  <w>erfitt</w>
+  <c>,</c>
+  <c>“</c>
+  <w>sagði</w>
+  <w>Ricciardo</w>
+  <c>.</c>
+</s>
+<s n="20">
+  <w>Niðurstaða</w>
+  <w>keppninnar</w>
+  <w>varð</w>
+  <c>:</c>
+  <w>1</w>
+  <c>.</c>
+</s>
+<s n="21">
+  <w>Lewis</w>
+  <w>Hamilton-Mercedes</w>
+  <c>-</c>
+  <w>25</w>
+  <w>stig</w>
+  <w>2</w>
+  <c>.</c>
+</s>
+<s n="22">
+  <w>Valtteri</w>
+  <w>Bottas-Williams</w>
+  <c>-</c>
+  <w>18</w>
+  <w>stig</w>
+  <w>3</w>
+  <c>.</c>
+</s>
+<s n="23">
+  <w>Daniel</w>
+  <w>Ricciardo-Red</w>
+  <w>Bull</w>
+  <c>-</c>
+  <w>15</w>
+  <w>stig</w>
+  <w>4</w>
+  <c>.</c>
+</s>
+<s n="24">
+  <w>Jenson</w>
+  <w>Button-McLaren</w>
+  <c>-</c>
+  <w>12</w>
+  <w>stig</w>
+  <w>5</w>
+  <c>.</c>
+</s>
+<s n="25">
+  <w>Sebastian</w>
+  <w>Vettel-Red</w>
+  <w>Bull</w>
+  <c>-</c>
+  <w>10</w>
+  <w>stig</w>
+  <w>6</w>
+  <c>.</c>
+</s>
+<s n="26">
+  <w>Fernando</w>
+  <w>Alonso-Ferrari</w>
+  <c>-</c>
+  <w>8</w>
+  <w>stig</w>
+  <w>7</w>
+  <c>.</c>
+</s>
+<s n="27">
+  <w>Kevin</w>
+  <w>Magnussen-McLaren</w>
+  <c>-</c>
+  <w>6</w>
+  <w>stig</w>
+  <w>8</w>
+  <c>.</c>
+</s>
+<s n="28">
+  <w>Nico</w>
+  <w>Hulkenberg-Force</w>
+  <w>India</w>
+  <c>-</c>
+  <w>4</w>
+  <w>stig</w>
+  <w>9</w>
+  <c>.</c>
+</s>
+<s n="29">
+  <w>Daniil</w>
+  <w>Kvyat-Toro</w>
+  <w>Rosso</w>
+  <c>-</c>
+  <w>2</w>
+  <w>stig</w>
+  <w>10</w>
+  <c>.</c>
+</s>
+<s n="30">
+  <w>Jean-Eric</w>
+  <w>Vergne-Toro</w>
+  <w>Rosso</w>
+  <c>-</c>
+  <w>1</w>
+  <w>stig</w>
+  <w>11</w>
+  <c>.</c>
+</s>
+<s n="31">
+  <w>Sergio</w>
+  <w>Perez-Force</w>
+  <w>India</w>
+  <w>12</w>
+  <c>.</c>
+</s>
+<s n="32">
+  <w>Romain</w>
+  <w>Grosjean-Lotus</w>
+  <w>13</w>
+  <c>.</c>
+</s>
+<s n="33">
+  <w>Adrian</w>
+  <w>Sutil-Sauber</w>
+  <w>14</w>
+  <c>.</c>
+</s>
+<s n="34">
+  <w>Jules</w>
+  <w>Bianchi-Marussia</w>
+  <w>15</w>
+  <c>.</c>
+</s>
+<s n="35">
+  <w>Kamui</w>
+  <w>Kobayashi-Caterham</w>
+  <w>16</w>
+  <c>.</c>
+</s>
+<s n="36">
+  <w>Max</w>
+  <w>Chilton-Marussia</w>
+  <w>Þessir</w>
+  <w>duttu</w>
+  <w>úr</w>
+  <w>keppni</w>
+  <c>:</c>
+  <w>Pastor</w>
+  <w>Maldonado-Lotus</w>
+  <w>Esteban</w>
+  <w>Gutierrez-Sauber</w>
+  <w>Marcus</w>
+  <w>Ericsson-Caterham</w>
+  <w>Felipe</w>
+  <w>Massa-Williams</w>
+  <w>Nico</w>
+  <w>Rosberg-Mercedes</w>
+  <w>Kimi</w>
+  <w>Raikkonen-Ferrari</w>
+</s>
+</p></body></text>
+</TEI>

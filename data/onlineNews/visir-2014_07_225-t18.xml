@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Kona</w>
+  <w>og</w>
+  <w>níu</w>
+  <w>ára</w>
+  <w>gamall</w>
+  <w>sonur</w>
+  <w>hennar</w>
+  <w>lentu</w>
+  <w>í</w>
+  <w>sjálfheldu</w>
+  <w>í</w>
+  <w>hlíðum</w>
+  <w>Ingólfsfjalls</w>
+  <w>í</w>
+  <w>gærkvöldi</w>
+  <w>eftir</w>
+  <w>að</w>
+  <w>þau</w>
+  <w>höfðu</w>
+  <w>farið</w>
+  <w>út</w>
+  <w>fyrir</w>
+  <w>hefðbundna</w>
+  <w>gönguleið</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Þau</w>
+  <w>kölluðu</w>
+  <w>eftir</w>
+  <w>aðstoð</w>
+  <w>og</w>
+  <revision id="1">
+    <original><w>fóru</w><w>björgunarsveitarmenn</w><w>fá</w></original>
+    <corrected><w>fór</w><w>björgunarsveitarfólk</w><w>frá</w></corrected>
+      <errors>
+        <error xtype="gendered" idx="1-1" eid="0" />
+        <error xtype="missing-letter" idx="1-2" eid="0" />
+      </errors>
+  </revision>
+  <w>Selfossi</w>
+  <w>og</w>
+  <w>Hveragerði</w>
+  <w>þeim</w>
+  <w>til</w>
+  <w>hjálpar</w>
+  <w>og</w>
+  <w>tóku</w>
+  <w>sjúkraflutningamenn</w>
+  <w>á</w>
+  <w>móti</w>
+  <w>þeim</w>
+  <w>þegar</w>
+  <w>niður</w>
+  <w>kom</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Þau</w>
+  <w>voru</w>
+  <revision id="2">
+    <original><w>hinsvegar</w></original>
+    <corrected><w>hins</w><w>vegar</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
+  <w>heil</w>
+  <w>á</w>
+  <w>húfi</w>
+  <revision id="3">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>en</w>
+  <revision id="4">
+    <original></original>
+    <corrected><w>þeim</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>var</w>
+  <w>illa</w>
+  <w>brugðið</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

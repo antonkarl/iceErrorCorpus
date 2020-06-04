@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>C</w>
+  <c>:</c>
+  <c>\</c>
+  <w>researchdata</w>
+  <c>\</c>
+  <w>rmh</w>
+  <w>2</w>
+  <c>\</c>
+  <w>CC</w>
+  <w>_</w>
+  <w>BY</w>
+  <c>\</c>
+  <w>visir</w>
+  <c>\</c>
+  <w>2009</w>
+  <c>\</c>
+  <w>07</w>
+  <c>\</c>
+  <w>G</w>
+
+  <w>1</w>
+
+  <w>702894.</w>
+  <w>xml</w>
+  <revision id="1">
+    <original><w>Menn</w></original>
+    <corrected><w>Fólk</w></corrected>
+      <errors>
+        <error xtype="gendered" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>vegum</w>
+  <w>Slysavarnafélagsins</w>
+  <w>Landsbjargar</w>
+  <revision id="2">
+    <original><w>voru</w><w>kallaðar</w></original>
+    <corrected><w>var</w><w>kallað</w></corrected>
+      <errors>
+        <error xtype="dep" depId="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>út</w>
+  <w>fyrir</w>
+  <w>stundu</w>
+  <w>vegna</w>
+  <w>manns</w>
+  <w>sem</w>
+  <w>ökklabrotnaði</w>
+  <w>á</w>
+  <w>toppi</w>
+  <w>Esjunnar</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Beiðni</w>
+  <w>um</w>
+  <w>aðstoð</w>
+  <w>barst</w>
+  <w>Neyðarlínunni</w>
+  <w>sem</w>
+  <w>kallaði</w>
+  <w>út</w>
+  <w>liðsmenn</w>
+  <w>björgunarsveita</w>
+  <c>,</c>
+  <w>samkvæmt</w>
+  <w>upplýsingum</w>
+  <w>sem</w>
+  <w>fréttastofa</w>
+  <w>hefur</w>
+  <w>frá</w>
+  <revision id="3">
+    <original><w>lögreglunni</w></original>
+    <corrected><w>Lögreglunni</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>höfuðborgarsvæðinu</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

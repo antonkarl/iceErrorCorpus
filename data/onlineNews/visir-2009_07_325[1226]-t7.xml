@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Ivanka</w>
+  <w>Trump</w>
+  <c>,</c>
+  <w>dóttir</w>
+  <revision id="1">
+    <original><w>hins</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wording" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>umtalaða</w>
+  <revision id="2">
+    <original><w>milljarðamærings</w><c>,</c></original>
+    <corrected><w>milljarðamæringsins</w></corrected>
+      <errors>
+        <error xtype="dep" depId="1-1" eid="0" />
+        <error xtype="extra-comma" idx="2-1" eid="0" />
+      </errors>
+  </revision>
+  <w>Donalds</w>
+  <c>,</c>
+  <w>gengur</w>
+  <w>senn</w>
+  <w>í</w>
+  <w>hnapphelduna</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Ivanka</w>
+  <w>tilkynnti</w>
+  <w>þetta</w>
+  <w>á</w>
+  <w>Twitter</w>
+  <w>í</w>
+  <w>dag</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <c>„</c>
+  <w>Ég</w>
+  <w>trúlofaði</w>
+  <w>mig</w>
+  <w>í</w>
+  <w>dag</w>
+  <c>…</c>
+  <w>sannarlega</w>
+  <w>besti</w>
+  <w>dagur</w>
+  <w>lífs</w>
+  <w>míns</w>
+  <c>,</c>
+  <c>&quot;</c>
+  <w>skrifaði</w>
+  <w>hún</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Hinn</w>
+  <w>heppni</w>
+  <w>er</w>
+  <w>milljarðamæringurinn</w>
+  <w>og</w>
+  <w>NY</w>
+  <revision id="3">
+    <original><w>Observer</w><w>útgefandinn</w></original>
+    <corrected><w>Observer-útgefandinn</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>Jared</w>
+  <w>Kusher</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>
