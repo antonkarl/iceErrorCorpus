@@ -1,122 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader/>
 <text><body><p n="1">
 <s n="1">
-  <w>Tónlist</w>
-  <c>-</c>
-  <w>förunautur</w>
-  <w>í</w>
-  <w>dagsins</w>
-  <w>önn</w>
-  <c>.</c>
-</s>
-<s n="2">
-  <w>Góð</w>
-  <w>tónlist</w>
-  <w>er</w>
-  <w>eyrnakonfekt</w>
-  <w>en</w>
-  <w>einnig</w>
-  <w>er</w>
-  <w>til</w>
-  <w>tónlist</w>
-  <w>sem</w>
-  <w>sumir</w>
-  <w>myndu</w>
-  <w>kalla</w>
-  <w>hljóðmengun</w>
-  <c>.</c>
-</s>
-<s n="3">
-  <w>Að</w>
-  <w>hlusta</w>
-  <w>á</w>
-  <w>tónlist</w>
-  <w>er</w>
-  <w>góð</w>
-  <w>skemmtun</w>
-  <c>,</c>
-  <w>flestir</w>
-  <w>hlusta</w>
-  <w>á</w>
-  <w>tónlist</w>
-  <w>og</w>
-  <w>eru</w>
-  <w>ekki</w>
-  <w>margir</w>
-  <w>sem</w>
-  <w>fyrirlíta</w>
-  <w>þá</w>
-  <w>list</w>
-  <revision id="1">
-    <original><c>,</c></original>
-    <corrected><c>.</c><w>Það</w></corrected>
-      <errors>
-        <error xtype="comma4period" eid="0" />
-      </errors>
-  </revision>
-  <w>mætti</w>
-  <w>jafnvel</w>
-  <w>segja</w>
-  <w>að</w>
-  <w>tónlist</w>
-  <w>sé</w>
-  <w>ómissandi</w>
-  <w>hlutur</w>
-  <w>í</w>
-  <w>daglegu</w>
-  <w>lífi</w>
-  <c>.</c>
-</s>
-<s n="4">
-  <w>Eins</w>
-  <w>lengi</w>
-  <w>og</w>
-  <w>elstu</w>
-  <w>menn</w>
-  <w>muna</w>
-  <w>og</w>
-  <w>langt</w>
-  <w>fyrir</w>
-  <w>þeirra</w>
-  <w>tíma</w>
-  <w>hefur</w>
-  <w>tónlist</w>
-  <w>spilað</w>
-  <w>stórt</w>
-  <w>hlutverk</w>
-  <w>í</w>
-  <w>samfélaginu</w>
-  <c>.</c>
-</s>
-<s n="5">
-  <w>Tónsmiðir</w>
-  <w>á</w>
-  <w>borð</w>
-  <w>við</w>
-  <w>Chopin</w>
-  <w>og</w>
-  <w>Mozart</w>
-  <w>lifðu</w>
-  <w>fyrir</w>
-  <w>tónlistina</w>
-  <w>og</w>
-  <w>enn</w>
-  <w>í</w>
-  <w>dag</w>
-  <w>eru</w>
-  <w>verk</w>
-  <w>þeirra</w>
-  <w>flutt</w>
-  <w>af</w>
-  <w>sinfóníuhljómsveitum</w>
-  <w>um</w>
-  <w>allan</w>
-  <w>heim</w>
-  <c>.</c>
-</s>
-<s n="6">
   <w>Ekki</w>
   <w>verður</w>
   <w>hjá</w>
@@ -147,8 +33,116 @@
   <w>allan</w>
   <w>heim</w>
   <c>.</c>
-</s>
-<s n="7">
+</s><s n="2">
+  <w>Að</w>
+  <w>hlusta</w>
+  <w>á</w>
+  <w>tónlist</w>
+  <w>er</w>
+  <w>góð</w>
+  <w>skemmtun</w>
+  <c>,</c>
+  <w>flestir</w>
+  <w>hlusta</w>
+  <w>á</w>
+  <w>tónlist</w>
+  <w>og</w>
+  <w>eru</w>
+  <w>ekki</w>
+  <w>margir</w>
+  <w>sem</w>
+  <w>fyrirlíta</w>
+  <w>þá</w>
+  <w>list</w>
+  <revision id="1">
+    <original><c>,</c></original>
+    <corrected><c>.</c><w>Það</w></corrected>
+      <errors>
+        <error xtype="comma4period" eid="0"/>
+      </errors>
+  </revision>
+  <w>mætti</w>
+  <w>jafnvel</w>
+  <w>segja</w>
+  <w>að</w>
+  <w>tónlist</w>
+  <w>sé</w>
+  <w>ómissandi</w>
+  <w>hlutur</w>
+  <w>í</w>
+  <w>daglegu</w>
+  <w>lífi</w>
+  <c>.</c>
+</s><s n="3">
+  <w>Góð</w>
+  <w>tónlist</w>
+  <w>er</w>
+  <w>eyrnakonfekt</w>
+  <w>en</w>
+  <w>einnig</w>
+  <w>er</w>
+  <w>til</w>
+  <w>tónlist</w>
+  <w>sem</w>
+  <w>sumir</w>
+  <w>myndu</w>
+  <w>kalla</w>
+  <w>hljóðmengun</w>
+  <c>.</c>
+</s><s n="4">
+  <w>Eins</w>
+  <w>lengi</w>
+  <w>og</w>
+  <w>elstu</w>
+  <w>menn</w>
+  <w>muna</w>
+  <w>og</w>
+  <w>langt</w>
+  <w>fyrir</w>
+  <w>þeirra</w>
+  <w>tíma</w>
+  <w>hefur</w>
+  <w>tónlist</w>
+  <w>spilað</w>
+  <w>stórt</w>
+  <w>hlutverk</w>
+  <w>í</w>
+  <w>samfélaginu</w>
+  <c>.</c>
+</s><s n="5">
+  <w>Tónlist</w>
+  <c>-</c>
+  <w>förunautur</w>
+  <w>í</w>
+  <w>dagsins</w>
+  <w>önn</w>
+  <c>.</c>
+</s><s n="6">
+  <w>Tónsmiðir</w>
+  <w>á</w>
+  <w>borð</w>
+  <w>við</w>
+  <w>Chopin</w>
+  <w>og</w>
+  <w>Mozart</w>
+  <w>lifðu</w>
+  <w>fyrir</w>
+  <w>tónlistina</w>
+  <w>og</w>
+  <w>enn</w>
+  <w>í</w>
+  <w>dag</w>
+  <w>eru</w>
+  <w>verk</w>
+  <w>þeirra</w>
+  <w>flutt</w>
+  <w>af</w>
+  <w>sinfóníuhljómsveitum</w>
+  <w>um</w>
+  <w>allan</w>
+  <w>heim</w>
+  <c>.</c>
+</s><s n="7">
   <w>Ég</w>
   <w>ætla</w>
   <w>aðeins</w>
@@ -172,11 +166,10 @@
     <original><w>tónlistamenn</w></original>
     <corrected><w>tónlistarmenn</w></corrected>
       <errors>
-        <error xtype="compound-collocation" idx="2-1" eid="0" />
-        <error xtype="nonword" idx="2-1" eid="0" />
+        <error xtype="compound-collocation" idx="2-1" eid="0"/>
+        <error xtype="nonword" idx="2-1" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
-</s>
-</p></body></text>
+</s></p></body></text>
 </TEI>
