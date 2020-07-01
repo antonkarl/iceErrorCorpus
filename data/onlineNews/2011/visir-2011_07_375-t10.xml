@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Árið</w>
+  <w>í</w>
+  <w>ár</w>
+  <w>hefur</w>
+  <w>verið</w>
+  <revision id="1">
+    <original><w>gjöful</w></original>
+    <corrected><w>gjöfult</w></corrected>
+      <errors>
+        <error xtype="agreement-pred" eid="0" />
+      </errors>
+  </revision>
+  <w>fyrir</w>
+  <w>framleiðendur</w>
+  <w>Mercedes</w>
+  <revision id="2">
+    <original><w>Benz</w><w>bifreiða</w></original>
+    <corrected><w>Benz-bifreiða</w></corrected>
+      <errors>
+        <error xtype="split-word" idx="2-1" eid="0" />
+        <error xtype="missing-dash" idx="2-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Þrefalt</w>
+  <w>sölumet</w>
+  <w>hefur</w>
+  <w>verið</w>
+  <w>slegið</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Um</w>
+  <w>er</w>
+  <w>að</w>
+  <w>ræða</w>
+  <w>mestu</w>
+  <w>sölu</w>
+  <w>í</w>
+  <w>einstökum</w>
+  <w>mánuði</w>
+  <revision id="3">
+    <original><c>,</c><w>það</w><w>er</w></original>
+    <corrected><c>(</c><w>í</w><w>sl.</w></corrected>
+      <errors>
+        <error xtype="comma4bracket" eid="0" />
+        <error xtype="wording" idx="3-1" eid="0" />
+      </errors>
+  </revision>
+  <w>júní</w>
+  <revision id="4">
+    <original><w>s.l.</w></original>
+    <corrected><c>)</c></corrected>
+      <errors>
+        <error xtype="dep" depId="3-1" eid="0" />
+        <error xtype="missing-bracket" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>mestu</w>
+  <w>sölu</w>
+  <w>á</w>
+  <w>einum</w>
+  <w>ársfjórðungi</w>
+  <w>og</w>
+  <w>mestu</w>
+  <w>sölu</w>
+  <w>á</w>
+  <w>hálfu</w>
+  <w>ári</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Í</w>
+  <w>júní</w>
+  <w>voru</w>
+  <w>seldir</w>
+  <w>120.500</w>
+  <w>Mercedes</w>
+  <w>Benz</w>
+  <w>bílar</w>
+  <w>á</w>
+  <w>heimsvísu</w>
+  <revision id="5">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>er</w>
+  <w>6,4%</w>
+  <w>meiri</w>
+  <w>sala</w>
+  <w>en</w>
+  <w>í</w>
+  <w>júní</w>
+  <w>í</w>
+  <w>fyrra</w>
+  <w>þegar</w>
+  <w>fyrra</w>
+  <w>sölumet</w>
+  <w>fyrir</w>
+  <w>einn</w>
+  <w>mánuð</w>
+  <w>var</w>
+  <w>slegið</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Þessi</w>
+  <w>sala</w>
+  <w>þýddi</w>
+  <w>að</w>
+  <w>á</w>
+  <w>öðrum</w>
+  <w>ársfjórðungi</w>
+  <w>ársins</w>
+  <w>seldust</w>
+  <w>rétt</w>
+  <w>tæpir</w>
+  <w>330.000</w>
+  <w>bílar</w>
+  <w>sem</w>
+  <w>er</w>
+  <w>7,2%</w>
+  <w>aukning</w>
+  <w>frá</w>
+  <w>sama</w>
+  <w>tímabili</w>
+  <w>í</w>
+  <w>fyrra</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Á</w>
+  <w>fyrstu</w>
+  <w>sex</w>
+  <w>mánuðum</w>
+  <w>ársins</w>
+  <w>hafa</w>
+  <w>610.500</w>
+  <w>Mercedes</w>
+  <w>Benz</w>
+  <w>bílar</w>
+  <w>selst</w>
+  <w>sem</w>
+  <w>er</w>
+  <w>9,7%</w>
+  <w>aukning</w>
+  <w>frá</w>
+  <w>sama</w>
+  <w>tímabili</w>
+  <w>í</w>
+  <w>fyrra</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>Það</w>
+  <w>er</w>
+  <w>einkum</w>
+  <w>í</w>
+  <revision id="6">
+    <original><w>BRIK</w><w>löndunum</w></original>
+    <corrected><w>BRIK-löndunum</w></corrected>
+      <errors>
+        <error xtype="split-word" idx="6-1" eid="0" />
+        <error xtype="missing-dash" idx="6-1" eid="0" />
+      </errors>
+  </revision>
+  <w>svokölluðu</w>
+  <c>,</c>
+  <w>Brasilíu</w>
+  <c>,</c>
+  <w>Rússlandi</w>
+  <c>,</c>
+  <w>Indlandi</w>
+  <w>og</w>
+  <w>Kína</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>mikil</w>
+  <w>aukning</w>
+  <w>hefur</w>
+  <w>orðið</w>
+  <w>á</w>
+  <w>sölu</w>
+  <w>Mercedes</w>
+  <w>Benz</w>
+  <w>bíla</w>
+  <w>í</w>
+  <w>ár</w>
+  <c>.</c>
+</s>
+<s n="8">
+  <w>Sem</w>
+  <w>dæmi</w>
+  <w>má</w>
+  <w>nefna</w>
+  <w>að</w>
+  <w>salan</w>
+  <w>í</w>
+  <w>Rússlandi</w>
+  <w>hefur</w>
+  <w>aukist</w>
+  <w>um</w>
+  <w>rúm</w>
+  <w>70%</w>
+  <w>og</w>
+  <w>í</w>
+  <w>Kína</w>
+  <w>hefur</w>
+  <w>hún</w>
+  <w>aukist</w>
+  <w>um</w>
+  <w>rúm</w>
+  <w>52%</w>
+  <w>miðað</w>
+  <w>við</w>
+  <w>árið</w>
+  <w>í</w>
+  <w>fyrra</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

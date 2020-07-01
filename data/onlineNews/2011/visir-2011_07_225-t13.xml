@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Við</w>
+  <w>heyrðum</w>
+  <w>í</w>
+  <w>veiðimönnum</w>
+  <w>úr</w>
+  <w>Hvannadalsá</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Þeir</w>
+  <w>segja</w>
+  <w>mikið</w>
+  <w>vatn</w>
+  <w>vera</w>
+  <w>í</w>
+  <w>ánni</w>
+  <w>og</w>
+  <w>frekar</w>
+  <w>kalt</w>
+  <w>úti</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Lítið</w>
+  <w>gekk</w>
+  <w>hjá</w>
+  <w>þeim</w>
+  <w>til</w>
+  <w>að</w>
+  <w>byrja</w>
+  <w>með</w>
+  <w>á</w>
+  <w>sunnudag</w>
+  <w>en</w>
+  <revision id="1">
+    <original></original>
+    <corrected><w>á</w><w>mánudag</w></corrected>
+      <errors>
+        <error xtype="dep" depId="3-1" eid="0" />
+      </errors>
+  </revision>
+  <w>fór</w>
+  <revision id="2">
+    <original><w>svo</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
+  <w>strax</w>
+  <w>að</w>
+  <w>ganga</w>
+  <w>betur</w>
+  <revision id="3">
+    <original><w>á</w><w>mánudag</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wording" idx="3-1" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>þá</w>
+  <w>fengu</w>
+  <w>þeir</w>
+  <w>tvo</w>
+  <w>laxa</w>
+  <w>í</w>
+  <w>Djúpafossi</w>
+  <c>,</c>
+  <w>annar</w>
+  <w>um</w>
+  <revision id="4">
+    <original><w>90cm</w></original>
+    <corrected><w>90 sm</w></corrected>
+      <errors>
+        <error xtype="missing-space" idx="4-1" eid="0" />
+        <error xtype="abbreviation" idx="4-2" eid="0" />
+      </errors>
+  </revision>
+  <w>en</w>
+  <w>hinn</w>
+  <w>í</w>
+  <w>kringum</w>
+  <revision id="5">
+    <original><w>83cm</w></original>
+    <corrected><w>83 sm</w></corrected>
+      <errors>
+        <error xtype="missing-space" idx="5-1" eid="0" />
+        <error xtype="abbreviation" idx="5-2" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Í</w>
+  <w>gær</w>
+  <w>beit</w>
+  <w>hann</w>
+  <w>svo</w>
+  <w>á</w>
+  <w>í</w>
+  <revision id="6">
+    <original><w>Árdalsafossi</w></original>
+    <corrected><w>Árdalsfossi</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="6-1" eid="0" />
+        <error xtype="nonword" idx="6-1" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>Árdalsfljóti</w>
+  <w>en</w>
+  <w>þeir</w>
+  <w>voru</w>
+  <w>í</w>
+  <w>kringum</w>
+  <revision id="7">
+    <original><w>83cm</w></original>
+    <corrected><w>83 sm</w></corrected>
+      <errors>
+         <error xtype="missing-space" idx="7-1" eid="0" />
+         <error xtype="abbreviation" idx="7-2" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>á</w>
+  <w>meðan</w>
+  <w>slagurinn</w>
+  <w>stóð</w>
+  <w>yfir</w>
+  <w>sáu</w>
+  <w>þeir</w>
+  <w>um</w>
+  <w>10</w>
+
+  <w>15</w>
+  <w>laxa</w>
+  <w>renna</w>
+  <w>sér</w>
+  <w>inn</w>
+  <w>í</w>
+  <w>Árdalsfljót</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Laxarnir</w>
+  <w>veiddust</w>
+  <w>á</w>
+  <w>Sunrey</w>
+  <w>Shadow</w>
+  <c>,</c>
+  <w>Snældu</w>
+  <w>og</w>
+  <w>Black</w>
+  <w>and</w>
+  <w>Blue</w>
+  <w>en</w>
+  <w>þeir</w>
+  <w>sögðu</w>
+  <w>nóg</w>
+  <w>af</w>
+  <w>laxi</w>
+  <w>í</w>
+  <w>ánni</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Birt</w>
+  <w>með</w>
+  <w>góðfúslegu</w>
+  <w>leyfi</w>
+  <w>Lax-Á</w>
+  <revision id="8">
+    <original></original>
+    <corrected><c>.</c></corrected>
+      <errors>
+        <error xtype="missing-period" eid="0" />
+      </errors>
+  </revision>
+</s>
+</p></body></text>
+</TEI>

@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Johann</w>
+  <w>Sebastian</w>
+  <w>Bach</w>
+  <c>(</c>
+  <w>21. mars</w>
+  <w>1685</w>
+  <c>–</c>
+  <w>28. júlí</w>
+  <w>1750</w>
+  <c>)</c>
+  <w>var</w>
+  <w>þýskt</w>
+  <w>tónskáld</w>
+  <w>og</w>
+  <w>orgelleikari</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Hann</w>
+  <w>er</w>
+  <w>talinn</w>
+  <w>til</w>
+  <w>helstu</w>
+  <w>tónskálda</w>
+  <w>Barokk-tímabilsins</w>
+  <w>og</w>
+  <w>í</w>
+  <w>raun</w>
+  <w>allrar</w>
+  <w>vestrænnar</w>
+  <w>tónlistar</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <revision id="1">
+    <original><w>Hann</w></original>
+    <corrected><w>Bach</w></corrected>
+      <errors>
+        <error xtype="pro4noun" eid="0" />
+      </errors>
+  </revision>
+  <w>er</w>
+  <w>þekktastur</w>
+  <w>fyrir</w>
+  <revision id="2">
+    <original><w>hin</w><w>veraldlegu</w><w>verk</w><w>sín</w><c>,</c><w>svo</w><w>sem</w></original>
+    <corrected><w>tónverk</w><w>á</w><w>borð</w><w>við</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>Brandenborgarkonsertana</w>
+  <w>og</w>
+  <w>Aría</w>
+  <w>á</w>
+  <w>G-streng</w>
+  <c>,</c>
+  <w>en</w>
+  <w>hann</w>
+  <w>var</w>
+  <w>þar</w>
+  <w>að</w>
+  <w>auki</w>
+  <w>eitt</w>
+  <w>afkastamesta</w>
+  <w>kirkjutónskáld</w>
+  <w>allra</w>
+  <w>tíma</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Hann</w>
+  <w>var</w>
+  <w>orðinn</w>
+  <w>kirkjuorgelleikari</w>
+  <w>17</w>
+  <w>ára</w>
+  <w>gamall</w>
+  <w>og</w>
+  <w>var</w>
+  <w>í</w>
+  <w>miklum</w>
+  <w>metum</w>
+  <w>sem</w>
+  <w>slíkur</w>
+  <c>,</c>
+  <w>en</w>
+  <w>kom</w>
+  <w>sér</w>
+  <w>ekki</w>
+  <w>alls</w>
+  <w>staðar</w>
+  <w>vel</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <revision id="3">
+    <original><w>Um</w><w>nám</w><w>hans</w><w>og</w><w>uppvöxt</w><w>er</w><w>vitað</w><w>að</w><w>hann</w></original>
+    <corrected><w>Upphaflega</w></corrected>
+      <errors>
+        <error xtype="wording" idx="3-1" eid="0" />
+      </errors>
+  </revision>
+  <w>mun</w>
+  <revision id="4">
+    <original><w>fyrst</w></original>
+    <corrected><w>Bach</w></corrected>
+      <errors>
+        <error xtype="dep" depId="3-1" eid="0" />
+      </errors>
+  </revision>
+  <w>hafa</w>
+  <w>lært</w>
+  <revision id="5">
+    <original><w>eitthvað</w></original>
+    <corrected><w>sitthvað</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>hjá</w>
+  <w>föður</w>
+  <w>sínum</w>
+  <revision id="6">
+    <original><c>,</c><w>sem</w></original>
+    <corrected><w>en</w><w>hann</w></corrected>
+      <errors>
+        <error xtype="comma4conjunction" eid="0" />
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>dó</w>
+  <w>þegar</w>
+  <revision id="7">
+    <original><w>Johann</w><w>Sebastian</w></original>
+    <corrected><w>Bach</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>var</w>
+  <w>9</w>
+  <w>ára</w>
+  <w>gamall</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Skömmu</w>
+  <w>síðar</w>
+  <w>dó</w>
+  <w>móðir</w>
+  <w>hans</w>
+  <w>einnig</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <revision id="8">
+    <original><w>Þá</w><w>fór</w></original>
+    <corrected><w>Fór</w></corrected>
+      <errors>
+        <error xtype="wording" idx="8-1" eid="0" />
+      </errors>
+  </revision>
+  <w>hann</w>
+  <revision id="9">
+    <original></original>
+    <corrected><w>þá</w></corrected>
+      <errors>
+        <error xtype="dep" depId="8-1" eid="0" />
+      </errors>
+  </revision>
+  <w>til</w>
+  <w>eldri</w>
+  <w>bróður</w>
+  <w>síns</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>hét</w>
+  <w>Johann</w>
+  <w>Christoph</w>
+  <w>Bach</w>
+  <w>og</w>
+  <w>var</w>
+  <w>orðinn</w>
+  <w>orgelleikari</w>
+  <w>við</w>
+  <w>Mikjálskirkjuna</w>
+  <w>í</w>
+  <w>Ohrdruf</w>
+  <c>.</c>
+</s>
+<s n="8">
+  <w>Hjá</w>
+  <w>honum</w>
+  <w>lærði</w>
+  <w>hann</w>
+  <w>formlega</w>
+  <w>til</w>
+  <w>15</w>
+  <w>ára</w>
+  <w>aldurs</w>
+  <c>.</c>
+</s>
+<s n="9">
+  <w>Eftir</w>
+  <w>það</w>
+  <w>fór</w>
+  <w>hann</w>
+  <w>til</w>
+  <w>Lüneburg</w>
+  <w>og</w>
+  <w>gæti</w>
+  <w>hafa</w>
+  <w>verið</w>
+  <w>í</w>
+  <w>námi</w>
+  <w>hjá</w>
+  <w>Georg</w>
+  <w>Böhm</w>
+  <c>,</c>
+  <w>en</w>
+  <w>það</w>
+  <w>er</w>
+  <w>ekki</w>
+  <w>vitað</w>
+  <w>fyrir</w>
+  <w>víst</w>
+  <c>.</c>
+</s>
+<s n="10">
+  <w>17</w>
+  <w>eða</w>
+  <w>18</w>
+  <w>ára</w>
+  <w>varð</w>
+  <w>hann</w>
+  <w>orgelleikari</w>
+  <w>í</w>
+  <w>Neue</w>
+  <w>Kirche</w>
+  <w>í</w>
+  <w>Arnstadt</w>
+  <w>og</w>
+  <w>var</w>
+  <w>þar</w>
+  <w>í</w>
+  <w>tvö</w>
+  <w>ár</w>
+  <c>.</c>
+</s>
+<s n="11">
+  <revision id="10">
+    <original><w>Hann</w></original>
+    <corrected><w>Bach</w></corrected>
+      <errors>
+        <error xtype="pro4noun" eid="0" />
+      </errors>
+  </revision>
+  <w>hafði</w>
+  <w>þar</w>
+  <w>tvöfalt</w>
+  <w>hærri</w>
+  <w>laun</w>
+  <w>en</w>
+  <w>eftirmaður</w>
+  <w>hans</w>
+  <w>fékk</w>
+  <w>og</w>
+  <w>segir</w>
+  <w>það</w>
+  <revision id="11">
+    <original><w>sína</w><w>sögu</w></original>
+    <corrected><w>sitt</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>um</w>
+  <w>mat</w>
+  <w>manna</w>
+  <w>á</w>
+  <w>honum</w>
+  <c>.</c>
+</s>
+<s n="12">
+  <w>Um</w>
+  <w>tvítugt</w>
+  <w>lagði</w>
+  <w>hann</w>
+  <w>á</w>
+  <w>sig</w>
+  <w>langa</w>
+  <w>göngu</w>
+  <w>til</w>
+  <w>þess</w>
+  <w>að</w>
+  <w>sjá</w>
+  <w>og</w>
+  <w>heyra</w>
+  <w>einn</w>
+  <w>mesta</w>
+  <w>orgelsnilling</w>
+  <w>þessa</w>
+  <w>tíma</w>
+  <c>,</c>
+  <w>Dietrich</w>
+  <w>Buxtehude</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>spilaði</w>
+  <w>í</w>
+  <w>Lübeck</w>
+  <w>og</w>
+  <w>varð</w>
+  <w>fyrir</w>
+  <w>miklum</w>
+  <w>áhrifum</w>
+  <revision id="12">
+    <original><w>af</w></original>
+    <corrected><w>frá</w></corrected>
+      <errors>
+        <error xtype="wrong-prep" eid="0" />
+      </errors>
+  </revision>
+  <w>honum</w>
+  <c>.</c>
+</s>
+<s n="13">
+  <w>Eftir</w>
+  <w>að</w>
+  <w>starfi</w>
+  <w>hans</w>
+  <w>í</w>
+  <w>Arnstadt</w>
+  <w>lauk</w>
+  <c>,</c>
+  <w>fór</w>
+  <w>hann</w>
+  <w>til</w>
+  <w>Mühlhausen</w>
+  <c>,</c>
+  <w>en</w>
+  <w>þar</w>
+  <w>var</w>
+  <w>laus</w>
+  <w>staða</w>
+  <w>orgelleikara</w>
+  <w>við</w>
+  <w>Blasíusarkirkjuna</w>
+  <c>.</c>
+</s>
+<s n="14">
+  <w>Þar</w>
+  <w>var</w>
+  <revision id="13">
+    <original><w>hann</w></original>
+    <corrected><w>Bach</w></corrected>
+      <errors>
+        <error xtype="pro4noun" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>um</w>
+  <w>það</w>
+  <w>bil</w>
+  <w>eitt</w>
+  <w>ár</w>
+  <w>og</w>
+  <w>á</w>
+  <w>þeim</w>
+  <w>tíma</w>
+  <w>giftist</w>
+  <w>hann</w>
+  <revision id="14">
+    <original></original>
+    <corrected><w>konu</w><w>sinni</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="15">
+  <revision id="15">
+    <original><w>Kona</w><w>hans</w></original>
+    <corrected><w>Sú</w><w>hét</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>var</w>
+  <w>Maria</w>
+  <w>Barbara</w>
+  <w>Bach</w>
+  <w>og</w>
+  <w>voru</w>
+  <w>þau</w>
+  <w>þremenningar</w>
+  <w>að</w>
+  <w>skyldleika</w>
+  <c>.</c>
+</s>
+<s n="16">
+  <w>Nú</w>
+  <w>lá</w>
+  <w>leið</w>
+  <w>hans</w>
+  <w>til</w>
+  <w>Weimar</w>
+  <w>og</w>
+  <w>starfaði</w>
+  <w>hann</w>
+  <w>þar</w>
+  <w>til</w>
+  <w>1717</w>
+  <w>eða</w>
+  <w>í</w>
+  <w>9</w>
+  <w>ár</w>
+  <c>.</c>
+</s>
+<s n="17">
+  <w>Eftir</w>
+  <w>það</w>
+  <w>var</w>
+  <w>hann</w>
+  <w>í</w>
+  <w>Köthen</w>
+  <w>í</w>
+  <w>sex</w>
+  <w>ár</w>
+  <w>og</w>
+  <w>svo</w>
+  <w>að</w>
+  <w>síðustu</w>
+  <w>í</w>
+  <w>Leipzig</w>
+  <c>,</c>
+  <w>en</w>
+  <w>þar</w>
+  <w>starfaði</w>
+  <w>hann</w>
+  <w>við</w>
+  <revision id="16">
+    <original></original>
+    <corrected><w>orgelleik</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>fjórar</w>
+  <w>kirkjur</w>
+  <w>allt</w>
+  <w>til</w>
+  <w>dauðadags</w>
+  <w>1750</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

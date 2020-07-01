@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Íslenskur</w>
+  <w>karlmaður</w>
+  <w>hefur</w>
+  <w>verið</w>
+  <w>handtekinn</w>
+  <w>í</w>
+  <revision id="1">
+    <original><w>höfuðborg</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wording" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>Rio</w>
+  <w>de</w>
+  <w>Janeiro</w>
+  <revision id="2">
+    <original><w>í</w></original>
+    <corrected><c>,</c><w>höfuðborg</w></corrected>
+      <errors>
+        <error xtype="extra-word" idx="2-1" eid="0" />
+        <error xtype="missing-comma" idx="2-2" eid="0" />
+        <error xtype="dep" depId="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>Brasilíu</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Hann</w>
+  <w>er</w>
+  <w>grunaður</w>
+  <w>um</w>
+  <w>að</w>
+  <w>vera</w>
+  <revision id="3">
+    <original><w>viðriðin</w></original>
+    <corrected><w>viðriðinn</w></corrected>
+      <errors>
+        <error xtype="agreement-pred" eid="0" />
+      </errors>
+  </revision>
+  <w>stórt</w>
+  <w>fíkniefnamál</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Ríkisútvarpið</w>
+  <w>greinir</w>
+  <w>frá</w>
+  <w>þessu</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Samkvæmt</w>
+  <w>brasilískum</w>
+  <w>fjölmiðlum</w>
+  <w>er</w>
+  <w>talið</w>
+  <w>að</w>
+  <w>maðurinn</w>
+  <w>hafi</w>
+  <w>tekið</w>
+  <w>þátt</w>
+  <w>í</w>
+  <w>að</w>
+  <w>flytja</w>
+  <w>hátt</w>
+  <w>í</w>
+  <w>fimmtíu þúsund</w>
+  <w>e-töflur</w>
+  <w>til</w>
+  <w>Brasilíu</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Maðurinn</w>
+  <w>var</w>
+  <w>á</w>
+  <w>leið</w>
+  <w>frá</w>
+  <w>Lissabon</w>
+  <w>í</w>
+  <w>Portúgal</w>
+  <revision id="4">
+    <original></original>
+    <corrected><w>til</w><w>Brasilíu</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Verðmæti</w>
+  <w>eiturlyfjanna</w>
+  <w>er</w>
+  <w>talið</w>
+  <w>vera</w>
+  <w>um</w>
+  <w>145</w>
+  <w>milljónir</w>
+  <w>íslenskra</w>
+  <w>króna</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>Fregnum</w>
+  <w>af</w>
+  <w>málinu</w>
+  <w>ber</w>
+  <w>ekki</w>
+  <w>saman</w>
+  <w>en</w>
+  <w>fjölmiðlar</w>
+  <w>í</w>
+  <w>Brasilíu</w>
+  <w>hafa</w>
+  <w>greint</w>
+  <w>frá</w>
+  <w>því</w>
+  <w>að</w>
+  <w>íslenski</w>
+  <w>maðurinn</w>
+  <w>hafi</w>
+  <w>verið</w>
+  <w>handtekinn</w>
+  <w>ásamt</w>
+  <w>brasilískri</w>
+  <w>kærustu</w>
+  <w>sinni</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

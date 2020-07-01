@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Katy</w>
+  <w>Perry</w>
+  <w>smellti</w>
+  <w>kossi</w>
+  <w>á</w>
+  <w>kinn</w>
+  <w>ungs</w>
+  <w>aðdáanda</w>
+  <w>á</w>
+  <w>rauða</w>
+  <w>dreglinum</w>
+  <w>í</w>
+  <w>London</w>
+  <w>á</w>
+  <w>dögunum</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Leikkonan</w>
+  <w>sem</w>
+  <w>var</w>
+  <w>klædd</w>
+  <w>í</w>
+  <w>kjól</w>
+  <w>sem</w>
+  <w>líktist</w>
+  <w>ballerínupilsi</w>
+  <w>lék</w>
+  <w>á</w>
+  <revision id="1">
+    <original><w>alls</w></original>
+    <corrected><w>als</w></corrected>
+      <errors>
+        <error xtype="extra-letter" eid="0" />
+      </errors>
+  </revision>
+  <w>oddi</w>
+  <w>og</w>
+  <w>fíflaðist</w>
+  <w>með</w>
+  <w>ljósmyndurum</w>
+  <w>og</w>
+  <w>aðdáendum</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Þetta</w>
+  <w>var</w>
+  <w>frumsýning</w>
+  <w>á</w>
+  <w>mynd</w>
+  <w>um</w>
+  <w>California</w>
+  <revision id="2">
+    <original><w>Dreams</w><w>tónleikatúrinn</w></original>
+    <corrected><w>Dreams-tónleikatúrinn</w></corrected>
+      <errors>
+        <error xtype="split-word" idx="2-1" eid="0" />
+        <error xtype="missing-dash" idx="2-1" eid="0" />
+      </errors>
+  </revision>
+  <w>hennar</w>
+  <w>árið 2011</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Í</w>
+  <w>kvikmyndinni</w>
+  <w>má</w>
+  <w>sjá</w>
+  <w>umfjöllun</w>
+  <w>um</w>
+  <w>bresti</w>
+  <w>í</w>
+  <w>hjónabandi</w>
+  <w>hennar</w>
+  <w>og</w>
+  <w>grínistans</w>
+  <w>Russel</w>
+  <w>Brand</w>
+  <w>sem</w>
+  <w>endaði</w>
+  <w>með</w>
+  <w>skilnaði</w>
+  <w>þeirra</w>
+  <w>hjóna</w>
+  <w>í</w>
+  <w>árslok</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

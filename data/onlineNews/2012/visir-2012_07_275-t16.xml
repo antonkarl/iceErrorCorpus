@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Lyfjakostnaður</w>
+  <w>sjúkratrygginga</w>
+  <c>,</c>
+  <w>að</w>
+  <revision id="1">
+    <original><w>undanskyldum</w></original>
+    <corrected><w>undanskildum</w></corrected>
+      <errors>
+        <error xtype="y4i" idx="1-1" eid="0" />
+        <error xtype="nonword" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>S-merktum</w>
+  <w>lyfjum</w>
+  <c>(</c>
+  <w>sjúkrahúslyf</w>
+  <c>)</c>
+  <c>,</c>
+  <w>lækkaði</w>
+  <w>árið 2011</w>
+  <w>frá</w>
+  <w>fyrra</w>
+  <w>ári</w>
+  <w>þrátt</w>
+  <w>fyrir</w>
+  <w>að</w>
+  <w>lyfjanotkun</w>
+  <w>hafi</w>
+  <w>aukist</w>
+  <w>á</w>
+  <w>sama</w>
+  <w>tíma</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Þetta</w>
+  <w>kemur</w>
+  <w>fram</w>
+  <w>í</w>
+  <w>tilkynningu</w>
+  <w>frá</w>
+  <w>Sjúkratryggingum</w>
+  <w>Íslands</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Lækkunin</w>
+  <w>er</w>
+  <w>einkum</w>
+  <w>vegna</w>
+  <w>aðgerða</w>
+  <w>stjórnvalda</w>
+  <revision id="2">
+    <original><w>er</w></original>
+    <corrected><w>sem</w></corrected>
+      <errors>
+        <error xtype="conjunction" eid="0" />
+      </errors>
+  </revision>
+  <w>varða</w>
+  <w>breytingar</w>
+  <w>á</w>
+  <w>greiðsluþátttöku</w>
+  <revision id="3">
+    <original><w>í</w></original>
+    <corrected><w>á</w></corrected>
+      <errors>
+        <error xtype="wrong-prep" eid="0" />
+      </errors>
+  </revision>
+  <w>þunglyndislyfjum</w>
+  <w>og</w>
+  <revision id="4">
+    <original><w>í</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
+  <w>flogaveikilyfinu</w>
+  <w>Lyrica</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Að</w>
+  <w>óbreyttu</w>
+  <w>hefði</w>
+  <w>lyfjakostnaður</w>
+  <w>orðið</w>
+  <w>750</w>
+  <w>milljónum</w>
+  <w>kr.</w>
+  <w>hærri</w>
+  <w>en</w>
+  <w>raunin</w>
+  <w>varð</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Svo</w>
+  <w>segir</w>
+  <w>í</w>
+  <w>tilkynningunni</w>
+  <c>:</c>
+  <w>Sjúkratryggingar</w>
+  <w>Íslands</w>
+  <w>hafa</w>
+  <w>tekið</w>
+  <w>saman</w>
+  <w>yfirlit</w>
+  <w>yfir</w>
+  <w>almennan</w>
+  <w>lyfjakostnað</w>
+  <revision id="5">
+    <original><w>sjúkratrygginganna</w></original>
+    <corrected><w>sjúkratrygginga</w></corrected>
+      <errors>
+        <error xtype="def4ind" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>árinu 2011</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Að</w>
+  <w>undanskildum</w>
+  <w>S-lyfjum</w>
+  <revision id="6">
+    <original><c>(</c><w>sjúkrahúslyf</w><c>)</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-bracket" idx="6-1" eid="0" />
+        <error xtype="extra-word" idx="6-2" eid="0" />
+        <error xtype="extra-bracket" idx="6-3" eid="0" />
+      </errors>
+  </revision>
+  <w>nam</w>
+  <w>lyfjakostnaður</w>
+  <w>sjúkratrygginganna</w>
+  <w>9.333</w>
+  <w>milljónum</w>
+  <w>kr.</w>
+  <w>árið 2011</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>Kostnaðurinn</w>
+  <w>var</w>
+  <w>9.594</w>
+  <w>milljónir</w>
+  <w>kr.</w>
+  <w>árið 2010</w>
+  <w>og</w>
+  <w>lækkaði</w>
+  <w>því</w>
+  <w>um</w>
+  <w>261 milljón kr.</w>
+  <c>(</c>
+  <w>2,7%</w>
+  <c>)</c>
+  <w>milli</w>
+  <w>ára</w>
+  <c>.</c>
+</s>
+<s n="8">
+  <w>Lyfjanotkun</w>
+  <w>mæld</w>
+  <w>í</w>
+  <w>fjölda</w>
+  <w>skilgreindra</w>
+  <w>dagsskammta</w>
+  <c>(</c>
+  <w>DDD</w>
+  <c>)</c>
+  <w>jókst</w>
+  <w>hins</w>
+  <w>vegar</w>
+  <w>á</w>
+  <w>sama</w>
+  <w>tíma</w>
+  <w>um</w>
+  <w>5,1%</w>
+  <c>.</c>
+</s>
+<s n="9">
+  <w>Aðhaldsaðgerðir</w>
+  <w>stjórnvalda</w>
+  <w>og</w>
+  <w>aukin</w>
+  <w>samkeppni</w>
+  <w>hafa</w>
+  <w>þannig</w>
+  <w>þriðja</w>
+  <w>árið</w>
+  <w>í</w>
+  <w>röð</w>
+  <w>skilað</w>
+  <w>umtalsverðri</w>
+  <w>kostnaðarlækkun</w>
+  <c>.</c>
+</s>
+<s n="10">
+  <w>Gengi</w>
+  <w>og</w>
+  <w>verðlag</w>
+  <w>lækkaði</w>
+  <w>um</w>
+  <w>1,6%</w>
+  <w>milli</w>
+  <w>áranna</w>
+  <w>2010</w>
+  <w>og</w>
+  <w>2011</w>
+  <c>(</c>
+  <w>m.</w>
+  <w>v</w>
+  <c>.</c>
+</s>
+<s n="11">
+  <w>85%</w>
+  <w>vægi</w>
+  <w>lyfjaverðskrárgengis</w>
+  <w>evru</w>
+  <w>og</w>
+  <w>15%</w>
+  <w>vægi</w>
+  <w>vísitölu</w>
+  <w>neysluverðs</w>
+  <c>)</c>
+  <c>.</c>
+</s>
+<s n="12">
+  <w>Verð</w>
+  <w>stærsta</w>
+  <w>hluta</w>
+  <w>lyfja</w>
+  <w>er</w>
+  <w>skráð</w>
+  <w>í</w>
+  <w>erlendri</w>
+  <w>mynt</w>
+  <c>,</c>
+  <w>einkum</w>
+  <w>danskri</w>
+  <w>krónu</w>
+  <w>og</w>
+  <w>evru</w>
+  <c>,</c>
+  <w>og</w>
+  <w>uppreiknast</w>
+  <w>mánaðarlega</w>
+  <c>.</c>
+</s>
+<s n="13">
+  <w>Á</w>
+  <w>föstu</w>
+  <w>verðlagi</w>
+  <w>og</w>
+  <w>miðað</w>
+  <w>við</w>
+  <w>5,1%</w>
+  <w>magnaukningu</w>
+  <w>frá</w>
+  <w>2010</w>
+  <w>hefði</w>
+  <w>kostnaðurinn</w>
+  <w>átt</w>
+  <w>að</w>
+  <revision id="7">
+    <original><w>hækka</w></original>
+    <corrected><w>aukast</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>um</w>
+  <w>489</w>
+  <w>milljónir</w>
+  <w>kr.</w>
+  <w>og</w>
+  <w>vera</w>
+  <w>10.083</w>
+  <w>milljónir</w>
+  <w>eða</w>
+  <w>750</w>
+  <w>milljónum</w>
+  <w>kr.</w>
+  <w>hærri</w>
+  <w>en</w>
+  <w>raunin</w>
+  <w>varð</w>
+  <c>.</c>
+</s>
+<s n="14">
+  <w>Af</w>
+  <w>heildarlækkuninni</w>
+  <w>má</w>
+  <w>rekja</w>
+  <w>141 milljón kr.</w>
+  <w>til</w>
+  <w>verðlags-eða</w>
+  <w>gengisþróunar</w>
+  <w>og</w>
+  <w>609</w>
+  <w>milljónir</w>
+  <w>kr.</w>
+  <w>til</w>
+  <w>aukinnar</w>
+  <w>samkeppni</w>
+  <w>og</w>
+  <w>aðhaldsaðgerða</w>
+  <w>stjórnvalda</w>
+  <c>.</c>
+</s>
+<s n="15">
+  <w>Aðgerðir</w>
+  <w>stjórnvalda</w>
+  <w>hafa</w>
+  <w>einkum</w>
+  <w>haft</w>
+  <w>áhrif</w>
+  <w>á</w>
+  <w>kostnað</w>
+  <w>vegna</w>
+  <w>þunglyndislyfja</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>lækkaði</w>
+  <w>um</w>
+  <w>221 milljón kr.</w>
+  <w>milli</w>
+  <w>2010</w>
+  <w>og</w>
+  <w>2011</w>
+  <c>,</c>
+  <w>og</w>
+  <w>vegna</w>
+  <w>flogaveikilyfsins</w>
+  <w>Lyrica</w>
+  <revision id="8">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>lækkaði</w>
+  <w>um</w>
+  <w>100 milljón kr</w>
+  <c>.</c>
+</s>
+<s n="16">
+  <w>Breytingar</w>
+  <w>á</w>
+  <w>greiðsluþátttöku</w>
+  <w>sjúkratrygginga</w>
+  <w>vegna</w>
+  <w>þunglyndislyfja</w>
+  <w>voru</w>
+  <w>gerðar</w>
+  <w>1. júní 2010</w>
+  <w>og</w>
+  <w>vegna</w>
+  <w>Lyrica</w>
+  <w>1. september 2010</w>
+  <c>.</c>
+</s>
+<s n="17">
+  <w>Að</w>
+  <w>auki</w>
+  <w>hefur</w>
+  <w>verð</w>
+  <w>á</w>
+  <w>nokkrum</w>
+  <w>lyfjum</w>
+  <w>lækkað</w>
+  <w>með</w>
+  <w>tilkomu</w>
+  <w>samheitalyfja</w>
+  <w>ásamt</w>
+  <w>því</w>
+  <w>að</w>
+  <w>greiðsluhluti</w>
+  <w>sjúklings</w>
+  <w>var</w>
+  <w>hækkaður</w>
+  <w>1. janúar 2011</w>
+  <w>um</w>
+  <w>5,23%</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

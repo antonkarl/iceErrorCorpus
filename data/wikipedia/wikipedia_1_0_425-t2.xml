@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>David</w>
+  <w>Dayan</w>
+  <w>Fisher</w>
+  <revision id="1">
+    <original><c>(</c></original>
+    <corrected><c>,</c><w>sem</w></corrected>
+      <errors>
+        <error xtype="bracket4comma" idx="1-1" eid="0" />
+        <error xtype="missing-conjunction" idx="1-2" eid="0" />
+      </errors>
+  </revision>
+  <w>fæddur</w>
+  <revision id="2">
+    <original></original>
+    <corrected><w>er</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>6. júní 1967</w>
+  <revision id="3">
+    <original><c>)</c></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="bracket4comma" eid="0" />
+      </errors>
+  </revision>
+  <w>er</w>
+  <w>enskur</w>
+  <w>leikari</w>
+  <w>sem</w>
+  <w>er</w>
+  <w>þekktastur</w>
+  <w>fyrir</w>
+  <w>hlutverk</w>
+  <w>sín</w>
+  <w>í</w>
+  <w>NCIS</w>
+  <c>,</c>
+  <w>og</w>
+  <w>National</w>
+  <w>Treasure</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Fisher</w>
+  <w>fæddist</w>
+  <w>í</w>
+  <w>London</w>
+  <revision id="4">
+    <original><c>,</c></original>
+    <corrected><w>í</w></corrected>
+      <errors>
+        <error xtype="extra-comma" idx="4-1" eid="0" />
+        <error xtype="missing-word" idx="4-2" eid="0" />
+      </errors>
+  </revision>
+  <w>Englandi</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Árið 2009</w>
+  <w>þá</w>
+  <w>var</w>
+  <w>Fisher</w>
+  <w>með</w>
+  <w>sýningu</w>
+  <w>á</w>
+  <w>listaverkum</w>
+  <w>sínum</w>
+  <w>í</w>
+  <w>Los</w>
+  <w>Angeles</w>
+  <revision id="5">
+    <original></original>
+    <corrected><c>.</c></corrected>
+      <errors>
+        <error xtype="missing-period" eid="0" />
+      </errors>
+  </revision>
+  <w>Fyrsta</w>
+  <w>hlutverk</w>
+  <revision id="6">
+    <original><w>Fisher</w></original>
+    <corrected><w>hans</w></corrected>
+      <errors>
+        <error xtype="noun4pro" eid="0" />
+      </errors>
+  </revision>
+  <w>var</w>
+  <w>í</w>
+  <w>ensku</w>
+  <w>sjónvarpsseríunni</w>
+  <w>The</w>
+  <w>Bill</w>
+  <w>þar</w>
+  <w>sem</w>
+  <w>hann</w>
+  <w>kom</w>
+  <w>fram</w>
+  <w>í</w>
+  <w>tveim</w>
+  <w>þáttum</w>
+  <w>árið 1998</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Síðan</w>
+  <w>þá</w>
+  <w>hefur</w>
+  <w>hann</w>
+  <w>komið</w>
+  <w>fram</w>
+  <w>í</w>
+  <w>þáttum</w>
+  <w>á</w>
+  <w>borð</w>
+  <w>við</w>
+  <c>:</c>
+  <w>Robbery</w>
+  <w>Homicide</w>
+  <w>Division</w>
+  <c>,</c>
+  <w>24</w>
+  <c>,</c>
+  <w>Numb</w>
+  <w>3</w>
+  <w>rs</w>
+  <w>og</w>
+  <w>Medium</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <revision id="8">
+    <original><w>Hefur</w><w>síðan</w><w>2008</w></original>
+    <corrected><w>Hann</w><w>hefur</w><w>frá</w><w>árinu 2008</w></corrected>
+      <errors>
+        <error xtype="missing-word" idx="8-1" eid="0" />
+        <error xtype="wording" idx="8-2" eid="0" />
+        <error xtype="missing-word" idx="8-3" eid="0" />
+      </errors>
+  </revision>
+  <w>leikið</w>
+  <w>leyniþjónustumanninn</w>
+  <w>Trent</w>
+  <w>Kort</w>
+  <w>í</w>
+  <w>NCIS</w>
+  <revision id="9">
+    <original><w>og</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-conjunction" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Fisher</w>
+  <w>hefur</w>
+  <w>leikið</w>
+  <w>í</w>
+  <w>kvikmyndum</w>
+  <w>á</w>
+  <w>borð</w>
+  <w>við</w>
+  <c>:</c>
+  <w>The</w>
+  <w>Diplomat</w>
+  <c>,</c>
+  <w>America</w>
+  <w>Brown</w>
+  <c>,</c>
+  <w>National</w>
+  <w>Treasure</w>
+  <c>,</c>
+  <w>Tony</w>
+  <w>5</w>
+  <w>og</w>
+  <w>Infernum</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

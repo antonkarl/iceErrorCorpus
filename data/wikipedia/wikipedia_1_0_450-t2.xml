@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Herstöð</w>
+  <w>er</w>
+  <w>stöð</w>
+  <revision id="1">
+    <original></original>
+    <corrected><w>sem</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>rekin</w>
+  <w>af</w>
+  <w>her</w>
+  <w>og</w>
+  <w>er</w>
+  <w>í</w>
+  <w>eigu</w>
+  <w>hans</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Herstöð</w>
+  <w>er</w>
+  <w>notuð</w>
+  <w>til</w>
+  <w>geymslu</w>
+  <w>herbúnaðar</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>bústaður</w>
+  <revision id="2">
+    <original><w>fyrir</w><w>hermenn</w></original>
+    <corrected><w>hermanna</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <revision id="3">
+    <original></original>
+    <corrected><w>aðstaða</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>fyrir</w>
+  <w>þjálfun</w>
+  <w>þeirra</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Aðgerðir</w>
+  <w>eru</w>
+  <w>líka</w>
+  <w>skipulagðar</w>
+  <w>á</w>
+  <w>herstöð</w>
+  <w>og</w>
+  <w>þar</w>
+  <w>má</w>
+  <w>meðal</w>
+  <w>annars</w>
+  <w>finna</w>
+  <w>stjórnstöð</w>
+  <c>,</c>
+  <w>heræfingasvæði</w>
+  <w>og</w>
+  <w>tilraunasvæði</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Í</w>
+  <w>flestum</w>
+  <w>tilfellum</w>
+  <w>reiðir</w>
+  <w>rekstur</w>
+  <w>herstöðvar</w>
+  <w>sig</w>
+  <w>á</w>
+  <w>hjálp</w>
+  <w>utan</w>
+  <w>frá</w>
+  <w>en</w>
+  <w>á</w>
+  <w>sumum</w>
+  <w>herstöðvum</w>
+  <revision id="4">
+    <original><w>eru</w><w>vistir</w><w>áætlaðir</w></original>
+    <corrected><w>er</w><w>áætlað</w></corrected>
+      <errors>
+        <error xtype="wording" idx="4-1" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <revision id="5">
+    <original><w>endast</w></original>
+    <corrected><w>vistir</w><w>endist</w></corrected>
+      <errors>
+        <error xtype="dep" depId="4-1" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>nokkra</w>
+  <revision id="6">
+    <original><w>mánuða</w></original>
+    <corrected><w>mánuði</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>meðan</w>
+  <w>stöðin</w>
+  <w>er</w>
+  <w>undir</w>
+  <w>umsátri</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Oftast</w>
+  <w>eru</w>
+  <w>herstöðvar</w>
+  <w>utan</w>
+  <w>almennrar</w>
+  <w>lögsögu</w>
+  <revision id="7">
+    <original></original>
+    <corrected><w>þar</w><w>sem</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <w>einkamálaréttur</w>
+  <w>gildir</w>
+  <w>ekki</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

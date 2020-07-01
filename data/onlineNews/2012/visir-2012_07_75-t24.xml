@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Söngkonan</w>
+  <w>Björk</w>
+  <w>Guðmundsdóttir</w>
+  <w>fær</w>
+  <w>afar</w>
+  <w>misjafna</w>
+  <w>dóma</w>
+  <w>fyrir</w>
+  <w>frammistöðu</w>
+  <w>sína</w>
+  <w>á</w>
+  <w>nýliðinni</w>
+  <w>Hróarskelduhátíð</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Hún</w>
+  <w>hélt</w>
+  <w>lokatónleika</w>
+  <w>hátíðarinnar</w>
+  <w>á</w>
+  <w>aðalsviðinu</w>
+  <w>í</w>
+  <w>gær</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Gagnrýnandi</w>
+  <w>Berlingske</w>
+  <w>Tidende</w>
+  <c>,</c>
+  <w>Jan</w>
+  <w>Eriksen</w>
+  <c>,</c>
+  <w>gefur</w>
+  <w>Björk</w>
+  <w>eina</w>
+  <w>stjörnu</w>
+  <w>og</w>
+  <w>segir</w>
+  <w>að</w>
+  <w>lagavalið</w>
+  <w>hjá</w>
+  <revision id="1">
+    <original><w>Björk</w></original>
+    <corrected><w>henni</w></corrected>
+      <errors>
+        <error xtype="noun4pro" eid="0" />
+      </errors>
+  </revision>
+  <w>hafi</w>
+  <w>ekki</w>
+  <w>hentað</w>
+  <w>í</w>
+  <w>gær</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Aðrir</w>
+  <w>voru</w>
+  <w>hrifnari</w>
+  <w>en</w>
+  <w>gagnrýnandi</w>
+  <w>Berlingske</w>
+  <w>Tidende</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <revision id="2">
+    <original><w>Til</w><w>dæmis</w></original>
+    <corrected><w>Sem</w><w>dæmi</w><w>gaf</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>Esben</w>
+  <w>Strunk</w>
+  <c>,</c>
+  <w>gagnrýnandi</w>
+  <w>hjá</w>
+  <w>tónlistartímaritinu</w>
+  <w>Gaffa</w>
+  <revision id="3">
+    <original><c>.</c><w>Hann</w><w>gaf</w></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="period4comma" idx="3-1" eid="0" />
+        <error xtype="extra-words" idx="3-2" eid="0" />
+      </errors>
+  </revision>
+  <w>Björk</w>
+  <w>fullt</w>
+  <w>hús</w>
+  <w>stiga</w>
+  <revision id="4">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>eða</w>
+  <w>sex</w>
+  <w>stjörnur</w>
+  <w>af</w>
+  <w>sex</w>
+  <w>mögulegum</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Esben</w>
+  <w>segir</w>
+  <w>að</w>
+  <w>tónleikar</w>
+  <w>Bjarkar</w>
+  <w>hafi</w>
+  <w>verið</w>
+  <w>betri</w>
+  <w>en</w>
+  <w>tónleikar</w>
+  <w>Bruce</w>
+  <w>Springsteens</w>
+  <w>á</w>
+  <w>laugardagskvöld</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <revision id="5">
+    <original><w>Mitt</w><w>á</w><w>milli</w></original>
+    <corrected><w>Danska</w><w>blaðið</w><w>Politiken</w></corrected>
+      <errors>
+        <error xtype="wording" idx="5-1" eid="0" />
+        <error xtype="dep" depId="6-1" eid="0" />
+      </errors>
+  </revision>
+  <w>er</w>
+  <w>svo</w>
+  <revision id="6">
+    <original><w>danska</w><w>blaðið</w><w>Politiken</w></original>
+    <corrected><w>mitt</w><w>á</w><w>milli</w></corrected>
+      <errors>
+        <error xtype="dep" depId="5-1" eid="0" />
+        <error xtype="wording" idx="6-1" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <revision id="7">
+    <original><w>sem</w></original>
+    <corrected><w>en</w><w>það</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>gefur</w>
+  <w>Björk</w>
+  <w>þrjár</w>
+  <w>stjörnur</w>
+  <c>.</c>
+</s>
+<s n="8">
+  <revision id="8">
+    <original><w>Segir</w><w>gagnrýnandi</w></original>
+    <corrected><w>Gagnrýnandi</w></corrected>
+      <errors>
+        <error xtype="wording" idx="8-1" eid="0" />
+      </errors>
+  </revision>
+  <w>blaðsins</w>
+  <revision id="9">
+    <original></original>
+    <corrected><w>segir</w></corrected>
+      <errors>
+        <error xtype="dep" depId="8-1" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>tónleikar</w>
+  <w>Bjarkar</w>
+  <w>hafi</w>
+  <w>ekki</w>
+  <w>staðist</w>
+  <w>væntingar</w>
+  <w>sem</w>
+  <w>lokatónleikar</w>
+  <w>á</w>
+  <w>aðalsviði</w>
+  <w>hátíðarinnar</w>
+  <c>.</c>
+</s>
+<s n="9">
+  <w>Sjá</w>
+  <w>umfjöllun</w>
+  <w>um</w>
+  <w>Björk</w>
+  <w>á</w>
+  <w>vef</w>
+  <w>danska</w>
+  <w>ríkisútvarpsins</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

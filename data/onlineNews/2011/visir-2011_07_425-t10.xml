@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Kona</w>
+  <w>á</w>
+  <w>fertugsaldri</w>
+  <w>var</w>
+  <w>dæmd</w>
+  <w>í</w>
+  <w>45</w>
+  <w>daga</w>
+  <w>fangelsi</w>
+  <w>í</w>
+  <w>júní</w>
+  <w>fyrir</w>
+  <w>að</w>
+  <w>draga</w>
+  <w>sér</w>
+  <w>fé</w>
+  <w>af</w>
+  <w>bankareikningum</w>
+  <w>tveggja</w>
+  <w>heimilismanna</w>
+  <w>á</w>
+  <w>sambýli</w>
+  <w>Svæðisskrifstofu</w>
+  <w>málefna</w>
+  <w>fatlaðra</w>
+  <w>á</w>
+  <w>Vesturlandi</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <revision id="1">
+    <original><w>Konunni</w></original>
+    <corrected><w>Konan</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
+  <w>tók</w>
+  <w>samtals</w>
+  <w>tæpar</w>
+  <w>660 þúsund krónur</w>
+  <w>út</w>
+  <w>af</w>
+  <w>reikningunum</w>
+  <revision id="2">
+    <original><w>og</w><w>blandað</w></original>
+    <corrected><c>,</c><w>blandaði</w></corrected>
+      <errors>
+        <error xtype="conjunction4comma" eid="0" />
+        <error xtype="missing-letter" idx="2-1" eid="0" />
+        <error xtype="agreement-pred" idx="2-1" eid="0" />
+      </errors>
+  </revision>
+  <w>saman</w>
+  <w>við</w>
+  <revision id="3">
+    <original><w>sitt</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
+  <w>eigið</w>
+  <w>fé</w>
+  <w>og</w>
+  <revision id="4">
+    <original><w>ráðstafað</w></original>
+    <corrected><w>ráðstafaði</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="4-1" eid="0" />
+        <error xtype="agreement-pred" idx="4-1" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>eigin</w>
+  <w>þágu</w>
+  <w>og</w>
+  <w>fjölskyldu</w>
+  <w>sinnar</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Ýmist</w>
+  <w>tók</w>
+  <w>hún</w>
+  <w>út</w>
+  <w>upphæðir</w>
+  <w>í</w>
+  <w>reiðufé</w>
+  <w>eða</w>
+  <w>lét</w>
+  <w>millifæra</w>
+  <w>fjármuni</w>
+  <w>á</w>
+  <w>eigin</w>
+  <w>bankareikning</w>
+  <w>með</w>
+  <w>beiðnum</w>
+  <w>símleiðis</w>
+  <w>við</w>
+  <w>gjaldkera</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Hæsta</w>
+  <w>millifærslan</w>
+  <w>nam</w>
+  <w>sextíu þúsund</w>
+  <w>krónum</w>
+  <w>en</w>
+  <w>lægsta</w>
+  <w>úttektin</w>
+  <w>var</w>
+  <w>tíu þúsund krónur</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Konan</w>
+  <w>sem</w>
+  <w>um</w>
+  <w>ræðir</w>
+  <w>misnotaði</w>
+  <w>aðstöðu</w>
+  <w>sína</w>
+  <w>sem</w>
+  <w>forstöðumaður</w>
+  <w>Svæðisskrifstofunnar</w>
+  <w>og</w>
+  <w>umboðsmaður</w>
+  <w>bankareikninganna</w>
+  <w>tveggja</w>
+  <w>í</w>
+  <w>Landsbankanum</w>
+  <w>á</w>
+  <w>Akranesi</w>
+  <w>með</w>
+  <w>þessum</w>
+  <w>hætti</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Innistæður</w>
+  <w>reikninganna</w>
+  <w>voru</w>
+  <w>ætlaðar</w>
+  <w>heimilismönnum</w>
+  <w>sambýlisins</w>
+  <w>og</w>
+  <w>var</w>
+  <w>konan</w>
+  <w>ákærð</w>
+  <w>fyrir</w>
+  <w>umboðssvik</w>
+  <w>og</w>
+  <w>brot</w>
+  <w>í</w>
+  <w>opinberu</w>
+  <w>starfi</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>Tekið</w>
+  <w>skal</w>
+  <w>fram</w>
+  <w>að</w>
+  <w>konan</w>
+  <w>greiddi</w>
+  <w>allt</w>
+  <w>til</w>
+  <w>baka</w>
+  <w>eftir</w>
+  <w>að</w>
+  <w>málið</w>
+  <w>uppgötvaðist</w>
+  <w>og</w>
+  <w>var</w>
+  <w>kært</w>
+  <w>til</w>
+  <w>lögreglu</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

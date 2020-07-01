@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Kínverski</w>
+  <w>ísbrjóturinn</w>
+  <w>Snædrekinn</w>
+  <w>er</w>
+  <w>lagður</w>
+  <w>af</w>
+  <w>stað</w>
+  <w>yfir</w>
+  <revision id="1">
+    <original><w>Norður</w><w>Íshafið</w></original>
+    <corrected><w>Norður-Íshafið</w></corrected>
+      <errors>
+        <error xtype="split-word" idx="1-1" eid="0" />
+        <error xtype="missing-dash" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Þessi</w>
+  <w>stærsti</w>
+  <w>ísbrjótur</w>
+  <w>heims</w>
+  <revision id="2">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-commas" idx="2-1" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>ekki</w>
+  <w>er</w>
+  <w>kjarnorkuknúinn</w>
+  <revision id="3">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="dep" depId="2-1" eid="0" />
+      </errors>
+  </revision>
+  <w>mun</w>
+  <w>koma</w>
+  <w>við</w>
+  <w>á</w>
+  <w>Íslandi</w>
+  <w>í</w>
+  <w>ágúst</w>
+  <w>í</w>
+  <w>þeim</w>
+  <w>tilgangi</w>
+  <w>að</w>
+  <w>styrkja</w>
+  <w>enn</w>
+  <w>frekar</w>
+  <w>rannsóknasamstarf</w>
+  <w>landanna</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Um</w>
+  <w>tímamótasiglingu</w>
+  <w>er</w>
+  <w>að</w>
+  <w>ræða</w>
+  <c>,</c>
+  <w>enda</w>
+  <w>er</w>
+  <w>þetta</w>
+  <w>fyrsti</w>
+  <w>kínverski</w>
+  <w>rannsóknarleiðangurinn</w>
+  <w>sem</w>
+  <w>fer</w>
+  <w>hina</w>
+  <w>svonefndu</w>
+  <revision id="4">
+    <original><w>norðausturleið</w></original>
+    <corrected><w>Norðausturleið</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>en</w>
+  <w>hún</w>
+  <w>liggur</w>
+  <w>meðfram</w>
+  <w>Rússlandi</w>
+  <w>og</w>
+  <w>Noregi</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Því</w>
+  <w>hefur</w>
+  <w>verið</w>
+  <w>spáð</w>
+  <w>að</w>
+  <w>þar</w>
+  <w>muni</w>
+  <w>í</w>
+  <w>framtíðinni</w>
+  <w>opnast</w>
+  <w>ábatasöm</w>
+  <w>siglingaleið</w>
+  <w>milli</w>
+  <w>Asíu</w>
+  <w>og</w>
+  <w>Evrópu</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Össur</w>
+  <w>Skarphéðinsson</w>
+  <w>hefur</w>
+  <w>sagt</w>
+  <w>að</w>
+  <w>bráðnun</w>
+  <w>hafíss</w>
+  <w>gæti</w>
+  <w>stuðlað</w>
+  <w>að</w>
+  <w>því</w>
+  <w>að</w>
+  <w>leiðin</w>
+  <w>opnist</w>
+  <w>fyrr</w>
+  <w>en</w>
+  <w>ætlað</w>
+  <w>var</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Margvíslegar</w>
+  <w>rannsóknir</w>
+  <w>munu</w>
+  <w>fara</w>
+  <w>fram</w>
+  <w>um</w>
+  <w>borð</w>
+  <w>í</w>
+  <w>Snædrekanum</w>
+  <w>á</w>
+  <w>leiðinni</w>
+  <c>,</c>
+  <w>einna</w>
+  <w>helst</w>
+  <w>verða</w>
+  <w>áhrif</w>
+  <revision id="5">
+    <original><w>loftlagsbreytinga</w></original>
+    <corrected><w>loftslagsbreytinga</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>norðurheimskautsísinn</w>
+  <w>og</w>
+  <w>vistfræðilegt</w>
+  <w>ástand</w>
+  <w>svæðisins</w>
+  <revision id="6">
+    <original><w>könnuð</w></original>
+    <corrected><w>kannað</w></corrected>
+      <errors>
+        <error xtype="agreement-pred" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>Af</w>
+  <w>þeim</w>
+  <w>60</w>
+  <w>vísindamönnum</w>
+  <w>sem</w>
+  <w>eru</w>
+  <w>um</w>
+  <w>borð</w>
+  <w>eru</w>
+  <w>tveir</w>
+  <w>Íslendingar</w>
+  <w>sem</w>
+  <w>munu</w>
+  <w>vinna</w>
+  <w>að</w>
+  <w>rannsóknum</w>
+  <c>.</c>
+</s>
+<s n="8">
+  <w>Snædrekinn</w>
+  <w>er</w>
+  <w>167</w>
+  <w>metrar</w>
+  <w>að</w>
+  <w>lengd</w>
+  <w>og</w>
+  <w>23</w>
+  <w>metrar</w>
+  <w>að</w>
+  <w>breidd</w>
+  <c>.</c>
+</s>
+<s n="9">
+  <w>Hann</w>
+  <w>getur</w>
+  <w>siglt</w>
+  <w>gegnum</w>
+  <w>ís</w>
+  <w>sem</w>
+  <w>er</w>
+  <revision id="7">
+    <original><w>a</w><c>.</c><w>m.</w><w>k</w><c>.</c></original>
+    <corrected><w>a.m.k.</w></corrected>
+      <errors>
+        <error xtype="extra-space" eid="0" />
+        <error xtype="extra-space" eid="0" />
+        <error xtype="extra-space" eid="0" />
+        <error xtype="extra-space" eid="0" />
+      </errors>
+  </revision>
+  <w>1,1</w>
+  <w>metri</w>
+  <w>að</w>
+  <w>þykkt</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

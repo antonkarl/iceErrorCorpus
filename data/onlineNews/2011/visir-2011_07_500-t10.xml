@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Aðsókn</w>
+  <w>að</w>
+  <w>fíknigeðdeild</w>
+  <w>Landspítalans</w>
+  <w>hefur</w>
+  <w>aukist</w>
+  <w>um</w>
+  <w>allt</w>
+  <w>að</w>
+  <w>tíu</w>
+  <w>prósent</w>
+  <w>á</w>
+  <w>árinu</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Geðlæknir</w>
+  <w>telur</w>
+  <w>það</w>
+  <w>til</w>
+  <w>marks</w>
+  <w>um</w>
+  <w>vaxandi</w>
+  <w>vímuefnavanda</w>
+  <w>í</w>
+  <w>þjóðfélaginu</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Strax</w>
+  <w>fyrstu</w>
+  <w>mánuðina</w>
+  <w>eftir</w>
+  <w>hrunið</w>
+  <w>jókst</w>
+  <w>álag</w>
+  <w>á</w>
+  <w>bráðamóttöku</w>
+  <w>geðdeildar</w>
+  <w>Landspítalans</w>
+  <w>töluvert</w>
+  <w>eða</w>
+  <w>um</w>
+  <w>20%</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Fljótlega</w>
+  <w>dró</w>
+  <w>aftur</w>
+  <w>úr</w>
+  <w>komum</w>
+  <w>en</w>
+  <w>nú</w>
+  <w>virðist</w>
+  <w>sem</w>
+  <w>að</w>
+  <w>þeim</w>
+  <w>sem</w>
+  <w>leita</w>
+  <w>á</w>
+  <w>deildina</w>
+  <w>sé</w>
+  <w>að</w>
+  <w>fjölga</w>
+  <w>á</w>
+  <w>ný</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Páll</w>
+  <w>Matthíasson</w>
+  <c>,</c>
+  <w>geðlæknir</w>
+  <w>og</w>
+  <w>framkvæmdastjóri</w>
+  <w>geðsviðs</w>
+  <revision id="1">
+    <original><w>Landspítala-Háskólasjúkrahús</w></original>
+    <corrected><w>Landspítala</w><w>Háskólasjúkrahúss</w></corrected>
+      <errors>
+        <error xtype="missing-space" idx="1-1" eid="0" />
+        <error xtype="extra-dash" idx="1-1" eid="0" />
+        <error xtype="missing-space" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>segir</w>
+  <w>að</w>
+  <revision id="2">
+    <original><w>þar</w><w>á</w><w>bæ</w></original>
+    <corrected><w>aðsókn</w><w>þangað</w></corrected>
+      <errors>
+        <error xtype="wording" idx="2-1" eid="0" />
+      </errors>
+  </revision>
+  <w>hafi</w>
+  <revision id="3">
+    <original><w>menn</w><w>séð</w></original>
+    <corrected><w>aukist</w></corrected>
+      <errors>
+        <error xtype="dep" depId="2-1" eid="0" />
+      </errors>
+  </revision>
+  <w>hægt</w>
+  <revision id="4">
+    <original><w>vaxandi</w><w>aðsókn</w></original>
+    <corrected><w>og</w><w>bítandi</w></corrected>
+      <errors>
+        <error xtype="dep" depId="2-1" eid="0" />
+      </errors>
+  </revision>
+  <w>undanfarið</w>
+  <revision id="5">
+    <original><c>.</c><w>Sérstaklega</w></original>
+    <corrected><c>,</c><w>sérstaklega</w></corrected>
+      <errors>
+        <error xtype="period4comma" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>bráðamóttökunni</w>
+  <w>og</w>
+  <w>göngudeildinni</w>
+  <revision id="6">
+    <original><w>en</w><w>einnig</w><w>mjög</w><w>hægt</w><w>vaxandi</w></original>
+    <corrected><c>.</c><w>Einnig</w><w>fer</w></corrected>
+      <errors>
+        <error xtype="conjunction4period" eid="0" />
+        <error xtype="wording" idx="6-1" eid="0" />
+      </errors>
+  </revision>
+  <w>aðsókn</w>
+  <w>að</w>
+  <w>almennum</w>
+  <w>geðdeildum</w>
+  <revision id="7">
+    <original></original>
+    <corrected><w>sívaxandi</w></corrected>
+      <errors>
+        <error xtype="dep" depId="6-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Í</w>
+  <w>rauninni</w>
+  <w>sé</w>
+  <w>það</w>
+  <w>ekkert</w>
+  <w>á</w>
+  <w>við</w>
+  <w>það</w>
+  <w>sem</w>
+  <revision id="8">
+    <original><w>þeir</w><w>áttu</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wording" idx="8-1" eid="0" />
+      </errors>
+  </revision>
+  <w>von</w>
+  <revision id="9">
+    <original></original>
+    <corrected><w>var</w></corrected>
+      <errors>
+        <error xtype="dep" depId="8-1" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>Það</w>
+  <w>vekur</w>
+  <w>hins</w>
+  <w>vegar</w>
+  <w>athygli</w>
+  <w>að</w>
+  <w>dálítið</w>
+  <revision id="10">
+    <original><w>hraðari</w></original>
+    <corrected><w>meiri</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>aukning</w>
+  <w>er</w>
+  <w>í</w>
+  <w>aðsókn</w>
+  <w>á</w>
+  <w>fíknigeðdeildina</w>
+  <w>og</w>
+  <w>virðist</w>
+  <w>vímuefnavandinn</w>
+  <revision id="11">
+    <original><w>vera</w><w>aukinn</w></original>
+    <corrected><w>hafa</w><w>aukist</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="8">
+  <w>Á</w>
+  <w>fíknigeðdeild</w>
+  <w>Landspítala</w>
+  <w>er</w>
+  <w>rekin</w>
+  <w>sérhæfð</w>
+  <w>þjónusta</w>
+  <w>fyrir</w>
+  <w>einstaklinga</w>
+  <w>þar</w>
+  <w>sem</w>
+  <w>geðraskanir</w>
+  <w>og</w>
+  <w>misnotkun</w>
+  <w>vímuefna</w>
+  <w>fara</w>
+  <w>saman</w>
+  <c>.</c>
+</s>
+<s n="9">
+  <w>Páll</w>
+  <w>segir</w>
+  <w>að</w>
+  <w>fjölgun</w>
+  <w>sjúklinga</w>
+  <w>þar</w>
+  <w>hafi</w>
+  <w>verið</w>
+  <w>þó</w>
+  <w>nokkur</w>
+  <w>eða</w>
+  <w>á</w>
+  <w>bilinu</w>
+  <w>sjö</w>
+  <w>til</w>
+  <w>tíu</w>
+  <w>prósent</w>
+  <w>milli</w>
+  <w>ára</w>
+  <c>,</c>
+  <w>núna</w>
+  <w>þrjú</w>
+  <w>ár</w>
+  <w>í</w>
+  <w>röð</w>
+  <c>.</c>
+</s>
+<s n="10">
+  <w>Töluvert</w>
+  <w>meiri</w>
+  <w>aukning</w>
+  <w>er</w>
+  <w>á</w>
+  <w>göngudeildinni</w>
+  <w>þar</w>
+  <w>eða</w>
+  <w>sem</w>
+  <w>nemur</w>
+  <w>tuttugu</w>
+  <w>til</w>
+  <w>þrjátíu</w>
+  <revision id="12">
+    <original><w>prósent</w></original>
+    <corrected><w>prósentum</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="11">
+  <w>Páll</w>
+  <w>segir</w>
+  <w>erfitt</w>
+  <w>að</w>
+  <w>segja</w>
+  <w>til</w>
+  <w>um</w>
+  <w>af</w>
+  <w>hverju</w>
+  <w>álag</w>
+  <w>á</w>
+  <w>fíknigeðdeildina</w>
+  <w>er</w>
+  <w>að</w>
+  <w>aukast</w>
+  <c>.</c>
+</s>
+<s n="12">
+  <w>Margt</w>
+  <w>bendi</w>
+  <w>til</w>
+  <w>þess</w>
+  <w>að</w>
+  <w>vímuefnavandinn</w>
+  <w>sé</w>
+  <w>vaxandi</w>
+  <w>vandamál</w>
+  <w>í</w>
+  <w>þjóðfélaginu</w>
+  <c>.</c>
+</s>
+<s n="13">
+  <w>Þegar</w>
+  <w>aðstæður</w>
+  <w>séu</w>
+  <w>erfiðar</w>
+  <w>þá</w>
+  <w>leitar</w>
+  <w>fólk</w>
+  <w>jafnvel</w>
+  <w>leiða</w>
+  <w>til</w>
+  <w>að</w>
+  <w>flýja</w>
+  <w>raunveruleikann</w>
+  <w>og</w>
+  <w>kannski</w>
+  <w>sé</w>
+  <w>þetta</w>
+  <w>ein</w>
+  <w>af</w>
+  <w>leiðunum</w>
+  <c>,</c>
+  <w>það</w>
+  <w>er</w>
+  <w>að</w>
+  <w>nota</w>
+  <w>vímuefni</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

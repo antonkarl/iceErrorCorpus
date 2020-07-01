@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <c>„</c>
+  <w>Ég</w>
+  <w>er</w>
+  <w>náttúrulega</w>
+  <w>rosalega</w>
+  <w>fegin</w>
+  <w>og</w>
+  <w>mjög</w>
+  <w>spennt</w>
+  <c>,</c>
+  <revision id="1">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
+  <w>segir</w>
+  <w>Björk</w>
+  <w>Eiðsdóttir</w>
+  <revision id="2">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-commas" idx="2-1" eid="0" />
+      </errors>
+  </revision>
+  <w>blaðamaður</w>
+  <revision id="3">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="2-1" eid="0" />
+      </errors>
+  </revision>
+  <w>en</w>
+  <revision id="4">
+    <original><w>mannréttindadómstóll</w></original>
+    <corrected><w>Mannréttindadómstóll</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
+  <w>Evrópu</w>
+  <w>mun</w>
+  <w>kveða</w>
+  <w>upp</w>
+  <w>dóm</w>
+  <w>í</w>
+  <w>máli</w>
+  <w>hennar</w>
+  <w>og</w>
+  <w>Erlu</w>
+  <w>Hlynsdóttur</w>
+  <c>,</c>
+  <w>kollega</w>
+  <w>hennar</w>
+  <c>,</c>
+  <w>á</w>
+  <w>þriðjudaginn</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Björk</w>
+  <w>og</w>
+  <w>Erla</w>
+  <w>voru</w>
+  <w>dæmdar</w>
+  <w>til</w>
+  <w>að</w>
+  <w>greiða</w>
+  <w>skaðabætur</w>
+  <w>vegna</w>
+  <w>ummæla</w>
+  <w>sem</w>
+  <w>þær</w>
+  <w>höfðu</w>
+  <w>eftir</w>
+  <w>viðmælendum</w>
+  <w>sínum</w>
+  <w>í</w>
+  <w>beinni</w>
+  <w>ræðu</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Málið</w>
+  <w>snerist</w>
+  <w>um</w>
+  <w>greinar</w>
+  <w>sem</w>
+  <w>þær</w>
+  <w>skrifuðu</w>
+  <w>um</w>
+  <w>nektardansstaðina</w>
+  <w>Goldfinger</w>
+  <w>og</w>
+  <w>Strawberries</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <revision id="5">
+    <original><w>Lögmaður</w></original>
+    <corrected><w>Lögmaður</w><w>þeirra</w></corrected>
+      <errors>
+        <error xtype="dep" depId="6-1" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>Gunnar</w>
+  <w>Ingi</w>
+  <w>Jóhannsson</w>
+  <c>,</c>
+  <revision id="6">
+    <original><w>þeirra</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wording" idx="6-1" eid="0" />
+      </errors>
+  </revision>
+  <w>sendi</w>
+  <w>inn</w>
+  <w>kæru</w>
+  <w>til</w>
+  <w>Mannréttindadómstólsins</w>
+  <w>í</w>
+  <w>kjölfar</w>
+  <w>dómsins</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Hann</w>
+  <w>telur</w>
+  <w>niðurstöðu</w>
+  <w>dómstóla</w>
+  <w>hér</w>
+  <w>á</w>
+  <w>landi</w>
+  <w>stangast</w>
+  <w>á</w>
+  <w>við</w>
+  <w>ákvæði</w>
+  <w>mannréttindasáttmálans</w>
+  <w>um</w>
+  <w>tjáningarfrelsi</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <c>„</c>
+  <w>Ég</w>
+  <w>er</w>
+  <w>mjög</w>
+  <w>bjartsýn</w>
+  <revision id="7">
+    <original><w>segir</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <revision id="8">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
+  <w>segir</w>
+  <w>Björk</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <c>„</c>
+  <w>Þetta</w>
+  <w>hefur</w>
+  <w>áhrif</w>
+  <w>á</w>
+  <w>okkur</w>
+  <w>öll</w>
+  <c>,</c>
+  <w>blaðamennina</w>
+  <c>,</c>
+  <w>enda</w>
+  <w>er</w>
+  <w>dómurinn</w>
+  <revision id="9">
+    <original><w>er</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
+  <w>fordæmisgefandi</w>
+  <c>.</c>
+  <revision id="10">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
+</s>
+</p></body></text>
+</TEI>

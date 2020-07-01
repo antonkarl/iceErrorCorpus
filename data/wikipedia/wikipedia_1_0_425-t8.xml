@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Ferill</w>
+  <w>er</w>
+  <w>í</w>
+  <w>stærðfræði</w>
+  <w>haft</w>
+  <w>um</w>
+  <w>rúmfræðilegt</w>
+  <revision id="1">
+    <original><w>fyribæri</w></original>
+    <corrected><w>fyrirbæri</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="1-1" eid="0" />
+        <error xtype="nonword" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>samsvarar</w>
+  <w>beinni</w>
+  <w>línu</w>
+  <w>en</w>
+  <w>þarf</w>
+  <w>þó</w>
+  <w>ekki</w>
+  <w>að</w>
+  <w>vera</w>
+  <revision id="2">
+    <original><w><i>bein</i></w></original>
+    <corrected><c>„</c><w>bein</w><c>“</c></corrected>
+      <errors>
+        <error xtype="it4nonit" idx="2-1" eid="0" />
+        <error xtype="missing-quots" idx="2-2" eid="0" />
+        <error xtype="dep" depId="2-2" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Ferill</w>
+  <w>getur</w>
+  <w>verið</w>
+  <revision id="3">
+    <original><w><i>opinn</i></w></original>
+    <corrected><c>„</c><w>opinn</w><c>“</c></corrected>
+      <errors>
+        <error xtype="it4nonit" idx="3-1" eid="0" />
+        <error xtype="missing-quots" idx="3-2" eid="0" />
+        <error xtype="dep" depId="3-2" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>hefur</w>
+  <w>þá</w>
+  <w>upphafs- og endapunkt</w>
+  <w>eða</w>
+  <revision id="4">
+    <original><w><i>lokaður</i></w></original>
+    <corrected><c>„</c><w>lokaður</w><c>“</c></corrected>
+      <errors>
+        <error xtype="it4nonit" idx="4-1" eid="0" />
+        <error xtype="missing-quots" idx="4-2" eid="0" />
+        <error xtype="dep" depId="4-2" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>hefur</w>
+  <w>þá</w>
+  <w>hvorugt</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Reikna</w>
+  <w>má</w>
+  <w>ferillengd</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>alltaf</w>
+  <w>er</w>
+  <w>stærri</w>
+  <w>en</w>
+  <w>núll</w>
+  <c>,</c>
+  <w>en</w>
+  <w>getur</w>
+  <w>þó</w>
+  <w>verið</w>
+  <w>óendanleg</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Sýna</w>
+  <w>má</w>
+  <w>feril</w>
+  <w>falls</w>
+  <c>,</c>
+  <w>eða</w>
+  <w>ofanvarpið</w>
+  <w>á</w>
+  <w>tvívíða</w>
+  <w>sléttu</w>
+  <c>,</c>
+  <w>eða</w>
+  <w>í</w>
+  <w>tvinnsléttunni</w>
+  <c>,</c>
+  <w>með</w>
+  <w>línuriti</w>
+  <c>(</c>
+  <w>grafi</w>
+  <c>)</c>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Keilusnið</w>
+  <w>eru</w>
+  <w>dæmi</w>
+  <w>um</w>
+  <w>algenga</w>
+  <w>ferla</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Eðlisfræðin</w>
+  <w>fjallar</w>
+  <w>mikið</w>
+  <w>um</w>
+  <w>hluti</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>hreyfast</w>
+  <w>í</w>
+  <w>ýmsum</w>
+  <w>sviðum</w>
+  <w>og</w>
+  <w>lýsa</w>
+  <w>ferlar</w>
+  <w>staðsetningu</w>
+  <w>hlutarins</w>
+  <w>í</w>
+  <w>sviðinu</w>
+  <w>á</w>
+  <w>sérhverjum</w>
+  <w>tímapunkti</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>Ferilheildi</w>
+  <w>eru</w>
+  <w>heildi</w>
+  <revision id="5">
+    <original></original>
+    <corrected><w>sem</w></corrected>
+      <errors>
+        <error xtype="missing-conjunction" eid="0" />
+      </errors>
+  </revision>
+  <w>reiknuð</w>
+  <revision id="6">
+    <original></original>
+    <corrected><w>eru</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>eftir</w>
+  <w>ákveðnum</w>
+  <w>ferli</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>getur</w>
+  <w>verið</w>
+  <w>opinn</w>
+  <w>eða</w>
+  <w>lokaður</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Húsnæðismál</w>
+  <c>-</c>
+  <w>Jón</w>
+  <w>Kjartansson</w>
+  <w>frá</w>
+  <w>Pálmholti</w>
+  <c>,</c>
+  <w>fyrrverandi</w>
+  <w>formaður</w>
+  <w>Leigjendasamtakanna</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Á</w>
+  <w>næsta</w>
+  <w>ári</w>
+  <w>er</w>
+  <w>hálf</w>
+  <w>öld</w>
+  <w>liðin</w>
+  <w>síðan</w>
+  <w>þingmenn</w>
+  <revision id="1">
+    <original><w>Sjálfstæðis- og Framsóknarflokka</w></original>
+    <corrected><w>Sjálfstæðis- og Framsóknarflokksins</w></corrected>
+      <errors>
+        <error xtype="plural4singular" idx="1-1" eid="0" />
+        <error xtype="ind4def" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>samþykktu</w>
+  <w>á</w>
+  <w>Alþingi</w>
+  <w>að</w>
+  <w>koma</w>
+  <w>á</w>
+  <w>fót</w>
+  <w>Húsnæðismálastjórn</w>
+  <w>í</w>
+  <w>andstöðu</w>
+  <w>við</w>
+  <w>þingmenn</w>
+  <w>Alþýðuflokks</w>
+  <w>og</w>
+  <w>Sósíalista</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Þetta</w>
+  <w>má</w>
+  <w>kalla</w>
+  <w>upphaf</w>
+  <w>opinberrar</w>
+  <w>húsnæðisstefnu</w>
+  <w>hér</w>
+  <w>á</w>
+  <w>landi</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Í</w>
+  <w>framhaldi</w>
+  <w>komu</w>
+  <w>Húsnæðisstofnun</w>
+  <w>og</w>
+  <w>Byggingasjóður</w>
+  <w>ríkisins</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Á</w>
+  <w>þessum</w>
+  <w>tíma</w>
+  <revision id="2">
+    <original><w>voru</w><w>sveitamenn</w></original>
+    <corrected><w>var</w><w>sveitafólk</w></corrected>
+      <errors>
+        <error xtype="gendered" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>rífa</w>
+  <w>torfbæina</w>
+  <w>og</w>
+  <c>„</c>
+  <w>flóttinn</w>
+  <c>“</c>
+  <w>úr</w>
+  <w>sveitunum</w>
+  <w>var</w>
+  <w>löngu</w>
+  <w>hafinn</w>
+  <c>,</c>
+  <w>enda</w>
+  <w>ný</w>
+  <w>tækni</w>
+  <w>komin</w>
+  <w>til</w>
+  <w>fiskveiða</w>
+  <w>og</w>
+  <w>fólkið</w>
+  <w>flykktist</w>
+  <w>á</w>
+  <w>mölina</w>
+  <w>eins</w>
+  <w>og</w>
+  <w>sagt</w>
+  <w>var</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Í</w>
+  <w>sveitinni</w>
+  <revision id="3">
+    <original><w>byggðu</w><w>menn</w></original>
+    <corrected><w>byggði</w><w>fólk</w></corrected>
+      <errors>
+        <error xtype="gendered" idx="3-1" eid="0" />
+      </errors>
+  </revision>
+  <w>yfir</w>
+  <w>sig</w>
+  <revision id="4">
+    <original><w>sjálfir</w></original>
+    <corrected><w>sjálft</w></corrected>
+      <errors>
+        <error xtype="dep" depId="3-1" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>eins</w>
+  <w>í</w>
+  <w>þorpunum</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>Byggingasjóðurinn</w>
+  <w>var</w>
+  <w>sniðinn</w>
+  <w>eftir</w>
+  <w>lánasjóði</w>
+  <w>bænda</w>
+  <w>og</w>
+  <w>átti</w>
+  <w>að</w>
+  <w>lána</w>
+  <w>fjölskyldum</w>
+  <w>til</w>
+  <w>að</w>
+  <w>koma</w>
+  <w>yfir</w>
+  <w>sig</w>
+  <w>þaki</w>
+  <revision id="5">
+    <original><w>og</w><w>þeir</w></original>
+    <corrected><c>.</c><w>Þeir</w></corrected>
+      <errors>
+        <error xtype="conjunction4period" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>gátu</w>
+  <w>héldu</w>
+  <w>áfram</w>
+  <w>að</w>
+  <w>byggja</w>
+  <w>sjálfir</w>
+  <c>,</c>
+  <w>líka</w>
+  <revision id="6">
+    <original><w>í</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
+  <w>hér</w>
+  <w>í</w>
+  <w>Reykjavík</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>var</w>
+  <w>aðeins</w>
+  <revision id="7">
+    <original></original>
+    <corrected><w>enn</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>eitt</w>
+  <w>þorpið</w>
+  <c>.</c>
+</s>
+<s n="8">
+  <w>Allt</w>
+  <w>tók</w>
+  <w>mið</w>
+  <w>af</w>
+  <w>því</w>
+  <w>að</w>
+  <w>hver</w>
+  <w>fjölskylda</w>
+  <w>kæmi</w>
+  <w>sér</w>
+  <w>sjálf</w>
+  <w>upp</w>
+  <w>framtíðarhúsnæði</w>
+  <w>eins</w>
+  <w>og</w>
+  <w>í</w>
+  <w>sveitinni</w>
+  <c>.</c>
+</s>
+<s n="9">
+  <w>Þessi</w>
+  <w>fjölskyldustefna</w>
+  <w>ríkir</w>
+  <w>enn</w>
+  <c>,</c>
+  <w>þrátt</w>
+  <w>fyrir</w>
+  <w>allt</w>
+  <w>hringlið</w>
+  <w>með</w>
+  <w>lánakerfið</w>
+  <c>,</c>
+  <w>og</w>
+  <revision id="8">
+    <original><w>er</w><w>tíðkuð</w></original>
+    <corrected><w>tíðkast</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>fleiri</w>
+  <w>sviðum</w>
+  <c>.</c>
+</s>
+<s n="10">
+  <w>Ekkert</w>
+  <w>tillit</w>
+  <w>er</w>
+  <w>tekið</w>
+  <w>til</w>
+  <w>þjóðfélagsbreytinga</w>
+  <c>.</c>
+</s>
+<s n="11">
+  <w>Nú</w>
+  <w>eru</w>
+  <w>rúm</w>
+  <w>35</w>
+  <w>prósent</w>
+  <w>landsmanna</w>
+  <w>venjulegt</w>
+  <w>fjölskyldufólk</w>
+  <w>og</w>
+  <w>um</w>
+  <w>27</w>
+  <w>prósent</w>
+  <w>þeirra</w>
+  <w>búa</w>
+  <w>einir</w>
+  <c>.</c>
+</s>
+<s n="12">
+  <w>Fólk</w>
+  <w>flytur</w>
+  <w>milli</w>
+  <w>landa</w>
+  <w>og</w>
+  <w>staða</w>
+  <w>á</w>
+  <w>nokkurra</w>
+  <w>ára</w>
+  <w>fresti</w>
+  <w>vegna</w>
+  <w>vinnu</w>
+  <revision id="9">
+    <original><w>og</w></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="conjunction4comma" eid="0" />
+      </errors>
+  </revision>
+  <w>rúmur</w>
+  <w>þriðjungur</w>
+  <w>þjóðarinnar</w>
+  <w>býr</w>
+  <w>í</w>
+  <w>Reykjavík</w>
+  <w>einni</w>
+  <w>og</w>
+  <revision id="10">
+    <original></original>
+    <corrected><w>sér</w><w>og</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <w>hefur</w>
+  <w>enn</w>
+  <w>ekki</w>
+  <w>fullan</w>
+  <w>atkvæðisrétt</w>
+  <w>í</w>
+  <w>þingkosningum</w>
+  <c>!</c>
+</s>
+<s n="13">
+  <w>Annað</w>
+  <w>eins</w>
+  <w>býr</w>
+  <w>í</w>
+  <w>öðru</w>
+  <w>þéttbýli</w>
+  <c>.</c>
+</s>
+<s n="14">
+  <w>Reykvískir</w>
+  <w>verkamenn</w>
+  <w>knúðu</w>
+  <w>fram</w>
+  <revision id="11">
+    <original><w>með</w><w>verkfalli</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wording" idx="11-1" eid="0" />
+      </errors>
+  </revision>
+  <w>stofnun</w>
+  <w>Byggingasjóðs</w>
+  <w>verkamanna</w>
+  <revision id="12">
+    <original></original>
+    <corrected><w>með</w><w>verkfalli</w></corrected>
+      <errors>
+        <error xtype="dep" depId="11-1" eid="0" />
+      </errors>
+  </revision>
+  <w>til</w>
+  <w>að</w>
+  <w>byggja</w>
+  <w>yfir</w>
+  <w>alþýðufólk</w>
+  <w>sem</w>
+  <w>þá</w>
+  <w>bjó</w>
+  <w>í</w>
+  <w>bröggum</w>
+  <w>og</w>
+  <w>skúrum</w>
+  <w>út</w>
+  <w>um</w>
+  <w>alla</w>
+  <w>borg</w>
+  <c>.</c>
+</s>
+<s n="15">
+  <w>Ekkert</w>
+  <w>hefur</w>
+  <w>breytt</w>
+  <w>Reykjavík</w>
+  <w>meira</w>
+  <w>til</w>
+  <w>betri</w>
+  <w>vegar</w>
+  <w>en</w>
+  <w>þetta</w>
+  <w>framtak</w>
+  <c>.</c>
+</s>
+<s n="16">
+  <revision id="13">
+    <original><w>Sveitamenn</w><w>hafa</w></original>
+    <corrected><w>Sveitafólk</w><w>hefur</w></corrected>
+      <errors>
+        <error xtype="gendered" idx="13-1" eid="0" />
+      </errors>
+  </revision>
+  <w>alltaf</w>
+  <w>stjórnað</w>
+  <w>sjálfu</w>
+  <w>húsnæðislánakerfinu</w>
+  <w>og</w>
+  <revision id="14">
+    <original><w>fóru</w></original>
+    <corrected><w>fór</w></corrected>
+      <errors>
+        <error xtype="dep" depId="13-1" eid="0" />
+      </errors>
+  </revision>
+  <w>fljótt</w>
+  <w>að</w>
+  <w>ná</w>
+  <w>sér</w>
+  <w>í</w>
+  <w>peninga</w>
+  <w>úr</w>
+  <w>Byggingasjóði</w>
+  <w>verkamanna</w>
+  <w>til</w>
+  <w>að</w>
+  <w>byggja</w>
+  <revision id="15">
+    <original></original>
+    <corrected><w>íbúðir</w></corrected>
+      <errors>
+        <error xtype="wording" idx="15-1" eid="0" />
+      </errors>
+  </revision>
+  <w>út</w>
+  <w>um</w>
+  <w>land</w>
+  <revision id="16">
+    <original><w>íbúðir</w></original>
+    <corrected><w>allt</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+        <error xtype="dep" depId="15-1" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>engin</w>
+  <w>þörf</w>
+  <w>var</w>
+  <w>fyrir</w>
+  <c>,</c>
+  <w>einungis</w>
+  <w>til</w>
+  <w>að</w>
+  <w>skapa</w>
+  <w>atvinnu</w>
+  <w>í</w>
+  <w>plássunum</w>
+  <c>.</c>
+</s>
+<s n="17">
+  <w>Víða</w>
+  <w>stóðu</w>
+  <w>þessar</w>
+  <w>íbúðir</w>
+  <w>auðar</w>
+  <revision id="17">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>enda</w>
+  <w>þær</w>
+  <w>dýrustu</w>
+  <w>í</w>
+  <w>þorpunum</w>
+  <c>,</c>
+  <w>meðan</w>
+  <revision id="18">
+    <original></original>
+    <corrected><w>íbúðir</w><w>vantaði</w></corrected>
+      <errors>
+        <error xtype="wording" idx="18-1" eid="0" />
+      </errors>
+  </revision>
+  <w>hér</w>
+  <w>í</w>
+  <w>Reykjavík</w>
+  <revision id="19">
+    <original><w>vantaði</w><w>íbúðir</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="18-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="18">
+  <w>Þá</w>
+  <w>lögðu</w>
+  <w>sveitakarlarnir</w>
+  <w>sjóðinn</w>
+  <w>niður</w>
+  <w>án</w>
+  <w>þess</w>
+  <w>að</w>
+  <w>nokkuð</w>
+  <w>kæmi</w>
+  <w>í</w>
+  <w>staðinn</w>
+  <w>nema</w>
+  <w>meiri</w>
+  <w>lán</w>
+  <c>.</c>
+</s>
+<s n="19">
+  <w>Hér</w>
+  <w>í</w>
+  <revision id="20">
+    <original><w>Borginni</w></original>
+    <corrected><w>borginni</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
+  <w>virkaði</w>
+  <w>þetta</w>
+  <w>alla</w>
+  <w>tíð</w>
+  <c>,</c>
+  <w>en</w>
+  <w>hefði</w>
+  <w>átt</w>
+  <w>fyrir</w>
+  <w>löngu</w>
+  <w>að</w>
+  <w>vera</w>
+  <w>búið</w>
+  <w>að</w>
+  <w>breyta</w>
+  <w>því</w>
+  <c>.</c>
+</s>
+<s n="20">
+  <w>Eftir</w>
+  <w>þetta</w>
+  <w>hefur</w>
+  <w>verið</w>
+  <w>hér</w>
+  <w>alvarlegur</w>
+  <w>húsnæðisvandi</w>
+  <w>sem</w>
+  <w>ráðamenn</w>
+  <w>horfa</w>
+  <w>fram</w>
+  <w>hjá</w>
+  <c>.</c>
+</s>
+<s n="21">
+  <w>Kenningin</w>
+  <w>um</w>
+  <c>„</c>
+  <w>jafnvægi</w>
+  <w>í</w>
+  <w>byggð</w>
+  <w>landsins</w>
+  <c>“</c>
+  <w>er</w>
+  <w>trúlega</w>
+  <w>eitt</w>
+  <w>stærsta</w>
+  <w>rugl</w>
+  <w>Íslandssögunnar</w>
+  <c>,</c>
+  <revision id="21">
+    <original><w>a</w><c>.</c><w>m.</w><w>k</w><c>.</c></original>
+    <corrected><w>a.m.k.</w></corrected>
+      <errors>
+        <error xtype="missing-space" idx="21-1" eid="0" />
+        <error xtype="missing-space" idx="21-1" eid="0" />
+        <error xtype="missing-space" idx="21-1" eid="0" />
+        <error xtype="missing-space" idx="21-1" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>síðari</w>
+  <w>öldum</w>
+  <c>.</c>
+</s>
+<s n="22">
+  <w>Ég</w>
+  <w>spyr</w>
+  <w>því</w>
+  <w>enn</w>
+  <c>;</c>
+  <w>hvar</w>
+  <w>eru</w>
+  <w>þingmenn</w>
+  <w>Reykjavíkur</w>
+  <c>?</c>
+</s>
+</p></body></text>
+</TEI>

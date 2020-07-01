@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Tafir</w>
+  <w>hafa</w>
+  <w>orðið</w>
+  <w>á</w>
+  <w>smíði</w>
+  <w>veiðihúss</w>
+  <w>við</w>
+  <w>Miðá</w>
+  <w>í</w>
+  <w>Steingrímsfirði</w>
+  <w>sem</w>
+  <w>Lax-á</w>
+  <w>hóf</w>
+  <w>að</w>
+  <w>bjóða</w>
+  <w>veiðileyfi</w>
+  <w>í</w>
+  <w>fyrir</w>
+  <w>þetta</w>
+  <w>sumar</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Að</w>
+  <w>því</w>
+  <w>er</w>
+  <w>segir</w>
+  <w>á</w>
+  <w>vef</w>
+  <w>fyrirtækisins</w>
+  <w>ætti</w>
+  <w>húsið</w>
+  <w>þó</w>
+  <w>að</w>
+  <w>verða</w>
+  <w>tilbúið</w>
+  <w>í</w>
+  <revision id="1">
+    <original><w>viikunni</w></original>
+    <corrected><w>vikunni</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="1-1" eid="0" />
+        <error xtype="nonword" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

@@ -1,0 +1,3850 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>London</w>
+  <revision id="1">
+    <original><c>(</c></original>
+    <corrected><c>,</c><w>sem</w></corrected>
+      <errors>
+        <error xtype="bracket4comma" idx="1-1" eid="0" />
+        <error xtype="missing-conjunction" idx="1-2" eid="0" />
+      </errors>
+  </revision>
+  <w>stundum</w>
+  <revision id="2">
+    <original></original>
+    <corrected><w>er</w><w>kölluð</w><w>Lundúnir</w></corrected>
+      <errors>
+        <error xtype="missing-words" idx="2-1" eid="0" />
+        <error xtype="dep" depId="3-1" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>íslensku</w>
+  <revision id="3">
+    <original><w>Lundúnir</w><c>)</c></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="wording" idx="3-1" eid="0" />
+        <error xtype="bracket4comma" idx="3-2" eid="0" />
+      </errors>
+  </revision>
+  <w>er</w>
+  <w>höfuðborg</w>
+  <w>Englands</w>
+  <w>og</w>
+  <w>Bretlands</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Í</w>
+  <w>London</w>
+  <w>hefur</w>
+  <w>verið</w>
+  <w>byggð</w>
+  <w>í</w>
+  <revision id="4">
+    <original><w>meira</w><w>en</w></original>
+    <corrected><w>yfir</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>tvö</w>
+  <w>þúsund</w>
+  <w>ár</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>London</w>
+  <w>er</w>
+  <w>fjölmennasta</w>
+  <w>borg</w>
+  <w>Evrópusambandsins</w>
+  <w>og</w>
+  <w>þriðja</w>
+  <w>fjölmennasta</w>
+  <w>borg</w>
+  <w>Evrópu</w>
+  <revision id="5">
+    <original></original>
+    <corrected><c>,</c><w>á</w></corrected>
+      <errors>
+        <error xtype="missing-comma" idx="5-1" eid="0" />
+        <error xtype="missing-word" idx="5-2" eid="0" />
+      </errors>
+  </revision>
+  <w>eftir</w>
+  <w>Moskvu</w>
+  <w>og</w>
+  <w>Ankara</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Í</w>
+  <w>London</w>
+  <revision id="6">
+    <original><w>búa</w></original>
+    <corrected><w>bjuggu</w></corrected>
+      <errors>
+        <error xtype="pres4past" eid="0" />
+      </errors>
+  </revision>
+  <w>um</w>
+  <w>8,5</w>
+  <w>milljónir</w>
+  <revision id="7">
+    <original><c>(</c><w>2013</w><c>)</c></original>
+    <corrected><w>manns</w><w>árið 2013</w></corrected>
+      <errors>
+        <error xtype="missing-word" idx="7-1" eid="0" />
+        <error xtype="extra-bracket" idx="7-2" eid="0" />
+        <error xtype="missing-word" idx="7-3" eid="0" />
+        <error xtype="extra-bracket" idx="7-4" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Allt</w>
+  <w>að</w>
+  <w>13</w>
+  <w>milljónir</w>
+  <w>manna</w>
+  <w>búa</w>
+  <w>í</w>
+  <w>London</w>
+  <revision id="8">
+    <original><w>ásamt</w></original>
+    <corrected><w>ef</w><w>íbúar</w><w>í</w></corrected>
+      <errors>
+        <error xtype="wording" idx="8-1" eid="0" />
+      </errors>
+  </revision>
+  <w>úthverfum</w>
+  <revision id="9">
+    <original></original>
+    <corrected><w>eru</w><w>taldir</w><w>með</w></corrected>
+      <errors>
+        <error xtype="dep" depId="8-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>London</w>
+  <w>er</w>
+  <w>heimsborg</w>
+  <w>í</w>
+  <w>þeim</w>
+  <w>skilningi</w>
+  <w>að</w>
+  <w>hún</w>
+  <w>er</w>
+  <revision id="10">
+    <original><w>einn</w><w>af</w><w>leiðandi</w><w>viðskipta-, stjórnmála- og menningarkjörnum</w><w>heimsins</w></original>
+    <corrected><w>í</w><w>forystuflokki</w><w>viðskipta-, stjórnmála- og menningarkjarna</w><w>á</w><w>heimsvísu</w></corrected>
+      <errors>
+        <error xtype="wording" idx="10-1" eid="0" />
+        <error xtype="dep" depId="10-1" eid="0" />
+        <error xtype="wording" idx="10-2" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>hefur</w>
+  <w>verið</w>
+  <w>um</w>
+  <w>árabil</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>Í</w>
+  <w>dag</w>
+  <w>hefur</w>
+  <w>borgin</w>
+  <w>gríðarleg</w>
+  <w>áhrif</w>
+  <w>á</w>
+  <w>heimsvísu</w>
+  <w>og</w>
+  <w>er</w>
+  <w>þekkt</w>
+  <w>fyrir</w>
+  <w>fjármálastarfsemi</w>
+  <w>sína</w>
+  <c>,</c>
+  <w>næturlíf</w>
+  <c>,</c>
+  <w>tísku</w>
+  <w>og</w>
+  <w>listir</w>
+  <c>.</c>
+</s>
+<s n="8">
+  <w>Í</w>
+  <w>London</w>
+  <w>er</w>
+  <w>sannkallað</w>
+  <revision id="11">
+    <original><w>fjölmenningarlegt</w><w>samfélag</w><c>,</c></original>
+    <corrected><w>fjölmenningarsamfélag</w><w>og</w><w>þar</w><w>eru</w><w>töluð</w></corrected>
+      <errors>
+        <error xtype="wording" idx="11-1" eid="0" />
+        <error xtype="comma4conjunction" idx="11-2" eid="0" />
+        <error xtype="dep" depId="12-1" eid="0" />
+      </errors>
+  </revision>
+  <w>yfir</w>
+  <w>300</w>
+  <w>mismunandi</w>
+  <w>tungumál</w>
+  <revision id="12">
+    <original><w>eru</w><w>töluð</w><w>þar</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wording" idx="12-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="9">
+  <w>Á</w>
+  <w>stóra</w>
+  <w>Lundúnasvæðinu</w>
+  <w>eru</w>
+  <w>fjórir</w>
+  <w>staðir</w>
+  <w>á</w>
+  <w>heimsminjaskrá</w>
+  <w>UNESCO</w>
+  <revision id="13">
+    <original></original>
+    <corrected><c>.</c><w>Þeir</w><w>eru</w></corrected>
+      <errors>
+        <error xtype="missing-period" idx="13-1" eid="0" />
+        <error xtype="missing-words" idx="13-2" eid="0" />
+      </errors>
+  </revision>
+  <c>:</c>
+  <w>Tower</w>
+  <w>of</w>
+  <w>London</w>
+  <c>,</c>
+  <w>söguleg</w>
+  <w>byggð</w>
+  <w>Greenwich</w>
+  <c>,</c>
+  <w>Konunglegi</w>
+  <w>grasagarðurinn</w>
+  <w>og</w>
+  <w>svæðið</w>
+  <w>umhverfis</w>
+  <revision id="14">
+    <original><w>Westminsterhöll</w></original>
+    <corrected><w>Westminister-höll</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <revision id="15">
+    <original><w>Westminster</w><w>klaustur</w></original>
+    <corrected><w>Westminister-klaustur</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>kirkju</w>
+  <w>heilagrar</w>
+  <w>Margrétar</w>
+  <c>.</c>
+</s>
+<s n="10">
+  <w>Nálægt</w>
+  <w>London</w>
+  <w>eru</w>
+  <w>fimm</w>
+  <w>alþjóðaflugvellir</w>
+  <w>sem</w>
+  <w>eru</w>
+  <w>algengir</w>
+  <w>viðkomustaðir</w>
+  <w>ferðamanna</w>
+  <c>.</c>
+</s>
+<s n="11">
+  <w>Í</w>
+  <w>borginni</w>
+  <w>eru</w>
+  <w>margir</w>
+  <w>frægir</w>
+  <w>ferðamannastaðir</w>
+  <revision id="16">
+    <original><w>s</w><c>.</c><w>s</w></original>
+    <corrected><w>þ.á.m</w></corrected>
+      <errors>
+        <error xtype="wording" idx="16-1" eid="0" />
+        <error xtype="extra-space" idx="16-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="12">
+  <revision id="17">
+    <original><w>Westminsterhöllin</w></original>
+    <corrected><w>Westminister-höllin</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>Tower-brúin</w>
+  <c>,</c>
+  <revision id="18">
+    <original><w>Buckinghamhöll</w></original>
+    <corrected><w>Buckingham-höllin</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>Big</w>
+  <w>Ben</w>
+  <w>auk</w>
+  <w>heimsfrægra</w>
+  <w>safna</w>
+  <w>eins</w>
+  <w>og</w>
+  <w>Þjóðminjasafn</w>
+  <w>Bretlands</w>
+  <w>og</w>
+  <w>Listasafn</w>
+  <w>Bretlands</w>
+  <c>.</c>
+</s>
+<s n="13">
+  <revision id="19">
+    <original><w>Thames-áin</w></original>
+    <corrected><w>Áin</w><w>Thames</w></corrected>
+      <errors>
+        <error xtype="wording" idx="19-1" eid="0" />
+        <error xtype="extra-dash" idx="19-1" eid="0" />
+      </errors>
+  </revision>
+  <w>rennur</w>
+  <w>gegnum</w>
+  <w>borgina</w>
+  <c>.</c>
+</s>
+<s n="14">
+  <w>Borgarstjóri</w>
+  <w>Lundúna</w>
+  <w>er</w>
+  <w>Sadiq</w>
+  <w>Khan</w>
+  <w>sem</w>
+  <w>tók</w>
+  <w>við</w>
+  <w>embætti</w>
+  <w>af</w>
+  <w>Boris</w>
+  <w>Johnson</w>
+  <w>í</w>
+  <revision id="20">
+    <original><w>maí 2016</w></original>
+    <corrected><w>maí árið 2016</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="15">
+  <w>Talið</w>
+  <w>er</w>
+  <w>að</w>
+  <revision id="21">
+    <original><w>Rómverjar</w></original>
+    <corrected><w>um</w><w>árið 43 e.Kr.</w></corrected>
+      <errors>
+        <error xtype="wording" idx="21-1" eid="0" />
+        <error xtype="dep" depId="25-1" eid="0" />
+      </errors>
+  </revision>
+  <w>hafi</w>
+  <revision id="22">
+    <original></original>
+    <corrected><w>Rómverjar</w></corrected>
+      <errors>
+        <error xtype="dep" depId="21-1" eid="0" />
+      </errors>
+  </revision>
+  <w>sest</w>
+  <w>að</w>
+  <revision id="23">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-commas" idx="23-1" eid="0" />
+      </errors>
+  </revision>
+  <w>þar</w>
+  <w>sem</w>
+  <revision id="24">
+    <original><w>nú</w><w>er</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wording" idx="24-1" eid="0" />
+      </errors>
+  </revision>
+  <w>London</w>
+  <revision id="25">
+    <original><c>,</c><w>um</w><w>43 e.Kr.</w></original>
+    <corrected><w>er</w><w>nú</w></corrected>
+      <errors>
+        <error xtype="dep" depId="23-1" eid="0" />
+        <error xtype="wording" idx="25-1" eid="0" />
+        <error xtype="missing-word" idx="25-1" eid="0" />
+        <error xtype="dep" depId="24-1" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>í</w>
+  <w>kjölfar</w>
+  <revision id="26">
+    <original><w>innrásarinnar</w></original>
+    <corrected><w>innrásar</w><w>þeirra</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <revision id="27">
+    <original><w>Bretlandi</w></original>
+    <corrected><w>Bretland</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>og</w>
+  <w>nefnt</w>
+  <w>byggð</w>
+  <w>sína</w>
+  <w><i>Londinium</i></w>
+  <c>.</c>
+</s>
+<s n="16">
+  <revision id="28">
+    <original><w>Þó</w><w>er</w></original>
+    <corrected><w>Keltar</w><w>voru</w><w>í</w><w>landinu</w><w>fyrir</w><c>,</c><w>þegar</w><w>Rómverjar</w><w>settust</w><w>að</w><w>og</w></corrected>
+      <errors>
+        <error xtype="wording" idx="28-1" eid="0" />
+        <error xtype="dep" depId="31-1" eid="0" />
+      </errors>
+  </revision>
+  <w>talið</w>
+  <revision id="29">
+    <original></original>
+    <corrected><w>er</w></corrected>
+      <errors>
+        <error xtype="dep" depId="29-1" eid="0" />
+      </errors>
+  </revision>
+  <w>víst</w>
+  <w>að</w>
+  <w>uppruni</w>
+  <w>nafnsins</w>
+  <w>sé</w>
+  <revision id="30">
+    <original></original>
+    <corrected><w>jafnvel</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>eldri</w>
+  <w>en</w>
+  <w>keltneskur</w>
+  <revision id="31">
+    <original><w>en</w><w>Keltar</w><w>voru</w><w>fyrir</w><w>í</w><w>landinu</w><w>þegar</w><w>Rómverjar</w><w>komu</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wording" idx="31-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="17">
+  <w>Um</w>
+  <w>61 e.Kr.</w>
+  <w>réðist</w>
+  <w>keltneski</w>
+  <w>ættbálkurinn</w>
+  <w>Iceni</w>
+  <c>,</c>
+  <w>undir</w>
+  <w>stjórn</w>
+  <w>Boudicu</w>
+  <w>drottningu</w>
+  <c>,</c>
+  <w>á</w>
+  <revision id="32">
+    <original></original>
+    <corrected><w>rómversku</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>borgina</w>
+  <w>og</w>
+  <w>brenndi</w>
+  <revision id="33">
+    <original></original>
+    <corrected><w>hana</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>til</w>
+  <w>kaldra</w>
+  <w>kola</w>
+  <c>.</c>
+</s>
+<s n="18">
+  <revision id="34">
+    <original><w>Uppúr</w><w>árinu 100</w></original>
+    <corrected><w>Upp</w><w>úr</w><w>árinu 100 e.Kr.</w></corrected>
+      <errors>
+        <error xtype="merged-words" idx="34-1" eid="0" />
+        <error xtype="missing-words" idx="34-2" eid="0" />
+      </errors>
+  </revision>
+  <w>hafði</w>
+  <revision id="35">
+    <original><w>orðið</w></original>
+    <corrected><w>verið</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>töluverður</w>
+  <w>uppvöxtur</w>
+  <w>og</w>
+  <w>var</w>
+  <w>London</w>
+  <w>þá</w>
+  <w>orðin</w>
+  <w>stærri</w>
+  <w>en</w>
+  <w>Colchester</w>
+  <c>,</c>
+  <w>helsta</w>
+  <w>vígi</w>
+  <w>Rómverja</w>
+  <w>á</w>
+  <w>Englandi</w>
+  <c>.</c>
+</s>
+<s n="19">
+  <w>Næstu</w>
+  <w>aldirnar</w>
+  <revision id="36">
+    <original></original>
+    <corrected><w>þar</w><w>á</w><w>eftir</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <w>stækkaði</w>
+  <w>London</w>
+  <w>og</w>
+  <w>náði</w>
+  <w>60 þúsund</w>
+  <w>manna</w>
+  <w>íbúatölu</w>
+  <w>áður</w>
+  <w>en</w>
+  <w>borgin</w>
+  <w>tók</w>
+  <revision id="37">
+    <original></original>
+    <corrected><w>svo</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>hnigna</w>
+  <revision id="38">
+    <original><w>samfara</w></original>
+    <corrected><c>,</c><w>samhliða</w></corrected>
+      <errors>
+        <error xtype="missing-commas" idx="38-1" eid="0" />
+        <error xtype="wording" idx='38-2' eid="0" />
+      </errors>
+  </revision>
+  <w>hnignun</w>
+  <w>Rómaveldis</w>
+  <revision id="39">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="dep" depId="38-1" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>á</w>
+  <w>5.</w>
+  <w>öld</w>
+  <w>var</w>
+  <w>hún</w>
+  <revision id="40">
+    <original></original>
+    <corrected><w>orðin</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>nánast</w>
+  <w>yfirgefin</w>
+  <c>.</c>
+</s>
+<s n="20">
+  <w>Um</w>
+  <revision id="41">
+    <original><w>600</w></original>
+    <corrected><w>600 e.Kr.</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <w>höfðu</w>
+  <w>Engilsaxar</w>
+  <w>gert</w>
+  <w>nýtt</w>
+  <w>aðsetur</w>
+  <c>,</c>
+  <w>kallað</w>
+  <w>Lundenwic</w>
+  <c>,</c>
+  <w>í</w>
+  <w>u.þ.b.</w>
+  <revision id="42">
+    <original><w>1 km</w></original>
+    <corrected><w>kílómetra</w></corrected>
+      <errors>
+        <error xtype="zzz" eid="0" />
+      </errors>
+  </revision>
+  <w>fjarlægð</w>
+  <w>frá</w>
+  <w>gamla</w>
+  <w>rómverska</w>
+  <w>virkinu</w>
+  <c>,</c>
+  <w>á</w>
+  <w>svipuðum</w>
+  <w>slóðum</w>
+  <w>og</w>
+  <w>þar</w>
+  <w>sem</w>
+  <w>nú</w>
+  <w>er</w>
+  <w>Covent</w>
+  <w>Garden</w>
+  <c>.</c>
+</s>
+<s n="21">
+  <w>Þar</w>
+  <w>var</w>
+  <revision id="43">
+    <original><w>líklegast</w></original>
+    <corrected><w>líklega</w></corrected>
+      <errors>
+        <error xtype="adjective-inflection" eid="0" />
+      </errors>
+  </revision>
+  <w>höfn</w>
+  <w>við</w>
+  <w>mynni</w>
+  <w>Fleet-árinnar</w>
+  <w>fyrir</w>
+  <w>fiskveiðar</w>
+  <w>og</w>
+  <w>verslun</w>
+  <c>.</c>
+</s>
+<s n="22">
+  <w>Verslun</w>
+  <w>jókst</w>
+  <w>þar</w>
+  <w>til</w>
+  <w>hrikalegt</w>
+  <w>bakslag</w>
+  <revision id="44">
+    <original><w>kom</w></original>
+    <corrected><w>varð</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>árið 851</w>
+  <c>,</c>
+  <revision id="45">
+    <original><w>þegar</w></original>
+    <corrected><w>en</w><w>þá</w><w>brugðust</w></corrected>
+      <errors>
+        <error xtype="wording" idx="45-1" eid="0" />
+        <error xtype="dep" depId="46-1" eid="0" />
+      </errors>
+  </revision>
+  <w>varnir</w>
+  <w>nýju</w>
+  <w>borgarinnar</w>
+  <revision id="46">
+    <original><w>brugðust</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wording" idx="46-1" eid="0" />
+      </errors>
+  </revision>
+  <w>algerlega</w>
+  <revision id="47">
+    <original><w>gegn</w><w>máttugum</w><w>víkingum</w><w>sem</w></original>
+    <corrected><w>þegar</w><w>máttugir</w><w>víkingar</w><w>réðust</w><w>inn</w><c>,</c></corrected>
+      <errors>
+        <error xtype="wording" idx="47-1" eid="0" />
+        <error xtype="missing-comma" idx="47-2" eid="0" />
+      </errors>
+  </revision>
+  <w>rændu</w>
+  <w>borgina</w>
+  <w>og</w>
+  <w>brenndu</w>
+  <w>hana</w>
+  <w>svo</w>
+  <w>til</w>
+  <w>grunna</w>
+  <c>.</c>
+</s>
+<s n="23">
+  <revision id="48">
+    <original><w>Víkingatíminn</w></original>
+    <corrected><w>Tími</w><w>víkinganna</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>stóð</w>
+  <w>stutt</w>
+  <revision id="49">
+    <original></original>
+    <corrected><w>yfir</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="24">
+  <w>Tuttugu</w>
+  <w>árum</w>
+  <w>seinna</w>
+  <w>samdi</w>
+  <w>Alfreð</w>
+  <w>mikli</w>
+  <c>,</c>
+  <revision id="50">
+    <original></original>
+    <corrected><w>þá</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>nýi</w>
+  <w>konungur</w>
+  <w>Englands</w>
+  <c>,</c>
+  <w>um</w>
+  <w>frið</w>
+  <w>við</w>
+  <w>víkinga</w>
+  <revision id="51">
+    <original><w>og</w></original>
+    <corrected><c>.</c><w>Hann</w></corrected>
+      <errors>
+        <error xtype="conjunction4period" idx="51-1" eid="0" />
+        <error xtype="missing-word" idx="51-2" eid="0" />
+      </errors>
+  </revision>
+  <w>færði</w>
+  <w>borgina</w>
+  <w>aftur</w>
+  <w>á</w>
+  <w>sinn</w>
+  <w>upprunalega</w>
+  <w>stað</w>
+  <c>,</c>
+  <w>inn</w>
+  <w>fyrir</w>
+  <w>rómversku</w>
+  <w>virkisveggina</w>
+  <c>,</c>
+  <w>og</w>
+  <w>kallaði</w>
+  <w>borgina</w>
+  <w>Lundúnaborg</w>
+  <c>(</c>
+  <w>e.</w>
+  <w>Lundenburgh</w>
+  <c>)</c>
+  <c>.</c>
+</s>
+<s n="25">
+  <w>Upprunalega</w>
+  <w>borgin</w>
+  <w>varð</w>
+  <revision id="52">
+    <original><w>síðan</w></original>
+    <corrected><w>svo</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w><i>Ealdwīc</i></w>
+  <revision id="53">
+    <original><c>(</c></original>
+    <corrected><w>eða</w></corrected>
+      <errors>
+        <error xtype="extra-bracket" idx="53-1" eid="0" />
+        <error xtype="missing-conjunction" idx="53-1" eid="0" />
+      </errors>
+  </revision>
+  <c>„</c>
+  <w>gamlaborg</w>
+  <c>“</c>
+  <revision id="54">
+    <original><c>)</c><c>,</c></original>
+    <corrected><w>og</w><w>er</w><w>það</w></corrected>
+      <errors>
+        <error xtype="extra-bracket" idx="54-1" eid="0" />
+        <error xtype="comma4conjunction" idx="54-2" eid="0" />
+        <error xtype="missing-words" idx="54-3" eid="0" />
+      </errors>
+  </revision>
+  <w>nafn</w>
+  <w>sem</w>
+  <w>notað</w>
+  <w>er</w>
+  <w>enn</w>
+  <w>þann</w>
+  <w>dag</w>
+  <w>í</w>
+  <w>dag</w>
+  <w>sem</w>
+  <revision id="55">
+    <original><w>Aldwych</w></original>
+    <corrected><w><i>Aldwych</i></w></corrected>
+      <errors>
+        <error xtype="nonit4it" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="26">
+  <w>Í</w>
+  <w>kjölfarið</w>
+  <revision id="56">
+    <original></original>
+    <corrected><w>dafnaði</w><w>London</w></corrected>
+      <errors>
+        <error xtype="dep" depId="57-1" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>undir</w>
+  <w>stjórn</w>
+  <w>ýmissa</w>
+  <w>konunga</w>
+  <c>,</c>
+  <revision id="57">
+    <original><w>dafnaði</w><w>London</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wording" idx="57-1" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>varð</w>
+  <w>mikilvæg</w>
+  <w>alþjóðleg</w>
+  <w>verslunarborg</w>
+  <w>og</w>
+  <w>stjórnmálalegt</w>
+  <w>aðsetur</w>
+  <c>.</c>
+</s>
+<s n="27">
+  <w>Árásir</w>
+  <w>víkinga</w>
+  <w>hófust</w>
+  <w>aftur</w>
+  <w>seint</w>
+  <w>á</w>
+  <w>10.</w>
+  <w>öldinni</w>
+  <w>og</w>
+  <w>náðu</w>
+  <w>hámarki</w>
+  <w>um</w>
+  <w>1013</w>
+  <w>þegar</w>
+  <w>þeir</w>
+  <w>sátu</w>
+  <w>um</w>
+  <w>borgina</w>
+  <w>undir</w>
+  <w>stjórn</w>
+  <w>danska</w>
+  <w>konungsins</w>
+  <w>Knúts</w>
+  <w>og</w>
+  <w>neyddu</w>
+  <w>enska</w>
+  <w>konunginn</w>
+  <w>Aethelred</w>
+  <w>til</w>
+  <w>að</w>
+  <w>flýja</w>
+  <c>.</c>
+</s>
+<s n="28">
+  <w>Í</w>
+  <w>endurárás</w>
+  <w>skömmu</w>
+  <w>síðar</w>
+  <c>,</c>
+  <w>náði</w>
+  <w>her</w>
+  <w>Aethelred</w>
+  <w>að</w>
+  <w>vinna</w>
+  <w>sigur</w>
+  <w>á</w>
+  <w>víkingum</w>
+  <w>með</w>
+  <w>því</w>
+  <w>að</w>
+  <w>toga</w>
+  <w>niður</w>
+  <w><i>Tower</i></w>
+  <w><i>Bridge</i></w>
+  <revision id="58">
+    <original><w>með</w></original>
+    <corrected><w>ásamt</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>danska</w>
+  <w>setuliðinu</w>
+  <revision id="59">
+    <original></original>
+    <corrected><w>sem</w></corrected>
+      <errors>
+        <error xtype="missing-conjunction" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>henni</w>
+  <revision id="60">
+    <original></original>
+    <corrected><w>stóð</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>enn</w>
+  <w>einu</w>
+  <w>sinni</w>
+  <revision id="61">
+    <original><w>var</w></original>
+    <corrected><w>komst</w></corrected>
+      <errors>
+        <error xtype="wording" idx="61-1" eid="0" />
+      </errors>
+  </revision>
+  <w>London</w>
+  <revision id="62">
+    <original><w>komin</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="61-1" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>réttan</w>
+  <w>kjöl</w>
+  <c>.</c>
+</s>
+<s n="29">
+  <revision id="63">
+    <original><w>Canute</w></original>
+    <corrected><w>Knútur</w></corrected>
+      <errors>
+        <error xtype="fw4ice" eid="0" />
+      </errors>
+  </revision>
+  <w>tók</w>
+  <w>við</w>
+  <w>ensku</w>
+  <w>krúnunni</w>
+  <w>árið 1017</w>
+  <w>og</w>
+  <w>stjórnaði</w>
+  <w>borg</w>
+  <w>og</w>
+  <w>landi</w>
+  <w>allt</w>
+  <w>fram</w>
+  <w>til</w>
+  <revision id="64">
+    <original><w>1042</w></original>
+    <corrected><w>ársins 1042</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="30">
+  <w>Við</w>
+  <w>dauða</w>
+  <revision id="65">
+    <original><w>Canute</w></original>
+    <corrected><w>Knúts</w></corrected>
+      <errors>
+        <error xtype="fw4ice" eid="0" />
+      </errors>
+  </revision>
+  <w>komst</w>
+  <w>krúnan</w>
+  <w>aftur</w>
+  <w>undir</w>
+  <w>engilsaxneskt</w>
+  <w>vald</w>
+  <revision id="66">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>undir</w>
+  <w>ráðvöndum</w>
+  <w>stjúpsyni</w>
+  <w>hans</w>
+  <w>Edward</w>
+  <w>játara</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>endurstofnaði</w>
+  <w>Westminster</w>
+  <w>Abbey</w>
+  <c>(</c>
+  <revision id="67">
+    <original><w>Westminster</w><w>klaustur</w></original>
+    <corrected><w><i>Westminister-klaustur</i></w></corrected>
+      <errors>
+        <error xtype="nonit4it" idx="67-1" eid="0" />
+        <error xtype="missing-dash" idx="67-2" eid="0" />
+      </errors>
+  </revision>
+  <c>)</c>
+  <w>og</w>
+  <w>stækkaði</w>
+  <w>höllina</w>
+  <w>í</w>
+  <w>Westminster</w>
+  <c>.</c>
+</s>
+<s n="31">
+  <w>Á</w>
+  <w>þessum</w>
+  <w>tíma</w>
+  <w>var</w>
+  <w>London</w>
+  <w>orðin</w>
+  <w>stærsta</w>
+  <w>og</w>
+  <w>efnaðasta</w>
+  <w>borgin</w>
+  <w>á</w>
+  <w>öllu</w>
+  <w>Englandi</w>
+  <w>en</w>
+  <w>þrátt</w>
+  <w>fyrir</w>
+  <w>það</w>
+  <w>var</w>
+  <w>aðalaðsetur</w>
+  <w>stjórnarinnar</w>
+  <w>enn</w>
+  <w>í</w>
+  <w>Winchester</w>
+  <c>.</c>
+</s>
+<s n="32">
+  <w>Í</w>
+  <w>kjölfar</w>
+  <w>sigurs</w>
+  <w>í</w>
+  <w>orrustunni</w>
+  <w>við</w>
+  <w>Hastings</w>
+  <w>var</w>
+  <w>Vilhjálmur</w>
+  <w>bastarður</w>
+  <c>,</c>
+  <w>þáverandi</w>
+  <w>hertogi</w>
+  <w>af</w>
+  <w>Normandy</w>
+  <c>,</c>
+  <w>krýndur</w>
+  <w>konungur</w>
+  <w>Englands</w>
+  <c>,</c>
+  <w>í</w>
+  <revision id="68">
+    <original><w>nýlega</w><w>kláruðu</w><w>Westminster</w><w>klaustri</w></original>
+    <corrected><w>nýkláruðu</w><w>Westminister-klaustrinu</w></corrected>
+      <errors>
+        <error xtype="wording" idx="68-1" eid="0" />
+        <error xtype="missing-dash" idx="68-2" eid="0" />
+        <error xtype="ind4def" idx="68-3" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>á</w>
+  <w>jóladag</w>
+  <w>1066</w>
+  <c>.</c>
+</s>
+<s n="33">
+  <w>Vilhjálmur</w>
+  <w>veitti</w>
+  <w>borgurum</w>
+  <w>London</w>
+  <w>ákveðin</w>
+  <w>forréttindi</w>
+  <w>á</w>
+  <w>meðan</w>
+  <w>á</w>
+  <w>byggingu</w>
+  <w>kastala</w>
+  <w>í</w>
+  <w>suðvestur</w>
+  <w>horni</w>
+  <w>borgarinnar</w>
+  <w>stóð</w>
+  <c>,</c>
+  <w>til</w>
+  <w>að</w>
+  <w>halda</w>
+  <revision id="69">
+    <original><w>borgurunum</w></original>
+    <corrected><w>þeim</w></corrected>
+      <errors>
+        <error xtype="noun4pro" eid="0" />
+      </errors>
+  </revision>
+  <w>góðum</w>
+  <c>.</c>
+</s>
+<s n="34">
+  <w>Þessi</w>
+  <w>kastali</w>
+  <w>var</w>
+  <w>síðar</w>
+  <w>stækkaður</w>
+  <w>af</w>
+  <w>öðrum</w>
+  <w>konungum</w>
+  <w>sem</w>
+  <w>Tower</w>
+  <w>of</w>
+  <w>London</w>
+  <w>og</w>
+  <w>gegndi</w>
+  <w>fyrst</w>
+  <w>hlutverki</w>
+  <w>sem</w>
+  <w>konunglegt</w>
+  <w>aðsetur</w>
+  <w>en</w>
+  <w>síðar</w>
+  <w>sem</w>
+  <w>fangelsi</w>
+  <c>.</c>
+</s>
+<s n="35">
+  <w>Árið 1097</w>
+  <w>byrjaði</w>
+  <w>Vilhjálmur</w>
+  <w>2.</w>
+  <w>að</w>
+  <w>byggja</w>
+  <revision id="70">
+    <original><w>Westminster</w><w>salinn</w></original>
+    <corrected><w>Westminister-salinn</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>nálægt</w>
+  <w>klaustrinu</w>
+  <w>með</w>
+  <w>sama</w>
+  <w>nafni</w>
+  <c>.</c>
+</s>
+<s n="36">
+  <w>Salurinn</w>
+  <w>varð</w>
+  <w>grunnurinn</w>
+  <w>að</w>
+  <w>nýju</w>
+  <w>höllinni</w>
+  <w>í</w>
+  <w>Westminster</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>var</w>
+  <w>aðalaðsetur</w>
+  <w>aðalsins</w>
+  <w>á</w>
+  <w>miðöldum</w>
+  <c>.</c>
+</s>
+<s n="37">
+  <w>Westminster</w>
+  <w>varð</w>
+  <w>fljótlega</w>
+  <w>aðsetur</w>
+  <w>konunglega</w>
+  <revision id="71">
+    <original><w>dómsstólsins</w></original>
+    <corrected><w>dómstólsins</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="71-1" eid="0" />
+        <error xtype="compound-nonword" idx="71-1" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>stjórnvalda</w>
+  <w>og</w>
+  <w>er</w>
+  <w>það</w>
+  <w>enn</w>
+  <w>þann</w>
+  <w>dag</w>
+  <w>í</w>
+  <w>dag</w>
+  <c>.</c>
+</s>
+<s n="38">
+  <w>Á</w>
+  <w>meðan</w>
+  <w>var</w>
+  <w>nágrannaborgin</w>
+  <w>Lundúnaborg</w>
+  <w>miðstöð</w>
+  <w>viðskipta</w>
+  <w>og</w>
+  <w>verslunar</w>
+  <w>og</w>
+  <w>dafnaði</w>
+  <w>undir</w>
+  <w>eigin</w>
+  <w>stjórn</w>
+  <c>.</c>
+</s>
+<s n="39">
+  <w>Á</w>
+  <w>endanum</w>
+  <w>uxu</w>
+  <w>borgirnar</w>
+  <w>saman</w>
+  <w>og</w>
+  <w>mynduðu</w>
+  <w>undirstöðu</w>
+  <w>nútíma</w>
+  <w>London</w>
+  <c>.</c>
+</s>
+<s n="40">
+  <w>London</w>
+  <w>tók</w>
+  <w>við</w>
+  <w>af</w>
+  <w>Winchester</w>
+  <w>sem</w>
+  <w>höfuðborg</w>
+  <w>Englands</w>
+  <w>á</w>
+  <w>12.</w>
+  <w>öld</w>
+  <c>.</c>
+</s>
+<s n="41">
+  <w>Hörmungar</w>
+  <w>skullu</w>
+  <w>á</w>
+  <w>þegar</w>
+  <w>svarti</w>
+  <w>dauði</w>
+  <w>geisaði</w>
+  <w>um</w>
+  <w>miðja</w>
+  <w>14.</w>
+  <w>öldina</w>
+  <w>en</w>
+  <w>þriðjungur</w>
+  <w>borgarbúa</w>
+  <w>lét</w>
+  <w>lífið</w>
+  <w>í</w>
+  <w>farsóttinni</w>
+  <c>.</c>
+</s>
+<s n="42">
+  <revision id="72">
+    <original><w>En</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wording" idx="72-1" eid="0" />
+      </errors>
+  </revision>
+  <w>London</w>
+  <w>slapp</w>
+  <revision id="73">
+    <original></original>
+    <corrected><w>þó</w></corrected>
+      <errors>
+        <error xtype="dep" depId="72-1" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>mestu</w>
+  <w>við</w>
+  <w>innrásir</w>
+  <w>og</w>
+  <w>borgarastríð</w>
+  <w>á</w>
+  <w>miðöldum</w>
+  <c>,</c>
+  <revision id="74">
+    <original><w>ef</w><w>frá</w><w>er</w><w>skilin</w><w>bændabyltingin</w></original>
+    <corrected><w>að</w><w>undanskilinni</w><w>bændabyltingunni</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>árið 1381</w>
+  <c>.</c>
+</s>
+<s n="43">
+  <w>Eftir</w>
+  <w>vel</w>
+  <w>heppnaðan</w>
+  <w>sigur</w>
+  <w>á</w>
+  <w>spænska</w>
+  <w>sjóhernum</w>
+  <w>árið 1588</w>
+  <c>,</c>
+  <revision id="75">
+    <original><w>gerði</w></original>
+    <corrected><w>var</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>stjórnmálalegur</w>
+  <w>stöðugleiki</w>
+  <revision id="76">
+    <original></original>
+    <corrected><w>í</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>London</w>
+  <revision id="77">
+    <original></original>
+    <corrected><w>sem</w><w>gerði</w><w>borginni</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <w>kleift</w>
+  <w>að</w>
+  <w>stækka</w>
+  <w>og</w>
+  <w>dafna</w>
+  <w>enn</w>
+  <w>meir</w>
+  <c>.</c>
+</s>
+<s n="44">
+  <w>Árið 1603</w>
+  <c>,</c>
+  <w>varð</w>
+  <w>Jakob</w>
+  <w>6.</w>
+  <w>konungur</w>
+  <w>bæði</w>
+  <w>Englands</w>
+  <w>og</w>
+  <w>Skotlands</w>
+  <c>.</c>
+</s>
+<s n="45">
+  <revision id="78">
+    <original><w>And-kaþólsk</w></original>
+    <corrected><w>Andkaþólsk</w></corrected>
+      <errors>
+        <error xtype="extra-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>stefna</w>
+  <w>hans</w>
+  <w>og</w>
+  <w>grimmileg</w>
+  <w>lög</w>
+  <w>voru</w>
+  <w>almúganum</w>
+  <w>ekki</w>
+  <w>að</w>
+  <w>skapi</w>
+  <revision id="79">
+    <original><w>og</w><w>gerðu</w></original>
+    <corrected><w>sem</w><w>gerði</w></corrected>
+      <errors>
+        <error xtype="conjunction" idx="79-1" eid="0" />
+        <error xtype="agreement" idx="79-2" eid="0" />
+      </errors>
+  </revision>
+  <w>hann</w>
+  <w>afar</w>
+  <w>óvinsælan</w>
+  <revision id="80">
+    <original><c>.</c><w>Þann</w><w>5. nóvember</w><w>1605</w></original>
+    <corrected><w>og</w><w>þann</w><w>5. nóvember árið 1605</w></corrected>
+      <errors>
+        <error xtype="period4conjunction" idx="80-1" eid="0" />
+        <error xtype="missing-word" idx="80-2" eid="0" />
+      </errors>
+  </revision>
+  <w>var</w>
+  <w>gerð</w>
+  <w>tilraun</w>
+  <w>til</w>
+  <w>að</w>
+  <w>ráða</w>
+  <w>hann</w>
+  <w>af</w>
+  <w>dögum</w>
+  <c>.</c>
+</s>
+<s n="46">
+  <w>Svarti</w>
+  <w>dauði</w>
+  <w>olli</w>
+  <w>miklum</w>
+  <w>usla</w>
+  <w>í</w>
+  <w>London</w>
+  <w>snemma</w>
+  <w>á</w>
+  <w>17.</w>
+  <w>öldinni</w>
+  <w>sem</w>
+  <w>leiddi</w>
+  <w>af</w>
+  <w>sér</w>
+  <w>pláguna</w>
+  <w>miklu</w>
+  <w>í</w>
+  <w>London</w>
+  <w>sem</w>
+  <w>stóð</w>
+  <w>frá</w>
+  <w>1665</w>
+  <c>–</c>
+  <w>1666</w>
+  <c>.</c>
+</s>
+<s n="47">
+  <w>Þetta</w>
+  <w>var</w>
+  <w>síðasta</w>
+  <w>stóra</w>
+  <w>plágan</w>
+  <w>í</w>
+  <w>Evrópu</w>
+  <revision id="81">
+    <original><c>,</c></original>
+    <corrected><w>og</w></corrected>
+      <errors>
+        <error xtype="comma4conjunction" eid="0" />
+      </errors>
+  </revision>
+  <w>hugsanlega</w>
+  <revision id="82">
+    <original><w>að</w><w>þakka</w></original>
+    <corrected><w>var</w><w>það</w></corrected>
+      <errors>
+        <error xtype="wording" idx="82-1" eid="0" />
+      </errors>
+  </revision>
+  <w>brunanum</w>
+  <w>mikla</w>
+  <revision id="83">
+    <original></original>
+    <corrected><w>að</w><w>þakka</w></corrected>
+      <errors>
+        <error xtype="dep" depId="82-1" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>fylgdi</w>
+  <w>strax</w>
+  <w>í</w>
+  <w>kjölfarið</w>
+  <w>og</w>
+  <w>breiddist</w>
+  <w>um</w>
+  <w>viðarhús</w>
+  <w>London</w>
+  <w>eins</w>
+  <w>og</w>
+  <w>eldur</w>
+  <w>í</w>
+  <w>sinu</w>
+  <w>og</w>
+  <w>drap</w>
+  <revision id="84">
+    <original><w>líklegast</w></original>
+    <corrected><w>líklega</w></corrected>
+      <errors>
+        <error xtype="adj4adv" eid="0" />
+      </errors>
+  </revision>
+  <w>flestar</w>
+  <revision id="85">
+    <original><w>smitberandi</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wording" idx="85-1" eid="0" />
+      </errors>
+  </revision>
+  <w>rottur</w>
+  <revision id="86">
+    <original></original>
+    <corrected><w>sem</w><w>voru</w><w>aðalsmitberar</w><w>veikinnar</w></corrected>
+      <errors>
+        <error xtype="missing-words" idx="86-1" eid="0" />
+        <error xtype="dep" depId="85-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="48">
+  <w>Endurbygging</w>
+  <w>borgarinnar</w>
+  <w>tók</w>
+  <revision id="87">
+    <original><w>síðan</w></original>
+    <corrected><w>svo</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>yfir</w>
+  <w>tíu</w>
+  <w>ár</w>
+  <c>.</c>
+</s>
+<s n="49">
+  <w>Þann</w>
+  <w>6. ágúst 2011</w>
+  <w>brutust</w>
+  <w>óeirðir</w>
+  <w>út</w>
+  <w>í</w>
+  <w>mörgum</w>
+  <w>hverfum</w>
+  <w>í</w>
+  <w>London</w>
+  <w>vegna</w>
+  <w>dauða</w>
+  <w>Mark</w>
+  <w>Duggan</w>
+  <c>,</c>
+  <w>manns</w>
+  <w>sem</w>
+  <w>var</w>
+  <w>skotinn</w>
+  <w>til</w>
+  <w>bana</w>
+  <w>af</w>
+  <w>lögreglunni</w>
+  <c>.</c>
+</s>
+<s n="50">
+  <revision id="88">
+    <original><w>Skýring</w></original>
+    <corrected><w>Nákvæm</w><w>borgarmörk</w></corrected>
+      <errors>
+        <error xtype="wording" idx="88-1" eid="0" />
+      </errors>
+  </revision>
+  <w>London</w>
+  <revision id="89">
+    <original><w>er</w><w>óviss</w></original>
+    <corrected><w>eru</w><w>óljós</w></corrected>
+      <errors>
+        <error xtype="dep" depId="88-1" eid="0" />
+        <error xtype="wording" idx="89-1" eid="0" />
+      </errors>
+  </revision>
+  <w>vegna</w>
+  <revision id="90">
+    <original><w>háttar</w><w>á</w><w>sem</w></original>
+    <corrected><w>þess</w><w>hvernig</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>borgin</w>
+  <w>hefur</w>
+  <w>vaxið</w>
+  <revision id="91">
+    <original></original>
+    <corrected><w>óreglulega</w><w>í</w><w>gegnum</w><w>tíðina</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="51">
+  <w>Miðborgin</w>
+  <w>í</w>
+  <w>London</w>
+  <w>er</w>
+  <w>Lundúnaborg</w>
+  <c>(</c>
+  <w>e.</w>
+  <w><i>City</i></w>
+  <w><i>of</i></w>
+  <w><i>London</i></w>
+  <c>)</c>
+  <w>sem</w>
+  <revision id="92">
+    <original><w>heitir</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wording" idx="92-1" eid="0" />
+      </errors>
+  </revision>
+  <w>oft</w>
+  <revision id="93">
+    <original></original>
+    <corrected><w>er</w><w>kölluð</w></corrected>
+      <errors>
+        <error xtype="dep" depId="92-1" eid="0" />
+      </errors>
+  </revision>
+  <c>„</c>
+  <revision id="94">
+    <original><w><i>the</i></w></original>
+    <corrected><w><i>The</i></w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
+  <w><i>City</i></w>
+  <c>“</c>
+  <w>eða</w>
+  <c>„</c>
+  <revision id="95">
+    <original><w><i>the</i></w></original>
+    <corrected><w><i>The</i></w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
+  <w><i>Square</i></w>
+  <w><i>Mile</i></w>
+  <c>“</c>
+  <w>í</w>
+  <w>daglegu</w>
+  <w>tali</w>
+  <c>.</c>
+</s>
+<s n="52">
+  <w>Borgarsvæðið</w>
+  <w>stækkaði</w>
+  <w>margfalt</w>
+  <w>á</w>
+  <w>Viktoríutímabilinu</w>
+  <w>og</w>
+  <revision id="96">
+    <original></original>
+    <corrected><w>svo</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>aftur</w>
+  <w>á</w>
+  <w>millistríðsárunum</w>
+  <c>,</c>
+  <w>en</w>
+  <revision id="97">
+    <original></original>
+    <corrected><w>útþenslan</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>staðnæmdist</w>
+  <w>á</w>
+  <w>fimmta</w>
+  <w>áratugnum</w>
+  <w>vegna</w>
+  <revision id="98">
+    <original><w>Seinni</w></original>
+    <corrected><w>seinni</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
+  <w>heimsstyrjaldarinnar</w>
+  <c>.</c>
+</s>
+<s n="53">
+  <w>Síðar</w>
+  <revision id="99">
+    <original><w>hættu</w><w>uppbyggingar</w></original>
+    <corrected><w>stöðvaðist</w><w>uppbygging</w></corrected>
+      <errors>
+        <error xtype="wording" idx="99-1" eid="0" />
+        <error xtype="dep" depId="99-1" eid="0" />
+      </errors>
+  </revision>
+  <w>vegna</w>
+  <revision id="100">
+    <original><w>takmarkanir</w></original>
+    <corrected><w>takmarkana</w><c>,</c><w>sem</w><w>settar</w><w>voru</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" idx="100-1" eid="0" />
+        <error xtype="missing-comma" idx="100-2" eid="0" />
+        <error xtype="missing-words" idx="100-3" eid="0" />
+      </errors>
+  </revision>
+  <w>af</w>
+  <w>borgarstjórninni</w>
+  <revision id="101">
+    <original><w>sem</w></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="conjunction4comma" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <revision id="102">
+    <original><w>eru</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wording" idx="102-1" eid="0" />
+        <error xtype="pres4past" idx="102-1" eid="0" />
+      </errors>
+  </revision>
+  <w>hannaðar</w>
+  <revision id="103">
+    <original></original>
+    <corrected><w>voru</w></corrected>
+      <errors>
+        <error xtype="dep" depId="102-1" eid="0" />
+      </errors>
+  </revision>
+  <w>til</w>
+  <w>að</w>
+  <w>hindra</w>
+  <revision id="104">
+    <original><w>uppbyggingar</w><w>uppi</w><w>í</w><w>sveiti</w></original>
+    <corrected><w>uppbyggingu</w><w>á</w><w>landsbyggðinni</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="54">
+  <w>Lundúnaborg</w>
+  <w>liggur</w>
+  <w>í</w>
+  <w>miðju</w>
+  <w>Stór-Lundúnasvæðisins</w>
+  <w>og</w>
+  <w>er</w>
+  <w>umkringd</w>
+  <revision id="105">
+    <original><w>af</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
+  <w>mörgum</w>
+  <w>borgarhlutum</w>
+  <c>.</c>
+</s>
+<s n="55">
+  <w>Þessu</w>
+  <w>svæði</w>
+  <w>er</w>
+  <w>stjórnað</w>
+  <w>af</w>
+  <w>yfirvaldi</w>
+  <w>Stór-Lundúnasvæðisins</w>
+  <c>.</c>
+</s>
+<s n="56">
+  <revision id="106">
+    <original><w>Það</w></original>
+    <corrected><w>Stór-Lundúna</w><w>þéttbýlissvæðið</w></corrected>
+      <errors>
+        <error xtype="wording" idx="106-1" eid="0" />
+      </errors>
+  </revision>
+  <w>er</w>
+  <revision id="107">
+    <original><w>líka</w></original>
+    <corrected><w>svo</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>annað</w>
+  <w>svæði</w>
+  <revision id="108">
+    <original><c>,</c><w>þéttbýli</w><w>Stór-Lundúnasvæðisins</w><c>,</c><w>sem</w></original>
+    <corrected><w>en</w><w>það</w></corrected>
+      <errors>
+        <error xtype="extra-commas" idx="108-1" eid="0" />
+        <error xtype="wording" idx="108-2" eid="0" />
+        <error xtype="dep" depId="108-1" eid="0" />
+        <error xtype="conjunction" idx="108-3" eid="0" />
+        <error xtype="dep" depId="106-1" eid="0" />
+      </errors>
+  </revision>
+  <w>nær</w>
+  <w>yfir</w>
+  <revision id="109">
+    <original><w>svæði</w><w>stærri</w></original>
+    <corrected><w>stærra</w><w>landsvæði</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>en</w>
+  <w>Stór-Lundúnasvæðið</w>
+  <c>.</c>
+</s>
+<s n="57">
+  <revision id="110">
+    <original><w>Útan</w></original>
+    <corrected><w>Utan</w></corrected>
+      <errors>
+        <error xtype="extra-accent" eid="0" />
+      </errors>
+  </revision>
+  <w>við</w>
+  <w>þetta</w>
+  <revision id="111">
+    <original></original>
+    <corrected><w>svæði</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>liggja</w>
+  <w>margar</w>
+  <w>borgar</w>
+  <c>,</c>
+  <w>bæir</w>
+  <w>og</w>
+  <w>þorp</w>
+  <revision id="112">
+    <original><w>frá</w><w>hverjum</w></original>
+    <corrected><w>og</w><w>þaðan</w></corrected>
+      <errors>
+        <error xtype="missing-conjunction" idx="112-1" eid="0" />
+        <error xtype="wording" idx="112-2" eid="0" />
+      </errors>
+  </revision>
+  <w>ferðast</w>
+  <revision id="113">
+    <original><w>vinnuferðalangar</w></original>
+    <corrected><w>fólk</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>daglega</w>
+  <revision id="114">
+    <original></original>
+    <corrected><w>til</w><w>vinnu</w><w>í</w><w>innri</w><w>hlutum</w><w>borgarinnar</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>þetta</w>
+  <w>svæði</w>
+  <revision id="115">
+    <original><w>heitir</w></original>
+    <corrected><w>er</w><w>kallað</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>vinnuferðalangabelti</w>
+  <w>Lundúna</w>
+  <c>.</c>
+</s>
+<s n="58">
+  <revision id="116">
+    <original><w>Fjörutíu</w><w>prósent</w></original>
+    <corrected><w>Sá</w><w>hluti</w></corrected>
+      <errors>
+        <error xtype="wording" idx="116-1" eid="0" />
+      </errors>
+  </revision>
+  <w>Stór-Lundúnasvæðisins</w>
+  <revision id="117">
+    <original></original>
+    <corrected><w>sem</w></corrected>
+      <errors>
+        <error xtype="missing-conjunction" eid="0" />
+      </errors>
+  </revision>
+  <w>liggur</w>
+  <w>í</w>
+  <revision id="118">
+    <original><w>London-póstumdæminu</w></original>
+    <corrected><w>póstumdæminu</w><w>London</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>hefur</w>
+  <revision id="119">
+    <original><w>orðið</w></original>
+    <corrected><w>nafnið</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <c>„</c>
+  <w>London</w>
+  <c>“</c>
+  <w>í</w>
+  <w>heimilisfangi</w>
+  <revision id="120">
+    <original></original>
+    <corrected><w>er</w><w>aðeins</w><w>fjörutíu</w><w>prósent</w><w>af</w><w>heildarsvæðinu</w></corrected>
+      <errors>
+        <error xtype="dep" depId="116-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="59">
+  <revision id="121">
+    <original><w>London-símanúmersvæðið</w></original>
+    <corrected><w>Símasvæði</w><w>London</w></corrected>
+      <errors>
+        <error xtype="wording" idx="121-1" eid="0" />
+      </errors>
+  </revision>
+  <w>nær</w>
+  <w>yfir</w>
+  <revision id="122">
+    <original><w>líkt</w></original>
+    <corrected><w>svipað</w><w>stórt</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>svæði</w>
+  <c>,</c>
+  <w>enda</w>
+  <revision id="123">
+    <original><w>þótt</w><w>notu</w><w>ekki</w></original>
+    <corrected><w>nota</w></corrected>
+      <errors>
+        <error xtype="wording" idx="123-1" eid="0" />
+      </errors>
+  </revision>
+  <w>sum</w>
+  <revision id="124">
+    <original><w>svæði</w><w>í</w></original>
+    <corrected><w>hverfi</w><w>á</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>Stór-Lundúnasvæðinu</w>
+  <revision id="125">
+    <original></original>
+    <corrected><w>ekki</w></corrected>
+      <errors>
+        <error xtype="dep" depId="123-1" eid="0" />
+      </errors>
+  </revision>
+  <w>London-símanúmer</w>
+  <c>.</c>
+</s>
+<s n="60">
+  <w>Stundum</w>
+  <w>er</w>
+  <w>M</w>
+  <w>25</w>
+  <c>-</c>
+  <w>hraðbrautin</w>
+  <w>notuð</w>
+  <w>til</w>
+  <w>að</w>
+  <revision id="126">
+    <original><w>útskýra</w></original>
+    <corrected><w>afmarka</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>London-svæðið</w>
+  <revision id="127">
+    <original><w>og</w><w>landamæri</w></original>
+    <corrected><w>en</w><w>borgarmörk</w></corrected>
+      <errors>
+        <error xtype="conjunction" idx="127-1" eid="0" />
+        <error xtype="wording" idx="127-2" eid="0" />
+      </errors>
+  </revision>
+  <w>Stór-Lundúnasvæðisins</w>
+  <w>eru</w>
+  <w>í</w>
+  <w>samræmi</w>
+  <w>við</w>
+  <w>hraðbrautina</w>
+  <w>á</w>
+  <w>nokkrum</w>
+  <w>stöðum</w>
+  <c>.</c>
+</s>
+<s n="61">
+  <revision id="128">
+    <original><w>Stor-Lundúnasvæðið</w></original>
+    <corrected><w>Stór-Lundúnasvæðið</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
+  <w>skiptist</w>
+  <w>í</w>
+  <w>innri</w>
+  <w>og</w>
+  <w>ytri</w>
+  <w>London</w>
+  <revision id="129">
+    <original><w>fyrir</w><w>tölfræðilegan</w><w>tilgang</w></original>
+    <corrected><w>í</w><w>tölfræðilegum</w><w>tilgangi</w></corrected>
+      <errors>
+        <error xtype="wrong-prep" idx="129-1" eid="0" />
+        <error xtype="dep" depId="129-1" eid="0" />
+        <error xtype="dep" depId="129-1" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>og</w>
+  <w>oft</w>
+  <w>er</w>
+  <revision id="130">
+    <original><w>talið</w></original>
+    <corrected><w>talað</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>um</w>
+  <w>svæðin</w>
+  <w>Norður-, Suður-, Austur- og Vestur-London</w>
+  <c>.</c>
+</s>
+<s n="62">
+  <w>Metropolitan</w>
+  <revision id="131">
+    <original><w>Police-svæði</w></original>
+    <corrected><w>Police-svæðið</w></corrected>
+      <errors>
+        <error xtype="ind4def" eid="0" />
+      </errors>
+  </revision>
+  <w>er</w>
+  <revision id="132">
+    <original><w>því</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
+  <w>umdæmi</w>
+  <revision id="133">
+    <original></original>
+    <corrected><w>sem</w></corrected>
+      <errors>
+        <error xtype="missing-conjunction" eid="0" />
+      </errors>
+  </revision>
+  <w>stjórnað</w>
+  <revision id="134">
+    <original></original>
+    <corrected><w>er</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>af</w>
+  <w>Metropolitan</w>
+  <w>Police-lögregluliðinu</w>
+  <w>og</w>
+  <revision id="135">
+    <original><w>er</w><w>harkalega</w><w>í</w><w>samræmi</w><w>Stór-Lundúnsvæðið</w></original>
+    <corrected><w>nær</w><w>að</w><w>mestu</w><w>leyti</w><w>yfir</w><w>allt</w><w>Stór-Lundúnasvæðið</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="63">
+  <revision id="136">
+    <original><w>Nútímalegi</w><w>miðpunktur</w></original>
+    <corrected><w>Miðpunktur</w></corrected>
+      <errors>
+        <error xtype="wording" idx="136-1" eid="0" />
+      </errors>
+  </revision>
+  <w>borgarinnar</w>
+  <revision id="137">
+    <original></original>
+    <corrected><w>í</w><w>dag</w></corrected>
+      <errors>
+        <error xtype="dep" depId="136-1" eid="0" />
+      </errors>
+  </revision>
+  <w>er</w>
+  <w>Charing</w>
+  <w>Cross</w>
+  <c>,</c>
+  <w>en</w>
+  <w>Rómverjar</w>
+  <w>merktu</w>
+  <w>miðpunkt</w>
+  <w>rómversku</w>
+  <revision id="138">
+    <original></original>
+    <corrected><w>eldri</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>borgarinnar</w>
+  <w><i>Londinium</i></w>
+  <w>með</w>
+  <w>steini</w>
+  <revision id="139">
+    <original><c>.</c><w>Er</w></original>
+    <corrected><w>sem</w></corrected>
+      <errors>
+        <error xtype="period4conjunction" idx="139-1" eid="0" />
+        <error xtype="wording" idx="139-2" eid="0" />
+      </errors>
+  </revision>
+  <w>enn</w>
+  <revision id="140">
+    <original></original>
+    <corrected><w>er</w></corrected>
+      <errors>
+        <error xtype="dep" depId="139-2" eid="0" />
+      </errors>
+  </revision>
+  <w>hægt</w>
+  <w>að</w>
+  <w>sjá</w>
+  <revision id="141">
+    <original><w>þennan</w><w>stein</w><w>í</w></original>
+    <corrected><w>á</w></corrected>
+      <errors>
+        <error xtype="extra-words" idx="141-1" eid="0" />
+        <error xtype="wrong-prep" idx="141-2" eid="0" />
+      </errors>
+  </revision>
+  <w>Cannon</w>
+  <w>Street</w>
+  <c>.</c>
+</s>
+<s n="64">
+  <w>Það</w>
+  <w>eru</w>
+  <revision id="142">
+    <original><w>mikil</w><w>nágrenni</w><w>í</w></original>
+    <corrected><w>mörg</w><w>mismunandi</w><w>hverfi</w><w>á</w></corrected>
+      <errors>
+        <error xtype="wording" idx="142-1" eid="0" />
+        <error xtype="wrong-prep" idx="142-2" eid="0" />
+      </errors>
+  </revision>
+  <w>Lundúnasvæðinu</w>
+  <w>og</w>
+  <revision id="143">
+    <original><w>líka</w><w>mikil</w></original>
+    <corrected><w>mörg</w><w>mismunandi</w></corrected>
+      <errors>
+        <error xtype="extra-word" idx="143-1" eid="0" />
+        <error xtype="wording" idx="143-2" eid="0" />
+      </errors>
+  </revision>
+  <w>heiti</w>
+  <revision id="144">
+    <original></original>
+    <corrected><w>eru</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>notuð</w>
+  <revision id="145">
+    <original><w>til</w><w>að</w><w>lýsa</w><w>þessi</w><w>svæði</w><c>(</c></original>
+    <corrected><w>yfir</w><w>þau</w><c>,</c></corrected>
+      <errors>
+        <error xtype="wording" idx="145-1" eid="0" />
+        <error xtype="bracket4comma" idx="145-2" eid="0" />
+      </errors>
+  </revision>
+  <w>til</w>
+  <w>dæmis</w>
+  <w>Bloomsbury</w>
+  <c>,</c>
+  <w>Knightsbridge</w>
+  <c>,</c>
+  <w>Mayfair</w>
+  <c>,</c>
+  <w>Whitechapel</w>
+  <w>og</w>
+  <w>Fitzrovia</w>
+  <revision id="146">
+    <original><c>)</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-bracket" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="65">
+  <revision id="147">
+    <original><w>Þessi</w></original>
+    <corrected><w>Þetta</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>eru</w>
+  <revision id="148">
+    <original><w>annaðhvort</w></original>
+    <corrected><w>annað</w><w>hvort</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
+  <w>óformleg</w>
+  <w>heiti</w>
+  <revision id="149">
+    <original></original>
+    <corrected><w>hverfanna</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>eða</w>
+  <revision id="150">
+    <original><w>gömlu</w></original>
+    <corrected><w>gömul</w></corrected>
+      <errors>
+        <error xtype="agreement-concord" eid="0" />
+      </errors>
+  </revision>
+  <w>heiti</w>
+  <w>þorpanna</w>
+  <w>og</w>
+  <w>bæjanna</w>
+  <w>sem</w>
+  <revision id="151">
+    <original></original>
+    <corrected><w>nú</w></corrected>
+      <errors>
+        <error xtype="dep" depId="152-1" eid="0" />
+      </errors>
+  </revision>
+  <w>eru</w>
+  <revision id="152">
+    <original><w>núna</w><w>í</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wording" idx="152-1" eid="0" />
+      </errors>
+  </revision>
+  <w>samliggjandi</w>
+  <revision id="153">
+    <original><w>þéttbýlum</w></original>
+    <corrected><w>þéttbýli</w></corrected>
+      <errors>
+        <error xtype="plural4singular" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="66">
+  <w>Þessi</w>
+  <w>heiti</w>
+  <w>hafa</w>
+  <w>verið</w>
+  <w>í</w>
+  <w>notkun</w>
+  <w>samkvæmt</w>
+  <revision id="154">
+    <original></original>
+    <corrected><w>gamalli</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>venju</w>
+  <w>en</w>
+  <w>það</w>
+  <w>eru</w>
+  <revision id="155">
+    <original><w>ekki</w></original>
+    <corrected><w>engin</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>opinber</w>
+  <revision id="156">
+    <original><w>landamæri</w><w>til</w><w>að</w></original>
+    <corrected><w>mörk</w><w>sem</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>afmarka</w>
+  <w>þessi</w>
+  <w>svæði</w>
+  <c>.</c>
+</s>
+<s n="67">
+  <w>Stór-Lundúnasvæðið</w>
+  <w>skiptist</w>
+  <w>í</w>
+  <w>þrjátíu</w>
+  <w>og</w>
+  <w>þrjá</w>
+  <w>borgarhluta</w>
+  <c>.</c>
+</s>
+<s n="68">
+  <w>Þetta</w>
+  <w>kerfi</w>
+  <w>er</w>
+  <w>síðan</w>
+  <w>1965</w>
+  <c>.</c>
+</s>
+<s n="69">
+  <w>Margir</w>
+  <w>skemmtistaðir</w>
+  <w>í</w>
+  <w>London</w>
+  <w>eru</w>
+  <w>staðsettir</w>
+  <w>á</w>
+  <w>West</w>
+  <w>End-svæðinu</w>
+  <w>í</w>
+  <revision id="157">
+    <original><w>Westminsterborg</w></original>
+    <corrected><w>Westminister-borg</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="70">
+  <w>Leicester</w>
+  <w>Square</w>
+  <w>er</w>
+  <w>torg</w>
+  <w>í</w>
+  <w>West</w>
+  <w>End</w>
+  <revision id="158">
+    <original></original>
+    <corrected><w>sem</w><w>er</w></corrected>
+      <errors>
+        <error xtype="missing-conjunction" idx="158-1" eid="0" />
+        <error xtype="missing-word" idx="158-2" eid="0" />
+      </errors>
+  </revision>
+  <w>umkringt</w>
+  <revision id="159">
+    <original><w>af</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
+  <w>mörgum</w>
+  <w>kvikmyndahúsum</w>
+  <revision id="160">
+    <original><w>og</w><w>þar</w></original>
+    <corrected><c>.</c><w>Þar</w></corrected>
+      <errors>
+        <error xtype="conjunction4period" eid="0" />
+      </errors>
+  </revision>
+  <w>eru</w>
+  <w>haldnar</w>
+  <w>alþjóðlegar</w>
+  <w>frumsýningar</w>
+  <w>kvikmynda</w>
+  <c>.</c>
+</s>
+<s n="71">
+  <w>Nálægt</w>
+  <w>torginu</w>
+  <w>er</w>
+  <w>Piccadilly</w>
+  <w>Circus</w>
+  <w>sem</w>
+  <w>er</w>
+  <w>þekkt</w>
+  <w>fyrir</w>
+  <w>stórar</w>
+  <w>rafmagnsauglýsingar</w>
+  <c>.</c>
+</s>
+<s n="72">
+  <w>Þar</w>
+  <w>eru</w>
+  <w>mörg</w>
+  <w>leikhús</w>
+  <revision id="161">
+    <original><w>og</w></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="conjunction4comma" eid="0" />
+      </errors>
+  </revision>
+  <w>barir</w>
+  <c>,</c>
+  <w>krár</w>
+  <c>,</c>
+  <w>næturklúbbar</w>
+  <w>og</w>
+  <w>veitingahús</w>
+  <c>.</c>
+</s>
+<s n="73">
+  <w>Í</w>
+  <w>grenndinni</w>
+  <w>er</w>
+  <w>Chinatown</w>
+  <c>,</c>
+  <w>kínverska</w>
+  <w>hverfið</w>
+  <w>í</w>
+  <w>London</w>
+  <c>,</c>
+  <w>og</w>
+  <w>austan</w>
+  <w>megin</w>
+  <w>við</w>
+  <w>það</w>
+  <w>er</w>
+  <w>Covent</w>
+  <w>Garden</w>
+  <c>,</c>
+  <w>verslunarhverfi</w>
+  <w>þar</w>
+  <w>sem</w>
+  <revision id="162">
+    <original><w>eru</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wording" idx="162-1" eid="0" />
+      </errors>
+  </revision>
+  <w>margar</w>
+  <w>sérverslanir</w>
+  <revision id="163">
+    <original></original>
+    <corrected><w>eru</w></corrected>
+      <errors>
+        <error xtype="dep" depId="162-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="74">
+  <w>Konunglegi</w>
+  <w>ballettinn</w>
+  <c>(</c>
+  <revision id="164">
+    <original><w>Royal</w><w>Ballet</w></original>
+    <corrected><w>e.</w><w><i>The</i></w><w><i>Royal</i></w><w><i>Ballet</i></w></corrected>
+      <errors>
+        <error xtype="missing-words" idx="164-1" eid="0" />
+        <error xtype="nonit4it" idx="164-2" eid="0" />
+      </errors>
+  </revision>
+  <c>)</c>
+  <c>,</c>
+  <w>Enski</w>
+  <w>þjóðarballettinn</w>
+  <c>(</c>
+  <revision id="165">
+    <original><w>English</w><w>National</w><w>Ballet</w></original>
+    <corrected><w>e.</w><w><i>The</i></w><w><i>English</i></w><w><i>National</i></w><w><i>Ballet</i></w></corrected>
+      <errors>
+        <error xtype="missing-words" idx="165-1" eid="0" />
+        <error xtype="nonit4it" idx="165-2" eid="0" />
+      </errors>
+  </revision>
+  <c>)</c>
+  <c>,</c>
+  <w>Konunglega</w>
+  <w>óperan</w>
+  <c>(</c>
+  <revision id="166">
+    <original><w>Royal</w><w>Opera</w></original>
+    <corrected><w>e.</w><w><i>The</i></w><w><i>Royal</i></w><w><i>Opera</i></w></corrected>
+      <errors>
+        <error xtype="missing-words" idx="166-1" eid="0" />
+        <error xtype="nonit4it" idx="166-2" eid="0" />
+      </errors>
+  </revision>
+  <c>)</c>
+  <w>og</w>
+  <w>Enska</w>
+  <w>þjóðaróperan</w>
+  <c>(</c>
+  <revision id="167">
+    <original><w>National</w><w>English</w><w>Opera</w></original>
+    <corrected><w>e.</w><w><i>The</i></w><w><i>National</i></w><w><i>English</i></w><w><i>Opera</i></w></corrected>
+      <errors>
+        <error xtype="missing-words" idx="167-1" eid="0" />
+        <error xtype="nonit4it" idx="167-2" eid="0" />
+      </errors>
+  </revision>
+  <c>)</c>
+  <w>eru</w>
+  <revision id="168">
+    <original><w>öll</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
+  <w>staðsett</w>
+  <w>í</w>
+  <w>London</w>
+  <w>og</w>
+  <w>sýna</w>
+  <w>í</w>
+  <w>leikhúsunum</w>
+  <w>Royal</w>
+  <w>Opera</w>
+  <w>House</w>
+  <c>,</c>
+  <w>Coliseum</w>
+  <c>,</c>
+  <w>Sadlers</w>
+  <w>Wells</w>
+  <w>og</w>
+  <w>Royal</w>
+  <w>Albert</w>
+  <w>Hall</w>
+  <w>auk</w>
+  <w>þess</w>
+  <w>sem</w>
+  <w>þau</w>
+  <w>fara</w>
+  <w>með</w>
+  <w>sýningar</w>
+  <w>um</w>
+  <w>Bretland</w>
+  <c>.</c>
+</s>
+<s n="75">
+  <w>Í</w>
+  <w>Islington</w>
+  <w>er</w>
+  <w>gatan</w>
+  <w>Upper</w>
+  <w>Street</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>nær</w>
+  <w>1,6 km</w>
+  <w>norður</w>
+  <w>frá</w>
+  <w>Angel</w>
+  <w>og</w>
+  <revision id="169">
+    <original><w>er</w><w>með</w></original>
+    <corrected><w>á</w><w>henni</w><w>eru</w></corrected>
+      <errors>
+        <error xtype="wording" idx="169-1" eid="0" />
+      </errors>
+  </revision>
+  <w>fleiri</w>
+  <revision id="170">
+    <original><w>bari</w></original>
+    <corrected><w>barir</w></corrected>
+      <errors>
+        <error xtype="dep" depId="169-1" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>veitingahús</w>
+  <w>en</w>
+  <revision id="171">
+    <original><w>nokkur</w><w>önnur</w><w>gata</w></original>
+    <corrected><w>á</w><w>nokkurri</w><w>annarri</w><w>götu</w></corrected>
+      <errors>
+        <error xtype="missing-word" idx="171-1" eid="0" />
+        <error xtype="dep" depId="171-1" eid="0" />
+        <error xtype="dep" depId="171-1" eid="0" />
+        <error xtype="dep" depId="171-1" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>Bretlandi</w>
+  <c>.</c>
+</s>
+<s n="76">
+  <w>Fjölsóttasta</w>
+  <w>verslunarhverfið</w>
+  <w>í</w>
+  <w>Evrópu</w>
+  <w>er</w>
+  <w>Oxford</w>
+  <w>Street</w>
+  <c>,</c>
+  <w>verslunargata</w>
+  <revision id="172">
+    <original></original>
+    <corrected><w>sem</w><w>er</w></corrected>
+      <errors>
+        <error xtype="missing-conjunction" idx="172-1" eid="0" />
+        <error xtype="missing-word" idx="172-2" eid="0" />
+      </errors>
+  </revision>
+  <w>næstum</w>
+  <w>1,6 km</w>
+  <w>að</w>
+  <w>lengd</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>gerir</w>
+  <w>hana</w>
+  <w>lengstu</w>
+  <w>verslunargötu</w>
+  <w>í</w>
+  <w>heimi</w>
+  <c>.</c>
+</s>
+<s n="77">
+  <w>Þar</w>
+  <w>eru</w>
+  <w>margar</w>
+  <w>búðir</w>
+  <w>og</w>
+  <revision id="173">
+    <original><w>deildaverslanir</w></original>
+    <corrected><w>stórverslanir</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>til</w>
+  <w>dæmis</w>
+  <w>Selfridges</w>
+  <c>.</c>
+</s>
+<s n="78">
+  <revision id="174">
+    <original><w>Harrods-deildaverslunin</w></original>
+    <corrected><w>Stórverslunin</w><w>Harrods</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>er</w>
+  <w>í</w>
+  <w>Knightsbridge</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>liggur</w>
+  <w>suðvestan</w>
+  <w>megin</w>
+  <w>við</w>
+  <w>Oxford</w>
+  <w>Street</w>
+  <c>.</c>
+</s>
+<s n="79">
+  <w>Hönnuðirnir</w>
+  <w>Vivienne</w>
+  <w>Westwood</w>
+  <c>,</c>
+  <w>Galliano</w>
+  <c>,</c>
+  <w>Stella</w>
+  <w>McCartney</w>
+  <c>,</c>
+  <w>Manolo</w>
+  <w>Blahnik</w>
+  <c>,</c>
+  <w>Jimmy</w>
+  <w>Choo</w>
+  <w>og</w>
+  <w>fleiri</w>
+  <w>vinna</w>
+  <w>í</w>
+  <w>London</w>
+  <c>.</c>
+</s>
+<s n="80">
+  <w>Lista- og tískuskólarnir</w>
+  <w>í</w>
+  <w>London</w>
+  <w>eru</w>
+  <w>frægir</w>
+  <w>um</w>
+  <w>allan</w>
+  <w>heim</w>
+  <w>enda</w>
+  <w>er</w>
+  <w>London</w>
+  <w>alþjóðleg</w>
+  <w>tískumiðstöð</w>
+  <revision id="175">
+    <original><w>eins</w></original>
+    <corrected><w>líkt</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>París</w>
+  <c>,</c>
+  <w>Mílanó</w>
+  <w>og</w>
+  <w>New</w>
+  <w>York</w>
+  <c>.</c>
+</s>
+<s n="81">
+  <w>Mörg</w>
+  <w>minjasöfn</w>
+  <c>,</c>
+  <w>listasöfn</w>
+  <w>og</w>
+  <w>önnur</w>
+  <w>samtök</w>
+  <w>eru</w>
+  <w>staðsett</w>
+  <w>í</w>
+  <w>London</w>
+  <c>.</c>
+</s>
+<s n="82">
+  <w>Náttúrugripasafnið</w>
+  <c>(</c>
+  <w>um</w>
+  <w>líf- og jarðfræði</w>
+  <c>)</c>
+  <c>,</c>
+  <w>Vísindasafnið</w>
+  <w>og</w>
+  <w>Victoria</w>
+  <w>og</w>
+  <w>Albert-safnið</w>
+  <c>(</c>
+  <w>um</w>
+  <w>hönnun</w>
+  <w>og</w>
+  <w>tísku</w>
+  <c>)</c>
+  <w>eru</w>
+  <w>öll</w>
+  <w>saman</w>
+  <w>í</w>
+  <c>„</c>
+  <w>safnahverfinu</w>
+  <c>“</c>
+  <w>í</w>
+  <w>South</w>
+  <w>Kensington</w>
+  <c>.</c>
+</s>
+<s n="83">
+  <w>Þjóðminjasafn</w>
+  <w>Bretlands</w>
+  <w>er</w>
+  <w>staðsett</w>
+  <w>í</w>
+  <w>Bloomsbury</w>
+  <w>og</w>
+  <w>hýsir</w>
+  <w>söfn</w>
+  <revision id="176">
+    <original><w>frá</w><w>um</w><w>allan</w><w>heim</w></original>
+    <corrected><w>úr</w><w>öllum</w><w>heimshornum</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="84">
+  <w>Þjóðbókasafn</w>
+  <w>Bretlands</w>
+  <w>við</w>
+  <w>St</w>
+  <w>Pancras</w>
+  <w>er</w>
+  <w>þjóðbókasafn</w>
+  <revision id="178">
+    <original><w>Bretlands</w><w>og</w></original>
+    <corrected><w>sem</w></corrected>
+      <errors>
+        <error xtype="extra-word" idx="178-1" eid="0" />
+        <error xtype="conjunction" idx="178-2" eid="0" />
+      </errors>
+  </revision>
+  <w>hýsir</w>
+  <w>yfir</w>
+  <w>150</w>
+  <w>milljónir</w>
+  <revision id="179">
+    <original><w>hluta</w></original>
+    <corrected><w>bóka</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="85">
+  <revision id="180">
+    <original><w>Það</w></original>
+    <corrected><w>Einnig</w></corrected>
+      <errors>
+        <error xtype="extra-word" idx="180-1" eid="0" />
+        <error xtype="dep" depId="181-1" eid="0" />
+      </errors>
+  </revision>
+  <w>eru</w>
+  <revision id="181">
+    <original><w>líka</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wording" idx="181-1" eid="0" />
+      </errors>
+  </revision>
+  <w>víðtæk</w>
+  <w>listasöfn</w>
+  <w>í</w>
+  <w>borginni</w>
+  <c>,</c>
+  <w>sérstaklega</w>
+  <w>á</w>
+  <w>Listasafni</w>
+  <w>Bretlands</w>
+  <w>og</w>
+  <w>á</w>
+  <w>listasöfnum</w>
+  <w>Tate</w>
+  <w>Britain</w>
+  <w>og</w>
+  <w>Tate</w>
+  <w>Modern</w>
+  <c>.</c>
+</s>
+<s n="86">
+  <revision id="182">
+    <original></original>
+    <corrected><w>Í</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>London</w>
+  <w>er</w>
+  <revision id="183">
+    <original><w>með</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
+  <w>viðamikið</w>
+  <w>samgangnakerfi</w>
+  <w>og</w>
+  <w>samgöngur</w>
+  <w>eru</w>
+  <w>einar</w>
+  <w>af</w>
+  <w>fjórum</w>
+  <w>stefnusviðum</w>
+  <w>sem</w>
+  <revision id="184">
+    <original><w>borgarstjórni</w></original>
+    <corrected><w>borgarstjóri</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="184-1" eid="0" />
+        <error xtype="nonword" idx="184-1" eid="0" />
+      </errors>
+  </revision>
+  <w>London</w>
+  <revision id="185">
+    <original><w>sér</w><w>um</w></original>
+    <corrected><w>hefur</w><w>umsjón</w><w>yfir</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="87">
+  <w>Hins</w>
+  <w>vegar</w>
+  <w>er</w>
+  <w>fjárhagseftirlit</w>
+  <revision id="186">
+    <original><w>borgarstjórnans</w></original>
+    <corrected><w>borgarstjórans</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="186-1" eid="0" />
+        <error xtype="nonword" idx="186-1" eid="0" />
+      </errors>
+  </revision>
+  <w>takmarkað</w>
+  <c>,</c>
+  <revision id="187">
+    <original><w>til</w><w>dæmis</w></original>
+    <corrected><w>sem</w><w>dæmi</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>stjórnar</w>
+  <w>hann</w>
+  <w>ekki</w>
+  <w>þunglestarkerfinu</w>
+  <c>,</c>
+  <w>en</w>
+  <w>frá</w>
+  <w>og</w>
+  <w>með</w>
+  <w>nóvember 2007</w>
+  <w>tók</w>
+  <w>hann</w>
+  <revision id="188">
+    <original></original>
+    <corrected><w>við</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>stjórn</w>
+  <w>yfir</w>
+  <w>North</w>
+  <w>London</w>
+  <w>Railway</w>
+  <w>og</w>
+  <w>London</w>
+  <w>Overground</w>
+  <c>.</c>
+</s>
+<s n="88">
+  <w>Transport</w>
+  <w>for</w>
+  <w>London</w>
+  <w>er</w>
+  <w>fyrirtæki</w>
+  <w>sem</w>
+  <revision id="189">
+    <original><w>stjórnar</w><w>almenningssamgangnakerfinu</w></original>
+    <corrected><w>sér</w><w>um</w><w>almenningssamgangnakerfið</w></corrected>
+      <errors>
+        <error xtype="wording" idx="189-1" eid="0" />
+        <error xtype="dep" depId="189-1" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>sem</w>
+  <w>er</w>
+  <w>eitt</w>
+  <w>af</w>
+  <w>fjölsóttustu</w>
+  <w>samgangnakerfunum</w>
+  <revision id="190">
+    <original><w>í</w><w>heimi</w></original>
+    <corrected><w>heims</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>en</w>
+  <w>hefur</w>
+  <revision id="191">
+    <original><w>vandamál</w><w>með</w><w>stíflun</w></original>
+    <corrected><w>einhverja</w><w>örðugleika</w><w>er</w><w>varða</w><w>stíflumyndun</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>áreiðanleika</w>
+  <c>.</c>
+</s>
+<s n="89">
+  <revision id="192">
+    <original><w>Það</w><w>er</w><w>núna</w><w>mikil</w><w>fjárfesting</w><w>til</w></original>
+    <corrected><w>Nú</w><w>hefur</w><w>verið</w><w>fjárfest</w><w>í</w><w>vinna</w></corrected>
+      <errors>
+        <error xtype="wording" idx="192-1" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <revision id="193">
+    <original><w>leysa</w><w>þessi</w><w>vandamál</w></original>
+    <corrected><w>lausnum</w><w>á</w><w>þessum</w><w>vandamálum</w></corrected>
+      <errors>
+        <error xtype="dep" depId="192-1" eid="0" />
+      </errors>
+  </revision>
+  <c>:</c>
+  <w>7</w>
+  <w>milljarðar</w>
+  <w>breskra</w>
+  <w>punda</w>
+  <w>hafa</w>
+  <w>verið</w>
+  <revision id="194">
+    <original><w>gefnir</w></original>
+    <corrected><w>lagðir</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>til</w>
+  <w>að</w>
+  <w>bæta</w>
+  <revision id="195">
+    <original><w>kerfinu</w><w>á</w><w>undan</w><w>byrjun</w></original>
+    <corrected><w>kerfið</w><w>fyrir</w><w>setningu</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" idx="195-1" eid="0" />
+        <error xtype="wording" idx="195-2" eid="0" />
+      </errors>
+  </revision>
+  <w>Ólympíuleikanna</w>
+  <revision id="196">
+    <original><w>ársins 2012</w><c>(</c></original>
+    <corrected><w>árið 2012</w><c>,</c></corrected>
+      <errors>
+        <error xtype="nominal-inflection" idx="196-1" eid="0" />
+        <error xtype="bracket4comma" idx="196-2" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <revision id="197">
+    <original><w>tekur</w></original>
+    <corrected><w>munu</w><w>aðallega</w><w>eiga</w></corrected>
+      <errors>
+        <error xtype="wording" idx="197-1" eid="0" />
+        <error xtype="dep" depId="198-1" eid="0" />
+      </errors>
+  </revision>
+  <w>sér</w>
+  <w>stað</w>
+  <revision id="198">
+    <original><w>aðallega</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wording" idx="198-1" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>Stratford</w>
+  <revision id="199">
+    <original><c>)</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-bracket" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="90">
+  <w>Samgangnakerfið</w>
+  <w>í</w>
+  <w>London</w>
+  <w>hefur</w>
+  <w>verið</w>
+  <w>nefnt</w>
+  <revision id="200">
+    <original></original>
+    <corrected><w>það</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>besta</w>
+  <revision id="201">
+    <original></original>
+    <corrected><w>sinnar</w><w>tegundar</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>heimi</w>
+  <c>.</c>
+</s>
+<s n="91">
+  <w>Að</w>
+  <revision id="202">
+    <original><w>fara</w></original>
+    <corrected><w>ferðast</w><w>um</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <revision id="203">
+    <original><w>reiðhjól</w><w>verður</w></original>
+    <corrected><w>reiðhjóli</w><w>er</w><w>að</w><w>verða</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" idx="203-1" eid="0" />
+        <error xtype="simple4cont" idx="203-2" eid="0" />
+      </errors>
+  </revision>
+  <w>vinsælla</w>
+  <w>í</w>
+  <w>London</w>
+  <c>.</c>
+</s>
+<s n="92">
+  <w>London</w>
+  <w>Cycling</w>
+  <w>Campaign</w>
+  <w>er</w>
+  <w>herferð</w>
+  <w>sem</w>
+  <revision id="204">
+    <original><w>biður</w></original>
+    <corrected><w>berst</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>fyrir</w>
+  <w>betri</w>
+  <revision id="205">
+    <original><w>aðstaða</w></original>
+    <corrected><w>aðstöðu</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
+  <w>fyrir</w>
+  <w>hjólreiðamenn</w>
+  <w>í</w>
+  <w>borginni</w>
+  <c>.</c>
+</s>
+<s n="93">
+  <revision id="206">
+    <original><w>Neðanjarðarlestakerfi</w></original>
+    <corrected><w>Neðanjarðarlestarkerfi</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" eid="0" />
+      </errors>
+  </revision>
+  <w>Lundúnaborgar</w>
+  <w>er</w>
+  <w>í</w>
+  <w>miðju</w>
+  <w>samgangnakerfisins</w>
+  <w>og</w>
+  <revision id="207">
+    <original><w>er</w><w>með</w></original>
+    <corrected><w>hefur</w></corrected>
+      <errors>
+        <error xtype="have" eid="0" />
+      </errors>
+  </revision>
+  <w>ellefu</w>
+  <w>leiðir</w>
+  <w>sem</w>
+  <revision id="208">
+    <original><w>tengja</w></original>
+    <corrected><w>tengjast</w></corrected>
+      <errors>
+        <error xtype="verb-inflection" eid="0" />
+      </errors>
+  </revision>
+  <w>saman</w>
+  <c>.</c>
+</s>
+<s n="94">
+  <w>Það</w>
+  <w>er</w>
+  <w>elsta</w>
+  <c>,</c>
+  <w>lengsta</w>
+  <w>og</w>
+  <w>fjölsóttasta</w>
+  <revision id="209">
+    <original><w>neðanjarðarlestakerfið</w></original>
+    <corrected><w>neðanjarðarlestarkerfi</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="209-1" eid="0" />
+        <error xtype="def4ind" idx="209-1" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>heimi</w>
+  <c>,</c>
+  <w>og</w>
+  <w>var</w>
+  <w>stofnað</w>
+  <w>árið 1863</w>
+  <c>.</c>
+</s>
+<s n="95">
+  <w>Kerfið</w>
+  <revision id="210">
+    <original><w>var</w><w>með</w><w>fyrstu</w><w>rafmögnuðu</w><w>neðanjarðarjárnbrautina</w><w>í</w><w>heimi</w></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="wording" idx="210-1" eid="0" />
+        <error xtype="missing-comma" idx="210-2" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>hét</w>
+  <w>City</w>
+  <c>&amp;</c>
+  <w>South</w>
+  <w>London</w>
+  <w>Railway</w>
+  <c>,</c>
+  <revision id="211">
+    <original></original>
+    <corrected><w>var</w><w>með</w><w>fyrstu</w><w>rafmögnuðu</w><w>neðanjarðarjárnbrautum</w><w>í</w><w>heimi</w></corrected>
+      <errors>
+        <error xtype="dep" depId="210-1" eid="0" />
+        <error xtype="nominal-inflection" idx="211-1" eid="0" />
+        <error xtype="def4ind" idx="211-1" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>var</w>
+  <revision id="212">
+    <original><w>tekin</w></original>
+    <corrected><w>tekið</w></corrected>
+      <errors>
+        <error xtype="agreement-pred" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>notkun</w>
+  <w>árið 1890</w>
+  <c>.</c>
+</s>
+<s n="96">
+  <w>Um</w>
+  <w>það</w>
+  <w>bil</w>
+  <w>3</w>
+  <w>milljónir</w>
+  <w>manna</w>
+  <w>ferðast</w>
+  <w>daglega</w>
+  <revision id="213">
+    <original><w>í</w><w>neðanjarðarlestkerfinu</w></original>
+    <corrected><w>með</w><w>neðanjarðarlestarkerfinu</w></corrected>
+      <errors>
+        <error xtype="wrong-prep" idx="213-1" eid="0" />
+        <error xtype="missing-letters" idx="213-2" eid="0" />
+        <error xtype="compound-nonword" idx="213-2" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>eða</w>
+  <w>um</w>
+  <revision id="214">
+    <original><w>1</w><w>milljarðar</w><w>ferða</w></original>
+    <corrected><w>1 milljarður</w><w>ferðalanga</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" idx="214-1" eid="0" />
+        <error xtype="wording" idx="214-2" eid="0" />
+      </errors>
+  </revision>
+  <w>árlega</w>
+  <c>.</c>
+</s>
+<s n="97">
+  <revision id="215">
+    <original><w>Neðanjarðarlestakerfið</w></original>
+    <corrected><w>Neðanjarðarlestarkerfið</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" eid="0" />
+      </errors>
+  </revision>
+  <w>þjónar</w>
+  <w>miðborg</w>
+  <w>Lundúna</w>
+  <w>og</w>
+  <w>mörgum</w>
+  <w>úthverfum</w>
+  <w>í</w>
+  <w>norðurhluta</w>
+  <w>borgarinnar</w>
+  <c>,</c>
+  <w>en</w>
+  <w>í</w>
+  <w>suðurhlutanum</w>
+  <w>er</w>
+  <w>víðtækt</w>
+  <revision id="216">
+    <original><w>úthverfalestkerfi</w></original>
+    <corrected><w>úthverfalestarkerfi</w></corrected>
+      <errors>
+        <error xtype="missing-letters" idx="216-1" eid="0" />
+        <error xtype="compound-nonword" idx="216-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="98">
+  <w>Annað</w>
+  <w>lestakerfi</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>heitir</w>
+  <w>Docklands</w>
+  <w>Light</w>
+  <w>Railway</w>
+  <c>(</c>
+  <w>eða</w>
+  <w>DLR</w>
+  <c>)</c>
+  <w>og</w>
+  <w>notar</w>
+  <w>minni</w>
+  <w>og</w>
+  <w>léttari</w>
+  <w>lestir</w>
+  <c>,</c>
+  <w>opnaði</w>
+  <w>árið 1987</w>
+  <c>.</c>
+</s>
+<s n="99">
+  <w>Þetta</w>
+  <w>kerfi</w>
+  <w>nær</w>
+  <w>yfir</w>
+  <w>Austur-London</w>
+  <w>og</w>
+  <w>Greenwich</w>
+  <c>,</c>
+  <revision id="217">
+    <original><w>báðumegin</w></original>
+    <corrected><w>báðum</w><w>megin</w></corrected>
+      <errors>
+        <error xtype="merged-words" idx="217-1" eid="0" />
+        <error xtype="missing-letter" idx="217-1" eid="0" />
+      </errors>
+  </revision>
+  <w>við</w>
+  <w>Thames-ána</w>
+  <c>.</c>
+</s>
+<s n="100">
+  <revision id="218">
+    <original><w>Ferju- og milliborgajárnbrautir</w></original>
+    <corrected><w>Flutningsjárnbrautir</w><w>og</w><w>járnbrautir</w><w>sem</w><w>fara</w><w>á</w><w>milli</w><w>borga</w></corrected>
+      <errors>
+        <error xtype="wording" idx="218-1" eid="0" />
+        <error xtype="missing-words" idx="218-2" eid="0" />
+      </errors>
+  </revision>
+  <w>ná</w>
+  <w>ekki</w>
+  <w>í</w>
+  <w>gegnum</w>
+  <w>miðju</w>
+  <w>borgarinnar</w>
+  <c>,</c>
+  <w>heldur</w>
+  <w>ná</w>
+  <w>þær</w>
+  <w>að</w>
+  <w>fjórtán</w>
+  <w>endastöðvum</w>
+  <w>í</w>
+  <w>kringum</w>
+  <w>sögulega</w>
+  <w>miðju</w>
+  <w>borgarinnar</w>
+  <c>.</c>
+</s>
+<s n="101">
+  <revision id="219">
+    <original><w>Það</w></original>
+    <corrected><w>Þó</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>er</w>
+  <w>ein</w>
+  <w>undantekning</w>
+  <c>,</c>
+  <revision id="220">
+    <original><w>það</w><w>er</w><w>að</w><w>segja</w></original>
+    <corrected><w>þ.e.a.s.</w></corrected>
+      <errors>
+        <error xtype="words4abbreviation" eid="0" />
+      </errors>
+  </revision>
+  <w>Thameslink-lestin</w>
+  <w>sem</w>
+  <w>First</w>
+  <w>Capital</w>
+  <w>Connect</w>
+  <w>stjórnar</w>
+  <c>,</c>
+  <revision id="221">
+    <original><w>með</w></original>
+    <corrected><w>en</w><w>hún</w><w>hefur</w></corrected>
+      <errors>
+        <error xtype="missing-conjunction" idx="221-1" eid="0" />
+        <error xtype="missing-words" idx="221-2" eid="0" />
+      </errors>
+  </revision>
+  <w>endastöðvar</w>
+  <w>í</w>
+  <w>Bedford</w>
+  <c>,</c>
+  <w>Brighton</w>
+  <w>og</w>
+  <w>Moorgate</w>
+  <c>.</c>
+</s>
+<s n="102">
+  <w>Frá</w>
+  <w>tíunda</w>
+  <w>áratugnum</w>
+  <w>hefur</w>
+  <w>aukið</w>
+  <w>álag</w>
+  <w>á</w>
+  <w>léttlestarkerfið</w>
+  <w>og</w>
+  <revision id="222">
+    <original><w>neðanjarðarlestkerfið</w></original>
+    <corrected><w>neðanjarðarlestarkerfið</w></corrected>
+      <errors>
+        <error xtype="missing-letters" idx="222-1" eid="0" />
+        <error xtype="compound-nonword" idx="222-1" eid="0" />
+      </errors>
+  </revision>
+  <w>gert</w>
+  <w>að</w>
+  <w>verkum</w>
+  <w>að</w>
+  <w>kröfur</w>
+  <revision id="223">
+    <original></original>
+    <corrected><w>um</w><w>að</w><w>Crossrail-verkefninu</w><w>verið</w><w>hrint</w><w>í</w><w>framkvæmd</w></corrected>
+      <errors>
+        <error xtype="dep" depId="225-2" eid="0" />
+      </errors>
+  </revision>
+  <w>hafa</w>
+  <w>orðið</w>
+  <w>háværari</w>
+  <c>,</c>
+  <w>sérstaklega</w>
+  <w>frá</w>
+  <w>viðskiptalífinu</w>
+  <w>og</w>
+  <revision id="224">
+    <original><w>Bæjarstjórn</w></original>
+    <corrected><w>borgarstjórn</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
+  <w>Lundúnaborgar</w>
+  <revision id="225">
+    <original><c>,</c><w>um</w><w>að</w><w>Crossrail-verkefninu</w><w>verið</w><w>hrint</w><w>í</w><w>framkvæmd</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" idx="225-1" eid="0" />
+        <error xtype="wording" idx="225-2" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>en</w>
+  <w>það</w>
+  <w>er</w>
+  <w>þunglestarkerfi</w>
+  <w>sem</w>
+  <w>liggur</w>
+  <w>frá</w>
+  <w>austri</w>
+  <w>til</w>
+  <w>vesturs</w>
+  <w>og</w>
+  <w>kostar</w>
+  <w>10</w>
+  <w>milljarða</w>
+  <w>breskra</w>
+  <w>punda</w>
+  <c>.</c>
+</s>
+<s n="103">
+  <w>Leyfi</w>
+  <w>fékkst</w>
+  <w>fyrir</w>
+  <w>verkefninu</w>
+  <w>í</w>
+  <w>október árið 2007</w>
+  <c>.</c>
+</s>
+<s n="104">
+  <revision id="226">
+    <original></original>
+    <corrected><w>Háhraðalestir</w></corrected>
+      <errors>
+        <error xtype="dep" depId="227-1" eid="0" />
+      </errors>
+  </revision>
+  <w>Eurostar</w>
+  <revision id="227">
+    <original><w>háhraðalestir</w><w>tengir</w><w>St</w><w>Pancras-lestarstöð</w></original>
+    <corrected><w>tengja</w><w>St.Pancras-lestarstöð</w></corrected>
+      <errors>
+        <error xtype="wording" idx="227-1" eid="0" />
+        <error xtype="agreement-pred" idx="227-2" eid="0" />
+        <error xtype="name-error" idx="227-3" eid="0" />
+      </errors>
+  </revision>
+  <w>við</w>
+  <w>Lille</w>
+  <w>og</w>
+  <w>París</w>
+  <w>í</w>
+  <w>Frakklandi</w>
+  <w>og</w>
+  <w>Brussel</w>
+  <w>í</w>
+  <w>Belgíu</w>
+  <c>.</c>
+</s>
+<s n="105">
+  <w>Strætisvagnakerfi</w>
+  <w>Lundúna</w>
+  <w>er</w>
+  <w>eitt</w>
+  <w>hið</w>
+  <w>stærsta</w>
+  <w>í</w>
+  <w>heimi</w>
+  <c>.</c>
+</s>
+<s n="106">
+  <w>Það</w>
+  <w>starfar</w>
+  <w>allan</w>
+  <w>sólarhringinn</w>
+  <c>,</c>
+  <w>með</w>
+  <w>8.000</w>
+  <w>strætisvagna</w>
+  <c>,</c>
+  <w>700</w>
+  <w>leiðir</w>
+  <w>og</w>
+  <w>6</w>
+  <w>milljónir</w>
+  <w>farþega</w>
+  <w>daglega</w>
+  <c>.</c>
+</s>
+<s n="107">
+  <w>Árið 2003</w>
+  <w>voru</w>
+  <w>ferðir</w>
+  <revision id="228">
+    <original></original>
+    <corrected><w>strætisvagna</w><w>um</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <w>1,5</w>
+  <w>billjónir</w>
+  <revision id="229">
+    <original></original>
+    <corrected><w>talsins</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>sem</w>
+  <w>eru</w>
+  <w>fleiri</w>
+  <w>en</w>
+  <w>í</w>
+  <revision id="230">
+    <original><w>neðanjarðarlestakerfinu</w></original>
+    <corrected><w>neðanjarðarlestarkerfinu</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="108">
+  <w>Árlegar</w>
+  <w>tekjur</w>
+  <revision id="231">
+    <original></original>
+    <corrected><w>strætisvagnakerfisins</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>eru</w>
+  <w>850</w>
+  <w>milljónir</w>
+  <w>breskra</w>
+  <w>punda</w>
+  <c>.</c>
+</s>
+<s n="109">
+  <revision id="232">
+    <original></original>
+    <corrected><w>Í</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>London</w>
+  <w>er</w>
+  <w>stór</w>
+  <w>alþjóðleg</w>
+  <w>flugmiðstöð</w>
+  <revision id="233">
+    <original><w>og</w></original>
+    <corrected><w>sem</w></corrected>
+      <errors>
+        <error xtype="conjunction" eid="0" />
+      </errors>
+  </revision>
+  <w>hefur</w>
+  <w>stærstu</w>
+  <w>borgarlofthelgi</w>
+  <w>heimsins</w>
+  <c>.</c>
+</s>
+<s n="110">
+  <w>Átta</w>
+  <w>flugvellir</w>
+  <w>hafa</w>
+  <w>orðin</w>
+  <c>„</c>
+  <w><i>London-flugvöllur</i></w>
+  <c>“</c>
+  <w>í</w>
+  <w>nafni</w>
+  <w>sínu</w>
+  <w>en</w>
+  <w>megnið</w>
+  <w>af</w>
+  <w>flugumferðinni</w>
+  <w>fer</w>
+  <w>um</w>
+  <w>fimm</w>
+  <w>flugvelli</w>
+  <c>.</c>
+</s>
+<s n="111">
+  <w>London</w>
+  <w>Heathrow-flugvöllur</w>
+  <w>er</w>
+  <w>fjölsóttasti</w>
+  <revision id="234">
+    <original><w>flugvöllurinn</w></original>
+    <corrected><w>flugvöllur</w></corrected>
+      <errors>
+        <error xtype="def4ind" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>heimi</w>
+  <w>og</w>
+  <w>þar</w>
+  <w>eru</w>
+  <w>höfuðstöðvar</w>
+  <w>British</w>
+  <w>Airways</w>
+  <c>.</c>
+</s>
+<s n="112">
+  <w>Fimmta</w>
+  <w>flugstöðvarbyggingin</w>
+  <w>var</w>
+  <w>opnuð</w>
+  <w>í</w>
+  <w>mars 2008</w>
+  <w>og</w>
+  <w>sjötta</w>
+  <w>flugstöðvarbyggingin</w>
+  <w>er</w>
+  <w>í</w>
+  <w>undirbúningi</w>
+  <c>.</c>
+</s>
+<s n="113">
+  <w>London</w>
+  <w>Gatwick-flugvöllur</w>
+  <w>hefur</w>
+  <w>ámóta</w>
+  <w>mikla</w>
+  <w>umferð</w>
+  <w>og</w>
+  <w>þangað</w>
+  <w>fljúga</w>
+  <w>nokkur</w>
+  <revision id="235">
+    <original><w>ódýr</w></original>
+    <corrected><w>lággjalda</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>flugfélög</w>
+  <c>.</c>
+</s>
+<s n="114">
+  <w>Bæði</w>
+  <w>London</w>
+  <w>Stansted-flugvöllur</w>
+  <w>og</w>
+  <w>London</w>
+  <w>Luton-flugvöllur</w>
+  <w>þjóna</w>
+  <revision id="236">
+    <original><w>ódýrum</w><w>og</w><w>fljótum</w></original>
+    <corrected><w>lággjalda</w></corrected>
+      <errors>
+        <error xtype="wording" idx="236-1" eid="0" />
+        <error xtype="extra-words" idx="236-2" eid="0" />
+      </errors>
+  </revision>
+  <w>flugfélögum</w>
+  <c>.</c>
+</s>
+<s n="115">
+  <w>London</w>
+  <w>City-flugvöllur</w>
+  <w>er</w>
+  <w>minnsti</w>
+  <w>flugvöllurinn</w>
+  <w>í</w>
+  <w>London</w>
+  <w>og</w>
+  <w>er</w>
+  <w>aðallega</w>
+  <revision id="237">
+    <original><w>fyrir</w><w>viðskiptaferðamenn</w></original>
+    <corrected><w>ætlaður</w><w>fólki</w><w>sem</w><w>ferðast</w><w>í</w><w>viðskiptaerindum</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="116">
+  <w>Útþensla</w>
+  <w>flugvallanna</w>
+  <w>í</w>
+  <w>London</w>
+  <w>er</w>
+  <w>mikið</w>
+  <w>ágreiningsmál</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

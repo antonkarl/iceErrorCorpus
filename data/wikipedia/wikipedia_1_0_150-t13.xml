@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="0">
+  <w>Sómalía</w>
+  <revision id="1">
+    <original><c>(</c><w>sómalska</w><c>:</c><w>Soomaaliya</w><c>;</c><w>arabíska</w><c>:</c></original>
+    <corrected><c>,</c><w>sem</w><w>á</w><w>sómölsku</w><w>nefnist</w><w><i>Soomaaliya</i></w><w>og</w><w>á</w><w>arabísku</w></corrected>
+      <errors>
+        <error xtype="bracket4square" eid="0" />
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>الصومال</w>
+  <c>,</c>
+  <w><i>aṣ-Ṣūmāl</i></w>
+  <c>,</c>
+  <revision id="2">
+    <original><w>opinber</w><w>Jamhuuriyadda</w><w>Federaalka</w><w>Soomaaliya</w></original>
+    <corrected><w>hefur</w><w>opinbera</w><w>heitið</w><w><i>Jamhuuriyadda</i></w><w><i>Federaalka</i></w><w><i>Soomaaliya</i></w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+        <error xtype="nonit4it" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>جمهورية</w>
+  <w>الصومال</w>
+  <w>الفدرالية</w>
+  <revision id="3">
+    <original><c>)</c></original>
+    <corrected><c>.</c><w>Sómalía</w></corrected>
+      <errors>
+        <error xtype="bracket4period" eid="0" />
+      </errors>
+  </revision>
+  <w>er</w>
+  <w>land</w>
+  <w>í</w>
+  <w>Austur-Afríku</w>
+  <w>með</w>
+  <w>landamæri</w>
+  <w>að</w>
+  <w>Djíbútí</w>
+  <c>,</c>
+  <w>Eþíópíu</w>
+  <w>og</w>
+  <w>Kenía</w>
+  <w>og</w>
+  <w>strandlengju</w>
+  <w>við</w>
+  <revision id="4">
+    <original><w>Adenflóa</w></original>
+    <corrected><w>Aden-flóa</w></corrected>
+      <errors>
+        <error xtype="merged-words" idx="4-1" eid="0" />
+        <error xtype="missing-dash" idx="4-1" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>norðri</w>
+  <w>og</w>
+  <w>Indlandshafi</w>
+  <w>í</w>
+  <w>austri</w>
+  <c>.</c>
+</s>
+<s n="1">
+  <w>Sómalía</w>
+  <w>er</w>
+  <w>við</w>
+  <w>Horn</w>
+  <w>Afríku</w>
+  <w>og</w>
+  <w>á</w>
+  <w>lengstu</w>
+  <w>strandlengju</w>
+  <w>allra</w>
+  <w>ríkja</w>
+  <w>á</w>
+  <w>meginlandi</w>
+  <w>Afríku</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Landslag</w>
+  <w>í</w>
+  <w>Sómalíu</w>
+  <w>einkennist</w>
+  <w>af</w>
+  <w>sléttum</w>
+  <w>og</w>
+  <w>hásléttum</w>
+  <w>þar</w>
+  <w>sem</w>
+  <revision id="5">
+    <original><w>er</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wording" idx="5-1" eid="0" />
+      </errors>
+  </revision>
+  <w>heitt</w>
+  <revision id="6">
+    <original></original>
+    <corrected><w>er</w></corrected>
+      <errors>
+        <error xtype="dep" depId="5-1" eid="0" />
+      </errors>
+  </revision>
+  <w>árið</w>
+  <w>um</w>
+  <w>kring</w>
+  <c>,</c>
+  <w>árstíðabundnir</w>
+  <w>monsúnvindar</w>
+  <w>blása</w>
+  <w>og</w>
+  <w>úrkoma</w>
+  <w>er</w>
+  <w>óregluleg</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Um</w>
+  <w>tíu</w>
+  <w>milljónir</w>
+  <w>manna</w>
+  <w>búa</w>
+  <w>í</w>
+  <w>landinu</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Þar</w>
+  <w>af</w>
+  <w>eru</w>
+  <w>85%</w>
+  <revision id="7">
+    <original><w>Sómalir</w></original>
+    <corrected><w>Sómalar</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>flestir</w>
+  <w>búa</w>
+  <w>í</w>
+  <w>norðurhlutanum</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Minnihlutahópar</w>
+  <c>,</c>
+  <w>eins</w>
+  <w>og</w>
+  <w>Bantúmenn</w>
+  <c>,</c>
+  <w>búa</w>
+  <w>aðallega</w>
+  <w>í</w>
+  <w>suðurhlutanum</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Eftir</w>
+  <w>áratugalanga</w>
+  <w>borgarastyrjöld</w>
+  <w>búa</w>
+  <w>líka</w>
+  <w>margir</w>
+  <revision id="8">
+    <original><w>Sómalir</w></original>
+    <corrected><w>Sómalar</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
+  <w>utan</w>
+  <w>Sómalíu</w>
+  <w>víða</w>
+  <w>um</w>
+  <w>heim</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>Opinber</w>
+  <w>tungumál</w>
+  <w>Sómalíu</w>
+  <w>eru</w>
+  <w>sómalska</w>
+  <w>og</w>
+  <w>arabíska</w>
+  <w>sem</w>
+  <w>bæði</w>
+  <w>eru</w>
+  <w>afróasísk</w>
+  <w>mál</w>
+  <c>,</c>
+  <w>þótt</w>
+  <w>annað</w>
+  <w>sé</w>
+  <w>kúsískt</w>
+  <w>mál</w>
+  <w>og</w>
+  <w>hitt</w>
+  <w>semískt</w>
+  <c>.</c>
+</s>
+<s n="8">
+  <w>Flestir</w>
+  <w>íbúar</w>
+  <w>landsins</w>
+  <w>eru</w>
+  <w>súnnímúslimar</w>
+  <c>.</c>
+</s>
+<s n="9">
+  <w>Sómalía</w>
+  <w>hefur</w>
+  <w>verið</w>
+  <w>mikilvæg</w>
+  <w>miðstöð</w>
+  <w>verslunar</w>
+  <w>í</w>
+  <w>þessum</w>
+  <w>heimshluta</w>
+  <w>frá</w>
+  <w>því</w>
+  <w>í</w>
+  <w>fornöld</w>
+  <w>og</w>
+  <w>þar</w>
+  <w>er</w>
+  <w>talið</w>
+  <w>líklegast</w>
+  <w>að</w>
+  <w>landið</w>
+  <w>Púnt</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>er</w>
+  <w>þekkt</w>
+  <w>úr</w>
+  <w>fornegypskum</w>
+  <w>heimildum</w>
+  <c>,</c>
+  <w>hafi</w>
+  <w>verið</w>
+  <c>.</c>
+</s>
+<s n="10">
+  <w>Nokkur</w>
+  <w>öflug</w>
+  <w>soldánsdæmi</w>
+  <w>komu</w>
+  <w>þar</w>
+  <w>upp</w>
+  <w>á</w>
+  <w>miðöldum</w>
+  <w>og</w>
+  <w>á</w>
+  <w>nýöld</w>
+  <c>,</c>
+  <revision id="9">
+    <original><w>eins</w><w>og</w></original>
+    <corrected><w>t.d</w><c>.</c></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>Soldánsdæmið</w>
+  <w>Mógadisjú</w>
+  <c>,</c>
+  <w>Soldánsdæmið</w>
+  <w>Ajuran</w>
+  <c>,</c>
+  <w>Soldánsdæmið</w>
+  <w>Warsangali</w>
+  <w>og</w>
+  <w>Soldánsdæmið</w>
+  <w>Geledi</w>
+  <c>.</c>
+</s>
+<s n="11">
+  <w>Tvö</w>
+  <w>síðastnefndu</w>
+  <w>soldánsdæmin</w>
+  <w>urðu</w>
+  <w>Breska</w>
+  <w>Sómalíland</w>
+  <w>og</w>
+  <w>Ítalska</w>
+  <w>Sómalíland</w>
+  <w>þegar</w>
+  <w>Evrópuveldin</w>
+  <w>lögðu</w>
+  <w>þau</w>
+  <w>undir</w>
+  <w>sig</w>
+  <w>í</w>
+  <w>kapphlaupinu</w>
+  <w>um</w>
+  <w>Afríku</w>
+  <w>undir</w>
+  <w>lok</w>
+  <w>19.</w>
+  <w>aldar</w>
+  <c>.</c>
+</s>
+<s n="12">
+  <w>Dervisjaríki</w>
+  <w>Múhameðs</w>
+  <w>Abdúlla</w>
+  <w>Hassans</w>
+  <w>stóðst</w>
+  <w>ásælni</w>
+  <w>Breta</w>
+  <w>inni</w>
+  <w>í</w>
+  <w>landi</w>
+  <w>þar</w>
+  <w>til</w>
+  <w>þeir</w>
+  <w>voru</w>
+  <w>sigraðir</w>
+  <w>með</w>
+  <w>loftárásum</w>
+  <w>árið 1920</w>
+  <c>.</c>
+</s>
+<s n="13">
+  <w>Ítalir</w>
+  <w>lögðu</w>
+  <w>Soldánsdæmið</w>
+  <w>Majeerteen</w>
+  <w>og</w>
+  <w>Soldánsdæmið</w>
+  <w>Hobyo</w>
+  <w>undir</w>
+  <w>sig</w>
+  <w>eftir</w>
+  <w>nokkur</w>
+  <w>átök</w>
+  <w>1924</w>
+  <w>og</w>
+  <w>1926</w>
+  <c>.</c>
+</s>
+<s n="14">
+  <w>Bretar</w>
+  <w>lögðu</w>
+  <w>svo</w>
+  <w>nýlendur</w>
+  <w>Ítala</w>
+  <w>undir</w>
+  <w>sig</w>
+  <w>árið 1941</w>
+  <c>,</c>
+  <w>í</w>
+  <revision id="10">
+    <original><w>Síðari</w></original>
+    <corrected><w>síðari</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
+  <w>heimsstyrjöld</w>
+  <c>.</c>
+</s>
+<s n="15">
+  <w>Eftir</w>
+  <w>stríðið</w>
+  <w>varð</w>
+  <w>Norður-Sómalía</w>
+  <w>breskt</w>
+  <w>verndarsvæði</w>
+  <w>en</w>
+  <w>Suður-Sómalíu</w>
+  <w>var</w>
+  <w>stýrt</w>
+  <w>af</w>
+  <w>Sameinuðu</w>
+  <w>þjóðunum</w>
+  <w>undir</w>
+  <w>ítalskri</w>
+  <w>stjórn</w>
+  <c>.</c>
+</s>
+<s n="16">
+  <w>Árið 1960</w>
+  <w>sameinuðust</w>
+  <w>þessi</w>
+  <w>tvö</w>
+  <w>lönd</w>
+  <w>í</w>
+  <w>eitt</w>
+  <w>sjálfstætt</w>
+  <w>ríki</w>
+  <c>,</c>
+  <w>Sómalíu</w>
+  <c>.</c>
+</s>
+<s n="17">
+  <w>Árið 1969</w>
+  <w>rændi</w>
+  <w>herforinginn</w>
+  <w>Siad</w>
+  <w>Barre</w>
+  <w>völdum</w>
+  <w>í</w>
+  <w>landinu</w>
+  <w>og</w>
+  <w>stofnaði</w>
+  <w>Alþýðulýðveldið</w>
+  <w>Sómalíu</w>
+  <c>.</c>
+</s>
+<s n="18">
+  <w>Þegar</w>
+  <w>andspyrnuhópar</w>
+  <w>hröktu</w>
+  <w>hann</w>
+  <w>frá</w>
+  <w>völdum</w>
+  <w>árið 1991</w>
+  <w>braust</w>
+  <w>Sómalska</w>
+  <w>borgarastyrjöldin</w>
+  <w>út</w>
+  <c>.</c>
+</s>
+<s n="19">
+  <w>Á</w>
+  <w>þeim</w>
+  <w>tíma</w>
+  <w>tóku</w>
+  <w>sum</w>
+  <w>héruð</w>
+  <c>,</c>
+  <w>eins</w>
+  <w>og</w>
+  <w>Sómalíland</w>
+  <c>,</c>
+  <w>Púntland</w>
+  <w>og</w>
+  <w>Galmudug</w>
+  <c>,</c>
+  <w>upp</w>
+  <w>eigin</w>
+  <w>stjórn</w>
+  <w>og</w>
+  <w>landsmenn</w>
+  <w>tóku</w>
+  <w>upp</w>
+  <w>óformlegt</w>
+  <w>hagkerfi</w>
+  <w>sem</w>
+  <w>byggðist</w>
+  <w>á</w>
+  <w>kvikfé</w>
+  <c>,</c>
+  <w>peningasendingum</w>
+  <w>og</w>
+  <w>farsímakerfum</w>
+  <c>.</c>
+</s>
+<s n="20">
+  <w>Eftir</w>
+  <w>aldamótin</w>
+  <w>voru</w>
+  <w>gerðar</w>
+  <w>nokkrar</w>
+  <w>tilraunir</w>
+  <w>til</w>
+  <w>að</w>
+  <w>skapa</w>
+  <w>sambandsríki</w>
+  <w>og</w>
+  <w>árið 2004</w>
+  <w>hóf</w>
+  <revision id="11">
+    <original><w>Tímabundna</w></original>
+    <corrected><w>tímabundna</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
+  <w>sambandsstjórnin</w>
+  <w>að</w>
+  <w>koma</w>
+  <w>á</w>
+  <w>fót</w>
+  <w>ríkisstofnunum</w>
+  <w>eins</w>
+  <w>og</w>
+  <w>seðlabanka</w>
+  <w>og</w>
+  <w>her</w>
+  <c>.</c>
+</s>
+<s n="21">
+  <w>Árið 2006</w>
+  <w>náði</w>
+  <w>þessi</w>
+  <w>stjórn</w>
+  <w>að</w>
+  <w>leggja</w>
+  <w>undir</w>
+  <w>sig</w>
+  <w>átakahéruð</w>
+  <w>í</w>
+  <w>sunnanverðu</w>
+  <w>landinu</w>
+  <w>með</w>
+  <w>aðstoð</w>
+  <w>eþíópíska</w>
+  <w>hersins</w>
+  <c>.</c>
+</s>
+<s n="22">
+  <w>Ný</w>
+  <w>stjórnarskrá</w>
+  <w>var</w>
+  <w>samþykkt</w>
+  <w>árið 2012</w>
+  <w>og</w>
+  <w>sama</w>
+  <w>ár</w>
+  <w>tók</w>
+  <w>Sambandsstjórn</w>
+  <w>Sómalíu</w>
+  <w>við</w>
+  <w>völdum</w>
+  <c>.</c>
+</s>
+<s n="23">
+  <w>Sómalía</w>
+  <w>skiptist</w>
+  <w>formlega</w>
+  <w>í</w>
+  <w>átján</w>
+  <w>héruð</w>
+  <c>(</c>
+  <w><i>gobollada</i></w>
+  <c>)</c>
+  <w>sem</w>
+  <w>aftur</w>
+  <w>skiptast</w>
+  <w>í</w>
+  <w>umdæmi</w>
+  <c>.</c>
+</s>
+<s n="24">
+  <w>Norðurhluti</w>
+  <w>landsins</w>
+  <w>skiptist</w>
+  <w><i>de</i></w>
+  <w><i>facto</i></w>
+  <w>á</w>
+  <w>milli</w>
+  <w>sjálfstjórnarfylkisins</w>
+  <w>Púntlands</w>
+  <w>og</w>
+  <w>Sómalílands</w>
+  <w>sem</w>
+  <w>lýst</w>
+  <w>hefur</w>
+  <w>yfir</w>
+  <w>stofnun</w>
+  <w>sjálfstæðs</w>
+  <w>ríkis</w>
+  <w>sem</w>
+  <w>ekkert</w>
+  <w>annað</w>
+  <w>ríki</w>
+  <w>viðurkennir</w>
+  <c>.</c>
+</s>
+<s n="25">
+  <w>Auk</w>
+  <w>þessara</w>
+  <w>svæða</w>
+  <w>mynda</w>
+  <w>sjálfstjórnarfylkin</w>
+  <w>Galmudug</w>
+  <w>í</w>
+  <w>miðju</w>
+  <w>landinu</w>
+  <c>,</c>
+  <w>og</w>
+  <w>Júbaland</w>
+  <w>í</w>
+  <w>suðri</w>
+  <c>,</c>
+  <w>sambandsríkið</w>
+  <w>Sómalíu</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

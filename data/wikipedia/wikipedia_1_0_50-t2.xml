@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Nóbelsverðlaunin</w>
+  <w>eru</w>
+  <w>veitt</w>
+  <w>árlega</w>
+  <w>til</w>
+  <w>einstaklinga</w>
+  <w>eða</w>
+  <w>samtaka</w>
+  <w>sem</w>
+  <w>hafa</w>
+  <revision id="1">
+    <original><w>veitt</w></original>
+    <corrected><w>fært</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>framúrskarandi</w>
+  <w>framlög</w>
+  <w>til</w>
+  <w>samfélagsins</w>
+  <c>,</c>
+  <w>hvort</w>
+  <w>sem</w>
+  <w>er</w>
+  <w>í</w>
+  <w>gegnum</w>
+  <w>rannsóknir</w>
+  <c>,</c>
+  <w>listsköpun</w>
+  <w>eða</w>
+  <revision id="2">
+    <original><w>öðru</w></original>
+    <corrected><w>annað</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Litið</w>
+  <w>er</w>
+  <w>á</w>
+  <w>þessi</w>
+  <w>verðlaun</w>
+  <w>sem</w>
+  <revision id="3">
+    <original></original>
+    <corrected><w>hina</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>æðstu</w>
+  <w>viðurkenningu</w>
+  <w>sem</w>
+  <w>fólk</w>
+  <w>getur</w>
+  <w>fengið</w>
+  <w>fyrir</w>
+  <w>framlög</w>
+  <revision id="4">
+    <original></original>
+    <corrected><w>sín</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>til</w>
+  <w>mannkynsins</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Verðlaunin</w>
+  <w>voru</w>
+  <w>sett</w>
+  <w>á</w>
+  <w>fót</w>
+  <w>sem</w>
+  <w>hinsta</w>
+  <w>ósk</w>
+  <w>hins</w>
+  <w>sænska</w>
+  <w>Alfred</w>
+  <w>Nobels</w>
+  <c>(</c>
+  <w>1833</w>
+  <revision id="5">
+    <original><c>-</c></original>
+    <corrected><c>–</c></corrected>
+      <errors>
+        <error xtype="wrong-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>1896</w>
+  <c>)</c>
+  <c>,</c>
+  <w>sem</w>
+  <w>fann</w>
+  <w>upp</w>
+  <w>dýnamítið</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Hann</w>
+  <w>var</w>
+  <w>hneykslaður</w>
+  <w>á</w>
+  <w>því</w>
+  <w>hvernig</w>
+  <w>uppfinning</w>
+  <w>hans</w>
+  <revision id="6">
+    <original><w>var</w></original>
+    <corrected><w>hafði</w><w>verið</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>notuð</w>
+  <w>til</w>
+  <w>illra</w>
+  <w>verka</w>
+  <w>og</w>
+  <w>vildi</w>
+  <w>að</w>
+  <w>verðlaunin</w>
+  <w>færu</w>
+  <w>til</w>
+  <w>þeirra</w>
+  <w>sem</w>
+  <w>gerðu</w>
+  <w>heiminn</w>
+  <w>að</w>
+  <w>betri</w>
+  <w>stað</w>
+  <w>til</w>
+  <w>að</w>
+  <w>lifa</w>
+  <w>í</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Fyrstu</w>
+  <w>verðlaunin</w>
+  <w>voru</w>
+  <w>afhent</w>
+  <revision id="7">
+    <original><w>við</w><w>athöfn</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wording" idx="7-1" eid="0" />
+      </errors>
+  </revision>
+  <w>árið 1901</w>
+  <c>,</c>
+  <revision id="8">
+    <original></original>
+    <corrected><w>við</w><w>athöfn</w></corrected>
+      <errors>
+        <error xtype="dep" depId="7-1" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>gamla</w>
+  <w>konunglega</w>
+  <revision id="9">
+    <original><w>músíkskólanum</w></original>
+    <corrected><w>tónlistarskólanum</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>Stokkhólmi</w>
+  <revision id="10">
+    <original><w>og</w></original>
+    <corrected><c>.</c><w>Verðlaunin</w></corrected>
+      <errors>
+        <error xtype="conjunction4period" eid="0" />
+      </errors>
+  </revision>
+  <w>voru</w>
+  <w>veitt</w>
+  <w>í</w>
+  <w>greinunum</w>
+  <w>bókmenntir</w>
+  <c>,</c>
+  <w>eðlisfræði</w>
+  <c>,</c>
+  <w>efnafræði</w>
+  <w>og</w>
+  <w>læknisfræði</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Verðlaunin</w>
+  <w>eru</w>
+  <w>afhent</w>
+  <w>10. desember</w>
+  <c>(</c>
+  <revision id="11">
+    <original><w>dagurinn</w><w>sem</w><w>Nobel</w><w>dó</w></original>
+    <corrected><w>dánardagur</w><w>Nobels</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <c>)</c>
+  <w>hvers</w>
+  <w>árs</w>
+  <w>en</w>
+  <w>oftast</w>
+  <w>er</w>
+  <w>tilkynnt</w>
+  <revision id="12">
+    <original></original>
+    <corrected><w>um</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>hverjir</w>
+  <w>verðlaunahafarnir</w>
+  <w>eru</w>
+  <w>í</w>
+  <w>október</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

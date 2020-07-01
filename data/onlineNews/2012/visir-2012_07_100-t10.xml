@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Ný</w>
+  <w>skoðanakönnun</w>
+  <w>í</w>
+  <w>Bandaríkjunum</w>
+  <w>sýnir</w>
+  <w>að</w>
+  <w>Barack</w>
+  <w>Obama</w>
+  <w>Bandaríkjaforseti</w>
+  <w>er</w>
+  <w>með</w>
+  <revision id="1">
+    <original><w>2</w></original>
+    <corrected><w>tveggja</w></corrected>
+      <errors>
+        <error xtype="number4word" eid="0" />
+      </errors>
+  </revision>
+  <w>prósentustiga</w>
+  <w>forskot</w>
+  <w>á</w>
+  <w>keppninaut</w>
+  <w>sinn</w>
+  <w>Mitt</w>
+  <w>Romney</w>
+  <w>í</w>
+  <w>tólf</w>
+  <w>lykilríkjum</w>
+  <w>fyrir</w>
+  <w>forsetakosningarnar</w>
+  <w>í</w>
+  <w>haust</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Obama</w>
+  <w>er</w>
+  <w>með</w>
+  <w>47%</w>
+  <w>atkvæða</w>
+  <w>í</w>
+  <w>þessum</w>
+  <w>ríkjum</w>
+  <w>á</w>
+  <w>móti</w>
+  <w>45%</w>
+  <revision id="2">
+    <original><w>hjá</w><w>Romney</w></original>
+    <corrected><w>Romneys</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="3">
+  <revision id="3">
+    <original><w>Lykilríki</w><w>þessi</w></original>
+    <corrected><w>Þessi</w><w>lykilríki</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>geta</w>
+  <w>sveiflað</w>
+  <w>kosningunum</w>
+  <w>í</w>
+  <w>hvora</w>
+  <w>áttina</w>
+  <w>sem</w>
+  <w>er</w>
+  <revision id="4">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>en</w>
+  <w>þetta</w>
+  <w>eru</w>
+  <revision id="5">
+    <original><w>m.</w><w>a</w></original>
+    <corrected><w>m.a</w></corrected>
+      <errors>
+        <error xtype="extra-space" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Flórída</w>
+  <c>,</c>
+  <w>Virginía</w>
+  <c>,</c>
+  <w>Nevada</w>
+  <c>,</c>
+  <w>Ohio</w>
+  <c>,</c>
+  <w>Pennsylvanía</w>
+  <w>og</w>
+  <w>New</w>
+  <w>Hampshire</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Í</w>
+  <w>Bandaríkjunum</w>
+  <w>í</w>
+  <w>heild</w>
+  <w>er</w>
+  <w>forskot</w>
+  <w>Obama</w>
+  <w>nokkru</w>
+  <w>meira</w>
+  <revision id="6">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>en</w>
+  <w>hann</w>
+  <w>mælist</w>
+  <w>með</w>
+  <w>48%</w>
+  <revision id="7">
+    <original></original>
+    <corrected><w>fylgi</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>móti</w>
+  <w>44%</w>
+  <revision id="8">
+    <original><w>hjá</w><w>Romney</w></original>
+    <corrected><w>fylgi</w><w>Romneys</w></corrected>
+      <errors>
+        <error xtype="missing-word" idx="8-1" eid="0" />
+        <error xtype="wording" idx="8-2" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>þessari</w>
+  <w>skoðanakönnun</w>
+  <w>sem</w>
+  <w>unnin</w>
+  <w>var</w>
+  <w>af</w>
+  <w>Gallup</w>
+  <w>og</w>
+  <w>USA</w>
+  <w>Today</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

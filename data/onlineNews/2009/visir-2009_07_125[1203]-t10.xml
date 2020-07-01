@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Þegar</w>
+  <w>umræður</w>
+  <w>um</w>
+  <w>ríkisábyrgð</w>
+  <w>á</w>
+  <w>Icesave</w>
+  <w>hófust</w>
+  <w>eftir</w>
+  <w>fundarhlé</w>
+  <w>klukkan 13:30</w>
+  <w>voru</w>
+  <w>hvorki</w>
+  <w>forsætisráðherra</w>
+  <w>né</w>
+  <w>fjármálaráðherra</w>
+  <revision id="1">
+    <original><w>viðstaddur</w></original>
+    <corrected><w>viðstaddir</w></corrected>
+      <errors>
+        <error xtype="agreement-pred" idx="1-1" eid="0" />
+        <error xtype="singular4plural" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="2">
+  <revision id="2">
+    <original><w>Kvað</w><w>hver</w></original>
+    <corrected><w>Hver</w></corrected>
+      <errors>
+        <error xtype="wording" idx="2-1" eid="0" />
+      </errors>
+  </revision>
+  <w>stjórnarandstæðingurinn</w>
+  <revision id="3">
+    <original></original>
+    <corrected><w>kvað</w></corrected>
+      <errors>
+        <error xtype="dep" depId="2-1" eid="0" />
+      </errors>
+  </revision>
+  <w>sér</w>
+  <w>hljóðs</w>
+  <w>á</w>
+  <w>fætur</w>
+  <w>öðrum</w>
+  <w>og</w>
+  <w>krafðist</w>
+  <w>þess</w>
+  <w>að</w>
+  <w>ráðherrarnir</w>
+  <w>sýndu</w>
+  <w>umræðunni</w>
+  <w>þá</w>
+  <w>lágmarksvirðingu</w>
+  <w>að</w>
+  <w>vera</w>
+  <w>viðstaddir</w>
+  <w>hana</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Tæpum</w>
+  <w>tíu</w>
+  <w>mínútum</w>
+  <w>síðar</w>
+  <w>voru</w>
+  <w>þó</w>
+  <w>báðir</w>
+  <w>ráðherrarnir</w>
+  <w>komnir</w>
+  <w>í</w>
+  <w>þingsalinn</w>
+  <w>og</w>
+  <w>þingmenn</w>
+  <w>stjórnarandstöðunnar</w>
+  <w>gátu</w>
+  <w>hugsað</w>
+  <w>sér</w>
+  <w>að</w>
+  <w>halda</w>
+  <w>áfram</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

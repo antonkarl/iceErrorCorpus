@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Leikarinn</w>
+  <w>Hugh</w>
+  <w>Grant</w>
+  <w>segir</w>
+  <w>að</w>
+  <w>lögreglan</w>
+  <w>hafi</w>
+  <w>beðið</w>
+  <w>sig</w>
+  <w>að</w>
+  <w>bera</w>
+  <w>vitni</w>
+  <w>í</w>
+  <w>rannsókn</w>
+  <w>sem</w>
+  <w>nú</w>
+  <w>stendur</w>
+  <w>yfir</w>
+  <w>á</w>
+  <w>æsifréttablaðinu</w>
+  <w>News</w>
+  <w>of</w>
+  <w>the</w>
+  <w>World</w>
+  <revision id="1">
+    <original><c>,</c><w>sem</w><w>sakað</w></original>
+    <corrected><c>.</c><w>Blaðið</w></corrected>
+      <errors>
+        <error xtype="comma4period" eid="0" />
+        <error xtype="wording" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>er</w>
+  <revision id="2">
+    <original></original>
+    <corrected><w>sakað</w></corrected>
+      <errors>
+        <error xtype="dep" depId="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>um</w>
+  <w>að</w>
+  <w>hafa</w>
+  <w>hlerað</w>
+  <w>símtöl</w>
+  <w>fólks</w>
+  <revision id="3">
+    <original><c>,</c></original>
+    <corrected><w>þar</w><w>á</w></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
+        <error xtype="wording" idx="3-1" eid="0" />
+      </errors>
+  </revision>
+  <w>meðal</w>
+  <revision id="4">
+    <original><w>annars</w><w>ungrar</w></original>
+    <corrected><w>símtöl</w><w>ungrar</w></corrected>
+      <errors>
+        <error xtype="dep" depId="3-1" eid="0" />
+      </errors>
+  </revision>
+  <w>stúlku</w>
+  <w>sem</w>
+  <w>var</w>
+  <w>myrt</w>
+  <w>árið 2002</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Frá</w>
+  <w>þessu</w>
+  <w>er</w>
+  <w>greint</w>
+  <w>á</w>
+  <w>vefsíðu</w>
+  <revision id="5">
+    <original><w>the</w></original>
+    <corrected><w>The</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" idx="5-1" eid="0" />
+        <error xtype="foreign-error" idx="5-1" eid="0" />
+      </errors>
+  </revision>
+  <w>Washington</w>
+  <w>Post</w>
+  <w>í</w>
+  <w>dag</w>
+  <w>en</w>
+  <w>þar</w>
+  <w>kemur</w>
+  <w>fram</w>
+  <w>að</w>
+  <w>leikarinn</w>
+  <w>hafi</w>
+  <w>ítrekað</w>
+  <w>haldið</w>
+  <w>því</w>
+  <w>fram</w>
+  <w>að</w>
+  <w>News</w>
+  <w>of</w>
+  <w>the</w>
+  <w>World</w>
+  <w>hafi</w>
+  <w>brotist</w>
+  <w>inn</w>
+  <w>í</w>
+  <w>símann</w>
+  <w>sinn</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Hugh</w>
+  <w>Grant</w>
+  <w>skrifaði</w>
+  <w>grein</w>
+  <w>um</w>
+  <w>málið</w>
+  <w>á</w>
+  <w>vef</w>
+  <w>pólitíska</w>
+  <w>menningarmiðilsins</w>
+  <w>New</w>
+  <w>Statesman</w>
+  <w>fyrr</w>
+  <w>á</w>
+  <w>árinu</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Í</w>
+  <w>greininni</w>
+  <w>birtir</w>
+  <w>hann</w>
+  <w>samtal</w>
+  <w>sitt</w>
+  <w>við</w>
+  <revision id="6">
+    <original><w>fyrrum</w></original>
+    <corrected><w>fyrrverandi</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>blaðamann</w>
+  <w>News</w>
+  <w>of</w>
+  <w>the</w>
+  <w>World</w>
+  <w>þar</w>
+  <w>sem</w>
+  <w>sá</w>
+  <w>grunur</w>
+  <w>leikarans</w>
+  <w>að</w>
+  <w>símtöl</w>
+  <w>hans</w>
+  <w>hefðu</w>
+  <w>verið</w>
+  <w>hleruð</w>
+  <w>var</w>
+  <w>staðfestur</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Greinina</w>
+  <w>sem</w>
+  <w>Grant</w>
+  <w>skrifaði</w>
+  <w>má</w>
+  <w>nálgast</w>
+  <w>á</w>
+  <w>vefsíðu</w>
+  <w>New</w>
+  <w>Statesman</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

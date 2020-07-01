@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Ökuskírteini</w>
+  <w>er</w>
+  <w>skírteini</w>
+  <w>sem</w>
+  <w>er</w>
+  <w>staðfesting</w>
+  <w>á</w>
+  <w>því</w>
+  <w>að</w>
+  <w>einstaklingur</w>
+  <w>megi</w>
+  <w>keyra</w>
+  <w>vélknúið</w>
+  <w>ökutæki</w>
+  <w>eins</w>
+  <w>og</w>
+  <w>mótorhjól</w>
+  <c>,</c>
+  <w>bíl</w>
+  <c>,</c>
+  <w>vörubíl</w>
+  <w>eða</w>
+  <w>áætlunarbifreið</w>
+  <w>á</w>
+  <w>opinberum</w>
+  <w>vegi</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Lög</w>
+  <w>um</w>
+  <w>hverjir</w>
+  <w>fá</w>
+  <revision id="1">
+    <original><w>ökuskírteni</w></original>
+    <corrected><w>ökuskírteini</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="1-1" eid="0" />
+        <error xtype="nonword" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>eru</w>
+  <w>mismunandi</w>
+  <w>eftir</w>
+  <w>löndum</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Í</w>
+  <w>sumum</w>
+  <w>löndum</w>
+  <w>er</w>
+  <revision id="2">
+    <original><w>ökuskírteni</w></original>
+    <corrected><w>ökuskírteini</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="2-1" eid="0" />
+        <error xtype="nonword" idx="2-1" eid="0" />
+      </errors>
+  </revision>
+  <w>gefið</w>
+  <w>út</w>
+  <w>eftir</w>
+  <w>að</w>
+  <w>viðkomandi</w>
+  <w>hefur</w>
+  <w>náð</w>
+  <w>ökuprófi</w>
+  <w>á</w>
+  <w>meðan</w>
+  <w>í</w>
+  <w>öðrum</w>
+  <w>löndum</w>
+  <w>þarf</w>
+  <w>viðkomandi</w>
+  <revision id="3">
+    <original><w>ökuskírteni</w></original>
+    <corrected><w>ökuskírteini</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="3-1" eid="0" />
+        <error xtype="nonword" idx="3-1" eid="0" />
+      </errors>
+  </revision>
+  <w>áður</w>
+  <w>en</w>
+  <w>hann</w>
+  <w>hefur</w>
+  <w>akstur</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Fyrsta</w>
+  <revision id="4">
+    <original><w>ökuskírtenið</w></original>
+    <corrected><w>ökuskírteinið</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="4-1" eid="0" />
+        <error xtype="nonword" idx="4-1" eid="0" />
+      </errors>
+  </revision>
+  <w>var</w>
+  <w>útgefið</w>
+  <w>til</w>
+  <revision id="5">
+    <original><w>frumkvöðuls</w><w>nútímabílsins</w></original>
+    <corrected><w>frumkvöðulsins</w><w>á</w><w>bakvið</w><w>nútímabílinn</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>Karl</w>
+  <w>Benz</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Vegna</w>
+  <w>þess</w>
+  <w>hávaða</w>
+  <w>og</w>
+  <w>mengunar</w>
+  <w>sem</w>
+  <revision id="6">
+    <original><w>sjálfrennireið</w></original>
+    <corrected><w>bifreið</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>hans</w>
+  <w>olli</w>
+  <w>í</w>
+  <w>þýsku</w>
+  <w>borginni</w>
+  <w>Mannheim</w>
+  <w>óskaði</w>
+  <w>Benz</w>
+  <w>eftir</w>
+  <revision id="7">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-commas" idx="7-1" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>fékk</w>
+  <revision id="8">
+    <original><w>skírteni</w></original>
+    <corrected><c>,</c><w>skírteini</w></corrected>
+      <errors>
+        <error xtype="dep" depId="7-1" eid="0" />
+        <error xtype="missing-letter" idx="8-1" eid="0" />
+        <error xtype="nonword" idx="8-1" eid="0" />
+      </errors>
+  </revision>
+  <w>frá</w>
+  <w>yfirvöldum</w>
+  <revision id="9">
+    <original></original>
+    <corrected><w>þess</w><w>eðlis</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>hann</w>
+  <w>mætti</w>
+  <w>keyra</w>
+  <w>bílinn</w>
+  <w>á</w>
+  <w>opinberum</w>
+  <w>vegum</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Fyrsta</w>
+  <w>landið</w>
+  <w>sem</w>
+  <w>gerði</w>
+  <w>kröfu</w>
+  <w>um</w>
+  <revision id="10">
+    <original><w>ökuskírteni</w></original>
+    <corrected><w>ökuskírteini</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="10-1" eid="0" />
+        <error xtype="nonword" idx="10-1" eid="0" />
+      </errors>
+  </revision>
+  <w>var</w>
+  <w>Prússland</w>
+  <revision id="11">
+    <original></original>
+    <corrected><c>,</c><w>frá</w><w>og</w><w>með</w></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <w>29. september 1903</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>Sambandið</w>
+  <w>Dampfkesselüberwachungsverein</w>
+  <w>var</w>
+  <w>yfirumsjónaraðili</w>
+  <w>prófanna</w>
+  <w>sem</w>
+  <w>gengu</w>
+  <revision id="12">
+    <original><w>megnmegnis</w></original>
+    <corrected><w>mestmegnis</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
+  <w>út</w>
+  <w>á</w>
+  <w>vélfræðilega</w>
+  <w>þekkingu</w>
+  <c>.</c>
+</s>
+<s n="8">
+  <revision id="13">
+    <original><w>1910</w></original>
+    <corrected><w>Árið 1910</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>setti</w>
+  <revision id="14">
+    <original><w>Þýska</w><w>ríkistjórnin</w></original>
+    <corrected><w>þýska</w><w>ríkisstjórnin</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+        <error xtype="compound-collocation" idx="14-1" eid="0" />
+        <error xtype="compound-nonword" idx="14-1" eid="0" />
+      </errors>
+  </revision>
+  <w>upp</w>
+  <revision id="15">
+    <original><w>ökuréttinda</w><w>kerfi</w></original>
+    <corrected><w>ökuréttindakerfi</w></corrected>
+      <errors>
+        <error xtype="compound-split" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>varð</w>
+  <w>síðar</w>
+  <w>fyrirmynd</w>
+  <revision id="16">
+    <original><w>annara</w></original>
+    <corrected><w>annarra</w></corrected>
+      <errors>
+        <error xtype="missing-letter" eid="0" />
+      </errors>
+  </revision>
+  <w>landa</w>
+  <c>.</c>
+</s>
+<s n="9">
+  <w>Önnur</w>
+  <w>lönd</w>
+  <w>Evrópu</w>
+  <w>innleiddu</w>
+  <w>ökupróf</w>
+  <w>á</w>
+  <w>tuttugustu</w>
+  <w>öldinni</w>
+  <w>fram</w>
+  <w>til</w>
+  <revision id="17">
+    <original><w>1977</w></original>
+    <corrected><w>ársins 1977</w><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>þegar</w>
+  <w>Belgar</w>
+  <revision id="18">
+    <original><w>voru</w></original>
+    <corrected><w>urðu</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>síðastir</w>
+  <revision id="19">
+    <original><w>evrópuþjóða</w></original>
+    <corrected><w>Evrópuþjóða</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>innleiða</w>
+  <w>slíkt</w>
+  <w>kerfi</w>
+  <c>.</c>
+</s>
+<s n="10">
+  <w>Í</w>
+  <w>Bandaríkjunum</w>
+  <w>var</w>
+  <w>New</w>
+  <w>York</w>
+  <w>fyrsta</w>
+  <w>borgin</w>
+  <w>til</w>
+  <w>að</w>
+  <w>innleiða</w>
+  <revision id="20">
+    <original><w>ökuréttndi</w></original>
+    <corrected><w>ökuréttindi</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="20-1" eid="0" />
+        <error xtype="nonword" idx="20-1" eid="0" />
+      </errors>
+  </revision>
+  <w>fyrir</w>
+  <w>atvinnubílstjóra</w>
+  <w>1. ágúst 1910</w>
+  <c>.</c>
+</s>
+<s n="11">
+  <w>Þremur</w>
+  <w>árum</w>
+  <w>síðar</w>
+  <w>varð</w>
+  <w>New</w>
+  <w>Jersey</w>
+  <w>fyrsta</w>
+  <w>fylki</w>
+  <w>Bandaríkjanna</w>
+  <w>sem</w>
+  <w>innleiddi</w>
+  <w>ökupróf</w>
+  <w>fyrir</w>
+  <w>alla</w>
+  <w>ökumenn</w>
+  <c>.</c>
+</s>
+<s n="12">
+  <w>Í</w>
+  <w>fjölda</w>
+  <w>landa</w>
+  <w>þurfa</w>
+  <w>atvinnuökumenn</w>
+  <w>sérstök</w>
+  <revision id="21">
+    <original><w>ökuskírteni</w></original>
+    <corrected><w>ökuskírteini</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="21-1" eid="0" />
+        <error xtype="nonword" idx="21-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="13">
+  <w>Í</w>
+  <w>Bandaríkjum</w>
+  <c>,</c>
+  <w>Nýja</w>
+  <w>Sjálandi</w>
+  <w>og</w>
+  <w>sumum</w>
+  <w>ríkjum</w>
+  <w>Kanada</w>
+  <w>eru</w>
+  <w>sérstök</w>
+  <revision id="22">
+    <original><w>skírteni</w></original>
+    <corrected><w>skírteini</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="22-1" eid="0" />
+        <error xtype="nonword" idx="22-1" eid="0" />
+      </errors>
+  </revision>
+  <w>fyrir</w>
+  <w>leigubílstjóra</w>
+  <c>.</c>
+</s>
+<s n="14">
+  <w>Í</w>
+  <w>Indlandi</w>
+  <w>er</w>
+  <revision id="23">
+    <original><w>atvinnu</w><w>ökuskírteni</w></original>
+    <corrected><w>atvinnuökuskírteini</w></corrected>
+      <errors>
+        <error xtype="compound-split" idx="23-1" eid="0" />
+        <error xtype="missing-letter" idx="23-1" eid="0" />
+        <error xtype="nonword" idx="30-1" eid="0" />
+      </errors>
+  </revision>
+  <w>gilt</w>
+  <w>í</w>
+  <w>5</w>
+  <w>ár</w>
+  <w>á</w>
+  <w>meðan</w>
+  <w>almennt</w>
+  <revision id="24">
+    <original><w>ökuskírteni</w></original>
+    <corrected><w>ökuskírteini</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="24-1" eid="0" />
+        <error xtype="nonword" idx="24-1" eid="0" /
+      </errors>
+  </revision>
+  <w>gildir</w>
+  <w>í</w>
+  <w>20</w>
+  <w>ár</w>
+  <c>.</c>
+</s>
+<s n="15">
+  <w>Í</w>
+  <w>Bretlandi</w>
+  <w>þarf</w>
+  <w>sérstakt</w>
+  <revision id="25">
+    <original><w>ökuskírteni</w><w>fyrir</w></original>
+    <corrected><w>ökuskírteini</w><w>til</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="25-1" eid="0" />
+        <error xtype="nonword" idx="25-1" eid="0" />
+        <error xtype="wrong-prep" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>keyra</w>
+  <w>bíl</w>
+  <w>með</w>
+  <w>sæti</w>
+  <w>fyrir</w>
+  <w>fleiri</w>
+  <w>en</w>
+  <w>8</w>
+  <w>manns</w>
+  <w>eða</w>
+  <w>sem</w>
+  <w>er</w>
+  <w>þyngri</w>
+  <w>en</w>
+  <w>3.500</w>
+  <w>kíló</w>
+  <c>.</c>
+</s>
+<s n="16">
+  <w>Í</w>
+  <w>Evrópusambandinu</w>
+  <w>og</w>
+  <w>EES-löndum</w>
+  <c>(</c>
+  <w>þar</w>
+  <w>með</w>
+  <w>talið</w>
+  <w>Íslandi</w>
+  <c>)</c>
+  <revision id="26">
+    <original><w>eru</w><w>ökuskírtenum</w></original>
+    <corrected><w>er</w><w>ökuskírteinum</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="26-1" eid="0" />
+        <error xtype="nonword" idx="26-1" eid="0" />
+        <error xtype="agreement-pred" eid="0" />
+      </errors>
+  </revision>
+  <w>skipt</w>
+  <w>í</w>
+  <w>grunnflokka</w>
+  <w>eftir</w>
+  <w>gerð</w>
+  <w>ökutækis</w>
+  <c>.</c>
+</s>
+<s n="17">
+  <w>Mótorhjól</w>
+  <w>eru</w>
+  <w>í</w>
+  <w>A-flokki</w>
+  <c>,</c>
+  <w>bílar</w>
+  <w>í</w>
+  <w>B-flokki</w>
+  <c>,</c>
+  <w>vörubílar</w>
+  <w>í</w>
+  <w>C-flokki</w>
+  <w>og</w>
+  <w>áætlunarbifreiðar</w>
+  <w>í</w>
+  <w>D-flokki</w>
+  <c>.</c>
+</s>
+<s n="18">
+  <w>Undir</w>
+  <w>þessum</w>
+  <w>flokkum</w>
+  <w>eru</w>
+  <w>undirflokkar</w>
+  <w>eftir</w>
+  <w>afli</w>
+  <c>,</c>
+  <w>sætafjölda</w>
+  <w>og</w>
+  <w>þyngd</w>
+  <revision id="27">
+    <original><w>ökutækjanna</w></original>
+    <corrected><w>ökutækja</w></corrected>
+      <errors>
+        <error xtype="def4ind" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

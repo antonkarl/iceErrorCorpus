@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Fjórum</w>
+  <w>ungmennum</w>
+  <w>var</w>
+  <w>bjargað</w>
+  <c>,</c>
+  <w>blautum</w>
+  <c>,</c>
+  <w>köldum</w>
+  <w>og</w>
+  <w>hröktum</w>
+  <c>,</c>
+  <w>af</w>
+  <w>hólma</w>
+  <w>í</w>
+  <w>Meðalfellsvatni</w>
+  <c>,</c>
+  <w>eftir</w>
+  <w>að</w>
+  <w>bát</w>
+  <w>þeirra</w>
+  <w>hvolfdi</w>
+  <w>upp</w>
+  <w>úr</w>
+  <w>miðnætti</w>
+  <w>og</w>
+  <w>þau</w>
+  <w>lentu</w>
+  <w>í</w>
+  <w>vatninu</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Þau</w>
+  <w>náðu</w>
+  <w>að</w>
+  <w>hringja</w>
+  <w>á</w>
+  <w>hjálp</w>
+  <w>og</w>
+  <revision id="1">
+    <original><w>fóru</w><w>björgunarsveitarmenn</w></original>
+    <corrected><w>fór</w><w>björgunarsveitarfólk</w></corrected>
+      <errors>
+        <error xtype="dep" depId="1-1" eid="0" />
+        <error xtype="gendered" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <revision id="2">
+    <original><w>menn</w></original>
+    <corrected><w>fólk</w></corrected>
+      <errors>
+        <error xtype="gendered" idx="2-1" eid="0" />
+      </errors>
+  </revision>
+  <w>úr</w>
+  <w>slökkviliði</w>
+  <w>höfuðborgarsvæðisins</w>
+  <w>á</w>
+  <w>vettvang</w>
+  <w>og</w>
+  <revision id="3">
+    <original><w>björguðu</w></original>
+    <corrected><w>bjargaði</w></corrected>
+      <errors>
+        <error xtype="dep" depId="2-1" eid="0" />
+      </errors>
+  </revision>
+  <w>þeim</w>
+  <w>upp</w>
+  <w>í</w>
+  <w>slöngubát</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>flutti</w>
+  <w>þau</w>
+  <w>í</w>
+  <w>land</w>
+  <w>þar</w>
+  <w>sem</w>
+  <w>sjúkrabílar</w>
+  <w>biðu</w>
+  <w>þeirra</w>
+  <w>og</w>
+  <w>fluttu</w>
+  <w>á</w>
+  <w>slysadeild</w>
+  <w>til</w>
+  <w>aðhlynningar</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Engum</w>
+  <w>varð</w>
+  <w>meint</w>
+  <w>af</w>
+  <w>volkinu</w>
+  <w>og</w>
+  <w>fengu</w>
+  <w>þau</w>
+  <w>að</w>
+  <w>fara</w>
+  <w>heim</w>
+  <w>að</w>
+  <w>aðhlynningu</w>
+  <w>lokinni</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

@@ -1,0 +1,1431 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Québec</w>
+  <revision id="1">
+    <original><c>(</c></original>
+    <corrected><c>,</c><w>sem</w></corrected>
+      <errors>
+        <error xtype="bracket4comma" eid="0" />
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>borið</w>
+  <revision id="2">
+    <original></original>
+    <corrected><w>er</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>fram</w>
+  <c>[</c>
+  <w>kebɛk</w>
+  <c>]</c>
+  <revision id="3">
+    <original><c>)</c></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="bracket4comma" eid="0" />
+      </errors>
+  </revision>
+  <w>er</w>
+  <w>frönskumælandi</w>
+  <w>fylki</w>
+  <w>í</w>
+  <w>austur-Kanada</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Nafn</w>
+  <w>fylkisins</w>
+  <w>kemur</w>
+  <w>úr</w>
+  <w>frumbyggjamálinu</w>
+  <w>algonskinsku</w>
+  <w>og</w>
+  <w>þýðir</w>
+  <revision id="4">
+    <original><w><i>þar</i></w><w><i>sem</i></w><w><i>áin</i></w><w><i>þrengist</i></w></original>
+    <corrected><c>„</c><w>þar</w><w>sem</w><w>áin</w><w>þrengist</w><c>“</c></corrected>
+      <errors>
+        <error xtype="it4nonit" eid="0" />
+        <error xtype="missing-quots" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="3">
+  <revision id="5">
+    <original><w>Quebec</w></original>
+    <corrected><w>Þrátt</w><w>fyrir</w><w>að</w><w>héraðið</w><w>Núnavút</w><w>sé</w><w>stærri</w><w>stjórnsýslueining</w></corrected>
+      <errors>
+        <error xtype="wording" idx="5-1" eid="0" />
+      </errors>
+  </revision>
+  <w>er</w>
+  <revision id="6">
+    <original></original>
+    <corrected><w>Quebec</w></corrected>
+      <errors>
+        <error xtype="dep" depId="5-1" eid="0" />
+      </errors>
+  </revision>
+  <w>stærsta</w>
+  <w>fylki</w>
+  <w>Kanada</w>
+  <w>eftir</w>
+  <revision id="7">
+    <original><w>landssvæði</w><c>(</c><w>héraðið</w><w>Núnavút</w><w>er</w><w>stærri</w><w>stjórnsýslueining</w><c>)</c></original>
+    <corrected><w>landsvæði</w></corrected>
+      <errors>
+        <error xtype="extra-letter" eid="0" />
+        <error xtype="extra-bracket" eid="0" />
+        <error xtype="extra-bracket" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>það</w>
+  <w>annað</w>
+  <w>fjölmennasta</w>
+  <w>á</w>
+  <w>eftir</w>
+  <revision id="8">
+    <original><w>Ontario</w></original>
+    <corrected><w>Ontaríó</w></corrected>
+      <errors>
+        <error xtype="missing-accent" idx="8-1" eid="0" />
+        <error xtype="missing-accent" idx="8-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Fylkið</w>
+  <w>á</w>
+  <w>landamæri</w>
+  <w>að</w>
+  <w>Ontaríó</w>
+  <w>í</w>
+  <w>vestri</w>
+  <c>,</c>
+  <w>Nýfundnalandi</w>
+  <w>og</w>
+  <w>Labrador</w>
+  <w>ásamt</w>
+  <w>Saint</w>
+  <w>Lawrence-flóa</w>
+  <w>í</w>
+  <w>austri</w>
+  <revision id="9">
+    <original><c>,</c></original>
+    <corrected><w>og</w></corrected>
+      <errors>
+        <error xtype="comma4conjunction" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>suðri</w>
+  <w>á</w>
+  <w>fylkið</w>
+  <w>landamæri</w>
+  <w>að</w>
+  <c>:</c>
+  <w>Nýju-Brúnsvík</w>
+  <w>og</w>
+  <w>bandarísku</w>
+  <w>fylkjunum</w>
+  <w>Maine</w>
+  <c>,</c>
+  <w>New</w>
+  <w>Hampshire</w>
+  <c>,</c>
+  <w>Vermont</w>
+  <w>og</w>
+  <w>New</w>
+  <w>York</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Quebec</w>
+  <w>á</w>
+  <w>sjávarlandamæri</w>
+  <w>að</w>
+  <w>Núnavút</w>
+  <c>,</c>
+  <w>Prince</w>
+  <w>Edward</w>
+  <w>Island</w>
+  <w>og</w>
+  <w>Nova</w>
+  <w>Scotia</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Mikið</w>
+  <w>er</w>
+  <w>af</w>
+  <w>ferskvatni</w>
+  <w>og</w>
+  <w>vötnum</w>
+  <w>í</w>
+  <w>fylkinu</w>
+  <w>og</w>
+  <w>er</w>
+  <w>12%</w>
+  <w>af</w>
+  <w>yfirborði</w>
+  <w>þess</w>
+  <revision id="10">
+    <original><w>er</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
+  <w>vatn</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>Mistassini-vatn</w>
+  <w>er</w>
+  <w>stærst</w>
+  <w>af</w>
+  <w>hundruðum</w>
+  <w>þúsunda</w>
+  <w>vatna</w>
+  <c>.</c>
+</s>
+<s n="8">
+  <w>Stíflur</w>
+  <w>hafa</w>
+  <w>verið</w>
+  <w>byggðar</w>
+  <revision id="11">
+    <original></original>
+    <corrected><w>þar</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>fyrir</w>
+  <w>raforkuframleiðslu</w>
+  <c>.</c>
+</s>
+<s n="9">
+  <w>Frá</w>
+  <w>árinu 1959</w>
+  <c>,</c>
+  <w>hefur</w>
+  <w>skurður</w>
+  <w>milli</w>
+  <w>Saint</w>
+  <w>Lawrence-fljóts</w>
+  <w>og</w>
+  <revision id="12">
+    <original><w>Vatnanna</w></original>
+    <corrected><w>vatnanna</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
+  <w>miklu</w>
+  <w>gert</w>
+  <w>skipaflutninga</w>
+  <w>mögulega</w>
+  <w>frá</w>
+  <w>Atlantshafinu</w>
+  <c>.</c>
+</s>
+<s n="10">
+  <w>Quebec</w>
+  <w>er</w>
+  <w>fremur</w>
+  <w>flatlent</w>
+  <w>en</w>
+  <w>í</w>
+  <w>suðri</w>
+  <w>eru</w>
+  <w>Appalasíu-fjöll</w>
+  <w>og</w>
+  <w>Laurentíu-fjöll</w>
+  <c>.</c>
+</s>
+<s n="11">
+  <w>Hæsti</w>
+  <revision id="13">
+    <original><w>punkturinn</w></original>
+    <corrected><w>punktur</w><w>fylkisins</w></corrected>
+      <errors>
+        <error xtype="def4ind" eid="0" />
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>er</w>
+  <w>Mont</w>
+  <w>d'Iberville</w>
+  <revision id="14">
+    <original><c>(</c><w>Mount</w><w>Caubvick</w></original>
+    <corrected><c>,</c><w>sem</w></corrected>
+      <errors>
+        <error xtype="bracket4comma" eid="0" />
+        <error xtype="wording" idx="14-1" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>ensku</w>
+  <revision id="15">
+    <original><c>)</c><c>;</c></original>
+    <corrected><w>heitir</w><w>Mount</w><w>Caubvick</w><c>,</c><w>og</w><w>er</w></corrected>
+      <errors>
+        <error xtype="dep" depId="14-1" eid="0" />
+        <error xtype="bracket4comma" eid="0" />
+        <error xtype="extra-semicolon" eid="0" />
+      </errors>
+  </revision>
+  <w>1652</w>
+  <w>metrar</w>
+  <revision id="16">
+    <original></original>
+    <corrected><w>á</w><w>hæð</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="12">
+  <w>Eitthvað</w>
+  <w>er</w>
+  <w>um</w>
+  <w>fjalllendi</w>
+  <w>nyrðra</w>
+  <w>eins</w>
+  <w>og</w>
+  <w>við</w>
+  <w>Torngat-fjöll</w>
+  <c>.</c>
+</s>
+<s n="13">
+  <w>Um</w>
+  <w>95%</w>
+  <w>landsvæðis</w>
+  <w>fylkisins</w>
+  <w>teljast</w>
+  <w>innan</w>
+  <w>Kanadaskjaldarins</w>
+  <w>sem</w>
+  <w>hefur</w>
+  <w>mótast</w>
+  <w>af</w>
+  <w>ísaldarjöklinum</w>
+  <c>.</c>
+</s>
+<s n="14">
+  <w>Rífleg</w>
+  <w>úrkoma</w>
+  <revision id="17">
+    <original></original>
+    <corrected><w>er</w><w>í</w><w>fylkinu</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <w>eða</w>
+  <w>1,000 mm</w>
+  <w>er</w>
+  <w>yfir</w>
+  <w>árið</w>
+  <c>.</c>
+</s>
+<s n="15">
+  <w>Á</w>
+  <w>sumrin</w>
+  <w>getur</w>
+  <w>hiti</w>
+  <w>farið</w>
+  <w>í</w>
+  <w>35° C</w>
+  <w>og</w>
+  <w>á</w>
+  <w>veturna</w>
+  <w>niður</w>
+  <w>í</w>
+  <w>−</w>
+  <w>40° C</w>
+  <c>.</c>
+</s>
+<s n="16">
+  <w>Af</w>
+  <w>spendýrum</w>
+  <revision id="18">
+    <original></original>
+    <corrected><w>sem</w><w>lifa</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>fylkinu</w>
+  <w>má</w>
+  <w>nefna</w>
+  <c>:</c>
+  <revision id="19">
+    <original><w>Elgur</w></original>
+    <corrected><w>Elg</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>önnur</w>
+  <w>hjartardýr</w>
+  <c>,</c>
+  <revision id="20">
+    <original><w>sléttuúlfur</w></original>
+    <corrected><w>sléttuúlfa</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" idx="20-1" eid="0" />
+        <error xtype="singular4plural" idx="20-1" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <revision id="21">
+    <original><w>heimskautarefur</w></original>
+    <corrected><w>heimskautarefi</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" idx="21-1" eid="0" />
+        <error xtype="singular4plural" idx="21-1" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <revision id="22">
+    <original><w>úlfur</w></original>
+    <corrected><w>úlfa</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" idx="22-1" eid="0" />
+        <error xtype="singular4plural" idx="22-1" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <revision id="23">
+    <original><w>svartbjörn</w></original>
+    <corrected><w>svartbirni</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" idx="23-1" eid="0" />
+        <error xtype="singular4plural" idx="23-1" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <revision id="24">
+    <original><w>ísbjörn</w></original>
+    <corrected><w>ísbirni</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" idx="24-1" eid="0" />
+        <error xtype="singular4plural" idx="24-1" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>hreindýr</w>
+  <c>.</c>
+</s>
+<s n="17">
+  <w>Smærri</w>
+  <w>spendýr</w>
+  <w>eru</w>
+  <w>m.a.</w>
+  <c>:</c>
+  <revision id="25">
+    <original><w>Íkorni</w><w>þvottabjörn</w></original>
+    <corrected><w>Íkornar</w><c>,</c><w>þvottabirnir</w></corrected>
+      <errors>
+        <error xtype="singular4plural" idx="25-1" eid="0" />
+        <error xtype="missing-comma" eid="0" />
+        <error xtype="singular4plural" idx="25-2" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>múrmeldýr</w>
+  <w>og</w>
+  <revision id="26">
+    <original><w>snjóþrúguhéri</w></original>
+    <corrected><w>snjóþrúguhérar</w></corrected>
+      <errors>
+        <error xtype="singular4plural" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="18">
+  <w>Fuglategundir</w>
+  <w>eru</w>
+  <w>til</w>
+  <w>að</w>
+  <w>mynda</w>
+  <c>:</c>
+  <w>Gullörn</w>
+  <c>,</c>
+  <w>förufálki</w>
+  <c>,</c>
+  <w>skallaörn</w>
+  <c>,</c>
+  <w>kanadagæs</w>
+  <c>,</c>
+  <w>súla</w>
+  <c>,</c>
+  <w>lundi</w>
+  <w>og</w>
+  <w>lómur</w>
+  <c>.</c>
+</s>
+<s n="19">
+  <w>Skógar</w>
+  <w>þekja</w>
+  <w>um</w>
+  <w>helming</w>
+  <w>fylkisins</w>
+  <w>en</w>
+  <w>norðurhlutinn</w>
+  <w>er</w>
+  <w>freðmýri</w>
+  <c>.</c>
+</s>
+<s n="20">
+  <w>Meðal</w>
+  <w>barrtrjáa</w>
+  <w>eru</w>
+  <w>hvítgreni</w>
+  <c>,</c>
+  <w>svartgreni</w>
+  <c>,</c>
+  <w>balsamþinur</w>
+  <c>,</c>
+  <w>gráfura</w>
+  <w>og</w>
+  <w>mýrarlerki</w>
+  <c>.</c>
+</s>
+<s n="21">
+  <w>Hlyntegundir</w>
+  <c>,</c>
+  <w>næfurbjörk</w>
+  <c>,</c>
+  <w>nöturösp</w>
+  <w>og</w>
+  <w>skrautreynir</w>
+  <w>eru</w>
+  <w>meðal</w>
+  <w>lauftrjáa</w>
+  <c>.</c>
+</s>
+<s n="22">
+  <w>Áður</w>
+  <w>en</w>
+  <w>Evrópubúar</w>
+  <w>komu</w>
+  <w>til</w>
+  <w>svæðisins</w>
+  <w>sem</w>
+  <w>nú</w>
+  <w>er</w>
+  <w>Quebec</w>
+  <w>voru</w>
+  <revision id="27">
+    <original></original>
+    <corrected><w>þar</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>fyrir</w>
+  <w>frumbyggjarnir</w>
+  <w>Algonkinar</w>
+  <c>,</c>
+  <w>Írókesar</w>
+  <w>og</w>
+  <w>inúítar</w>
+  <w>og</w>
+  <w>stunduðu</w>
+  <w>þeir</w>
+  <w>veiðar</w>
+  <w>og</w>
+  <w>landbúnað</w>
+  <c>.</c>
+</s>
+<s n="23">
+  <w>Franski</w>
+  <w>landkönnuðurinn</w>
+  <w>Samuel</w>
+  <w>de</w>
+  <w>Champlain</w>
+  <w>sigldi</w>
+  <w>upp</w>
+  <w>Saint</w>
+  <w>Lawrence-fljót</w>
+  <w>árið 1608</w>
+  <w>og</w>
+  <w>kaus</w>
+  <w>að</w>
+  <w>kalla</w>
+  <w>svæðið</w>
+  <revision id="28">
+    <original><w>Quebec</w><c>(</c><w>úr</w><w>frumbyggjamáli</w><c>)</c></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="wording" idx="28-1" eid="0" />
+        <error xtype="missing-commas" idx="28-2" eid="0" />
+      </errors>
+  </revision>
+  <w>þar</w>
+  <w>sem</w>
+  <w>hann</w>
+  <w>hafðist</w>
+  <w>við</w>
+  <revision id="29">
+    <original></original>
+    <corrected><c>,</c><w>Quebec</w><c>,</c><w>sem</w><w>kemur</w><w>úr</w><w>frumbyggjamáli</w></corrected>
+      <errors>
+        <error xtype="dep" depId="28-2" eid="0" />
+        <error xtype="dep" depId="21-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="24">
+  <w>Frakkar</w>
+  <w>hófu</w>
+  <w>að</w>
+  <w>flytjast</w>
+  <w>á</w>
+  <w>svæðið</w>
+  <w>í</w>
+  <w>stórum</w>
+  <w>stíl</w>
+  <w>og</w>
+  <w>var</w>
+  <revision id="31">
+    <original><w>sambúð</w></original>
+    <corrected><w>samband</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>þeirra</w>
+  <w>við</w>
+  <w>frumbyggja</w>
+  <w>yfirleitt</w>
+  <w>gott</w>
+  <c>.</c>
+</s>
+<s n="25">
+  <w>Frumbyggjar</w>
+  <w>seldu</w>
+  <w>Frökkum</w>
+  <w>dýraskinn</w>
+  <w>og</w>
+  <w>Frakkar</w>
+  <w>seldu</w>
+  <w>þeim</w>
+  <w>nútímavörur</w>
+  <w>þess</w>
+  <w>tíma</w>
+  <c>;</c>
+  <w>föt</w>
+  <c>,</c>
+  <w>byssur</w>
+  <revision id="32">
+    <original><c>,</c><w>föt</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>málmhluti</w>
+  <c>.</c>
+</s>
+<s n="26">
+  <w>Svæðið</w>
+  <w>var</w>
+  <w>nefnt</w>
+  <w>Nýja-Frakkland</w>
+  <w>og</w>
+  <w>var</w>
+  <w>undir</w>
+  <w>Frakkakonungi</w>
+  <w>árið 1663</w>
+  <c>.</c>
+</s>
+<s n="27">
+  <w>George</w>
+  <w>Washington</w>
+  <revision id="33">
+    <original><w>leiddi</w><w>Bandaríkjamenn</w></original>
+    <corrected><w>var</w><w>í</w><w>fararbroddi</w><w>Bandaríkjamanna</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>að</w>
+  <revision id="34">
+    <original><w>reynda</w></original>
+    <corrected><w>reyna</w></corrected>
+      <errors>
+        <error xtype="extra-letter" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>sölsa</w>
+  <w>undir</w>
+  <w>sig</w>
+  <revision id="35">
+    <original><w>landssvæði</w></original>
+    <corrected><w>landsvæðið</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="35-1" eid="0" />
+        <error xtype="ind4def" idx="35-1" eid="0" />
+      </errors>
+  </revision>
+  <w>um</w>
+  <w>miðja</w>
+  <w>18.</w>
+  <w>öld</w>
+  <w>en</w>
+  <w>tilraunin</w>
+  <w>misheppnaðist</w>
+  <c>.</c>
+</s>
+<s n="28">
+  <w>Síðar</w>
+  <c>,</c>
+  <w>árið 1763</w>
+  <w>varð</w>
+  <w>svæðið</w>
+  <w>hluti</w>
+  <w>af</w>
+  <w>breska</w>
+  <w>héraðinu</w>
+  <w>Kanada</w>
+  <c>.</c>
+</s>
+<s n="29">
+  <w>Það</w>
+  <w>var</w>
+  <w>eftir</w>
+  <revision id="36">
+    <original><w>Sjö</w></original>
+    <corrected><w>sjö</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
+  <w>ára</w>
+  <w>stríðið</w>
+  <revision id="37">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>þar</w>
+  <w>sem</w>
+  <w>Frakkar</w>
+  <w>lutu</w>
+  <w>í</w>
+  <w>lægra</w>
+  <w>haldi</w>
+  <c>.</c>
+</s>
+<s n="30">
+  <w>Árið 1791</w>
+  <w>var</w>
+  <w>svæðinu</w>
+  <w>skipt</w>
+  <w>í</w>
+  <revision id="38">
+    <original></original>
+    <corrected><w>neðra</w><w>og</w><w>efra</w><w>Kanada</w><c>,</c><w>þar</w><w>sem</w><w>það</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <w>neðra</w>
+  <revision id="39">
+    <original><c>-</c><c>(</c></original>
+    <corrected><w>samsvarar</w><w>því</w><w>svæði</w><w>sem</w><w>nú</w><w>er</w></corrected>
+      <errors>
+        <error xtype="extra-bracket" eid="0" />
+        <error xtype="extra-dash" eid="0" />
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <w>Ontaríó</w>
+  <revision id="40">
+    <original><c>)</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-bracket" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <revision id="41">
+    <original></original>
+    <corrected><w>það</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>efra</w>
+  <revision id="42">
+    <original><w>Kanada</w><c>(</c></original>
+    <corrected><w>því</w><w>sem</w><w>nú</w><w>er</w></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+        <error xtype="extra-bracket" eid="0" />
+        <error xtype="extra-words" eid="0" />
+      </errors>
+  </revision>
+  <w>Quebec</w>
+  <revision id="43">
+    <original><c>)</c><c>.</c><w>En</w></original>
+    <corrected><w>en</w></corrected>
+      <errors>
+        <error xtype="extra-bracket" eid="0" />
+        <error xtype="missing-period" eid="0" />
+      </errors>
+  </revision>
+  <w>árið 1867</w>
+  <w>urðu</w>
+  <w>þessi</w>
+  <w>svæði</w>
+  <w>að</w>
+  <w>núverandi</w>
+  <w>fylkjunum</w>
+  <revision id="44">
+    <original><w>Quebec</w><w>og</w><w>Ontaríó</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-words" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="31">
+  <w>Um</w>
+  <w>6000</w>
+  <w>manns</w>
+  <revision id="45">
+    <original></original>
+    <corrected><w>frá</w><w>Quebec</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <w>tóku</w>
+  <w>þátt</w>
+  <w>í</w>
+  <w>fyrri</w>
+  <revision id="46">
+    <original><w>heimstyrjöld</w><w>frá</w><w>Quebec</w></original>
+    <corrected><w>heimsstyrjöldinni</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="46-1" eid="0" />
+        <error xtype="ind4def" idx="46-1" eid="0" />
+        <error xtype="extra-words" eid="0" />
+      </errors>
+  </revision>
+  <w>en</w>
+  <w>það</w>
+  <w>þótti</w>
+  <w>þó</w>
+  <w>óvinsælt</w>
+  <w>að</w>
+  <w>taka</w>
+  <w>þátt</w>
+  <w>í</w>
+  <w>hernaðinum</w>
+  <c>.</c>
+</s>
+<s n="32">
+  <revision id="47">
+    <original><w>Ríkari</w><w>átttaka</w></original>
+    <corrected><w>Hins</w><w>vegar</w></corrected>
+      <errors>
+        <error xtype="wording" idx="47-1" eid="0" />
+      </errors>
+  </revision>
+  <w>var</w>
+  <revision id="48">
+    <original></original>
+    <corrected><w>ríkari</w><w>þátttaka</w><w>Quebec-búa</w></corrected>
+      <errors>
+        <error xtype="dep" depId="47-1" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>seinni</w>
+  <revision id="49">
+    <original><w>heimstyrjöldinna</w><w>af</w><w>hendi</w><w>Quebec-búa</w></original>
+    <corrected><w>heimsstyrjöldinni</w></corrected>
+      <errors>
+        <error xtype="dep" depId="47-1" eid="0" />
+        <error xtype="missing-letter" idx="49-1" eid="0" />
+        <error xtype="nonword" idx="49-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="33">
+  <w>Eftir</w>
+  <w>stríð</w>
+  <w>var</w>
+  <w>íhaldsstjórn</w>
+  <w>Maurice</w>
+  <w>Duplessis</w>
+  <revision id="50">
+    <original></original>
+    <corrected><w>við</w><w>völd</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <w>með</w>
+  <w>stuðningi</w>
+  <w>kaþólsku</w>
+  <w>kirkjunnar</w>
+  <c>.</c>
+</s>
+<s n="34">
+  <w>Pierre</w>
+  <w>Trudeau</w>
+  <w>myndaði</w>
+  <w>bandalag</w>
+  <w>frjálslyndra</w>
+  <w>gegn</w>
+  <w>þeirri</w>
+  <w>stjórn</w>
+  <w>og</w>
+  <revision id="51">
+    <original><w><i>Þögla</i></w><w><i>byltingin</i></w></original>
+    <corrected><c>„</c><w>Þögla</w><w>byltingin</w><c>“</c></corrected>
+      <errors>
+        <error xtype="it4nonit" idx="51-1" eid="0" />
+        <error xtype="missing-quots" idx="51-1" eid="0" />
+      </errors>
+  </revision>
+  <w>svokallaða</w>
+  <w>kallaði</w>
+  <w>á</w>
+  <w>breytingar</w>
+  <c>.</c>
+</s>
+<s n="35">
+  <w>Áhrif</w>
+  <w>kirkjunnar</w>
+  <w>minnkuðu</w>
+  <w>og</w>
+  <revision id="52">
+    <original></original>
+    <corrected><w>það</w><w>gerðu</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <w>einnig</w>
+  <w>umsvif</w>
+  <w>enskumælandi</w>
+  <w>viðskiptamanna</w>
+  <c>.</c>
+</s>
+<s n="36">
+  <w>Árið 1963</w>
+  <w>hóf</w>
+  <w>hreyfingin</w>
+  <revision id="53">
+    <original><w>Front</w><w>de</w><w>libération</w><w>du</w><w>Québec</w></original>
+    <corrected><w><i>Front</i></w><w><i>de</i></w><w><i>ibération</i></w><w><i>du</i></w><w><i>Québec</i></w></corrected>
+      <errors>
+        <error xtype="nonit4it" eid="0" />
+      </errors>
+  </revision>
+  <c>(</c>
+  <w>FLQ</w>
+  <c>)</c>
+  <w>áróðurs- og hryðjuverkastarfsemi</w>
+  <w>sem</w>
+  <w>beindist</w>
+  <w>að</w>
+  <w>enskumælandi</w>
+  <w>stofnunum</w>
+  <c>.</c>
+</s>
+<s n="37">
+  <w>Árið 1977</w>
+  <w>komst</w>
+  <w>flokkurinn</w>
+  <w>Parti</w>
+  <w>Québécois</w>
+  <w>til</w>
+  <w>valda</w>
+  <w>og</w>
+  <w>hann</w>
+  <w>lýsti</w>
+  <w>frönsku</w>
+  <w>sem</w>
+  <w>eina</w>
+  <w>opinbera</w>
+  <w>tungumálið</w>
+  <w>í</w>
+  <w>fylkinu</w>
+  <c>.</c>
+</s>
+<s n="38">
+  <w>Árin</w>
+  <w>1980</w>
+  <w>og</w>
+  <w>1995</w>
+  <w>hélt</w>
+  <w>flokkurinn</w>
+  <revision id="54">
+    <original><w>þjóðaratkvæðisgreiðslu</w></original>
+    <corrected><w>þjóðaratkvæðagreiðslu</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="54-1" eid="0" />
+        <error xtype="compound-nonword" idx="54-1" eid="0" />
+      </errors>
+  </revision>
+  <w>um</w>
+  <w>sjálfstæði</w>
+  <w>Quebec</w>
+  <c>.</c>
+</s>
+<s n="39">
+  <w>Því</w>
+  <w>var</w>
+  <w>hafnað</w>
+  <revision id="55">
+    <original><w>og</w></original>
+    <corrected><w>en</w><w>í</w></corrected>
+      <errors>
+        <error xtype="conjunction" eid="0" />
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>seinna</w>
+  <w>skiptið</w>
+  <revision id="56">
+    <original><w>munaði</w></original>
+    <corrected><w>hafði</w><w>munað</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>litlu</w>
+  <revision id="57">
+    <original><c>(</c></original>
+    <corrected><w>þar</w><w>sem</w></corrected>
+      <errors>
+        <error xtype="extra-bracket" eid="0" />
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <w>50.6</w>
+  <revision id="58">
+    <original><w>sögðu</w><w>nei</w></original>
+    <corrected><w>kusu</w><w>gegn</w><w>því</w></corrected>
+      <errors>
+        <error xtype="wording" idx="58-1" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>49.4%</w>
+  <revision id="59">
+    <original><w>já</w><c>)</c></original>
+    <corrected><w>með</w></corrected>
+      <errors>
+        <error xtype="dep" depId="58-1" eid="0" />
+        <error xtype="extra-bracket" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="40">
+  <w>Höfuðborgin</w>
+  <w>er</w>
+  <revision id="60">
+    <original><w>Québecborg</w><c>(</c></original>
+    <corrected><w>Québec-borg</w><c>,</c><w>sem</w><w>er</w></corrected>
+      <errors>
+        <error xtype="merged-words" idx="60-1" eid="0" />
+        <error xtype="missing-dash" idx="60-1" eid="0" />
+        <error xtype="bracket4comma" eid="0" />
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <w>einfaldlega</w>
+  <w>kölluð</w>
+  <c>„</c>
+  <w>Québec</w>
+  <c>“</c>
+  <w>á</w>
+  <w>frönsku</w>
+  <revision id="61">
+    <original><c>)</c><w>og</w></original>
+    <corrected><c>,</c><w>en</w></corrected>
+      <errors>
+        <error xtype="bracket4comma" eid="0" />
+        <error xtype="conjunction" eid="0" />
+      </errors>
+  </revision>
+  <w>stærsta</w>
+  <w>borgin</w>
+  <w>er</w>
+  <w>Montréal</w>
+  <c>.</c>
+</s>
+<s n="41">
+  <w>Um</w>
+  <w>8,2</w>
+  <w>milljónir</w>
+  <w>búa</w>
+  <w>í</w>
+  <w>fylkinu</w>
+  <c>(</c>
+  <w>2016</w>
+  <c>)</c>
+  <revision id="62">
+    <original><c>.</c><w>Þetta</w></original>
+    <corrected><w>en</w><w>það</w></corrected>
+      <errors>
+        <error xtype="period4conjunction" eid="0" />
+        <error xtype="dem4pers" eid="0" />
+      </errors>
+  </revision>
+  <w>er</w>
+  <w>um</w>
+  <w>24%</w>
+  <w>af</w>
+  <w>íbúafjölda</w>
+  <w>Kanada</w>
+  <c>.</c>
+</s>
+<s n="42">
+  <w>Aðrar</w>
+  <w>stærri</w>
+  <w>borgir</w>
+  <w>eru</w>
+  <w>Gatineau</w>
+  <c>,</c>
+  <w>Sherbrooke</w>
+  <c>,</c>
+  <w>Saguenay</w>
+  <w>og</w>
+  <w>Trois</w>
+  <w>Rivieres</w>
+  <c>.</c>
+</s>
+<s n="43">
+  <w>Flestir</w>
+  <w>íbúarnir</w>
+  <w>búa</w>
+  <w>á</w>
+  <w>svæði</w>
+  <w>nálægt</w>
+  <w>Saint</w>
+  <w>Lawrence-fljóti</w>
+  <w>milli</w>
+  <w>borganna</w>
+  <w>Montreal</w>
+  <w>og</w>
+  <w>Quebec</w>
+  <c>.</c>
+</s>
+<s n="44">
+  <w>Norður-Quebec</w>
+  <w>er</w>
+  <w>strjálbýlt</w>
+  <w>og</w>
+  <w>aðallega</w>
+  <w>byggt</w>
+  <w>frumbyggjum</w>
+  <c>.</c>
+</s>
+<s n="45">
+  <w>Aðaltungumál</w>
+  <w>Quebec</w>
+  <w>og</w>
+  <w>eina</w>
+  <w>opinbera</w>
+  <w>tungumálið</w>
+  <w>er</w>
+  <w>franska</w>
+  <w>og</w>
+  <w>býr</w>
+  <w>þar</w>
+  <w>meginhluti</w>
+  <w>frönskumælandi</w>
+  <w>íbúa</w>
+  <w>Norður-Ameríku</w>
+  <c>.</c>
+</s>
+<s n="46">
+  <w>Quebec</w>
+  <w>er</w>
+  <w>eina</w>
+  <revision id="63">
+    <original><w>fylkið</w></original>
+    <corrected><w>fylki</w><w>Kanada</w></corrected>
+      <errors>
+        <error xtype="def4ind" idx="63-1" eid="0" />
+        <error xtype="missing-word" idx="63-1" eid="0" />
+      </errors>
+  </revision>
+  <w>þar</w>
+  <w>sem</w>
+  <w>enska</w>
+  <w>er</w>
+  <w>ekki</w>
+  <w>opinbert</w>
+  <w>tungumál</w>
+  <c>,</c>
+  <w>og</w>
+  <w>aðeins</w>
+  <w>eitt</w>
+  <w>af</w>
+  <w>þremur</w>
+  <w>fylkjum</w>
+  <w>þar</w>
+  <w>sem</w>
+  <w>að</w>
+  <w>franska</w>
+  <w>er</w>
+  <w>opinbert</w>
+  <w>tungumál</w>
+  <revision id="64">
+    <original><c>(</c></original>
+    <corrected><c>,</c><w>en</w></corrected>
+      <errors>
+        <error xtype="bracket4comma" eid="0" />
+        <error xtype="missing-conjunction" eid="0" />
+      </errors>
+  </revision>
+  <w>hin</w>
+  <w>tvö</w>
+  <w>eru</w>
+  <w>New</w>
+  <w>Brunswick</w>
+  <w>og</w>
+  <w>Manitoba</w>
+  <revision id="65">
+    <original><c>)</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-bracket" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="47">
+  <w>Þjónustugeirinn</w>
+  <w>er</w>
+  <w>mikilvægastur</w>
+  <w>í</w>
+  <w>atvinnulífinu</w>
+  <w>eins</w>
+  <w>og</w>
+  <w>í</w>
+  <w>öðrum</w>
+  <w>þróuðum</w>
+  <w>löndum</w>
+  <c>.</c>
+</s>
+<s n="48">
+  <w>Þekkingargeirinn</w>
+  <revision id="66">
+    <original></original>
+    <corrected><w>í</w><w>Quebec</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <w>er</w>
+  <w>einn</w>
+  <w>af</w>
+  <w>þeim</w>
+  <revision id="67">
+    <original><w>leiðandi</w></original>
+    <corrected><w>sem</w><w>eru</w></corrected>
+      <errors>
+        <error xtype="wording" idx="67-1" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <revision id="68">
+    <original><w>heiminum</w></original>
+    <corrected><w>fararbroddi</w><w>á</w><w>heimsvísu</w></corrected>
+      <errors>
+        <error xtype="dep" depId="67-1" eid="0" />
+      </errors>
+  </revision>
+  <c>:</c>
+  <w>Líftækni</w>
+  <c>,</c>
+  <w>flugvélaiðnaður</w>
+  <w>og</w>
+  <w>lyfjaiðnaður</w>
+  <w>til</w>
+  <w>að</w>
+  <w>mynda</w>
+  <c>.</c>
+</s>
+<s n="49">
+  <w>Náttúruauðlindir</w>
+  <w>eru</w>
+  <w>einnig</w>
+  <revision id="69">
+    <original><w>mikilvægar</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wording" idx="69-1" eid="0" />
+      </errors>
+  </revision>
+  <w>efnahagslega</w>
+  <revision id="70">
+    <original><c>,</c><w>náma- og pappírsvinnsla</w></original>
+    <corrected><w>mikilvægar</w><w>þ.á.m.</w><w>námu- og pappírsvinnsla</w></corrected>
+      <errors>
+        <error xtype="dep" depId="69-1" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>landbúnaður</w>
+  <c>,</c>
+  <w>matarvinnsla</w>
+  <w>og</w>
+  <w>fiskveiðar</w>
+  <c>.</c>
+</s>
+<s n="50">
+  <w>Quebec</w>
+  <w>er</w>
+  <w>fjórði</w>
+  <w>stærsti</w>
+  <w>raforkuframleiðandi</w>
+  <w>í</w>
+  <w>heimi</w>
+  <w>eftir</w>
+  <w>Kína</w>
+  <c>,</c>
+  <w>Brasilíu</w>
+  <w>og</w>
+  <w>Bandaríkjunum</w>
+  <c>.</c>
+</s>
+<s n="51">
+  <w>Flestir</w>
+  <w>íbúanna</w>
+  <revision id="71">
+    <original></original>
+    <corrected><w>eða</w><w>um</w><w>60%</w></corrected>
+      <errors>
+        <error xtype="wording" idx="71-1" eid="0" />
+      </errors>
+  </revision>
+  <w>líta</w>
+  <w>á</w>
+  <w>sig</w>
+  <w>sem</w>
+  <w>Kanadabúa</w>
+  <revision id="72">
+    <original><c>(</c><w>60%</w><c>)</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="71-1" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>þar</w>
+  <w>á</w>
+  <w>eftir</w>
+  <revision id="73">
+    <original><w>franska</w><c>(</c></original>
+    <corrected><w>líta</w></corrected>
+      <errors>
+        <error xtype="wording" idx="73-1" eid="0" />
+      </errors>
+  </revision>
+  <w>29%</w>
+  <revision id="74">
+    <original><c>)</c></original>
+    <corrected><w>á</w><w>sig</w><w>sem</w><w>franska</w></corrected>
+      <errors>
+        <error xtype="dep" depId="73-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="52">
+  <w>Tölur</w>
+  <w>frá</w>
+  <w>2001</w>
+  <w>sýna</w>
+  <w>að</w>
+  <w>um</w>
+  <w>90%</w>
+  <w>íbúa</w>
+  <w>líta</w>
+  <w>á</w>
+  <w>sig</w>
+  <w>sem</w>
+  <w>kristna</w>
+  <c>,</c>
+  <w>þar</w>
+  <w>af</w>
+  <w>83%</w>
+  <w>kaþólska</w>
+  <c>.</c>
+</s>
+<s n="53">
+  <w>78%</w>
+  <w>hafa</w>
+  <w>frönsku</w>
+  <w>að</w>
+  <w>móðurmáli</w>
+  <w>en</w>
+  <w>94%</w>
+  <w>geta</w>
+  <w>talað</w>
+  <w>tungumálið</w>
+  <c>(</c>
+  <w>2011</w>
+  <c>)</c>
+  <c>.</c>
+</s>
+<s n="54">
+  <w>Tæplega</w>
+  <w>8%</w>
+  <w>eru</w>
+  <w>með</w>
+  <w>ensku</w>
+  <w>sem</w>
+  <w>móðurmál</w>
+  <revision id="76">
+    <original><c>.</c></original>
+    <corrected><w>og</w></corrected>
+      <errors>
+        <error xtype="period4conjunction" eid="0" />
+      </errors>
+  </revision>
+  <w>43%</w>
+  <w>segjast</w>
+  <w>vera</w>
+  <w>tvítyngdir</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

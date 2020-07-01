@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Heimska</w>
+  <w>er</w>
+  <w>skortur</w>
+  <w>á</w>
+  <w>þekkingu</w>
+  <c>,</c>
+  <w>vitsmunum</w>
+  <c>,</c>
+  <w>skilningsgáfu</w>
+  <c>,</c>
+  <w>rökviti</w>
+  <w>eða</w>
+  <w>ályktunarhæfileikum</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Íslenska</w>
+  <w>orðið</w>
+  <revision id="1">
+    <original><w><i>heimska</i></w></original>
+    <corrected><c>„</c><w>heimska</w><c>“</c></corrected>
+      <errors>
+        <error xtype="missing-quots" idx="1-1" eid="0" />
+        <error xtype="it4nonit" idx="1-2" eid="0" />
+        <error xtype="dep" depId="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>er</w>
+  <w>skylt</w>
+  <w>orðinu</w>
+  <revision id="2">
+    <original><w><i>heima</i></w></original>
+    <corrected><c>„</c><w>heima</w><c>“</c></corrected>
+      <errors>
+        <error xtype="missing-quots" idx="2-1" eid="0" />
+        <error xtype="it4nonit" idx="2-2" eid="0" />
+        <error xtype="dep" depId="2-1" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>felur</w>
+  <w>í</w>
+  <w>sér</w>
+  <w>að</w>
+  <w>vera</w>
+  <w>ósigldur</w>
+  <c>,</c>
+  <w>hafa</w>
+  <w>ekki</w>
+  <w>farið</w>
+  <w>að</w>
+  <w>heiman</w>
+  <c>,</c>
+  <w>samanber</w>
+  <w>orðatiltækið</w>
+  <c>:</c>
+  <revision id="3">
+    <original></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="missing-quots" idx="3-1" eid="0" />
+      </errors>
+  </revision>
+  <w>Heimskur</w>
+  <w>er</w>
+  <w>heimaalinn</w>
+  <w>hundur</w>
+  <revision id="4">
+    <original></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="dep" depId="3-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Í</w>
+  <w>mörgum</w>
+  <w>indóevrópskum</w>
+  <w>tungumálum</w>
+  <w>er</w>
+  <w>sambærilegt</w>
+  <w>orð</w>
+  <w>dregið</w>
+  <w>af</w>
+  <w>latnesku</w>
+  <w>sögninni</w>
+  <w><i>stupere</i></w>
+  <w>sem</w>
+  <w>höfð</w>
+  <w>er</w>
+  <w>um</w>
+  <w>sljóleika</w>
+  <w>eða</w>
+  <w>deyfð</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Ekki</w>
+  <w>ríkir</w>
+  <w>einhugur</w>
+  <w>um</w>
+  <w>hvort</w>
+  <w>heimska</w>
+  <w>sé</w>
+  <w>þrálátt</w>
+  <w>ástand</w>
+  <w>eða</w>
+  <w>hvort</w>
+  <w>megi</w>
+  <w>laga</w>
+  <w>hana</w>
+  <w>með</w>
+  <w>menntun</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Desiderius</w>
+  <w>Erasmus</w>
+  <w>skrifaði</w>
+  <w>bókina</w>
+  <w><i>Lof</i></w>
+  <w><i>heimskunnar</i></w>
+  <w>á</w>
+  <w>sextándu</w>
+  <w>öld</w>
+  <w>en</w>
+  <w>í</w>
+  <w>verkinu</w>
+  <w>fær</w>
+  <w>heimskan</w>
+  <w>mál</w>
+  <w>og</w>
+  <w>tiltekur</w>
+  <w>ýmislegt</w>
+  <w>sér</w>
+  <w>til</w>
+  <w>ágætis</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

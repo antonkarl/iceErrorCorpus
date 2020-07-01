@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Jarðskjálfti</w>
+  <w>varð</w>
+  <w>nálægt</w>
+  <w>Fukushima</w>
+  <revision id="1">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-commas" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>kjarnorkuslysstaðnum</w>
+  <w>í</w>
+  <w>Japan</w>
+  <revision id="2">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="dep" depId="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>sjöunda</w>
+  <w>tímanum</w>
+  <w>í</w>
+  <w>kvöld</w>
+  <w>og</w>
+  <w>mældist</w>
+  <w>hann</w>
+  <w>um</w>
+  <w>5,6</w>
+  <w>stig</w>
+  <w>á</w>
+  <revision id="3">
+    <original><w>richter</w><w>skalanum</w></original>
+    <corrected><w>Richter-skalanum</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" idx="3-1" eid="0" />
+        <error xtype="missing-dash" idx="3-2" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Upptök</w>
+  <w>skjálftans</w>
+  <w>voru</w>
+  <w>í</w>
+  <w>Kyrrahafinu</w>
+  <c>,</c>
+  <w>um</w>
+  <w>83</w>
+  <w>kílómetra</w>
+  <w>suðaustur</w>
+  <w>af</w>
+  <w>Fukushima</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Engar</w>
+  <w>flóðbylgjuviðvaranir</w>
+  <w>voru</w>
+  <w>gefnar</w>
+  <w>út</w>
+  <w>í</w>
+  <w>kjölfar</w>
+  <w>skjálftans</w>
+  <revision id="4">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>engin</w>
+  <w>slys</w>
+  <w>hafa</w>
+  <w>orðið</w>
+  <w>á</w>
+  <w>fólki</w>
+  <w>eftir</w>
+  <w>því</w>
+  <w>sem</w>
+  <w>greint</w>
+  <w>er</w>
+  <w>frá</w>
+  <w>á</w>
+  <w>síðu</w>
+  <w>the</w>
+  <w>Washington</w>
+  <w>Post</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Glerstrendingur</w>
+  <w>eða</w>
+  <w>prisma</w>
+  <w>er</w>
+  <w>gegnsær</w>
+  <w>hlutur</w>
+  <revision id="1">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>oftast</w>
+  <w>úr</w>
+  <w>gleri</w>
+  <w>eða</w>
+  <w>plasti</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>notaður</w>
+  <w>er</w>
+  <w>til</w>
+  <w>að</w>
+  <w>kljúfa</w>
+  <w>hvítt</w>
+  <w>ljós</w>
+  <w>með</w>
+  <w>ljósbroti</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Þegar</w>
+  <w>ljós</w>
+  <w>fer</w>
+  <w>úr</w>
+  <w>lofti</w>
+  <w>í</w>
+  <w>gler</w>
+  <w>þá</w>
+  <w>breytir</w>
+  <w>það</w>
+  <w>um</w>
+  <w>hraða</w>
+  <w>og</w>
+  <w>stefnu</w>
+  <revision id="2">
+    <original><c>(</c><w>ljósbrot</w><c>)</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-bracket" eid="0" />
+        <error xtype="wording" idx="2-1" eid="0" />
+        <error xtype="extra-bracket" eid="0" />
+      </errors>
+  </revision>
+  <w>vegna</w>
+  <w>þess</w>
+  <w>að</w>
+  <w>það</w>
+  <w>fer</w>
+  <w>mishratt</w>
+  <w>í</w>
+  <w>gegnum</w>
+  <w>efni</w>
+  <w>eftir</w>
+  <w>bylgjulengd</w>
+  <w>ljóssins</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <revision id="3">
+    <original></original>
+    <corrected><w>Þetta</w><w>kallast</w><w>ljósbrot</w><c>.</c></corrected>
+      <errors>
+        <error xtype="dep" depId="2-1" eid="0" />
+      </errors>
+  </revision>
+  <w>Með</w>
+  <w>glerstrendingi</w>
+  <w>má</w>
+  <w>sjá</w>
+  <w>litróf</w>
+  <w>ljóss</w>
+  <c>,</c>
+  <w>eins</w>
+  <w>og</w>
+  <w>gerist</w>
+  <w>þegar</w>
+  <w>regnbogi</w>
+  <w>myndast</w>
+  <w>við</w>
+  <w>ljósbrot</w>
+  <w>í</w>
+  <w>vatnsdropum</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Með</w>
+  <w>því</w>
+  <w>að</w>
+  <w>nota</w>
+  <w>innspeglun</w>
+  <w>í</w>
+  <w>glerstrendingum</w>
+  <w>má</w>
+  <w>nota</w>
+  <w>þá</w>
+  <w>sem</w>
+  <w>spegla</w>
+  <w>í</w>
+  <w>ljóstækjum</w>
+  <c>,</c>
+  <w>t.d.</w>
+  <w>í</w>
+  <w>myndavélum</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Silfurberg</w>
+  <revision id="4">
+    <original><c>(</c></original>
+    <corrected><c>,</c><w>sem</w><w>ber</w></corrected>
+      <errors>
+        <error xtype="bracket4comma" eid="0" />
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <w>enska</w>
+  <revision id="5">
+    <original></original>
+    <corrected><w>heitið</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w><i>Iceland</i></w>
+  <w><i>spar</i></w>
+  <revision id="6">
+    <original><c>)</c></original>
+    <corrected>,</corrected>
+      <errors>
+        <error xtype="bracket4comma" eid="0" />
+      </errors>
+  </revision>
+  <w>var</w>
+  <w>mikið</w>
+  <w>notað</w>
+  <w>í</w>
+  <w>ljóstækjum</w>
+  <w>fram</w>
+  <w>á</w>
+  <w>miðja</w>
+  <w>20.</w>
+  <w>öld</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

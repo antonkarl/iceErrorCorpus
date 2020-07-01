@@ -1,0 +1,4143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Vestmannaeyjar</w>
+  <w>eru</w>
+  <w>eyjaklasi</w>
+  <w>suður</w>
+  <w>af</w>
+  <w>Íslandi</w>
+  <revision id="1">
+    <original><c>,</c></original>
+    <corrected><w>sem</w><w>telur</w></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
+        <error xtype="missing-conjunction" eid="0" />
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>samtals</w>
+  <w>15</w>
+  <w>eyjar</w>
+  <w>og</w>
+  <w>um</w>
+  <w>30</w>
+  <w>sker</w>
+  <w>og</w>
+  <revision id="2">
+    <original><w>drangar</w></original>
+    <corrected><w>dranga</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Syðsta</w>
+  <w>eyjan</w>
+  <w>er</w>
+  <w>Surtsey</w>
+  <w>og</w>
+  <w>sú</w>
+  <w>nyrsta</w>
+  <w>er</w>
+  <w>Elliðaey</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Heimaey</w>
+  <w>er</w>
+  <w>stærst</w>
+  <w>eyjanna</w>
+  <w>og</w>
+  <w>sú</w>
+  <w>eina</w>
+  <w>sem</w>
+  <w>er</w>
+  <w>byggð</w>
+  <c>,</c>
+  <revision id="3">
+    <original><w>en</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-conjunction" eid="0" />
+      </errors>
+  </revision>
+  <w>þar</w>
+  <w>er</w>
+  <w>Vestmannaeyjabær</w>
+  <revision id="4">
+    <original><w>með</w></original>
+    <corrected><w>þar</w><w>sem</w><w>búa</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>um</w>
+  <w>4.200</w>
+  <revision id="5">
+    <original><w>íbúa</w></original>
+    <corrected><w>manns</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="4">
+  <revision id="6">
+    <original></original>
+    <corrected><w>Nafnið</w></corrected>
+      <errors>
+        <error xtype="wording" idx="6-1" eid="0" />
+      </errors>
+  </revision>
+  <w>Vestmannaeyjar</w>
+  <revision id="7">
+    <original><w>eru</w></original>
+    <corrected><w>er</w></corrected>
+      <errors>
+        <error xtype="dep" depId="6-1" eid="0" />
+      </errors>
+  </revision>
+  <w>oft</w>
+  <revision id="8">
+    <original><w>notuð</w></original>
+    <corrected><w>notað</w></corrected>
+      <errors>
+        <error xtype="dep" depId="6-1" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>samheiti</w>
+  <w>yfir</w>
+  <w>Vestmannaeyjabæ</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Á</w>
+  <w>Vestmannaeyjum</w>
+  <w>búa</w>
+  <w>rúmlega</w>
+  <w>fjögur</w>
+  <w>þúsund</w>
+  <w>manns</w>
+  <c>,</c>
+  <w>sem</w>
+  <revision id="9">
+    <original><w>þýðir</w><w>er</w></original>
+    <corrected><w>gerir</w></corrected>
+      <errors>
+        <error xtype="wording" idx="9-1" eid="0" />
+      </errors>
+  </revision>
+  <w>Vestmannaeyjar</w>
+  <revision id="10">
+    <original><w>er</w></original>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="dep" depId="9-1" eid="0" />
+      </errors>
+  </revision>
+  <w>12.</w>
+  <revision id="11">
+    <original><w>fjölmennasta</w><w>byggðin</w></original>
+    <corrected><w>fjölmennustu</w><w>byggð</w></corrected>
+      <errors>
+        <error xtype="dep" depId="11-1" eid="0" />
+        <error xtype="def4ind" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>Íslandi</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Sjávarútvegur</w>
+  <w>er</w>
+  <w>helsta</w>
+  <w>atvinnugrein</w>
+  <w>Vestmanneyinga</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>Hin</w>
+  <w>árlega</w>
+  <w>Þjóðhátíð</w>
+  <w>um</w>
+  <revision id="12">
+    <original><w>Verslunarmannahelgi</w></original>
+    <corrected><w>Verslunarmannahelgina</w></corrected>
+      <errors>
+        <error xtype="ind4def" eid="0" />
+      </errors>
+  </revision>
+  <w>er</w>
+  <w>ein</w>
+  <w>vinsælasta</w>
+  <w>útihátíðin</w>
+  <w>á</w>
+  <w>Íslandi</w>
+  <c>,</c>
+  <w>hana</w>
+  <w>sækja</w>
+  <w>þúsundir</w>
+  <w>manna</w>
+  <w>á</w>
+  <w>hverju</w>
+  <w>ári</w>
+  <c>.</c>
+</s>
+<s n="8">
+  <w>Fyrstu</w>
+  <w>heimildir</w>
+  <w>um</w>
+  <w>Vestmannaeyjar</w>
+  <w>eru</w>
+  <w>í</w>
+  <w>Landnámu</w>
+  <c>(</c>
+  <w>Sturlubók</w>
+  <c>)</c>
+  <c>,</c>
+  <w>þar</w>
+  <w>sem</w>
+  <w>segir</w>
+  <w>frá</w>
+  <w>Ingólfi</w>
+  <w>Arnarsyni</w>
+  <c>,</c>
+  <w>fyrsta</w>
+  <w>landnámsmanninum</w>
+  <c>.</c>
+</s>
+<s n="9">
+  <w>Þegar</w>
+  <w>hann</w>
+  <w>kom</w>
+  <w>til</w>
+  <w>landsins</w>
+  <w>dvaldist</w>
+  <w>hann</w>
+  <w>einn</w>
+  <w>vetur</w>
+  <w>á</w>
+  <w>Ingólfshöfða</w>
+  <c>,</c>
+  <w>og</w>
+  <w>hélt</w>
+  <w>svo</w>
+  <w>vestur</w>
+  <w>með</w>
+  <w>landinu</w>
+  <w>í</w>
+  <w>leit</w>
+  <w>að</w>
+  <w>öndvegissúlunum</w>
+  <w>sínum</w>
+  <c>.</c>
+</s>
+<s n="10">
+  <w>Þá</w>
+  <w>fann</w>
+  <w>hann</w>
+  <w>bæ</w>
+  <w>Hjörleifs</w>
+  <c>,</c>
+  <revision id="13">
+    <original><w>fóstbróður</w></original>
+    <corrected><w>fósturbróður</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>síns</w>
+  <c>,</c>
+  <w>og</w>
+  <w>var</w>
+  <w>hann</w>
+  <revision id="14">
+    <original><w>þar</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
+  <w>látinn</w>
+  <c>;</c>
+  <revision id="15">
+    <original></original>
+    <corrected><w>þá</w></corrected>
+      <errors>
+        <error xtype="wording" idx="15-1" eid="0" />
+      </errors>
+  </revision>
+  <w>hafði</w>
+  <w>hann</w>
+  <revision id="16">
+    <original><w>þá</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="15-1" eid="0" />
+      </errors>
+  </revision>
+  <w>verið</w>
+  <w>myrtur</w>
+  <w>af</w>
+  <w>þrælum</w>
+  <w>sínum</w>
+  <c>.</c>
+</s>
+<s n="11">
+  <w>Úti</w>
+  <w>af</w>
+  <w>Hjörleifshöfða</w>
+  <w>sá</w>
+  <w>hann</w>
+  <w>eyjaklasa</w>
+  <w>suður</w>
+  <w>af</w>
+  <w>Landeyjum</w>
+  <w>og</w>
+  <w>datt</w>
+  <w>honum</w>
+  <w>til</w>
+  <w>hugar</w>
+  <w>að</w>
+  <w>þrælarnir</w>
+  <revision id="17">
+    <original><w>hafi</w></original>
+    <corrected><w>hefðu</w></corrected>
+      <errors>
+        <error xtype="verb-inflection" eid="0" />
+      </errors>
+  </revision>
+  <w>farið</w>
+  <w>þangað</w>
+  <c>.</c>
+</s>
+<s n="12">
+  <w>Eyjarnar</w>
+  <w>voru</w>
+  <revision id="18">
+    <original><w>þá</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
+  <w>nefndar</w>
+  <w>eftir</w>
+  <w>þrælunum</w>
+  <c>,</c>
+  <w>en</w>
+  <w>þeir</w>
+  <w>voru</w>
+  <w>af</w>
+  <w>írsku</w>
+  <w>bergi</w>
+  <w>brotnir</w>
+  <w>og</w>
+  <w>Írar</w>
+  <w>og</w>
+  <w>Skotar</w>
+  <w>voru</w>
+  <w>gjarnan</w>
+  <w>kallaðir</w>
+  <c>„</c>
+  <w>Vestmenn</w>
+  <c>“</c>
+  <w>á</w>
+  <w>þessum</w>
+  <w>tíma</w>
+  <c>.</c>
+</s>
+<s n="13">
+  <w>Ingólfur</w>
+  <w>elti</w>
+  <w>þrælana</w>
+  <w>uppi</w>
+  <w>og</w>
+  <w>drap</w>
+  <w>þá</w>
+  <c>,</c>
+  <w>og</w>
+  <w>eru</w>
+  <w>mörg</w>
+  <w>örnefni</w>
+  <w>á</w>
+  <w>eyjunum</w>
+  <w>gefin</w>
+  <w>eftir</w>
+  <w>þrælunum</w>
+  <c>.</c>
+</s>
+<s n="14">
+  <w>Meðal</w>
+  <w>þeirra</w>
+  <w>er</w>
+  <w>Helgafell</w>
+  <c>,</c>
+  <w>nefnt</w>
+  <w>eftir</w>
+  <w>Helga</w>
+  <w>sem</w>
+  <w>var</w>
+  <w>veginn</w>
+  <w>þar</w>
+  <c>,</c>
+  <w>og</w>
+  <w>Dufþekja</w>
+  <w>í</w>
+  <w>Heimakletti</w>
+  <c>,</c>
+  <w>en</w>
+  <w>hún</w>
+  <w>er</w>
+  <w>nefnd</w>
+  <w>eftir</w>
+  <w>Dufþaki</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>sagður</w>
+  <w>er</w>
+  <w>hafa</w>
+  <w>hoppað</w>
+  <w>þar</w>
+  <w>niður</w>
+  <w>til</w>
+  <w>að</w>
+  <w>komast</w>
+  <w>hjá</w>
+  <w>því</w>
+  <w>að</w>
+  <w>falla</w>
+  <w>fyrir</w>
+  <w>sverði</w>
+  <w>Ingólfs</w>
+  <c>.</c>
+</s>
+<s n="15">
+  <w>Eins</w>
+  <w>og</w>
+  <w>segir</w>
+  <w>í</w>
+  <w>Landnámu</w>
+  <c>:</c>
+  <revision id="19">
+    <original><w>Ingólfur</w></original>
+    <corrected><w>Þá</w></corrected>
+      <errors>
+        <error xtype="wording" idx="19-1" eid="0" />
+      </errors>
+  </revision>
+  <w>gekk</w>
+  <revision id="20">
+    <original><w>þá</w></original>
+    <corrected><w>Ingólfur</w></corrected>
+      <errors>
+        <error xtype="dep" depId="19-1" eid="0" />
+      </errors>
+  </revision>
+  <w>upp</w>
+  <w>á</w>
+  <w>höfðann</w>
+  <w>og</w>
+  <w>sá</w>
+  <w>eyjar</w>
+  <w>liggja</w>
+  <w>í</w>
+  <w>útsuður</w>
+  <w>til</w>
+  <w>hafs</w>
+  <c>;</c>
+  <w>kom</w>
+  <w>honum</w>
+  <w>það</w>
+  <w>í</w>
+  <w>hug</w>
+  <c>,</c>
+  <w>að</w>
+  <w>þeir</w>
+  <revision id="21">
+    <original><w>mundu</w><w>þangað</w></original>
+    <corrected><w>hefðu</w></corrected>
+      <errors>
+        <error xtype="wording" idx="21-1" eid="0" />
+      </errors>
+  </revision>
+  <w>hlaupið</w>
+  <revision id="22">
+    <original><w>hafa</w></original>
+    <corrected><w>þangað</w></corrected>
+      <errors>
+        <error xtype="dep" depId="21-1" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>því</w>
+  <revision id="23">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="23-1" eid="0" />
+        <error xtype="style" idx="23-1" eid="0" />
+      </errors>
+  </revision>
+  <w>báturinn</w>
+  <w>var</w>
+  <w>horfinn</w>
+  <c>;</c>
+  <revision id="24">
+    <original><w>fóru</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wording" idx="24-1" eid="0" />
+      </errors>
+  </revision>
+  <w>þeir</w>
+  <revision id="25">
+    <original></original>
+    <corrected><w>fóru</w></corrected>
+      <errors>
+        <error xtype="dep" depId="24-1" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>leita</w>
+  <w>þrælanna</w>
+  <w>og</w>
+  <w>fundu</w>
+  <w>þá</w>
+  <w>þar</w>
+  <w>sem</w>
+  <w>Eið</w>
+  <w>heitir</w>
+  <w>í</w>
+  <w>eyjunum</w>
+  <c>.</c>
+</s>
+<s n="16">
+  <revision id="26">
+    <original><w>Voru</w><w>þeir</w><w>þá</w><w>að</w><w>mat</w></original>
+    <corrected><w>Þá</w><w>voru</w><w>þeir</w><w>að</w><w>borða</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <revision id="27">
+    <original><w>er</w></original>
+    <corrected><w>þegar</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>þeir</w>
+  <w>Ingólfur</w>
+  <w>komu</w>
+  <w>að</w>
+  <w>þeim</w>
+  <c>.</c>
+</s>
+<s n="17">
+  <w>Þeir</w>
+  <w>urðu</w>
+  <w>felmtsfullir</w>
+  <c>,</c>
+  <w>og</w>
+  <revision id="28">
+    <original></original>
+    <corrected><w>hver</w></corrected>
+      <errors>
+        <error xtype="wording" idx="28-1" eid="0" />
+      </errors>
+  </revision>
+  <w>hljóp</w>
+  <w>sinn</w>
+  <w>veg</w>
+  <revision id="29">
+    <original><w>hver</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="28-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="18">
+  <w>Ingólfur</w>
+  <w>drap</w>
+  <w>þá</w>
+  <w>alla</w>
+  <c>.</c>
+</s>
+<s n="19">
+  <revision id="30">
+    <original><w>Þar</w></original>
+    <corrected><w>Hann</w><w>lést</w><w>þar</w><w>sem</w></corrected>
+      <errors>
+        <error xtype="wording" idx="30-1" eid="0" />
+      </errors>
+  </revision>
+  <w>heitir</w>
+  <w>Dufþaksskor</w>
+  <revision id="31">
+    <original><c>,</c><w>er</w><w>hann</w><w>lést</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="30-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="20">
+  <w>Fleiri</w>
+  <revision id="32">
+    <original><w>hljópu</w><w>þeir</w><w>fyrir</w></original>
+    <corrected><w>hlupu</w><w>fyrir</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>berg</w>
+  <c>,</c>
+  <revision id="33">
+    <original><w>þar</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>við</w>
+  <w>þá</w>
+  <w>er</w>
+  <w>kennt</w>
+  <w>síðan</w>
+  <c>.</c>
+</s>
+<s n="21">
+  <w>Vestmannaeyjar</w>
+  <w>heita</w>
+  <revision id="34">
+    <original><w>þar</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
+  <w>síðan</w>
+  <revision id="35">
+    <original></original>
+    <corrected><w>sínu</w><w>nafni</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <revision id="36">
+    <original><w>er</w><w>þrælarnir</w></original>
+    <corrected><w>eftir</w><w>þrælunum</w><w>sem</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>voru</w>
+  <w>drepnir</w>
+  <c>,</c>
+  <w>því</w>
+  <revision id="37">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="37-1" eid="0" />
+        <error xtype="style" idx="37-1" eid="0" />
+      </errors>
+  </revision>
+  <w>þeir</w>
+  <w>voru</w>
+  <w>Vestmenn</w>
+  <c>.</c>
+</s>
+<s n="22">
+  <c>&lt;</c>
+  <c>/</c>
+  <w>onlyinclude</w>
+  <c>&gt;</c>
+  <w>Samkvæmt</w>
+  <w>Hauksbók</w>
+  <w>var</w>
+  <w>fyrsti</w>
+  <w>landnámsmaður</w>
+  <w>eyjanna</w>
+  <w>Herjólfur</w>
+  <w>Bárðarson</w>
+  <c>,</c>
+  <w>sonur</w>
+  <w>Bárðar</w>
+  <w>Bárekssonar</w>
+  <c>.</c>
+</s>
+<s n="23">
+  <w>Hann</w>
+  <w>settist</w>
+  <w>að</w>
+  <w>í</w>
+  <w>Herjólfsdal</w>
+  <w>á</w>
+  <w>10.</w>
+  <w>öld</w>
+  <w>og</w>
+  <w>hafa</w>
+  <w>margar</w>
+  <w>kenningar</w>
+  <w>verið</w>
+  <w>uppi</w>
+  <w>um</w>
+  <w>hvar</w>
+  <w>í</w>
+  <w>dalnum</w>
+  <w>þessi</w>
+  <w>fyrsta</w>
+  <w>byggð</w>
+  <w>var</w>
+  <w>staðsett</w>
+  <c>.</c>
+</s>
+<s n="24">
+  <w>Margrét</w>
+  <w>Hermanns</w>
+  <w>Auðardóttir</w>
+  <w>fornleifafræðingur</w>
+  <w>hóf</w>
+  <w>uppgröft</w>
+  <w>í</w>
+  <w>Herjólfsdal</w>
+  <w>sumarið</w>
+  <w>1971</w>
+  <w>og</w>
+  <w>vann</w>
+  <revision id="38">
+    <original></original>
+    <corrected><w>að</w><w>honum</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <w>þar</w>
+  <w>fimm</w>
+  <w>sumur</w>
+  <c>.</c>
+</s>
+<s n="25">
+  <w>Við</w>
+  <w>uppgröftinn</w>
+  <w>kom</w>
+  <w>í</w>
+  <w>ljós</w>
+  <w>að</w>
+  <w>byggð</w>
+  <w>í</w>
+  <w>Herjólfsdal</w>
+  <w>var</w>
+  <w>mun</w>
+  <w>eldri</w>
+  <w>en</w>
+  <w>áður</w>
+  <w>hefur</w>
+  <w>verið</w>
+  <w>talið</w>
+  <revision id="39">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>eða</w>
+  <w>frá</w>
+  <w>því</w>
+  <w>snemma</w>
+  <w>á</w>
+  <w>9.</w>
+  <w>öld</w>
+  <c>.</c>
+</s>
+<s n="26">
+  <w>Í</w>
+  <w>Sturlubók</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>er</w>
+  <w>eldri</w>
+  <w>heimild</w>
+  <w>en</w>
+  <w>Hauksbók</w>
+  <c>,</c>
+  <w>segir</w>
+  <w>hins</w>
+  <w>vegar</w>
+  <w>að</w>
+  <w>Ormur</w>
+  <w>auðgi</w>
+  <w>Bárðarson</w>
+  <c>,</c>
+  <w>bróðir</w>
+  <w>Herjólfs</w>
+  <c>,</c>
+  <w>hafi</w>
+  <w>fyrstur</w>
+  <w>byggt</w>
+  <w>Eyjar</w>
+  <c>.</c>
+</s>
+<s n="27">
+  <revision id="40">
+    <original></original>
+    <corrected><w>Í</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>Hauksbók</w>
+  <w>segir</w>
+  <w>að</w>
+  <w>Ormur</w>
+  <w>auðgi</w>
+  <w>hafi</w>
+  <w>verið</w>
+  <w>Herjólfsson</w>
+  <c>.</c>
+</s>
+<s n="28">
+  <w>Herjólfur</w>
+  <w>er</w>
+  <w>sagður</w>
+  <w>hafa</w>
+  <w>átt</w>
+  <w>dótturina</w>
+  <w>Vilborgu</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>eftir</w>
+  <w>grjóthrun</w>
+  <w>sem</w>
+  <w>lagði</w>
+  <w>bæ</w>
+  <w>Herjólfs</w>
+  <w>í</w>
+  <w>eyði</w>
+  <w>fluttist</w>
+  <w>á</w>
+  <w>Vilborgarstaði</w>
+  <w>við</w>
+  <w>vatnsbólið</w>
+  <w>Vilpu</w>
+  <c>.</c>
+</s>
+<s n="29">
+  <w>Samkvæmt</w>
+  <w>sögunni</w>
+  <w>varaði</w>
+  <w>hrafn</w>
+  <w>Vilborgu</w>
+  <w>við</w>
+  <w>grjóthruninu</w>
+  <w>og</w>
+  <w>bjargaði</w>
+  <w>þannig</w>
+  <w>lífi</w>
+  <w>hennar</w>
+  <c>.</c>
+</s>
+<s n="30">
+  <w>Frá</w>
+  <w>tíma</w>
+  <w>Herjólfs</w>
+  <w>Bárðarsonar</w>
+  <w>hefur</w>
+  <w>verið</w>
+  <w>samfelld</w>
+  <w>byggð</w>
+  <w>á</w>
+  <w>eyjunni</w>
+  <c>,</c>
+  <w>þó</w>
+  <w>svo</w>
+  <revision id="43">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
+  <w>íbúafjöldinn</w>
+  <w>hafi</w>
+  <revision id="44">
+    <original></original>
+    <corrected><w>þrívegis</w></corrected>
+      <errors>
+        <error xtype="wording" idx="44-1" eid="0" />
+      </errors>
+  </revision>
+  <w>tekið</w>
+  <w>stórar</w>
+  <w>dýfur</w>
+  <revision id="45">
+    <original><w>þrisvar</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="44-1" eid="0" />
+      </errors>
+  </revision>
+  <w>síðan</w>
+  <revision id="46">
+    <original><w>þá-fyrst</w></original>
+    <corrected><w>þá</w><c>.</c><w>Fyrst</w><w>með</w></corrected>
+      <errors>
+        <error xtype="dash4period" eid="0" />
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>um</w>
+  <w>helmingsfækkun</w>
+  <w>íbúa</w>
+  <w>þegar</w>
+  <revision id="47">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="47-1" eid="0" />
+        <error xtype="style" idx="47-1" eid="0" />
+      </errors>
+  </revision>
+  <w>um</w>
+  <w>þrjú</w>
+  <w>hundruð</w>
+  <w>manns</w>
+  <w>voru</w>
+  <w>numin</w>
+  <w>á</w>
+  <w>brott</w>
+  <w>í</w>
+  <w>Tyrkjaráninu</w>
+  <w>árið 1627</w>
+  <c>,</c>
+  <w>svo</w>
+  <w>í</w>
+  <w>ungbarnadauðanum</w>
+  <w>á</w>
+  <w>18.</w>
+  <w>öld</w>
+  <c>,</c>
+  <w>og</w>
+  <w>loks</w>
+  <w>í</w>
+  <w>Heimaeyjargosinu</w>
+  <w>1973</w>
+  <w>þegar</w>
+  <revision id="48">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="48-1" eid="0" />
+        <error xtype="style" idx="48-1" eid="0" />
+      </errors>
+  </revision>
+  <w>yfir</w>
+  <w>6</w>
+  <w>mánaða</w>
+  <w>skeið</w>
+  <w>bjuggu</w>
+  <w>eingöngu</w>
+  <w>um</w>
+  <w>200</w>
+  <w>manns</w>
+  <w>á</w>
+  <w>Heimaey</w>
+  <c>.</c>
+</s>
+<s n="31">
+  <w>Þegar</w>
+  <w>gosið</w>
+  <w>hófst</w>
+  <w>var</w>
+  <w>íbúafjöldi</w>
+  <w>bæjarins</w>
+  <w>hins</w>
+  <w>vegar</w>
+  <w>5.273</w>
+  <c>(</c>
+  <w>1. desember 1972</w>
+  <c>)</c>
+  <c>.</c>
+</s>
+<s n="32">
+  <w>Í</w>
+  <revision id="49">
+    <original><w>Kristnisögu</w></original>
+    <corrected><w>Kristni</w><w>sögu</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
+  <w>segir</w>
+  <w>frá</w>
+  <w>því</w>
+  <w>að</w>
+  <w>Ólafur</w>
+  <w>Tryggvason</w>
+  <w>hafi</w>
+  <w>sent</w>
+  <w>Hjalta</w>
+  <w>Skeggjason</w>
+  <w>og</w>
+  <w>Gissur</w>
+  <w>Teitsson</w>
+  <w>með</w>
+  <revision id="50">
+    <original><w>viði</w></original>
+    <corrected><w>við</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
+  <w>til</w>
+  <w>kirkjubyggingar</w>
+  <w>til</w>
+  <w>Íslands</w>
+  <w>og</w>
+  <w>sagt</w>
+  <w>þeim</w>
+  <w>að</w>
+  <w>reisa</w>
+  <w>kirkju</w>
+  <w>þar</w>
+  <w>sem</w>
+  <w>þeir</w>
+  <w>kæmu</w>
+  <w>fyrst</w>
+  <w>að</w>
+  <w>landi</w>
+  <c>.</c>
+</s>
+<s n="33">
+  <w>Samkvæmt</w>
+  <w>því</w>
+  <w>reistu</w>
+  <w>þeir</w>
+  <w>kirkju</w>
+  <w>á</w>
+  <w>Hörgaeyri</w>
+  <w>í</w>
+  <w>Vestmannaeyjum</w>
+  <w>árið 1000</w>
+  <w>úr</w>
+  <w>norskum</w>
+  <w>viðum</w>
+  <c>,</c>
+  <w>en</w>
+  <w>ekki</w>
+  <w>er</w>
+  <w>vitað</w>
+  <w>hvar</w>
+  <w>sú</w>
+  <w>eyri</w>
+  <w>hefur</w>
+  <w>verið</w>
+  <revision id="51">
+    <original><w>og</w><w>ekki</w><w>er</w><w>vitað</w></original>
+    <corrected><w>né</w><w>heldur</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>hversu</w>
+  <w>lengi</w>
+  <w>sú</w>
+  <w>kirkja</w>
+  <w>hefur</w>
+  <w>staðið</w>
+  <c>,</c>
+  <w>en</w>
+  <w>tvær</w>
+  <w>kirkjur</w>
+  <w>voru</w>
+  <revision id="52">
+    <original><w>síðan</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wording" idx="52-1" eid="0" />
+      </errors>
+  </revision>
+  <w>reistar</w>
+  <revision id="53">
+    <original></original>
+    <corrected><w>síðar</w></corrected>
+      <errors>
+        <error xtype="dep" depId="52-1" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>Vestmannaeyjum</w>
+  <c>,</c>
+  <w>að</w>
+  <w>Kirkjubæ</w>
+  <w>og</w>
+  <w>Ofanleiti</w>
+  <c>.</c>
+</s>
+<s n="34">
+  <w>Á</w>
+  <w>árunum</w>
+  <w>1130</w>
+  <c>-</c>
+  <w>1148</w>
+  <w>komust</w>
+  <w>allar</w>
+  <w>jarðir</w>
+  <w>í</w>
+  <w>Vestmannaeyjum</w>
+  <w>í</w>
+  <w>eigu</w>
+  <w>Skálholtsstóls</w>
+  <revision id="54">
+    <original></original>
+    <corrected><w>og</w><w>urðu</w><w>kirkjujarðir</w></corrected>
+      <errors>
+        <error xtype="wording" idx="54-1" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>undirlagi</w>
+  <w>Magnúsar</w>
+  <w>Einarssonar</w>
+  <w>biskups</w>
+  <revision id="55">
+    <original><w>og</w><w>urðu</w><w>kirkjujarðir</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="54-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="35">
+  <w>Eftir</w>
+  <w>það</w>
+  <w>voru</w>
+  <w>því</w>
+  <w>landsetar</w>
+  <w>í</w>
+  <w>Eyjum</w>
+  <w>leiguliðar</w>
+  <w>næstu</w>
+  <w>aldirnar</w>
+  <c>.</c>
+</s>
+<s n="36">
+  <w>Í</w>
+  <w>Vestmannaeyjum</w>
+  <w>voru</w>
+  <w>að</w>
+  <w>jafnaði</w>
+  <w>átján</w>
+  <w>býli</w>
+  <w>og</w>
+  <w>mikið</w>
+  <w>af</w>
+  <w>hjáleigum</w>
+  <c>(</c>
+  <revision id="56">
+    <original><w>en</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
+  <w>fjöldi</w>
+  <w>þeirra</w>
+  <w>gat</w>
+  <w>verið</w>
+  <w>breytilegur</w>
+  <w>eftir</w>
+  <w>árferði</w>
+  <c>)</c>
+  <c>,</c>
+  <w>auk</w>
+  <w>tómthúsa- og verbúðarbyggðar</w>
+  <w>við</w>
+  <w>höfnina</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>er</w>
+  <w>líklega</w>
+  <w>einn</w>
+  <w>elsti</w>
+  <w>vísir</w>
+  <w>að</w>
+  <w>eiginlegu</w>
+  <w>þorpi</w>
+  <w>á</w>
+  <w>Íslandi</w>
+  <c>.</c>
+</s>
+<s n="37">
+  <w>Vestmannaeyjar</w>
+  <w>liggja</w>
+  <w>um</w>
+  <w>10 km</w>
+  <w>suður</w>
+  <w>undan</w>
+  <w>Landeyjasandi</w>
+  <c>.</c>
+</s>
+<s n="38">
+  <w>Eyjaklasinn</w>
+  <revision id="57">
+    <original><w>er</w></original>
+    <corrected><w>telur</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>15</w>
+  <w>eyjar</w>
+  <c>,</c>
+  <w>auk</w>
+  <w>um</w>
+  <w>30</w>
+  <w>dranga</w>
+  <w>og</w>
+  <w>skerja</w>
+  <c>.</c>
+</s>
+<s n="39">
+  <w>Eyjarnar</w>
+  <w>eru</w>
+  <w>sæbrattar</w>
+  <w>og</w>
+  <w>víðast</w>
+  <w>hvar</w>
+  <w>þaktar</w>
+  <w>graslendi</w>
+  <c>.</c>
+</s>
+<s n="40">
+  <w>Af</w>
+  <w>þeim</w>
+  <w>er</w>
+  <w>Heimaey</w>
+  <w>langstærst</w>
+  <c>,</c>
+  <w>um</w>
+  <w>13,4 km²</w>
+  <c>,</c>
+  <w>og</w>
+  <w>sú</w>
+  <w>eina</w>
+  <w>sem</w>
+  <w>er</w>
+  <w>byggð</w>
+  <c>.</c>
+</s>
+<s n="41">
+  <w>Helstu</w>
+  <w>og</w>
+  <w>stærstu</w>
+  <w>eyjarnar</w>
+  <w>í</w>
+  <w>kringum</w>
+  <w>Heimaey</w>
+  <w>eru</w>
+  <w>Elliðaey</w>
+  <w>og</w>
+  <w>Bjarnarey</w>
+  <w>norðaustur</w>
+  <w>af</w>
+  <w>Heimaey</w>
+  <w>og</w>
+  <w>til</w>
+  <w>suðvesturs</w>
+  <w>Suðurey</w>
+  <c>,</c>
+  <w>Álsey</w>
+  <c>,</c>
+  <w>Brandur</w>
+  <c>,</c>
+  <w>Hellisey</w>
+  <w>og</w>
+  <w>Surtsey</w>
+  <c>.</c>
+</s>
+<s n="42">
+  <w>Eyjarnar</w>
+  <w>eru</w>
+  <w>ungar</w>
+  <w>á</w>
+  <w>jarðsögulegan</w>
+  <w>mælikvarða</w>
+  <w>og</w>
+  <w>hafa</w>
+  <w>allar</w>
+  <w>myndast</w>
+  <w>í</w>
+  <w>eldgosum</w>
+  <c>,</c>
+  <w>þær</w>
+  <w>elstu</w>
+  <w>fyrir</w>
+  <revision id="58">
+    <original><w>u</w><c>.</c><w>þ.</w><w>b</w><c>.</c></original>
+    <corrected><w>u.þ.b.</w></corrected>
+      <errors>
+        <error xtype="extra-space" idx="58-1" eid="0" />
+        <error xtype="extra-space" idx="58-1" eid="0" />
+        <error xtype="extra-space" idx="58-1" eid="0" />
+        <error xtype="extra-space" idx="58-1" eid="0" />
+      </errors>
+  </revision>
+  <w>12 þúsund</w>
+  <w>árum</w>
+  <c>.</c>
+</s>
+<s n="43">
+  <w>Flestar</w>
+  <w>eyjarnar</w>
+  <w>eru</w>
+  <w>gíglaga</w>
+  <w>móbergsstapar</w>
+  <w>og</w>
+  <w>á</w>
+  <w>sumum</w>
+  <w>þeirra</w>
+  <w>eru</w>
+  <w>gjallgígar</w>
+  <c>.</c>
+</s>
+<s n="44">
+  <w>Vestmannaeyjar</w>
+  <w>eru</w>
+  <w>á</w>
+  <w>umfangsmiklu</w>
+  <w>eldgosasvæði</w>
+  <w>sem</w>
+  <w>er</w>
+  <w>um</w>
+  <w>38 km</w>
+  <w>langt</w>
+  <w>og</w>
+  <w>30 km</w>
+  <w>breitt</w>
+  <w>með</w>
+  <w>70</w>
+  <c>-</c>
+  <w>80</w>
+  <w>eldstöðvum</w>
+  <w>eða</w>
+  <w>leifum</w>
+  <w>þeirra</w>
+  <c>.</c>
+</s>
+<s n="45">
+  <w>Surtsey</w>
+  <w>varð</w>
+  <w>til</w>
+  <w>í</w>
+  <w>miklu</w>
+  <w>neðansjávargosi</w>
+  <w>sem</w>
+  <w>hófst</w>
+  <w>árið 1963</w>
+  <w>og</w>
+  <w>lauk</w>
+  <w>1967</w>
+  <c>.</c>
+</s>
+<s n="46">
+  <w>Það</w>
+  <w>er</w>
+  <w>lengsta</w>
+  <w>eldgos</w>
+  <w>á</w>
+  <w>Íslandi</w>
+  <revision id="59">
+    <original><w>frá</w><w>því</w><w>að</w><w>sögur</w><w>hófust</w></original>
+    <corrected><w>á</w><w>sögulegum</w><w>tíma</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="47">
+  <w>Við</w>
+  <w>upphaf</w>
+  <w>gossins</w>
+  <w>mynduðust</w>
+  <w>tvær</w>
+  <w>eyjar</w>
+  <w>og</w>
+  <w>fengu</w>
+  <w>þær</w>
+  <w>nöfnin</w>
+  <w>Syrtlingur</w>
+  <w>og</w>
+  <w>Jólnir</w>
+  <c>.</c>
+</s>
+<s n="48">
+  <w>Jólnir</w>
+  <w>kom</w>
+  <w>upp</w>
+  <w>úr</w>
+  <w>sjó</w>
+  <w>rétt</w>
+  <w>fyrir</w>
+  <w>Þorláksmessu</w>
+  <w>í</w>
+  <w>gosi</w>
+  <w>sem</w>
+  <w>stóð</w>
+  <w>fram</w>
+  <w>yfir</w>
+  <w>jólin</w>
+  <w>1963</w>
+  <c>.</c>
+</s>
+<s n="49">
+  <revision id="60">
+    <original><w>Syrtlingur</w></original>
+    <corrected><w>Gosið</w><w>sem</w><w>myndaði</w><w>Syrtling</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>stóð</w>
+  <w>mun</w>
+  <w>lengur</w>
+  <c>.</c>
+</s>
+<s n="50">
+  <w>Leifar</w>
+  <revision id="61">
+    <original><w>þessarra</w></original>
+    <corrected><w>þessara</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="61-1" eid="0" />
+        <error xtype="nonword" idx="61-1" eid="0" />
+      </errors>
+  </revision>
+  <w>eyja</w>
+  <w>eru</w>
+  <w>sitt</w>
+  <w>hvoru</w>
+  <w>megin</w>
+  <w>Surtseyjar</w>
+  <c>,</c>
+  <w>Jólnir</w>
+  <w>að</w>
+  <w>suðvestan</w>
+  <w>og</w>
+  <w>Syrtlingur</w>
+  <w>að</w>
+  <w>norðaustan</w>
+  <c>.</c>
+</s>
+<s n="51">
+  <w>Strax</w>
+  <w>að</w>
+  <w>loknu</w>
+  <w>gosinu</w>
+  <w>var</w>
+  <revision id="62">
+    <original><w>Surstey</w></original>
+    <corrected><w>Surtsey</w></corrected>
+      <errors>
+        <error xtype="swapped-letters" idx="62-1" eid="0" />
+        <error xtype="nonword" idx="62-1" eid="0" />
+      </errors>
+  </revision>
+  <w>friðuð</w>
+  <w>og</w>
+  <w>voru</w>
+  <w>jarðfræðingar</w>
+  <w>jafnt</w>
+  <w>sem</w>
+  <w>líffræðingar</w>
+  <w>forvitnir</w>
+  <w>um</w>
+  <w>þróun</w>
+  <w>lífríkisins</w>
+  <w>á</w>
+  <w>eyjunni</w>
+  <w>og</w>
+  <revision id="63">
+    <original><w>eyjunnar</w><w>sjálfrar</w></original>
+    <corrected><w>eyjunni</w><w>sjálfri</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="52">
+  <w>Strax</w>
+  <w>á</w>
+  <w>fyrstu</w>
+  <w>árunum</w>
+  <w>eftir</w>
+  <w>gosið</w>
+  <w>fóru</w>
+  <w>ýmsar</w>
+  <w>lífverur</w>
+  <w>að</w>
+  <w>taka</w>
+  <w>sér</w>
+  <w>bólfestu</w>
+  <w>á</w>
+  <w>eynni</w>
+  <c>.</c>
+</s>
+<s n="53">
+  <w>Eyjan</w>
+  <w>er</w>
+  <w>alfriðuð</w>
+  <w>og</w>
+  <w>er</w>
+  <w>í</w>
+  <w>umsjá</w>
+  <w>Surtseyjarfélagsins</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>starfar</w>
+  <w>í</w>
+  <w>umboði</w>
+  <w>umhverfisráðuneytisins</w>
+  <w>fyrir</w>
+  <w>hönd</w>
+  <w>íslenska</w>
+  <w>ríkisins</w>
+  <c>.</c>
+</s>
+<s n="54">
+  <w>Allar</w>
+  <w>mannaferðir</w>
+  <w>um</w>
+  <w>eyjuna</w>
+  <w>án</w>
+  <w>sérstaks</w>
+  <w>leyfis</w>
+  <w>eru</w>
+  <w>harðbannaðar</w>
+  <c>.</c>
+</s>
+<s n="55">
+  <w>Friðlandið</w>
+  <w>umhverfis</w>
+  <w>eyjuna</w>
+  <w>hefur</w>
+  <w>verið</w>
+  <w>stækkað</w>
+  <w>og</w>
+  <w>er</w>
+  <w>nú</w>
+  <w>unnið</w>
+  <w>að</w>
+  <w>því</w>
+  <w>að</w>
+  <w>koma</w>
+  <w>Surtsey</w>
+  <w>á</w>
+  <w>heimsminjaskrá</w>
+  <w>UNESCO</w>
+  <c>.</c>
+</s>
+<s n="56">
+  <w>Eldgos</w>
+  <w>hófst</w>
+  <w>á</w>
+  <w>Heimaey</w>
+  <w>þann</w>
+  <w>23. janúar árið 1973</w>
+  <w>og</w>
+  <w>eyðilagði</w>
+  <revision id="64">
+    <original><w>og</w><c>/</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-conjunction" eid="0" />
+        <error xtype="extra-slash" eid="0" />
+      </errors>
+  </revision>
+  <w>eða</w>
+  <revision id="65">
+    <original><w>skemmdi</w></original>
+    <corrected><w>valdi</w><w>skemmdum</w><w>á</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>um</w>
+  <w>það</w>
+  <w>bil</w>
+  <w>60%</w>
+  <w>af</w>
+  <w>öllum</w>
+  <w>húsum</w>
+  <w>bæjarins</w>
+  <c>.</c>
+</s>
+<s n="57">
+  <w>Nálægt</w>
+  <w>þriðjungur</w>
+  <w>allra</w>
+  <w>húsa</w>
+  <w>fór</w>
+  <w>undir</w>
+  <w>hraun</w>
+  <c>.</c>
+</s>
+<s n="58">
+  <w>Í</w>
+  <w>gosinu</w>
+  <w>voru</w>
+  <w>nær</w>
+  <w>allir</w>
+  <w>heimamenn</w>
+  <w>fluttir</w>
+  <w>upp</w>
+  <w>á</w>
+  <w>land</w>
+  <c>.</c>
+</s>
+<s n="59">
+  <w>Íbúar</w>
+  <w>voru</w>
+  <w>5.273</w>
+  <w>talsins</w>
+  <w>fyrir</w>
+  <w>gosið</w>
+  <w>og</w>
+  <w>sneru</w>
+  <w>flestir</w>
+  <w>þeirra</w>
+  <w>aftur</w>
+  <w>að</w>
+  <w>því</w>
+  <w>loknu</w>
+  <c>,</c>
+  <w>og</w>
+  <w>margir</w>
+  <w>fyrr</w>
+  <c>.</c>
+</s>
+<s n="60">
+  <w>Einn</w>
+  <w>maður</w>
+  <w>lét</w>
+  <w>lífið</w>
+  <w>af</w>
+  <w>gaseitrun</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>má</w>
+  <w>tengja</w>
+  <w>gosinu</w>
+  <c>.</c>
+</s>
+<s n="61">
+  <w>Þó</w>
+  <w>lést</w>
+  <w>hann</w>
+  <w>ekki</w>
+  <w>fyrr</w>
+  <w>en</w>
+  <w>gosinu</w>
+  <w>loknu</w>
+  <w>og</w>
+  <w>nálgast</w>
+  <w>kraftaverk</w>
+  <w>að</w>
+  <w>mun</w>
+  <w>fleiri</w>
+  <w>skyldu</w>
+  <w>ekki</w>
+  <w>farast</w>
+  <c>.</c>
+</s>
+<s n="62">
+  <w>Eftir</w>
+  <w>stóð</w>
+  <w>eldfjallið</w>
+  <w>Eldfell</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>margir</w>
+  <w>Vestmannaeyingar</w>
+  <w>vildu</w>
+  <w>kalla</w>
+  <w>Kirkjufell</w>
+  <c>,</c>
+  <w>rétt</w>
+  <w>norðaustan</w>
+  <w>Helgafells</w>
+  <c>.</c>
+</s>
+<s n="63">
+  <w>Frá</w>
+  <w>því</w>
+  <w>stendur</w>
+  <w>Eldfellshraun</w>
+  <w>sem</w>
+  <w>teygir</w>
+  <w>sig</w>
+  <w>frá</w>
+  <w>Skarfatanga</w>
+  <w>í</w>
+  <w>suðri</w>
+  <w>að</w>
+  <w>Skansinum</w>
+  <w>í</w>
+  <w>norðri</w>
+  <c>,</c>
+  <w>og</w>
+  <w>stækkaði</w>
+  <w>það</w>
+  <revision id="66">
+    <original><w>Heimaey</w></original>
+    <corrected><w>landsvæði</w><w>Heimaeyjar</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>um</w>
+  <w>eina</w>
+  <w>3</w>
+  <w>ferkílómetra</w>
+  <c>.</c>
+</s>
+<s n="64">
+  <w>Eldfellshraun</w>
+  <w>er</w>
+  <w>basískt</w>
+  <w>apalhraun</w>
+  <w>að</w>
+  <w>mestu</w>
+  <c>,</c>
+  <w>með</w>
+  <w>nokkrum</w>
+  <w>helluhraunsblettum</w>
+  <c>;</c>
+  <w>mestallt</w>
+  <w>hraunið</w>
+  <w>er</w>
+  <w>vikur</w>
+  <c>.</c>
+</s>
+<s n="65">
+  <w>Gosinu</w>
+  <w>var</w>
+  <w>lýst</w>
+  <w>lokið</w>
+  <w>3. júlí</w>
+  <w>sama</w>
+  <w>ár</w>
+  <w>og</w>
+  <w>það</w>
+  <w>hófst</w>
+  <c>,</c>
+  <w>en</w>
+  <w>þá</w>
+  <w>tóku</w>
+  <w>við</w>
+  <w>gríðarlegar</w>
+  <w>hreinsunarframkvæmdir</w>
+  <w>á</w>
+  <w>eyjunni</w>
+  <c>,</c>
+  <w>enda</w>
+  <w>höfðu</w>
+  <w>um</w>
+  <w>300</w>
+  <w>hús</w>
+  <w>farið</w>
+  <w>undir</w>
+  <w>hraun</w>
+  <w>og</w>
+  <w>afgangur</w>
+  <w>bæjarins</w>
+  <w>lá</w>
+  <w>undir</w>
+  <w>þykku</w>
+  <w>öskulagi</w>
+  <c>.</c>
+</s>
+<s n="66">
+  <w>Í</w>
+  <w>eldgosinu</w>
+  <w>1973</w>
+  <w>fóru</w>
+  <w>11</w>
+  <w>götur</w>
+  <w>innanbæjar</w>
+  <w>ýmist</w>
+  <w>að</w>
+  <w>öllu</w>
+  <w>eða</w>
+  <w>einhverju</w>
+  <w>leyti</w>
+  <w>undir</w>
+  <w>hraun</w>
+  <c>:</c>
+  <w>Austurvegur</w>
+  <c>,</c>
+  <w>Bakkastígur</w>
+  <c>,</c>
+  <w>Formannabraut</w>
+  <c>,</c>
+  <w>Heimagata</w>
+  <c>,</c>
+  <w>Kirkjuvegur</w>
+  <c>,</c>
+  <w>Landagata</w>
+  <c>,</c>
+  <w>Njarðarstígur</w>
+  <c>,</c>
+  <w>Sjómannasund</w>
+  <c>,</c>
+  <w>Strandvegur</w>
+  <c>,</c>
+  <w>Urðarvegur</w>
+  <w>og</w>
+  <w>Víðisvegur</w>
+  <c>.</c>
+</s>
+<s n="67">
+  <w>Allt</w>
+  <w>frá</w>
+  <w>árinu 1998</w>
+  <w>hefur</w>
+  <w>Goslokahátíðin</w>
+  <w>verið</w>
+  <w>haldin</w>
+  <w>í</w>
+  <w>Eyjum</w>
+  <w>til</w>
+  <w>að</w>
+  <w>minnast</w>
+  <w>goslokanna</w>
+  <c>.</c>
+</s>
+<s n="68">
+  <w>Fimmta</w>
+  <w>hvert</w>
+  <w>ár</w>
+  <revision id="67">
+    <original><w>eru</w><w>hátíðirnar</w></original>
+    <corrected><w>er</w><w>hátíðin</w></corrected>
+      <errors>
+        <error xtype="plural4singular" eid="0" />
+      </errors>
+  </revision>
+  <w>stærri</w>
+  <w>en</w>
+  <w>árin</w>
+  <w>á</w>
+  <w>milli</w>
+  <c>.</c>
+</s>
+<s n="69">
+  <w>Í</w>
+  <w>Vestmannaeyjum</w>
+  <w>er</w>
+  <w>fremur</w>
+  <w>hlýtt</w>
+  <c>,</c>
+  <w>úrkomu- og vindasamt</w>
+  <w>og</w>
+  <w>markast</w>
+  <w>það</w>
+  <w>af</w>
+  <w>legu</w>
+  <w>eyjanna</w>
+  <w>undan</w>
+  <w>suðurströnd</w>
+  <w>landsins</w>
+  <c>.</c>
+</s>
+<s n="70">
+  <w>Hitamunur</w>
+  <w>milli</w>
+  <w>árstíða</w>
+  <w>er</w>
+  <w>tiltölulega</w>
+  <w>lítill</w>
+  <w>og</w>
+  <w>þoka</w>
+  <w>setur</w>
+  <w>svip</w>
+  <w>sinn</w>
+  <w>á</w>
+  <w>veðráttuna</w>
+  <c>.</c>
+</s>
+<s n="71">
+  <w>Veðurfar</w>
+  <w>við</w>
+  <w>Vestmannaeyjar</w>
+  <w>flokkast</w>
+  <w>undir</w>
+  <w>hafrænt</w>
+  <w>úthafsloftslag</w>
+  <c>,</c>
+  <revision id="68">
+    <original></original>
+    <corrected><w>og</w><w>er</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <w>nokkuð</w>
+  <w>hlýtt</w>
+  <w>og</w>
+  <w>rakt</w>
+  <w>miðað</w>
+  <w>við</w>
+  <w>meðaltal</w>
+  <w>á</w>
+  <w>fastalandinu</w>
+  <c>.</c>
+</s>
+<s n="72">
+  <w>Veðrabrigði</w>
+  <w>eru</w>
+  <w>snögg</w>
+  <w>og</w>
+  <w>breytist</w>
+  <w>veðrið</w>
+  <w>stundum</w>
+  <w>oft</w>
+  <w>á</w>
+  <w>dag</w>
+  <c>.</c>
+</s>
+<s n="73">
+  <w>Gjarnan</w>
+  <w>er</w>
+  <w>sagt</w>
+  <w>að</w>
+  <w>ekki</w>
+  <w>sé</w>
+  <w>veður</w>
+  <w>í</w>
+  <w>Vestmannaeyjum</w>
+  <c>,</c>
+  <w>heldur</w>
+  <w>eingöngu</w>
+  <w>veðurprufur</w>
+  <c>.</c>
+</s>
+<s n="74">
+  <w>Samfelldar</w>
+  <w>veðurathuganir</w>
+  <w>hafa</w>
+  <w>verið</w>
+  <w>gerðar</w>
+  <w>á</w>
+  <w>Stórhöfða</w>
+  <w>síðan</w>
+  <w>árið 1921</w>
+  <w>og</w>
+  <w>einnig</w>
+  <w>við</w>
+  <w>flugvöllinn</w>
+  <w>síðan</w>
+  <w>um</w>
+  <w>1960</w>
+  <c>.</c>
+</s>
+<s n="75">
+  <w>Árið 1998</w>
+  <c>-</c>
+  <w>1999</w>
+  <w>voru</w>
+  <w>gerðar</w>
+  <w>sjálfvirkar</w>
+  <w>mælingar</w>
+  <w>á</w>
+  <w>Eldfellshrauni</w>
+  <w>sem</w>
+  <w>stóðu</w>
+  <w>yfir</w>
+  <w>í</w>
+  <w>tæpt</w>
+  <w>ár</w>
+  <c>.</c>
+</s>
+<s n="76">
+  <w>Munur</w>
+  <w>á</w>
+  <w>úrkomu</w>
+  <w>og</w>
+  <w>hitastigi</w>
+  <w>milli</w>
+  <w>veðurstöðva</w>
+  <w>á</w>
+  <w>Heimaey</w>
+  <w>hefur</w>
+  <w>reynst</w>
+  <w>óverulegur</w>
+  <w>og</w>
+  <w>er</w>
+  <w>því</w>
+  <w>miðað</w>
+  <w>við</w>
+  <w>Stórhöfða</w>
+  <w>nema</w>
+  <w>annað</w>
+  <w>sé</w>
+  <w>tekið</w>
+  <w>fram</w>
+  <c>.</c>
+</s>
+<s n="77">
+  <w>Árið 2002</w>
+  <w>var</w>
+  <w>svo</w>
+  <w>sett</w>
+  <w>upp</w>
+  <w>sjálfvirk</w>
+  <w>veðurstöð</w>
+  <w>í</w>
+  <w>Vestmannaeyjabæ</w>
+  <c>,</c>
+  <w>við</w>
+  <w>botn</w>
+  <w>Löngulágar</w>
+  <c>,</c>
+  <w>þar</w>
+  <w>sem</w>
+  <w>vindmælingar</w>
+  <w>á</w>
+  <w>Stórhöfða</w>
+  <w>gefa</w>
+  <w>oft</w>
+  <w>ekki</w>
+  <w>rétta</w>
+  <w>mynd</w>
+  <w>af</w>
+  <w>veðrinu</w>
+  <w>inni</w>
+  <w>í</w>
+  <w>bænum</w>
+  <c>.</c>
+</s>
+<s n="78">
+  <w>Á</w>
+  <w>veturna</w>
+  <w>er</w>
+  <w>meðalhiti</w>
+  <w>hvergi</w>
+  <w>hærri</w>
+  <w>á</w>
+  <w>landsvísu</w>
+  <w>en</w>
+  <w>víða</w>
+  <w>er</w>
+  <w>hlýrra</w>
+  <w>yfir</w>
+  <w>sumarið</w>
+  <c>.</c>
+</s>
+<s n="79">
+  <w>Á</w>
+  <w>tímabilinu</w>
+  <w>1961</w>
+  <c>-</c>
+  <w>2000</w>
+  <w>var</w>
+  <w>meðalárshiti</w>
+  <w>4,9° C</w>
+  <w>á</w>
+  <w>Stórhöfða</w>
+  <c>,</c>
+  <w>en</w>
+  <w>hæsti</w>
+  <w>meðalhiti</w>
+  <revision id="69">
+    <original><w>á</w><w>einu</w><w>ári</w></original>
+    <corrected><w>yfir</w><w>eitt</w><w>ár</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>var</w>
+  <w>5.5° C</w>
+  <w>árið 1984</w>
+  <c>.</c>
+</s>
+<s n="80">
+  <w>Milt</w>
+  <w>hitastig</w>
+  <w>í</w>
+  <w>sjó</w>
+  <w>í</w>
+  <w>kringum</w>
+  <w>Eyjarnar</w>
+  <w>er</w>
+  <revision id="70">
+    <original><w>ástæða</w></original>
+    <corrected><w>ástæðan</w></corrected>
+      <errors>
+        <error xtype="ind4def" eid="0" />
+      </errors>
+  </revision>
+  <w>fyrir</w>
+  <w>háum</w>
+  <w>meðallofthita</w>
+  <w>og</w>
+  <w>lítilli</w>
+  <w>hitasveiflu</w>
+  <w>milli</w>
+  <w>árstíða</w>
+  <w>og</w>
+  <w>daga</w>
+  <c>.</c>
+</s>
+<s n="81">
+  <w>Hiti</w>
+  <w>hefur</w>
+  <w>aldrei</w>
+  <w>mælst</w>
+  <w>yfir</w>
+  <w>20° C</w>
+  <w>á</w>
+  <w>Stórhöfða</w>
+  <c>,</c>
+  <w>en</w>
+  <w>í</w>
+  <w>júni</w>
+  <w>árið 1999</w>
+  <w>mældist</w>
+  <w>hitinn</w>
+  <w>19,3° C</w>
+  <w>og</w>
+  <w>er</w>
+  <w>það</w>
+  <w>mesti</w>
+  <w>hiti</w>
+  <w>sem</w>
+  <w>hefur</w>
+  <w>mælst</w>
+  <w>í</w>
+  <w>eyjunum</w>
+  <c>.</c>
+</s>
+<s n="82">
+  <w>Frost</w>
+  <w>mældist</w>
+  <w>að</w>
+  <w>meðaltali</w>
+  <w>82</w>
+  <w>daga</w>
+  <w>á</w>
+  <w>ári</w>
+  <w>yfir</w>
+  <w>vetrarmánuðina</w>
+  <w>á</w>
+  <w>árunum</w>
+  <w>1961</w>
+  <c>-</c>
+  <w>1990</w>
+  <c>.</c>
+</s>
+<s n="83">
+  <w>Mesta</w>
+  <w>frost</w>
+  <w>sem</w>
+  <w>mælst</w>
+  <w>hefur</w>
+  <w>var</w>
+  <c>-16,9° C</c>
+  <w>í</w>
+  <revision id="71">
+    <original><w>april</w><w>árið 1968</w></original>
+    <corrected><w>apríl árið 1968</w></corrected>
+      <errors>
+        <error xtype="fw4ice" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="84">
+  <w>Að</w>
+  <w>jafnaði</w>
+  <w>var</w>
+  <w>frost</w>
+  <w>allan</w>
+  <w>sólarhringinn</w>
+  <w>18</w>
+  <w>daga</w>
+  <w>á</w>
+  <w>ári</w>
+  <w>á</w>
+  <w>sama</w>
+  <w>tímabili</w>
+  <c>.</c>
+</s>
+<s n="85">
+  <w>Lægsti</w>
+  <w>loftþrýstingur</w>
+  <w>á</w>
+  <w>Íslandi</w>
+  <w>mældist</w>
+  <w>á</w>
+  <w>Stórhöfða</w>
+  <w>919,7 hPa</w>
+  <w>2. desember 1929</w>
+  <c>.</c>
+</s>
+<s n="86">
+  <w>Úrkoma</w>
+  <w>er</w>
+  <w>fremur</w>
+  <w>mikil</w>
+  <w>í</w>
+  <w>Vestmannaeyjum</w>
+  <c>.</c>
+</s>
+<s n="87">
+  <w>Á</w>
+  <w>Stórhöfða</w>
+  <w>rignir</w>
+  <w>að</w>
+  <w>meðaltali</w>
+  <w>um</w>
+  <w>129 mm</w>
+  <w>á</w>
+  <w>mánuði</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>er</w>
+  <w>mikið</w>
+  <w>miðað</w>
+  <w>við</w>
+  <w>aðra</w>
+  <w>landshluta</w>
+  <c>.</c>
+</s>
+<s n="88">
+  <w>Meðalúrkoma</w>
+  <w>á</w>
+  <w>ári</w>
+  <w>var</w>
+  <w>1.556 mm</w>
+  <w>á</w>
+  <w>tímabilinu</w>
+  <w>1961</w>
+  <c>-</c>
+  <w>2000</w>
+  <c>.</c>
+</s>
+<s n="89">
+  <w>Úrkoman</w>
+  <w>er</w>
+  <w>mjög</w>
+  <w>árstíðabundin</w>
+  <c>.</c>
+</s>
+<s n="90">
+  <w>Mesta</w>
+  <w>úrkoma</w>
+  <w>er</w>
+  <w>yfir</w>
+  <w>vetrarmánuðina</w>
+  <w>en</w>
+  <w>minnst</w>
+  <w>á</w>
+  <w>tímabilinu</w>
+  <w>apríl-júlí</w>
+  <c>.</c>
+</s>
+<s n="91">
+  <w>Mesta</w>
+  <w>úrkoma</w>
+  <w>á</w>
+  <w>einum</w>
+  <w>sólarhring</w>
+  <w>var</w>
+  <w>146 mm</w>
+  <w>í</w>
+  <w>október árið 1979</w>
+  <c>.</c>
+</s>
+<s n="92">
+  <w>Úrkomudagar</w>
+  <w>hafa</w>
+  <w>verið</w>
+  <w>að</w>
+  <w>jafnaði</w>
+  <w>246</w>
+  <w>á</w>
+  <w>ári</w>
+  <w>og</w>
+  <w>þar</w>
+  <w>af</w>
+  <w>eru</w>
+  <w>82</w>
+  <w>dagar</w>
+  <w>snjókoma</w>
+  <w>eða</w>
+  <w>slydda</w>
+  <c>.</c>
+</s>
+<s n="93">
+  <w>Jörð</w>
+  <w>var</w>
+  <w>að</w>
+  <w>meðaltali</w>
+  <w>alhvít</w>
+  <w>40</w>
+  <w>daga</w>
+  <w>á</w>
+  <w>ári</w>
+  <w>en</w>
+  <w>alautt</w>
+  <w>var</w>
+  <w>að</w>
+  <w>meðaltali</w>
+  <w>285</w>
+  <w>daga</w>
+  <w>á</w>
+  <w>tímabilinu</w>
+  <w>1961</w>
+  <c>-</c>
+  <w>1990</w>
+  <c>.</c>
+</s>
+<s n="94">
+  <w>Þoka</w>
+  <w>var</w>
+  <w>að</w>
+  <w>jafnaði</w>
+  <w>86</w>
+  <w>daga</w>
+  <w>á</w>
+  <w>ári</w>
+  <w>við</w>
+  <w>Stórhöfða</w>
+  <w>en</w>
+  <w>þar</w>
+  <w>voru</w>
+  <w>fleiri</w>
+  <w>þokudagar</w>
+  <w>en</w>
+  <w>á</w>
+  <w>nokkrum</w>
+  <w>öðrum</w>
+  <w>stað</w>
+  <w>á</w>
+  <w>Íslandi</w>
+  <w>á</w>
+  <w>tímabilinu</w>
+  <w>1961</w>
+  <c>-</c>
+  <w>1990</w>
+  <c>.</c>
+</s>
+<s n="95">
+  <w>Gera</w>
+  <w>má</w>
+  <w>ráð</w>
+  <w>fyrir</w>
+  <w>að</w>
+  <w>þokudagar</w>
+  <w>séu</w>
+  <w>talsvert</w>
+  <revision id="72">
+    <original><w>færrri</w></original>
+    <corrected><w>færri</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="72-1" eid="0" />
+        <error xtype="nonword" idx="72-1" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>kaupstaðnum</w>
+  <w>sem</w>
+  <w>liggur</w>
+  <w>neðarlega</w>
+  <c>.</c>
+</s>
+<s n="96">
+  <w>Alskýjað</w>
+  <w>var</w>
+  <w>að</w>
+  <w>jafnaði</w>
+  <w>192</w>
+  <w>daga</w>
+  <w>á</w>
+  <w>ári</w>
+  <w>og</w>
+  <w>heiðskýrt</w>
+  <w>22</w>
+  <w>daga</w>
+  <c>.</c>
+</s>
+<s n="97">
+  <revision id="73">
+    <original><w>Meðal</w><w>skýjahula</w></original>
+    <corrected><w>Meðalskýjahula</w></corrected>
+      <errors>
+        <error xtype="split-word" eid="0" />
+      </errors>
+  </revision>
+  <w>var</w>
+  <w>6/8</w>
+  <w>himinhvolfsins</w>
+  <w>á</w>
+  <w>tímabilinu</w>
+  <w>1961</w>
+  <c>-</c>
+  <w>1990</w>
+  <c>.</c>
+</s>
+<s n="98">
+  <w>Meðalrakastig</w>
+  <revision id="74">
+    <original><w>er</w></original>
+    <corrected><w>var</w></corrected>
+      <errors>
+        <error xtype="pres4past" eid="0" />
+      </errors>
+  </revision>
+  <w>82%</w>
+  <w>og</w>
+  <w>þrumudagar</w>
+  <w>voru</w>
+  <w>4</w>
+  <w>á</w>
+  <w>ári</w>
+  <w>að</w>
+  <w>jafnaði</w>
+  <w>á</w>
+  <w>sama</w>
+  <w>tímabili</w>
+  <c>.</c>
+</s>
+<s n="99">
+  <w>Stórhöfði</w>
+  <w>er</w>
+  <w>vindsamasta</w>
+  <w>veðurstöð</w>
+  <w>landsins</w>
+  <c>.</c>
+</s>
+<s n="100">
+  <w>Veðurstöðin</w>
+  <w>er</w>
+  <w>í</w>
+  <w>120 m</w>
+  <w>hæð</w>
+  <w>yfir</w>
+  <w>sjávarmáli</w>
+  <w>og</w>
+  <w>opin</w>
+  <w>fyrir</w>
+  <w>öllum</w>
+  <w>vindáttum</w>
+  <c>.</c>
+</s>
+<s n="101">
+  <w>Meðalvindhraði</w>
+  <w>yfir</w>
+  <w>allt</w>
+  <w>árið</w>
+  <w>var</w>
+  <w>11,03 m</w>
+  <c>/</c>
+  <w>s</w>
+  <w>á</w>
+  <w>árunum</w>
+  <w>1961</w>
+  <c>-</c>
+  <w>2000</w>
+  <c>.</c>
+</s>
+<s n="102">
+  <w>Talsverður</w>
+  <w>munur</w>
+  <w>er</w>
+  <w>á</w>
+  <w>vindhraða</w>
+  <w>milli</w>
+  <w>árstíða</w>
+  <c>,</c>
+  <w>í</w>
+  <w>júlí</w>
+  <w>er</w>
+  <w>meðalvindhraði</w>
+  <w>8 m</w>
+  <c>/</c>
+  <w>s</w>
+  <w>en</w>
+  <w>13,2 m</w>
+  <c>/</c>
+  <w>s</w>
+  <w>í</w>
+  <w>janúar</w>
+  <c>.</c>
+</s>
+<s n="103">
+  <w>Í</w>
+  <w>Vestmannaeyjum</w>
+  <w>er</w>
+  <w>mjög</w>
+  <w>fjölbreytt</w>
+  <w>lífríki</w>
+  <c>,</c>
+  <revision id="75">
+    <original><w>þá</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
+  <w>einkum</w>
+  <revision id="76">
+    <original><w>fuglar</w></original>
+    <corrected><w>meðal</w><w>fugla</w></corrected>
+      <errors>
+        <error xtype="wording" idx="76-1" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <revision id="77">
+    <original><w>plöntur</w></original>
+    <corrected><w>plantna</w></corrected>
+      <errors>
+        <error xtype="dep" depId="76-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="104">
+  <w>Stærsta</w>
+  <w>lundabyggð</w>
+  <w>heims</w>
+  <w>er</w>
+  <w>í</w>
+  <w>Vestmannaeyjum</w>
+  <c>,</c>
+  <w>en</w>
+  <w>meira</w>
+  <w>en</w>
+  <w>tíu milljón</w>
+  <w>lundar</w>
+  <w>búa</w>
+  <w>á</w>
+  <w>eyjunum</w>
+  <c>.</c>
+</s>
+<s n="105">
+  <w>Gjöful</w>
+  <w>fiskimið</w>
+  <w>eru</w>
+  <w>umhverfis</w>
+  <w>eyjarnar</w>
+  <w>og</w>
+  <w>ofgnótt</w>
+  <w>hvala</w>
+  <revision id="78">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>en</w>
+  <w>lítið</w>
+  <w>er</w>
+  <w>af</w>
+  <w>spendýrum</w>
+  <w>á</w>
+  <w>eyjunum</w>
+  <w>sjálfum</w>
+  <revision id="79">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>undanskildum</w>
+  <w>manninum</w>
+  <c>.</c>
+</s>
+<s n="106">
+  <revision id="80">
+    <original><w>En</w><w>stærsta</w></original>
+    <corrected><w>Stærsta</w></corrected>
+      <errors>
+        <error xtype="extra-conjunction" eid="0" />
+      </errors>
+  </revision>
+  <w>lundabyggðin</w>
+  <w>á</w>
+  <w>Heimaey</w>
+  <w>á</w>
+  <revision id="81">
+    <original></original>
+    <corrected><w>hins</w><w>vegar</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <w>undir</w>
+  <revision id="82">
+    <original><w>höggi</w></original>
+    <corrected><w>högg</w></corrected>
+      <errors>
+        <error xtype="collocation" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>sækja</w>
+  <w>þar</w>
+  <w>sem</w>
+  <w>kanínur</w>
+  <w>eru</w>
+  <w>að</w>
+  <w>yfirtaka</w>
+  <w>Sæfell</w>
+  <c>.</c>
+</s>
+<s n="107">
+  <w>Kanínum</w>
+  <w>þessum</w>
+  <w>var</w>
+  <w>sleppt</w>
+  <w>út</w>
+  <w>í</w>
+  <w>náttúruna</w>
+  <w>í</w>
+  <w>kringum</w>
+  <w>1985</w>
+  <c>.</c>
+</s>
+<s n="108">
+  <w>Jarðvegur</w>
+  <w>er</w>
+  <w>víðast</w>
+  <w>hvar</w>
+  <w>grunnur</w>
+  <w>í</w>
+  <w>Vestmannaeyjum</w>
+  <w>en</w>
+  <w>þó</w>
+  <w>eru</w>
+  <w>á</w>
+  <w>stöku</w>
+  <w>stað</w>
+  <w>skilyrði</w>
+  <w>fyrir</w>
+  <w>túnrækt</w>
+  <c>.</c>
+</s>
+<s n="109">
+  <w>Víðast</w>
+  <w>hvar</w>
+  <w>er</w>
+  <w>jarðvegur</w>
+  <w>grýttur</w>
+  <w>og</w>
+  <w>stutt</w>
+  <revision id="83">
+    <original><w>er</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
+  <w>niður</w>
+  <w>á</w>
+  <w>hraun</w>
+  <c>.</c>
+</s>
+<s n="110">
+  <w>Jarðvegur</w>
+  <w>á</w>
+  <w>Heimaey</w>
+  <w>telst</w>
+  <w>vera</w>
+  <w>sandorpinn</w>
+  <w>móajarðvegur</w>
+  <revision id="84">
+    <original><w>þar</w><w>sem</w></original>
+    <corrected><c>,</c><w>að</w><w>mestu</w><w>leyti</w></corrected>
+      <errors>
+        <error xtype="wording" idx="84-1" eid="0" />
+      </errors>
+  </revision>
+  <revision id="84b">
+    <original><w>eldfjallaska</w></original>
+    <corrected><w>eldfjallaaska</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="84b-1" eid="0" />
+        <error xtype="compound-nonword" idx="84b-1" eid="0" />
+      </errors>
+  </revision>
+  <revision id="85">
+    <original><w>er</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="84-1" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>bland</w>
+  <w>við</w>
+  <w>lífræn</w>
+  <w>jarðvegsefni</w>
+  <c>.</c>
+</s>
+<s n="111">
+  <w>Gamlar</w>
+  <w>uppþornaðar</w>
+  <w>mýrar</w>
+  <w>má</w>
+  <w>meðal</w>
+  <w>annars</w>
+  <w>finna</w>
+  <w>í</w>
+  <w>Lyngfellisdal</w>
+  <c>,</c>
+  <w>Torfmýri</w>
+  <w>og</w>
+  <w>Bleiksmýrardal</w>
+  <c>.</c>
+</s>
+<s n="112">
+  <w>Árið 1771</w>
+  <c>,</c>
+  <w>þegar</w>
+  <w>verið</w>
+  <w>var</w>
+  <w>að</w>
+  <w>flytja</w>
+  <w>fyrstu</w>
+  <w>hreindýrin</w>
+  <w>til</w>
+  <w>Íslands</w>
+  <c>,</c>
+  <w>voru</w>
+  <w>13</w>
+  <w>hreindýr</w>
+  <w>flutt</w>
+  <w>til</w>
+  <w>Vestmannaeyja</w>
+  <c>.</c>
+</s>
+<s n="113">
+  <revision id="86">
+    <original><w>Stendur</w><w>þá</w><w>í</w></original>
+    <corrected><w>Í</w></corrected>
+      <errors>
+        <error xtype="wording" idx="86-1" eid="0" />
+      </errors>
+  </revision>
+  <w>Árbókum</w>
+  <w>Espólíns</w>
+  <revision id="87">
+    <original></original>
+    <corrected><w>stendur</w></corrected>
+      <errors>
+        <error xtype="dep" depId="86-1" eid="0" />
+      </errors>
+  </revision>
+  <c>(</c>
+  <w>10.</w>
+  <w>deild</w>
+  <c>,</c>
+  <w>bls.</w>
+  <w>101</w>
+  <c>)</c>
+  <revision id="88">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
+  <c>„</c>
+  <revision id="89">
+    <original><w>Þat</w></original>
+    <corrected><w>Það</w></corrected>
+      <errors>
+        <error xtype="letter-rep" eid="0" />
+      </errors>
+  </revision>
+  <w>sumar</w>
+  <w>komu</w>
+  <w>13</w>
+  <w>hreindýr</w>
+  <revision id="90">
+    <original><w>í</w><w>Vestmannaeyjum</w><w>at</w></original>
+    <corrected><w>til</w><w>Vestmannaeyja</w><w>að</w></corrected>
+      <errors>
+        <error xtype="wrong-prep" eid="0" />
+        <error xtype="letter-rep" eid="0" />
+      </errors>
+  </revision>
+  <w>undirlagi</w>
+  <w>Ólafs</w>
+  <w>amtmanns</w>
+  <w>Stephánssonar</w>
+  <c>,</c>
+  <w>dóu</w>
+  <w>10</w>
+  <revision id="91">
+    <original></original>
+    <corrected><w>þeirra</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>vesöld</w>
+  <revision id="92">
+    <original><w>um</w><w>vetrinn</w></original>
+    <corrected><w>veturinn</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>eftir</w>
+  <c>,</c>
+  <w>en</w>
+  <w>þrjú</w>
+  <revision id="93">
+    <original><w>lifdu</w></original>
+    <corrected><w>lifðu</w></corrected>
+      <errors>
+        <error xtype="letter-rep" eid="0" />
+      </errors>
+  </revision>
+  <c>“</c>
+  <c>.</c>
+</s>
+<s n="114">
+  <w>Önnur</w>
+  <w>eldri</w>
+  <w>og</w>
+  <w>ítarlegri</w>
+  <w>frásögn</w>
+  <w>er</w>
+  <w>í</w>
+  <w>Islandske</w>
+  <w>Maaneds-Tidender</w>
+  <c>,</c>
+  <w>2.</w>
+  <w>árg.</w>
+  <c>,</c>
+  <w>bls.</w>
+  <w>55</w>
+  <c>-</c>
+  <w>59</w>
+  <c>,</c>
+  <w>og</w>
+  <w>heimildarmaðurinn</w>
+  <w>er</w>
+  <w>Sigurður</w>
+  <w>Sigurðsson</w>
+  <revision id="94">
+    <original><w>landþingsskrifari</w></original>
+    <corrected><c>,</c><w>landsþingsskrifari</w></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+        <error xtype="compound-nonword" idx="94-1" eid="0" />
+        <error xtype="compound-collocation" idx="94-1" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>Hlíðarenda</w>
+  <c>.</c>
+</s>
+<s n="115">
+  <w>Vestmannaeyjar</w>
+  <w>hafa</w>
+  <w>verið</w>
+  <w>mikilvægasta</w>
+  <w>verstöð</w>
+  <w>landsins</w>
+  <w>í</w>
+  <w>fjölda</w>
+  <w>ára</w>
+  <w>og</w>
+  <w>byggist</w>
+  <w>afkoma</w>
+  <w>heimamanna</w>
+  <w>að</w>
+  <w>mestu</w>
+  <w>leyti</w>
+  <w>á</w>
+  <w>fiskvinnslu</w>
+  <w>og</w>
+  <w>útgerð</w>
+  <c>.</c>
+</s>
+<s n="116">
+  <w>Auk</w>
+  <w>þess</w>
+  <w>eru</w>
+  <w>ört</w>
+  <w>vaxandi</w>
+  <w>atvinnuvegir</w>
+  <w>eyjaskeggja</w>
+  <w>í</w>
+  <w>dag</w>
+  <w>ferðaþjónusta</w>
+  <c>,</c>
+  <w>skipaviðgerðir</w>
+  <w>og</w>
+  <w>menntun</w>
+  <c>.</c>
+</s>
+<s n="117">
+  <w>Framhaldsskólinn</w>
+  <w>í</w>
+  <w>Vestmannaeyjum</w>
+  <w>er</w>
+  <w>stöðugt</w>
+  <w>að</w>
+  <w>stækka</w>
+  <w>við</w>
+  <w>sig</w>
+  <w>þrátt</w>
+  <w>fyrir</w>
+  <w>að</w>
+  <w>oft</w>
+  <w>reynist</w>
+  <w>erfitt</w>
+  <w>að</w>
+  <revision id="95">
+    <original><w>lokka</w></original>
+    <corrected><w>laða</w><w>að</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>námsmenn</w>
+  <w>til</w>
+  <w>Eyja</w>
+  <c>.</c>
+</s>
+<s n="118">
+  <w>Háskóli</w>
+  <w>Íslands</w>
+  <w>og</w>
+  <w>Háskólinn</w>
+  <w>á</w>
+  <w>Akureyri</w>
+  <revision id="96">
+    <original><w>eru</w></original>
+    <corrected><w>hafa</w></corrected>
+      <errors>
+        <error xtype="wording" idx="96-1" eid="0" />
+      </errors>
+  </revision>
+  <w>báðir</w>
+  <revision id="97">
+    <original><w>búnir</w><w>að</w><w>koma</w></original>
+    <corrected><w>komið</w></corrected>
+      <errors>
+        <error xtype="dep" depId="96-1" eid="0" />
+      </errors>
+  </revision>
+  <w>sér</w>
+  <w>upp</w>
+  <w>útibúum</w>
+  <revision id="98">
+    <original><w>á</w></original>
+    <corrected><w>í</w></corrected>
+      <errors>
+        <error xtype="wrong-prep" eid="0" />
+      </errors>
+  </revision>
+  <w>Heimaey</w>
+  <c>.</c>
+</s>
+<s n="119">
+  <w>Í</w>
+  <w>Vestmannaeyjum</w>
+  <w>eru</w>
+  <w>tveir</w>
+  <w>grunnskólar</w>
+  <revision id="99">
+    <original><c>;</c></original>
+    <corrected><c>:</c></corrected>
+      <errors>
+        <error xtype="semicolon4colon" eid="0" />
+      </errors>
+  </revision>
+  <w>Barnaskólinn</w>
+  <w>í</w>
+  <w>Vestmannaeyjum</w>
+  <w>og</w>
+  <w>Hamarsskóli</w>
+  <w>Vestmannaeyja</w>
+  <c>.</c>
+</s>
+<s n="120">
+  <w>Sameining</w>
+  <w>skólanna</w>
+  <w>er</w>
+  <w>nú</w>
+  <w>fyrirhuguð</w>
+  <c>.</c>
+</s>
+<s n="121">
+  <w>Verið</w>
+  <w>er</w>
+  <w>að</w>
+  <w>undirbúa</w>
+  <w>byggingu</w>
+  <w>nýs</w>
+  <w>sex</w>
+  <w>deilda</w>
+  <w>leikskóla</w>
+  <c>,</c>
+  <w>en</w>
+  <w>fyrir</w>
+  <w>eru</w>
+  <w>þrír</w>
+  <w>leikskólar</w>
+  <w>í</w>
+  <revision id="100">
+    <original><w>eyjunum</w></original>
+    <corrected><w>eyjunni</w></corrected>
+      <errors>
+        <error xtype="plural4singular" eid="0" />
+      </errors>
+  </revision>
+  <c>:</c>
+  <w>Rauðagerði</w>
+  <c>,</c>
+  <w>Kirkjugerði</w>
+  <w>og</w>
+  <w>Sóli</w>
+  <c>.</c>
+</s>
+<s n="122">
+  <w>Mörg</w>
+  <w>söfn</w>
+  <w>eru</w>
+  <w>í</w>
+  <w>Vestmannaeyjum</w>
+  <c>,</c>
+  <w>en</w>
+  <w>Safnahús</w>
+  <w>Vestmannaeyja</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>stendur</w>
+  <w>við</w>
+  <w>Ráðhúströð</w>
+  <c>,</c>
+  <w>hýsir</w>
+  <w>Héraðsskjalasafn</w>
+  <w>Vestmannaeyja</w>
+  <c>,</c>
+  <w>Bókasafn</w>
+  <w>Vestmannaeyja</w>
+  <w>og</w>
+  <w>Byggðasafn</w>
+  <w>Vestmannaeyja</w>
+  <c>.</c>
+</s>
+<s n="123">
+  <w>Einnig</w>
+  <w>er</w>
+  <w>þar</w>
+  <w>til</w>
+  <w>húsa</w>
+  <w>Ljósmyndasafn</w>
+  <c>.</c>
+</s>
+<s n="124">
+  <w>Við</w>
+  <w>Heiðarveg</w>
+  <w>stendur</w>
+  <w>Náttúrugripasafn</w>
+  <w>Vestmannaeyja</w>
+  <c>,</c>
+  <w>en</w>
+  <w>það</w>
+  <w>er</w>
+  <w>eina</w>
+  <w>safnið</w>
+  <w>af</w>
+  <w>sinni</w>
+  <w>gerð</w>
+  <w>á</w>
+  <w>Íslandi</w>
+  <c>.</c>
+</s>
+<s n="125">
+  <w>Við</w>
+  <w>Skansfjöru</w>
+  <w>er</w>
+  <w>húsið</w>
+  <w>Landlyst</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>var</w>
+  <w>áður</w>
+  <w>staðsett</w>
+  <w>á</w>
+  <w>Tanganum</w>
+  <c>,</c>
+  <w>suður</w>
+  <w>af</w>
+  <w>Básaskersbryggju</w>
+  <revision id="101">
+    <original><c>,</c><w>en</w><w>það</w></original>
+    <corrected><c>.</c><w>Það</w></corrected>
+      <errors>
+        <error xtype="comma4period" eid="0" />
+        <error xtype="extra-conjunction" eid="0" />
+      </errors>
+  </revision>
+  <w>hús</w>
+  <w>var</w>
+  <w>fyrsta</w>
+  <w>fæðingarheimilið</w>
+  <w>á</w>
+  <w>Íslandi</w>
+  <c>,</c>
+  <revision id="102">
+    <original><w>og</w></original>
+    <corrected><w>það</w></corrected>
+      <errors>
+        <error xtype="wording" idx="102-1" eid="0" />
+      </errors>
+  </revision>
+  <w>er</w>
+  <revision id="103">
+    <original><w>það</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="102-1" eid="0" />
+      </errors>
+  </revision>
+  <w>nú</w>
+  <w>notað</w>
+  <w>til</w>
+  <w>listsýninga</w>
+  <w>af</w>
+  <w>ýmsu</w>
+  <w>tagi</w>
+  <c>.</c>
+</s>
+<s n="126">
+  <w>Ríkisstjórn</w>
+  <w>Íslands</w>
+  <w>keypti</w>
+  <w>nýlega</w>
+  <w>afnotarétt</w>
+  <w>af</w>
+  <w>myndum</w>
+  <w>Sigmunds</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>hafa</w>
+  <w>birst</w>
+  <w>í</w>
+  <w>áraraðir</w>
+  <w>í</w>
+  <w>Morgunblaðinu</w>
+  <c>,</c>
+  <w>og</w>
+  <w>eru</w>
+  <w>áætlanir</w>
+  <w>um</w>
+  <w>að</w>
+  <w>setja</w>
+  <w>upp</w>
+  <w>safn</w>
+  <w>þeirra</w>
+  <w>í</w>
+  <w>fyrirætluðu</w>
+  <w>menningarhúsi</w>
+  <c>.</c>
+</s>
+<s n="127">
+  <w>Algengt</w>
+  <w>er</w>
+  <w>að</w>
+  <w>eldri</w>
+  <w>Vestmannaeyingar</w>
+  <w>tali</w>
+  <w>með</w>
+  <w>flámæli</w>
+  <c>,</c>
+  <w>en</w>
+  <w>það</w>
+  <w>er</w>
+  <w>óalgengara</w>
+  <w>meðal</w>
+  <w>yngri</w>
+  <w>kynslóðanna</w>
+  <c>.</c>
+</s>
+<s n="128">
+  <w>Í</w>
+  <w>einangruðum</w>
+  <w>samfélögum</w>
+  <w>á</w>
+  <w>borð</w>
+  <w>við</w>
+  <revision id="104">
+    <original><w>það</w><w>sem</w><w>er</w><w>í</w><w>Vestmannaeyjum</w><w>má</w></original>
+    <corrected><w>Vestmannaeyjar</w><w>má</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>búast</w>
+  <w>við</w>
+  <w>að</w>
+  <w>nokkuð</w>
+  <revision id="105">
+    <original><w>sértækur</w></original>
+    <corrected><w>sérstakur</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>orðaforði</w>
+  <w>verði</w>
+  <w>til</w>
+  <c>,</c>
+  <w>en</w>
+  <w>þó</w>
+  <revision id="106">
+    <original><w>er</w></original>
+    <corrected><w>má</w></corrected>
+      <errors>
+        <error xtype="wording" idx="106-1" eid="0" />
+      </errors>
+  </revision>
+  <w>flestan</w>
+  <w>orðaforða</w>
+  <w>eyjaskeggja</w>
+  <revision id="107">
+    <original><w>hægt</w><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="106-1" eid="0" />
+      </errors>
+  </revision>
+  <w>finna</w>
+  <revision id="108">
+    <original><w>annars</w><w>staðar</w></original>
+    <corrected><w>víðar</w><w>en</w><w>í</w><w>Vestmannaeyjum</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="129">
+  <w>Fræg</w>
+  <w>er</w>
+  <w>þjóðhátíð</w>
+  <w>Eyjamanna</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>haldin</w>
+  <w>er</w>
+  <w>ár</w>
+  <w>hvert</w>
+  <w>um</w>
+  <w>verslunarmannahelgi</w>
+  <w>og</w>
+  <w>dregur</w>
+  <w>til</w>
+  <w>sín</w>
+  <w>fólk</w>
+  <w>alls</w>
+  <w>staðar</w>
+  <w>að</w>
+  <w>af</w>
+  <w>landinu</w>
+  <c>.</c>
+</s>
+<s n="130">
+  <w>Til</w>
+  <w>hennar</w>
+  <w>var</w>
+  <revision id="109">
+    <original><w>fyrst</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
+  <w>stofnað</w>
+  <w>árið 1874</w>
+  <c>,</c>
+  <w>þegar</w>
+  <w>eyjaskeggjar</w>
+  <w>komust</w>
+  <w>ekki</w>
+  <w>til</w>
+  <w>hátíðahalda</w>
+  <w>í</w>
+  <w>landi</w>
+  <w>í</w>
+  <w>tengslum</w>
+  <w>við</w>
+  <w>1.000</w>
+  <w>ára</w>
+  <w>afmæli</w>
+  <w>Íslandsbyggðar</w>
+  <w>og</w>
+  <w>móttöku</w>
+  <w>fyrstu</w>
+  <w>stjórnarskrár</w>
+  <w>landsins</w>
+  <w>úr</w>
+  <w>hendi</w>
+  <w>Kristjáns</w>
+  <w>IX</w>
+  <c>,</c>
+  <w>Danakonungs</w>
+  <w>á</w>
+  <w>Þingvöllum</w>
+  <c>.</c>
+</s>
+<s n="131">
+  <w>Þá</w>
+  <w>ákváðu</w>
+  <w>Vestmannaeyingar</w>
+  <w>að</w>
+  <w>halda</w>
+  <w>sína</w>
+  <w>eigin</w>
+  <w>hátíð</w>
+  <c>.</c>
+</s>
+<s n="132">
+  <w>Sú</w>
+  <w>hefð</w>
+  <w>hefur</w>
+  <revision id="110">
+    <original><w>verið</w></original>
+    <corrected><w>skapast</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>íþróttafélög</w>
+  <w>bæjarins</w>
+  <c>,</c>
+  <w>áður</w>
+  <w>Þór</w>
+  <w>og</w>
+  <w>Týr</w>
+  <w>til</w>
+  <w>skiptis</w>
+  <w>en</w>
+  <w>eftir</w>
+  <w>sameiningu</w>
+  <w>þeirra</w>
+  <w>ÍBV</w>
+  <c>,</c>
+  <w>sjái</w>
+  <w>um</w>
+  <w>framkvæmd</w>
+  <w>þjóðhátíðarinnar</w>
+  <revision id="111">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>hljóti</w>
+  <w>gróðann</w>
+  <w>af</w>
+  <w>henni</w>
+  <c>.</c>
+</s>
+<s n="133">
+  <w>Hátíðin</w>
+  <w>er</w>
+  <w>haldin</w>
+  <w>í</w>
+  <w>Herjólfsdal</w>
+  <w>fyrstu</w>
+  <w>helgina</w>
+  <w>í</w>
+  <w>ágúst</w>
+  <w>og</w>
+  <w>eru</w>
+  <w>fastir</w>
+  <w>liðir</w>
+  <w>brenna</w>
+  <c>,</c>
+  <w>flugeldasýning</w>
+  <w>og</w>
+  <w>brekkusöngur</w>
+  <revision id="112">
+    <original><c>,</c><w>sem</w></original>
+    <corrected><c>.</c><w>Brekkusöngurinn</w></corrected>
+      <errors>
+        <error xtype="comma4period" eid="0" />
+      </errors>
+  </revision>
+  <w>hefur</w>
+  <w>verið</w>
+  <w>undir</w>
+  <w>stjórn</w>
+  <w>Árna</w>
+  <w>Johnsen</w>
+  <w>í</w>
+  <w>um</w>
+  <w>áratug</w>
+  <c>,</c>
+  <w>að</w>
+  <w>einu</w>
+  <w>ári</w>
+  <w>slepptu</w>
+  <revision id="113">
+    <original><w>á</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
+  <w>meðan</w>
+  <w>hann</w>
+  <w>sat</w>
+  <w>í</w>
+  <w>fangelsi</w>
+  <c>,</c>
+  <w>en</w>
+  <w>þá</w>
+  <w>var</w>
+  <w>Róbert</w>
+  <w>Marshall</w>
+  <w>fenginn</w>
+  <w>til</w>
+  <revision id="114">
+    <original><w>þess</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>hlaupa</w>
+  <w>í</w>
+  <w>skarðið</w>
+  <c>.</c>
+</s>
+<s n="134">
+  <w>Stífkrampafaraldur</w>
+  <w>var</w>
+  <w>í</w>
+  <w>Vestmannaeyjum</w>
+  <w>í</w>
+  <w>margar</w>
+  <w>aldir</w>
+  <c>,</c>
+  <w>sökum</w>
+  <w>bágrar</w>
+  <w>stöðu</w>
+  <w>heilbrigðismála</w>
+  <w>á</w>
+  <w>landsvísu</w>
+  <c>.</c>
+</s>
+<s n="135">
+  <w>Dánartíðni</w>
+  <w>var</w>
+  <w>há</w>
+  <w>meðal</w>
+  <w>ungabarna</w>
+  <c>,</c>
+  <w>um</w>
+  <w>60</w>
+  <c>-</c>
+  <w>80%</w>
+  <w>barna</w>
+  <w>dóu</w>
+  <w>úr</w>
+  <w>stífkrampa</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>kallaður</w>
+  <w>var</w>
+  <w>ginklofi</w>
+  <c>,</c>
+  <w>en</w>
+  <w>annars</w>
+  <w>staðar</w>
+  <w>á</w>
+  <w>Íslandi</w>
+  <w>dóu</w>
+  <w>um</w>
+  <w>30%</w>
+  <w>barna</w>
+  <w>úr</w>
+  <w>þessum</w>
+  <w>sjúkdómi</w>
+  <c>,</c>
+  <w>og</w>
+  <w>15</w>
+  <c>-</c>
+  <w>20%</w>
+  <w>í</w>
+  <w>Danmörku</w>
+  <c>.</c>
+</s>
+<s n="136">
+  <w>Thomas</w>
+  <w>Klog</w>
+  <c>,</c>
+  <w>fyrsti</w>
+  <w>landlæknir</w>
+  <w>Íslands</w>
+  <c>,</c>
+  <w>var</w>
+  <w>sendur</w>
+  <w>til</w>
+  <w>Vestmannaeyja</w>
+  <w>með</w>
+  <w>konunglegri</w>
+  <w>tilskipun</w>
+  <w>árið 1810</w>
+  <w>til</w>
+  <w>þess</w>
+  <w>að</w>
+  <w>rannsaka</w>
+  <w>orsakir</w>
+  <w>ginklofans</w>
+  <c>,</c>
+  <w>og</w>
+  <w>birti</w>
+  <w>hann</w>
+  <w>niðurstöður</w>
+  <w>sínar</w>
+  <w>í</w>
+  <w>skýrslunni</w>
+  <c>„</c>
+  <w>Indberettninger</w>
+  <w>om</w>
+  <w>Börnesygdommen</w>
+  <w>Ginklofi</w>
+  <c>“</c>
+  <c>.</c>
+</s>
+<s n="137">
+  <w>Seinna</w>
+  <w>varð</w>
+  <w>staða</w>
+  <w>héraðslæknis</w>
+  <w>í</w>
+  <w>Vestmannaeyjum</w>
+  <w>til</w>
+  <c>,</c>
+  <w>og</w>
+  <w>gegndu</w>
+  <revision id="115">
+    <original></original>
+    <corrected><w>því</w><w>embætti</w><w>hver</w><w>á</w><w>fætur</w><w>öðrum</w><w>frá</w><w>árinu 1828</w><c>:</c></corrected>
+      <errors>
+        <error xtype="wording" idx="115-1" eid="0" />
+      </errors>
+  </revision>
+  <w>Carl</w>
+  <w>Ferdinand</w>
+  <w>Lund</w>
+  <c>,</c>
+  <w>Carl</w>
+  <w>Hans</w>
+  <w>Ulrich</w>
+  <w>Balbroe</w>
+  <c>,</c>
+  <w>Andreas</w>
+  <w>Steener</w>
+  <w>Iversen</w>
+  <w>Haaland</w>
+  <c>,</c>
+  <w>August</w>
+  <w>Ferdinand</w>
+  <w>Schneider</w>
+  <w>og</w>
+  <w>Philip</w>
+  <w>Theodor</w>
+  <w>Davidsen</w>
+  <revision id="116">
+    <original><w>því</w><w>embætti</w><w>hver</w><w>á</w><w>fætur</w><w>öðrum</w><w>frá</w><w>árinu 1828</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="115-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="138">
+  <w>Þrátt</w>
+  <w>fyrir</w>
+  <w>héraðslæknana</w>
+  <w>breyttist</w>
+  <w>ástandið</w>
+  <w>lítið</w>
+  <c>,</c>
+  <w>og</w>
+  <w>engin</w>
+  <w>breyting</w>
+  <w>varð</w>
+  <w>á</w>
+  <w>dánartíðni</w>
+  <w>barna</w>
+  <w>þó</w>
+  <w>svo</w>
+  <revision id="118">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
+  <w>almenn</w>
+  <w>heilsa</w>
+  <w>Vestmannaeyinga</w>
+  <w>skánaði</w>
+  <c>.</c>
+</s>
+<s n="139">
+  <w>Árið 1847</w>
+  <w>var</w>
+  <w>Peter</w>
+  <w>Anton</w>
+  <w>Schleisner</w>
+  <w>sendur</w>
+  <w>til</w>
+  <w>Vestmannaeyja</w>
+  <w>til</w>
+  <w>þess</w>
+  <w>að</w>
+  <w>rannsaka</w>
+  <w>ginklofann</w>
+  <c>.</c>
+</s>
+<s n="140">
+  <w>Hann</w>
+  <w>hafði</w>
+  <w>ritað</w>
+  <w>grein</w>
+  <w>um</w>
+  <w>barnafarsótt</w>
+  <w>árinu</w>
+  <w>áður</w>
+  <c>,</c>
+  <w>og</w>
+  <w>er</w>
+  <w>það</w>
+  <w>líkleg</w>
+  <w>ástæða</w>
+  <w>þess</w>
+  <w>að</w>
+  <w>hann</w>
+  <w>var</w>
+  <w>sendur</w>
+  <revision id="119">
+    <original></original>
+    <corrected><w>hingað</w><w>til</w><w>lands</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="141">
+  <w>Hann</w>
+  <w>setti</w>
+  <w>á</w>
+  <w>laggirnar</w>
+  <w>fæðingarheimili</w>
+  <w>í</w>
+  <w>húsinu</w>
+  <w>Landlyst</w>
+  <c>,</c>
+  <w>sem</w>
+  <revision id="120">
+    <original><w>var</w><w>þá</w></original>
+    <corrected><w>varð</w></corrected>
+      <errors>
+        <error xtype="aux" eid="0" />
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
+  <w>fyrsta</w>
+  <w>fæðingarheimili</w>
+  <w>Íslands</w>
+  <c>.</c>
+</s>
+<s n="142">
+  <w>Hann</w>
+  <w>lagði</w>
+  <w>til</w>
+  <w>breytingar</w>
+  <w>á</w>
+  <w>hreinlæti</w>
+  <w>við</w>
+  <w>fæðingar</w>
+  <c>,</c>
+  <w>og</w>
+  <w>benti</w>
+  <w>líka</w>
+  <w>á</w>
+  <w>að</w>
+  <w>hengja</w>
+  <w>upp</w>
+  <w>þvott</w>
+  <w>til</w>
+  <w>þerris</w>
+  <w>á</w>
+  <w>þvottasnúrum</w>
+  <w>frekar</w>
+  <w>en</w>
+  <w>að</w>
+  <w>láta</w>
+  <w>hann</w>
+  <w>liggja</w>
+  <w>í</w>
+  <revision id="121">
+    <original><w>grasinu-það</w></original>
+    <corrected><w>grasinu</w><c>.</c><w>Það</w></corrected>
+      <errors>
+        <error xtype="missing-space" eid="0" />
+        <error xtype="dash4period" eid="0" />
+        <error xtype="missing-space" eid="0" />
+      </errors>
+  </revision>
+  <w>kom</w>
+  <w>svo</w>
+  <w>í</w>
+  <w>ljós</w>
+  <w>að</w>
+  <w>það</w>
+  <w>var</w>
+  <w>aðalorsök</w>
+  <w>faraldursins</w>
+  <c>,</c>
+  <w>þar</w>
+  <w>sem</w>
+  <revision id="122">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="122-1" eid="0" />
+        <error xtype="style" idx="122-1" eid="0" />
+      </errors>
+  </revision>
+  <w>sýkillinn</w>
+  <w>clostridum</w>
+  <w>tetani</w>
+  <w>lifir</w>
+  <w>í</w>
+  <w>jarðvegi</w>
+  <c>,</c>
+  <w>og</w>
+  <w>smitaðist</w>
+  <w>yfir</w>
+  <w>í</w>
+  <w>fötin</w>
+  <c>,</c>
+  <w>og</w>
+  <w>frá</w>
+  <w>þeim</w>
+  <w>inn</w>
+  <w>um</w>
+  <w>naflastreng</w>
+  <w>barnanna</w>
+  <c>.</c>
+</s>
+<s n="143">
+  <w>Farþegaskipið</w>
+  <w>Herjólfur</w>
+  <w>var</w>
+  <w>smíðað</w>
+  <w>í</w>
+  <w>Noregi</w>
+  <w>árið 1992</w>
+  <c>.</c>
+</s>
+<s n="144">
+  <w>Skipið</w>
+  <w>siglir</w>
+  <w>alla</w>
+  <w>daga</w>
+  <w>vikunnar</w>
+  <w>tvær</w>
+  <w>ferðir</w>
+  <w>á</w>
+  <w>dag</w>
+  <c>,</c>
+  <w>og</w>
+  <w>tekur</w>
+  <w>skipið</w>
+  <w>500</w>
+  <w>farþega</w>
+  <w>og</w>
+  <w>um</w>
+  <w>40</w>
+  <w>fólksbíla</w>
+  <c>.</c>
+</s>
+<s n="145">
+  <w>Aðeins</w>
+  <w>eitt</w>
+  <w>flugfélag</w>
+  <w>stundar</w>
+  <w>flugferðir</w>
+  <w>til</w>
+  <w>og</w>
+  <w>frá</w>
+  <revision id="123">
+    <original><w>til</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
+  <w>Vestmannaeyjum</w>
+  <w>og</w>
+  <w>er</w>
+  <w>það</w>
+  <w>Flugfélagið</w>
+  <w>Ernir</w>
+  <revision id="124">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>flýgur</w>
+  <w>á</w>
+  <w>Hornafjörð</w>
+  <c>,</c>
+  <w>Sauðárkrók</w>
+  <c>,</c>
+  <w>Bíldudal</w>
+  <c>,</c>
+  <w>Gjögur</w>
+  <w>og</w>
+  <w>Reykjavík</w>
+  <c>.</c>
+</s>
+<s n="146">
+  <w>Forveri</w>
+  <w>þess</w>
+  <w>var</w>
+  <w>Flugfélag</w>
+  <w>Vestmannaeyja</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>missti</w>
+  <w>rekstrarleyfi</w>
+  <w>sitt</w>
+  <w>í</w>
+  <w>maí 2010</w>
+  <c>.</c>
+</s>
+<s n="147">
+  <w>Á</w>
+  <w>Heimaey</w>
+  <w>eru</w>
+  <w>66</w>
+  <w>götur</w>
+  <w>innan</w>
+  <w>bæjarmarkanna</w>
+  <c>,</c>
+  <w>og</w>
+  <w>nokkrar</w>
+  <w>utan</w>
+  <w>þeirra</w>
+  <c>.</c>
+</s>
+<s n="148">
+  <w>Lengsta</w>
+  <w>gatan</w>
+  <w>heitir</w>
+  <w>Vestmannabraut</w>
+  <c>,</c>
+  <w>en</w>
+  <w>hét</w>
+  <w>áður</w>
+  <w>Breiðholtsvegur</w>
+  <c>.</c>
+</s>
+<s n="149">
+  <w>Flestir</w>
+  <w>íbúar</w>
+  <w>búa</w>
+  <w>við</w>
+  <w>Áshamar</w>
+  <w>en</w>
+  <w>fæstir</w>
+  <w>við</w>
+  <w>Austurgerði</w>
+  <c>,</c>
+  <w>Njarðarstíg</w>
+  <w>og</w>
+  <w>Ofanleitisveg</w>
+  <c>.</c>
+</s>
+<s n="150">
+  <w>Í</w>
+  <w>götuheitum</w>
+  <w>í</w>
+  <w>Vestmannaeyjum</w>
+  <w>er</w>
+  <w>að</w>
+  <w>finna</w>
+  <w>nokkur</w>
+  <w>íslensk</w>
+  <w>heiti</w>
+  <w>yfir</w>
+  <w>götu</w>
+  <w>eða</w>
+  <w>veg</w>
+  <c>.</c>
+</s>
+<s n="151">
+  <w>Orðin</w>
+  <w>eru</w>
+  <revision id="125">
+    <original><w>eru</w><c>„</c></original>
+    <corrected><c>:</c><c>,</c><c>-</c></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+        <error xtype="wrong-quots" eid="0" />
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>vegur</w>
+  <revision id="126">
+    <original><c>“</c></original>
+    <corrected><c>‘</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <revision id="127">
+    <original><c>„</c></original>
+    <corrected><c>,</c><c>-</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>stígur</w>
+  <revision id="128">
+    <original><c>“</c></original>
+    <corrected><c>‘</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <revision id="129">
+    <original><c>„</c></original>
+    <corrected><c>,</c><c>-</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>slóð</w>
+  <revision id="130">
+    <original><c>“</c></original>
+    <corrected><c>‘</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <revision id="131">
+    <original><c>„</c></original>
+    <corrected><c>,</c><c>-</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>gata</w>
+  <revision id="132">
+    <original><c>“</c></original>
+    <corrected><c>‘</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <revision id="133">
+    <original><c>„</c></original>
+    <corrected><c>,</c><c>-</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>braut</w>
+  <revision id="134">
+    <original><c>“</c></original>
+    <corrected><c>‘</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <revision id="135">
+    <original><c>„</c></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
+  <w>stræti</w>
+  <revision id="136">
+    <original><c>“</c></original>
+    <corrected><c>‘</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <revision id="137">
+    <original><c>„</c></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
+  <w>sund</w>
+  <revision id="138">
+    <original><c>“</c></original>
+    <corrected><c>‘</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <revision id="139">
+    <original><c>„</c></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
+  <w>traðir</w>
+  <revision id="140">
+    <original><c>“</c></original>
+    <corrected><c>‘</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="152">
+  <w>Á</w>
+  <w>síðustu</w>
+  <w>árum</w>
+  <w>hafa</w>
+  <w>miklar</w>
+  <w>vangaveltur</w>
+  <w>verið</w>
+  <revision id="141">
+    <original></original>
+    <corrected><w>uppi</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>um</w>
+  <w>hvort</w>
+  <w>mögulegt</w>
+  <w>sé</w>
+  <w>að</w>
+  <w>gera</w>
+  <w>jarðgöng</w>
+  <w>til</w>
+  <w>Vestmannaeyja</w>
+  <w>og</w>
+  <w>hefur</w>
+  <w>áhugamannafélagið</w>
+  <w>Ægisdyr</w>
+  <w>verið</w>
+  <w>stofnað</w>
+  <w>um</w>
+  <w>gerð</w>
+  <w>slíkra</w>
+  <w>ganga</w>
+  <c>.</c>
+</s>
+<s n="153">
+  <w>Vestmannaeyingar</w>
+  <w>eru</w>
+  <w>ekki</w>
+  <w>allir</w>
+  <w>sammála</w>
+  <w>um</w>
+  <w>að</w>
+  <w>göng</w>
+  <w>séu</w>
+  <w>rétta</w>
+  <w>lausnin</w>
+  <c>,</c>
+  <w>en</w>
+  <w>þó</w>
+  <w>eru</w>
+  <revision id="142">
+    <original><w>eyjamenn</w></original>
+    <corrected><w>Eyjamenn</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
+  <w>upp</w>
+  <w>til</w>
+  <w>hópa</w>
+  <w>sammála</w>
+  <w>um</w>
+  <w>að</w>
+  <w>samgöngur</w>
+  <w>milli</w>
+  <w>lands</w>
+  <w>og</w>
+  <w>eyja</w>
+  <w>þurfi</w>
+  <w>að</w>
+  <w>bæta</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

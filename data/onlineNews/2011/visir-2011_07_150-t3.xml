@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Jóhanna</w>
+  <w>Sigurðardóttir</w>
+  <revision id="1">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-commas" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>forsætisráðherra</w>
+  <w>Íslands</w>
+  <revision id="2">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>mun</w>
+  <w>eiga</w>
+  <w>fund</w>
+  <w>með</w>
+  <w>Angelu</w>
+  <w>Merkel</w>
+  <w>kanslara</w>
+  <w>Þýskalands</w>
+  <w>á</w>
+  <w>mánudaginn</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Merkel</w>
+  <w>boðaði</w>
+  <w>Jóhönnu</w>
+  <w>til</w>
+  <w>fundarins</w>
+  <w>og</w>
+  <w>munu</w>
+  <w>þær</w>
+  <revision id="3">
+    <original><w>stöllur</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
+  <w>hittast</w>
+  <w>klukkan ellefu</w>
+  <w>á</w>
+  <w>mánudagsmorgun</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Ekki</w>
+  <w>fæst</w>
+  <w>uppgefið</w>
+  <w>hvert</w>
+  <w>tilefni</w>
+  <w>fundarins</w>
+  <w>er</w>
+  <c>,</c>
+  <w>annað</w>
+  <w>en</w>
+  <w>að</w>
+  <w>Merkel</w>
+  <w>hafi</w>
+  <w>boðað</w>
+  <w>til</w>
+  <w>hans</w>
+  <c>,</c>
+  <w>en</w>
+  <w>Þýskaland</w>
+  <w>hefur</w>
+  <w>borið</w>
+  <w>hitann</w>
+  <w>og</w>
+  <revision id="4">
+    <original><w>þungan</w></original>
+    <corrected><w>þungann</w></corrected>
+      <errors>
+        <error xtype="n4nn" eid="0" />
+      </errors>
+  </revision>
+  <w>af</w>
+  <w>björgunaraðgerðum</w>
+  <w>Evrópusambandsins</w>
+  <revision id="5">
+    <original><w>handa</w><w>Grikkjum</w></original>
+    <corrected><w>fyrir</w><w>Grikki</w></corrected>
+      <errors>
+        <error xtype="wording" idx="5-1" eid="0" />
+        <error xtype="dep" depId="5-1" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>fleiri</w>
+  <revision id="6">
+    <original><w>suður</w><w>Evrópu</w><w>þjóðum</w></original>
+    <corrected><w>Suður-Evrópuþjóðir</w></corrected>
+      <errors>
+        <error xtype="missing-dash" idx="6-1" eid="0" />
+        <error xtype="split-compound" idx="6-2" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Jóhanna</w>
+  <w>flýgur</w>
+  <w>að</w>
+  <w>öllum</w>
+  <w>líkindum</w>
+  <w>til</w>
+  <w>Þýskalands</w>
+  <w>á</w>
+  <w>morgun</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

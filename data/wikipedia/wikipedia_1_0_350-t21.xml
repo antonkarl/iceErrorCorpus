@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Íslandsmót</w>
+  <w>karla</w>
+  <w>í</w>
+  <w>íshokkí</w>
+  <w>er</w>
+  <w>efsta</w>
+  <w>deild</w>
+  <w>í</w>
+  <w>íshokkí</w>
+  <w>á</w>
+  <w>Íslandi</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Fjögur</w>
+  <w>lið</w>
+  <w>keppa</w>
+  <w>í</w>
+  <w>deildinni</w>
+  <c>:</c>
+  <w>Skautafélag</w>
+  <w>Akureyrar</w>
+  <c>,</c>
+  <w>Skautafélag</w>
+  <w>Reykjavíkur</w>
+  <c>,</c>
+  <w>Björninn</w>
+  <w>og</w>
+  <w>UMSK</w>
+  <w>Esja</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Íshokkí</w>
+  <w>á</w>
+  <w>Íslandi</w>
+  <w>var</w>
+  <w>upprunalega</w>
+  <w>leikið</w>
+  <w>á</w>
+  <w>tjörnum</w>
+  <w>og</w>
+  <w>ám</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Veðrið</w>
+  <w>gerði</w>
+  <revision id="1">
+    <original></original>
+    <corrected><w>leikmönnum</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>erfitt</w>
+  <w>fyrir</w>
+  <w>að</w>
+  <w>spila</w>
+  <w>og</w>
+  <revision id="2">
+    <original><w>gerðu</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
+  <w>aðstæður</w>
+  <w>mjög</w>
+  <w>krefjandi</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>1987</w>
+  <w>var</w>
+  <w>fyrsta</w>
+  <w>vélfrysta</w>
+  <w>skautasvellið</w>
+  <w>byggt</w>
+  <w>á</w>
+  <w>Akureyri</w>
+  <w>og</w>
+  <w>fyrsta</w>
+  <w>skautahöllin</w>
+  <w>var</w>
+  <w>byggð</w>
+  <w>í</w>
+  <w>Reykjavík</w>
+  <w>1997</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Síðan</w>
+  <w>var</w>
+  <w>reist</w>
+  <w>skautahöll</w>
+  <w>á</w>
+  <w>Akureyri</w>
+  <w>árið 2000</w>
+  <w>og</w>
+  <w>svo</w>
+  <w>í</w>
+  <w>Egilshöll</w>
+  <w>í</w>
+  <w>Reykjavík</w>
+  <w>2003</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>Fyrsta</w>
+  <w>deildin</w>
+  <w>í</w>
+  <w>íshokkí</w>
+  <w>var</w>
+  <w>stofnuð</w>
+  <w>1991</w>
+  <w>með</w>
+  <w>þremur</w>
+  <w>liðum</w>
+  <c>(</c>
+  <w>SA</w>
+  <c>,</c>
+  <w>SR</w>
+  <w>og</w>
+  <w>Björninn</w>
+  <c>)</c>
+  <w>Deildin</w>
+  <w>byrjar</w>
+  <w>venjulega</w>
+  <w>í</w>
+  <w>september</w>
+  <w>og</w>
+  <revision id="3">
+    <original></original>
+    <corrected><w>henni</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>lýkur</w>
+  <w>í</w>
+  <w>mars</w>
+  <w>eða</w>
+  <w>apríl</w>
+  <c>.</c>
+</s>
+<s n="8">
+  <revision id="4">
+    <original><w>á</w><w>Akureyri</w><c>"</c></original>
+    <corrected>></corrected>
+      <errors>
+        <error xtype="extra-words" idx="4-1" eid="0" />
+        <error xtype="extra-quot" idx="4-2" eid="0" />
+      </errors>
+  </revision>
+</s>
+<s n="9">
+  <revision id="5">
+    <original><w>Í</w><w>Reykjavík</w></original>
+    <corrected>></corrected>
+      <errors>
+        <error xtype="extra-words" eid="0" />
+      </errors>
+  </revision>
+</s>
+<s n="10">
+  <revision id="6">
+    <original><w>Tímabil</w><c>:</c></original>
+    <corrected>></corrected>
+      <errors>
+        <error xtype="extra-word" idx="6-1" eid="0" />
+        <error xtype="extra-colon" idx="6-2" eid="0" />
+      </errors>
+  </revision>
+</s>
+</p></body></text>
+</TEI>

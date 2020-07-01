@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Afríka</w>
+  <w>sunnan</w>
+  <w>Sahara</w>
+  <w>eru</w>
+  <w>öll</w>
+  <w>þau</w>
+  <w>lönd</w>
+  <w>í</w>
+  <w>Afríku</w>
+  <w>sem</w>
+  <w>ekki</w>
+  <w>teljast</w>
+  <w>til</w>
+  <w>Norður-Afríku</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Á</w>
+  <w>19.</w>
+  <w>öld</w>
+  <w>var</w>
+  <w>talað</w>
+  <w>um</w>
+  <w>þennan</w>
+  <w>heimshluta</w>
+  <w>sem</w>
+  <c>„</c>
+  <w>hið</w>
+  <w>myrka</w>
+  <w>meginland</w>
+  <c>“</c>
+  <revision id="1">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-commas" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>eða</w>
+  <c>„</c>
+  <w>svörtustu</w>
+  <w>Afríku</w>
+  <c>“</c>
+  <revision id="2">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>hluta</w>
+  <w>vegna</w>
+  <w>hörundslitar</w>
+  <w>íbúanna</w>
+  <revision id="3">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>en</w>
+  <w>einnig</w>
+  <w>vegna</w>
+  <w>þess</w>
+  <w>að</w>
+  <w>stórir</w>
+  <w>hlutar</w>
+  <w>þessa</w>
+  <w>svæðis</w>
+  <w>höfðu</w>
+  <w>ekki</w>
+  <w>verið</w>
+  <w>kannaðir</w>
+  <w>eða</w>
+  <w>kortlagðir</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

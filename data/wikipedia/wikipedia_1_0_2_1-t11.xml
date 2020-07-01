@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Bjúgormar</w>
+  <c>(</c>
+  <w>fræðiheiti</w>
+  <c>:</c>
+  <c>&quot;</c>
+  <w>Priapulida</w>
+  <c>&quot;</c>
+  <c>)</c>
+  <w>eru</w>
+  <w>ætt</w>
+  <w>orma</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Eingöngu</w>
+  <w>hafa</w>
+  <w>fundist</w>
+  <w>16</w>
+  <w>tegundir</w>
+  <w>í</w>
+  <w>heiminum</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Þeir</w>
+  <w>eru</w>
+  <w>0,5 cm</w>
+  <w>til</w>
+  <w>20 cm</w>
+  <w>að</w>
+  <w>stærð</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Stærri</w>
+  <w>bjúgormar</w>
+  <w>eru</w>
+  <w>mest</w>
+  <w>á</w>
+  <w>kaldari</w>
+  <w>svæðum</w>
+  <w>bæði</w>
+  <w>á</w>
+  <w>norður-og</w>
+  <w>suðurhveli</w>
+  <w>jarðar</w>
+  <w>frá</w>
+  <revision id="1">
+    <original><w>6 m</w></original>
+    <corrected><w>6</w><w>metrum</w></corrected>
+      <errors>
+        <error xtype="extra-abbreviation" eid="0" />
+      </errors>
+  </revision>
+  <w>niður</w>
+  <w>á</w>
+  <revision id="2">
+    <original><w>7500 m</w></original>
+    <corrected><w>7500</w><w>metra</w></corrected>
+      <errors>
+        <error xtype="extra-abbreviation" eid="0" />
+      </errors>
+  </revision>
+  <w>dýpi</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Smærri</w>
+  <w>ormarnir</w>
+  <w>í</w>
+  <w>bálknum</w>
+  <w>halda</w>
+  <w>sig</w>
+  <w>á</w>
+  <w>heitari</w>
+  <w>svæðum</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Þeir</w>
+  <w>bora</w>
+  <w>sig</w>
+  <w>í</w>
+  <w>drullu</w>
+  <w>og</w>
+  <w>sand</w>
+  <w>á</w>
+  <w>sjávarbotninum</w>
+  <revision id="3">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <revision id="4">
+    <original></original>
+    <corrected><w>er</w></corrected>
+      <errors>
+        <error xtype="dep" depId="5-1" eid="0" />
+      </errors>
+  </revision>
+  <w>næg</w>
+  <w>fæða</w>
+  <revision id="5">
+    <original><w>er</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wording" idx="5-1" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>þeir</w>
+  <w>geta</w>
+  <w>nært</w>
+  <w>sig</w>
+  <w>á</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>Allar</w>
+  <w>þekktar</w>
+  <w>tegundir</w>
+  <w>bjúgorma</w>
+  <w>eiga</w>
+  <w>heima</w>
+  <w>í</w>
+  <w>sjó</w>
+  <w>og</w>
+  <w>eru</w>
+  <w>botnlægar</w>
+  <w>tegundir</w>
+  <w>sem</w>
+  <w>þýðir</w>
+  <w>að</w>
+  <w>þær</w>
+  <revision id="6">
+    <original><w>búi</w></original>
+    <corrected><w>búa</w></corrected>
+      <errors>
+        <error xtype="sub4ind" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>botninum</w>
+  <c>.</c>
+</s>
+<s n="8">
+  <w>Ormarnir</w>
+  <w>geta</w>
+  <w>búið</w>
+  <w>á</w>
+  <w>svæðum</w>
+  <w>þar</w>
+  <w>sem</w>
+  <w>er</w>
+  <w>lítil</w>
+  <w>selta</w>
+  <w>alveg</w>
+  <w>niður</w>
+  <w>í</w>
+  <w>6‰</w>
+  <w>í</w>
+  <w>Eystrasalti</w>
+  <w>og</w>
+  <w>á</w>
+  <w>svæðum</w>
+  <w>þar</w>
+  <w>sem</w>
+  <w>lítið</w>
+  <w>súrefnismagn</w>
+  <w>er</w>
+  <w>í</w>
+  <w>sjó</w>
+  <w>niður</w>
+  <w>í</w>
+  <w>2</w>
+  <w>mL</w>
+  <c>/</c>
+  <w>L.</w>
+  <w>Helsta</w>
+  <w>fæða</w>
+  <w>bjúgorma</w>
+  <w>eru</w>
+  <w>hægfara</w>
+  <w>lífverur</w>
+  <w>sem</w>
+  <w>eru</w>
+  <w>á</w>
+  <w>sama</w>
+  <w>búsvæði</w>
+  <w>og</w>
+  <w>bjúgormarnir</w>
+  <c>,</c>
+  <w>oft</w>
+  <w>smærri</w>
+  <w>ormar</w>
+  <w>eins</w>
+  <w>og</w>
+  <w>burstormar</w>
+  <c>(</c>
+  <w>fræðiheiti</w>
+  <c>:</c>
+  <w><i>Polychatete</i></w>
+  <c>)</c>
+  <c>.</c>
+</s>
+<s n="9">
+  <w>Bjúgormar</w>
+  <w>finnast</w>
+  <w>víða</w>
+  <w>við</w>
+  <w>Ísland</w>
+  <w>og</w>
+  <w>eru</w>
+  <w>algengir</w>
+  <w>á</w>
+  <w>leir</w>
+  <w>og</w>
+  <w>sandbotni</w>
+  <c>.</c>
+</s>
+<s n="10">
+  <w>Á</w>
+  <w>fremri</w>
+  <w>hluta</w>
+  <w>búksins</w>
+  <w>er</w>
+  <w>útsetjanlegur</w>
+  <w>munnur</w>
+  <w>og</w>
+  <w>getur</w>
+  <w>ormurinn</w>
+  <w>einnig</w>
+  <w>notað</w>
+  <w>þennan</w>
+  <w>hluta</w>
+  <w>til</w>
+  <w>að</w>
+  <w>ýta</w>
+  <w>sér</w>
+  <w>áfram</w>
+  <w>og</w>
+  <w>bora</w>
+  <w>sig</w>
+  <w>ofan</w>
+  <w>í</w>
+  <w>leðjuna</w>
+  <w>eða</w>
+  <w>sandinn</w>
+  <c>.</c>
+</s>
+<s n="11">
+  <w>Um</w>
+  <w>öndun</w>
+  <w>er</w>
+  <w>lítið</w>
+  <w>vitað</w>
+  <w>en</w>
+  <w>ætla</w>
+  <w>má</w>
+  <w>að</w>
+  <w>fálmararnir</w>
+  <w>sem</w>
+  <w>standa</w>
+  <w>aftur</w>
+  <w>úr</w>
+  <w>séu</w>
+  <w>notaðir</w>
+  <w>til</w>
+  <w>þess</w>
+  <c>.</c>
+</s>
+<s n="12">
+  <w>Þessir</w>
+  <w>fálmarar</w>
+  <w>hafa</w>
+  <w>mikið</w>
+  <w>yfirborð</w>
+  <c>.</c>
+</s>
+<s n="13">
+  <w>Búkurinn</w>
+  <w>er</w>
+  <w>umlukinn</w>
+  <w>hrjúfu</w>
+  <revision id="7">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>smáu</w>
+  <w>hreistri</w>
+  <w>og</w>
+  <w>undir</w>
+  <w>því</w>
+  <w>eru</w>
+  <revision id="8">
+    <original><w>þykir</w></original>
+    <corrected><w>þykkir</w></corrected>
+      <errors>
+        <error xtype="missing-letter" eid="0" />
+      </errors>
+  </revision>
+  <w>vöðvar</w>
+  <w>sem</w>
+  <w>umlykja</w>
+  <w>líkamsholið</w>
+  <c>.</c>
+</s>
+<s n="14">
+  <w>Munnholið</w>
+  <w>nær</w>
+  <w>svo</w>
+  <w>inn</w>
+  <w>í</w>
+  <w>þetta</w>
+  <w>vöðvahol</w>
+  <revision id="9">
+    <original><c>.</c><w>En</w></original>
+    <corrected><w>en</w></corrected>
+      <errors>
+        <error xtype="period-plus-conjunction" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>því</w>
+  <w>eru</w>
+  <w>næringarefni</w>
+  <w>úr</w>
+  <w>fæðunni</w>
+  <w>tekin</w>
+  <w>upp</w>
+  <w>og</w>
+  <w>að</w>
+  <w>lokum</w>
+  <w>fer</w>
+  <w>fæðan</w>
+  <w>út</w>
+  <w>um</w>
+  <w>endaþarminn</w>
+  <c>.</c>
+</s>
+<s n="15">
+  <w>Bjúgormar</w>
+  <w>hafa</w>
+  <w>enga</w>
+  <w>blóðrás</w>
+  <w>eða</w>
+  <w>neitt</w>
+  <w>hringrásarkerfi</w>
+  <revision id="10">
+    <original><w>að</w></original>
+    <corrected><w>af</w></corrected>
+      <errors>
+        <error xtype="að4af" eid="0" />
+      </errors>
+  </revision>
+  <w>nokkrum</w>
+  <w>toga</w>
+  <c>.</c>
+</s>
+<s n="16">
+  <w>Taugakerfið</w>
+  <w>er</w>
+  <w>einfalt</w>
+  <c>,</c>
+  <revision id="11">
+    <original><w>taugaenda</w><w>hringur</w></original>
+    <corrected><w>taugaendahringur</w></corrected>
+      <errors>
+        <error xtype="split-compound" eid="0" />
+      </errors>
+  </revision>
+  <w>við</w>
+  <w>munnopið</w>
+  <w>og</w>
+  <w>svo</w>
+  <w>er</w>
+  <w>taug</w>
+  <w>sem</w>
+  <w>nær</w>
+  <w>aftur</w>
+  <w>í</w>
+  <w>endann</w>
+  <w>á</w>
+  <w>orminum</w>
+  <w>þar</w>
+  <w>sem</w>
+  <w>endaþarmurinn</w>
+  <w>er</w>
+  <c>.</c>
+</s>
+<s n="17">
+  <w>Bjúgormar</w>
+  <w>eru</w>
+  <w>af</w>
+  <w>tveimur</w>
+  <w>kynjum</w>
+  <c>:</c>
+  <w>karldýr</w>
+  <w>og</w>
+  <w>kvendýr</w>
+  <c>.</c>
+</s>
+<s n="18">
+  <w>Kynfæri</w>
+  <w>þeirra</w>
+  <w>eru</w>
+  <w>nálægt</w>
+  <w>endaþarmsopi</w>
+  <w>og</w>
+  <w>opnast</w>
+  <w>á</w>
+  <w>annarri</w>
+  <w>hlið</w>
+  <w>dýrsins</w>
+  <c>.</c>
+</s>
+<s n="19">
+  <w>Frjóvgun</w>
+  <w>á</w>
+  <w>sér</w>
+  <w>stað</w>
+  <w>þegar</w>
+  <w>að</w>
+  <w>sáðfrumur</w>
+  <w>karldýrsins</w>
+  <w>frjóvga</w>
+  <w>egg</w>
+  <w>kvendýrsins</w>
+  <w>útvortis</w>
+  <w>hjá</w>
+  <w>flestum</w>
+  <w>tegundum</w>
+  <w>í</w>
+  <w>fylkingunni</w>
+  <c>.</c>
+</s>
+<s n="20">
+  <w>Hrygningartímabilið</w>
+  <w>er</w>
+  <w>talið</w>
+  <w>vera</w>
+  <w>í</w>
+  <w>desember</w>
+  <w>til</w>
+  <w>janúar</w>
+  <w>í</w>
+  <w>Eystrasalti</w>
+  <c>,</c>
+  <w>þó</w>
+  <w>hefur</w>
+  <w>tekist</w>
+  <w>að</w>
+  <w>rækta</w>
+  <w>ormana</w>
+  <w>á</w>
+  <w>rannsóknarstofu</w>
+  <w>frá</w>
+  <w>október</w>
+  <w>til</w>
+  <w>apríl</w>
+  <c>,</c>
+  <w>þá</w>
+  <w>hafa</w>
+  <w>rannsóknir</w>
+  <w>á</w>
+  <w>ormum</w>
+  <w>sem</w>
+  <w>komnir</w>
+  <w>eru</w>
+  <w>að</w>
+  <w>hrygningu</w>
+  <w>sýnt</w>
+  <w>að</w>
+  <w>karldýrið</w>
+  <w>sleppir</w>
+  <w>sæðinu</w>
+  <w>fyrst</w>
+  <w>og</w>
+  <w>svo</w>
+  <w>hrygndu</w>
+  <w>kvendýrin</w>
+  <w>eggjum</w>
+  <w>á</w>
+  <w>eftir</w>
+  <c>.</c>
+</s>
+<s n="21">
+  <w>Dýrin</w>
+  <w>gerðu</w>
+  <w>þetta</w>
+  <w>aðeins</w>
+  <w>þegar</w>
+  <w>komið</w>
+  <w>var</w>
+  <w>rökkur</w>
+  <w>eða</w>
+  <w>nótt</w>
+  <c>.</c>
+</s>
+<s n="22">
+  <w>Eggin</w>
+  <w>klekjast</w>
+  <w>eftir</w>
+  <w>um</w>
+  <w>það</w>
+  <w>bil</w>
+  <w>100</w>
+  <w>daggráður</w>
+  <w>eða</w>
+  <w>eftir</w>
+  <w>tíu</w>
+  <w>daga</w>
+  <w>við</w>
+  <w>10° C</w>
+  <c>.</c>
+</s>
+<s n="23">
+  <w>Þá</w>
+  <w>klekjast</w>
+  <w>lirfurnar</w>
+  <w>út</w>
+  <w>og</w>
+  <w>það</w>
+  <w>tekur</w>
+  <w>þær</w>
+  <w>sjö</w>
+  <w>mánuði</w>
+  <w>að</w>
+  <w>verða</w>
+  <w>að</w>
+  <w>ormi</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

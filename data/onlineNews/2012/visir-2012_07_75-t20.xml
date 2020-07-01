@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>David</w>
+  <w>Beckham</w>
+  <w>og</w>
+  <w>Thierry</w>
+  <w>Henry</w>
+  <w>verða</w>
+  <w>í</w>
+  <w>stjörnuliði</w>
+  <w>MLS-deildarinnar</w>
+  <w>sem</w>
+  <w>mun</w>
+  <w>mæta</w>
+  <w>Chelsea</w>
+  <w>í</w>
+  <w>stjörnuleik</w>
+  <w>MLS-deildarinnar</w>
+  <w>þann</w>
+  <w>25. júlí</w>
+  <w>næstkomandi</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Líkt</w>
+  <w>og</w>
+  <w>í</w>
+  <w>öðrum</w>
+  <w>bandarískum</w>
+  <w>íþróttum</w>
+  <w>eru</w>
+  <w>það</w>
+  <w>aðdáendurnir</w>
+  <w>sem</w>
+  <w>velja</w>
+  <w>í</w>
+  <w>liðið</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Það</w>
+  <w>er</w>
+  <w>aftur</w>
+  <w>á</w>
+  <w>móti</w>
+  <w>þjálfari</w>
+  <w>liðsins</w>
+  <w>sem</w>
+  <w>velur</w>
+  <w>byrjunarliðið</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Landon</w>
+  <w>Donovan</w>
+  <w>er</w>
+  <w>í</w>
+  <w>liðinu</w>
+  <w>en</w>
+  <w>hann</w>
+  <w>hefur</w>
+  <w>verið</w>
+  <w>valinn</w>
+  <w>í</w>
+  <w>stjörnuliðið</w>
+  <w>tólf</w>
+  <w>ár</w>
+  <w>í</w>
+  <w>röð</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <revision id="1">
+    <original><w>Hérna</w><w>er</w></original>
+    <corrected><w>Hér</w><w>á</w><w>eftir</w><w>má</w><w>sjá</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>byrjunarlið</w>
+  <w>stuðningsmannanna</w>
+  <revision id="2">
+    <original><w>en</w><w>eftir</w></original>
+    <corrected><c>.</c><w>Það</w></corrected>
+      <errors>
+        <error xtype="conjunction4period" idx="2-1" eid="0" />
+        <error xtype="wording" idx="2-2" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <revision id="3">
+    <original></original>
+    <corrected><w>þó</w><w>eftir</w></corrected>
+      <errors>
+        <error xtype="dep" depId="2-2" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>velja</w>
+  <w>aðra</w>
+  <w>leikmenn</w>
+  <w>í</w>
+  <w>hópinn</w>
+  <w>en</w>
+  <w>einhverjir</w>
+  <revision id="4">
+    <original><w>þeirra</w></original>
+    <corrected><w>þessara</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
+  <w>gætu</w>
+  <revision id="5">
+    <original><w>komist</w></original>
+    <corrected><w>átt</w><w>möguleika</w><w>á</w><w>að</w><w>komast</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>byrjunarliðið</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Markvörður</w>
+  <c>:</c>
+  <w>Jimmy</w>
+  <w>Nielsen</w>
+  <c>(</c>
+  <w>Sporting</w>
+  <w>Kansas</w>
+  <w>City</w>
+  <c>)</c>
+  <w>Varnarmenn</w>
+  <c>:</c>
+  <w>Steven</w>
+  <w>Beitashour</w>
+  <c>(</c>
+  <w>San</w>
+  <w>Jose</w>
+  <w>Earthquakes</w>
+  <c>)</c>
+  <c>,</c>
+  <w>Aurelien</w>
+  <w>Collin</w>
+  <c>(</c>
+  <w>Sporting</w>
+  <w>Kansas</w>
+  <w>City</w>
+  <c>)</c>
+  <c>,</c>
+  <w>Jay</w>
+  <w>DeMerit</w>
+  <c>(</c>
+  <w>Vancouver</w>
+  <w>Whitecaps</w>
+  <w>FC</w>
+  <c>)</c>
+  <c>,</c>
+  <w>Heath</w>
+  <w>Pearce</w>
+  <c>(</c>
+  <w>New</w>
+  <w>York</w>
+  <w>Red</w>
+  <w>Bulls</w>
+  <c>)</c>
+  <w>Miðjumenn</w>
+  <c>:</c>
+  <w>David</w>
+  <w>Beckham</w>
+  <c>(</c>
+  <w>LA</w>
+  <w>Galaxy</w>
+  <c>)</c>
+  <c>,</c>
+  <w>Dwayne</w>
+  <w>De</w>
+  <w>Rosario</w>
+  <c>(</c>
+  <w>D.</w>
+  <w>C</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>United</w>
+  <c>)</c>
+  <c>,</c>
+  <w>Landon</w>
+  <w>Donovan</w>
+  <c>(</c>
+  <w>LA</w>
+  <w>Galaxy</w>
+  <c>)</c>
+  <c>,</c>
+  <w>Graham</w>
+  <w>Zusi</w>
+  <c>(</c>
+  <w>Sporting</w>
+  <w>Kansas</w>
+  <w>City</w>
+  <c>)</c>
+  <w>Framherjar</w>
+  <c>:</c>
+  <w>Thierry</w>
+  <w>Henry</w>
+  <c>(</c>
+  <w>New</w>
+  <w>York</w>
+  <w>Red</w>
+  <w>Bulls</w>
+  <c>)</c>
+  <c>,</c>
+  <w>Chris</w>
+  <w>Wondolowski</w>
+  <c>(</c>
+  <w>San</w>
+  <w>Jose</w>
+  <w>Earthquakes</w>
+  <c>)</c>
+</s>
+</p></body></text>
+</TEI>

@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Strumparnir</w>
+  <revision id="1">
+    <original><c>(</c></original>
+    <corrected><c>,</c><w>sem</w></corrected>
+      <errors>
+        <error xtype="bracket4comma" eid="0" />
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>áður</w>
+  <revision id="2">
+    <original></original>
+    <corrected><w>voru</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>einnig</w>
+  <w>kallaðir</w>
+  <w>skrýplarnir</w>
+  <revision id="3">
+    <original><c>)</c></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="bracket4comma" eid="0" />
+      </errors>
+  </revision>
+  <w>eru</w>
+  <w>bláar</w>
+  <w>skáldsagnaverur</w>
+  <w>sem</w>
+  <w>búa</w>
+  <w>inni</w>
+  <w>í</w>
+  <w>sveppum</w>
+  <w>í</w>
+  <w>skógi</w>
+  <w>einhvers</w>
+  <w>staðar</w>
+  <w>í</w>
+  <w>Evrópu</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Þeir</w>
+  <w>eru</w>
+  <w>rúmlega</w>
+  <w>40 cm</w>
+  <revision id="4">
+    <original><w>að</w></original>
+    <corrected><w>á</w></corrected>
+      <errors>
+        <error xtype="wrong-prep" eid="0" />
+      </errors>
+  </revision>
+  <w>hæð</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Þeir</w>
+  <w>voru</w>
+  <w>upphaflega</w>
+  <w>teiknaðir</w>
+  <w>af</w>
+  <w>belgíska</w>
+  <w>teiknaranum</w>
+  <w>Peyo</w>
+  <w>en</w>
+  <revision id="5">
+    <original></original>
+    <corrected><w>seinna</w><w>gerði</w><w>framleiðslufyrirtækið</w></corrected>
+      <errors>
+        <error xtype="wording" idx="5-1" eid="0" />
+      </errors>
+  </revision>
+  <w>Hanna-Barbera</w>
+  <w>Productions</w>
+  <revision id="6">
+    <original><w>gerði</w><w>seinna</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="5-1" eid="0" />
+      </errors>
+  </revision>
+  <w>vinsæla</w>
+  <w>sjónvarpsþætti</w>
+  <w>um</w>
+  <w>þá</w>
+  <w>sem</w>
+  <w>Laddi</w>
+  <w>talsetti</w>
+  <revision id="7">
+    <original></original>
+    <corrected><w>yfir</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>íslensku</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Ævintýri</w>
+  <revision id="8">
+    <original><w>Strumpana</w></original>
+    <corrected><w>strumpanna</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" idx="8-1" eid="0" />
+        <error xtype="upper4lower-prop" idx="8-1" eid="0" />
+      </errors>
+  </revision>
+  <w>birtust</w>
+  <w>fyrst</w>
+  <w>sem</w>
+  <w>framhaldssögur</w>
+  <w>í</w>
+  <w>teiknimyndablaðinu</w>
+  <revision id="9">
+    <original><w>Sval</w></original>
+    <corrected><w>Svalur</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
+  <w>en</w>
+  <w>voru</w>
+  <w>jafnóðum</w>
+  <w>gefnar</w>
+  <w>út</w>
+  <w>á</w>
+  <w>bókaformi</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Strumparnir</w>
+  <w>slógu</w>
+  <w>í</w>
+  <w>gegn</w>
+  <w>í</w>
+  <w>Evrópu</w>
+  <w>seint</w>
+  <w>á</w>
+  <w>8.</w>
+  <w>áratug</w>
+  <w>20.</w>
+  <w>aldar</w>
+  <w>og</w>
+  <w>árið 1979</w>
+  <w>tryggði</w>
+  <w>Bókaútgáfan</w>
+  <w>Iðunn</w>
+  <w>sér</w>
+  <w>útgáfuréttinn</w>
+  <revision id="10">
+    <original><w>að</w></original>
+    <corrected><w>á</w></corrected>
+      <errors>
+        <error xtype="wrong-prep" eid="0" />
+      </errors>
+  </revision>
+  <w>teiknimyndasögunum</w>
+  <w>en</w>
+  <revision id="11">
+    <original><w>hljómplötuútgáfann</w></original>
+    <corrected><w>hljómplötuútgáfan</w></corrected>
+      <errors>
+        <error xtype="nn4n" idx="11-1" eid="0" />
+        <error xtype="compound-nonword" idx="11-1" eid="0" />
+      </errors>
+  </revision>
+  <w>Steinar</w>
+  <revision id="12">
+    <original></original>
+    <corrected><w>tryggði</w><w>sér</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <w>rétt</w>
+  <revision id="13">
+    <original><w>að</w></original>
+    <corrected><w>á</w></corrected>
+      <errors>
+        <error xtype="wrong-prep" eid="0" />
+      </errors>
+  </revision>
+  <w>vinsælli</w>
+  <w>tónlist</w>
+  <w>sem</w>
+  <w>gefin</w>
+  <w>var</w>
+  <w>út</w>
+  <w>á</w>
+  <w>plötu</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Hvorugur</w>
+  <w>aðilinn</w>
+  <w>vissi</w>
+  <w>af</w>
+  <w>hinum</w>
+  <w>og</w>
+  <w>voru</w>
+  <w>nafngiftir</w>
+  <w>því</w>
+  <w>ekki</w>
+  <w>samræmdar</w>
+  <c>,</c>
+  <w>teiknimyndapersónurnar</w>
+  <w>hétu</w>
+  <w>strumpar</w>
+  <w>en</w>
+  <w>á</w>
+  <w>plötunni</w>
+  <revision id="14">
+    <original><w>kölluðust</w></original>
+    <corrected><w>voru</w></corrected>
+      <errors>
+        <error xtype="wording" idx="14-1" eid="0" />
+      </errors>
+  </revision>
+  <w>þær</w>
+  <revision id="15">
+    <original></original>
+    <corrected><w>kallaðar</w><c>„</c></corrected>
+      <errors>
+        <error xtype="dep" depId="14-1" eid="0" />
+      </errors>
+  </revision>
+  <w>skrýplar</w>
+  <revision id="16">
+    <original></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="missing-quot" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>söng</w>
+  <w>Halli</w>
+  <revision id="17">
+    <original><c>(</c></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="bracket4comma" eid="0" />
+      </errors>
+  </revision>
+  <w>Haraldur</w>
+  <w>Sigurðsson</w>
+  <revision id="18">
+    <original><c>)</c></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="bracket4comma" eid="0" />
+      </errors>
+  </revision>
+  <w>með</w>
+  <w>þeim</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>Strumpanafnið</w>
+  <w>varð</w>
+  <w>þó</w>
+  <w>ofan</w>
+  <w>á</w>
+  <w>þegar</w>
+  <w>frá</w>
+  <w>leið</w>
+  <c>.</c>
+</s>
+<s n="8">
+  <w>Árið 2016</w>
+  <w>hóf</w>
+  <w>Froskur</w>
+  <w>útgáfa</w>
+  <w>að</w>
+  <w>gefa</w>
+  <w>út</w>
+  <w>Strumpabækur</w>
+  <w>á</w>
+  <w>nýjan</w>
+  <w>leik</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>
