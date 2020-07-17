@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader/>
+<text><body><p n="1">
+<s n="1">
+  <w>Það</w>
+  <w>hét</w>
+  <w>áður</w>
+  <w>Norður-Ródesía</w>
+  <c>.</c>
+</s><s n="2">
+  <w>Sambía</w>
+  <w>er</w>
+  <revision id="1">
+    <original><w>innliksa</w></original>
+    <corrected><w>innlyksa</w></corrected>
+      <errors>
+        <error xtype="i4y" idx="1-1" eid="0"/>
+        <error xtype="nonword" idx="1-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>ríki</w>
+  <w>í</w>
+  <w>suðurhluta</w>
+  <w>Afríku</w>
+  <w>með</w>
+  <w>landamæri</w>
+  <w>að</w>
+  <w>Austur-Kongó</w>
+  <w>í</w>
+  <w>norðri</w>
+  <c>,</c>
+  <w>Tansaníu</w>
+  <w>í</w>
+  <w>norðaustri</w>
+  <c>,</c>
+  <w>Malaví</w>
+  <w>í</w>
+  <w>austri</w>
+  <c>,</c>
+  <w>Mósambík</w>
+  <c>,</c>
+  <w>Simbabve</w>
+  <c>,</c>
+  <w>Botsvana</w>
+  <w>og</w>
+  <w>Namibíu</w>
+  <w>í</w>
+  <w>suðri</w>
+  <revision id="2">
+    <original><c>,</c></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-comma" eid="0"/>
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>Angóla</w>
+  <w>í</w>
+  <w>vestri</w>
+  <c>.</c>
+</s><s n="3">
+  <w>Landið</w>
+  <w>dregur</w>
+  <w>nafn</w>
+  <w>sitt</w>
+  <w>af</w>
+  <w>Sambesífljóti</w>
+  <c>.</c>
+</s></p></body></text>
+</TEI>

@@ -1,0 +1,346 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader/>
+<text><body><p n="1">
+<s n="1">
+  <w>Vestur-Kongó</w>
+  <w>eða</w>
+  <w>Kongó-Brazzaville</w>
+  <revision id="1">
+    <original/>
+    <corrected><w>er</w><w>land</w><w>í</w><w>Mið-Afríku</w></corrected>
+      <errors>
+        <error xtype="dep" depId="4-1" eid="0"/>
+      </errors>
+  </revision>
+  <c>(</c>
+  <revision id="2">
+    <original><w>má</w></original>
+    <corrected><w>sem</w></corrected>
+      <errors>
+        <error xtype="wording" idx="2-1" eid="0"/>
+        <error xtype="missing-conjunction" idx="2-2" eid="0"/>
+      </errors>
+  </revision>
+  <w>ekki</w>
+  <revision id="3">
+    <original/>
+    <corrected><w>má</w></corrected>
+      <errors>
+        <error xtype="dep" depId="2-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>rugla</w>
+  <w>saman</w>
+  <w>við</w>
+  <w>Austur-Kongó</w>
+  <w>sem</w>
+  <w>áður</w>
+  <w>hét</w>
+  <w><i>Saír</i></w>
+  <c>)</c>
+  <revision id="4">
+    <original><w>er</w><w>land</w><w>í</w><w>Mið-Afríku</w></original>
+    <corrected/>
+      <errors>
+        <error xtype="wording" idx="4-1" eid="0"/>
+      </errors>
+  </revision>
+  <c>.</c>
+</s><s n="2">
+  <w>Landið</w>
+  <w>á</w>
+  <w>mikið</w>
+  <w>af</w>
+  <w>auðlindum</w>
+  <w>í</w>
+  <w>jörð</w>
+  <c>(</c>
+  <w>fosfat</w>
+  <c>,</c>
+  <w>gull</w>
+  <w>og</w>
+  <revision id="5">
+    <original><w>aðrir</w><w>málmar</w></original>
+    <corrected><w>aðra</w><w>málma</w></corrected>
+      <errors>
+        <error xtype="dep" depId="15-1" eid="0"/>
+        <error xtype="nominal-inflection" idx="15-1" eid="0"/>
+      </errors>
+  </revision>
+  <c>)</c>
+  <w>sem</w>
+  <w>eru</w>
+  <w>að</w>
+  <w>miklu</w>
+  <w>leyti</w>
+  <w>ónýttar</w>
+  <c>.</c>
+</s><s n="3">
+  <w>Langflestir</w>
+  <w>íbúar</w>
+  <revision id="6">
+    <original><w>Vestur-Kongó</w></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-word" eid="0"/>
+      </errors>
+  </revision>
+  <w>búa</w>
+  <w>í</w>
+  <w>suðvesturhluta</w>
+  <w>landsins</w>
+  <c>.</c>
+</s><s n="4">
+  <w>Sassou</w>
+  <w>gerði</w>
+  <w>breytingar</w>
+  <w>á</w>
+  <w>stjórnarskrá</w>
+  <w>landsins</w>
+  <w>sem</w>
+  <w>juku</w>
+  <w>völd</w>
+  <w>forseta</w>
+  <w>og</w>
+  <w>lengdu</w>
+  <w>kjörtímabil</w>
+  <w>hans</w>
+  <c>.</c>
+</s><s n="5">
+  <w>Breytingarnar</w>
+  <revision id="7">
+    <original><c>,</c></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-commas" idx="10-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>þær</w>
+  <w>kosningar</w>
+  <w>sem</w>
+  <w>haldnar</w>
+  <w>hafa</w>
+  <w>verið</w>
+  <w>síðan</w>
+  <revision id="8">
+    <original><c>,</c></original>
+    <corrected/>
+      <errors>
+        <error xtype="dep" depId="10-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>hafa</w>
+  <w>verið</w>
+  <w>harkalega</w>
+  <w>gagnrýndar</w>
+  <w>af</w>
+  <w>alþjóðasamtökum</w>
+  <c>.</c>
+</s><s n="6">
+  <w>Sassou</w>
+  <w>náði</w>
+  <w>völdum</w>
+  <w>með</w>
+  <w>aðstoð</w>
+  <w>herliðs</w>
+  <w>frá</w>
+  <w>Angóla</w>
+  <c>.</c>
+</s><s n="7">
+  <w>Landið</w>
+  <w>á</w>
+  <w>líka</w>
+  <w>landamæri</w>
+  <w>að</w>
+  <w>útlendu</w>
+  <w>Angóla</w>
+  <c>,</c>
+  <w>Cabinda</w>
+  <c>.</c>
+</s><s n="8">
+  <w>Það</w>
+  <w>á</w>
+  <w>landamæri</w>
+  <w>að</w>
+  <w>Gabon</w>
+  <c>,</c>
+  <w>Kamerún</w>
+  <c>,</c>
+  <w>Mið-Afríkulýðveldinu</w>
+  <revision id="9">
+    <original><w>og</w></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="conjunction4comma" eid="0"/>
+      </errors>
+  </revision>
+  <w>Austur-Kongó</w>
+  <revision id="10">
+    <original><c>,</c></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-comma" eid="0"/>
+      </errors>
+  </revision>
+  <w>og</w>
+  <revision id="11">
+    <original/>
+    <corrected><w>á</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
+  <w>strandlengju</w>
+  <w>að</w>
+  <w>Gíneuflóa</w>
+  <c>.</c>
+</s><s n="9">
+  <w>Stórir</w>
+  <w>hlutar</w>
+  <w>Vestur-Kongó</w>
+  <w>eru</w>
+  <w>regnskógar</w>
+  <c>.</c>
+</s><s n="10">
+  <w>Fyrsti</w>
+  <w>lýðræðislega</w>
+  <w>kjörni</w>
+  <w>forseti</w>
+  <w>landsins</w>
+  <w>var</w>
+  <w>Pascal</w>
+  <w>Lissouba</w>
+  <c>.</c>
+</s><s n="11">
+  <w>Vestur-Kongó</w>
+  <w>var</w>
+  <w>áður</w>
+  <w>frönsk</w>
+  <w>nýlenda</w>
+  <w>sem</w>
+  <w>hét</w>
+  <w>Franska</w>
+  <w>Kongó</w>
+  <w>og</w>
+  <w>fékk</w>
+  <w>sjálfstæði</w>
+  <w>1960</w>
+  <c>.</c>
+</s><s n="12">
+  <w>Árið 1977</w>
+  <w>var</w>
+  <w>Ngouabi</w>
+  <w>myrtur</w>
+  <w>og</w>
+  <w>við</w>
+  <w>tók</w>
+  <w>herforingjastjórn</w>
+  <w>sem</w>
+  <revision id="12">
+    <original><w>ríkti</w><w>yfir</w></original>
+    <corrected><w>stýrði</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
+  <w>landinu</w>
+  <w>til</w>
+  <w>1992</w>
+  <c>.</c>
+</s><s n="13">
+  <w>Deilur</w>
+  <w>milli</w>
+  <w>hans</w>
+  <w>og</w>
+  <w>forsetaframbjóðandans</w>
+  <c>(</c>
+  <w>og</w>
+  <w>fyrrum</w>
+  <w>forsetans</w>
+  <c>)</c>
+  <w>Denis</w>
+  <w>Sassou</w>
+  <w>Nguesso</w>
+  <w>í</w>
+  <w>aðdraganda</w>
+  <w>forsetakosninga</w>
+  <w>1997</w>
+  <w>leiddu</w>
+  <w>til</w>
+  <w>vopnaðra</w>
+  <w>átaka</w>
+  <c>.</c>
+</s><s n="14">
+  <w>Efnahagslíf</w>
+  <w>Vestur-Kongó</w>
+  <w>byggist</w>
+  <w>aðallega</w>
+  <w>á</w>
+  <w>olíuútflutningi</w>
+  <w>og</w>
+  <w>timbri</w>
+  <c>.</c>
+</s><s n="15">
+  <w>Eftir</w>
+  <w>valdarán</w>
+  <w>undir</w>
+  <w>forystu</w>
+  <w>herforingjans</w>
+  <w>Marien</w>
+  <w>Ngouabi</w>
+  <w>árið 1968</w>
+  <w>var</w>
+  <w>landið</w>
+  <w>gert</w>
+  <w>að</w>
+  <w>Alþýðulýðveldinu</w>
+  <w>Kongó</w>
+  <w>og</w>
+  <w>tekin</w>
+  <revision id="13">
+    <original/>
+    <corrected><w>voru</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
+  <w>upp</w>
+  <w>náin</w>
+  <w>stjórnmálatengsl</w>
+  <w>við</w>
+  <w>Sovétríkin</w>
+  <w>og</w>
+  <w>Austurblokkina</w>
+  <c>.</c>
+</s><s n="16">
+  <w>Íbúar</w>
+  <w>tala</w>
+  <w>62</w>
+  <w>ólík</w>
+  <w>tungumál</w>
+  <revision id="14">
+    <original><c>.</c><w>Um</w></original>
+    <corrected><w>og</w><w>um</w></corrected>
+      <errors>
+        <error xtype="period4conjunction" eid="0"/>
+      </errors>
+  </revision>
+  <w>helmingur</w>
+  <w>þeirra</w>
+  <revision id="15">
+    <original><w>eru</w><w>rómversk-kaþólskir</w></original>
+    <corrected><w>er</w><w>rómversk-kaþólskur</w></corrected>
+      <errors>
+        <error xtype="agreement-pred" eid="0"/>
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>um</w>
+  <w>40%</w>
+  <w>aðhyllast</w>
+  <w>mótmælendatrú</w>
+  <c>.</c>
+</s></p></body></text>
+</TEI>

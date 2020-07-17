@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader/>
+<text><body><p n="1">
+<s n="1">
+  <w>Hún</w>
+  <w>keppti</w>
+  <revision id="1">
+    <original/>
+    <corrected><w>þrisvar</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
+  <w>fyrir</w>
+  <w>hönd</w>
+  <w>Íslands</w>
+  <w>í</w>
+  <w>Söngvakeppni</w>
+  <w>evrópskra</w>
+  <w>sjónvarpsstöðva</w>
+  <revision id="2">
+    <original><w>árin</w><w>1990</w></original>
+    <corrected><c>;</c><w>fyrst</w><w>árið 1990</w></corrected>
+      <errors>
+        <error xtype="missing-semicolon" idx="5-1" eid="0"/>
+        <error xtype="missing-word" idx="5-2" eid="0"/>
+        <error xtype="plural4singular" idx="5-3" eid="0"/>
+      </errors>
+  </revision>
+  <w>með</w>
+  <revision id="3">
+    <original><w>Stjórninni</w><w>með</w><w>laginu</w><w>Eitt</w><w>lag</w><w>enn</w><c>(</c></original>
+    <corrected><w>hljómsveitinni</w><w>Stjórnin</w><w>og</w><w>lagið</w><w><i>Eitt</i></w><w><i>lag</i></w><w><i>enn</i></w><w>sem</w><w>hafnaði</w><w>í</w></corrected>
+      <errors>
+        <error xtype="missing-word" idx="6-1" eid="0"/>
+        <error xtype="wording" idx="6-2" eid="0"/>
+        <error xtype="nonit4it" idx="6-3" eid="0"/>
+        <error xtype="extra-bracket" idx="6-4" eid="0"/>
+        <error xtype="missing-words" idx="6-5" eid="0"/>
+      </errors>
+  </revision>
+  <w>4.</w>
+  <w>sæti</w>
+  <revision id="4">
+    <original><c>)</c></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-bracket" eid="0"/>
+      </errors>
+  </revision>
+  <c>,</c>
+  <revision id="5">
+    <original/>
+    <corrected><w>næst</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
+  <w>árið 1992</w>
+  <w>með</w>
+  <revision id="6">
+    <original/>
+    <corrected><w>sveitinni</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
+  <w>Heart</w>
+  <w>2</w>
+  <w>Heart</w>
+  <revision id="7">
+    <original><w>með</w></original>
+    <corrected><w>og</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
+  <w>lagið</w>
+  <revision id="8">
+    <original><w>Nei</w><w>eða</w><w>já</w><c>(</c></original>
+    <corrected><w><i>Nei</i></w><w><i>eða</i></w><w><i>já</i></w><w>sem</w><w>lenti</w><w>í</w></corrected>
+      <errors>
+        <error xtype="nonit4it" idx="11-1" eid="0"/>
+        <error xtype="extra-bracket" idx="11-2" eid="0"/>
+        <error xtype="missing-words" idx="11-3" eid="0"/>
+      </errors>
+  </revision>
+  <w>7.</w>
+  <w>sæti</w>
+  <revision id="9">
+    <original><c>)</c></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="bracket4comma" eid="0"/>
+      </errors>
+  </revision>
+  <w>og</w>
+  <revision id="10">
+    <original/>
+    <corrected><w>loks</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
+  <w>árið 1994</w>
+  <w>með</w>
+  <w>laginu</w>
+  <revision id="11">
+    <original><c>„</c><w>Nætur</w><c>“</c><c>(</c></original>
+    <corrected><w><i>Nætur</i></w><c>,</c><w>sem</w><w>hafnaði</w><w>í</w></corrected>
+      <errors>
+        <error xtype="extra-quots" idx="14-1" eid="0"/>
+        <error xtype="nonit4it" idx="14-2" eid="0"/>
+        <error xtype="dep" depId="14-1" eid="0"/>
+        <error xtype="bracket4comma" idx="14-3" eid="0"/>
+        <error xtype="missing-words" idx="14-4" eid="0"/>
+      </errors>
+  </revision>
+  <w>12.</w>
+  <w>sæti</w>
+  <revision id="12">
+    <original><c>)</c></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-bracket" eid="0"/>
+      </errors>
+  </revision>
+  <c>.</c>
+</s><s n="2">
+  <w>Sigríður</w>
+  <w>Beinteinsdóttir</w>
+  <w>eða</w>
+  <w>Sigga</w>
+  <w>Beinteins</w>
+  <revision id="13">
+    <original><c>(</c></original>
+    <corrected><c>,</c><w>sem</w></corrected>
+      <errors>
+        <error xtype="bracket4comma" idx="1-1" eid="0"/>
+        <error xtype="missing-conjunction" idx="1-2" eid="0"/>
+      </errors>
+  </revision>
+  <w>fædd</w>
+  <revision id="14">
+    <original/>
+    <corrected><w>er</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
+  <w>24. júlí 1962</w>
+  <revision id="15">
+    <original><c>)</c></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="bracket4comma" eid="0"/>
+      </errors>
+  </revision>
+  <w>er</w>
+  <w>söngkona</w>
+  <w>Stjórnarinnar</w>
+  <c>.</c>
+</s></p></body></text>
+</TEI>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader/>
+<text><body><p n="1">
+<s n="1">
+  <w>Jón</w>
+  <revision id="1">
+    <original><c>(</c></original>
+    <corrected><w>var</w></corrected>
+      <errors>
+        <error xtype="extra-bracket" idx="1-1" eid="0"/>
+        <error xtype="missing-word" idx="1-2" eid="0"/>
+      </errors>
+  </revision>
+  <w>ábóti</w>
+  <w>í</w>
+  <w>Viðeyjarklaustri</w>
+  <revision id="2">
+    <original><c>)</c></original>
+    <corrected><c>.</c></corrected>
+      <errors>
+        <error xtype="bracket4period" eid="0"/>
+      </errors>
+  </revision>
+  <w>Jón</w>
+  <w>ábóti</w>
+  <c>(</c>
+  <w>d.</w>
+  <w>1369</w>
+  <c>)</c>
+  <revision id="3">
+    <original/>
+    <corrected><w>var</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>Viðeyjarklaustri</w>
+  <w>upp</w>
+  <w>úr</w>
+  <w>miðri</w>
+  <w>14.</w>
+  <w>öld</w>
+  <revision id="4">
+    <original/>
+    <corrected><c>.</c><w>Hann</w></corrected>
+      <errors>
+        <error xtype="missing-period" idx="4-1" eid="0"/>
+        <error xtype="missing-word" idx="4-2" eid="0"/>
+      </errors>
+  </revision>
+  <w>hafði</w>
+  <w>áður</w>
+  <w>verið</w>
+  <w>kanúki</w>
+  <w>í</w>
+  <w>Þykkvabæjarklaustri</w>
+  <w>en</w>
+  <w>varð</w>
+  <w>ábóti</w>
+  <w>í</w>
+  <w>Viðey</w>
+  <revision id="5">
+    <original><w>1364</w></original>
+    <corrected><w>árið 1364</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>eftir</w>
+  <w>lát</w>
+  <w>Björns</w>
+  <w>Auðunarsonar</w>
+  <w>ábóta</w>
+  <w>þar</w>
+  <w>sama</w>
+  <w>ár</w>
+  <c>.</c>
+</s><s n="2">
+  <w>Föðurnafn</w>
+  <w>hans</w>
+  <w>er</w>
+  <w>óþekkt</w>
+  <w>og</w>
+  <w>ekkert</w>
+  <w>vitað</w>
+  <w>um</w>
+  <w>hann</w>
+  <c>,</c>
+  <w>nema</w>
+  <revision id="6">
+    <original><w>hvað</w></original>
+    <corrected><w>það</w><w>að</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>hans</w>
+  <w>tíð</w>
+  <w>var</w>
+  <w>gerður</w>
+  <w>máldagi</w>
+  <w>Viðeyjarklausturs</w>
+  <w>þar</w>
+  <w>sem</w>
+  <w>taldir</w>
+  <w>eru</w>
+  <w>upp</w>
+  <w>kirkjugripir</w>
+  <w>og</w>
+  <w>bústofn</w>
+  <w>í</w>
+  <w>eigu</w>
+  <w>klaustursins</w>
+  <c>.</c>
+</s><s n="3">
+  <w>Jón</w>
+  <w>ábóti</w>
+  <w>dó</w>
+  <w>1369</w>
+  <w>og</w>
+  <w>tók</w>
+  <w>Jón</w>
+  <w>Guðmundsson</w>
+  <w>við</w>
+  <w>eftir</w>
+  <w>lát</w>
+  <w>hans</w>
+  <c>.</c>
+</s></p></body></text>
+</TEI>

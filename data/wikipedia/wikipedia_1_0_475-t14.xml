@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader/>
+<text><body><p n="1">
+<s n="1">
+  <revision id="1">
+    <original><w>Rússland</w></original>
+    <corrected><w>Rússland</w><w>hefur</w><w>15</w><w>sinnum</w><w>tekið</w><w>þátt</w></corrected>
+      <errors>
+        <error xtype="dep" depId="2-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>Söngvakeppni</w>
+  <w>evrópskra</w>
+  <w>sjónvarpsstöðva</w>
+  <revision id="2">
+    <original><w>hefur</w><w>tekið</w><w>þátt</w><w>15</w><w>sinnum</w><w>síðan</w><w>að</w></original>
+    <corrected><w>frá</w></corrected>
+      <errors>
+        <error xtype="wording" idx="2-1" eid="0"/>
+        <error xtype="wording" idx="2-2" eid="0"/>
+      </errors>
+  </revision>
+  <w>frumraun</w>
+  <w>landsins</w>
+  <w>í</w>
+  <w>keppninni</w>
+  <revision id="3">
+    <original><w>átti</w><w>sér</w><w>stað</w></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-words" eid="0"/>
+      </errors>
+  </revision>
+  <w>árið 1994</w>
+  <c>.</c>
+</s><s n="2">
+  <w>Rússland</w>
+  <w>tók</w>
+  <w>ekki</w>
+  <w>þátt</w>
+  <w>í</w>
+  <w>keppninni</w>
+  <w>árin</w>
+  <w>1996</w>
+  <c>,</c>
+  <w>1998</w>
+  <w>og</w>
+  <w>1999</w>
+  <w>eftir</w>
+  <w>að</w>
+  <w>hafa</w>
+  <w>fallið</w>
+  <w>úr</w>
+  <w>keppni</w>
+  <revision id="4">
+    <original><w>ári</w><w>fyrr</w></original>
+    <corrected><w>árinu</w><w>á</w><w>undan</w></corrected>
+      <errors>
+        <error xtype="ind4def" idx="4-1" eid="0"/>
+        <error xtype="wording" idx="4-2" eid="0"/>
+      </errors>
+  </revision>
+  <c>.</c>
+</s></p></body></text>
+</TEI>
