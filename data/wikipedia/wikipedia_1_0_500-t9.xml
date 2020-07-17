@@ -1,0 +1,555 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader/>
+<text><body><p n="1">
+<s n="1">
+  <w>Skjaldarmerkið</w>
+  <w>sýnir</w>
+  <w>þrjá</w>
+  <w>silfurlitaða</w>
+  <w>Andrésarkrossa</w>
+  <w>á</w>
+  <w>rauðum</w>
+  <w>grunni</w>
+  <c>.</c>
+</s><s n="2">
+  <w>Risarnir</w>
+  <w>og</w>
+  <w>kórónan</w>
+  <w>eru</w>
+  <w>síðari</w>
+  <w>tíma</w>
+  <w>viðbætur</w>
+  <c>.</c>
+</s><s n="3">
+  <w>Hér</w>
+  <w>þýðir</w>
+  <revision id="1">
+    <original><w>Bergen</w></original>
+    <corrected><w><i>Bergen</i></w></corrected>
+      <errors>
+        <error xtype="nonit4it" eid="0"/>
+      </errors>
+  </revision>
+  <w>því</w>
+  <revision id="2">
+    <original><w><i>árbakki</i></w></original>
+    <corrected><c>„</c><w>árbakki</w><c>“</c></corrected>
+      <errors>
+        <error xtype="it4nonit" idx="13-1" eid="0"/>
+        <error xtype="missing-quots" idx="13-2" eid="0"/>
+        <error xtype="dep" depId="13-2" eid="0"/>
+      </errors>
+  </revision>
+  <c>.</c>
+</s><s n="4">
+  <w>Árið 2007</w>
+  <w>var</w>
+  <w>Bergen</w>
+  <w>op</w>
+  <w>Zoom</w>
+  <w>kjörin</w>
+  <w>besta</w>
+  <w>innanlandsborgin</w>
+  <w>í</w>
+  <w>Hollandi</w>
+  <revision id="3">
+    <original><c>(</c></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="bracket4comma" eid="0"/>
+      </errors>
+  </revision>
+  <w>í</w>
+  <revision id="4">
+    <original><w>kategoríunni</w><w>meðalstórar</w><w>borgir</w></original>
+    <corrected><w>flokki</w><w>meðalstórra</w><w>borga</w><c>)</c></corrected>
+      <errors>
+        <error xtype="fw" idx="25-1" eid="0"/>
+        <error xtype="dep" depId="25-2" eid="0"/>
+        <error xtype="nominal-inflection" idx="25-2" eid="0"/>
+      </errors>
+  </revision>
+  <c>.</c>
+</s><s n="5">
+  <w>Zoom</w>
+  <w>merkir</w>
+  <revision id="5">
+    <original><w><i>rönd</i></w><c>(</c><w>sbr</w><c>.</c><w><i>Saum</i></w></original>
+    <corrected><c>„</c><w>rönd</w><c>“</c><c>,</c><w>sbr.</w><c>„</c><w>Saum</w><c>“</c></corrected>
+      <errors>
+        <error xtype="missing-quots" idx="14-1" eid="0"/>
+        <error xtype="it4nonit" idx="14-2" eid="0"/>
+        <error xtype="dep" depId="14-1" eid="0"/>
+        <error xtype="bracket4comma" idx="14-3" eid="0"/>
+        <error xtype="extra-space" idx="14-4" eid="0"/>
+        <error xtype="missing-quots" idx="14-5" eid="0"/>
+        <error xtype="dep" depId="14-5" eid="0"/>
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>þýsku</w>
+  <revision id="6">
+    <original><c>)</c></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-quots" eid="0"/>
+      </errors>
+  </revision>
+  <c>.</c>
+</s><s n="6">
+  <w>Þegar</w>
+  <w>frelsisstríð</w>
+  <w>Hollendinga</w>
+  <revision id="7">
+    <original><w>var</w><w>í</w><w>gangi</w></original>
+    <corrected><w>geisaði</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>16.</w>
+  <w>öld</w>
+  <w>var</w>
+  <w>Bergen</w>
+  <w>eitt</w>
+  <w>sterkasta</w>
+  <w>vígi</w>
+  <w>Hollendinga</w>
+  <w>gegn</w>
+  <w>Spánverjum</w>
+  <c>.</c>
+</s><s n="7">
+  <w>Í</w>
+  <w>forgrunni</w>
+  <w>eru</w>
+  <w>þrjár</w>
+  <w>grænar</w>
+  <w>hæðir</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>merkja</w>
+  <w>árbakka</w>
+  <w>Schelde</w>
+  <w>og</w>
+  <w>koma</w>
+  <w>fyrir</w>
+  <w>í</w>
+  <w>heiti</w>
+  <w>borgarinnar</w>
+  <c>.</c>
+</s><s n="8">
+  <w>Á</w>
+  <w>hinn</w>
+  <w>bóginn</w>
+  <w>orsakaði</w>
+  <w>stríðið</w>
+  <w>mikla</w>
+  <w>niðursveiflu</w>
+  <w>í</w>
+  <w>atvinnulífi</w>
+  <w>borgarinnar</w>
+  <w>og</w>
+  <revision id="8">
+    <original/>
+    <corrected><w>því</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
+  <w>lauk</w>
+  <w>blómaskeiði</w>
+  <w>hennar</w>
+  <w>um</w>
+  <w>miðja</w>
+  <w>17.</w>
+  <w>öld</w>
+  <c>.</c>
+</s><s n="9">
+  <w>Bergen</w>
+  <w>er</w>
+  <w>ekki</w>
+  <w>nefnd</w>
+  <w>eftir</w>
+  <w>fjöllum</w>
+  <revision id="9">
+    <original><c>(</c></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="bracket4comma" eid="0"/>
+      </errors>
+  </revision>
+  <w>eins</w>
+  <w>og</w>
+  <revision id="10">
+    <original><w>hið</w></original>
+    <corrected><w>hin</w></corrected>
+      <errors>
+        <error xtype="agreement-concord" eid="0"/>
+      </errors>
+  </revision>
+  <w>norska</w>
+  <w>Bergen</w>
+  <revision id="11">
+    <original><c>)</c></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-bracket" eid="0"/>
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>heldur</w>
+  <revision id="12">
+    <original/>
+    <corrected><w>eftir</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
+  <w>því</w>
+  <w>að</w>
+  <w>borgin</w>
+  <w>stendur</w>
+  <w>við</w>
+  <w>bakka</w>
+  <w>Schelde</w>
+  <c>.</c>
+</s><s n="10">
+  <revision id="13">
+    <original><w>Til</w></original>
+    <corrected><w>Skjaldarmerkið</w><w>stendur</w><w>til</w></corrected>
+      <errors>
+        <error xtype="dep" depId="7-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>hægri</w>
+  <w>í</w>
+  <w>hvítu</w>
+  <w>röndinni</w>
+  <revision id="14">
+    <original><w>kemur</w><w>skjaldarmerkið</w><w>fyrir</w></original>
+    <corrected/>
+      <errors>
+        <error xtype="wording" idx="7-1" eid="0"/>
+      </errors>
+  </revision>
+  <c>.</c>
+</s><s n="11">
+  <w>Bærinn</w>
+  <w>var</w>
+  <w>víggirtur</w>
+  <revision id="15">
+    <original><w>1330</w></original>
+    <corrected><w>árið 1330</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>hlaut</w>
+  <w>borgarréttindi</w>
+  <w>1347</w>
+  <c>.</c>
+</s><s n="12">
+  <w>Bergen</w>
+  <w>op</w>
+  <w>Zoom</w>
+  <w>myndaðist</w>
+  <w>við</w>
+  <w>samruna</w>
+  <w>þriggja</w>
+  <w>bæja</w>
+  <w>á</w>
+  <w>miðöldum</w>
+  <c>.</c>
+</s><s n="13">
+  <revision id="16">
+    <original><w>Hins</w><w>vegar</w></original>
+    <corrected><w>Borgin</w></corrected>
+      <errors>
+        <error xtype="wording" idx="21-1" eid="0"/>
+        <error xtype="dep" depId="22-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>féll</w>
+  <revision id="17">
+    <original><w>borgin</w></original>
+    <corrected><w>aftur</w><w>á</w><w>móti</w></corrected>
+      <errors>
+        <error xtype="wording" idx="22-1" eid="0"/>
+        <error xtype="dep" depId="21-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>hendur</w>
+  <revision id="18">
+    <original><w>Frökkum</w><w>1747</w></original>
+    <corrected><w>Frakka</w><w>árið 1747</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" idx="23-1" eid="0"/>
+        <error xtype="missing-word" idx="23-2" eid="0"/>
+      </errors>
+  </revision>
+  <w>eftir</w>
+  <w>70</w>
+  <w>daga</w>
+  <w>umsátur</w>
+  <w>í</w>
+  <w>austurríska</w>
+  <w>erfðastríðinu</w>
+  <c>,</c>
+  <w>en</w>
+  <w>þeim</w>
+  <w>var</w>
+  <w>gert</w>
+  <w>að</w>
+  <w>skila</w>
+  <w>henni</w>
+  <w>ári</w>
+  <w>síðar</w>
+  <w>í</w>
+  <w>friðarsamningunum</w>
+  <w>í</w>
+  <w>Aachen</w>
+  <c>.</c>
+</s><s n="14">
+  <w>Fjórum</w>
+  <w>sinnum</w>
+  <w>sátu</w>
+  <w>Spánverjar</w>
+  <w>um</w>
+  <w>borgina</w>
+  <c>,</c>
+  <revision id="19">
+    <original/>
+    <corrected><w>árin</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
+  <w>1581</w>
+  <c>,</c>
+  <w>1588</w>
+  <c>,</c>
+  <w>1605</w>
+  <w>og</w>
+  <w>1622</w>
+  <c>,</c>
+  <w>en</w>
+  <w>í</w>
+  <w>öll</w>
+  <w>skiptin</w>
+  <w>héldu</w>
+  <w>varnir</w>
+  <w>hennar</w>
+  <w>og</w>
+  <w>urðu</w>
+  <w>Spánverjar</w>
+  <w>frá</w>
+  <w>að</w>
+  <w>hverfa</w>
+  <c>.</c>
+</s><s n="15">
+  <w>Frakkar</w>
+  <w>tóku</w>
+  <w>borgina</w>
+  <w>aftur</w>
+  <w>1795</w>
+  <w>og</w>
+  <w>héldu</w>
+  <w>henni</w>
+  <w>þar</w>
+  <w>til</w>
+  <w>Vínarfundurinn</w>
+  <w>skipaði</w>
+  <w>þeim</w>
+  <w>að</w>
+  <w>skila</w>
+  <w>henni</w>
+  <w>1814</w>
+  <c>.</c>
+</s><s n="16">
+  <w>Á</w>
+  <w>miðöldum</w>
+  <w>var</w>
+  <w>borgin</w>
+  <w>með</w>
+  <w>höfn</w>
+  <w>við</w>
+  <w>Schelde</w>
+  <w>og</w>
+  <w>var</w>
+  <w>þá</w>
+  <w>samkeppnisaðili</w>
+  <w>Antwerpen</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>liggur</w>
+  <w>aðeins</w>
+  <w>sunnar</w>
+  <revision id="20">
+    <original><c>.</c><w>En</w></original>
+    <corrected><c>,</c><w>en</w></corrected>
+      <errors>
+        <error xtype="period4comma" eid="0"/>
+      </errors>
+  </revision>
+  <w>með</w>
+  <w>framburði</w>
+  <w>lokaðist</w>
+  <w>höfnin</w>
+  <w>smátt</w>
+  <w>og</w>
+  <w>smátt</w>
+  <c>.</c>
+</s><s n="17">
+  <w>Litirnir</w>
+  <w>eru</w>
+  <w>borgarlitir</w>
+  <w>Bergen</w>
+  <w>op</w>
+  <w>Zoom</w>
+  <c>.</c>
+</s><s n="18">
+  <w>Borgin</w>
+  <w>er</w>
+  <w>þekkt</w>
+  <w>fyrir</w>
+  <w>miðaldablæ</w>
+  <w>sinn</w>
+  <w>sem</w>
+  <w>varðveist</w>
+  <w>hefur</w>
+  <w>í</w>
+  <w>gegnum</w>
+  <w>aldirnar</w>
+  <c>.</c>
+</s><s n="19">
+  <w>Næstu</w>
+  <w>borgir</w>
+  <w>eru</w>
+  <w>Antwerpen</w>
+  <w>í</w>
+  <w>Belgíu</w>
+  <w>til</w>
+  <w>suðurs</w>
+  <c>(</c>
+  <w>40 km</w>
+  <c>)</c>
+  <c>,</c>
+  <w>Breda</w>
+  <w>til</w>
+  <w>norðausturs</w>
+  <c>(</c>
+  <w>40 km</w>
+  <c>)</c>
+  <w>og</w>
+  <w>Dordrecht</w>
+  <w>til</w>
+  <w>norðurs</w>
+  <c>(</c>
+  <w>50 km</w>
+  <c>)</c>
+  <c>.</c>
+</s><s n="20">
+  <w>Fáninn</w>
+  <w>var</w>
+  <w>tekinn</w>
+  <w>í</w>
+  <w>notkun</w>
+  <w>í</w>
+  <w>kringum</w>
+  <w>1870</w>
+  <c>.</c>
+</s><s n="21">
+  <w>Bergen</w>
+  <w>op</w>
+  <w>Zoom</w>
+  <w>liggur</w>
+  <w>við</w>
+  <w>árbakka</w>
+  <w>Schelde</w>
+  <c>(</c>
+  <w>Oosterschelde</w>
+  <c>)</c>
+  <w>nær</w>
+  <w>vestast</w>
+  <w>í</w>
+  <w>Norður-Brabant</w>
+  <c>,</c>
+  <w>alveg</w>
+  <w>við</w>
+  <w>héraðið</w>
+  <w>Sjáland</w>
+  <w>og</w>
+  <w>aðeins</w>
+  <w>steinsnar</w>
+  <w>frá</w>
+  <w>belgísku</w>
+  <w>landamærunum</w>
+  <c>.</c>
+</s><s n="22">
+  <w>Fáni</w>
+  <w>borgarinnar</w>
+  <revision id="21">
+    <original><w>eru</w></original>
+    <corrected><w>hefur</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
+  <w>þrjár</w>
+  <w>láréttar</w>
+  <w>rendur</w>
+  <revision id="22">
+    <original><c>.</c><w>Mjó</w><w>rauð</w></original>
+    <corrected><c>:</c><w>mjóa</w><w>rauða</w></corrected>
+      <errors>
+        <error xtype="period4colon" idx="3-1" eid="0"/>
+        <error xtype="dep" depId="3-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>rönd</w>
+  <c>,</c>
+  <revision id="23">
+    <original><w>breið</w><w>hvít</w></original>
+    <corrected><w>breiða</w><w>hvíta</w></corrected>
+      <errors>
+        <error xtype="dep" depId="3-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>og</w>
+  <revision id="24">
+    <original><w>mjó</w><w>rauð</w></original>
+    <corrected><w>aðra</w><w>mjóa</w><w>rauða</w></corrected>
+      <errors>
+        <error xtype="missing-word" idx="5-1" eid="0"/>
+        <error xtype="dep" depId="3-1" eid="0"/>
+      </errors>
+  </revision>
+  <c>.</c>
+</s><s n="23">
+  <w>Bergen</w>
+  <w>op</w>
+  <w>Zoom</w>
+  <w>er</w>
+  <w>borg</w>
+  <w>í</w>
+  <w>héraðinu</w>
+  <w>Norður-Brabant</w>
+  <w>í</w>
+  <w>Hollandi</w>
+  <w>og</w>
+  <revision id="25">
+    <original><w>er</w><w>með</w></original>
+    <corrected><w>telur</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
+  <w>66 þúsund</w>
+  <w>íbúa</w>
+  <c>.</c>
+</s></p></body></text>
+</TEI>

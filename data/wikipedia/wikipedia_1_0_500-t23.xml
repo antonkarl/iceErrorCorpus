@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader/>
+<text><body><p n="1">
+<s n="1">
+  <w>Notendur</w>
+  <w>geta</w>
+  <w>gefið</w>
+  <w>flóknar</w>
+  <w>skipanir</w>
+  <w>með</w>
+  <w>bendingum</w>
+  <w>og</w>
+  <w>banki</w>
+  <w>á</w>
+  <revision id="1">
+    <original><w>fjölsnertiskjáinn</w></original>
+    <corrected><w>skjáinn</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
+  <w>til</w>
+  <w>þess</w>
+  <w>að</w>
+  <w>stjórna</w>
+  <w>tækinu</w>
+  <c>.</c>
+</s><s n="2">
+  <revision id="2">
+    <original><w>Má</w></original>
+    <corrected><w>Fjölsnertiskjái</w><w>má</w></corrected>
+      <errors>
+        <error xtype="dep" depId="3-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>finna</w>
+  <revision id="3">
+    <original><w>fjölsnertiskjái</w></original>
+    <corrected/>
+      <errors>
+        <error xtype="wording" idx="3-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>snjallsímum</w>
+  <c>,</c>
+  <w>lófa- og töflutölvum</w>
+  <c>.</c>
+</s><s n="3">
+  <w>Fjölsnertiskjár</w>
+  <w>er</w>
+  <w>snertiskjár</w>
+  <w>sem</w>
+  <w>getur</w>
+  <w>greint</w>
+  <w>tvær</w>
+  <w>eða</w>
+  <w>fleiri</w>
+  <w>snertingar</w>
+  <w>í</w>
+  <w>einu</w>
+  <c>.</c>
+</s></p></body></text>
+</TEI>
