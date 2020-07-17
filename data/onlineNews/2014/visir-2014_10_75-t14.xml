@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader/>
+<text><body><p n="1">
+<s n="1">
+  <w>Margt</w>
+  <w>var</w>
+  <w>um</w>
+  <w>góða</w>
+  <w>gesti</w>
+  <w>og</w>
+  <w>virtist</w>
+  <w>yngsta</w>
+  <w>kynslóðin</w>
+  <w>taka</w>
+  <w>vel</w>
+  <w>í</w>
+  <w>töfrana</w>
+  <w>eins</w>
+  <w>og</w>
+  <w>sést</w>
+  <w>á</w>
+  <w>meðfylgjandi</w>
+  <w>myndum</w>
+  <c>.</c>
+</s><s n="2">
+  <revision id="1">
+    <original><w>TöframaðurinnEinar</w><w>Mikaelog</w><w>töfrakonanViktoríasýndu</w></original>
+    <corrected><w>Töframaðurinn</w><w>Einar</w><w>Mikael</w><w>og</w><w>töfrakonan</w><w>Viktoría</w><w>sýndu</w></corrected>
+      <errors>
+        <error xtype="missing-space" idx="1-1" eid="0"/>
+        <error xtype="nonword" idx="1-1" eid="0"/>
+        <error xtype="missing-space" idx="1-2" eid="0"/>
+        <error xtype="nonword" idx="1-2" eid="0"/>
+        <error xtype="missing-space" idx="1-3" eid="0"/>
+        <error xtype="nonword" idx="1-3" eid="0"/>
+        <error xtype="missing-space" idx="1-3" eid="0"/>
+      </errors>
+  </revision>
+  <w>Sýningu</w>
+  <w>aldarinnar</w>
+  <w>tvívegis</w>
+  <w>í</w>
+  <w>Háskólabíói</w>
+  <w>í</w>
+  <w>gær</w>
+  <c>.</c>
+</s></p></body></text>
+</TEI>
