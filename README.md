@@ -1,6 +1,6 @@
 # Icelandic Error Corpus (IceEC)
 
-Version 0.9.2
+Version 0.9.3
 
 Copyright 2020 Anton Karl Ingason, Lilja Björk Stefánsdóttir, Þórunn Arnardóttir.
 
@@ -14,7 +14,7 @@ The Icelandic Error Corpus (IceEC) is a collection of texts in modern Icelandic 
 
 Citing the Error Corpus:
 
-Ingason, Anton Karl, Lilja Björk Stefánsdóttir, and Þórunn Arnardóttir. 2020. The Icelandic Error Corpus (IceEC). Version 0.9.2. (https://github.com/antonkarl/iceErrorCorpus)
+Ingason, Anton Karl, Lilja Björk Stefánsdóttir, and Þórunn Arnardóttir. 2020. The Icelandic Error Corpus (IceEC). Version 0.9.3. (https://github.com/antonkarl/iceErrorCorpus)
 
 The project is funded by the Icelandic Government as a part of the Language Technology Programme for Icelandic 2019–2023 which is described in the following publication: 
 
@@ -22,7 +22,7 @@ Anna Björk Nikulásdóttir, Jón Guðnason, Anton Karl Ingason, Hrafn Loftsson,
 
 # Íslensk villumálheild (IceEC)
 
-Útgáfa 0.9.2
+Útgáfa 0.9.3
 
 Höfundarréttur 2020 Anton Karl Ingason, Lilja Björk Stefánsdóttir, Þórunn Arnardóttir.
 
@@ -36,7 +36,7 @@ Leyfi: Creative Commons Attribution 4.0 International (CC BY 4.0; sjá leyfistex
 
 Vísun í heimildaskrá:
 
-Ingason, Anton Karl, Lilja Björk Stefánsdóttir, and Þórunn Arnardóttir. 2020. The Icelandic Error Corpus (IceEC). Version 0.9.2. (https://github.com/antonkarl/iceErrorCorpus)
+Ingason, Anton Karl, Lilja Björk Stefánsdóttir, and Þórunn Arnardóttir. 2020. The Icelandic Error Corpus (IceEC). Version 0.9.3. (https://github.com/antonkarl/iceErrorCorpus)
 
 Þetta verkefni er fjármagnað af ríkissjóði Íslands sem hluti af Máltækniáætlun fyrir íslensku 2019-2023. Máltækniáætluninni er nánar lýst í eftirfarandi grein:
 
