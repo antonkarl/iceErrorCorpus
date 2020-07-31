@@ -1,0 +1,395 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader/>
+<text><body><p n="1">
+<s n="1">
+  <w>Fréttaflutningur</w>
+  <w>og</w>
+  <w>umræða</w>
+  <w>um</w>
+  <w>vélbyssuvæðingu</w>
+  <revision id="1">
+    <original><w>lögreglunnar</w></original>
+    <corrected><w>Lögreglunnar</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>Íslandi</w>
+  <w>hefur</w>
+  <w>vart</w>
+  <w>farið</w>
+  <w>fram</w>
+  <w>hjá</w>
+  <w>nokkrum</w>
+  <w>manni</w>
+  <revision id="2">
+    <original><c>,</c></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-comma" eid="0"/>
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>hafa</w>
+  <w>tíðindi</w>
+  <w>af</w>
+  <w>málinu</w>
+  <w>ratað</w>
+  <w>yfir</w>
+  <revision id="3">
+    <original><w>Atlansála</w></original>
+    <corrected><w>Atlantshafið</w><w>og</w></corrected>
+      <errors>
+        <error xtype="name-error" idx="3-1" eid="0"/>
+        <error xtype="missing-conjunction" idx="3-2" eid="0"/>
+      </errors>
+  </revision>
+  <w>alla</w>
+  <w>leið</w>
+  <w>til</w>
+  <w>Bandaríkjanna</w>
+  <c>.</c>
+</s><s n="2">
+  <w>Guðmundur</w>
+  <w>Ævar</w>
+  <w>bendir</w>
+  <w>á</w>
+  <w>að</w>
+  <w>hér</w>
+  <w>sé</w>
+  <w>um</w>
+  <w>að</w>
+  <w>ræða</w>
+  <w>nemendur</w>
+  <w>sem</w>
+  <w>allflestum</w>
+  <w>er</w>
+  <w>afar</w>
+  <w>annt</w>
+  <w>um</w>
+  <w>aðra</w>
+  <w>grein</w>
+  <w>bandarísku</w>
+  <w>stjórnarskrárinnar</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>kveður</w>
+  <w>á</w>
+  <w>um</w>
+  <w>rétt</w>
+  <w>borgara</w>
+  <w>til</w>
+  <w>að</w>
+  <w>vopnaburðar</w>
+  <c>.</c>
+</s><s n="3">
+  <w>Höfðu</w>
+  <w>nemendurnir</w>
+  <w>helst</w>
+  <w>áhyggjur</w>
+  <w>af</w>
+  <w>misbeitingu</w>
+  <w>téðra</w>
+  <w>árásarriffla</w>
+  <w>við</w>
+  <w>erfiðar</w>
+  <w>aðstæður</w>
+  <w>og</w>
+  <w>af</w>
+  <w>slysaskotum</w>
+  <c>(</c>
+  <w>sem</w>
+  <w>eru</w>
+  <w>næsta</w>
+  <w>óhjákvæmileg</w>
+  <w>til</w>
+  <w>lengri</w>
+  <w>tíma</w>
+  <w>litið</w>
+  <c>)</c>
+  <c>.</c>
+  <c>“</c>
+</s><s n="4">
+  <c>„</c>
+  <w>Tíðni</w>
+  <w>alvarlegra</w>
+  <w>ofbeldisglæpa</w>
+  <w>á</w>
+  <w>Íslandi</w>
+  <w>er</w>
+  <w>til</w>
+  <w>að</w>
+  <w>mynda</w>
+  <w>afar</w>
+  <w>lág</w>
+  <w>í</w>
+  <w>alþjóðlegum</w>
+  <w>samanburði</w>
+  <w>og</w>
+  <w>tilvik</w>
+  <w>sem</w>
+  <w>kalla</w>
+  <w>á</w>
+  <w>mundun</w>
+  <w>skotvopna</w>
+  <w>eru</w>
+  <w>afar</w>
+  <w>fátíð</w>
+  <c>.</c>
+</s><s n="5">
+  <w>Eins</w>
+  <w>og</w>
+  <w>einn</w>
+  <w>nemandinn</w>
+  <w>orðaði</w>
+  <w>það</w>
+  <c>:</c>
+  <c>„</c>
+  <revision id="4">
+    <original><w>It</w><w>seems</w><w>like</w><w>they</w><w>skipped</w><w>a</w><w>lot</w><w>of</w><w>steps</w><w>in</w><w>their</w><w>arms</w><w>race</w></original>
+    <corrected><w>Það</w><w>virðist</w><w>sem</w><w>Íslendingar</w><w>hafi</w><w>sleppt</w><w>mörgum</w><w>skrefum</w><w>í</w><w>vopnakapphlaupinu</w></corrected>
+      <errors>
+        <error xtype="fw4ice" eid="0"/>
+      </errors>
+  </revision>
+  <c>.</c>
+  <c>“</c>
+</s><s n="6">
+  <c>„</c>
+  <w>Já</w>
+  <c>,</c>
+  <w>það</w>
+  <w>er</w>
+  <w>ekki</w>
+  <w>öll</w>
+  <w>vitleysan</w>
+  <w>eins</w>
+  <revision id="5">
+    <original><c>.</c></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="period4comma" eid="0"/>
+      </errors>
+  </revision>
+  <c>“</c>
+  <revision id="6">
+    <original/>
+    <corrected><w>segir</w><w>hann</w><w>að</w><w>lokum</w><c>.</c></corrected>
+      <errors>
+        <error xtype="missing-words" idx="16-1" eid="0"/>
+        <error xtype="missing-period" idx="16-2" eid="0"/>
+      </errors>
+  </revision>
+</s><s n="7">
+  <w>Nemendurnir</w>
+  <w>voru</w>
+  <revision id="7">
+    <original><w>ennfremur</w></original>
+    <corrected><w>enn</w><w>fremur</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0"/>
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>einu</w>
+  <w>máli</w>
+  <w>um</w>
+  <w>að</w>
+  <w>fyrirhugaðar</w>
+  <w>aðgerðir</w>
+  <w>myndu</w>
+  <w>líkast</w>
+  <w>til</w>
+  <w>ekki</w>
+  <w>auka</w>
+  <w>öryggi</w>
+  <w>almennings</w>
+  <w>eða</w>
+  <w>lögreglumanna</w>
+  <c>.</c>
+</s><s n="8">
+  <w>Þar</w>
+  <w>með</w>
+  <w>telst</w>
+  <w>Guðmundur</w>
+  <w>Ævar</w>
+  <w>staðsettur</w>
+  <w>í</w>
+  <w>einu</w>
+  <w>allra</w>
+  <revision id="8">
+    <original><w>mest</w><c>„</c><w>byssuelskandi</w><c>“</c><w>fylki</w></original>
+    <corrected><w>mesta</w><w>byssueignarfylki</w></corrected>
+      <errors>
+        <error xtype="adjective-inflection" idx="6-1" eid="0"/>
+        <error xtype="extra-quots" idx="6-2" eid="0"/>
+        <error xtype="wording" idx="6-3" eid="0"/>
+      </errors>
+  </revision>
+  <w>Bandaríkjanna</w>
+  <w>og</w>
+  <w>bendir</w>
+  <w>á</w>
+  <w>heimildarmyndina</w>
+  <revision id="9">
+    <original><c>„</c><w>Bowling</w><w>for</w><w>Columbine</w><c>“</c></original>
+    <corrected><w><i>Bowling</i></w><w><i>for</i></w><w><i>Columbine</i></w></corrected>
+      <errors>
+        <error xtype="extra-quots" idx="7-1" eid="0"/>
+        <error xtype="nonit4it" idx="7-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>því</w>
+  <w>samhengi</w>
+  <c>.</c>
+</s><s n="9">
+  <c>„</c>
+  <w>Nær</w>
+  <w>öllum</w>
+  <w>nemendum</w>
+  <w>mínum</w>
+  <w>í</w>
+  <w>téðum</w>
+  <w>afbrotafræðikúrsi</w>
+  <c>(</c>
+  <w>sem</w>
+  <revision id="10">
+    <original><w>note</w><w>bene</w></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-words" eid="0"/>
+      </errors>
+  </revision>
+  <w>flestir</w>
+  <w>eru</w>
+  <revision id="11">
+    <original/>
+    <corrected><w>með</w><w>afbrotalögfræði</w><w>sem</w><w>aðalgrein</w><c>(</c><w>e.</w></corrected>
+      <errors>
+        <error xtype="missing-words" idx="9-1" eid="0"/>
+        <error xtype="missing-bracket" idx="9-2" eid="0"/>
+      </errors>
+  </revision>
+  <w><i>criminal</i></w>
+  <w><i>justice</i></w>
+  <w><i>majors</i></w>
+  <c>)</c>
+  <revision id="12">
+    <original/>
+    <corrected><c>)</c></corrected>
+      <errors>
+        <error xtype="missing-bracket" eid="0"/>
+      </errors>
+  </revision>
+  <w>finnst</w>
+  <w>fréttir</w>
+  <w>af</w>
+  <w>frekari</w>
+  <w>byssuvæðingu</w>
+  <w>íslensku</w>
+  <revision id="13">
+    <original><w>lögreglunnar</w></original>
+    <corrected><w>Lögreglunnar</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
+  <w>fjarstæðukenndar</w>
+  <w>í</w>
+  <w>meira</w>
+  <w>lagi</w>
+  <c>.</c>
+</s><s n="10">
+  <w>Guðmundur</w>
+  <w>Ævar</w>
+  <w>Oddsson</w>
+  <c>,</c>
+  <w>lektor</w>
+  <w>við</w>
+  <w>félags- og mannfræðideild</w>
+  <w>Norður</w>
+  <w>Michigan-háskóla</w>
+  <c>,</c>
+  <w>kennir</w>
+  <w>meðal</w>
+  <revision id="14">
+    <original/>
+    <corrected><w>annars</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
+  <w>afbrotafræði</w>
+  <revision id="15">
+    <original><w>þar</w></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-word" eid="0"/>
+      </errors>
+  </revision>
+  <w>við</w>
+  <w>skólann</w>
+  <c>.</c>
+</s><s n="11">
+  <w>Sérstaklega</w>
+  <revision id="16">
+    <original><w>fannst</w></original>
+    <corrected><w>finnst</w></corrected>
+      <errors>
+        <error xtype="past4pres" eid="0"/>
+      </errors>
+  </revision>
+  <w>þeim</w>
+  <w>tilhugsunin</w>
+  <w>um</w>
+  <w>MP</w>
+  <w>5</w>
+  <c>-</c>
+  <w>árásarriffla</w>
+  <w>við</w>
+  <w>íslenskar</w>
+  <w>aðstæður</w>
+  <w>algerlega</w>
+  <w>út</w>
+  <w>úr</w>
+  <w>kú</w>
+  <c>,</c>
+  <c>“</c>
+  <w>segir</w>
+  <w>Guðmundur</w>
+  <w>Ævar</w>
+  <c>.</c>
+</s><s n="12">
+  <w>Hann</w>
+  <w>segir</w>
+  <w>nemendur</w>
+  <w>ekki</w>
+  <w>geta</w>
+  <w>með</w>
+  <w>nokkrum</w>
+  <w>hætti</w>
+  <w>séð</w>
+  <w>hvað</w>
+  <w>það</w>
+  <w>er</w>
+  <w>við</w>
+  <w>íslenskar</w>
+  <w>aðstæður</w>
+  <w>sem</w>
+  <w>kallar</w>
+  <w>á</w>
+  <w>að</w>
+  <w>almennir</w>
+  <w>lögreglumenn</w>
+  <w>þurfi</w>
+  <w>að</w>
+  <w>hafa</w>
+  <w>slík</w>
+  <w>árásarvopn</w>
+  <w>tiltæk</w>
+  <c>.</c>
+</s></p></body></text>
+</TEI>

@@ -1,0 +1,308 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader/>
+<text><body><p n="1">
+<s n="1">
+  <revision id="1">
+    <original><w>ÍBV</w><w>vann</w><w>tveggja</w><w>marka</w><w>sigur</w><w>á</w><w>Haukum</w></original>
+    <corrected><w>Íþróttabandalag</w><w>Vestmannaeyja</w><w>sigraði</w><w>Hauka</w><w>með</w><w>tveggja</w><w>marka</w><w>mun</w><c>,</c><w>28</w><c>-</c><w>30</w><c>,</c></corrected>
+      <errors>
+        <error xtype="abbreviation4words" idx="1-1" eid="0"/>
+        <error xtype="wording" idx="1-2" eid="0"/>
+        <error xtype="dep" depId="2-1" eid="0"/>
+        <error xtype="missing-comma" idx="1-3" eid="0"/>
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>Olís-deild</w>
+  <w>kvenna</w>
+  <w>í</w>
+  <w>handbolta</w>
+  <w>í</w>
+  <w>kvöld</w>
+  <revision id="2">
+    <original><c>,</c><w>28</w><c>-</c><w>30</w></original>
+    <corrected/>
+      <errors>
+        <error xtype="wording" idx="2-1" eid="0"/>
+      </errors>
+  </revision>
+  <c>.</c>
+</s><s n="2">
+  <w>Eyjakonur</w>
+  <w>voru</w>
+  <w>einu</w>
+  <w>marki</w>
+  <w>yfir</w>
+  <w>í</w>
+  <w>hálfleik</w>
+  <c>,</c>
+  <w>15</w>
+  <c>-</c>
+  <w>16</w>
+  <c>,</c>
+  <w>og</w>
+  <w>héldu</w>
+  <revision id="3">
+    <original><w>út</w><w>í</w></original>
+    <corrected><w>úti</w></corrected>
+      <errors>
+        <error xtype="dir4loc" idx="3-1" eid="0"/>
+        <error xtype="extra-word" idx="3-2" eid="0"/>
+      </errors>
+  </revision>
+  <w>spennandi</w>
+  <w>leik</w>
+  <w>á</w>
+  <w>Ásvöllum</w>
+  <c>.</c>
+</s><s n="3">
+  <w>ÍBV</w>
+  <w>er</w>
+  <w>í</w>
+  <w>þriðja</w>
+  <w>sæti</w>
+  <w>deildarinnar</w>
+  <revision id="4">
+    <original/>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-commas" idx="4-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>með</w>
+  <w>átta</w>
+  <w>stig</w>
+  <revision id="5">
+    <original/>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="dep" depId="4-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>en</w>
+  <w>Haukar</w>
+  <w>í</w>
+  <w>fimmta</w>
+  <w>sæti</w>
+  <revision id="6">
+    <original/>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-commas" idx="6-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>með</w>
+  <w>fjögur</w>
+  <w>stig</w>
+  <revision id="7">
+    <original/>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="dep" depId="6-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>eftir</w>
+  <w>fimm</w>
+  <w>leiki</w>
+  <c>.</c>
+</s><s n="4">
+  <w>Marija</w>
+  <w>Gedroit</w>
+  <c>,</c>
+  <w>stórskytta</w>
+  <w>Hauka</w>
+  <c>,</c>
+  <w>skoraði</w>
+  <w>níu</w>
+  <w>mörk</w>
+  <w>líkt</w>
+  <w>og</w>
+  <w>kollegi</w>
+  <w>hennar</w>
+  <w>í</w>
+  <w>Eyjaliðinu</w>
+  <c>,</c>
+  <w>Vera</w>
+  <w>López</w>
+  <c>.</c>
+</s><s n="5">
+  <w>Mörk</w>
+  <w>ÍBV</w>
+  <c>:</c>
+  <w>Vera</w>
+  <w>Lópes</w>
+  <revision id="8">
+    <original><w>9</w></original>
+    <corrected><c>;</c><w>níu</w></corrected>
+      <errors>
+        <error xtype="missing-semicolon" idx="18-1" eid="0"/>
+        <error xtype="number4word" idx="18-2" eid="0"/>
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>Díana</w>
+  <w>Dögg</w>
+  <w>Magnúsdóttir</w>
+  <revision id="9">
+    <original><w>7</w></original>
+    <corrected><c>;</c><w>sjö</w></corrected>
+      <errors>
+        <error xtype="missing-semicolon" idx="19-1" eid="0"/>
+        <error xtype="number4word" idx="19-2" eid="0"/>
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>Jóna</w>
+  <w>Sigríður</w>
+  <w>Halldórsdóttir</w>
+  <revision id="10">
+    <original><w>7</w></original>
+    <corrected><c>;</c><w>sjö</w></corrected>
+      <errors>
+        <error xtype="missing-semicolon" idx="20-1" eid="0"/>
+        <error xtype="number4word" idx="20-2" eid="0"/>
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>Telma</w>
+  <w>Amado</w>
+  <revision id="11">
+    <original><w>4</w></original>
+    <corrected><c>;</c><w>fjögur</w></corrected>
+      <errors>
+        <error xtype="missing-semicolon" idx="21-1" eid="0"/>
+        <error xtype="number4word" idx="21-2" eid="0"/>
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>Ester</w>
+  <w>Óskarsdóttir</w>
+  <revision id="12">
+    <original><w>3</w></original>
+    <corrected><c>;</c><w>þrjú</w></corrected>
+      <errors>
+        <error xtype="missing-semicolon" idx="22-1" eid="0"/>
+        <error xtype="number4word" idx="22-2" eid="0"/>
+      </errors>
+  </revision>
+  <c>.</c>
+</s><s n="6">
+  <w>Haukar-ÍBV</w>
+  <revision id="13">
+    <original/>
+    <corrected><c>:</c></corrected>
+      <errors>
+        <error xtype="missing-colon" eid="0"/>
+      </errors>
+  </revision>
+  <w>28</w>
+  <c>-</c>
+  <w>30</w>
+  <c>(</c>
+  <w>15</w>
+  <c>-</c>
+  <w>16</w>
+  <c>)</c>
+  <revision id="14">
+    <original/>
+    <corrected><c>.</c></corrected>
+      <errors>
+        <error xtype="missing-period" eid="0"/>
+      </errors>
+  </revision>
+  <w>Mörk</w>
+  <w>Hauka</w>
+  <c>:</c>
+  <w>Marija</w>
+  <w>Gedroit</w>
+  <revision id="15">
+    <original><w>9</w></original>
+    <corrected><c>;</c><w>níu</w></corrected>
+      <errors>
+        <error xtype="missing-semicolon" idx="10-1" eid="0"/>
+        <error xtype="number4word" idx="10-2" eid="0"/>
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>Ásta</w>
+  <w>Björk</w>
+  <w>Agnarsdóttir</w>
+  <revision id="16">
+    <original><w>6</w></original>
+    <corrected><c>;</c><w>sex</w></corrected>
+      <errors>
+        <error xtype="missing-semicolon" idx="11-1" eid="0"/>
+        <error xtype="number4word" idx="11-2" eid="0"/>
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>Karen</w>
+  <w>Helga</w>
+  <w>Díönudóttir</w>
+  <revision id="17">
+    <original><w>5</w></original>
+    <corrected><c>;</c><w>fimm</w></corrected>
+      <errors>
+        <error xtype="missing-semicolon" idx="12-1" eid="0"/>
+        <error xtype="number4word" idx="12-2" eid="0"/>
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>Ragnheiður</w>
+  <w>Ragnarsdóttir</w>
+  <revision id="18">
+    <original><w>2</w></original>
+    <corrected><c>;</c><w>tvö</w></corrected>
+      <errors>
+        <error xtype="missing-semicolon" idx="13-1" eid="0"/>
+        <error xtype="number4word" idx="13-2" eid="0"/>
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>Ragnheiður</w>
+  <w>Sveinsdóttir</w>
+  <revision id="19">
+    <original><w>2</w></original>
+    <corrected><c>;</c><w>tvö</w></corrected>
+      <errors>
+        <error xtype="missing-semicolon" idx="14-1" eid="0"/>
+        <error xtype="number4word" idx="14-2" eid="0"/>
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>Viktoria</w>
+  <w>Valdimarsdóttir</w>
+  <revision id="20">
+    <original><w>2</w></original>
+    <corrected><c>;</c><w>tvö</w></corrected>
+      <errors>
+        <error xtype="missing-semicolon" idx="15-1" eid="0"/>
+        <error xtype="number4word" idx="15-2" eid="0"/>
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>Silja</w>
+  <w>Ísberg</w>
+  <revision id="21">
+    <original><w>1</w></original>
+    <corrected><c>;</c><w>eitt</w></corrected>
+      <errors>
+        <error xtype="missing-semicolon" idx="16-1" eid="0"/>
+        <error xtype="number4word" idx="16-2" eid="0"/>
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>Gunnhildur</w>
+  <w>Pétursdóttir</w>
+  <revision id="22">
+    <original><w>1</w></original>
+    <corrected><c>;</c><w>eitt</w></corrected>
+      <errors>
+        <error xtype="missing-semicolon" idx="17-1" eid="0"/>
+        <error xtype="number4word" idx="17-2" eid="0"/>
+      </errors>
+  </revision>
+  <c>.</c>
+</s></p></body></text>
+</TEI>

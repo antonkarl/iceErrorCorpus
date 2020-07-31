@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader/>
+<text><body><p n="1">
+<s n="1">
+  <w>Lögreglan</w>
+  <w>á</w>
+  <w>Hvolsvelli</w>
+  <w>hefur</w>
+  <w>sent</w>
+  <w>frá</w>
+  <w>sér</w>
+  <w>viðvörun</w>
+  <w>en</w>
+  <w>ekkert</w>
+  <w>ferðaveður</w>
+  <w>er</w>
+  <w>undir</w>
+  <w>Eyjafjöllum</w>
+  <w>og</w>
+  <revision id="1">
+    <original><w>austurundir</w></original>
+    <corrected><w>austur</w><w>undir</w></corrected>
+      <errors>
+        <error xtype="missing-space" eid="0"/>
+      </errors>
+  </revision>
+  <w>Kirkjubæjarklaustur</w>
+  <c>.</c>
+</s><s n="2">
+  <w>Lögreglan</w>
+  <w>varar</w>
+  <w>við</w>
+  <w>vondu</w>
+  <w>veðri</w>
+  <w>og</w>
+  <w>er</w>
+  <w>spáin</w>
+  <w>slæm</w>
+  <w>fram</w>
+  <w>eftir</w>
+  <w>kvöldi</w>
+  <c>.</c>
+</s><s n="3">
+  <w>Mjög</w>
+  <w>hvasst</w>
+  <w>er</w>
+  <w>á</w>
+  <w>svæðinu</w>
+  <w>og</w>
+  <w>fauk</w>
+  <revision id="2">
+    <original><w>m.</w><w>a</w><c>.</c><w>strætó</w></original>
+    <corrected><w>m.a.</w><w>strætisvagn</w></corrected>
+      <errors>
+        <error xtype="extra-space" idx="2-1" eid="0"/>
+        <error xtype="wording" idx="2-2" eid="0"/>
+      </errors>
+  </revision>
+  <w>út</w>
+  <w>af</w>
+  <w>veginum</w>
+  <w>yfir</w>
+  <w>Reynisfjall</w>
+  <c>.</c>
+</s><s n="4">
+  <w>Engin</w>
+  <w>slys</w>
+  <w>urðu</w>
+  <w>á</w>
+  <w>fólki</w>
+  <w>og</w>
+  <revision id="3">
+    <original><w>bíllinn</w></original>
+    <corrected><w>vagninn</w><w>er</w></corrected>
+      <errors>
+        <error xtype="wording" idx="3-1" eid="0"/>
+        <error xtype="missing-word" idx="3-2" eid="0"/>
+      </errors>
+  </revision>
+  <w>lítið</w>
+  <w>skemmdur</w>
+  <c>.</c>
+</s></p></body></text>
+</TEI>

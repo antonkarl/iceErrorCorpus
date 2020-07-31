@@ -1,0 +1,290 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader/>
+<text><body><p n="1">
+<s n="1">
+  <w>Heimir</w>
+  <w>Már</w>
+  <w>Pétursson</w>
+  <c>,</c>
+  <w>fréttamaður</w>
+  <w>Stöðvar</w>
+  <w>2</w>
+  <c>,</c>
+  <w>hitti</w>
+  <w>stuðningsmenn</w>
+  <revision id="1">
+    <original><w>Hollands</w></original>
+    <corrected><w>Hollendinga</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>English</w>
+  <w>Pub</w>
+  <revision id="2">
+    <original><w>í</w></original>
+    <corrected><w>á</w></corrected>
+      <errors>
+        <error xtype="wrong-prep" eid="0"/>
+      </errors>
+  </revision>
+  <w>Austurstræti</w>
+  <w>fyrr</w>
+  <w>í</w>
+  <w>dag</w>
+  <revision id="3">
+    <original><c>.</c><w>Þeir</w><w>hollensku</w><w>voru</w><w>orðnir</w></original>
+    <corrected><w>og</w><w>virtust</w><w>þeir</w></corrected>
+      <errors>
+        <error xtype="period4conjunction" idx="5-1" eid="0"/>
+        <error xtype="wording" idx="5-2" eid="0"/>
+      </errors>
+  </revision>
+  <w>léttir</w>
+  <w>og</w>
+  <w>hressir</w>
+  <w>í</w>
+  <w>sólinni</w>
+  <revision id="4">
+    <original><w>í</w><w>miðbænum</w></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-words" eid="0"/>
+      </errors>
+  </revision>
+  <c>.</c>
+</s><s n="2">
+  <w>Vísir</w>
+  <w>mun</w>
+  <w>birta</w>
+  <w>flottustu</w>
+  <w>myndirnar</w>
+  <w>hér</w>
+  <revision id="5">
+    <original><w>að</w><w>neðan</w></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-words" eid="0"/>
+      </errors>
+  </revision>
+  <w>og</w>
+  <revision id="6">
+    <original><w>sömuleiðis</w></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-word" eid="0"/>
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>Facebook-síðu</w>
+  <revision id="7">
+    <original><w>Vísis</w></original>
+    <corrected><w>sinni</w></corrected>
+      <errors>
+        <error xtype="noun4pro" eid="0"/>
+      </errors>
+  </revision>
+  <c>.</c>
+</s><s n="3">
+  <w>Sá</w>
+  <revision id="8">
+    <original><w>stuðningsmaður</w></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-word" eid="0"/>
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>fær</w>
+  <w>flest</w>
+  <w>læk</w>
+  <w>á</w>
+  <w>myndina</w>
+  <w>sína</w>
+  <w>verður</w>
+  <w>krýndur</w>
+  <w>besti</w>
+  <w>stuðningsmaður</w>
+  <w>Íslands</w>
+  <w>í</w>
+  <w>lok</w>
+  <w>dags</w>
+  <c>.</c>
+</s><s n="4">
+  <w>Vonandi</w>
+  <w>tekst</w>
+  <revision id="9">
+    <original/>
+    <corrected><w>Íslendingum</w></corrected>
+      <errors>
+        <error xtype="dep" depId="8-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>þó</w>
+  <revision id="10">
+    <original><w>stuðningsmönnum</w><w>Íslands</w></original>
+    <corrected/>
+      <errors>
+        <error xtype="wording" idx="8-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>að</w>
+  <revision id="11">
+    <original><w>hafa</w><w>betur</w></original>
+    <corrected><w>láta</w><w>meira</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
+  <w>í</w>
+  <revision id="12">
+    <original><w>baráttunni</w><w>við</w><w>þá</w><w>hollensku</w></original>
+    <corrected><w>sér</w><w>heyra</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>stúkunni</w>
+  <c>.</c>
+</s><s n="5">
+  <w>Vísir</w>
+  <w>verður</w>
+  <w>með</w>
+  <w>beina</w>
+  <w>textalýsingu</w>
+  <w>frá</w>
+  <w>leiknum</w>
+  <revision id="13">
+    <original><w>auk</w><w>þess</w><w>sem</w><w>hann</w><w>verður</w><w>gerður</w><w>upp</w></original>
+    <corrected><w>og</w><w>Stöð</w><w>2</w><w>Sport</w><w>mun</w><w>fjalla</w><w>um</w><w>hann</w></corrected>
+      <errors>
+        <error xtype="conjunction" idx="21-1" eid="0"/>
+        <error xtype="wording" idx="21-2" eid="0"/>
+        <error xtype="dep" depId="22-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>þættinum</w>
+  <w>Leiðin</w>
+  <w>til</w>
+  <w>Frakklands</w>
+  <revision id="14">
+    <original><w>á</w><w>Stöð</w><w>2</w><w>Sport</w></original>
+    <corrected/>
+      <errors>
+        <error xtype="wording" idx="22-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>klukkan</w>
+  <w>20:45</w>
+  <c>.</c>
+</s><s n="6">
+  <w>Ísland</w>
+  <w>mætir</w>
+  <w>Hollandi</w>
+  <w>í</w>
+  <w>undankeppni</w>
+  <revision id="15">
+    <original><w>EM</w></original>
+    <corrected><w>fyrir</w><w>Evrópumeistaramótið</w><w>í</w><w>knattspyrnu</w></corrected>
+      <errors>
+        <error xtype="missing-word" idx="1-1" eid="0"/>
+        <error xtype="abbreviation4words" idx="1-2" eid="0"/>
+      </errors>
+  </revision>
+  <w>2016</w>
+  <w>á</w>
+  <w>Laugardalsvelli</w>
+  <w>í</w>
+  <w>kvöld</w>
+  <c>.</c>
+</s><s n="7">
+  <w>Vísir</w>
+  <w>hvetur</w>
+  <w>stuðningsmenn</w>
+  <w>Íslands</w>
+  <w>til</w>
+  <w>að</w>
+  <w>taka</w>
+  <w>myndir</w>
+  <w>af</w>
+  <w>sér</w>
+  <w>fyrir</w>
+  <revision id="16">
+    <original><w>leik</w></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-word" eid="0"/>
+      </errors>
+  </revision>
+  <c>,</c>
+  <revision id="17">
+    <original><w>meðan</w></original>
+    <corrected><w>eftir</w><w>og</w></corrected>
+      <errors>
+        <error xtype="wording" idx="12-1" eid="0"/>
+        <error xtype="dep" depId="14-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>á</w>
+  <revision id="18">
+    <original/>
+    <corrected><w>meðan</w></corrected>
+      <errors>
+        <error xtype="dep" depId="12-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>leik</w>
+  <w>stendur</w>
+  <w>og</w>
+  <revision id="19">
+    <original><w>eftir</w><w>leik</w></original>
+    <corrected><w>deila</w><w>á</w><w>Instagram</w><w>eða</w><w>Twitter</w></corrected>
+      <errors>
+        <error xtype="wording" idx="14-1" eid="0"/>
+        <error xtype="dep" depId="16-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>með</w>
+  <revision id="20">
+    <original><w>merkinu</w></original>
+    <corrected><w>merkjunum</w></corrected>
+      <errors>
+        <error xtype="singular4plural" eid="0"/>
+      </errors>
+  </revision>
+  <w>ISLHOL</w>
+  <c>,</c>
+  <w>Fotboltavinir</w>
+  <w>eða</w>
+  <w>AframIsland</w>
+  <revision id="21">
+    <original><w>og</w><w>deila</w><w>á</w><w>Instagram</w><w>eða</w><w>Twitter</w></original>
+    <corrected/>
+      <errors>
+        <error xtype="wording" idx="16-1" eid="0"/>
+      </errors>
+  </revision>
+  <c>.</c>
+</s><s n="8">
+  <w>Tæplega</w>
+  <w>tíu þúsund</w>
+  <w>eldhressir</w>
+  <w>áhorfendur</w>
+  <w>verða</w>
+  <w>á</w>
+  <w>vellinum</w>
+  <revision id="22">
+    <original><c>.</c><w>En</w><w>hver</w><w>er</w><w>sá</w><w>hressasti</w></original>
+    <corrected><w>en</w><w>hvort</w><w>ætli</w><w>stuðningsmenn</w><w>Íslendinga</w><w>eða</w><w>Hollendinga</w><w>verði</w><w>betri</w><w>í</w><w>að</w><w>hvetja</w><w>lið</w><w>sitt</w><w>áfram</w></corrected>
+      <errors>
+        <error xtype="period-plus-conjunction" idx="2-1" eid="0"/>
+        <error xtype="wording" idx="2-2" eid="0"/>
+      </errors>
+  </revision>
+  <c>?</c>
+</s></p></body></text>
+</TEI>
