@@ -33,7 +33,8 @@
     <original><w>kóreanskur</w></original>
     <corrected><w>kóreskur</w></corrected>
       <errors>
-        <error xtype="extra-letters" idx="2-1" eid="0"/>
+        <error xtype="extra-letter" idx="2-1" eid="0"/>
+        <error xtype="extra-letter" idx="2-1" eid="0"/>
         <error xtype="nonword" idx="2-1" eid="0"/>
       </errors>
   </revision>
