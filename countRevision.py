@@ -29,7 +29,7 @@ def count_files(file_list):
         count += 1
     return count
 
-file_list = glob.glob('data/onlineNews/*/*')
+file_list = glob.glob('data/wikipedia/*')
 print('Number of revision:')
 print(count_revision(file_list))
 print('Number of errors:')
