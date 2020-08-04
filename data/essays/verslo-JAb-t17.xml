@@ -97,7 +97,7 @@
     <original><w>Doktorsgráðu</w></original>
     <corrected><w>doktorsgráðu</w></corrected>
       <errors>
-        <error xtype="upper4lower (-proper)" eid="0"/>
+        <error xtype="upper4lower-proper" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
@@ -310,8 +310,8 @@
     <original><w>Byggingar- eða Iðnverkfræðin</w></original>
     <corrected><w>byggingar- eða iðnverkfræðin</w></corrected>
       <errors>
-        <error xtype="upper4lower (-proper)" eid="0"/>
-        <error xtype="upper4lower (-proper)" eid="0"/>
+        <error xtype="upper4lower-proper" eid="0"/>
+        <error xtype="upper4lower-proper" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
@@ -956,7 +956,7 @@
       </errors>
   </revision>
   <w>grunn</w>
-  
+
   <revision id="52">
     <original/>
     <corrected><c>“</c></corrected>
@@ -1214,7 +1214,7 @@
   <w>honum</w>
   <w>á</w>
   <w>2</w>
-  
+
   <w>4</w>
   <w>árum</w>
   <c>,</c>
