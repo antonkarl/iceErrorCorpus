@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader/>
+<text><body><p n="1">
+<s n="1">
+  <w>Einn</w>
+  <w>leikur</w>
+  <w>var</w>
+  <w>í</w>
+  <w>fyrstu</w>
+  <w>deild</w>
+  <w>karla</w>
+  <w>í</w>
+  <w>handknattleik</w>
+  <w>í</w>
+  <w>dag</w>
+  <revision id="1">
+    <original><c>,</c></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-comma" eid="0"/>
+      </errors>
+  </revision>
+  <w>en</w>
+  <w>þá</w>
+  <w>lögðu</w>
+  <w>Hamrarnir</w>
+  <w>lið</w>
+  <w>ÍH</w>
+  <w>í</w>
+  <w>Kaplakrika</w>
+  <c>.</c>
+</s><s n="2">
+  <w>Bjarki</w>
+  <w>Jónsson</w>
+  <c>,</c>
+  <w>Sigurður</w>
+  <w>Gunnar</w>
+  <revision id="2">
+    <original><w>NjálssonogÞórir</w></original>
+    <corrected><w>Njálsson</w><w>og</w><w>Þórir</w></corrected>
+      <errors>
+        <error xtype="missing-space" eid="0"/>
+      </errors>
+  </revision>
+  <w>Bjarni</w>
+  <revision id="3">
+    <original><w>Traustasonskoruðu</w></original>
+    <corrected><w>Traustason</w><w>skoruðu</w></corrected>
+      <errors>
+        <error xtype="missing-space" eid="0"/>
+      </errors>
+  </revision>
+  <w>allir</w>
+  <w>fjögur</w>
+  <w>mörk</w>
+  <w>fyrir</w>
+  <w>ÍH</w>
+  <revision id="4">
+    <original><c>,</c></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-commas" idx="4-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>en</w>
+  <w>markahæstur</w>
+  <w>Hamranna</w>
+  <revision id="5">
+    <original><w>varArnþór</w><w>Finnssoneinnig</w></original>
+    <corrected><w>var</w><w>Arnþór</w><w>Finnsson</w><c>,</c><w>einnig</w></corrected>
+      <errors>
+        <error xtype="missing-space" idx="5-1" eid="0"/>
+        <error xtype="missing-space" idx="5-2" eid="0"/>
+        <error xtype="dep" depId="4-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>með</w>
+  <w>fjögur</w>
+  <w>mörk</w>
+  <c>.</c>
+</s><s n="3">
+  <w>Gestirnir</w>
+  <w>frá</w>
+  <w>Akureyri</w>
+  <w>unnu</w>
+  <w>að</w>
+  <w>lokum</w>
+  <w>þriggja</w>
+  <w>marka</w>
+  <w>sigur</w>
+  <c>,</c>
+  <w>19</w>
+  <c>-</c>
+  <w>22</w>
+  <c>,</c>
+  <w>en</w>
+  <w>þetta</w>
+  <w>var</w>
+  <w>annar</w>
+  <w>innbyrðis</w>
+  <w>leikur</w>
+  <w>liðanna</w>
+  <w>á</w>
+  <w>innan</w>
+  <w>við</w>
+  <w>viku</w>
+  <c>.</c>
+</s><s n="4">
+  <w>Staðan</w>
+  <w>var</w>
+  <w>jöfn</w>
+  <w>í</w>
+  <w>hálfleik</w>
+  <c>,</c>
+  <w>11</w>
+  <c>-</c>
+  <w>11</w>
+  <c>,</c>
+  <w>en</w>
+  <w>ÍH</w>
+  <w>skoraði</w>
+  <w>einungis</w>
+  <w>tvö</w>
+  <w>mörk</w>
+  <w>á</w>
+  <w>fyrstu</w>
+  <w>20</w>
+  <w>mínútum</w>
+  <w>síðari</w>
+  <w>hálfleiks</w>
+  <c>.</c>
+</s></p></body></text>
+</TEI>

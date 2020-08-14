@@ -1,0 +1,527 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader/>
+<text><body><p n="1">
+<s n="1">
+  <w>Önnur</w>
+  <w>persóna</w>
+  <revision id="1">
+    <original><w>sem</w><w>kemur</w></original>
+    <corrected><c>,</c><w>kynnt</w></corrected>
+      <errors>
+        <error xtype="conjunction4comma" idx="16-1" eid="0"/>
+        <error xtype="wording" idx="16-2" eid="0"/>
+      </errors>
+  </revision>
+  <w>seint</w>
+  <w>í</w>
+  <w>fyrstu</w>
+  <w>þáttaröðinni</w>
+  <revision id="2">
+    <original/>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0"/>
+      </errors>
+  </revision>
+  <w>er</w>
+  <revision id="3">
+    <original><w>nágranninn</w></original>
+    <corrected><w>nágranni</w></corrected>
+      <errors>
+        <error xtype="def4ind" eid="0"/>
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>annar</w>
+  <w>yfirmaður</w>
+  <revision id="4">
+    <original><w>þeirra</w></original>
+    <corrected><w>stúlknanna</w></corrected>
+      <errors>
+        <error xtype="pro4noun" eid="0"/>
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>Sophie</w>
+  <c>(</c>
+  <w>Jennifer</w>
+  <w>Coolidge</w>
+  <c>)</c>
+  <revision id="5">
+    <original><c>,</c></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-comma" eid="0"/>
+      </errors>
+  </revision>
+  <w>pólskur</w>
+  <w>innflytjandi</w>
+  <w>sem</w>
+  <w>rekur</w>
+  <w>hreingerningafyrirtækið</w>
+  <w><i>Sophie's</i></w>
+  <w><i>Choice</i></w>
+  <c>.</c>
+</s><s n="2">
+  <revision id="6">
+    <original><w>Television</w></original>
+    <corrected><w><i>Television</i></w></corrected>
+      <errors>
+        <error xtype="nonit4it" eid="0"/>
+      </errors>
+  </revision>
+  <c>.</c>
+</s><s n="3">
+  <w>Þættirnir</w>
+  <w>gerast</w>
+  <w>í</w>
+  <w>Williamsburg-hverfinu</w>
+  <w>í</w>
+  <w>Brooklyn-hluta</w>
+  <w>New</w>
+  <w>York</w>
+  <w>borgar</w>
+  <w>og</w>
+  <w>snúast</w>
+  <w>um</w>
+  <w>líf</w>
+  <w>tveggja</w>
+  <w>gengilbeina</w>
+  <w>á</w>
+  <w>þrítugsaldri</w>
+  <c>:</c>
+  <w>Max</w>
+  <c>(</c>
+  <w>Kat</w>
+  <w>Dennings</w>
+  <c>)</c>
+  <c>,</c>
+  <w>sem</w>
+  <w>kemur</w>
+  <w>úr</w>
+  <w>fátækri</w>
+  <w>fjölskyldu</w>
+  <c>,</c>
+  <w>og</w>
+  <w>Caroline</w>
+  <c>(</c>
+  <w>Beth</w>
+  <w>Behrs</w>
+  <c>)</c>
+  <w>sem</w>
+  <w>fæddist</w>
+  <w>inn</w>
+  <w>í</w>
+  <w>ríka</w>
+  <w>fjöldkyldu</w>
+  <w>en</w>
+  <w>hefur</w>
+  <w>tapað</w>
+  <w>öllum</w>
+  <w>auð</w>
+  <w>sínum</w>
+  <w>vegna</w>
+  <w>þess</w>
+  <w>að</w>
+  <w>faðir</w>
+  <w>hennar</w>
+  <c>,</c>
+  <w>Martin</w>
+  <w>Channing</w>
+  <c>,</c>
+  <w>var</w>
+  <w>gripinn</w>
+  <w>við</w>
+  <w>peningasvindl</w>
+  <revision id="7">
+    <original><c>,</c><w>og</w></original>
+    <corrected><c>.</c><w>Saman</w></corrected>
+      <errors>
+        <error xtype="comma4period" idx="6-1" eid="0"/>
+        <error xtype="extra-conjunction" idx="6-2" eid="0"/>
+        <error xtype="dep" depId="7-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>vinna</w>
+  <w>þær</w>
+  <revision id="8">
+    <original><w>saman</w></original>
+    <corrected/>
+      <errors>
+        <error xtype="wording" idx="7-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>veitingastað</w>
+  <w>í</w>
+  <w>Brooklyn</w>
+  <c>.</c>
+</s><s n="4">
+  <w>Þættirnir</w>
+  <w>voru</w>
+  <w>búnir</w>
+  <w>til</w>
+  <w>af</w>
+  <w>Michael</w>
+  <w>Patrick</w>
+  <w>King</w>
+  <w>og</w>
+  <w>Whitney</w>
+  <w>Cummings</w>
+  <w>fyrir</w>
+  <revision id="9">
+    <original><w>Warner</w><w>Bros</w></original>
+    <corrected><w><i>Warner</i></w><w><i>Bros</i></w></corrected>
+      <errors>
+        <error xtype="nonit4it" eid="0"/>
+      </errors>
+  </revision>
+  <c>.</c>
+</s><s n="5">
+  <revision id="10">
+    <original><w>Í</w><w>meirihluta</w></original>
+    <corrected><w>Framan</w><w>af</w></corrected>
+      <errors>
+        <error xtype="wording" idx="21-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>fyrstu</w>
+  <revision id="11">
+    <original><w>þáttaraðar</w></original>
+    <corrected><w>þáttarröðinni</w></corrected>
+      <errors>
+        <error xtype="dep" depId="21-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>er</w>
+  <w>Max</w>
+  <w>einnig</w>
+  <w>barnfóstra</w>
+  <w>í</w>
+  <w>hlutastarfi</w>
+  <w>hjá</w>
+  <w>Peach</w>
+  <w>Landis</w>
+  <c>(</c>
+  <w>Brooke</w>
+  <w>Lyons</w>
+  <c>)</c>
+  <c>,</c>
+  <w>sem</w>
+  <revision id="12">
+    <original/>
+    <corrected><w>einnig</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
+  <w>ættleiðir</w>
+  <revision id="13">
+    <original><w>hestinn</w><w>hennar</w><w>Caroline</w></original>
+    <corrected><w>Chestnut</w></corrected>
+      <errors>
+        <error xtype="wording" idx="24-1" eid="0"/>
+      </errors>
+  </revision>
+  <c>,</c>
+  <revision id="14">
+    <original><w>Chestnut</w></original>
+    <corrected><w>hest</w><w>Caroline</w></corrected>
+      <errors>
+        <error xtype="dep" depId="24-1" eid="0"/>
+      </errors>
+  </revision>
+  <c>.</c>
+</s><s n="6">
+  <w>Þættirnir</w>
+  <w>unnu</w>
+  <w>verðlaunin</w>
+  <w><i>Uppáhalds</i></w>
+  <w><i>nýi</i></w>
+  <w><i>sjónvarps-gaman-þátturinn</i></w>
+  <w>á</w>
+  <w>38.</w>
+  <w>áhorfendaverðlaununum</w>
+  <c>(</c>
+  <w>e.</w>
+  <w><i>People's</i></w>
+  <w><i>Choice</i></w>
+  <w><i>Awards</i></w>
+  <c>)</c>
+  <w>Þann</w>
+  <w>14. mars 2012</w>
+  <w>tilkynnti</w>
+  <w>CBS</w>
+  <w>að</w>
+  <w>samið</w>
+  <w>hefði</w>
+  <w>verið</w>
+  <w>um</w>
+  <w>aðra</w>
+  <w>þáttaröð</w>
+  <w>af</w>
+  <w><i/></w>
+  <w>2Z</w>
+  <w><i>Broke</i></w>
+  <w><i>Girls</i></w>
+  <w>sem</w>
+  <w>verður</w>
+  <w>sýnd</w>
+  <w>2012</w>
+  <c>-</c>
+  <w>2013</w>
+  <c>.</c>
+</s><s n="7">
+  <w>Þann</w>
+  <w>5. október 2011</w>
+  <w>gerði</w>
+  <w>CBS-sjónvarpsstöðin</w>
+  <w>samning</w>
+  <w>um</w>
+  <w>heila</w>
+  <w>þáttaröð</w>
+  <w>fyrir</w>
+  <w>þennan</w>
+  <w>nýja</w>
+  <w>gamanþátt</w>
+  <c>.</c>
+</s><s n="8">
+  <w>Við</w>
+  <w>lok</w>
+  <w>hvers</w>
+  <w>þáttar</w>
+  <w>er</w>
+  <revision id="15">
+    <original><w>sýnd</w></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-word" eid="0"/>
+      </errors>
+  </revision>
+  <w>sú</w>
+  <w>upphæð</w>
+  <w>sem</w>
+  <w>þær</w>
+  <w>hafa</w>
+  <w>safnað</w>
+  <w>til</w>
+  <w>að</w>
+  <w>ná</w>
+  <w>takmarki</w>
+  <w>sínu</w>
+  <revision id="16">
+    <original/>
+    <corrected><w>gefin</w><w>upp</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0"/>
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>en</w>
+  <w>þær</w>
+  <w>þurfa</w>
+  <w>250.000</w>
+  <w>dali</w>
+  <w>til</w>
+  <revision id="17">
+    <original/>
+    <corrected><w>þess</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
+  <w>að</w>
+  <revision id="18">
+    <original><w>opna</w></original>
+    <corrected><w>geta</w><w>opnað</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
+  <w>fyrirtækið</w>
+  <w>sitt</w>
+  <c>.</c>
+</s><s n="9">
+  <w>2</w>
+  <w>Broke</w>
+  <w>Girls</w>
+  <c>(</c>
+  <w>stundum</w>
+  <w>skrifað</w>
+  <w>2</w>
+  <w>BROKE</w>
+  <w>GIRL</w>
+  <c>$</c>
+  <c>)</c>
+  <w>er</w>
+  <w>bandarískur</w>
+  <w>gamanþáttur</w>
+  <w>sem</w>
+  <w>var</w>
+  <w>frumsýndur</w>
+  <w>á</w>
+  <w>CBS-sjónvarpsstöðinni</w>
+  <w>í</w>
+  <w>september 2011</w>
+  <c>.</c>
+</s><s n="10">
+  <revision id="19">
+    <original><w>Þær</w></original>
+    <corrected><w>Stúlkurnar</w></corrected>
+      <errors>
+        <error xtype="pro4noun" eid="0"/>
+      </errors>
+  </revision>
+  <w>verða</w>
+  <w>vinkonur</w>
+  <w>og</w>
+  <w>reyna</w>
+  <w>að</w>
+  <w>láta</w>
+  <w>draum</w>
+  <w>sinn</w>
+  <revision id="20">
+    <original><w>rætast</w></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="wording" idx="9-1" eid="0"/>
+        <error xtype="missing-commas" idx="9-2" eid="0"/>
+      </errors>
+  </revision>
+  <w>um</w>
+  <w>að</w>
+  <w>einn</w>
+  <w>daginn</w>
+  <w>muni</w>
+  <w>þær</w>
+  <w>opna</w>
+  <w>bollaköku-bakarí</w>
+  <revision id="21">
+    <original/>
+    <corrected><c>,</c><w>rætast</w></corrected>
+      <errors>
+        <error xtype="dep" depId="9-2" eid="0"/>
+        <error xtype="dep" depId="9-1" eid="0"/>
+      </errors>
+  </revision>
+  <c>.</c>
+</s><s n="11">
+  <w>Á</w>
+  <w>meðal</w>
+  <w>þeirra</w>
+  <w>sem</w>
+  <w>vinna</w>
+  <revision id="22">
+    <original><w>með</w><w>þeim</w></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-words" eid="0"/>
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>veitingastaðnum</w>
+  <w>er</w>
+  <w>yfirmaðurinn</w>
+  <revision id="23">
+    <original><c>,</c></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-comma" eid="0"/>
+      </errors>
+  </revision>
+  <w>Han</w>
+  <w>Lee</w>
+  <c>(</c>
+  <w>Matthew</w>
+  <w>Moy</w>
+  <c>)</c>
+  <revision id="24">
+    <original><c>;</c></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="semicolon4comma" eid="0"/>
+      </errors>
+  </revision>
+  <w>Oleg</w>
+  <c>(</c>
+  <w>Jonathan</w>
+  <w>Kite</w>
+  <c>)</c>
+  <c>,</c>
+  <w>hress</w>
+  <w>en</w>
+  <w>kynferðislega</w>
+  <w>áreitinn</w>
+  <w>úkraínskur</w>
+  <w>kokkur</w>
+  <revision id="25">
+    <original><c>;</c></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="semicolon4comma" eid="0"/>
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>Earl</w>
+  <c>(</c>
+  <w>Garrett</w>
+  <w>Morris</w>
+  <c>)</c>
+  <revision id="26">
+    <original><c>,</c></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-comma" eid="0"/>
+      </errors>
+  </revision>
+  <w>75</w>
+  <w>ára</w>
+  <w>gamall</w>
+  <w>svartur</w>
+  <w>gjaldkeri</w>
+  <c>.</c>
+</s><s n="12">
+  <revision id="27">
+    <original><w>Þættirnir</w><w>fylgjast</w></original>
+    <corrected><w>Fylgst</w><w>er</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
+  <w>með</w>
+  <w>misheppnuðum</w>
+  <w>ævintýrum</w>
+  <w>herbergisfélaganna</w>
+  <w>Max</w>
+  <w>og</w>
+  <w>Caroline</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>báðar</w>
+  <revision id="28">
+    <original><w>hafa</w><w>bága</w></original>
+    <corrected><w>eru</w><w>í</w><w>bágri</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
+  <w>fjárhagsstöðu</w>
+  <c>,</c>
+  <w>og</w>
+  <w>raunum</w>
+  <w>þeirra</w>
+  <w>við</w>
+  <w>að</w>
+  <w>stofna</w>
+  <w>bollakökufyrirtæki</w>
+  <w>í</w>
+  <w>Williamsburg-hverfinu</w>
+  <w>í</w>
+  <w>Brooklyn</w>
+  <c>,</c>
+  <w>New</w>
+  <w>York</w>
+  <c>.</c>
+</s></p></body></text>
+</TEI>
