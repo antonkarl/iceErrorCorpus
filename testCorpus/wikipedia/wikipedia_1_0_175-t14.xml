@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Turninn</w>
+  <w>í</w>
+  <w>Hanoi</w>
+  <c>(</c>
+  <w>eða</w>
+  <w>Turnarnir</w>
+  <w>í</w>
+  <w>Hanoi</w>
+  <c>)</c>
+  <w>er</w>
+  <w>stærðfræðileikur</w>
+  <w>eða</w>
+  <w>þraut</w>
+  <w>sem</w>
+  <w>samanstendur</w>
+  <w>af</w>
+  <w>borði</w>
+  <w>með</w>
+  <w>þremur</w>
+  <w>áföstum</w>
+  <w>prikum</w>
+  <w>og</w>
+  <w><i>n</i></w>
+  <w>hringjum</w>
+  <c>(</c>
+  <w>oftast</w>
+  <w>8</w>
+  <c>)</c>
+  <w>með</w>
+  <w>mismunandi</w>
+  <w>þvermál</w>
+  <c>,</c>
+  <w>í</w>
+  <w>upphafi</w>
+  <w>þrautarinnar</w>
+  <w>eru</w>
+  <w>allir</w>
+  <revision id="1">
+    <original><w>hringirnar</w></original>
+    <corrected><w>hringirnir</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>einu</w>
+  <w>priki</w>
+  <revision id="2">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>raðaðir</w>
+  <w>eftir</w>
+  <w>stærð</w>
+  <w>með</w>
+  <w>þann</w>
+  <w>stærsta</w>
+  <w>neðst</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Markmið</w>
+  <w>þrautarinnar</w>
+  <w>er</w>
+  <w>svo</w>
+  <w>að</w>
+  <w>koma</w>
+  <w>þeim</w>
+  <w>öllum</w>
+  <w>á</w>
+  <w>annað</w>
+  <w>hvort</w>
+  <w>hinna</w>
+  <w>prikanna</w>
+  <w>en</w>
+  <w>aðeins</w>
+  <w>má</w>
+  <w>þó</w>
+  <w>færa</w>
+  <w>einn</w>
+  <w>hring</w>
+  <w>í</w>
+  <w>einu</w>
+  <revision id="3">
+    <original><c>,</c><w>og</w><w>ekki</w></original>
+    <corrected><c>.</c><w>Ekki</w></corrected>
+      <errors>
+        <error xtype="comma4period" eid="0" />
+      </errors>
+  </revision>
+  <w>má</w>
+  <w>setja</w>
+  <w>hring</w>
+  <w>ofan</w>
+  <w>á</w>
+  <w>minni</w>
+  <w>hring</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Hellismannasaga</w>
+  <w>er</w>
+  <w>þjóðsögn</w>
+  <w>um</w>
+  <w>útilegumenn</w>
+  <w>sem</w>
+  <w>höfðust</w>
+  <w>við</w>
+  <w>í</w>
+  <w>Surtshelli</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Jón</w>
+  <w>Árnason</w>
+  <revision id="1">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-commas" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>þjóðsagnasafnari</w>
+  <revision id="2">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>færði</w>
+  <w>söguna</w>
+  <w>í</w>
+  <w>letur</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Sagan</w>
+  <w>á</w>
+  <w>að</w>
+  <w>líkindum</w>
+  <w>rætur</w>
+  <w>í</w>
+  <w>sögn</w>
+  <w>Landnámabókar</w>
+  <w>um</w>
+  <revision id="3">
+    <original><w>drap</w></original>
+    <corrected><w>dráp</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
+  <w>átján</w>
+  <w>Hellismanna</w>
+  <w>á</w>
+  <w>Hellisfitjum</w>
+  <w>við</w>
+  <w>Norðlingafljót</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Önnur</w>
+  <w>Hellismannasaga</w>
+  <w>er</w>
+  <w>til</w>
+  <w>og</w>
+  <w>var</w>
+  <w>hún</w>
+  <w>gefin</w>
+  <w>út</w>
+  <w>í</w>
+  <w>fornritaútgáfu</w>
+  <w>Guðna</w>
+  <w>Jónssonar</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Sagan</w>
+  <w>er</w>
+  <w>þó</w>
+  <w>ekki</w>
+  <w>fornsaga</w>
+  <w>í</w>
+  <w>venjulegum</w>
+  <w>skilningi</w>
+  <w>þess</w>
+  <w>orðs</w>
+  <c>,</c>
+  <w>því</w>
+  <w>Gísli</w>
+  <w>Konráðsson</w>
+  <revision id="4">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-commas" idx="4-1" eid="0" />
+      </errors>
+  </revision>
+  <w>sagnaritari</w>
+  <revision id="5">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="4-1" eid="0" />
+      </errors>
+  </revision>
+  <w>samdi</w>
+  <w>hana</w>
+  <w>á</w>
+  <revision id="6">
+    <original><w>fyrra</w></original>
+    <corrected><w>fyrri</w></corrected>
+      <errors>
+        <error xtype="agreement-concord" eid="0" />
+      </errors>
+  </revision>
+  <w>helmingi</w>
+  <w>19.</w>
+  <w>aldar</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Sögu</w>
+  <w>sína</w>
+  <w>byggir</w>
+  <w>hann</w>
+  <w>á</w>
+  <revision id="7">
+    <original><w>fornritunum</w></original>
+    <corrected><w>fornritum</w></corrected>
+      <errors>
+        <error xtype="def4ind" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>einkum</w>
+  <w>Landnámu</w>
+  <w>og</w>
+  <w>þjóðsögu</w>
+  <w>hliðstæðri</w>
+  <w>þeirri</w>
+  <w>sem</w>
+  <w>Jón</w>
+  <w>Árnason</w>
+  <w>skráði</w>
+  <w>síðar</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>
