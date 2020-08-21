@@ -1250,13 +1250,9 @@
   <w>var</w>
   <w>sameinuð</w>
   <w>bæði</w>
-  <revision id="37">
-    <original><w>stjórnmála-og</w><w>menningarlega</w></original>
-    <corrected><w>stjórnmála- og menningarlega</w></corrected>
-      <errors>
-        <error xtype="missing-space" eid="0" />
-      </errors>
-  </revision>
+  <w>stjórnmála-</w> 
+  <w>og</w>
+  <w>menningarlega</w>
   <w>af</w>
   <revision id="38">
     <original><w>Babýlóníyumönnum</w></original>
@@ -1448,13 +1444,9 @@
   <w>aðskildum</w>
   <w>ríkjum</w>
   <c>,</c>
-  <revision id="42">
-    <original><w>Neðra-og</w><w>Efra-Egyptalandi</w></original>
-    <corrected><w>Neðra- og Efra-Egyptalandi</w></corrected>
-      <errors>
-        <error xtype="missing-space" eid="0" />
-      </errors>
-  </revision>
+  <w>Neðra-</w> 
+  <w>og</w>
+  <w>Efra-Egyptalandi</w>
   <c>,</c>
   <revision id="43">
     <original><w>árið</w><w>3150f</w><c>.</c><w>kr</w><c>.</c></original>
@@ -1777,7 +1769,7 @@
   <w>yfirráð</w>
   <w>fyrir</w>
   <revision id="48">
-    <original><w>botni-og</w></original>
+    <original><w>botni-</w><w>og</w></original>
     <corrected><w>botni</w><w>Miðjarðarhafs</w><w>og</w></corrected>
       <errors>
         <error xtype="wording" idx="48-1" eid="0" />
@@ -7479,14 +7471,15 @@
   <w>er</w>
   <w>óháð</w>
   <revision id="294">
-    <original><w>framkæmdar-og</w><w>löggjafarvaldinu</w></original>
-    <corrected><w>framkvæmdar- og löggjafarvaldinu</w></corrected>
+    <original><w>framkæmdar-</w></original>
+    <corrected><w>framkvæmdar-</w></corrected>
       <errors>
         <error xtype="missing-letter" idx="294-1" eid="0" />
         <error xtype="nonword" idx="294-1" eid="0" />
-        <error xtype="missing-space" idx="294-1" eid="0" />
       </errors>
   </revision>
+  <w>og</w>
+  <w>löggjafarvaldinu</w>
   <w>en</w>
   <w>það</w>
   <w>samanstendur</w>
@@ -8212,13 +8205,9 @@
   <w>Írak</w>
   <w>er</w>
   <w>óháð</w>
-  <revision id="335">
-    <original><w>framkvæmdar-og</w><w>löggjafarvaldinu</w></original>
-    <corrected><w>framkvæmdar- og löggjafarvaldinu</w></corrected>
-      <errors>
-        <error xtype="missing-space" eid="0" />
-      </errors>
-  </revision>
+  <w>framkvæmdar-</w>
+  <w>og</w>
+  <w>löggjafarvaldinu</w>
   <c>.</c>
 </s>
 <s n="274">

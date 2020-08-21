@@ -1468,14 +1468,14 @@
   <w>er</w>
   <w>um</w>
   <w>líf</w>
+  <w>heimilis-</w><w>og</w>
   <revision id="32">
-    <original><w>heimilis-og</w><w>stéttarlausa</w></original>
-    <corrected><w>heimilis- og stéttlausra</w></corrected>
+    <original><w>stéttarlausa</w></original>
+    <corrected><w>stéttlausra</w></corrected>
       <errors>
-        <error xtype="missing-space" idx="32-1" eid="0" />
-        <error xtype="adjective-inflection" idx="32-2" eid="0" />
-        <error xtype="extra-letters" idx="32-2" eid="0" />
-        <error xtype="compound-nonword" idx="32-2" eid="0" />
+        <error xtype="adjective-inflection" idx="32-1" eid="0" />
+        <error xtype="extra-letters" idx="32-1" eid="0" />
+        <error xtype="compound-nonword" idx="32-1" eid="0" />
       </errors>
   </revision>
   <w>ungra</w>

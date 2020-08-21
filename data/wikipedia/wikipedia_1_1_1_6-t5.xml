@@ -351,11 +351,12 @@
   <w>aðstaða</w>
   <w>húsvarðar</w>
   <w>og</w>
+  <w>náms-</w> 
+  <w>og</w>
   <revision id="12">
-    <original><w>náms-og</w><w>starfsráðgjafa</w><c>.</c><w>Hýsti</w></original>
-    <corrected><w>náms- og starfsráðgjafa</w><w>en</w><w>húsið</w><w>hýsti</w><w>áður</w></corrected>
+    <original><w>starfsráðgjafa</w><c>.</c><w>Hýsti</w></original>
+    <corrected><w>starfsráðgjafa</w><w>en</w><w>húsið</w><w>hýsti</w><w>áður</w></corrected>
       <errors>
-        <error xtype="missing-space" idx="83-1" eid="0"/>
         <error xtype="period4conjunction" idx="83-2" eid="0"/>
         <error xtype="missing-words" idx="83-3" eid="0"/>
       </errors>
