@@ -1654,13 +1654,9 @@
   <w>við</w>
   <w>Faxatún</w>
   <w>mótmæltu</w>
-  <revision id="59">
-    <original><w>sjón-og</w><w>hávaðamengun</w></original>
-    <corrected><w>sjón- og hávaðamengun</w></corrected>
-      <errors>
-        <error xtype="missing-space" eid="0" />
-      </errors>
-  </revision>
+  <w>sjón-</w> 
+  <w>og</w>
+  <w>hávaðamengun</w>
   <w>sem</w>
   <w>þegar</w>
   <w>er</w>
@@ -1723,7 +1719,8 @@
 <s n="57">
   <w>Umferð</w>
   <w>bæði</w>
-  <w>gangandi-og</w>
+  <w>gangandi</w>
+  <w>og</w>
   <w>hjólandi</w>
   <w>vegfarenda</w>
   <w>hefur</w>

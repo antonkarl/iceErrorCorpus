@@ -5,11 +5,12 @@
 <s n="1">
   <w>Verðið</w>
   <w>á</w>
+  <w>bensín-</w> 
+  <w>og</w>
   <revision id="1">
-    <original><w>bensín-og</w><w>díselllítranum</w></original>
-    <corrected><w>bensín- og dísillítranum</w></corrected>
+    <original><w>díselllítranum</w></original>
+    <corrected><w>dísillítranum</w></corrected>
       <errors>
-        <error xtype="missing-space" eid="0" />
         <error xtype="nonword" eid="0" />
       </errors>
   </revision>

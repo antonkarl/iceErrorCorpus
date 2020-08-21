@@ -73,11 +73,10 @@
 </s>
 <s n="4">
   <revision id="2">
-    <original><w>Sjávarútvegs</w><c>-</c><c>,</c><w>veiði-og</w><w>landbúnaðarráðuneyti</w><w>Grænland</w></original>
-    <corrected><w>Sjávarútvegs-, veiði- og landbúnaðarráðuneyti</w><w>Grænlands</w></corrected>
+    <original><w>Sjávarútvegs</w><c>-</c><c>,</c><w>veiði-</w><w>og</w><w>landbúnaðarráðuneyti</w><w>Grænland</w></original>
+    <corrected><w>Sjávarútvegs-</w><c>,</c><w>veiði-</w><w>og</w><w>landbúnaðarráðuneyti</w><w>Grænlands</w></corrected>
       <errors>
         <error xtype="extra-space" idx="2-1" eid="0" />
-        <error xtype="missing-space" idx="2-2" eid="0" />
         <error xtype="nominal-inflection" idx="2-3" eid="0" />
       </errors>
   </revision>
