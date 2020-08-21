@@ -28,12 +28,13 @@
 <s n="3">
   <w>Efnið</w>
   <w>er</w>
+  <w>eld-</w> 
+  <w>og</w>
   <revision id="1">
-    <original><w>eld-og</w><w>sprenigfimt</w></original>
-    <corrected><w>eld- og sprengifimt</w></corrected>
+    <original><w>sprenigfimt</w></original>
+    <corrected><w>sprengifimt</w></corrected>
       <errors>
-        <error xtype="missing-space" idx="1-1" eid="0" />
-        <error xtype="swapped-letters" idx="1-2" eid="0" />
+        <error xtype="swapped-letters" idx="1-1" eid="0" />
       </errors>
   </revision>
   <w>og</w>
