@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Björn</w>
+  <w>Zoëga</w>
+  <c>,</c>
+  <w>hefur</w>
+  <w>verið</w>
+  <w>settur</w>
+  <w>tímabundið</w>
+  <w>sem</w>
+  <w>forstjóri</w>
+  <w>Landspítalans</w>
+  <w>í</w>
+  <w>eitt</w>
+  <w>ár</w>
+  <c>,</c>
+  <w>frá</w>
+  <w>fyrsta</w>
+  <w>október</w>
+  <w>næstkomandi</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Að</w>
+  <w>ósk</w>
+  <w>forstjóra</w>
+  <w>Landspítalans</w>
+  <c>,</c>
+  <w>Huldu</w>
+  <w>Gunnlaugsdóttur</w>
+  <c>,</c>
+  <w>hefur</w>
+  <w>Ögmundur</w>
+  <w>Jónasson</w>
+  <revision id="1">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-commas" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>heilbrigðisráðherra</w>
+  <revision id="2">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>veitt</w>
+  <w>henni</w>
+  <w>leyfi</w>
+  <w>frá</w>
+  <w>störfum</w>
+  <w>til</w>
+  <w>eins</w>
+  <w>árs</w>
+  <w>frá</w>
+  <w>1. október 2009</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Að</w>
+  <w>minnsta</w>
+  <w>kosti</w>
+  <w>þrír</w>
+  <w>létu</w>
+  <w>lífið</w>
+  <w>þegar</w>
+  <w>þyrla</w>
+  <w>flaug</w>
+  <w>á</w>
+  <w>fjall</w>
+  <w>í</w>
+  <w>Hardanger</w>
+  <w>í</w>
+  <w>Noregi</w>
+  <w>í</w>
+  <w>kvöld</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Ekki</w>
+  <w>er</w>
+  <w>enn</w>
+  <w>ljóst</w>
+  <w>hvað</w>
+  <w>olli</w>
+  <w>slysinu</w>
+  <c>,</c>
+  <w>en</w>
+  <w>á</w>
+  <w>vef</w>
+  <w>norska</w>
+  <w>ríkismiðilsins</w>
+  <w>NRK</w>
+  <w>segir</w>
+  <w>að</w>
+  <w>mögulega</w>
+  <w>sé</w>
+  <w>um</w>
+  <w>að</w>
+  <w>ræða</w>
+  <w>versta</w>
+  <w>þyrluslys</w>
+  <w>í</w>
+  <w>sögu</w>
+  <w>landsins</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Þá</w>
+  <w>kemur</w>
+  <w>einnig</w>
+  <w>fram</w>
+  <w>á</w>
+  <w>vefnum</w>
+  <w>að</w>
+  <w>þyrlan</w>
+  <w>var</w>
+  <w>á</w>
+  <w>vegum</w>
+  <w>fyrirtækisins</w>
+  <w>Airlift-helikopter</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>á</w>
+  <w>15</w>
+  <w>árum</w>
+  <w>hefur</w>
+  <revision id="1">
+    <original><w>lent</w><w>í</w></original>
+    <corrected><w>mátt</w><w>þola</w></corrected>
+      <errors>
+        <error xtype="wording" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>átta</w>
+  <revision id="2">
+    <original><w>þyrluslysum</w><c>.</c></original>
+    <corrected><w>þyrluslys</w><c>.</c></corrected>
+      <errors>
+        <error xtype="dep" depId="1-1" eid="0" />
+      </errors>
+  </revision>
+</s>
+</p></body></text>
+</TEI>
