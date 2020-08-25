@@ -36,9 +36,13 @@
   <w>Icelandair</w>
   <w>annast</w>
   <w>alla</w>
-  <w>viðhalds-</w> 
-  <w>og</w>
-  <w>varahlutaþjónustu</w>
+  <revision id="1">
+    <original><w>viðhalds-og</w><w>varahlutaþjónustu</w></original>
+    <corrected><w>viðhalds- og varahlutaþjónustu</w></corrected>
+      <errors>
+        <error xtype="missing-space" eid="0" />
+      </errors>
+  </revision>
   <w>fyrir</w>
   <w>flota</w>
   <w>I</w>

@@ -532,9 +532,13 @@
   <w>kom</w>
   <w>fram</w>
   <w>í</w>
-  <w>sjónvarps-</w> 
-  <w>og</w>
-  <w>blaðaviðtölum</w>
+  <revision id="17">
+    <original><w>sjónvarps-og</w><w>blaðaviðtölum</w></original>
+    <corrected><w>sjónvarps- og blaðaviðtölum</w></corrected>
+      <errors>
+        <error xtype="missing-space" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>sagðist</w>
   <w>telja</w>

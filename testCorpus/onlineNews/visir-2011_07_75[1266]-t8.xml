@@ -229,9 +229,13 @@
   <w>að</w>
   <w>efla</w>
   <w>viðbúnað</w>
-  <w>neyðar-</w> 
-  <w>og</w>
-  <w>öryggisþjónustunnar</w>
+  <revision id="6">
+    <original><w>neyðar-og</w><w>öryggisþjónustunnar</w></original>
+    <corrected><w>neyðar- og öryggisþjónustunnar</w></corrected>
+      <errors>
+        <error xtype="xxx" eid="0" />
+      </errors>
+  </revision>
   <w>á</w>
   <w>viðkomandi</w>
   <w>svæði</w>

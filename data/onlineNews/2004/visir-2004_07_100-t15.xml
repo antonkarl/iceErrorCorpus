@@ -6,9 +6,13 @@
   <w>Jón</w>
   <w>Kristjánsson</w>
   <c>,</c>
-  <w>heilbrigðis-</w> 
-  <w>og</w>
-  <w>tryggingamálaráðherra</w>
+  <revision id="1">
+    <original><w>heilbrigðis-og</w><w>tryggingamálaráðherra</w></original>
+    <corrected><w>heilbrigðis- og tryggingamálaráðherra</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>undirritaði</w>
   <w>í</w>
@@ -35,6 +39,8 @@
   <w>léninu</w>
   <w>lydheilsustod</w>
   <c>.</c>
+</s>
+<s n="3">
   <w>is</w>
   <c>.</c>
 </s>

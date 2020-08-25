@@ -29,9 +29,13 @@
   <c>.</c>
 </s>
 <s n="2">
-  <w>Loft-</w> 
-  <w>og</w>
-  <w>eldflaugaárásir</w>
+  <revision id="1">
+    <original><w>Loft-og</w><w>eldflaugaárásir</w></original>
+    <corrected><w>Loft- og eldflaugaárásir</w></corrected>
+      <errors>
+        <error xtype="missing-space" eid="0" />
+      </errors>
+  </revision>
   <w>deiluaðila</w>
   <w>héldu</w>
   <w>áfram</w>

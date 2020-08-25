@@ -87,9 +87,13 @@
   <w>skransaði</w>
   <w>bíllinn</w>
   <w>yfir</w>
-  <w>rútu-</w> 
-  <w>og</w>
-  <w>leigubílastæði</w>
+  <revision id="4">
+    <original><w>rútu-og</w><w>leigubílastæði</w></original>
+    <corrected><w>rútu- og leigubílastæði</w></corrected>
+      <errors>
+        <error xtype="missing-space" eid="0" />
+      </errors>
+  </revision>
   <w>áður</w>
   <w>en</w>
   <w>hann</w>

@@ -4,9 +4,13 @@
 <text><body><p n="1">
 <s n="1">
   <w>Oddviti</w>
-  <w>Skeiða-</w> 
-  <w>og</w>
-  <w>Gnúpverjahrepps</w>
+  <revision id="1">
+    <original><w>Skeiða-og</w><w>Gnúpverjahrepps</w></original>
+    <corrected><w>Skeiða- og Gnúpverjahrepps</w></corrected>
+      <errors>
+        <error xtype="missing-space" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>ekki</w>
   <w>eðlilegt</w>
@@ -75,9 +79,13 @@
   <w>skorta</w>
   <w>að</w>
   <w>hreppsnefnd</w>
-  <w>Skeiða-</w> 
-  <w>og</w>
-  <w>Gnúpverjahrepps</w>
+  <revision id="2">
+    <original><w>Skeiða-og</w><w>Gnúpverjahrepps</w></original>
+    <corrected><w>Skeiða- og Gnúpverjahrepps</w></corrected>
+      <errors>
+        <error xtype="missing-space" eid="0" />
+      </errors>
+  </revision>
   <w>héldi</w>
   <w>kynningarfund</w>
   <w>með</w>

@@ -14,9 +14,13 @@
   <w>Center</w>
   <w>hinnar</w>
   <w>þekktu</w>
-  <w>hótel-</w> 
-  <w>og</w>
-  <w>ráðstefnuhallar</w>
+  <revision id="1b">
+    <original><w>hótel-og</w><w>ráðstefnuhallar</w></original>
+    <corrected><w>hótel- og ráðstefnuhallar</w></corrected>
+      <errors>
+        <error xtype="missing-space" eid="0" />
+      </errors>
+  </revision>
   <w>í</w>
   <w>Kaupmannahöfn</w>
   <revision id="2">

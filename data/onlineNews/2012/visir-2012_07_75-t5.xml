@@ -59,9 +59,13 @@
   <w>að</w>
   <w>sumarhúsaeigendur</w>
   <w>í</w>
-  <w>Grímsnes-</w> 
-  <w>og</w>
-  <w>Grafningshreppi</w>
+  <revision id="3">
+    <original><w>Grímsnes-og</w><w>Grafningshreppi</w></original>
+    <corrected><w>Grímsnes- og Grafningshreppi</w></corrected>
+      <errors>
+        <error xtype="missing-space" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>Bláskógabyggð</w>
   <w>ættu</w>

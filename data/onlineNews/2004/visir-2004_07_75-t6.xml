@@ -183,9 +183,13 @@
 <s n="7">
   <w>Þar</w>
   <w>verður</w>
-  <w>bóka-</w>
-  <w>og</w>
-  <w>gjafavöruverslun</w>
+  <revision id="6">
+    <original><w>bóka-og</w><w>gjafavöruverslun</w></original>
+    <corrected><w>bóka- og gjafavöruverslun</w></corrected>
+      <errors>
+        <error xtype="missing-space" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>gallerí</w>
   <c>,</c>

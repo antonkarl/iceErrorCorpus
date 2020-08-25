@@ -11,12 +11,11 @@
   <w>á</w>
   <w>fyrstu</w>
   <w>sumarhátíð</w>
-  <w>hjúkrunar-</w> 
-  <w>og</w>
   <revision id="1">
-    <original><w>endurhæfingaheimilisins</w></original>
-    <corrected><w>endurhæfingarheimilisins</w></corrected>
+    <original><w>hjúkrunar-og</w><w>endurhæfingaheimilisins</w></original>
+    <corrected><w>hjúkrunar- og endurhæfingarheimilisins</w></corrected>
       <errors>
+        <error xtype="missing-space" eid="0" />
         <error xtype="compound-collocation" idx="1-1" eid="0" />
         <error xtype="compound-nonword" idx="1-1" eid="0" />
       </errors>

@@ -191,9 +191,13 @@
   <w>og</w>
   <w>lyga</w>
   <w>sem</w>
-  <w>vef-</w> 
-  <w>og</w>
-  <w>fjölmiðlar</w>
+  <revision id="5">
+    <original><w>vef-og</w><w>fjölmiðlar</w></original>
+    <corrected><w>vef- og fjölmiðlar</w></corrected>
+      <errors>
+        <error xtype="missing-space" eid="0" />
+      </errors>
+  </revision>
   <w>á</w>
   <w>Íslandi</w>
   <w>hafa</w>

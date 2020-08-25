@@ -93,9 +93,13 @@
   <w>upplifun</w>
   <w>fyrir</w>
   <w>alla</w>
-  <w>náttúru-</w> 
-  <w>og</w>
-  <w>dýraunnendur</w>
+  <revision id="3">
+    <original><w>náttúru-og</w><w>dýraunnendur</w></original>
+    <corrected><w>náttúru- og dýraunnendur</w></corrected>
+      <errors>
+        <error xtype="missing-space" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>þess</w>
   <w>má</w>

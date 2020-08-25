@@ -28,15 +28,13 @@
   <w>Jón</w>
   <w>Bjarnason</w>
   <revision id="1">
-    <original><c>,</c></original>
-    <corrected></corrected>
+    <original><c>,</c><w>sjávarútvegs-og</w><w>landbúnaðarráðherra</w></original>
+    <corrected><w>sjávarútvegs- og landbúnaðarráðherra</w></corrected>
       <errors>
         <error xtype="extra-comma" eid="0" />
+        <error xtype="missing-space" eid="0" />
       </errors>
   </revision>
-  <w>sjávarútvegs-</w>
-  <w>og</w>
-  <w>landbúnaðarráðherra</w>
   <w>hefur</w>
   <w>ekki</w>
   <revision id="2">
@@ -347,8 +345,7 @@
   <w>að</w>
   <w>umboð</w>
   <w>fulltrúa</w>
-  <w>sjávarútvegs-</w> 
-  <w>og</w>
+  <w>sjávarútvegs-og</w>
   <w>landbúnaðarráðuneytis</w>
   <w>væri</w>
   <w>takmarkað</w>

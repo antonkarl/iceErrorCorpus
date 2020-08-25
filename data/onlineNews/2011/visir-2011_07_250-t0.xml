@@ -177,9 +177,13 @@
   <w>var</w>
   <w>beint</w>
   <w>til</w>
-  <w>dómsmála-</w> 
-  <w>og</w>
-  <w>mannréttindaráðuneytisins</w>
+  <revision id="2">
+    <original><w>dómsmála-og</w><w>mannréttindaráðuneytisins</w></original>
+    <corrected><w>dómsmála- og mannréttindaráðuneytisins</w></corrected>
+      <errors>
+        <error xtype="missing-space" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>kom</w>
   <w>fram</w>

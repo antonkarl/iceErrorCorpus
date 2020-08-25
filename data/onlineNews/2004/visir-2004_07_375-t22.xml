@@ -403,9 +403,13 @@
   <w>koma</w>
   <w>Davíð</w>
   <w>í</w>
-  <w>viðskipta-</w> 
-  <w>og</w>
-  <w>iðnaðarráðuneytið</w>
+  <revision id="14">
+    <original><w>viðskipta-og</w><w>iðnaðarráðuneytið</w></original>
+    <corrected><w>viðskipta- og iðnaðarráðuneytið</w></corrected>
+      <errors>
+        <error xtype="missing-space" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 </p></body></text>
