@@ -78,8 +78,8 @@
     <original><w>skara</w></original>
     <corrected><w>skarar</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="15-1" eid="0"/>
-        <error xtype="collocation" idx="15-1" eid="0"/>
+        <error xtype="missing-letter" idx="2-1" eid="0"/>
+        <error xtype="collocation" idx="2-1" eid="0"/>
       </errors>
   </revision>
   <w>skríða</w>
@@ -206,7 +206,14 @@
 </s><s n="10">
   <w>Fréttir</w>
   <w>berast</w>
-  <w>allstaðar</w>
+  <revision id="2b">
+    <original><w>allstaðar</w></original>
+    <corrected><w>alls</w><w>staðar</w></corrected>
+      <errors>
+        <error xtype="merged-words" idx="2b-1" eid="0"/>
+        <error xtype="missing-letter" idx="2b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>að</w>
   <w>um</w>
   <w>hryðjuverkaárásir</w>
@@ -346,7 +353,13 @@
   <w>munni</w>
   <w>fórnarlambsins</w>
   <w>og</w>
-  <w>byrjuðuð</w>
+  <revision id="4b">
+    <original><w>byrjuðuð</w></original>
+    <corrected><w>byrjuðu</w></corrected>
+      <errors>
+        <error xtype="agreement-pred" eid="0"/>
+      </errors>
+  </revision>
   <w>svo</w>
   <w>að</w>
   <w>höggva</w>
@@ -824,7 +837,13 @@
   <w>enginn</w>
   <w>veit</w>
   <w>hverjar</w>
-  <w>fyrirætlanar</w>
+  <revision id="7b">
+    <original><w>fyrirætlanar</w></original>
+    <corrected><w>fyrirætlanir</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0"/>
+      </errors>
+  </revision>
   <w>hryðjuverkamannanna</w>
   <w>eru</w>
   <c>,</c>
@@ -1406,7 +1425,14 @@
 </s><s n="63">
   <w>Bandaríkin</w>
   <w>eru</w>
-  <w>voldugusta</w>
+  <revision id="15b">
+    <original><w>voldugusta</w></original>
+    <corrected><w>voldugasta</w></corrected>
+      <errors>
+        <error xtype="letter-rep" idx="15b-1" eid="0"/>
+        <error xtype="nonword" idx="15b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>þjóð</w>
   <w>veraldar</w>
   <c>.</c>
@@ -1456,7 +1482,13 @@
   <c>.</c>
 </s><s n="67">
   <w>Hryðjuverk</w>
-  <w>Hryðjuverk</w>
+  <revision id="15c">
+    <original><w>Hryðjuverk</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0"/>
+      </errors>
+  </revision>
   <w>eru</w>
   <w>orðin</w>
   <w>æ</w>
@@ -1578,7 +1610,13 @@
   <w>eru</w>
   <w>samtök</w>
   <w>heittrúaðra</w>
-  <w>múslima</w>
+  <revision id="16b">
+    <original><w>múslima</w></original>
+    <corrected><w>múslíma</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0"/>
+      </errors>
+  </revision>
   <w>sem</w>
   <w>starfa</w>
   <w>undir</w>
@@ -1646,7 +1684,14 @@
   <w>og</w>
   <w>Arabar</w>
   <w>voru</w>
-  <w>allstaðar</w>
+  <revision id="16c">
+    <original><w>allstaðar</w></original>
+    <corrected><w>alls</w><w>staðar</w></corrected>
+      <errors>
+        <error xtype="merged-words" idx="16c-1" eid="0"/>
+        <error xtype="missing-letter" idx="16c-1" eid="0"/>
+      </errors>
+  </revision>
   <w>litnir</w>
   <w>hornauga</w>
   <c>(</c>

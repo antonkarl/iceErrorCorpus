@@ -142,7 +142,13 @@
   <w>erfiðir</w>
   <w>og</w>
   <w>sorglegir</w>
-  <w>atburðið</w>
+  <revision id="4b">
+    <original><w>atburðið</w></original>
+    <corrected><w>atburðir</w></corrected>
+      <errors>
+        <error xtype="letter-rep" eid="0"/>
+      </errors>
+  </revision>
   <w>gengið</w>
   <w>í</w>
   <w>garð</w>
@@ -851,7 +857,13 @@
   <w>og</w>
   <w>þörf</w>
   <w>á</w>
-  <w>endurskipulögn</w>
+  <revision id="16b">
+    <original><w>endurskipulögn</w></original>
+    <corrected><w>endurskipulagningu</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0"/>
+      </errors>
+  </revision>
   <w>á</w>
   <w>lífi</w>
   <w>einstaklinganna</w>
@@ -952,7 +964,14 @@
   <w>lítil</w>
   <w>áhrif</w>
   <w>á</w>
-  <w>mankynssöguna</w>
+  <revision id="16c">
+    <original><w>mankynssöguna</w></original>
+    <corrected><w>mannkynssöguna</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="16c-1" eid="0"/>
+        <error xtype="nonword" idx="16c-1" eid="0"/>
+      </errors>
+  </revision>
   <c>,</c>
   <w>þótt</w>
   <revision id="17">

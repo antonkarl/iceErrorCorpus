@@ -134,7 +134,7 @@
   <w>13</w>
   <w>til</w>
   <w>17</w>
-
+  <c>-</c>
   <w>18</w>
   <w>ára</w>
   <w>er</w>
@@ -161,7 +161,13 @@
   <w>jákvætt</w>
   <w>að</w>
   <w>vita</w>
-  <w>fyrirfram</w>
+  <revision id="0">
+    <original><w>fyrirfram</w></original>
+    <corrected><w>fyrir</w><w>fram</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0"/>
+      </errors>
+  </revision>
   <w>af</w>
   <w>breytingum</w>
   <w>sem</w>
@@ -1018,7 +1024,14 @@
   <w>er</w>
   <w>reglubundinn</w>
   <w>og</w>
-  <w>ofast</w>
+  <revision id="6b">
+    <original><w>ofast</w></original>
+    <corrected><w>oftast</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="6b-1" eid="0"/>
+        <error xtype="nonword" idx="6b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>ánægjulegur</w>
   <c>.</c>
 </s><s n="42">
