@@ -817,7 +817,7 @@
     <corrected><w>einn</w><w>daginn</w><c>,</c></corrected>
       <errors>
         <error xtype="dep" depId="34-1" eid="0" />
-        <error xtype="missing-comma" depId="34-2" eid="0" />
+        <error xtype="missing-comma" idx="34-2" eid="0" />
       </errors>
   </revision>
   <w>hans</w>
@@ -933,7 +933,7 @@
     <original><w>Og</w><w>vá</w><w>hvað</w><w>ég</w></original>
     <corrected><w>Ég</w></corrected>
       <errors>
-        <error xtype="dep" idx="42-2" eid="0" />
+        <error xtype="dep" depId="42-2" eid="0" />
         <error xtype="extra-word" idx="43-1" eid="0" />
       </errors>
   </revision>
