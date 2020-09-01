@@ -67,6 +67,13 @@
   <w>Mér</w>
   <w>fannst</w>
   <w>ég</w>
+    <revision id="1">
+    <original><w></w></original>
+    <corrected><w>vera</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
   <w>orðinn</w>
   <w>stór</w>
   <w>og</w>
@@ -124,8 +131,13 @@
   <w>sem</w>
   <w>var</w>
   <w>okkar</w>
-  <w>aðal</w>
-  <w>afkoma</w>
+  <revision id="1b">
+    <original><w>aðal</w><w>afkoma</w></original>
+    <corrected><w>aðalafkoma</w></corrected>
+      <errors>
+        <error xtype="split-word" eid="0" />
+      </errors>
+  </revision>
   <w>í</w>
   <w>þjóðarbúið</w>
   <c>,</c>
@@ -134,7 +146,7 @@
   <w>að</w>
   <w>lúta</w>
   <w>í</w>
-  <revision id="1">
+  <revision id="1c">
     <original><w>lægri</w></original>
     <corrected><w>lægra</w></corrected>
       <errors>
@@ -557,6 +569,13 @@
   <w>í</w>
   <w>aðal</w>
   <w>gróðrarlindina</w>
+    <revision id="8b">
+    <original><w>aðal</w><w>gróðrarlindina</w></original>
+    <corrected><w>aðalgróðrarlindina</w></corrected>
+      <errors>
+        <error xtype="split-word" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>bankana</w>
   <c>.</c>
@@ -665,6 +684,13 @@
   <w>allt</w>
   <w>frá</w>
   <w>því</w>
+  <revision id="11b">
+    <original></original>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
   <w>ég</w>
   <w>útskrifaðist</w>
   <w>úr</w>
