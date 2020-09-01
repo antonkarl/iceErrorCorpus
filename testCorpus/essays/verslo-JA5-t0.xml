@@ -572,14 +572,25 @@
   <w>til</w>
   <w>að</w>
   <w>ganga</w>
-  <w>viðburðarlaust</w>
+  <revision id="11b">
+    <original><w>viðburðarlaust</w></original>
+    <corrected><w>viðburðalaust</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" eid="0"/>
+      </errors>
+  </revision>
   <w>í</w>
   <w>langan</w>
   <w>tíma</w>
   <w>þar</w>
   <w>til</w>
-  <w>einn</w>
-  <w>dag</w>
+  <revision id="11c">
+    <original><w>einn</w><w>dag</w></original>
+    <corrected><w>dag</w><w>einn</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
   <w>upplifum</w>
   <w>við</w>
   <w>eitthvað</w>
