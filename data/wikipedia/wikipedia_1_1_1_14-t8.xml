@@ -253,7 +253,7 @@
     <original><w>um</w></original>
     <corrected/>
       <errors>
-        <error xtype="extra-word" eid="0"/>
+        <error xtype="repeat-word" eid="0"/>
       </errors>
   </revision>
   <w>um</w>
@@ -971,7 +971,7 @@
     <original><w>til</w></original>
     <corrected/>
       <errors>
-        <error xtype="extra-word" eid="0"/>
+        <error xtype="repeat-word-split" eid="0"/>
       </errors>
   </revision>
   <w>bæði</w>
@@ -1182,7 +1182,7 @@
       <errors>
         <error xtype="agreement-pro" idx="14-1" eid="0"/>
         <error xtype="ind4sub" idx="14-2" eid="0"/>
-        <error xtype="extra-word" idx="14-3" eid="0"/>
+        <error xtype="repeat-word" idx="14-3" eid="0"/>
       </errors>
   </revision>
   <w>liðamót</w>
@@ -1474,7 +1474,7 @@
     <original><w>er</w></original>
     <corrected/>
       <errors>
-        <error xtype="extra-word" eid="0"/>
+        <error xtype="repeat-word-split" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -1572,7 +1572,7 @@
     <original><w>er</w></original>
     <corrected/>
       <errors>
-        <error xtype="extra-word" eid="0"/>
+        <error xtype="repeat-word" eid="0"/>
       </errors>
   </revision>
   <w>almennt</w>

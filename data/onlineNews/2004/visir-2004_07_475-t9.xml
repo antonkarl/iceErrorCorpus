@@ -183,7 +183,8 @@
     <original><w>að</w><w>halda</w></original>
     <corrected></corrected>
       <errors>
-        <error xtype="extra-words" eid="0" />
+        <error xtype="repeat-word-split" idx="2-1" eid="0" />
+        <error xtype="repeat-word-split" idx="2-2" eid="0" />
       </errors>
   </revision>
   <w>að</w>

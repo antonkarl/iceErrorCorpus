@@ -17,12 +17,13 @@
   <w>bilinu</w>
   <w>4,5</w>
   <revision id="1">
-    <original><w>prósent</w><w>til</w></original>
+    <original><w>prósent</w></original>
     <corrected></corrected>
       <errors>
-        <error xtype="extra-words" eid="0" />
+        <error xtype="repeat-word-split" eid="0" />
       </errors>
   </revision>
+  <w>til</w>
   <w>4,8</w>
   <w>prósent</w>
   <w>eftir</w>

@@ -1388,10 +1388,10 @@
   <w>ég</w>
   <w>á</w>
   <revision id="18">
-    <original/>
-    <corrected><w>á</w></corrected>
+    <original><w>á</w></original>
+    <corrected></corrected>
       <errors>
-        <error xtype="extra-word" eid="0"/>
+        <error xtype="repeat-word" eid="0"/>
       </errors>
   </revision>
   <w>að</w>

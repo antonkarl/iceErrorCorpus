@@ -220,7 +220,7 @@
     <original><w>1 milljón</w><w>til</w></original>
     <corrected><w>1</w><c>-</c></corrected>
       <errors>
-        <error xtype="extra-word" idx="7-1" eid="0"/>
+        <error xtype="repeat-word-split" idx="7-1" eid="0"/>
         <error xtype="word4symbol" idx="7-2" eid="0"/>
       </errors>
   </revision>

@@ -560,7 +560,9 @@
     <original><w>eftir</w><w>tilskylinn</w><w>tíma</w></original>
     <corrected/>
       <errors>
-        <error xtype="extra-words" idx="21-1" eid="0"/>
+        <error xtype="wording" idx="21-1" eid="0"/>
+        <error xtype="y4i" idx="21-2" eid="0"/>
+        <error xtype="nonword" idx="21-2" eid="0"/>
       </errors>
   </revision>
   <w>þetta</w>
@@ -575,7 +577,7 @@
   <w>tungumálinu</w>
   <revision id="10">
     <original/>
-    <corrected><w>eftir</w><w>tilskylinn</w><w>tíma</w></corrected>
+    <corrected><w>eftir</w><w>tilskilinn</w><w>tíma</w></corrected>
       <errors>
         <error xtype="dep" depId="21-1" eid="0"/>
       </errors>

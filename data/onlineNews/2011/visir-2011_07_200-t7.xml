@@ -49,7 +49,8 @@
     <original><w>í</w><w>lögin</w></original>
     <corrected></corrected>
       <errors>
-        <error xtype="extra-words" eid="0" />
+        <error xtype="repeat-word-split" idx="1-1" eid="0" />
+        <error xtype="repeat-word-split" idx="1-2" eid="0" />
       </errors>
   </revision>
   <w>tilvitnun</w>
@@ -175,7 +176,7 @@
     <original><w>slitastjórn</w></original>
     <corrected></corrected>
       <errors>
-        <error xtype="extra-word" eid="0" />
+        <error xtype="repeat-word-split" eid="0" />
       </errors>
   </revision>
   <w>störfum</w>
