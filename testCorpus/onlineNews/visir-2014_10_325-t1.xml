@@ -6,7 +6,14 @@
   <w>Engin</w>
   <w>reykur</w>
   <w>barst</w>
-  <w>in</w>
+  <revision id="0">
+    <original><w>in</w></original>
+    <corrected><w>inn</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="0-1" eid="0"/>
+        <error xtype="nonword" idx="0-1" eid="0"/>
+      </errors>
+  </revision>
   <w>í</w>
   <w>skólahúsið</w>
   <w>og</w>

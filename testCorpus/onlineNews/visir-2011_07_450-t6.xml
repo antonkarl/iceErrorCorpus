@@ -235,6 +235,13 @@
   <c>,</c>
   <w>framkvæmdastjóri</w>
   <w>Reyst</w>
+  <revision id="2b">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>þetta</w>
   <w>ekki</w>
@@ -412,7 +419,7 @@
   <w>klára</w>
   <w>málið</w>
   <c>,</c>
-  <c>&quot;</c>
+  <c>“</c>
   <w>segir</w>
   <w>Edda</w>
   <w>og</w>

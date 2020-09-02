@@ -72,7 +72,14 @@
 <s n="4">
   <w>Þá</w>
   <w>varar</w>
-  <w>Vegaagerðin</w>
+  <revision id="1">
+    <original><w>Vegaagerðin</w></original>
+    <corrected><w>Vegagerðin</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="1-1" eid="0" />
+        <error xtype="extra-letter" idx="1-1" eid="0" />
+      </errors>
+  </revision>
   <w>enn</w>
   <w>við</w>
   <w>jarðsigi</w>

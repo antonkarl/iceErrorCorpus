@@ -84,7 +84,13 @@
   <w>bóka</w>
   <w>Arnaldar</w>
   <c>,</c>
-  <w>Mýrinnar</w>
+  <revision id="0">
+    <original><w>Mýrinnar</w></original>
+    <corrected><w>Mýrarinnar</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>Grafarþagnar</w>
   <c>,</c>
@@ -398,15 +404,7 @@
   <w>rithöfundum</w>
   <w>hér</w>
   <w>því</w>
-  <w>e.</w>
-  <w>t</w>
-  <c>.</c>
-</s>
-<s n="18">
-  <w>v</w>
-  <c>.</c>
-</s>
-<s n="19">
+  <w>e.t.v.</w>
   <w>ekki</w>
   <w>þótt</w>
   <w>sér</w>
@@ -419,9 +417,21 @@
   <w>þó</w>
   <w>er</w>
   <w>óumdeilanlega</w>
-  <c>"</c>
+  <revision id="1b">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" idx="1b-1" eid="0" />
+      </errors>
+  </revision>
   <w>alvöru</w>
-  <c>"</c>
+  <revision id="1c">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="dep" depId="1b-1" eid="0" />
+      </errors>
+  </revision>
   <w>rithöfundur</w>
   <c>.</c>
 </s>

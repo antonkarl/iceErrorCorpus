@@ -141,7 +141,14 @@
   <w>En</w>
   <w>jafnvel</w>
   <w>áköfustu</w>
-  <w>stuðingsmenn</w>
+  <revision id="1b">
+    <original><w>stuðingsmenn</w></original>
+    <corrected><w>stuðningsmenn</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="1b-1" eid="0" />
+        <error xtype="nonword" idx="1b-1" eid="0" />
+      </errors>
+  </revision>
   <w>forsætisráðherrans</w>
   <w>á</w>
   <w>þinginu</w>

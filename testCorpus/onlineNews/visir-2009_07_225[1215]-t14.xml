@@ -104,7 +104,13 @@
   <w>ekki</w>
   <w>við</w>
   <w>miskunnsama</w>
-  <w>samverjann</w>
+  <revision id="1">
+    <original><w>samverjann</w></original>
+    <corrected><w>Samverjann</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
   <w>né</w>
   <w>gátu</w>
   <w>kastað</w>

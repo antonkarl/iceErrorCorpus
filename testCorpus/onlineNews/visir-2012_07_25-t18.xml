@@ -55,7 +55,13 @@
 <s n="4">
   <w>Sveinn</w>
   <w>lék</w>
-  <w>framhjá</w>
+  <revision id="0">
+    <original><w>framhjá</w></original>
+    <corrected><w>fram</w><w>hjá</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>Martini</w>
   <w>Erni</w>
   <w>Halldórssyni</w>
