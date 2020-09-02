@@ -21,7 +21,14 @@
   <w>Kongófljóti</w>
   <c>.</c>
 </s><s n="2">
-  <w>Áríð</w>
+  <revision id="0">
+    <original><w>Áríð</w></original>
+    <corrected><w>Árið</w></corrected>
+      <errors>
+        <error xtype="extra-accent" idx="0-1" eid="0"/>
+        <error xtype="nonword" idx="0-1" eid="0"/>
+      </errors>
+  </revision>
   <w>1908</w>
   <w>lét</w>
   <w>belgíska</w>
@@ -221,7 +228,14 @@
   <w>2.</w>
   <w>varð</w>
   <w>Fríríkið</w>
-  <w>Kóngó</w>
+  <revision id="6b">
+    <original><w>Kóngó</w></original>
+    <corrected><w>Kongó</w></corrected>
+      <errors>
+        <error xtype="extra-accent" idx="6b-1" eid="0"/>
+        <error xtype="nonword" idx="6b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>að</w>
   <w>miklu</w>
   <w>hneyksli</w>
@@ -362,7 +376,14 @@
   <c>.</c>
 </s><s n="16">
   <w>Fríríkið</w>
-  <w>Kóngó</w>
+  <revision id="8b">
+    <original><w>Kóngó</w></original>
+    <corrected><w>Kongó</w></corrected>
+      <errors>
+        <error xtype="extra-accent" idx="8b-1" eid="0"/>
+        <error xtype="nonword" idx="8b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>var</w>
   <w>búið</w>
   <w>til</w>

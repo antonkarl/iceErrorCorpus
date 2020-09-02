@@ -229,7 +229,13 @@
   <w>staðið</w>
   <w>uppreisn</w>
   <w>meirihluta</w>
-  <w>sjíamúslima</w>
+  <revision id="5b">
+    <original><w>sjíamúslima</w></original>
+    <corrected><w>sjíamúslíma</w></corrected>
+      <errors>
+        <error xtype="missing-comma" idx="5b-1" eid="0" />
+      </errors>
+  </revision>
   <w>gegn</w>
   <w>stjórninni</w>
   <c>.</c>

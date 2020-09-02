@@ -9,8 +9,13 @@
   <w>stærstu</w>
   <w>blaðlúsum</w>
   <c>,</c>
-  <w>óvenju</w>
-  <w>dökk</w>
+  <revision id="0">
+    <original><w>óvenju</w><w>dökk</w></original>
+    <corrected><w>óvenjudökk</w></corrected>
+      <errors>
+        <error xtype="split-word" eid="0"/>
+      </errors>
+  </revision>
   <w>á</w>
   <w>lit</w>
   <w>og</w>

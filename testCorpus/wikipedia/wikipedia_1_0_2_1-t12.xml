@@ -65,7 +65,13 @@
   <c>,</c>
   <w>sunnan</w>
   <w>við</w>
-  <c>:</c>
+  <revision id="0">
+    <original><c>:</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-colon" eid="0" />
+      </errors>
+  </revision>
   <w>IJsselmeer</w>
   <w>og</w>
   <w>suðaustur</w>
@@ -905,7 +911,14 @@
   <w>upphafi</w>
   <w>18.</w>
   <w>aldar</w>
-  <w>geysaði</w>
+  <revision id="22b">
+    <original><w>geysaði</w></original>
+    <corrected><w>geisaði</w></corrected>
+      <errors>
+        <error xtype="y4i" idx="22b-1" eid="0" />
+        <error xtype="nonword" idx="22b-1" eid="0" />
+      </errors>
+  </revision>
   <w>spænska</w>
   <w>erfðastríðið</w>
   <c>.</c>
@@ -1018,7 +1031,14 @@
   <w>það</w>
   <w>myndaðist</w>
   <w>mikið</w>
-  <w>byggingapláss</w>
+  <revision id="25b">
+    <original><w>byggingapláss</w></original>
+    <corrected><w>byggingarpláss</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="25b-1" eid="0" />
+        <error xtype="compound-nonword" idx="25b-1" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="46">

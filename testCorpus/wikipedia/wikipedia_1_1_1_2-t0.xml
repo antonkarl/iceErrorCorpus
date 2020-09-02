@@ -706,7 +706,13 @@
   </revision>
   <w>Amatör</w>
   <w>að</w>
-  <w>Laugarvegi</w>
+  <revision id="32b">
+    <original><w>Laugarvegi</w></original>
+    <corrected><w>Laugavegi</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" eid="0"/>
+      </errors>
+  </revision>
   <w>55</w>
   <w>við</w>
   <w>hliðina</w>
@@ -957,7 +963,13 @@
   <w>má</w>
   <w>því</w>
   <w>segja</w>
-  <c>,</c>
+  <revision id="42b">
+    <original><c>,</c></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-comma" eid="0"/>
+      </errors>
+  </revision>
   <w>að</w>
   <w>hann</w>
   <w>hafi</w>
@@ -971,9 +983,15 @@
   <w>rækta</w>
   <w>með</w>
   <w>sér</w>
-  <w>flestar</w>
-  <w>þær</w>
-  <w>eigindir</w>
+  <revision id="42c">
+    <original><w>flestar</w><w>þær</w><w>eigindir</w></original>
+    <corrected><w>flest</w><w>þau</w><w>eigindi</w></corrected>
+      <errors>
+        <error xtype="agreement-concord" idx="42c-1" eid="0"/>
+        <error xtype="agreement-concord" idx="42c-1" eid="0"/>
+        <error xtype="extra-letter" idx="42c-1" eid="0"/>
+      </errors>
+  </revision>
   <revision id="43">
     <original><c>,</c></original>
     <corrected/>
@@ -2339,8 +2357,13 @@
   <w>í</w>
   <w>myndatöku</w>
   <w>og</w>
-  <w>afbragðs</w>
-  <w>lausn</w>
+  <revision id="96b">
+    <original><w>afbragðs</w><w>lausn</w></original>
+    <corrected><w>afbragðslausn</w></corrected>
+      <errors>
+        <error xtype="compound-split" eid="0"/>
+      </errors>
+  </revision>
   <w>á</w>
   <w>hinni</w>
   <w>fljúgandi</w>

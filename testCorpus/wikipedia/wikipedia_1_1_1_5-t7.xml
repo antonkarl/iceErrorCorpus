@@ -47,7 +47,14 @@
   <w>frá</w>
   <w>auganu</w>
   <w>að</w>
-  <w>tálknloksbeininu</w>
+  <revision id="1">
+    <original><w>tálknloksbeininu</w></original>
+    <corrected><w>tálknaloksbeininu</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="1-1" eid="0"/>
+        <error xtype="compound-nonword" idx="1-1" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="3">
   <w>Innvermnir</w>
@@ -131,7 +138,14 @@
   <w>en</w>
   <w>sumar</w>
   <w>tegundir</w>
-  <w>háffiska</w>
+  <revision id="3b">
+    <original><w>háffiska</w></original>
+    <corrected><w>háfiska</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="3b-1" eid="0"/>
+        <error xtype="compound-nonword" idx="3b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>og</w>
   <w>túnfiska</w>
   <w>eru</w>
@@ -315,7 +329,13 @@
   <c>.</c>
 </s><s n="13">
   <w>Mikil</w>
-  <w>blóðfrumumyndum</w>
+  <revision id="6b">
+    <original><w>blóðfrumumyndum</w></original>
+    <corrected><w>blóðfrumumyndun</w></corrected>
+      <errors>
+        <error xtype="letter-rep" eid="0"/>
+      </errors>
+  </revision>
   <w>fer</w>
   <w>fram</w>
   <w>í</w>
@@ -427,7 +447,14 @@
   <w>kemur</w>
   <w>aftur</w>
   <w>úr</w>
-  <w>styrtlunni</w>
+  <revision id="8b">
+    <original><w>styrtlunni</w></original>
+    <corrected><w>stirtlunni</w></corrected>
+      <errors>
+        <error xtype="y4i" idx="8b-1" eid="0"/>
+        <error xtype="nonword" idx="8b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>og</w>
   <w>flestir</w>
   <w>fiskar</w>
@@ -2018,7 +2045,14 @@
   <w>og</w>
   <w>sporð</w>
   <c>(</c>
-  <w>styrtlu</w>
+  <revision id="26b">
+    <original><w>styrtlu</w></original>
+    <corrected><w>stirtlu</w></corrected>
+      <errors>
+        <error xtype="y4i" idx="26b-1" eid="0"/>
+        <error xtype="nonword" idx="26b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>og</w>
   <w>sporðblöðku</w>
   <c>)</c>
@@ -2148,7 +2182,15 @@
   <w>brjóskfiska</w>
   <c>(</c>
   <w><i>Chondrichthyes</i></w>
-  <c>-háffiskar</c>
+  <revision id="26c">
+    <original><c>-háffiskar</c></original>
+    <corrected><c>-</c><w>háfiskar</w></corrected>
+      <errors>
+        <error xtype="missing-space" idx="26c-1" eid="0"/>
+        <error xtype="compound-collocation" idx="26c-2" eid="0"/>
+        <error xtype="compound-nonword" idx="26c-2" eid="0"/>
+      </errors>
+  </revision>
   <w>og</w>
   <w>skötur</w>
   <c>)</c>
@@ -2340,7 +2382,14 @@
   <w>ránfiskar</w>
   <c>.</c>
 </s><s n="108">
-  <w>Fiskasjúkdómar</w>
+  <revision id="28b">
+    <original><w>Fiskasjúkdómar</w></original>
+    <corrected><w>Fisksjúkdómar</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="28b-1" eid="0"/>
+        <error xtype="compound-nonword" idx="28b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>geta</w>
   <w>valdið</w>
   <w>miklum</w>
@@ -2358,7 +2407,14 @@
   <w>háfiskar</w>
   <c>)</c>
   <w>hafa</w>
-  <w>þróaðara</w>
+  <revision id="28c">
+    <original><w>þróaðara</w></original>
+    <corrected><w>þróaðra</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="28c-1" eid="0"/>
+        <error xtype="nonword" idx="28c-1" eid="0"/>
+      </errors>
+  </revision>
   <w>ónæmiskerfi</w>
   <w>en</w>
   <w>vankjálkar</w>
@@ -2658,8 +2714,13 @@
   <w>til</w>
   <w>skiptis</w>
   <w>vöðvapör</w>
-  <w>sitt</w>
-  <w>hvorum</w>
+  <revision id="28d">
+    <original><w>sitt</w><w>hvorum</w></original>
+    <corrected><w>hvor</w><w>sínum</w></corrected>
+      <errors>
+        <error xtype="each" eid="0"/>
+      </errors>
+  </revision>
   <w>megin</w>
   <w>við</w>
   <w>hrygginn</w>
@@ -3106,7 +3167,14 @@
   <c>,</c>
   <w>allt</w>
   <w>frá</w>
-  <w>geirnefnum</w>
+  <revision id="30b">
+    <original><w>geirnefnum</w></original>
+    <corrected><w>geirnefinum</w></corrected>
+      <errors>
+        <error xtype="missing-letter" depId="30b-1" eid="0"/>
+        <error xtype="nonword" depId="30b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>sem</w>
   <w>heldur</w>
   <w>aðeins</w>
@@ -4465,8 +4533,13 @@
   <w>sílúrtímabilinu</w>
   <w>fyrir</w>
   <w>rúmum</w>
-  <w>400 milljón</w>
-  <w>árum</w>
+  <revision id="46b">
+    <original><w>400 milljón</w><w>árum</w></original>
+    <corrected><w>400</w><w>milljónum</w><w>ára</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="205">
   <w>Í</w>
@@ -4490,6 +4563,13 @@
   </revision>
   <w>í</w>
   <w>Bandaríkjunum</w>
+  <revision id="47b">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0"/>
+      </errors>
+  </revision>
   <w>finnast</w>
   <w>engir</w>
   <w>fiskar</w>

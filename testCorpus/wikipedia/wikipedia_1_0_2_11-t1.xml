@@ -302,7 +302,14 @@
   </revision>
   <c>.</c>
 </s><s n="11">
-  <w>Hljómsveitinn</w>
+  <revision id="16b">
+    <original><w>Hljómsveitinn</w></original>
+    <corrected><w>Hljómsveitin</w></corrected>
+      <errors>
+        <error xtype="nn4n" idx="16b-1" eid="0"/>
+        <error xtype="nonword" idx="16b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>High</w>
   <w>on</w>
   <w>Fire</w>
@@ -783,11 +790,25 @@
   <w>Fyrsta</w>
   <w>plata</w>
   <w>þeirra</w>
+  <revision id="43b">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-commas" idx="43b-1" eid="0"/>
+      </errors>
+  </revision>
   <w><i>The</i></w>
   <w><i>Art</i></w>
   <w><i>of</i></w>
   <w><i>Self</i></w>
   <w><i>Defence</i></w>
+  <revision id="43b">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="dep" depId="43b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>kom</w>
   <w>úr</w>
   <w>árið 2000</w>
@@ -1006,9 +1027,8 @@
   <w><i>Right</i></w>
   <w><i>in</i></w>
   <w><i>the</i></w>
-  <w>ZNuts</w>
-  <c>:</c>
-  <w><i/></w>
+  <w><i>Nuts</i></w>
+  <c><i>:</i></c>
   <w><i>A</i></w>
   <w><i>tribute</i></w>
   <w><i>to</i></w>
@@ -1019,20 +1039,14 @@
   <c>,</c>
   <w><i>Sucking</i></w>
   <w><i>the</i></w>
-  <w><i/></w>
-  <w>70</w>
-  <c>‘</c>
-  <w>sZ</w>
+  <w><i>70's</i></w>
   <c>(</c>
   <w>2002</w>
   <c>)</c>
   <w>og</w>
   <w><i>Sucking</i></w>
   <w><i>the</i></w>
-  <w><i/></w>
-  <w>70</w>
-  <c>‘</c>
-  <w>sZ</w>
+  <w><i>70's</i></w>
   <w><i>–</i></w>
   <w><i>back</i></w>
   <w><i>in</i></w>
@@ -1543,7 +1557,14 @@
   <w>bassa</w>
   <w>og</w>
   <w>hljóðtrufluðum</w>
-  <w>gíturum</w>
+  <revision id="77b">
+    <original><w>gíturum</w></original>
+    <corrected><w>gítörum</w></corrected>
+      <errors>
+        <error xtype="letter-rep" idx="77b-1" eid="0"/>
+        <error xtype="nonword" idx="77b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>sem</w>
   <w>oft</w>
   <w>eru</w>
@@ -1705,7 +1726,14 @@
   <w>að</w>
   <w>mynda</w>
   <w>hefur</w>
-  <w>hljómveitin</w>
+  <revision id="88b">
+    <original><w>hljómveitin</w></original>
+    <corrected><w>hljómsveitin</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="88b-1" eid="0"/>
+        <error xtype="nonword" idx="88b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>Sleep</w>
   <w>tekið</w>
   <w>lög</w>

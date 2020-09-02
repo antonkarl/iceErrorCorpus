@@ -593,7 +593,14 @@
   <w>hersveit</w>
   <w>eftir</w>
   <w>ósigur</w>
-  <w>Napoleons</w>
+  <revision id="19b">
+    <original><w>Napoleons</w></original>
+    <corrected><w>Napóleons</w></corrected>
+      <errors>
+        <error xtype="missing-accent" idx="19b-1" eid="0"/>
+        <error xtype="nonword" idx="19b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>í</w>
   <w>Rússlandi</w>
   <c>.</c>
@@ -1035,8 +1042,13 @@
   <w>ríkisins</w>
   <c>,</c>
   <w>en</w>
-  <w>hlaut</w>
-  <w>borgarréttindi</w>
+  <revision id="34b">
+    <original><w>hlaut</w><w>borgarréttindi</w></original>
+    <corrected><w>varð</w><w>að</w><w>borg</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
   <w>1252</w>
   <c>.</c>
 </s><s n="50">

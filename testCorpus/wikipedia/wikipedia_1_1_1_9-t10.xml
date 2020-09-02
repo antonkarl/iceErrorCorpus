@@ -101,7 +101,14 @@
   <w>hjálparvél</w>
   <c>,</c>
   <w>ýmist</w>
-  <w>díselvél</w>
+  <revision id="0">
+    <original><w>díselvél</w></original>
+    <corrected><w>dísilvél</w></corrected>
+      <errors>
+        <error xtype="letter-rep" idx="0-1" eid="0"/>
+        <error xtype="nonword" idx="0-1" eid="0"/>
+      </errors>
+  </revision>
   <w>innanborðs</w>
   <w>eða</w>
   <w>með</w>
@@ -637,7 +644,14 @@
   <w>sjónarsviðið</w>
   <w>og</w>
   <w>síðar</w>
-  <w>díselvélar</w>
+  <revision id="6b">
+    <original><w>díselvélar</w></original>
+    <corrected><w>dísilvélar</w></corrected>
+      <errors>
+        <error xtype="letter-rep" idx="6b-1" eid="0"/>
+        <error xtype="nonword" idx="6b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>með</w>
   <w>skrúfu</w>
   <w>var</w>
