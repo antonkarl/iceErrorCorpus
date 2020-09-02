@@ -64,8 +64,13 @@
   <w>Sumir</w>
   <w>hringjanna</w>
   <w>virðast</w>
-  <w>hálf</w>
-  <w>loðnir</w>
+  <revision id="2b">
+    <original><w>hálf</w><w>loðnir</w></original>
+    <corrected><w>hálfloðnir</w></corrected>
+      <errors>
+        <error xtype="split-word" eid="0" />
+      </errors>
+  </revision>
   <w>en</w>
   <w>á</w>
   <w>sumum</w>
