@@ -6,7 +6,13 @@
   <w>Afríka</w>
   <w>sunnan</w>
   <w>Sahara</w>
-  <w>eru</w>
+  <revision id="0">
+    <original><w>eru</w></original>
+    <corrected><w>er</w></corrected>
+      <errors>
+        <error xtype="agreement-pred" eid="0" />
+      </errors>
+  </revision>
   <w>öll</w>
   <w>þau</w>
   <w>lönd</w>

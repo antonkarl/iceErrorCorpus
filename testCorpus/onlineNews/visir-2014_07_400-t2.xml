@@ -25,7 +25,13 @@
   <w>Það</w>
   <w>hefur</w>
   <w>eflaust</w>
-  <w>hefur</w>
+  <revision id="1">
+    <original><w>hefur</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="repeat-word-split" eid="0"/>
+      </errors>
+  </revision>
   <w>glatt</w>
   <w>margan</w>
   <w>manninn</w>

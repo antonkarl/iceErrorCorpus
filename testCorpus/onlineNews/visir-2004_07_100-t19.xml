@@ -41,7 +41,13 @@
   <w>það</w>
   <w>lifir</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="0">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Lára</w>
   <w>Björnsdóttir</w>
@@ -103,7 +109,13 @@
   <w>á</w>
   <w>óvart</w>
   <c>.</c>
-  <c>"</c>
+  <revision id="2b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="4">
   <w>Þegar</w>
@@ -170,9 +182,21 @@
   <w>Þá</w>
   <w>er</w>
   <w>það</w>
-  <c>"</c>
+  <revision id="4b">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" idx="4b-1" eid="0" />
+      </errors>
+  </revision>
   <w>rútínan</w>
-  <c>"</c>
+  <revision id="4c">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="dep" depId="4b-1" eid="0" />
+      </errors>
+  </revision>
   <w>sem</w>
   <w>fer</w>
   <w>að</w>
@@ -294,7 +318,13 @@
   <w>fylgst</w>
   <w>með</w>
   <c>.</c>
-  <c>"</c>
+  <revision id="5b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="14">
   <w>Þá</w>
@@ -364,7 +394,13 @@
   <w>allan</w>
   <w>pakkann</w>
   <c>.</c>
-  <c>"</c>
+  <revision id="7b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="17">
   <w>Lára</w>

@@ -129,7 +129,14 @@
   <w>á</w>
   <w>dag</w>
   <w>yfir</w>
-  <w>vetrartímannn</w>
+  <revision id="0">
+    <original><w>vetrartímannn</w></original>
+    <corrected><w>vetrartímann</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="0-1" eid="0"/>
+        <error xtype="nonword" idx="0-1" eid="0"/>
+      </errors>
+  </revision>
   <c>,</c>
   <w>alla</w>
   <w>virka</w>

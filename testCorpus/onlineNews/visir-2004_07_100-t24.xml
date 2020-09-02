@@ -13,7 +13,7 @@
   <w>Portúgal</w>
   <w>eftir</w>
   <w>1</w>
-  
+  <c>-</c>
   <w>0</w>
   <w>sigur</w>
   <w>á</w>
@@ -142,7 +142,7 @@
     <original></original>
     <corrected><c>,</c></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="missing-commas" idx="1-1" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -153,7 +153,7 @@
     <original></original>
     <corrected><c>,</c></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="dep" depId="1-1" eid="0" />
       </errors>
   </revision>
   <w>hið</w>
@@ -313,7 +313,14 @@
   <w>á</w>
   <w>bikarinn</w>
   <w>því</w>
-  <w>Portúgalir</w>
+  <revision id="2b">
+    <original><w>Portúgalir</w></original>
+    <corrected><w>Portúgalar</w></corrected>
+      <errors>
+        <error xtype="letter-rep" idx="2b-1" eid="0" />
+        <error xtype="nonword" idx="2b-1" eid="0" />
+      </errors>
+  </revision>
   <w>eða</w>
   <w>Grikkir</w>
   <w>hafa</w>
@@ -343,7 +350,8 @@
     <original><w>svarað–því</w></original>
     <corrected><w>svarað</w><c>–</c><w>því</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="missing-space" idx="3-1" eid="0" />
+        <error xtype="missing-space" idx="3-2" eid="0" />
       </errors>
   </revision>
   <w>leikurinn</w>
@@ -409,7 +417,7 @@
     <original><w>mínútur</w></original>
     <corrected><w>mínútu</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="extra-letter" eid="0" />
       </errors>
   </revision>
   <w>skaut</w>
@@ -484,7 +492,8 @@
     <original><w>þónokkur</w></original>
     <corrected><w>þó</w><w>nokkur</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="merged-words" idx="5-1" eid="0" />
+        <error xtype="nonword" idx="5-1" eid="0" />
       </errors>
   </revision>
   <w>fyrir</w>

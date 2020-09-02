@@ -519,12 +519,12 @@
   </revision>
   <w>mjög</w>
   <w>þekktur</w>
-  <w>víðsvegar</w>
   <revision id="25">
-    <original></original>
-    <corrected><w>um</w><w>heiminn</w></corrected>
+    <original><w>víðsvegar</w></original>
+    <corrected><w>víðs</w><w>vegar</w><w>um</w><w>heiminn</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="merged-words" idx="25-1" eid="0" />
+        <error xtype="missing-words" idx="25-2" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -770,12 +770,12 @@
   <w>á</w>
   <w>borð</w>
   <w>við</w>
-  <c>:</c>
   <revision id="39">
-    <original><w>JAG</w></original>
+    <original><c>:</c><w>JAG</w></original>
     <corrected><w><i>JAG</i></w></corrected>
       <errors>
-        <error xtype="nonit4it" eid="0" />
+        <error xtype="extra-colon" idx="39-1" eid="0" />
+        <error xtype="nonit4it" idx="39-2" eid="0" />
       </errors>
   </revision>
   <c>,</c>

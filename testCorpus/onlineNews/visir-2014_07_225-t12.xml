@@ -39,7 +39,14 @@
   <w>Þýskaland</w>
   <w>mætast</w>
   <w>í</w>
-  <w>undanúrsiltum</w>
+  <revision id="1">
+    <original><w>undanúrsiltum</w></original>
+    <corrected><w>undanúrslitum</w></corrected>
+      <errors>
+        <error xtype="swapped-letters" idx="1-1" eid="0" />
+        <error xtype="nonword" idx="1-1" eid="0" />
+      </errors>
+  </revision>
   <w>HM</w>
   <w>2014</w>
   <w>í</w>

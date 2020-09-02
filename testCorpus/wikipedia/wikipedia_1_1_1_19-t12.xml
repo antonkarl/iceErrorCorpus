@@ -271,14 +271,7 @@
   <w>aðila</w>
   <w>og</w>
   <w>var</w>
-  <revision id="4">
-    <original><w>m.</w><w>a</w><c>.</c></original>
-    <corrected><w>m.a.</w></corrected>
-      <errors>
-        <error xtype="extra-space" idx="1-1" eid="0"/>
-        <error xtype="extra-space" idx="1-1" eid="0"/>
-      </errors>
-  </revision>
+  <w>m.a.</w>
   <w>í</w>
   <w>samstarfi</w>
   <w>við</w>
@@ -353,7 +346,13 @@
   <w>blaða-, bóka- og kvikmyndasafn</w>
   <c>.</c>
 </s><s n="17">
-  <w>Áríð</w>
+  <revision id="5b">
+    <original><w>Áríð</w></original>
+    <corrected><w>Árið</w></corrected>
+      <errors>
+        <error xtype="extra-accent" eid="0"/>
+      </errors>
+  </revision>
   <w>1963</w>
   <w>fluttist</w>
   <w>Upplýsingaþjónustan</w>

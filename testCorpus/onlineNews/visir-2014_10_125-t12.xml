@@ -357,7 +357,14 @@
   <w>Sölmundarson</w>
   <c>,</c>
   <w>fulltrúi</w>
-  <w>Sjállfstæðisflokksins</w>
+  <revision id="11b">
+    <original><w>Sjállfstæðisflokksins</w></original>
+    <corrected><w>Sjálfstæðisflokksins</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="11b-1" eid="0"/>
+        <error xtype="nonword" idx="11b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>í</w>
   <w>hverfisráði</w>
   <w>miðborgarinnar</w>

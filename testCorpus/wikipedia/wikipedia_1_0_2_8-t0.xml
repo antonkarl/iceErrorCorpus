@@ -298,7 +298,14 @@
   <w>jörð</w>
   <c>.</c>
 </s><s n="13">
-  <w>Ánnar</w>
+  <revision id="11b">
+    <original><w>Ánnar</w></original>
+    <corrected><w>Annar</w></corrected>
+      <errors>
+        <error xtype="extra-accent" idx="11b-1" eid="0"/>
+        <error xtype="nonword" idx="11b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>kallast</w>
   <revision id="12">
     <original><w>regina</w></original>

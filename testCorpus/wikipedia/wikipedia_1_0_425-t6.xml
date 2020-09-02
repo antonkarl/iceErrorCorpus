@@ -260,7 +260,13 @@
   <w>á</w>
   <w>borð</w>
   <w>við</w>
-  <c>:</c>
+  <revision id="11b">
+    <original><c>:</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-colon" eid="0" />
+      </errors>
+  </revision>
   <w>A</w>
   <w>Stranger</w>
   <w>Among</w>

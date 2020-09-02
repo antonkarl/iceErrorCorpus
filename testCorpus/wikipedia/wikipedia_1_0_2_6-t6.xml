@@ -453,7 +453,14 @@
   <w>sérstaklega</w>
   <w>innréttingar</w>
   <w>og</w>
-  <w>innanhúsmuni</w>
+  <revision id="14b">
+    <original><w>innanhúsmuni</w></original>
+    <corrected><w>innanhússmuni</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="14b-1" eid="0"/>
+        <error xtype="compound-nonword" idx="14b-1" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="18">
   <w>Friðarhöllin</w>

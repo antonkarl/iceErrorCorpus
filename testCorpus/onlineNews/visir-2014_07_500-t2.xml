@@ -4,7 +4,13 @@
 <text><body><p n="1">
 <s n="1">
   <w>Ungir</w>
-  <w>sjálfstæðismenn</w>
+  <revision id="0">
+    <original><w>sjálfstæðismenn</w></original>
+    <corrected><w>Sjálfstæðismenn</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
   <w>hafa</w>
   <w>sent</w>
   <w>frá</w>
@@ -207,7 +213,13 @@
 </s>
 <s n="8">
   <w>Ungir</w>
-  <w>sjálfstæðismenn</w>
+  <revision id="2">
+    <original><w>sjálfstæðismenn</w></original>
+    <corrected><w>Sjálfstæðismenn</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
   <w>harma</w>
   <w>þá</w>
   <w>forræðishyggju</w>

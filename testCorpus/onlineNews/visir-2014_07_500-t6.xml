@@ -64,8 +64,13 @@
   <c>.</c>
 </s>
 <s n="4">
-  <w>Ferrari</w>
-  <w>maðurinn</w>
+  <revision id="1b">
+    <original><w>Ferrari</w><w>maðurinn</w></original>
+    <corrected><w>Ferrari-maðurinn</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
   <w>Fernando</w>
   <w>Alonso</w>
   <w>varð</w>
@@ -144,7 +149,14 @@
 </s>
 <s n="8">
   <w>Felipe</w>
-  <w>Massaá</w>
+  <revision id="3b">
+    <original><w>Massaá</w></original>
+    <corrected><w>Massa</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="3b-1" eid="0" />
+        <error xtype="nonword" idx="3b-1" eid="0" />
+      </errors>
+  </revision>
   <w>Williams</w>
   <w>lenti</w>
   <w>í</w>

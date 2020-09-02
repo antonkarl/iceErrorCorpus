@@ -105,7 +105,13 @@
   <w>auknum</w>
   <w>mæli</w>
   <w>í</w>
-  <w>takt</w>
+  <revision id="2b">
+    <original><w>takt</w></original>
+    <corrected><w>takti</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0"/>
+      </errors>
+  </revision>
   <w>við</w>
   <w>uppboðsleið</w>
   <w>á</w>

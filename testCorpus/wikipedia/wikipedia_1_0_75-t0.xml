@@ -162,7 +162,13 @@
   <w>svo</w>
   <w>þræla</w>
   <w>sína</w>
-  <w>Karla</w>
+  <revision id="1b">
+    <original><w>Karla</w></original>
+    <corrected><w>Karl</w></corrected>
+      <errors>
+        <error xtype="extra-letter" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>Vífil</w>
   <w>til</w>

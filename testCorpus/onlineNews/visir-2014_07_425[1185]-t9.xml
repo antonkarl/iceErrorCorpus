@@ -116,8 +116,15 @@
   <w>stór</w>
   <w>hópur</w>
   <w>kylfinga</w>
-  <w>eru</w>
-  <w>jafnir</w>
+  <w>eru</w><w>jafnir</w>
+  <revision id="6b">
+    <original><w>eru</w><w>jafnir</w></original>
+    <corrected><w>er</w><w>jafn</w></corrected>
+      <errors>
+        <error xtype="agreement-pred" idx="6b-1" eid="0" />
+        <error xtype="agreement-pred" idx="6b-2" eid="0" />
+      </errors>
+  </revision>
   <w>í</w>
   <w>fjórða</w>
   <w>sæti</w>

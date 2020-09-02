@@ -273,7 +273,13 @@
   <w>á</w>
   <w>borð</w>
   <w>við</w>
-  <c>:</c>
+  <revision id="4b">
+    <original><c>:</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-colon" eid="0" />
+      </errors>
+  </revision>
   <w><i>Nightmare</i></w>
   <w><i>Classics</i></w>
   <c>,</c>

@@ -60,7 +60,14 @@
   <c>(</c>
   <w>ekki</w>
   <w>sú</w>
-  <w>fyrirnefnda</w>
+  <revision id="1b">
+    <original><w>fyrirnefnda</w></original>
+    <corrected><w>fyrrnefnda</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="1b-1" eid="0"/>
+        <error xtype="nonword" idx="1b-1" eid="0"/>
+      </errors>
+  </revision>
   <c>)</c>
   <c>.</c>
 </s><s n="4">
