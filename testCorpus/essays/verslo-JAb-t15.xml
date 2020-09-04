@@ -142,6 +142,13 @@
   <w>aðferðum</w>
   <w>páfagaukalærdómsins</w>
   <w>þó</w>
+  <revision id="4b">
+    <original></original>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
   <w>þau</w>
   <revision id="5">
     <original><w>hafa</w></original>
@@ -252,6 +259,13 @@
   <w>á</w>
   <w>próf</w>
   <w>þó</w>
+  <revision id="6b">
+    <original></original>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
   <w>oftast</w>
   <w>sé</w>
   <w>talað</w>
@@ -510,9 +524,22 @@
   <w>sem</w>
   <w>sagt</w>
   <w>rosalega</w>
-  <w>efiður</w>
+  <revision id="14b">
+    <original><w>efiður</w></original>
+    <corrected><w>erfiður</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="14b-1" eid="0"/>
+        <error xtype="nonword" idx="14b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>tími</w>
-  <w>framundan</w>
+  <revision id="14c">
+    <original><w>framundan</w></original>
+    <corrected><w>fram</w><w>undan</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="17">
   <w>Ég</w>
@@ -1111,8 +1138,13 @@
       </errors>
   </revision>
   <w>týndi</w>
-  <w>uppáhalds</w>
-  <w>pennanum</w>
+  <revision id="31b">
+    <original><w>uppáhalds</w><w>pennanum</w></original>
+    <corrected><w>uppáhaldspennanum</w></corrected>
+      <errors>
+        <error xtype="compound-split" eid="0"/>
+      </errors>
+  </revision>
   <w>sínum</w>
   <c>.</c>
 </s><s n="32">
@@ -1292,7 +1324,14 @@
   <w>mest</w>
   <w>truflandi</w>
   <w>við</w>
-  <w>prófatöku</w>
+  <revision id="36">
+    <original><w>prófatöku</w></original>
+    <corrected><w>prófatöku</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="36-1" eid="0"/>
+        <error xtype="compound-nonword" idx="36-1" eid="0"/>
+      </errors>
+  </revision>
   <w>er</w>
   <w>það</w>
   <w>einmitt</w>

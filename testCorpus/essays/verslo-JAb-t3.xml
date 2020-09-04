@@ -1322,7 +1322,13 @@
   <w>frammi</w>
   <w>fyrir</w>
   <w>oft</w>
-  <w>á</w>
+  <revision id="33b">
+    <original><w>á</w></original>
+    <corrected><w>og</w></corrected>
+      <errors>
+        <error xtype="collocation" eid="0"/>
+      </errors>
+  </revision>
   <w>tíðum</w>
   <revision id="34">
     <original><w>en</w><w>það</w></original>
