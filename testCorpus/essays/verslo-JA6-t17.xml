@@ -618,7 +618,14 @@
   <w>ég</w>
   <w>sé</w>
   <w>einhver</w>
-  <w>feministi</w>
+  <revision id="12b">
+    <original><w>feministi</w></original>
+    <corrected><w>femínisti</w></corrected>
+      <errors>
+        <error xtype="missing-accent" idx="12b-1" eid="0"/>
+        <error xtype="nonword" idx="12b-1" eid="0"/>
+      </errors>
+  </revision>
   <c>,</c>
   <w>síður</w>
   <w>en</w>
@@ -1382,7 +1389,14 @@
   <w>ekki</w>
   <w>að</w>
   <w>svona</w>
-  <w>þrjúhundruð</w>
+  <revision id="22b">
+    <original><w>þrjúhundruð</w></original>
+    <corrected><w>þrjú</w><w>hundruð</w></corrected>
+      <errors>
+        <error xtype="merged-words" idx="22b-1" eid="0"/>
+        <error xtype="nonword" idx="22b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>aðrir</w>
   <w>hafa</w>
   <w>spurt</w>

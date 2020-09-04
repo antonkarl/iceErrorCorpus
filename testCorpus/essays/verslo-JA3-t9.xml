@@ -426,6 +426,13 @@
   <c>.</c>
 </s><s n="18">
   <w>Þó</w>
+  <revision id="10b">
+    <original></original>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
   <w>hann</w>
   <w>sé</w>
   <w>aðeins</w>
@@ -436,7 +443,7 @@
     <original/>
     <corrected><c>,</c></corrected>
       <errors>
-        <error xtype="xxx" eid="0"/>
+        <error xtype="missing-commas" idx="11-1" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
@@ -446,7 +453,7 @@
     <original/>
     <corrected><w>sem</w><w>betur</w><w>fer</w></corrected>
       <errors>
-        <error xtype="wording" idx="10b-1" eid="0"/>
+        <error xtype="wording" idx="12-1" eid="0"/>
       </errors>
   </revision>
   <w>ekki</w>
@@ -456,8 +463,8 @@
     <original><c>,</c><w>sem</w><w>betur</w><w>fer</w></original>
     <corrected/>
       <errors>
-        <error xtype="dep" depId="10b-1" eid="0"/>
-        <error xtype="extra-comma" eid="0"/>
+        <error xtype="dep" depId="11-1" eid="0"/>
+        <error xtype="dep" depId="12-1" eid="0"/>
       </errors>
   </revision>
   <c>,</c>
@@ -514,8 +521,13 @@
   <w>er</w>
   <w>orðið</w>
   <w>eitt</w>
-  <w>allsherjar</w>
-  <w>neysluþjóðfélag</w>
+  <revision id="13b">
+    <original><w>allsherjar</w><w>neysluþjóðfélag</w></original>
+    <corrected><w>allsherjarneysluþjóðfélag</w></corrected>
+      <errors>
+        <error xtype="split-word" eid="0"/>
+      </errors>
+  </revision>
   <w>og</w>
   <w>allir</w>
   <w>virðast</w>

@@ -527,7 +527,13 @@
   <w>krakkar</w>
   <w>læra</w>
   <w>miklu</w>
-  <w>miklu</w>
+  <revision id="14b">
+    <original><w>miklu</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="repeat-word" eid="0"/>
+      </errors>
+  </revision>
   <w>meira</w>
   <w>í</w>
   <w>framhaldsnámi</w>
@@ -747,7 +753,14 @@
   <w>er</w>
   <w>fínn</w>
   <w>aldur</w>
-  <w>sjáfsagt</w>
+  <revision id="18b">
+    <original><w>sjáfsagt</w></original>
+    <corrected><w>sjálfsagt</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="18b-1" eid="0"/>
+        <error xtype="nonword" idx="18b-1" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="35">
   <w>Flestir</w>
@@ -1425,12 +1438,13 @@
   <w>þessu</w>
   <w>fylgir</w>
   <c>,</c>
-  <w>t.d</w>
   <revision id="43">
-    <original><w>kostirnir</w></original>
-    <corrected/>
+    <original><w>t.d</w><w>kostirnir</w></original>
+    <corrected><w>t.d.</w></corrected>
       <errors>
-        <error xtype="wording" idx="48-1" eid="0"/>
+        <error xtype="abbreviation-period" idx="43-1" eid="0"/>
+        <error xtype="missing-period" idx="43-1" eid="0"/>
+        <error xtype="wording" idx="43-2" eid="0"/>
       </errors>
   </revision>
   <w>eru</w>
@@ -1438,7 +1452,7 @@
     <original/>
     <corrected><w>kostirnir</w></corrected>
       <errors>
-        <error xtype="dep" depId="48-1" eid="0"/>
+        <error xtype="dep" depId="43-2" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -1474,7 +1488,13 @@
   <w>Stytting</w>
   <w>náms</w>
   <w>til</w>
-  <w>stúdentspróf</w>
+  <revision id="45b">
+    <original><w>stúdentspróf</w></original>
+    <corrected><w>stúdentsprófs</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="62">
   <w>Já</w>

@@ -467,7 +467,13 @@
   <w>ETA-samtökin</w>
   <w>standi</w>
   <w>á</w>
-  <w>bakvið</w>
+  <revision id="4b">
+    <original><w>bakvið</w></original>
+    <corrected><w>bak</w><w>við</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="22">
   <w>Verum</w>
@@ -928,7 +934,13 @@
   <w>útskýra</w>
   <w>fyrir</w>
   <w>börnum</w>
-  <w>afleiðiðingar</w>
+  <revision id="8b">
+    <original><w>afleiðiðingar</w></original>
+    <corrected><w>afleiðiðingar</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0"/>
+      </errors>
+  </revision>
   <w>gjörða</w>
   <w>sinna</w>
   <w>og</w>
@@ -1486,7 +1498,7 @@
     <original><w>Hryðjuverk</w></original>
     <corrected></corrected>
       <errors>
-        <error xtype="extra-word" eid="0"/>
+        <error xtype="repeat-word" eid="0"/>
       </errors>
   </revision>
   <w>eru</w>
@@ -1912,7 +1924,7 @@
     <original><w>þjóðin</w></original>
     <corrected/>
       <errors>
-        <error xtype="extra-word" eid="0"/>
+        <error xtype="repeat-word" eid="0"/>
       </errors>
   </revision>
   <w>þjóðin</w>

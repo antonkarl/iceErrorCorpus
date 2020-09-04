@@ -247,8 +247,14 @@
   <w>framkvæmdum</w>
   <c>.</c>
 </s><s n="9">
-  <w>Öllum</w>
-  <w>stóriðjum</w>
+  <revision id="5b">
+    <original><w>Öllum</w><w>stóriðjum</w></original>
+    <corrected><w>Allri</w><w>stóriðju</w></corrected>
+      <errors>
+        <error xtype="agreement-concord" idx="5b-1" eid="0"/>
+        <error xtype="nonword" idx="5b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>fylgir</w>
   <w>einhver</w>
   <w>mengun</w>
@@ -1045,7 +1051,14 @@
   <c>.</c>
 </s><s n="39">
   <w>Í</w>
-  <w>Kárahjúkum</w>
+  <revision id="24b">
+    <original><w>Kárahjúkum</w></original>
+    <corrected><w>Kárahnjúkum</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="24b-1" eid="0"/>
+        <error xtype="nonword" idx="24b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>er</w>
   <w>fjöldinn</w>
   <w>allur</w>

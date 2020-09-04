@@ -142,7 +142,14 @@
   <w>þarf</w>
   <w>fólk</w>
   <w>í</w>
-  <w>stöf</w>
+  <revision id="6b">
+    <original><w>stöf</w></original>
+    <corrected><w>störf</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="6b-1" eid="0"/>
+        <error xtype="nonword" idx="6b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>sem</w>
   <w>krefjast</w>
   <w>sérhæfingar</w>

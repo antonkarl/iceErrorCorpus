@@ -280,7 +280,13 @@
   <w>ákveðnu</w>
   <w>námsefni</w>
   <w>á</w>
-  <w>fyrirfram</w>
+  <revision id="1b">
+    <original><w>fyrirfram</w></original>
+    <corrected><w>fyrir</w><w>fram</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0"/>
+      </errors>
+  </revision>
   <w>ákveðinn</w>
   <w>hátt</w>
   <c>.</c>
@@ -505,7 +511,14 @@
   <w>prófkvíðnir</w>
   <w>með</w>
   <w>lágar</w>
-  <w>einkunni</w>
+  <revision id="2b">
+    <original><w>einkunni</w></original>
+    <corrected><w>einkunnir</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="2b-1" eid="0"/>
+        <error xtype="nonword" idx="2b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>en</w>
   <w>þeir</w>
   <w>sem</w>

@@ -704,13 +704,13 @@
   <w>Oft</w>
   <w>og</w>
   <revision id="25">
-    <original><w>tímum</w></original>
+    <original><w>tímum</w><c>,</c></original>
     <corrected><w>tíðum</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0"/>
+        <error xtype="collocation" idx="25-1" eid="0"/>
+        <error xtype="extra-comma" idx="25-1" eid="0"/>
       </errors>
   </revision>
-  <c>,</c>
   <w>hafa</w>
   <w>stríð</w>
   <w>verið</w>

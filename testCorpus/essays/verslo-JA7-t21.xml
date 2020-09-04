@@ -259,7 +259,13 @@
   <w>vinnu</w>
   <w>sem</w>
   <w>oft</w>
-  <w>á</w>
+  <revision id="3b">
+    <original><w>á</w></original>
+    <corrected><w>og</w></corrected>
+      <errors>
+        <error xtype="collocation" eid="0"/>
+      </errors>
+  </revision>
   <w>tíðum</w>
   <w>getur</w>
   <w>reynst</w>
@@ -287,7 +293,13 @@
   <w>ungs</w>
   <w>fólks</w>
   <w>ákveðin</w>
-  <w>fyrirfram</w>
+  <revision id="3c">
+    <original><w>fyrirfram</w></original>
+    <corrected><w>fyrir</w><w>fram</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="13">
   <w>Ástæðan</w>
@@ -602,7 +614,14 @@
   <w>hvar</w>
   <w>áhugasvið</w>
   <w>einstaklings</w>
-  <w>liggjur</w>
+  <revision id="5b">
+    <original><w>liggjur</w></original>
+    <corrected><w>liggur</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="5b-1" eid="0"/>
+        <error xtype="nonword" idx="5b-1" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="26">
   <w>Námsframboð</w>
