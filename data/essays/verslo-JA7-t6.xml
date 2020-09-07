@@ -26,6 +26,13 @@
   <w>getur</w>
   <w>fundið</w>
   <w>hamingju</w>
+  <revision id="1b">
+    <original><w>hjá</w><c>hvort</c><w>öðru</w></corrected>
+    <corrected><w>hvort</w><c>hjá</c><w>öðru</w></corrected>
+          <errors>
+        <error xtype="each" eid="0"/>
+      </errors>
+  </revision>
   <w>hjá</w>
   <w>hvort</w>
   <w>öðru</w>
@@ -513,6 +520,13 @@
   <w>mínu</w>
   <w>mati</w>
   <w>ein</w>
+    <revision id="5b">
+    <original><w>megin</w><w>forsendan</w></original>
+    <corrected><w>meginforsendan</w></corrected>
+      <errors>
+        <error xtype="split-word" eid="0" />
+      </errors>
+  </revision>
   <w>megin</w>
   <w>forsendan</w>
   <w>fyrir</w>
