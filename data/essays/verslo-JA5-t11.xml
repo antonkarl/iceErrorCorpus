@@ -184,6 +184,13 @@
   <w>Siðferði</w>
   <w>í</w>
   <w>fjölmiðlum</w>
+  <revision id="1a">
+    <original></original>
+    <corrected><c>.</c></corrected>
+      <errors>
+        <error xtype="missing-period" eid="0" />
+      </errors>
+  </revision>
   <w>Fyrir</w>
   <w>langa</w>
   <w>löngu</w>
@@ -236,7 +243,14 @@
   <w>manni</w>
   <c>,</c>
   <w>fylgdu</w>
-  <w>farandsmönnum</w>
+  <revision id="1b">
+    <original><w>farandsmönnum</w></original>
+    <corrected><w>farandmönnum</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="1-1" eid="0" />
+        <error xtype="nonword" idx="1-1" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>aðkomufólki</w>
   <w>og</w>
@@ -357,7 +371,13 @@
   <c>.</c>
 </s><s n="17">
   <w>Ljósvakans</w>
-  <w>ljósvíkingar</w>
+  <revision id="2a">
+    <original><w>ljósvíkingar</w></original>
+    <corrected><w>Ljósvíkingar</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
   <w>gera</w>
   <w>allt</w>
   <w>sem</w>
@@ -567,7 +587,14 @@
   <w>Það</w>
   <w>er</w>
   <w>ekki</w>
-  <w>sannngjarnt</w>
+    <revision id="3a">
+    <original><w>sannngjarnt</w></original>
+    <corrected><w>sanngjarnt</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="21-1" eid="0" />
+        <error xtype="nonword" idx="21-1" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>saklausu</w>
   <w>skipverjanna</w>
