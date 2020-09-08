@@ -618,7 +618,13 @@
   <w>eru</w>
   <w>í</w>
   <w>dag</w>
-  <c>,</c>
+  <revision id="3a">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
+      </errors>
+  </revision>
   <w>mætti</w>
   <w>líkja</w>
   <w>lífsleiðinni</w>
@@ -812,7 +818,13 @@
   <w>þennan</w>
   <w>ákveðna</w>
   <w>dag</w>
-  <c>,</c>
+  <revision id="3b">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
+      </errors>
+  </revision>
   <w>myndum</w>
   <w>við</w>
   <w>líklega</w>
@@ -1060,7 +1072,13 @@
   <w>í</w>
   <w>bekkinn</w>
   <w>3</w>
-  
+  <revision id="4a">
+    <original></original>
+    <corrected><c>.</c></corrected>
+      <errors>
+        <error xtype="missing-period" eid="0" />
+      </errors>
+  </revision>
   <w>D.</w>
   <w>Hann</w>
   <w>lítur</w>
