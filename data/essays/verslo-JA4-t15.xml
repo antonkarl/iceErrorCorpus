@@ -438,9 +438,16 @@
   <w>kemur</w>
   <w>tónlistin</w>
   <w>þar</w>
-  <w>alltstaðar</w>
+  <revision id="7a">
+    <original><w>alltstaðar</w></original>
+    <corrected><w>allsstaðar</w></corrected>
+      <errors>
+        <error xtype="letter-rep" eid="0" />
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
   <w>við</w>
-  <w>sögu</w>
+  <w>sögu</w
   <w>sem</w>
   <w>merki</w>
   <w>um</w>
@@ -556,7 +563,14 @@
   </revision>
   <w>ef</w>
   <w>ekki</w>
-  <w>særsta</w>
+  <revision id="10a">
+    <original><w>særsta</w></original>
+    <corrected><w>stærsta</w></corrected>
+      <errors>
+        <error xtype="missing-letter" eid="0" />
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
   <w>hlutverkið</w>
   <w>í</w>
   <w>því</w>
@@ -836,7 +850,14 @@
   <w>í</w>
   <w>sófa</w>
   <c>,</c>
-  <w>ligna</w>
+  <revision id="17a">
+    <original><w>ligna</w></original>
+    <corrected><w>lygna</w></corrected>
+      <errors>
+        <error xtype="i4y" eid="0" />
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
   <w>aftur</w>
   <w>augunum</w>
   <w>og</w>
@@ -982,7 +1003,14 @@
   <w>syngja</w>
   <w>af</w>
   <w>hjartans</w>
-  <w>list</w>
+  <revision id="19a">
+    <original><w>list</w></original>
+    <corrected><w>lyst</w></corrected>
+      <errors>
+        <error xtype="i4t" eid="0" />
+        <error xtype="collocation" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>allt</w>
   <w>á</w>
