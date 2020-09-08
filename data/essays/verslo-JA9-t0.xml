@@ -641,7 +641,14 @@
   <w>Ég</w>
   <c>.</c>
 </s><s n="81">
-  <w>Hjata</w>
+   <revision id="2a">
+   <original><w>Hjata</w></original>
+    <corrected><w>Hjarta</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="22-1" eid="0" />
+        <error xtype="nonword" idx="22-1" eid="0" />
+      </errors>
+  </revision>
   <w>mitt</w>
   <w>er</w>
   <w>nú</w>
