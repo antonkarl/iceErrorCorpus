@@ -230,7 +230,7 @@
     <original><w>66</w><w>norður</w></original>
     <corrected><w>66°</w><w>Norður</w></corrected>
       <errors>
-        <error xtype="missing-degree" idx="7-1" eid="0" />
+        <error xtype="missing-symbol" idx="7-1" eid="0" />
         <error xtype="lower4upper-proper" idx="7-2" eid="0" />
       </errors>
   </revision>
