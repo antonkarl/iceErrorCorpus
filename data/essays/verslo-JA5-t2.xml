@@ -265,7 +265,13 @@
   <w>frá</w>
   <w>Íslandi</w>
   <w>til</w>
-  <w>Afghanistan</w>
+  <revision id="23">
+    <original><w>Afghanistan</w></original>
+    <corrected><w>Afganistan</w></corrected>
+      <errors>
+        <error xtype="fw4ice" eid="0" />
+      </errors>
+  </revision>
   <w>talaði</w>
   <w>fólk</w>
   <w>um</w>
@@ -918,7 +924,13 @@
   <w>Hryðjuverkin</w>
   <w>þann</w>
   <w>11. september</w>
-  <w>er</w>
+  <revision id="14a">
+    <original><w>er</w></original>
+    <corrected><w>eru</w></corrected>
+      <errors>
+        <error xtype="singular4plural" eid="0" />
+      </errors>
+  </revision>
   <w>ekki</w>
   <w>eina</w>
   <w>árásin</w>
