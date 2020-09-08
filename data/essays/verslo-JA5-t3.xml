@@ -66,7 +66,14 @@
   <w>hæð</w>
   <w>mun</w>
   <w>vera</w>
-  <w>heimstofa</w>
+  <revision id="1b">
+    <original><w>heimstofa</w></original>
+    <corrected><w>heimastofa</w></corrected>
+      <errors>
+        <error xtype="missing-letter" eid="0"/>
+        <error xtype="nonword" eid="0"/>
+      </errors>
+  </revision>
   <w>bekkjarins</w>
   <w>þetta</w>
   <w>árið</w>
@@ -202,8 +209,13 @@
 </s><s n="12">
   <w>Krakkarnir</w>
   <w>horfa</w>
-  <w>hálf</w>
-  <w>skelkaðir</w>
+  <revision id="2b">
+    <original><w>hálf</w><w>skelkaðir</w></original>
+    <corrected><w>hálfskelkaðir</w></corrected>
+      <errors>
+        <error xtype="split-word" eid="0" />
+      </errors>
+  </revision>
   <w>hver</w>
   <w>á</w>
   <w>annan</w>
@@ -454,15 +466,33 @@
 </s><s n="26">
   <w>6.</w>
   <w>bekkur</w>
-  <w>A</w>
+  <revision id="4a">
+    <original><w>A</w></original>
+    <corrected><w>A.</w></corrected>
+      <errors>
+        <error xtype="missing-period" eid="0"/>
+      </errors>
+  </revision>
 </s><s n="27">
   <w>3.</w>
   <w>bekkur</w>
-  <w>I</w>
+  <revision id="4b">
+    <original><w>I</w></original>
+    <corrected><w>I.</w></corrected>
+      <errors>
+        <error xtype="missing-period" eid="0"/>
+      </errors>
+  </revision>
 </s><s n="28">
   <w>4.</w>
   <w>bekkur</w>
-  <w>H</w>
+  <revision id="4c">
+    <original><w>H</w></original>
+    <corrected><w>H.</w></corrected>
+      <errors>
+        <error xtype="missing-period" eid="0"/>
+      </errors>
+  </revision>
 </s><s n="29">
   <w>Skólasetning</w>
 </s><s n="30">
@@ -809,7 +839,14 @@
   <w>að</w>
   <w>því</w>
   <w>að</w>
-  <w>heimstofan</w>
+  <revision id="12a">
+    <original><w>heimstofan</w></original>
+    <corrected><w>heimastofan</w></corrected>
+      <errors>
+        <error xtype="missing-letter" eid="0"/>
+        <error xtype="nonword" eid="0"/>
+      </errors>
+  </revision>
   <w>þeirra</w>
   <w>sé</w>
   <w>Flugleiðir</w>
@@ -870,7 +907,13 @@
 </s><s n="46">
   <w>5.</w>
   <w>bekkur</w>
-  <w>A</w>
+  <revision id="12b">
+    <original><w>A</w></original>
+    <corrected><w>A.</w></corrected>
+      <errors>
+        <error xtype="missing-period" eid="0"/>
+      </errors>
+  </revision>
 </s><s n="47">
   <w>Þetta</w>
   <w>er</w>
@@ -923,6 +966,13 @@
   <c>.</c>
 </s><s n="49">
   <w>Sumir</w>
+  <revision id="13a">
+    <original/>
+    <corrected><w>eru</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
   <w>búnir</w>
   <w>að</w>
   <w>vera</w>
