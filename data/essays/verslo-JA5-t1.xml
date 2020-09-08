@@ -18,7 +18,14 @@
   <w>það</w>
   <w>er</w>
   <w>heilt</w>
-  <w>kynslóðarbil</w>
+  <revision id="1a">
+    <original><w>kynslóðarbil</w></original>
+    <corrected><w>kynslóðabil</w></corrected>
+      <errors>
+        <error xtype="extra-letter" eid="0" />
+        <error xtype="compound-nonword" eid="0" />
+      </errors>
+  </revision>
   <w>sem</w>
   <w>skilur</w>
   <w>þarna</w>
@@ -199,6 +206,7 @@
     <corrected><w>enn</w><w>þá</w></corrected>
       <errors>
         <error xtype="merged-words" eid="0"/>
+        <error xtype="nonword" eid="0"/>
       </errors>
   </revision>
   <w>langt</w>
@@ -944,7 +952,14 @@
   <w>að</w>
   <w>þessi</w>
   <w>jafnréttisumræða</w>
-  <w>hafið</w>
+  <revision id="14">
+    <original><w>hafið</w></original>
+    <corrected><w>hafi</w></corrected>
+      <errors>
+        <error xtype="extra-letter" eid="0"/>
+        <error xtype="verb-inflection" eid="0"/>
+      </errors>
+  </revision>
   <w>ekki</w>
   <w>byrjað</w>
   <revision id="15">
