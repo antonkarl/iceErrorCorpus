@@ -385,7 +385,14 @@
   <w>þau</w>
   <w>skemmtilegustu</w>
   <w>og</w>
-  <w>eftirminnilegstu</w>
+  <revision id="8a">
+    <original><w>eftirminnilegstu</w></original>
+    <corrected><w>eftirminnilegustu</w></corrected>
+      <errors>
+        <error xtype="missing-letter" eid="0" />
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
   <w>í</w>
   <w>lífinu</w>
   <c>?</c>
