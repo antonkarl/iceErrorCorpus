@@ -272,7 +272,14 @@
   <w>og</w>
   <w>kom</w>
   <w>til</w>
-  <w>átáka</w>
+  <revision id="5a">
+    <original><w>átáka</w></original>
+    <corrected><w>átaka</w></corrected>
+      <errors>
+        <error xtype="extra-accent" eid="0" />
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>ryskinga</w>
   <c>.</c>
