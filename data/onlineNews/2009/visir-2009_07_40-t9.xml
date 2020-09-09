@@ -66,14 +66,13 @@
   <w>starfsafmæli</w>
   <w>þann</w>
   <w>21. júní</w>
-  <w>s</w>
-  <c>.</c>
-</s>
-<s n="4">
-  <w>l</w>
-  <c>.</c>
-</s>
-<s n="5">
+  <revision id="2">
+    <original><w>s</w><c>.</c><w>l</w><c>.</c></original>
+    <corrected><w>sl.</w></corrected>
+      <errors>
+        <error xtype="abbreviation-period" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>segja</w>
   <w>eigendur</w>
