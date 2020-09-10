@@ -3662,6 +3662,13 @@
 </s><s n="191">
   <w>Tilraunahópur</w>
   <w>B</w>
+  <revision id="130a">
+    <original></original>
+    <corrected><w>.</w></corrected>
+      <errors>
+        <error xtype="missing-period" eid="0" />
+      </errors>
+  </revision>
   <w>fær</w>
   <w>töflur</w>
   <w>sem</w>
@@ -3669,15 +3676,36 @@
   <w>ekkert</w>
   <w>meira</w>
   <w>en</w>
-  <w>vítamínstöflur</w>
+  <revision id="130b">
+    <original><w>vítamínstöflur</w></original>
+    <corrected><w>vítamíntöflur</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="130b-1" eid="0" />
+        <error xtype="nonword" idx="130b-1" eid="0" />
+      </errors>
+  </revision>
   <w>eða</w>
   <w>lýsistöflur</w>
   <w>og</w>
   <w>áhrif</w>
-  <w>vítamínstaflanna</w>
+  <revision id="130c">
+    <original><w>vítamínstaflanna</w></original>
+    <corrected><w>vítamíntaflanna</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="130c-1" eid="0" />
+        <error xtype="nonword" idx="130c-1" eid="0" />
+      </errors>
+  </revision>
   <w>á</w>
   <w>hóp</w>
   <w>B</w>
+  <revision id="130d">
+    <original></original>
+    <corrected><w>.</w></corrected>
+      <errors>
+        <error xtype="missing-period" eid="0" />
+      </errors>
+  </revision>
   <w>eru</w>
   <w>borin</w>
   <w>saman</w>
@@ -4020,7 +4048,14 @@
   <w>getur</w>
   <w>ekki</w>
   <w>hreyft</w>
-  <w>fæturnar</w>
+  <revision id="134a">
+    <original><w>fæturna</w></original>
+    <corrected><w>fæturnar</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="134a-1" eid="0" />
+        <error xtype="nonword" idx="134a-1" eid="0" />
+      </errors>
+  </revision>
   <w>sama</w>
   <w>hversu</w>
   <w>mikið</w>
