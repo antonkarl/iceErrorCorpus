@@ -601,7 +601,13 @@
   </revision>
   <w>væru</w>
   <w>undirstaða</w>
-  <w>samfélagins</w>
+  <revision id="23a">
+    <original><w>samfélagins</w></original>
+    <corrected><w>samfélagsins</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="22">
   <w>Flestum</w>
