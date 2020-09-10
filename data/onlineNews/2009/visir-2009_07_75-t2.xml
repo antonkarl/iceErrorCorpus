@@ -94,7 +94,7 @@
     <original><w>á</w></original>
     <corrected></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="extra-word" eid="0" />
       </errors>
   </revision>
   <w>milli</w>
@@ -125,7 +125,7 @@
     <original><w>Megin</w><w>markmið</w></original>
     <corrected><w>Meginmarkmið</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="split-word" eid="0" />
       </errors>
   </revision>
   <w>félagsins</w>
@@ -144,7 +144,7 @@
     <original><w>á</w></original>
     <corrected></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="extra-word" eid="0" />
       </errors>
   </revision>
   <w>milli</w>
@@ -164,7 +164,7 @@
     <original><w>drjúg</w></original>
     <corrected><w>notadrjúg</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="wording" eid="0" />
       </errors>
   </revision>
   <w>fyrir</w>
@@ -190,7 +190,7 @@
     <original><w>á</w></original>
     <corrected></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="extra-word" eid="0" />
       </errors>
   </revision>
   <w>milli</w>
@@ -209,13 +209,7 @@
   <w>samstaða</w>
   <c>,</c>
   <w>þó</w>
-  <revision id="6">
-    <original><w>að</w></original>
-    <corrected></corrected>
-      <errors>
-        <error xtype="xxx" eid="0" />
-      </errors>
-  </revision>
+  <w>að</w>
   <w>leikfélögin</w>
   <w>séu</w>
   <w>eins</w>
@@ -257,7 +251,7 @@
     <original><w>Fífl</w></original>
     <corrected><w>FÍFL</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="lower4upper-acro" eid="0" />
       </errors>
   </revision>
   <c>.</c>

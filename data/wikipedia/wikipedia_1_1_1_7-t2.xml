@@ -1648,7 +1648,8 @@
     <original><w>En</w><w>fæstir</w></original>
     <corrected><c>„</c><w>Fæstir</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0"/>
+        <error xtype="extra-conjunction" eid="0"/>
+        <error xtype="missing-quot" eid="0"/>
       </errors>
   </revision>
   <w>vildu</w>
@@ -1656,7 +1657,7 @@
     <original/>
     <corrected><w>þó</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0"/>
+        <error xtype="missing-word" eid="0"/>
       </errors>
   </revision>
   <w>ráða</w>
@@ -1862,7 +1863,7 @@
     <original/>
     <corrected><c>“</c></corrected>
       <errors>
-        <error xtype="xxx" eid="0"/>
+        <error xtype="missing-quot" eid="0"/>
       </errors>
   </revision>
 </s><s n="60">
@@ -3026,7 +3027,7 @@
     <original/>
     <corrected><c>“</c></corrected>
       <errors>
-        <error xtype="xxx" eid="0"/>
+        <error xtype="missing-quot" eid="0"/>
       </errors>
   </revision>
   <w>segir</w>
@@ -3131,7 +3132,8 @@
     <original><c>-Margir</c></original>
     <corrected><c>„</c><w>Margir</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0"/>
+        <error xtype="extra-dash" eid="0"/>
+        <error xtype="missing-quot" eid="0"/>
       </errors>
   </revision>
   <w>vildu</w>
@@ -3146,7 +3148,7 @@
     <original/>
     <corrected><c>“</c></corrected>
       <errors>
-        <error xtype="xxx" eid="0"/>
+        <error xtype="missing-quot" eid="0"/>
       </errors>
   </revision>
   <w>segir</w>
@@ -4949,7 +4951,7 @@
     <original><c>.</c></original>
     <corrected><c>:</c></corrected>
       <errors>
-        <error xtype="xxx" eid="0"/>
+        <error xtype="period4colon" eid="0"/>
       </errors>
   </revision>
   <c>„</c>

@@ -110,12 +110,12 @@
   <w>turnana</w>
   <w>tvo</w>
   <w>með</w>
-  <w>nokkura</w>
   <revision id="1">
-    <original/>
+    <original><w>nokkura</w></original>
     <corrected><w>nokkurra</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0"/>
+        <error xtype="missing-letter" idx="1-1" eid="0"/>
+        <error xtype="nonword" idx="1-1" eid="0"/>
       </errors>
   </revision>
   <w>mínútna</w>
@@ -383,12 +383,12 @@
   <w>hennar</w>
   <c>.</c>
 </s><s n="19">
-  <w>Öröbum</w>
   <revision id="2">
-    <original/>
+    <original><w>Öröbum</w></original>
     <corrected><w>Aröbum</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0"/>
+        <error xtype="letter-rep" idx="2-1" eid="0"/>
+        <error xtype="nonword" idx="2-1" eid="0"/>
       </errors>
   </revision>
   <w>er</w>
@@ -525,12 +525,12 @@
   <w>Þó</w>
   <w>að</w>
   <w>hryðjuverk</w>
-  <w>höfðu</w>
   <revision id="3">
-    <original/>
+    <original><w>höfðu</w></original>
     <corrected><w>hafi</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0"/>
+        <error xtype="ind4sub" idx="3-1" eid="0"/>
+        <error xtype="past4pres" idx="3-1" eid="0"/>
       </errors>
   </revision>
   <w>áður</w>
@@ -821,9 +821,9 @@
   <w>tilfelli</w>
   <revision id="4">
     <original><w>Al-Quaida</w></original>
-    <corrected><w>Al-QuaidaAl-Qaeda</w></corrected>
+    <corrected><w>Al-Qaeda</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0"/>
+        <error xtype="foreign-error" eid="0"/>
       </errors>
   </revision>
   <c>,</c>

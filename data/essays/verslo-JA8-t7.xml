@@ -549,7 +549,7 @@
     <original><w>þarf</w></original>
     <corrected><w>þurfi</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0"/>
+        <error xtype="ind4sub" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -673,7 +673,7 @@
     <original><w>hann</w></original>
     <corrected/>
       <errors>
-        <error xtype="xxx" eid="0"/>
+        <error xtype="extra-word" eid="0"/>
       </errors>
   </revision>
   <w>hefur</w>
@@ -905,7 +905,7 @@
     <original><w>eitt</w></original>
     <corrected><w>eytt</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0"/>
+        <error xtype="i4y" eid="0"/>
       </errors>
   </revision>
   <w>miklum</w>
@@ -931,7 +931,7 @@
     <original><w>og</w><w>hann</w></original>
     <corrected><c>.</c><w>Hann</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0"/>
+        <error xtype="conjunction4period" eid="0"/>
       </errors>
   </revision>
   <w>segir</w>
@@ -1041,7 +1041,8 @@
     <original><w>unnasta</w></original>
     <corrected><w>unnusta</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0"/>
+        <error xtype="letter-rep" idx="5-1" eid="0"/>
+        <error xtype="nonword" idx="5-1" eid="0"/>
       </errors>
   </revision>
   <w>hans</w>
@@ -1162,7 +1163,7 @@
     <original><c>.</c></original>
     <corrected><c>?</c></corrected>
       <errors>
-        <error xtype="xxx" eid="0"/>
+        <error xtype="period4qm" eid="0"/>
       </errors>
   </revision>
 </s><s n="60">
@@ -1372,7 +1373,7 @@
     <original><w>og</w></original>
     <corrected><w>svo</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0"/>
+        <error xtype="conjunction" eid="0"/>
       </errors>
   </revision>
   <w>fjárhagsáhyggjurnar</w>
@@ -1400,7 +1401,8 @@
     <original><w>skemmtunnar</w></original>
     <corrected><w>skemmtunar</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0"/>
+        <error xtype="nn4n" idx="8-1" eid="0"/>
+        <error xtype="nonword" idx="8-1" eid="0"/>
       </errors>
   </revision>
   <w>innanlands</w>

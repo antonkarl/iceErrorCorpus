@@ -11,7 +11,8 @@
     <original><w>að</w></original>
     <corrected></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="extra-word" idx="1-1" eid="0" />
+        <error xtype="style" idx="1-1" eid="0"/>
       </errors>
   </revision>
   <w>þá</w>
@@ -91,7 +92,7 @@
     <original></original>
     <corrected><w>lokað</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="missing-word" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -129,13 +130,7 @@
   <w>liðið</w>
   <w>hefur</w>
   <w>á</w>
-  <revision id="3">
-    <original><w>morguninn</w></original>
-    <corrected><w>morgunninn</w></corrected>
-      <errors>
-        <error xtype="xxx" eid="0" />
-      </errors>
-  </revision>
+  <w>morguninn</w>
   <c>.</c>
 </s>
 <s n="8">
@@ -181,7 +176,7 @@
     <original><w>samt</w></original>
     <corrected><w>þó</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="wording" eid="0" />
       </errors>
   </revision>
   <w>ekki</w>

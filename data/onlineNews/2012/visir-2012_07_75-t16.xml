@@ -88,7 +88,7 @@
     <original><c>"</c></original>
     <corrected><c>“</c></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="wrong-quots" eid="0" />
       </errors>
   </revision>
   <w>segir</w>
@@ -125,7 +125,8 @@
     <original><c>[</c></original>
     <corrected><c>,</c></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="extra-square" eid="0" />
+        <error xtype="missing-comma" eid="0"/>
       </errors>
   </revision>
   <w>sænsku</w>
@@ -133,7 +134,9 @@
     <original><w>keppnina</w><c>]</c></original>
     <corrected><w>undankeppnina</w><c>,</c></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="wording" eid="0" />
+        <error xtype="extra-square" eid="0"/>
+        <error xtype="missing-comma" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
@@ -175,7 +178,7 @@
     <original><c>"</c></original>
     <corrected><c>“</c></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="wrong-quot" eid="0" />
       </errors>
   </revision>
   <w>segir</w>
@@ -190,7 +193,7 @@
     <original><w>söngvakeppnin</w></original>
     <corrected><w>Söngvakeppnin</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="lower4upper-proper" eid="0" />
       </errors>
   </revision>
   <w>yrði</w>

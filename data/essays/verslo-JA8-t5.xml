@@ -10,7 +10,7 @@
     <original><w>segja</w><w>bless</w><w>við</w></original>
     <corrected><w>kveðja</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0"/>
+        <error xtype="wording" eid="0"/>
       </errors>
   </revision>
   <w>alla</w>
@@ -32,7 +32,7 @@
     <original><w>að</w><w>vera</w></original>
     <corrected/>
       <errors>
-        <error xtype="xxx" eid="0"/>
+        <error xtype="cont4simple" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -43,7 +43,7 @@
     <original><w>framan</w><w>þá</w></original>
     <corrected><w>þeim</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0"/>
+        <error xtype="wording" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -122,7 +122,9 @@
     <original><w>ílla</w></original>
     <corrected><w>illa</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0"/>
+        <error xtype="extra-accent" idx="4-1" eid="0"/>
+        <error xtype="pronun-writing" idx="4-1" eid="0"/>
+        <error xtype="nonword" idx="4-1" eid="0"/>
       </errors>
   </revision>
   <w>í</w>
@@ -144,7 +146,7 @@
     <original><w>okkur</w></original>
     <corrected><w>okkar</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0"/>
+        <error xtype="nominal-inflection" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
@@ -164,7 +166,8 @@
     <original><w>mikin</w></original>
     <corrected><w>mikinn</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0"/>
+        <error xtype="n4nn" idx="6-1" eid="0"/>
+        <error xtype="nonword" idx="6-1" eid="0"/>
       </errors>
   </revision>
   <w>vítahring</w>
@@ -175,7 +178,7 @@
     <original/>
     <corrected><w>okkur</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0"/>
+        <error xtype="missing-comma" eid="0"/>
       </errors>
   </revision>
   <w>er</w>
@@ -201,7 +204,7 @@
     <original><w>sem</w></original>
     <corrected/>
       <errors>
-        <error xtype="xxx" eid="0"/>
+        <error xtype="extra-word" eid="0"/>
       </errors>
   </revision>
   <w>ágóðans</w>
@@ -210,7 +213,7 @@
     <original/>
     <corrected><c>,</c></corrected>
       <errors>
-        <error xtype="xxx" eid="0"/>
+        <error xtype="missing-comma" eid="0"/>
       </errors>
   </revision>
   <w>en</w>
@@ -256,7 +259,7 @@
     <original><w>vínum</w></original>
     <corrected><w>vinum</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0"/>
+        <error xtype="extra-accent" eid="0"/>
       </errors>
   </revision>
   <w>sínum</w>
@@ -271,7 +274,8 @@
     <original><w>lífir</w></original>
     <corrected><w>lifir</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0"/>
+        <error xtype="extra-accent" idx="11-1" eid="0"/>
+        <error xtype="nonword" idx="11-1" eid="0"/>
       </errors>
   </revision>
   <w>hamingjusamur</w>
@@ -279,7 +283,7 @@
     <original/>
     <corrected><c>,</c></corrected>
       <errors>
-        <error xtype="xxx" eid="0"/>
+        <error xtype="missing-comma" eid="0"/>
       </errors>
   </revision>
   <w>sama</w>

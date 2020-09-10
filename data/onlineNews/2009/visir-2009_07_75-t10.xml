@@ -41,7 +41,7 @@
     <original></original>
     <corrected><c>,</c></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="missing-comma" eid="0" />
       </errors>
   </revision>
   <w>samkvæmt</w>
@@ -92,7 +92,7 @@
     <original><w>ríkissjóð</w></original>
     <corrected><w>ríkissjóði</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="nominal-inflection" eid="0" />
       </errors>
   </revision>
   <w>hefðu</w>
@@ -183,7 +183,7 @@
     <original><w>er</w></original>
     <corrected><w>sé</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="ind4sub" eid="0" />
       </errors>
   </revision>
   <w>komin</w>

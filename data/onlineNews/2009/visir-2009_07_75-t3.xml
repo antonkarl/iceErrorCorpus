@@ -146,7 +146,7 @@
     <original><w>Singapore</w></original>
     <corrected><w>Singapúr</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="fw4ice" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -207,7 +207,7 @@
     <original></original>
     <corrected><c>,</c></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="missing-comma" eid="0" />
       </errors>
   </revision>
   <w>eiga</w>
@@ -217,7 +217,7 @@
     <original><w>sameiginlegt-þau</w></original>
     <corrected><w>sameiginlegt</w><c>–</c><w>þau</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="missing-space" eid="0" />
       </errors>
   </revision>
   <w>eiga</w>

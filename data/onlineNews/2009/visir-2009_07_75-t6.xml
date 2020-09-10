@@ -134,7 +134,7 @@
     <original><c>,</c></original>
     <corrected></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="extra-comma" eid="0" />
       </errors>
   </revision>
   <w>forseti</w>
@@ -147,7 +147,7 @@
     <original><c>,</c></original>
     <corrected></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="extra-comma" eid="0" />
       </errors>
   </revision>
   <w>formaður</w>
@@ -164,7 +164,7 @@
     <original></original>
     <corrected><c>,</c></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="missing-commas" idx="3-1" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -174,7 +174,7 @@
     <original><c>,</c></original>
     <corrected></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="extra-comma" eid="0" />
       </errors>
   </revision>
   <w>menntamálaráðherra</w>
@@ -182,7 +182,7 @@
     <original></original>
     <corrected><c>,</c></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="dep" depId="3-1" eid="0" />
       </errors>
   </revision>
   <w>fluttu</w>

@@ -641,7 +641,8 @@
     <original></original>
     <corrected><c>,</c><w>fjallið</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="missing-comma" eid="0" />
+        <error xtype="missing-word" eid="0" />
       </errors>
   </revision>
   <w>Kilimanjaro</w>
