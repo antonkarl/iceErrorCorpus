@@ -46,7 +46,14 @@
   <w>kann</w>
   <w>ekkert</w>
   <w>í</w>
-  <w>stærfræði</w>
+  <revision id="2a">
+    <original><w>stærfræði</w></original>
+    <corrected><w>stærðfræði</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="2a-1" eid="0" />
+        <error xtype="nonword" idx="2a-1" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="4">
   <c>„</c>
@@ -86,7 +93,13 @@
   </revision>
   <w>geta</w>
   <w>pirruðu</w>
-  <w>einstaklingarnar</w>
+  <revision id="3a">
+    <original><w>einstaklingarnar</w></original>
+    <corrected><w>einstaklingarnir</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
   <w>verið</w>
   <w>að</w>
   <w>upplifa</w>
@@ -459,6 +472,13 @@
   <w>þessu</w>
   <w>viðtali</w>
   <w>við</w>
+  <revision id="19a">
+    <original><w>námsráðgjafinn</w></original>
+    <corrected><w>námsráðgjafann</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
   <w>námsráðgjafinn</w>
   <w>með</w>
   <w>breytt</w>
@@ -893,6 +913,13 @@
 </s><s n="45">
   <w>Tilraunahópur</w>
   <w>A</w>
+  <revision id="33a">
+    <original></original>
+    <corrected><c>.</c></corrected>
+      <errors>
+        <error xtype="missing-period" eid="0" />
+      </errors>
+  </revision>
   <w>fær</w>
   <w>lyfið</w>
   <w>og</w>
@@ -2024,7 +2051,13 @@
   <w>hafði</w>
   <w>tapað</w>
   <w>leiknum</w>
-  <w>fyrirfram</w>
+  <revision id="75a">
+    <original><w>fyrirfram</w></original>
+    <corrected><w>fyrir</w><w>fram</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>andlega</w>
   <c>.</c>
 </s><s n="104">
@@ -2409,7 +2442,14 @@
   <w>kanínur</w>
   <w>og</w>
   <w>sinn</w>
-  <w>sannfæringakraft</w>
+  <revision id="85a">
+    <original><w>sannfæringakraft</w></original>
+    <corrected><w>sannfæringarkraft</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="85a-1" eid="0" />
+        <error xtype="nonword" idx="85a-1" eid="0" />
+      </errors>
+  </revision>
   <w>er</w>
   <w>ekki</w>
   <w>endilega</w>
@@ -2454,7 +2494,14 @@
   <w>beitir</w>
   <w>maður</w>
   <w>þessum</w>
-  <w>sannfæringakrafti</w>
+  <revision id="86a">
+    <original><w>sannfæringakrafti</w></original>
+    <corrected><w>sannfæringarkrafti</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="86a-1" eid="0" />
+        <error xtype="nonword" idx="86a-1" eid="0" />
+      </errors>
+  </revision>
   <c>?</c>
 </s><s n="131">
   <w>Dagurinn</w>
@@ -3202,7 +3249,14 @@
   <w>að</w>
   <w>þekkja</w>
   <w>hógværu</w>
-  <w>einstakingana</w>
+  <revision id="114a">
+    <original><w>einstaklingana</w></original>
+    <corrected><w>einstaklingana</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="114a-1" eid="0" />
+        <error xtype="nonword" idx="114a-1" eid="0" />
+      </errors>
+  </revision>
   <w>út</w>
   <w>frá</w>
   <w>því</w>
@@ -3519,7 +3573,13 @@
   <w>enda</w>
   <w>erfiður</w>
   <w>leikur</w>
-  <w>framundan</w>
+    <revision id="125a">
+    <original><w>framundan</w></original>
+    <corrected><w>fram</w><w>undan</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="185">
   <w>Ég</w>
