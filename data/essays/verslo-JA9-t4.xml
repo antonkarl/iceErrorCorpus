@@ -119,7 +119,14 @@
   <w>atvinnufólk</w>
   <w>til</w>
   <w>að</w>
-  <w>hjápa</w>
+  <revision id="3a">
+    <original><w>hjápa</w></original>
+    <corrected><w>hjálpa</w></corrected>
+      <errors>
+        <error xtype="missing-letter" eid="0" />
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
   <w>sér</w>
   <w>við</w>
   <w>að</w>
