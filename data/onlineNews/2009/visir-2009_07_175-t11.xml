@@ -119,7 +119,13 @@
   <w>á</w>
   <w>eftirspurnina</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="1b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Christopher</w>
   <w>Moltke-Leth</w>

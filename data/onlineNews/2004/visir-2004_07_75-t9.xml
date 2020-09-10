@@ -100,9 +100,15 @@
   <w>eina</w>
   <w>viku</w>
   <c>.</c>
-  <c>"</c>
 </s>
 <s n="4">
+  <revision id="1b">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Ég</w>
   <w>fór</w>
   <w>með</w>
@@ -175,7 +181,13 @@
   <w>um</w>
   <w>strákana</w>
   <c>.</c>
-  <c>"</c>
+  <revision id="2b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="6">
   <w>Eitt</w>
@@ -211,9 +223,15 @@
   <w>í</w>
   <w>borginni</w>
   <c>.</c>
-  <c>"</c>
 </s>
 <s n="7">
+  <revision id="2c">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Þeir</w>
   <w>þurftu</w>
   <w>náttúrlega</w>
@@ -356,9 +374,21 @@
   <w>henni</w>
   <w>og</w>
   <w>beindi</w>
-  <c>"</c>
+  <revision id="3b">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>hlaupinu</w>
-  <c>"</c>
+  <revision id="3c">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>vísifingrinum</w>
   <w>að</w>
@@ -432,7 +462,13 @@
   <w>beðið</w>
   <w>þeirra</w>
   <c>.</c>
-  <c>"</c>
+  <revision id="6b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="16">
   <w>Þrátt</w>
@@ -466,9 +502,15 @@
   <w>tökum</w>
   <w>áfram</w>
   <c>.</c>
-  <c>"</c>
 </s>
 <s n="17">
+  <revision id="6c">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Ég</w>
   <w>stefni</w>
   <w>svo</w>
@@ -504,7 +546,13 @@
   <w>halda</w>
   <w>þær</w>
   <c>.</c>
-  <c>"</c>
+  <revision id="6d">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="18">
   <w>svanborg@frettabladid.is</w>

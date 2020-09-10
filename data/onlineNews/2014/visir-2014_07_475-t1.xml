@@ -109,7 +109,13 @@
   <w>Takk</w>
   <w>Kólumbía</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="1b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>þessi</w>
   <w>sex</w>
@@ -174,7 +180,13 @@
   <w>þessa</w>
   <w>heimsmeistaramóts</w>
   <c>.</c>
-  <c>"</c>
+  <revision id="4b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="10">
   <c>„</c>
@@ -219,7 +231,13 @@
   <w>og</w>
   <w>þessi</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="4c">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Pekerman</w>
   <c>.</c>

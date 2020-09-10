@@ -189,11 +189,11 @@
   <w>settum</w>
   <w>voru</w>
   <w>6</w>
-  
+  <c>-</c>
   <w>1</w>
   <w>og</w>
   <w>6</w>
-  
+  <c>-</c>
   <w>4</w>
   <w>og</w>
   <w>hinn</w>
@@ -218,7 +218,13 @@
   <w>vanga</w>
   <w>hennar</w>
   <c>:</c>
-  <c>"</c>
+  <revision id="1b">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Þetta</w>
   <w>er</w>
   <w>ótrúlegt</w>
@@ -227,7 +233,13 @@
   <w>er</w>
   <w>algjörlega</w>
   <w>orðlaus</w>
-  <c>"</c>
+  <revision id="1c">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Sharapova</w>
   <w>og</w>
@@ -236,7 +248,13 @@
   <w>hálfgerðri</w>
   <w>geðshræringu</w>
   <c>:</c>
-  <c>"</c>
+  <revision id="1d">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Það</w>
   <w>hefur</w>
   <w>alltaf</w>
@@ -265,7 +283,16 @@
   <w>á</w>
   <w>þessu</w>
   <w>ári</w>
-  <c>"</c>
+  <revision id="1e">
+    <original><c>"</c></original>
+    <corrected><c>.</c><c>“</c></corrected>
+      <errors>
+        <error xtype="missing-period" eid="0" />
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
+</s>
+<s n="6b">
   <w>Í</w>
   <w>karlaflokki</w>
   <w>áttust</w>
@@ -380,7 +407,13 @@
   <w>tók</w>
   <w>Federer</w>
   <c>:</c>
-  <c>"</c>
+  <revision id="1f">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Hann</w>
   <w>spilaði</w>
   <w>af</w>
@@ -429,7 +462,14 @@
   <w>að</w>
   <w>verja</w>
   <w>titilinn</w>
-  <c>"</c>
+  <revision id="1g">
+    <original><c>"</c></original>
+    <corrected><c>,</c><c>“</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Federer</w>
   <c>.</c>
@@ -442,7 +482,13 @@
   <w>af</w>
   <w>karlmennsku</w>
   <c>:</c>
-  <c>"</c>
+  <revision id="1h">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Ég</w>
   <w>gaf</w>
   <w>allt</w>
@@ -477,7 +523,14 @@
   <w>á</w>
   <w>komandi</w>
   <w>árum</w>
-  <c>"</c>
+  <revision id="1i">
+    <original><c>"</c></original>
+    <corrected><c>,</c><c>“</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Roddick</w>
   <c>.</c>

@@ -30,9 +30,15 @@
   <w>honum</w>
   <w>stendur</w>
   <c>.</c>
-  <c>"</c>
 </s>
 <s n="2">
+  <revision id="0">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Aicha</w>
   <w>Moammar</w>
   <w>er</w>
@@ -61,7 +67,13 @@
   <w>Saddam</w>
   <w>Hussein</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="1b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Ziad</w>
   <w>al-Khasawneh</w>

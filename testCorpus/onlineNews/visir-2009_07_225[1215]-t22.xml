@@ -15,7 +15,14 @@
   <w>að</w>
   <w>vinna</w>
   <w>í</w>
-  <w>Elliðarárdalnum</w>
+  <revision id="0">
+    <original><w>Elliðarárdalnum</w></original>
+    <corrected><w>Elliðaárdalnum</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="0-1" eid="0" />
+        <error xtype="nonword" idx="0-1" eid="0" />
+      </errors>
+  </revision>
   <w>að</w>
   <w>undanförnu</w>
   <w>var</w>
@@ -206,7 +213,7 @@
   <w>af</w>
   <w>þessu</w>
   <c>,</c>
-  <c>&quot;</c>
+  <c>“</c>
   <w>sagði</w>
   <w>Árni</w>
   <w>Johnsen</w>

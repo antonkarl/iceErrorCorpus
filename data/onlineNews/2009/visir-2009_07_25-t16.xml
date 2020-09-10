@@ -76,7 +76,13 @@
   <w>er</w>
   <w>ári</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="1">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>í</w>
   <w>Morgunkorninu</w>
@@ -194,7 +200,13 @@
   <w>við</w>
   <w>2%</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="2">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>í</w>
   <w>Morgunkorninu</w>

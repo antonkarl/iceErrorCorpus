@@ -3,7 +3,13 @@
 <teiHeader></teiHeader>
 <text><body><p n="1">
 <s n="1">
-  <c>"</c>
+  <revision id="0">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Við</w>
   <w>ætlum</w>
   <w>að</w>
@@ -17,7 +23,13 @@
   <w>til</w>
   <w>eitt</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="0b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Guðni</w>
   <w>Rúnar</w>
@@ -47,9 +59,15 @@
   <w>tónleika</w>
   <w>Metallica</w>
   <c>.</c>
-  <c>"</c>
 </s>
 <s n="2">
+  <revision id="1b">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Með</w>
   <w>hverjum</w>
   <w>seldum</w>
@@ -84,7 +102,13 @@
   <w>í</w>
   <w>Egilshöll</w>
   <c>.</c>
-  <c>"</c>
+  <revision id="1c">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="4">
   <w>Guðni</w>
@@ -96,9 +120,15 @@
   <w>fyrir</w>
   <w>Metallica</w>
   <c>.</c>
-  <c>"</c>
 </s>
 <s n="5">
+  <revision id="1d">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Það</w>
   <w>eru</w>
   <w>allir</w>
@@ -138,7 +168,13 @@
   <w>annað</w>
   <w>þungarokk</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="1e">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Guðni</w>
   <w>en</w>
@@ -173,9 +209,15 @@
       </errors>
   </revision>
   <c>.</c>
-  <c>"</c>
 </s>
 <s n="8">
+  <revision id="2b">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Það</w>
   <w>er</w>
   <w>nýi</w>
@@ -227,13 +269,25 @@
   <w>fyrir</w>
   <w>þungarokkara</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="3b">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Guðni</w>
   <c>.</c>
-  <c>"</c>
 </s>
 <s n="11">
+  <revision id="3c">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Eftir</w>
   <w>klukkan eitt</w>
   <w>tekur</w>
@@ -263,7 +317,13 @@
   <w>til</w>
   <w>allra</w>
   <c>.</c>
-  <c>"</c>
+  <revision id="5b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 </p></body></text>
 </TEI>

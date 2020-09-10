@@ -68,7 +68,13 @@
   <w>hlutverk</w>
   <w>Lýðheilsustöðvar</w>
   <w>að</w>
-  <c>"</c>
+  <revision id="1b">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>efla</w>
   <w>lýðheilsustarf</w>
   <w>og</w>
@@ -107,6 +113,13 @@
   <w>eflingar</w>
   <w>lýðheilsu</w>
   <c>.</c>
+  <revision id="1c">
+    <original></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="missing-quot" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="6">
   <w>Lýðheilsustöð</w>

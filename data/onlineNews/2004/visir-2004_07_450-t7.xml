@@ -84,9 +84,15 @@
       </errors>
   </revision>
   <c>.</c>
-  <c>"</c>
 </s>
 <s n="4">
+  <revision id="1b">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Það</w>
   <w>er</w>
   <w>nauðsynlegt</w>
@@ -154,7 +160,13 @@
   <w>í</w>
   <w>veðri</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="1c">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Bolli</w>
   <w>Bjarnason</w>
@@ -207,6 +219,13 @@
   <c>"</c>
 </s>
 <s n="7">
+  <revision id="3b">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Mjög</w>
   <w>sterk</w>
   <w>sól</w>
@@ -308,7 +327,13 @@
   <w>bera</w>
   <w>derhúfur</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="4b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Bolli</w>
   <c>.</c>
@@ -330,9 +355,15 @@
   <w>sökum</w>
   <w>endurkasts</w>
   <c>.</c>
-  <c>"</c>
 </s>
 <s n="12">
+  <revision id="4c">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Það</w>
   <w>skiptir</w>
   <w>öllu</w>
@@ -430,7 +461,13 @@
   <w>þessa</w>
   <w>hluti</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="6b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Bolli</w>
   <c>.</c>

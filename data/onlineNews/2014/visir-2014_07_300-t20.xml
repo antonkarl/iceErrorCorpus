@@ -143,7 +143,13 @@
   <w>úr</w>
   <w>atvinnulífinu</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="3b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Dröfn</w>
   <revision id="4">
@@ -213,7 +219,13 @@
   <w>jafnara</w>
   <w>kynjahlutfalli</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="4b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Hulda</w>
   <w>Bjarnadóttir</w>

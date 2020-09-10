@@ -781,10 +781,8 @@
   <w>ekki</w>
   <w>nóg</w>
   <w>pláss</w>
-  <c>.</c>
+  <c>,</c>
   <c>“</c>
-</s>
-<s n="17">
   <w>skrifar</w>
   <w>Dagmar</w>
   <w>og</w>
@@ -895,7 +893,13 @@
 </s>
 <s n="21">
   <w>Tilgangur</w>
-  <w>bumbupistlana</w>
+  <revision id="40b">
+    <original><w>bumbupistlana</w></original>
+    <corrected><w>bumbupistlanna</w></corrected>
+      <errors>
+        <error xtype="n4nn" eid="0" />
+      </errors>
+  </revision>
   <w>er</w>
   <revision id="41">
     <original><w>til</w></original>

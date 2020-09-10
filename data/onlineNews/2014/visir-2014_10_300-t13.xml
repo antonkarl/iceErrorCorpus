@@ -43,7 +43,13 @@
   <w>yfir</w>
   <w>henni</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="1b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Aðalsteinn</w>
   <w>í</w>
@@ -430,9 +436,21 @@
   <w>í</w>
   <w>liðið</w>
   <c>.</c>
-  <c>"</c>
+  <revision id="27b">
+    <original><c>"</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-quot" eid="0"/>
+      </errors>
+  </revision>
 </s><s n="12">
-  <c>„</c>
+  <revision id="27c">
+    <original><c>„</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-quot" eid="0"/>
+      </errors>
+  </revision>
   <w>Við</w>
   <w>vorum</w>
   <w>með</w>
@@ -440,7 +458,13 @@
   <w>fjárráð</w>
   <c>.</c>
 </s><s n="13">
-  <c>„</c>
+  <revision id="27d">
+    <original><c>„</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-quot" eid="0"/>
+      </errors>
+  </revision>
   <w>Núna</w>
   <w>fer</w>
   <w>umboðsmaður</w>
@@ -471,7 +495,13 @@
   <w>sumar</w>
   <c>.</c>
 </s><s n="14">
-  <c>„</c>
+  <revision id="28b">
+    <original><c>„</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-quot" eid="0"/>
+      </errors>
+  </revision>
   <w>Það</w>
   <w>var</w>
   <revision id="29">

@@ -88,7 +88,13 @@
   <w>lífi</w>
   <w>hans</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="0">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>skrifaði</w>
   <w>fyrrum</w>
   <w>félagi</w>
@@ -113,9 +119,15 @@
   <w>til</w>
   <w>félagsins</w>
   <c>.</c>
-  <c>"</c>
 </s>
 <s n="6">
+  <revision id="0b">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Hann</w>
   <w>þarfnast</w>
   <w>sárlega</w>
@@ -158,7 +170,13 @@
   <w>mína</w>
   <w>hjálp</w>
   <c>.</c>
-  <c>"</c>
+  <revision id="0c">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="10">
   <w>Gordon</w>
@@ -249,7 +267,13 @@
   <w>alveg</w>
   <w>glórulaus</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="2b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Jackson</w>
   <c>.</c>

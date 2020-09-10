@@ -202,7 +202,13 @@
   <w>í</w>
   <w>dag</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="5b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Strange</w>
   <c>.</c>
@@ -236,7 +242,13 @@
   <w>sjálfum</w>
   <w>sér</w>
   <c>.</c>
-  <c>"</c>
+  <revision id="6b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 </p></body></text>
 </TEI>

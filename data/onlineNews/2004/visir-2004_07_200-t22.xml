@@ -74,9 +74,15 @@
   <w>þriðja</w>
   <w>ár</w>
   <c>.</c>
-  <c>"</c>
 </s>
 <s n="3">
+  <revision id="1b">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Þegar</w>
   <w>ég</w>
   <w>tók</w>
@@ -157,7 +163,13 @@
   <w>riðlinum</w>
   <w>sýndi</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="1c">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Plamen</w>
   <w>Markov</w>

@@ -52,9 +52,15 @@
   <w>opnunarleik</w>
   <w>mótsins</w>
   <c>.</c>
-  <c>"</c>
 </s>
 <s n="2">
+  <revision id="0">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Við</w>
   <w>erum</w>
   <w>ekki</w>
@@ -193,7 +199,13 @@
   <w>engin</w>
   <w>mistök</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="1b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>þessi</w>
   <w>snjalli</w>

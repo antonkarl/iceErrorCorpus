@@ -763,7 +763,13 @@
   <w>enn</w>
   <w>meiri</w>
   <w>innreið</w>
-  <c>"</c>
+  <revision id="32b">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <revision id="33">
     <original><w>special</w><w>teams</w></original>
     <corrected><w>sérstakra</w><w>teyma</w></corrected>
@@ -771,7 +777,13 @@
         <error xtype="fw4ice" eid="0" />
       </errors>
   </revision>
-  <c>"</c>
+  <revision id="33b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>í</w>
   <w>fótboltann</w>
   <c>(</c>
@@ -918,7 +930,13 @@
   <w>er</w>
   <w>í</w>
   <w>heildina</w>
-  <c>"</c>
+  <revision id="34b">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <revision id="35">
     <original><w>special</w><w>team</w></original>
     <corrected><w>sérstakt</w><w>teymi</w></corrected>
@@ -926,7 +944,13 @@
         <error xtype="fw4ice" eid="0" />
       </errors>
   </revision>
-  <c>"</c>
+  <revision id="35b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="40">

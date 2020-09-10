@@ -98,7 +98,13 @@
   <w>og</w>
   <w>sárindi</w>
   <c>:</c>
-  <c>"</c>
+  <revision id="0">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Öll</w>
   <w>vafaatriði</w>
   <w>féllu</w>
@@ -134,7 +140,13 @@
   <w>hjá</w>
   <w>Frisk</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="2b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>bálreiður</w>
   <w>Nistelrooy</w>

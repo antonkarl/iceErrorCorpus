@@ -102,9 +102,15 @@
   <w>í</w>
   <w>tónlistarbransanum</w>
   <c>.</c>
-  <c>"</c>
 </s>
 <s n="6">
+  <revision id="2">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Þú</w>
   <w>hlýtur</w>
   <w>þá</w>
@@ -113,7 +119,13 @@
   <w>það</w>
   <w>ágætt</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="3">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>lögregluþjónninn</w>
   <c>,</c>

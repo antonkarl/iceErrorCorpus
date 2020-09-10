@@ -331,7 +331,13 @@
   <w>að</w>
   <w>taka</w>
   <w>upp</w>
-  <w>einhverskonar</w>
+  <revision id="4b">
+    <original><w>einhverskonar</w></original>
+    <corrected><w>einhvers</w><w>konar</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>vöruskiptakerfi</w>
   <w>svipað</w>
   <w>og</w>
@@ -344,7 +350,13 @@
   <w>fyrir</w>
   <w>nokkrum</w>
   <w>áratugum</w>
-  <w>síðan</w>
+  <revision id="4c">
+    <original><w>síðan</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="16">
@@ -544,7 +556,13 @@
   <w>við</w>
   <w>öxl</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="11b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="24">
   <w>Fari</w>
@@ -587,7 +605,13 @@
   <w>lætur</w>
   <w>erfiðleika</w>
   <w>síðasta</w>
-  <w>veturs</w>
+  <revision id="12b">
+    <original><w>veturs</w></original>
+    <corrected><w>vetrar</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
   <w>líta</w>
   <w>út</w>
   <w>eins</w>

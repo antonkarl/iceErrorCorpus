@@ -92,7 +92,13 @@
   <w>í</w>
   <w>fótunum</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="1b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Scolari</w>
   <w>en</w>
@@ -176,7 +182,13 @@
   <w>strákana</w>
   <w>áfram</w>
   <c>.</c>
-  <c>"</c>
+  <revision id="2b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 </p></body></text>
 </TEI>

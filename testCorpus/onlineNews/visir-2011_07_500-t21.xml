@@ -4,8 +4,13 @@
 <text><body><p n="1">
 <s n="1">
   <w>Formúlu</w>
-  <w>1</w>
-  <w>heimsmeistarinn</w>
+  <revision id="0">
+    <original><w>1</w><w>heimsmeistarinn</w></original>
+    <corrected><w>1-heimsmeistarinn</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
   <w>Sebastian</w>
   <w>Vettel</w>
   <w>varð</w>
@@ -27,7 +32,13 @@
   <w>á</w>
   <w>Silverstone</w>
   <w>brautinni</w>
-  <w>i</w>
+  <revision id="0b">
+    <original><w>i</w></original>
+    <corrected><w>í</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <w>Englandi</w>
   <w>um</w>
   <w>næstu</w>
@@ -172,8 +183,14 @@
   <w>í</w>
   <w>næsta</w>
   <w>nágrenni</w>
-  <c>&quot;</c>
   <c>,</c>
+  <revision id="2b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Vettel</w>
   <c>,</c>
@@ -337,8 +354,14 @@
   <w>í</w>
   <w>Formúlu</w>
   <w>1</w>
-  <c>&quot;</c>
   <c>,</c>
+  <revision id="7b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Webber</w>
   <c>.</c>

@@ -109,7 +109,7 @@
   <w>í</w>
   <w>félagið</w>
   <c>.</c>
-  <c>&quot;</c>
+  <c>“</c>
 </s>
 <s n="4">
   <w>Þau</w>
@@ -249,7 +249,7 @@
   <w>til</w>
   <w>muna</w>
   <c>,</c>
-  <c>&quot;</c>
+  <c>“</c>
   <w>segir</w>
   <w>Konráð</w>
   <w>Kristjánsson</w>
@@ -406,9 +406,23 @@
   <w>á</w>
   <w>Laugaveginum</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="6b">
+    <original><c>&quot;</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wrong-quots" idx="6b-1" eid="0" />
+        <error xtype="misplaced-quot" idx="6b-1" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="14">
+  <revision id="6c">
+    <original></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="dep" depId="6b-1" eid="0" />
+      </errors>
+  </revision>
   <w>Ég</w>
   <w>var</w>
   <w>atvinnulaus</w>
@@ -448,7 +462,7 @@
   <w>starfið</w>
   <w>vel</w>
   <c>,</c>
-  <c>&quot;</c>
+  <c>“</c>
   <w>segir</w>
   <w>hann</w>
   <c>.</c>
@@ -483,9 +497,23 @@
   <w>Rauða</w>
   <w>krossinn</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="6d">
+    <original><c>&quot;</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wrong-quots" idx="6d-1" eid="0" />
+        <error xtype="misplaced-quot" idx="6d-1" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="17">
+  <revision id="6e">
+    <original></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="dep" depId="6d-1" eid="0" />
+      </errors>
+  </revision>
   <w>Ég</w>
   <w>vil</w>
   <w>vinna</w>
@@ -501,7 +529,7 @@
   <w>mér</w>
   <w>leiða</w>
   <c>,</c>
-  <c>&quot;</c>
+  <c>“</c>
   <w>segir</w>
   <w>hann</w>
   <c>.</c>
@@ -530,9 +558,23 @@
   <w>síðan</w>
   <w>1978</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="7b">
+    <original><c>&quot;</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wrong-quots" idx="7b-1" eid="0" />
+        <error xtype="misplaced-quot" idx="7b-1" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="19">
+  <revision id="7c">
+    <original></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="dep" depId="7b-1" eid="0" />
+      </errors>
+  </revision>
   <w>Mér</w>
   <w>líkar</w>
   <w>starfið</w>
@@ -653,7 +695,7 @@
   <w>og</w>
   <w>sjálfboðaliðann</w>
   <c>,</c>
-  <c>&quot;</c>
+  <c>“</c>
   <w>segir</w>
   <w>Álfrún</w>
   <w>Edda</w>

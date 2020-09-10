@@ -50,7 +50,14 @@
   <w>var</w>
   <w>úrskurðað</w>
   <w>gjaldþrota</w>
-  <w>s.l.</w>
+  <revision id="1b">
+    <original><w>s.l.</w></original>
+    <corrected><w>sl.</w></corrected>
+      <errors>
+        <error xtype="abbreviation-period" idx="1b-1" eid="0" />
+        <error xtype="extra-period" idx="1b-1" eid="0" />
+      </errors>
+  </revision>
   <w>vetur</w>
   <c>.</c>
 </s>

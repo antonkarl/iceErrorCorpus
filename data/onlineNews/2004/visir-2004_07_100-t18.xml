@@ -3,12 +3,19 @@
 <teiHeader></teiHeader>
 <text><body><p n="1">
 <s n="1">
+  <revision id="0">
+    <original></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="missing-quot" eid="0" />
+      </errors>
+  </revision>
   <w>Að</w>
   <w>þessu</w>
   <w>sinni</w>
   <w>eru</w>
   <w>3.000</w>
-  
+  <c>-</c>
   <w>3.500</w>
   <w>erlendir</w>
   <w>gestir</w>
@@ -18,7 +25,13 @@
   <w>á</w>
   <w>Hellu</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="0b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Steinn</w>
   <w>Logi</w>
@@ -166,9 +179,15 @@
   <w>fjölbreyttari</w>
   <w>þjónustu</w>
   <c>.</c>
-  <c>"</c>
 </s>
 <s n="8">
+  <revision id="4b">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Ekkert</w>
   <w>eitt</w>
   <w>fyrirbæri</w>
@@ -189,14 +208,26 @@
   <w>íslenski</w>
   <w>hesturinn</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="4c">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Steinn</w>
   <w>Logi</w>
   <c>.</c>
-  <c>"</c>
 </s>
 <s n="9">
+  <revision id="4d">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Nú</w>
   <w>er</w>
   <w>svo</w>
@@ -245,7 +276,7 @@
   <w>útlöndum</w>
   <w>séu</w>
   <w>3</w>
-  
+  <c>-</c>
   <w>4</w>
   <w>einstaklingar</w>
   <c>.</c>
@@ -313,6 +344,13 @@
   <w>breiðari</w>
   <w>hóps</w>
   <c>.</c>
+  <revision id="5">
+    <original></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="missing-quot" eid="0" />
+      </errors>
+  </revision>
 </s>
 </p></body></text>
 </TEI>

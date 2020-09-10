@@ -138,14 +138,7 @@
   <w>ýmsum</w>
   <w>öðrum</w>
   <w>innflutningsvörum</w>
-  <revision id="3">
-    <original><w>s</w><c>.</c><w>s</w><c>.</c></original>
-    <corrected><w>s.s.</w></corrected>
-      <errors>
-        <error xtype="extra-space" idx="3-1" eid="0" />
-        <error xtype="extra-space" idx="3-1" eid="0" />
-      </errors>
-  </revision>
+  <w>s.s.</w>
   <w>matvöru</w>
   <w>og</w>
   <w>bifreiðum</w>
@@ -337,14 +330,7 @@
   <w>innfluttum</w>
   <w>vörum</w>
   <c>,</c>
-  <revision id="5">
-    <original><w>s</w><c>.</c><w>s</w><c>.</c></original>
-    <corrected><w>s.s.</w></corrected>
-      <errors>
-        <error xtype="extra-space" idx="5-1" eid="0" />
-        <error xtype="extra-space" idx="5-1" eid="0" />
-      </errors>
-  </revision>
+  <w>s.s.</w>
   <w>matvöru</w>
   <w>og</w>
   <w>bifreiðum</w>
@@ -384,7 +370,13 @@
   <w>þessum</w>
   <w>liðum</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="5">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>í</w>
   <w>Hagsjánni</w>

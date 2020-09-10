@@ -117,7 +117,13 @@
   <w>þegar</w>
   <w>pera</w>
   <w>sprakk</w>
-  <w>i</w>
+  <revision id="4">
+    <original><w>i</w></original>
+    <corrected><w>í</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <w>gróðurhúsalampa</w>
   <c>.</c>
 </s>

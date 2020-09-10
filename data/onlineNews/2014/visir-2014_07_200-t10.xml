@@ -88,7 +88,13 @@
   <w>ná</w>
   <w>árangri</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="0">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Böðvar</w>
   <w>Guðjónsson</w>
@@ -176,7 +182,13 @@
   <w>við</w>
   <w>stöndum</w>
   <c>.</c>
-  <c>"</c>
+  <revision id="2b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="7">
   <w>KR-ingar</w>
@@ -368,7 +380,13 @@
   <w>alvöru</w>
   <w>KR-ingum</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="4b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Böðvar</w>
   <c>.</c>

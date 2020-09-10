@@ -63,8 +63,13 @@
   <w>ein</w>
   <w>af</w>
   <w>mínum</w>
-  <w>uppáhalds</w>
-  <w>brautum</w>
+  <revision id="0">
+    <original><w>uppáhalds</w><w>brautum</w></original>
+    <corrected><w>uppáhaldsbrautum</w></corrected>
+      <errors>
+        <error xtype="compound-split" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>ég</w>
   <w>elska</w>
@@ -273,8 +278,8 @@
   <w>sjá</w>
   <w>nýju</w>
   <w>þjónustumannvirkin</w>
-  <c>&quot;</c>
   <c>,</c>
+  <c>“</c>
   <w>sagði</w>
   <w>Barrichello</w>
   <c>.</c>
@@ -336,7 +341,7 @@
   <w>bæta</w>
   <w>bílinn</w>
   <c>.</c>
-  <c>&quot;</c>
+  <c>“</c>
 </s>
 <s n="14">
   <w>Pastor</w>
@@ -435,8 +440,8 @@
   </revision>
   <w>þar</w>
   <w>2007</w>
-  <c>&quot;</c>
   <c>,</c>
+  <c>“</c>
   <w>sagði</w>
   <w>Maldonado</w>
   <c>.</c>
@@ -461,8 +466,13 @@
   <c>.</c>
 </s>
 <s n="19">
-  <w>Uppáhalds</w>
-  <w>beygjan</w>
+  <revision id="9b">
+    <original><w>Uppáhalds</w><w>beygjan</w></original>
+    <corrected><w>Uppáhaldsbeygjan</w></corrected>
+      <errors>
+        <error xtype="compound-split" eid="0" />
+      </errors>
+  </revision>
   <w>mín</w>
   <w>er</w>
   <w>Becketts</w>

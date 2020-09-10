@@ -7,7 +7,8 @@
     <original><w>Hætturstigi</w></original>
     <corrected><w>Hættustigi</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="extra-letter" idx="1-1" eid="0" />
+        <error xtype="nonword" idx="1-1" eid="0" />
       </errors>
   </revision>
   <w>hefur</w>
@@ -21,7 +22,8 @@
     <original><w>Múlahvísl</w></original>
     <corrected><w>Múlakvísl</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="letter-rep" idx="2-1" eid="0" />
+        <error xtype="nonword" idx="2-1" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -54,7 +56,8 @@
     <original><w>Múlahvísl</w></original>
     <corrected><w>Múlakvísl</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="letter-rep" idx="3-1" eid="0" />
+        <error xtype="nonword" idx="3-1" eid="0" />
       </errors>
   </revision>
   <w>er</w>
@@ -69,7 +72,7 @@
     <original></original>
     <corrected><c>,</c></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="missing-comma" eid="0" />
       </errors>
   </revision>
   <w>byggð</w>
@@ -138,13 +141,20 @@
   <w>fúl</w>
   <w>egg</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="4b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <revision id="5">
     <original><w>ennfremur</w></original>
     <corrected><w>enn</w><w>fremur</w><w>í</w><w>tilkynningunni</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="merged-words" idx="5-1" eid="0" />
+        <error xtype="missing-words" idx="5-2" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -167,7 +177,13 @@
   <w>af</w>
   <w>því</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="5b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="8">
   <w>Hvað</w>
@@ -229,13 +245,7 @@
   <w>að</w>
   <w>efla</w>
   <w>viðbúnað</w>
-  <revision id="6">
-    <original><w>neyðar-og</w><w>öryggisþjónustunnar</w></original>
-    <corrected><w>neyðar- og öryggisþjónustunnar</w></corrected>
-      <errors>
-        <error xtype="xxx" eid="0" />
-      </errors>
-  </revision>
+  <w>neyðar- og öryggisþjónustunnar</w>
   <w>á</w>
   <w>viðkomandi</w>
   <w>svæði</w>
@@ -303,7 +313,7 @@
     <original><w>menn</w></original>
     <corrected><w>fólk</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="gendered" eid="0" />
       </errors>
   </revision>
   <w>hafa</w>
@@ -335,7 +345,7 @@
     <original><w>menn</w></original>
     <corrected><w>fólk</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="gendered" idx="8-1" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -344,7 +354,7 @@
     <original><w>staddir</w></original>
     <corrected><w>statt</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="dep" depId="8-1" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -368,7 +378,7 @@
     <original><w>manna</w></original>
     <corrected><w>fólks</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="gendered" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -378,13 +388,7 @@
   <w>er</w>
   <w>ógnað</w>
   <w>af</w>
-  <revision id="11">
-    <original><w>náttúru-eða</w><w>mannavöldum</w></original>
-    <corrected><w>náttúru- eða mannavöldum</w></corrected>
-      <errors>
-        <error xtype="xxx" eid="0" />
-      </errors>
-  </revision>
+  <w>náttúru- eða mannavöldum</w>
   <w>þó</w>
   <w>ekki</w>
   <w>svo</w>

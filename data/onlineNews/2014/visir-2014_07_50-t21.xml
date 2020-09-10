@@ -18,7 +18,7 @@
   <w>kvöld</w>
   <c>,</c>
   <w>53</w>
-
+  <c>-</c>
   <w>84</w>
   <c>.</c>
 </s>
@@ -53,7 +53,7 @@
   <w>leiddu</w>
   <w>stelpurnar</w>
   <w>8</w>
-
+  <c>-</c>
   <w>3</w>
   <c>.</c>
 </s>
@@ -125,7 +125,7 @@
   <w>leiddi</w>
   <w>Ísland</w>
   <w>16</w>
-
+  <c>-</c>
   <w>12</w>
   <c>.</c>
 </s>
@@ -185,7 +185,7 @@
   <w>mínútna</w>
   <w>leik</w>
   <w>25</w>
-
+  <c>-</c>
   <w>26</w>
   <c>,</c>
   <w>en</w>
@@ -209,7 +209,7 @@
       </errors>
   </revision>
   <w>28</w>
-
+  <c>-</c>
   <w>26</w>
   <c>,</c>
   <w>Íslandi</w>
@@ -288,11 +288,11 @@
   <w>stöðunni</w>
   <w>úr</w>
   <w>33</w>
-
+  <c>-</c>
   <w>28</w>
   <w>í</w>
   <w>33</w>
-
+  <c>-</c>
   <w>40</w>
   <w>sér</w>
   <w>í</w>
@@ -398,7 +398,7 @@
   <w>lokaleikhlutann</w>
   <c>,</c>
   <w>40</w>
-
+  <c>-</c>
   <w>56</w>
   <c>.</c>
 </s>
@@ -677,7 +677,13 @@
   <w>varnarleikinn</w>
   <w>þeirra</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="20b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Ívar</w>
   <w>Ásgrímsson</w>
@@ -809,7 +815,13 @@
   <w>frí</w>
   <w>skot</w>
   <c>.</c>
-  <c>"</c>
+  <revision id="20c">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="33">
   <w>Hjá</w>
@@ -884,7 +896,13 @@
   <w>og</w>
   <w>sóknarleikur</w>
   <c>.</c>
-  <c>"</c>
+  <revision id="20d">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="37">
   <c>„</c>
@@ -1049,7 +1067,13 @@
   <w>undan</w>
   <w>okkur</w>
   <c>.</c>
-  <c>"</c>
+  <revision id="26b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="43">
   <c>„</c>
@@ -1066,7 +1090,13 @@
   <w>í</w>
   <w>lagi</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="26c">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Ívar</w>
   <w>Ásgrímsson</w>
@@ -1127,7 +1157,13 @@
   <w>í</w>
   <w>hálfleik</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="27b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Hrannar</w>
   <w>Hólm</w>
@@ -1204,7 +1240,13 @@
   <w>hjá</w>
   <w>okkur</w>
   <c>.</c>
-  <c>"</c>
+  <revision id="28b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="50">
   <w>Pressuvörn</w>
@@ -1265,7 +1307,13 @@
   <w>það</w>
   <w>tekst</w>
   <c>.</c>
-  <c>"</c>
+  <revision id="29b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="52">
   <c>„</c>
@@ -1326,7 +1374,13 @@
   <w>í</w>
   <w>því</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="29c">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sem</w>
   <w>býst</w>
   <w>við</w>
@@ -1390,7 +1444,13 @@
   <w>á</w>
   <w>morgun</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="20d">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Hrannar</w>
   <w>í</w>
@@ -1400,23 +1460,23 @@
 <s n="58">
   <w>Ísland-Danmörk</w>
   <w>53</w>
-
+  <c>-</c>
   <w>84</w>
   <c>(</c>
   <w>16</w>
-
+  <c>-</c>
   <w>12</w>
   <c>,</c>
   <w>12</w>
-
+  <c>-</c>
   <w>14</w>
   <c>,</c>
   <w>12</w>
-
+  <c>-</c>
   <w>30</w>
   <c>,</c>
   <w>13</w>
-
+  <c>-</c>
   <w>28</w>
   <c>)</c>
   <w>Ísland</w>
@@ -1558,7 +1618,7 @@
   <w>lokið</w>
   <c>|</c>
   <w>53</w>
-
+  <c>-</c>
   <w>87</w>
   <c>:</c>
   <w>Afar</w>
@@ -1587,7 +1647,7 @@
   <w>mín</w>
   <c>|</c>
   <w>50</w>
-
+  <c>-</c>
   <w>77</w>
   <c>:</c>
   <w>Danirnir</w>
@@ -1627,7 +1687,7 @@
   <w>mín</w>
   <c>|</c>
   <w>47</w>
-
+  <c>-</c>
   <w>68</w>
   <c>:</c>
   <w>María</w>
@@ -1687,7 +1747,7 @@
   <w>mín</w>
   <c>|</c>
   <w>44</w>
-
+  <c>-</c>
   <w>61</w>
   <c>:</c>
   <w>Sautján</w>
@@ -1744,7 +1804,7 @@
   <w>lokið</w>
   <c>|</c>
   <w>40</w>
-
+  <c>-</c>
   <w>56</w>
   <c>:</c>
   <w>Hrikalega</w>
@@ -1810,7 +1870,7 @@
   <w>mín</w>
   <c>|</c>
   <w>38</w>
-
+  <c>-</c>
   <w>52</w>
   <c>:</c>
   <w>Allt</w>
@@ -1890,7 +1950,7 @@
   <w>mín</w>
   <c>|</c>
   <w>35</w>
-
+  <c>-</c>
   <w>42</w>
   <c>:</c>
   <w>Sjö</w>
@@ -1931,7 +1991,7 @@
   <w>mín</w>
   <c>|</c>
   <w>33</w>
-
+  <c>-</c>
   <w>36</w>
   <c>:</c>
   <w>Gestirnir</w>
@@ -1988,7 +2048,7 @@
   <w>mín</w>
   <c>|</c>
   <w>30</w>
-
+  <c>-</c>
   <w>26</w>
   <c>:</c>
   <w>Síðari</w>
@@ -2081,7 +2141,7 @@
   <w>Hálfleikur</w>
   <c>|</c>
   <w>28</w>
-
+  <c>-</c>
   <w>26</w>
   <c>:</c>
   <w>Íslenska</w>
@@ -2125,11 +2185,11 @@
   <w>stöðunni</w>
   <w>úr</w>
   <w>25</w>
-
+  <c>-</c>
   <w>26</w>
   <w>í</w>
   <w>28</w>
-
+  <c>-</c>
   <w>26</w>
   <w>og</w>
   <w>þannig</w>
@@ -2143,7 +2203,7 @@
   <w>mín</w>
   <c>|</c>
   <w>24</w>
-
+  <c>-</c>
   <w>21</w>
   <c>:</c>
   <w>E.</w>
@@ -2183,7 +2243,7 @@
   <w>mín</w>
   <c>|</c>
   <w>22</w>
-
+  <c>-</c>
   <w>14</w>
   <c>:</c>
   <w>Frábærlega</w>
@@ -2230,7 +2290,7 @@
   <w>mín</w>
   <c>|</c>
   <w>18</w>
-
+  <c>-</c>
   <w>12</w>
   <c>:</c>
   <w>Bæði</w>
@@ -2272,7 +2332,7 @@
   <w>lokið</w>
   <c>|</c>
   <w>16</w>
-
+  <c>-</c>
   <w>12</w>
   <c>:</c>
   <w>Fínasti</w>
@@ -2328,7 +2388,7 @@
   <w>mín</w>
   <c>|</c>
   <w>13</w>
-
+  <c>-</c>
   <w>17</w>
   <c>:</c>
   <w>Helena</w>
@@ -2369,7 +2429,7 @@
   <w>mín</w>
   <c>|</c>
   <w>10</w>
-
+  <c>-</c>
   <w>7</w>
   <c>:</c>
   <w>Íslenska</w>
@@ -2414,7 +2474,7 @@
   <w>mín</w>
   <c>|</c>
   <w>7</w>
-
+  <c>-</c>
   <w>3</w>
   <c>:</c>
   <w>Danska</w>
@@ -2478,7 +2538,7 @@
   <w>mín</w>
   <c>|</c>
   <w>5</w>
-
+  <c>-</c>
   <w>2</w>
   <c>:</c>
   <w>Bryndís</w>
@@ -2514,7 +2574,7 @@
   <w>mín</w>
   <c>|</c>
   <w>0</w>
-
+  <c>-</c>
   <w>0</w>
   <c>:</c>
   <w>Leikurinn</w>
@@ -2779,7 +2839,7 @@
   <w>Austurríki</w>
   <w>dagana</w>
   <w>14.</w>
-
+  <c>-</c>
   <w>19. júlí</w>
   <c>.</c>
 </s>

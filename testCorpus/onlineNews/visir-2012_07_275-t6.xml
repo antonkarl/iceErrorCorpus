@@ -311,7 +311,13 @@
       </errors>
   </revision>
   <w>á</w>
-  <w>einhverskonar</w>
+  <revision id="9">
+    <original><w>einhverskonar</w></original>
+    <corrected><w>einhvers</w><w>konar</w></corrected>
+      <errors>
+        <error xtype="split-word" eid="0" />
+      </errors>
+  </revision>
   <w>grind</w>
   <w>til</w>
   <w>þess</w>

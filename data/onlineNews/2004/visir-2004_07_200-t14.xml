@@ -71,10 +71,22 @@
   <w>Dómararnir</w>
   <w>sögðust</w>
   <w>vilja</w>
-  <c>"</c>
+  <revision id="1b">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>kasta</w>
   <w>bjarghring</w>
-  <c>"</c>
+  <revision id="1c">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>til</w>
   <w>hans</w>
   <w>með</w>
@@ -162,9 +174,15 @@
   <w>á</w>
   <w>landi</w>
   <c>.</c>
-  <c>"</c>
 </s>
 <s n="7">
+  <revision id="1d">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Þetta</w>
   <w>er</w>
   <w>stór</w>
@@ -180,7 +198,13 @@
   <w>þó</w>
   <w>engar</w>
   <w>tölur</w>
-  <c>"</c>
+  <revision id="1e">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Berglind</w>
   <c>.</c>
@@ -220,9 +244,15 @@
   <w>fari</w>
   <w>fram</w>
   <c>.</c>
-  <c>"</c>
 </s>
 <s n="10">
+  <revision id="1f">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Það</w>
   <w>eru</w>
   <w>margir</w>
@@ -240,7 +270,13 @@
   <w>verði</w>
   <w>skoðað</w>
   <c>.</c>
-  <c>"</c>
+  <revision id="1g">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 </p></body></text>
 </TEI>

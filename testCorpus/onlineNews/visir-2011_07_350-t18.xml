@@ -53,7 +53,13 @@
   <w>sem</w>
   <w>voru</w>
   <w>grundvöllur</w>
-  <w>gæsluvarðhaldsúrskurðs</w>
+  <revision id="0">
+    <original><w>gæsluvarðhaldsúrskurðs</w></original>
+    <corrected><w>gæsluvarðhaldsúrskurðar</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
   <w>héraðsdóms</w>
   <c>.</c>
 </s>

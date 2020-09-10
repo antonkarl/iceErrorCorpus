@@ -362,7 +362,13 @@
   <w>þegar</w>
   <w>ekið</w>
   <w>er</w>
-  <w>framhjá</w>
+  <revision id="2b">
+    <original><w>framhjá</w></original>
+    <corrected><w>fram</w><w>hjá</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>gangandi</w>
   <w>eða</w>
   <w>hjólandi</w>
@@ -396,7 +402,13 @@
   <w>fullu</w>
   <w>gildi</w>
   <c>:</c>
-  <c>,,</c>
+  <revision id="2c">
+    <original><c>,,</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Gott</w>
   <w>er</w>
   <w>heilum</w>
@@ -405,7 +417,13 @@
   <w>að</w>
   <w>aka</w>
   <c>.</c>
-  <c>"</c>
+  <revision id="2d">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="18">
   <w>Höfundur</w>

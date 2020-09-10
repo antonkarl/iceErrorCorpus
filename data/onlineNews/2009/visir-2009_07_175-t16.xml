@@ -16,7 +16,7 @@
   <w>FH</w>
   <w>eftir</w>
   <w>0</w>
-
+  <c>-</c>
   <w>4</w>
   <w>tapið</w>
   <w>gegn</w>
@@ -89,7 +89,13 @@
   <w>spila</w>
   <w>Evrópuleik</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="0">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Davíð</w>
   <w>Þór</w>
@@ -231,7 +237,13 @@
   <w>að</w>
   <w>vera</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="3b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Davíð</w>
   <w>Þór</w>

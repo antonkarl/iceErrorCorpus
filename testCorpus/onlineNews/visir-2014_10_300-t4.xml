@@ -248,7 +248,13 @@
   <w>formaður</w>
   <w>Sambands</w>
   <w>ungra</w>
-  <w>sjálfstæðismanna</w>
+  <revision id="7b">
+    <original><w>sjálfstæðismanna</w></original>
+    <corrected><w>Sjálfstæðismanna</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
   <c>,</c>
   <w>segir</w>
   <w>að</w>

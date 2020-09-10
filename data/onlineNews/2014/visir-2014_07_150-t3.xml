@@ -50,7 +50,13 @@
   <w>á</w>
   <w>Griffli</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="0">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>skrifar</w>
   <w>Ólafur</w>
   <w>Þórisson</w>
@@ -174,7 +180,13 @@
   <w>þessari</w>
   <w>ösku</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="6b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>bætir</w>
   <w>hann</w>
   <w>við</w>

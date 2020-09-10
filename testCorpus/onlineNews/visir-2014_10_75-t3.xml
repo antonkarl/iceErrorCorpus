@@ -240,7 +240,13 @@
   <w>fimm</w>
   <w>leikjum</w>
   <w>vegna</w>
-  <w>umræddar</w>
+  <revision id="10b">
+    <original><w>umræddar</w></original>
+    <corrected><w>umræddrar</w></corrected>
+      <errors>
+        <error xtype="adjective-inflection" eid="0"/>
+      </errors>
+  </revision>
   <w>tognunar</w>
   <w>í</w>
   <w>læri</w>

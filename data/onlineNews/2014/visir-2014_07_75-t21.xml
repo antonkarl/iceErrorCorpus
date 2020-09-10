@@ -85,7 +85,13 @@
   <w>algjört</w>
   <w>óhapp</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="1b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Oddur</w>
   <w>sem</w>
@@ -166,14 +172,26 @@
   <w>of</w>
   <w>mikið</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="1c">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>útskýrir</w>
   <w>Oddur</w>
   <w>og</w>
   <w>bætir</w>
   <w>við</w>
   <c>:</c>
-  <c>,,</c>
+  <revision id="1d">
+    <original><c>,,</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Mikilvægt</w>
   <w>er</w>
   <w>að</w>
@@ -188,7 +206,13 @@
   <w>leika</w>
   <w>sér</w>
   <c>.</c>
-  <c>"</c>
+  <revision id="1e">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="9">
   <w>Hvernig</w>
@@ -237,10 +261,22 @@
   <w>var</w>
   <w>saumað</w>
   <c>.</c>
-  <c>"</c>
+  <revision id="1f">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="13">
-  <c>,,</c>
+  <revision id="1h">
+    <original><c>,,</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Það</w>
   <w>var</w>
   <w>mjög</w>
@@ -269,7 +305,13 @@
   <w>bara</w>
   <w>svoleiðis</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="1h">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Oddur</w>
   <revision id="2">

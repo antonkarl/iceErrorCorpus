@@ -24,9 +24,15 @@
   <w>lítill</w>
   <w>strákur</w>
   <c>.</c>
-  <c>"</c>
 </s>
 <s n="2">
+  <revision id="0">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Ég</w>
   <w>gat</w>
   <w>hugsað</w>
@@ -123,7 +129,13 @@
   <w>að</w>
   <w>rætast</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="1b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>hann</w>
   <c>.</c>
@@ -151,9 +163,15 @@
   <w>æskulýðsstarf</w>
   <w>Reykjavíkur</w>
   <c>.</c>
-  <c>"</c>
 </s>
 <s n="6">
+  <revision id="1c">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Ég</w>
   <w>fór</w>
   <w>mikið</w>
@@ -242,6 +260,13 @@
   <w>þess</w>
   <w>verða</w>
   <c>.</c>
+  <revision id="1d">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="missing-quot" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="9">
   <w>Aðalstarf</w>
@@ -287,9 +312,15 @@
   <w>von</w>
   <w>á</w>
   <c>.</c>
-  <c>"</c>
 </s>
 <s n="11">
+  <revision id="1e">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Mér</w>
   <w>líkar</w>
   <w>starfið</w>
@@ -340,7 +371,13 @@
   <w>að</w>
   <w>ásatrúarsið</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="1f">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Hilmar</w>
   <w>Örn.</w>

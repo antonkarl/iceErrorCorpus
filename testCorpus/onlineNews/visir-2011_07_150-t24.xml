@@ -44,8 +44,13 @@
   <w>á</w>
   <w>Mercedes</w>
   <w>var</w>
-  <w>næst</w>
-  <w>fljótastur</w>
+  <revision id="1b">
+    <original><w>næst</w><w>fljótastur</w></original>
+    <corrected><w>næstfljótastur</w></corrected>
+      <errors>
+        <error xtype="split-word" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>Rubens</w>
   <w>Barrichello</w>

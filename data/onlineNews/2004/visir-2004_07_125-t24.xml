@@ -21,7 +21,13 @@
   <c>.</c>
 </s>
 <s n="2">
-  <c>"</c>
+  <revision id="1">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Þar</w>
   <w>er</w>
   <w>ég</w>
@@ -79,6 +85,13 @@
   <w>innan</w>
   <w>seilingar</w>
   <c>.</c>
+  <revision id="2">
+    <original></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="missing-quot" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="4">
   <w>Innblástur</w>
@@ -97,7 +110,13 @@
   <c>.</c>
 </s>
 <s n="5">
-  <c>"</c>
+  <revision id="3">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Á</w>
   <w>veggnum</w>
   <w>hangir</w>
@@ -167,7 +186,13 @@
   <w>á</w>
   <w>striga</w>
   <c>.</c>
-  <c>"</c>
+  <revision id="4">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="8">
   <w>Hljóðfærin</w>
@@ -179,7 +204,13 @@
   <c>.</c>
 </s>
 <s n="9">
-  <c>"</c>
+  <revision id="5">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Píanóið</w>
   <w>er</w>
   <w>gjöf</w>
@@ -220,7 +251,13 @@
   <w>verður</w>
   <w>til</w>
   <w>lag</w>
-  <c>"</c>
+  <revision id="6">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Kristbjörg</w>
   <w>Kari</w>

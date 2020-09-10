@@ -73,9 +73,21 @@
   <w>að</w>
   <w>skilyrðin</w>
   <w>yrðu</w>
-  <c>"</c>
+  <revision id="2b">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>hófleg</w>
-  <c>"</c>
+  <revision id="2c">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>en</w>
   <w>ekki</w>
   <w>hafi</w>
@@ -333,7 +345,13 @@
   <c>.</c>
 </s>
 <s n="12">
-  <c>"</c>
+  <revision id="6b">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Ég</w>
   <w>trúi</w>
   <w>ekki</w>
@@ -347,7 +365,13 @@
   <w>einn</w>
   <w>ganginn</w>
   <w>enn</w>
-  <c>"</c>
+  <revision id="6c">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Össur</w>
   <w>Skarphéðinsson</w>
@@ -357,7 +381,13 @@
   <c>.</c>
 </s>
 <s n="13">
-  <c>"</c>
+  <revision id="6d">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Ég</w>
   <w>hef</w>
   <w>enn</w>
@@ -409,7 +439,13 @@
   <w>bág</w>
   <w>við</w>
   <w>stjórnarskrána</w>
-  <c>"</c>
+  <revision id="6e">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Össur</w>
   <c>.</c>

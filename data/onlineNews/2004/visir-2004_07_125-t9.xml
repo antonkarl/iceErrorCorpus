@@ -277,7 +277,13 @@
   <w>að</w>
   <w>hverfamiðstöðvar</w>
   <w>veiti</w>
-  <c>"</c>
+  <revision id="2b">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>ráðgjöf</w>
   <w>sem</w>
   <revision id="3">
@@ -291,7 +297,13 @@
   <w>daglegu</w>
   <w>lífi</w>
   <c>.</c>
-  <c>"</c>
+   <revision id="3b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="15">
   <w>Ég</w>
@@ -391,12 +403,24 @@
   <w>óþægindi</w>
   <w>þess</w>
   <w>að</w>
-  <c>"</c>
+  <revision id="6b">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>rekast</w>
   <w>á</w>
   <w>milli</w>
   <w>staða</w>
-  <c>"</c>
+  <revision id="6c">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>eins</w>
   <w>og</w>
   <w>hann</w>
@@ -463,12 +487,24 @@
   <w>þurfti</w>
   <w>greinarhöfundur</w>
   <w>að</w>
-  <c>"</c>
+  <revision id="7b">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>rekast</w>
   <w>á</w>
   <w>milli</w>
   <w>landshluta</w>
-  <c>"</c>
+  <revision id="7c">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <revision id="8">
     <original><w>tannréttinga</w></original>
     <corrected><w>til</w><w>að</w><w>fara</w><w>í</w><w>tannréttingar</w></corrected>
@@ -644,9 +680,21 @@
   <w>þurfa</w>
   <w>ekki</w>
   <w>að</w>
-  <c>"</c>
+  <revision id="12b">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>rekast</w>
-  <c>"</c>
+  <revision id="12c">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>niður</w>
   <w>í</w>
   <w>bæ</w>

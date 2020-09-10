@@ -115,7 +115,13 @@
   <w>nokkru</w>
   <w>ráði</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="0">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Pétur</w>
   <w>Guðmundsson</w>

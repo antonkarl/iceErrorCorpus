@@ -36,9 +36,15 @@
   <w>séu</w>
   <w>litlar</w>
   <c>.</c>
-  <c>"</c>
 </s>
 <s n="2">
+  <revision id="1b">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Það</w>
   <w>eru</w>
   <w>kaflar</w>
@@ -125,7 +131,13 @@
   <w>gerum</w>
   <w>mistök</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="3b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Bjarni</w>
   <w>eftir</w>
@@ -135,9 +147,15 @@
   <w>í</w>
   <w>kvöld</w>
   <c>.</c>
-  <c>"</c>
 </s>
 <s n="5">
+  <revision id="3c">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Við</w>
   <w>erum</w>
   <w>í</w>
@@ -253,8 +271,13 @@
   <w>hérna</w>
   <w>heima</w>
   <c>.</c>
-  <c>"</c>
-  <c>"</c>
+  <revision id="7b">
+    <original><c>"</c><c>"</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="8">
   <w>Þeir</w>
@@ -345,8 +368,13 @@
   <w>í</w>
   <w>viðbót</w>
   <c>.</c>
-  <c>"</c>
-  <c>"</c>
+  <revision id="7c">
+    <original><c>"</c><c>"</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="12">
   <w>Mér</w>
@@ -436,7 +464,13 @@
   <w>hægt</w>
   <w>enn</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="1e">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Bjarni</w>
   <w>að</w>

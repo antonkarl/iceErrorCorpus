@@ -27,7 +27,7 @@
   <w>eftir</w>
   <w>öruggan</w>
   <w>5</w>
-
+  <c>-</c>
   <w>1</w>
   <w>sigur</w>
   <w>Vesturbæinga</w>
@@ -42,7 +42,13 @@
   <c>„</c>
   <w>Ég</w>
   <w>er</w>
-  <w>meiriháttar</w>
+  <revision id="2b">
+    <original><w>meiriháttar</w></original>
+    <corrected><w>meiri</w><w>háttar</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>ánægður</w>
   <w>með</w>
   <w>leikinn</w>
@@ -124,7 +130,7 @@
   <w>alvöru</w>
   <w>form</w>
   <c>,</c>
-  <c>&quot;</c>
+  <c>“</c>
   <w>sagði</w>
   <w>Guðjón</w>
   <w>sem</w>
@@ -247,7 +253,7 @@
   <w>gegn</w>
   <w>þeim</w>
   <c>,</c>
-  <c>&quot;</c>
+  <c>“</c>
   <w>sagði</w>
   <w>Guðjón</w>
   <revision id="5">

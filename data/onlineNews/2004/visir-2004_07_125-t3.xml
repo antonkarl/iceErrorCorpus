@@ -79,7 +79,13 @@
   <w>meðal</w>
   <w>annars</w>
   <c>:</c>
-  <c>"</c>
+  <revision id="2">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <c>[</c>
   <w>menn</w>
   <c>]</c>
@@ -102,19 +108,37 @@
   <w>drengilega</w>
   <w>manni</w>
   <c>...</c>
-  <c>"</c>
+  <revision id="3">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Það</w>
   <w>er</w>
   <w>Jakob</w>
   <w>F.</w>
   <w>Ásgeirsson</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="4">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>hinn</w>
   <w>orðprúði</w>
   <w>dálkahöfundur</w>
   <w>Viðskiptablaðsins</w>
-  <c>"</c>
+  <revision id="5">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>eins</w>
   <w>og</w>
   <w>Páll</w>
@@ -168,12 +192,24 @@
   <w>að</w>
   <w>þær</w>
   <w>séu</w>
-  <c>"</c>
+  <revision id="6">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>skrifaðar</w>
   <w>af</w>
   <w>einlægum</w>
   <w>aðdáanda</w>
-  <c>"</c>
+  <revision id="7">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>gjaldi</w>
   <w>þess</w>
@@ -303,12 +339,24 @@
   <w>til</w>
   <w>að</w>
   <w>ræða</w>
-  <c>"</c>
+  <revision id="8">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>alþjóðamál</w>
   <w>og</w>
   <w>samskipti</w>
   <w>landanna</w>
-  <c>"</c>
+  <revision id="9">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>að</w>
   <w>því</w>
   <w>er</w>

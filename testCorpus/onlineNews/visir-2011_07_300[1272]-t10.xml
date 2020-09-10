@@ -67,8 +67,14 @@
   <w>á</w>
   <w>næsta</w>
   <w>þingi</w>
-  <w>sameinuðu</w>
-  <w>þjóðana</w>
+  <revision id="0">
+    <original><w>sameinuðu</w><w>þjóðana</w></original>
+    <corrected><w>Sameinuðu</w><w>þjóðanna</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" idx="0-1" eid="0" />
+        <error xtype="n4nn" idx="0-2" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="5">

@@ -43,9 +43,15 @@
   <w>sig</w>
   <w>fram</w>
   <c>.</c>
-  <c>"</c>
 </s>
 <s n="2">
+  <revision id="1b">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Ég</w>
   <w>hef</w>
   <w>sótt</w>
@@ -115,7 +121,13 @@
   <w>ég</w>
   <w>verð</w>
   <w>kjörinn</w>
-  <c>"</c>
+  <revision id="2b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>sagði</w>
   <w>Jean</w>

@@ -17,9 +17,15 @@
   <w>árgerð</w>
   <w>1941</w>
   <c>.</c>
-  <c>"</c>
 </s>
 <s n="2">
+  <revision id="0">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Bíllinn</w>
   <w>var</w>
   <w>fluttur</w>
@@ -129,7 +135,13 @@
   <w>á</w>
   <w>Hvanneyri</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="2b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Guðmundur</w>
   <c>.</c>

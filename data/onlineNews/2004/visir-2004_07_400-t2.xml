@@ -3,14 +3,26 @@
 <teiHeader></teiHeader>
 <text><body><p n="1">
 <s n="1">
-  <c>"</c>
+  <revision id="0">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Þetta</w>
   <w>eru</w>
   <w>málverk</w>
   <w>af</w>
   <w>sex</w>
   <w>merkiskonum</w>
-  <c>"</c>
+  <revision id="0b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>myndlistarkonan</w>
   <w>Jóhanna</w>
@@ -30,7 +42,13 @@
   <c>.</c>
 </s>
 <s n="2">
-  <c>"</c>
+  <revision id="0c">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Konurnar</w>
   <w>sem</w>
   <w>ég</w>
@@ -82,7 +100,13 @@
         <error xtype="wording" eid="0" />
       </errors>
   </revision>
-  <c>"</c>
+  <revision id="1b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Konurnar</w>
   <w>hverfa</w>
   <w>einnig</w>
@@ -92,7 +116,13 @@
   <c>.</c>
 </s>
 <s n="4">
-  <c>"</c>
+  <revision id="1c">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Ég</w>
   <w>bætti</w>
   <w>efnum</w>
@@ -142,7 +172,13 @@
   <w>þessara</w>
   <w>kvenna</w>
   <c>.</c>
-  <c>"</c>
+  <revision id="1d">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="6">
   <w>Með</w>
@@ -166,7 +202,13 @@
   <c>.</c>
 </s>
 <s n="7">
-  <c>"</c>
+  <revision id="1e">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Það</w>
   <w>er</w>
   <w>mjög</w>
@@ -181,11 +223,23 @@
   <w>blása</w>
   <w>þeim</w>
   <w>burt</w>
-  <c>"</c>
+  <revision id="1f">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Jóhanna</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="1g">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <c>...</c>
   <w>og</w>
   <w>margar</w>
@@ -203,7 +257,13 @@
   <w>þær</w>
   <w>upp</w>
   <c>.</c>
-  <c>"</c>
+  <revision id="1h">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="8">
   <w>En</w>
@@ -228,7 +288,13 @@
   <c>.</c>
 </s>
 <s n="9">
-  <c>"</c>
+  <revision id="2b">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Þetta</w>
   <w>eru</w>
   <w>kjarnakonur</w>
@@ -253,7 +319,13 @@
   <w>á</w>
   <w>málverkunum</w>
   <c>.</c>
-  <c>"</c>
+  <revision id="2c">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 </p></body></text>
 </TEI>

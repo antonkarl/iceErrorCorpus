@@ -94,7 +94,13 @@
   <w>um</w>
   <w>málið</w>
   <w>er</w>
-  <w>a</w>
+  <revision id="3b">
+    <original><w>a</w></original>
+    <corrected><w>á</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <w>vef</w>
   <w>BBC</w>
   <c>.</c>

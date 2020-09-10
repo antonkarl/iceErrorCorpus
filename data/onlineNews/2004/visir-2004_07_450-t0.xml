@@ -27,10 +27,22 @@
   <w>í</w>
   <w>gær</w>
   <w>að</w>
-  <c>"</c>
+  <revision id="1b">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" idx="1b-1" eid="0" />
+      </errors>
+  </revision>
   <w>alger</w>
   <w>sátt</w>
-  <c>"</c>
+  <revision id="1c">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="dep" depId="1b-1" eid="0" />
+      </errors>
+  </revision>
   <w>sé</w>
   <w>um</w>
   <w>nýjustu</w>
@@ -51,7 +63,13 @@
   <w>segir</w>
   <w>hann</w>
   <c>:</c>
-  <c>"</c>
+  <revision id="1d">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Það</w>
   <w>tjáðu</w>
   <w>sig</w>
@@ -66,8 +84,22 @@
   <w>sáttir</w>
   <w>við</w>
   <w>niðurstöðuna</w>
-  <c>"</c>
+  <revision id="1e">
+    <original><c>"</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wrong-quots" idx="1e-1" eid="0" />
+        <error xtype="misplaced-quot" idx="1e-1" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
+  <revision id="1f">
+    <original></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="dep" depId="1e-1" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="3">
   <w>Um</w>
@@ -112,10 +144,22 @@
   <w>útgáfurnar</w>
   <w>hefur</w>
   <w>ríkt</w>
-  <c>"</c>
+  <revision id="2b">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>alger</w>
   <w>sátt</w>
-  <c>"</c>
+  <revision id="2c">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>í</w>
   <w>þingflokki</w>
   <revision id="3">
@@ -129,9 +173,21 @@
 </s>
 <s n="5">
   <w>Orðið</w>
-  <c>"</c>
+  <revision id="3b">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sátt</w>
-  <c>"</c>
+  <revision id="3c">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>er</w>
   <w>því</w>
   <w>farið</w>
@@ -332,9 +388,21 @@
   <w>að</w>
   <w>þetta</w>
   <w>væri</w>
-  <c>"</c>
+  <revision id="5b">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>fróðlegt</w>
-  <c>"</c>
+  <revision id="5c">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="15">

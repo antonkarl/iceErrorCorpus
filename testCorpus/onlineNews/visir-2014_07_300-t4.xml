@@ -162,7 +162,13 @@
   <w>sleppt</w>
   <w>aftur</w>
   <w>í</w>
-  <w>ánna</w>
+  <revision id="4b">
+    <original><w>ánna</w></original>
+    <corrected><w>ána</w></corrected>
+      <errors>
+        <error xtype="nn4n" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <revision id="5">
     <original></original>

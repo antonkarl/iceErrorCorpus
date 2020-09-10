@@ -92,7 +92,13 @@
   <w>og</w>
   <w>landsliðið</w>
   <c>:</c>
-  <c>"</c>
+  <revision id="4b">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Það</w>
   <w>er</w>
   <w>erfitt</w>
@@ -160,7 +166,13 @@
   <w>ekki</w>
   <w>haggað</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="6b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Baric</w>
   <w>sem</w>
@@ -214,7 +226,13 @@
   <w>á</w>
   <w>veginn</w>
   <c>:</c>
-  <c>"</c>
+  <revision id="7b">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Helst</w>
   <w>af</w>
   <w>öllu</w>
@@ -264,7 +282,13 @@
   <w>geta</w>
   <w>það</w>
   <c>.</c>
-  <c>"</c>
+  <revision id="7c">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="7">
   <w>Ekki</w>

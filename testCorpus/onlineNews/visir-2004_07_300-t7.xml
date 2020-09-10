@@ -92,8 +92,13 @@
   <w>náð</w>
   <w>saman</w>
   <w>um</w>
-  <w>lágmarks</w>
-  <w>þátttökuskilyrði</w>
+  <revision id="0">
+    <original><w>lágmarks</w><w>þátttökuskilyrði</w></original>
+    <corrected><w>lágmarksþátttökuskilyrði</w></corrected>
+      <errors>
+        <error xtype="compound-split" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="6">

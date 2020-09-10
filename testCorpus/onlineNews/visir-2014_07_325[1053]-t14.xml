@@ -27,7 +27,14 @@
   <w>Ingi</w>
   <w>Grettisson</w>
   <c>,</c>
-  <w>innivarðsstjóri</w>
+  <revision id="1">
+    <original><w>innivarðsstjóri</w></original>
+    <corrected><w>innivarðsstjóri</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="1-1" eid="0" />
+        <error xtype="compound-nonword" idx="1-1" eid="0" />
+      </errors>
+  </revision>
   <w>slökkviliðsins</w>
   <w>í</w>
   <w>Skógarhlíð</w>

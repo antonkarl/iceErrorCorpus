@@ -53,7 +53,13 @@
   <w>við</w>
   <w>starfinu</w>
   <c>:</c>
-  <c>"</c>
+  <revision id="0">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Það</w>
   <w>var</w>
   <w>síður</w>
@@ -108,7 +114,13 @@
   <w>í</w>
   <w>Þýskalandi</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="0b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Hitzfeld</w>
   <w>en</w>
@@ -178,9 +190,15 @@
   <w>í</w>
   <w>Þýskalandi</w>
   <c>.</c>
-  <c>"</c>
 </s>
 <s n="7">
+  <revision id="1b">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Hvað</w>
   <w>er</w>
   <w>það</w>
@@ -207,7 +225,13 @@
   <w>og</w>
   <w>vín</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="1c">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>söng</w>
   <w>Rúnni</w>
   <w>Júl</w>

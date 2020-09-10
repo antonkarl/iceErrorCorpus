@@ -113,7 +113,14 @@
   <w>ekki</w>
   <w>stunda</w>
   <w>kynlíf</w>
-  <w>inní</w>
+  <revision id="1b">
+    <original><w>inní</w></original>
+    <corrected><w>inni</w><w>í</w></corrected>
+      <errors>
+        <error xtype="merged-words" idx="1b-1" eid="0"/>
+        <error xtype="dir4loc" idx="1b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>kjötfrystiklefum</w>
   <w>í</w>
   <w>verslunum</w>

@@ -64,7 +64,14 @@
   <w>Sven-Göran</w>
   <w>Eriksson</w>
   <c>,</c>
-  <w>landsliðaþjálfari</w>
+  <revision id="1">
+    <original><w>landsliðaþjálfari</w></original>
+    <corrected><w>landsliðsþjálfari</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="3-1" eid="0" />
+        <error xtype="compound-nonword" idx="3-1" eid="0" />
+      </errors>
+  </revision>
   <w>Englendinga</w>
   <c>,</c>
   <w>tekjuhæstur</w>
@@ -97,7 +104,14 @@
   <w>sérstaklega</w>
   <w>þegar</w>
   <w>árangur</w>
-  <w>tækjulægsta</w>
+  <revision id="2">
+    <original><w>tækjulægsta</w></original>
+    <corrected><w>tekjulægsta</w></corrected>
+      <errors>
+        <error xtype="letter-rep" idx="2-1" eid="0" />
+        <error xtype="nonword" idx="2-1" eid="0" />
+      </errors>
+  </revision>
   <w>þjálfarans</w>
   <w>á</w>
   <w>EM</w>

@@ -37,7 +37,13 @@
   <w>í</w>
   <w>þennan</w>
   <w>klúbb</w>
-  <w>fá</w>
+  <revision id="0">
+    <original><w>fá</w></original>
+    <corrected><w>fái</w></corrected>
+      <errors>
+        <error xtype="ind4sub" eid="0" />
+      </errors>
+  </revision>
   <w>aðeins</w>
   <revision id="1">
     <original><w>inngöngu</w></original>
@@ -212,9 +218,15 @@
   <w>LS</w>
   <w>Retail</w>
   <c>.</c>
-  <c>“</c>
 </s>
 <s n="7">
+  <revision id="5">
+    <original><c>“</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>LS</w>
   <w>Retail</w>
   <w>hefur</w>

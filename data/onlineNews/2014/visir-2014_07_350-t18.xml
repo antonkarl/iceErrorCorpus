@@ -123,7 +123,13 @@
   <w>í</w>
   <w>dag</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="5b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Bjarni</w>
   <w>í</w>
@@ -152,7 +158,7 @@
   <w>Fram</w>
   <w>er</w>
   <w>1</w>
-
+  <c>-</c>
   <w>0</w>
   <w>undir</w>
   <w>í</w>
@@ -185,7 +191,13 @@
   <w>á</w>
   <w>fimmtudaginn</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="5c">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Bjarni</w>
   <c>.</c>

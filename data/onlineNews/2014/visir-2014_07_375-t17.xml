@@ -103,7 +103,13 @@
   <w>það</w>
   <w>rautt</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="3b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Magnús</w>
   <w>Már</w>

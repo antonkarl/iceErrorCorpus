@@ -77,7 +77,13 @@
   <w>einkavæddur</w>
   <w>á</w>
   <w>sínum</w>
-  <w>tími</w>
+  <revision id="2b">
+    <original><w>tími</w></original>
+    <corrected><w>tíma</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
   <w>hafi</w>
   <w>verið</w>
   <w>þeir</w>

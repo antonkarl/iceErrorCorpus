@@ -44,6 +44,13 @@
   <c>.</c>
 </s>
 <s n="3">
+  <revision id="0">
+    <original></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="missing-quots" idx="0-1" eid="0" />
+      </errors>
+  </revision>
   <w>Það</w>
   <w>verður</w>
   <w>í</w>
@@ -71,6 +78,13 @@
   <w>niðurstöðu</w>
   <w>dómstóla</w>
   <c>,</c>
+  <revision id="0b">
+    <original></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="dep" depId="0-1" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Iyad</w>
   <w>Allawi</w>
@@ -84,9 +98,15 @@
   <w>forsætisráðherra</w>
   <w>Íraks</w>
   <c>.</c>
-  <c>"</c>
 </s>
 <s n="5">
+  <revision id="1b">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Hvað</w>
   <w>aftöku</w>
   <w>varðar</w>
@@ -110,7 +130,13 @@
   <w>réttlátan</w>
   <w>hátt</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="1c">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Allawi</w>
   <c>.</c>

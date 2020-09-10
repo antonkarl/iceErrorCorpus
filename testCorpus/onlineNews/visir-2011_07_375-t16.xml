@@ -25,7 +25,13 @@
   <w>á</w>
   <w>falli</w>
   <w>krónunnar</w>
-  <c>&quot;</c>
+  <revision id="0">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="2">
@@ -257,11 +263,23 @@
   <w>keypt</w>
   <w>gjaldeyri</w>
   <w>á</w>
-  <w>fyrirfram</w>
+  <revision id="1b">
+    <original><w>fyrirfram</w></original>
+    <corrected><w>fyrir</w><w>fram</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>ákveðnum</w>
   <w>dagsetningum</w>
   <w>á</w>
-  <w>fyrirfram</w>
+  <revision id="1c">
+    <original><w>fyrirfram</w></original>
+    <corrected><w>fyrir</w><w>fram</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>ákveðnu</w>
   <w>gengi</w>
   <w>svo</w>
@@ -458,7 +476,7 @@
     <original><w>ennfremur</w></original>
     <corrected><w>enn</w><w>fremur</w></corrected>
       <errors>
-        <error xtype="merged-word" eid="0" />
+        <error xtype="merged-words" eid="0" />
       </errors>
   </revision>
   <w>fyrir</w>
@@ -589,7 +607,14 @@
   <w>Á</w>
   <w>mynd</w>
   <w>28</w>
-  <w>gefur</w>
+  <revision id="9b">
+  <original><w>gefur</w></original>
+    <corrected><w>getur</w></corrected>
+      <errors>
+        <error xtype="letter-rep" idx="9b-1" eid="0" />
+        <error xtype="collocation" idx="9b-1" eid="0" />
+      </errors>
+  </revision>
   <w>að</w>
   <w>líta</w>
   <w>yfirlit</w>

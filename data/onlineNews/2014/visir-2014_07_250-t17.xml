@@ -221,7 +221,7 @@
   <c>„</c>
   <w>Þegar</w>
   <w>A</w>
-
+  <c>-</c>
   <w>319</w>
   <w>kemur</w>
   <w>inn</w>
@@ -237,7 +237,13 @@
   <w>nota</w>
   <w>Keflavík</w>
   <c>.</c>
-  <c>"</c>
+  <revision id="1b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="11">
   <w>Spurður</w>
@@ -283,8 +289,22 @@
   <w>að</w>
   <w>nota</w>
   <w>Reykjavík</w>
-  <c>"</c>
+  <revision id="2b">
+    <original><c>"</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wrong-quots" idx="2b-1" eid="0" />
+        <error xtype="misplaced-quot" idx="2b-1" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
+  <revision id="2c">
+    <original></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="dep" depId="2b-1" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="12">
   <w>Forstjóri</w>

@@ -70,7 +70,13 @@
   <w>koma</w>
   <w>sér</w>
   <w>í</w>
-  <w>ýmis</w>
+  <revision id="1">
+    <original><w>ýmis</w></original>
+    <corrected><w>ýmiss</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
   <w>konar</w>
   <w>vandræði</w>
   <c>,</c>

@@ -211,7 +211,14 @@
   <w>Dos</w>
   <w>Santos</w>
   <c>,</c>
-  <w>Mexíkí</w>
+  <revision id="6">
+    <original><w>Mexíkí</w></original>
+    <corrected><w>Mexíkó</w></corrected>
+      <errors>
+        <error xtype="letter-rep" idx="6-1" eid="0" />
+        <error xtype="nonword" idx="6-1" eid="0" />
+      </errors>
+  </revision>
   <w>á</w>
   <w>móti</w>
   <w>Hollandi</w>

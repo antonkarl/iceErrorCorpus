@@ -94,7 +94,13 @@
   <w>upp</w>
   <w>hjá</w>
   <c>:</c>
-  <c>"</c>
+  <revision id="0">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Ég</w>
   <w>hef</w>
   <w>átt</w>
@@ -178,7 +184,13 @@
   <w>um</w>
   <w>vettvang</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="2">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Pique</w>
   <c>.</c>

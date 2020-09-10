@@ -16,7 +16,14 @@
   <w>spyrnu</w>
   <w>sína</w>
   <w>í</w>
-  <w>vítspyrnukeppninni</w>
+  <revision id="0">
+    <original><w>vítspyrnukeppninni</w></original>
+    <corrected><w>vítaspyrnukeppninni</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="0-1" eid="0" />
+        <error xtype="nonword" idx="0-1" eid="0" />
+      </errors>
+  </revision>
   <w>gegn</w>
   <w>Argentínu</w>
   <w>í</w>

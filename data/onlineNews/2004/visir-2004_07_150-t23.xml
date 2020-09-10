@@ -182,12 +182,24 @@
   <w>illa</w>
   <w>við</w>
   <c>(</c>
-  <c>"</c>
+  <revision id="0">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" idx="0-1" eid="0" />
+      </errors>
+  </revision>
   <w>markaðsráðandi</w>
   <w>fyrirtæki</w>
   <w>á</w>
   <w>matvörumarkaði</w>
-  <c>"</c>
+  <revision id="1b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="dep" depId="0-1" eid="0" />
+      </errors>
+  </revision>
   <w>eins</w>
   <w>og</w>
   <w>Halldór</w>
@@ -465,10 +477,22 @@
   <w>ákveða</w>
   <w>einir</w>
   <w>í</w>
-  <c>"</c>
+  <revision id="4b">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" idx="4b-1" eid="0" />
+      </errors>
+  </revision>
   <w>reykfylltum</w>
   <w>bakherbergum</w>
-  <c>"</c>
+  <revision id="4c">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="dep" depId="4b-1" eid="0" />
+      </errors>
+  </revision>
   <c>...</c>
   <w>eða</w>
   <w>við</w>

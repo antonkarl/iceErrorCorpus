@@ -126,9 +126,21 @@
   <w>sem</w>
   <w>voru</w>
   <w>minnst</w>
-  <c>"</c>
+  <revision id="1b">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" idx="1b-1" eid="0" />
+      </errors>
+  </revision>
   <w>fóbískir</w>
-  <c>"</c>
+  <revision id="1c">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="dep" depId="1b-1" eid="0" />
+      </errors>
+  </revision>
   <w>voru</w>
   <w>karlmenn</w>
   <w>um</w>

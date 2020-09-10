@@ -33,7 +33,13 @@
   <w>ráða</w>
   <w>nýjan</w>
   <w>landsliðsþjálfara</w>
-  <c>"</c>
+  <revision id="0">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Það</w>
   <w>yrði</w>
   <w>ekkert</w>
@@ -83,7 +89,14 @@
   <w>leysa</w>
   <w>okkar</w>
   <w>vandamál</w>
-  <c>"</c>
+  <revision id="1b">
+    <original><c>"</c></original>
+    <corrected><c>,</c><c>“</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Klinsmann</w>
   <w>sem</w>

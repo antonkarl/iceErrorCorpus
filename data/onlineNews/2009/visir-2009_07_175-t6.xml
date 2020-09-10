@@ -65,7 +65,13 @@
   <w>fallegar</w>
   <w>raddanir</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Jardine</w>
   <c>,</c>
@@ -120,7 +126,13 @@
       </errors>
   </revision>
   <c>.</c>
-  <c>"</c>
+  <revision id="2b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="7">
   <w>Á</w>

@@ -72,6 +72,13 @@
   <w>2013</w>
   <c>.</c>
 </s><s n="4">
+  <revision id="3b">
+    <original></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="missing-quot" eid="0"/>
+      </errors>
+  </revision>
   <w>Það</w>
   <w>eru</w>
   <w>tvö</w>
@@ -117,9 +124,21 @@
   <w>í</w>
   <w>þetta</w>
   <c>.</c>
-  <c>"</c>
+  <revision id="4">
+    <original><c>"</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-quot" eid="0"/>
+      </errors>
+  </revision>
 </s><s n="6">
-  <c>„</c>
+  <revision id="4">
+    <original><c>„</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-quot" eid="0"/>
+      </errors>
+  </revision>
   <w>Stór</w>
   <w>hluti</w>
   <w>af</w>

@@ -61,9 +61,15 @@
   <w>helgarblaði</w>
   <w>DV</w>
   <c>.</c>
-  <c>"</c>
 </s>
 <s n="5">
+  <revision id="1b">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Einu</w>
   <w>sinni</w>
   <w>datt</w>
@@ -79,7 +85,13 @@
   <w>HM</w>
   <w>2001</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="1c">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>félagi</w>
   <w>hans</w>

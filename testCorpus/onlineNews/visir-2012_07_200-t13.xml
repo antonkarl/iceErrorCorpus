@@ -73,11 +73,7 @@
   <w>sem</w>
   <w>birtist</w>
   <w>á</w>
-  <w>Fótbolta</w>
-  <c>.</c>
-</s>
-<s n="5">
-  <w>net</w>
+  <w>Fótbolta.net</w>
   <w>í</w>
   <w>dag</w>
   <w>kom</w>
@@ -86,8 +82,13 @@
   <w>að</w>
   <w>lána</w>
   <w>hann</w>
-  <w>annað</w>
-  <w>hvort</w>
+  <revision id="0">
+    <original><w>annað</w><w>hvort</w></original>
+    <corrected><w>annaðhvort</w></corrected>
+      <errors>
+        <error xtype="split-word" eid="0" />
+      </errors>
+  </revision>
   <w>til</w>
   <w>Englands</w>
   <w>eða</w>

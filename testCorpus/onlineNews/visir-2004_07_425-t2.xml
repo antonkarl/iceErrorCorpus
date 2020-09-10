@@ -22,7 +22,14 @@
   <w>Slysavarnafélagið</w>
   <w>Landsbjörg</w>
   <c>,</c>
-  <w>Umferðastofa</w>
+  <revision id="0">
+    <original><w>Umferðastofa</w></original>
+    <corrected><w>Umferðarstofa</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="0-1" eid="0" />
+        <error xtype="compound-nonword" idx="0-1" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>Umhverfisstofnun</w>
   <w>og</w>
@@ -167,7 +174,14 @@
 <s n="6">
   <w>Björgunarsveitir</w>
   <w>Slysavarnafélagsins</w>
-  <w>Landbjargar</w>
+  <revision id="4b">
+    <original><w>Landbjargar</w></original>
+    <corrected><w>Landsbjargar</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="4b-1" eid="0" />
+        <error xtype="compound-nonword" idx="4b-1" eid="0" />
+      </errors>
+  </revision>
   <w>fara</w>
   <w>í</w>
   <w>fjölmörg</w>

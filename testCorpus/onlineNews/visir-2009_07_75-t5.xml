@@ -33,12 +33,24 @@
   <w>fyrir</w>
   <w>að</w>
   <w>vera</w>
-  <w>lélegan</w>
-  <w>fyrirliða</w>
+  <revision id="0">
+    <original><w>lélegan</w><w>fyrirliða</w></original>
+    <corrected><w>lélegur</w><w>fyrirliði</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>að</w>
   <w>hann</w>
-  <w>leggði</w>
+  <revision id="0b">
+    <original><w>leggði</w></original>
+    <corrected><w>legði</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="0b-1" eid="0" />
+        <error xtype="nonword" idx="0b-1" eid="0" />
+      </errors>
+  </revision>
   <w>sig</w>
   <w>ekki</w>
   <w>nógu</w>
@@ -103,7 +115,7 @@
     <original><w>væri</w></original>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="sub4ind" eid="0" />
       </errors>
   </revision>
   <w>ósáttur</w>
@@ -113,7 +125,7 @@
     <original></original>
     <corrected><c>,</c></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="missing-comma" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -157,7 +169,8 @@
     <original><w>gangrýndur</w></original>
     <corrected><w>gagnrýndur</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="swapped-letters" idx="3-1" eid="0" />
+        <error xtype="nonword" idx="3-1" eid="0" />
       </errors>
   </revision>
   <w>fyrir</w>
@@ -174,7 +187,7 @@
     <original><w>vill</w></original>
     <corrected><w>vil</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="agreement-pred" eid="0" />
       </errors>
   </revision>
   <w>því</w>
@@ -187,12 +200,18 @@
   <w>að</w>
   <w>færa</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="4b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <revision id="5">
     <original><w>segir</w></original>
     <corrected><w>sagði</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="pres4past" eid="0" />
       </errors>
   </revision>
   <w>Beckham</w>

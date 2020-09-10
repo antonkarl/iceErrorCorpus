@@ -69,9 +69,15 @@
   <w>fyrir</w>
   <w>stjörnurnar</w>
   <c>.</c>
-  <c>"</c>
 </s>
 <s n="4">
+  <revision id="1b">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Hann</w>
   <w>valdi</w>
   <w>herbergi</w>
@@ -80,7 +86,13 @@
   <w>er</w>
   <w>hótelsvítan</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="1c">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Sólveig</w>
   <w>Hákonardóttir</w>
@@ -152,6 +164,13 @@
   <c>.</c>
 </s>
 <s n="8">
+  <revision id="3b">
+    <original></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="missing-quot" eid="0" />
+      </errors>
+  </revision>
   <w>Þeir</w>
   <w>sem</w>
   <w>voru</w>
@@ -162,7 +181,13 @@
   <w>bögga</w>
   <w>hann</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="3c">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>einn</w>
   <w>af</w>
@@ -176,9 +201,15 @@
   <w>til</w>
   <w>mikill</w>
   <c>.</c>
-  <c>"</c>
 </s>
 <s n="9">
+  <revision id="3d">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Ein</w>
   <w>stelpa</w>
   <w>gekk</w>
@@ -199,8 +230,22 @@
   <w>honum</w>
   <w>nóg</w>
   <w>komið</w>
-  <c>"</c>
+  <revision id="3e">
+    <original><c>"</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wrong-quots" idx="3e-1" eid="0" />
+        <error xtype="misplaced-quot" idx="3e-1" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
+  <revision id="3f">
+    <original></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="dep" depId="3e-1" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="11">
   <w>Ítarlega</w>

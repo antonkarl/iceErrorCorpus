@@ -3,7 +3,13 @@
 <teiHeader></teiHeader>
 <text><body><p n="1">
 <s n="1">
-  <c>"</c>
+  <revision id="0">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Það</w>
   <w>má</w>
   <w>segja</w>
@@ -50,7 +56,13 @@
   <w>franskar</w>
   <w>kartöflur</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="0b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Arndís</w>
   <w>Björg</w>
@@ -75,9 +87,15 @@
   <w>í</w>
   <w>gær</w>
   <c>.</c>
-  <c>"</c>
 </s>
 <s n="4">
+  <revision id="0c">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Ég</w>
   <w>var</w>
   <w>framkvæmdastjóri</w>
@@ -169,7 +187,13 @@
   <w>náð</w>
   <w>saman</w>
   <c>.</c>
-  <c>"</c>
+  <revision id="5b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="6">
   <w>Starfsemin</w>
@@ -178,9 +202,15 @@
   <w>verður</w>
   <w>margbreytileg</w>
   <c>.</c>
-  <c>"</c>
 </s>
 <s n="7">
+  <revision id="5c">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Þar</w>
   <w>verður</w>
   <revision id="6">
@@ -261,9 +291,15 @@
   <w>sögn</w>
   <w>Arndísar</w>
   <c>.</c>
-  <c>"</c>
 </s>
 <s n="11">
+  <revision id="8b">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Fólk</w>
   <w>getur</w>
   <w>setið</w>
@@ -306,7 +342,13 @@
   <w>og</w>
   <w>skemmtilegt</w>
   <c>.</c>
-  <c>"</c>
+  <revision id="9b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="13">
   <w>Arndís</w>
@@ -327,9 +369,15 @@
   <w>verið</w>
   <w>jákvæð</w>
   <c>.</c>
-  <c>"</c>
 </s>
 <s n="14">
+  <revision id="9c">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Miðbærinn</w>
   <w>er</w>
   <w>aftur</w>
@@ -386,7 +434,13 @@
   <w>í</w>
   <w>bæinn</w>
   <c>.</c>
-  <c>"</c>
+  <revision id="10b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 </p></body></text>
 </TEI>

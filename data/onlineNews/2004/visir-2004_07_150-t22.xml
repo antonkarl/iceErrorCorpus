@@ -293,9 +293,21 @@
   <w>geti</w>
   <w>gengið</w>
   <w>gegn</w>
-  <c>"</c>
+  <revision id="6b">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" idx="6b-1" eid="0" />
+      </errors>
+  </revision>
   <w>þingviljanum</w>
-  <c>"</c>
+  <revision id="6c">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="dep" depId="6b-1" eid="0" />
+      </errors>
+  </revision>
   <c>(</c>
   <w>sem</w>
   <w>allir</w>
@@ -392,7 +404,13 @@
   <w>í</w>
   <w>ræðu</w>
   <c>:</c>
-  <c>"</c>
+  <revision id="7b">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Mér</w>
   <w>kemur</w>
   <w>því</w>
@@ -516,7 +534,13 @@
   <w>en</w>
   <w>Alþingi</w>
   <c>.</c>
-  <c>"</c>
+  <revision id="10b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="18">
   <w>Aðrir</w>
@@ -593,7 +617,13 @@
   <c>,</c>
   <w>18. mars 1944</w>
   <c>:</c>
-  <c>"</c>
+  <revision id="10c">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Það</w>
   <w>vakti</w>
   <w>almennan</w>
@@ -626,7 +656,13 @@
   <w>ekki</w>
   <w>þingkjörinn</w>
   <c>.</c>
-  <c>"</c>
+  <revision id="10d">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="21">
   <w>Nú</w>
@@ -639,10 +675,22 @@
   <w>forsetinn</w>
   <w>verði</w>
   <w>bara</w>
-  <c>"</c>
+  <revision id="10e">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" idx="10e-1" eid="0" />
+      </errors>
+  </revision>
   <w>valdalaus</w>
   <w>toppfígúra</w>
-  <c>"</c>
+  <revision id="10f">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="dep" depId="10e-1" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="22">
@@ -730,11 +778,23 @@
   <w>að</w>
   <w>ákveða</w>
   <w>að</w>
-  <c>"</c>
+  <revision id="12b">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" idx="12b-1" eid="0" />
+      </errors>
+  </revision>
   <w>lög</w>
   <w>frá</w>
   <w>Alþingi</w>
-  <c>"</c>
+  <revision id="12c">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="dep" depId="12b-1" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>sem</w>
   <w>forseti</w>
@@ -750,21 +810,39 @@
   <w>að</w>
   <w>lögum</w>
   <c>.</c>
-  <c>"</c>
 </s>
 <s n="25">
+  <revision id="12d">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Þetta</w>
   <w>er</w>
   <w>óþolandi</w>
   <w>með</w>
   <w>öllu</w>
-  <c>"</c>
+  <revision id="12e">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>heldur</w>
   <w>Hannibal</w>
   <w>áfram</w>
   <c>:</c>
-  <c>"</c>
+  <revision id="12f">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Með</w>
   <w>þessu</w>
   <w>gerir</w>
@@ -785,7 +863,13 @@
   <w>þjóðarinnar</w>
   <w>sjálfrar</w>
   <c>.</c>
-  <c>"</c>
+  <revision id="12g">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="26">
   <w>Vitnað</w>
@@ -797,7 +881,13 @@
   <w>Þórðarsonar</w>
   <w>forsætisráðherra</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="12h">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>að</w>
   <w>með</w>
   <w>þessu</w>
@@ -822,7 +912,13 @@
   <w>afgreiðslustofnun</w>
   <w>þess</w>
   <c>.</c>
-  <c>"</c>
+  <revision id="12i">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="27">
   <w>Það</w>
@@ -836,11 +932,23 @@
   <w>stjórnarskrárinnar</w>
   <c>,</c>
   <w>að</w>
-  <c>"</c>
+  <revision id="12j">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" idx="12j-1" eid="0" />
+      </errors>
+  </revision>
   <w>lög</w>
   <w>frá</w>
   <w>Alþingi</w>
-  <c>"</c>
+  <revision id="12k">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="dep" depId="12j-1" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>sem</w>
   <w>forseti</w>

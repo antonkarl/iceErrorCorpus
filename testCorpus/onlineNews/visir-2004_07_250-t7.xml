@@ -12,6 +12,15 @@
   <w>sínu</w>
   <w>með</w>
   <w>boxum</w>
+  <revision id="0">
+    <original></original>
+    <corrected><c>.</c></corrected>
+      <errors>
+        <error xtype="missing-period" eid="0" />
+      </errors>
+  </revision>
+</s>
+<s n="1b">
   <w>Þegar</w>
   <w>ég</w>
   <w>var</w>
@@ -114,8 +123,7 @@
   <w>litlum</w>
   <w>sem</w>
   <w>stórum</w>
-
-
+  <c>-</c>
   <w>jafnvel</w>
   <w>bara</w>
   <w>úr</w>
@@ -251,8 +259,7 @@
   <w>á</w>
   <w>sínum</w>
   <w>stað</w>
-
-
+  <c>-</c>
   <w>allt</w>
   <w>frá</w>
   <w>eggjum</w>

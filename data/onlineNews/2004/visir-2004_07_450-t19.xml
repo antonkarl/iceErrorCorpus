@@ -145,9 +145,21 @@
   <w>neyðst</w>
   <w>til</w>
   <w>að</w>
-  <c>"</c>
+  <revision id="0">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>cancella</w>
-  <c>"</c>
+  <revision id="0b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>tónleikum</w>
   <c>.</c>
 </s>
@@ -227,14 +239,26 @@
   <w>í</w>
   <w>dag</w>
   <c>.</c>
-  <c>"</c>
 </s>
 <s n="12">
+  <revision id="1b">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Kemur</w>
   <w>til</w>
   <w>með</w>
   <w>að</w>
-  <c>"</c>
+  <revision id="1c">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>er</w>
   <w>mjög</w>
   <w>gott</w>
@@ -275,9 +299,15 @@
   <w>framvindu</w>
   <w>mála</w>
   <c>.</c>
-  <c>"</c>
 </s>
 <s n="15">
+  <revision id="1d">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Það</w>
   <w>eru</w>
   <w>blessuðu</w>
@@ -357,10 +387,13 @@
   <w>eða</w>
   <w>við</w>
   <c>?</c>
-  <c>"</c>
-</s>
-<s n="18">
-  <c>.</c>
+  <revision id="2b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="19">
   <w>Nokkuð</w>

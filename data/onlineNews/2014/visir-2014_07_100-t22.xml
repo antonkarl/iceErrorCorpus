@@ -187,7 +187,13 @@
   <w>tvö</w>
   <w>börn</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="3">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>í</w>
   <w>tilkynningunni</w>

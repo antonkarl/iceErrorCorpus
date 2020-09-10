@@ -120,9 +120,15 @@
   <w>síðustu</w>
   <w>árin</w>
   <c>.</c>
-  <c>"</c>
 </s>
 <s n="5">
+  <revision id="3">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Þetta</w>
   <w>átti</w>
   <w>alltaf</w>
@@ -130,7 +136,13 @@
   <w>vera</w>
   <w>toppmótið</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="4">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Örn</w>
   <w>meðal</w>

@@ -31,7 +31,13 @@
   <w>í</w>
   <w>hverju</w>
   <w>sem</w>
-  <w>viðkemur</w>
+  <revision id="0">
+    <original><w>viðkemur</w></original>
+    <corrected><w>við</w><w>kemur</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>líkamsrækt</w>
   <w>og</w>
   <w>heilsu</w>
@@ -184,7 +190,14 @@
   <w>fá</w>
   <w>þátttökurétt</w>
   <w>á</w>
-  <w>meistarmóti</w>
+  <revision id="5b">
+    <original><w>meistarmóti</w></original>
+    <corrected><w>meistaramóti</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="5b-1" eid="0" />
+        <error xtype="nonword" idx="5b-1" eid="0" />
+      </errors>
+  </revision>
   <w>sem</w>
   <w>haldið</w>
   <w>er</w>

@@ -61,9 +61,15 @@
   <w>mæta</w>
   <w>betur</w>
   <c>.</c>
-  <c>"</c>
 </s>
 <s n="2">
+  <revision id="1b">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Það</w>
   <w>er</w>
   <w>hægt</w>
@@ -139,7 +145,13 @@
   <w>reiðum</w>
   <w>höndum</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="1c">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Queiroz</w>
   <c>.</c>

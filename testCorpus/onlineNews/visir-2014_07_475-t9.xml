@@ -165,7 +165,13 @@
   <w>ná</w>
   <w>sér</w>
   <c>,</c>
-  <c>"</c>
+  <revision id="2b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Rodrigo</w>
   <w>Lasmar</w>

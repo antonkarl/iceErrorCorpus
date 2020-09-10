@@ -179,7 +179,14 @@
   <w>og</w>
   <w>erum</w>
   <w>mjög</w>
-  <w>ánæðir</w>
+  <revision id="2b">
+    <original><w>ánæðir</w></original>
+    <corrected><w>ánægðir</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="2b-1" eid="0" />
+        <error xtype="nonword" idx="2b-1" eid="0" />
+      </errors>
+  </revision>
   <w>með</w>
   <w>þessi</w>
   <w>faglegu</w>
