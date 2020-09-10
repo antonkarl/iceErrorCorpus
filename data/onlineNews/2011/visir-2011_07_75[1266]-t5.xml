@@ -12,7 +12,7 @@
     <original></original>
     <corrected><c>,</c></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="missing-commas" idx="1-1" eid="0" />
       </errors>
   </revision>
   <w>eða</w>
@@ -22,7 +22,7 @@
     <original></original>
     <corrected><c>,</c></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="dep" depId="1-1" eid="0" />
       </errors>
   </revision>
   <w>um</w>
@@ -36,7 +36,7 @@
     <original><w>og</w><w>verið</w></original>
     <corrected></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="extra-words" eid="0" />
       </errors>
   </revision>
   <w>með</w>
