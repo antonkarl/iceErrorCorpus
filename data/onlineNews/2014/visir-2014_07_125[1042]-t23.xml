@@ -37,7 +37,7 @@
     <original><w>sigrað</w></original>
     <corrected><w>sigraði</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="agreement-pred" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -110,7 +110,7 @@
     <original><w>en</w><w>hún</w></original>
     <corrected><c>.</c><w>Hún</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="conjunction4period" eid="0" />
       </errors>
   </revision>
   <w>fékk</w>
@@ -219,7 +219,7 @@
     <original></original>
     <corrected><w>nokkuð</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="wording" idx="3-1" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -227,7 +227,7 @@
     <original><w>neinu</w></original>
     <corrected></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="dep" depId="3-1" eid="0" />
       </errors>
   </revision>
   <w>líkingu</w>
@@ -286,7 +286,7 @@
     <original></original>
     <corrected><c>,</c></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="missing-comma" eid="0" />
       </errors>
   </revision>
   <w>eins</w>
@@ -317,7 +317,7 @@
     <original><w>getur</w></original>
     <corrected><w>finnur</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="wording" idx="6-1" eid="0" />
       </errors>
   </revision>
   <w>ekki</w>
@@ -325,7 +325,7 @@
     <original><w>hitt</w></original>
     <corrected></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="dep" depId="6-1" eid="0" />
       </errors>
   </revision>
   <w>neitt</w>
@@ -402,13 +402,7 @@
   <w>rétt</w>
   <w>verð</w>
   <c>,</c>
-  <revision id="8">
-    <original><w>t</w><c>.</c><w>d.</w></original>
-    <corrected><w>t.d.</w></corrected>
-      <errors>
-        <error xtype="xxx" eid="0" />
-      </errors>
-  </revision>
+  <w>t.d.</w>
   <w>fyrir</w>
   <w>100</w>
   <w>milljónir</w>

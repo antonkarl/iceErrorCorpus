@@ -12,7 +12,7 @@
     <original><w>Útihátíðarinnar</w></original>
     <corrected><w>útihátíðarinnar</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="upper4lower-proper" eid="0" />
       </errors>
   </revision>
   <w>séu</w>
@@ -61,7 +61,8 @@
     <original><c>,</c><w>sjáandi</w><c>,</c></original>
     <corrected></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="extra-commas" eid="0" />
+        <error xtype="extra-word" eid="0" />
       </errors>
   </revision>
   <w>var</w>
@@ -130,7 +131,7 @@
     <original><w>fer</w></original>
     <corrected><w>færi</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="ind4sub" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -160,7 +161,7 @@
     <original><w>Útihátíðinni</w></original>
     <corrected><w>útihátíðinni</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="upper4lower-proper" eid="0" />
       </errors>
   </revision>
   <w>fæðast</w>

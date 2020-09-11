@@ -97,7 +97,7 @@
     <original><w>En</w><w>fyrst</w></original>
     <corrected><w>Fyrst</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="extra-conjunction" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -117,7 +117,13 @@
   <w>sína</w>
   <w>uppi</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="1b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Wedberg</w>
   <w>á</w>
@@ -176,7 +182,13 @@
   <w>utan</w>
   <w>Svíþjóðar</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="1c">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>formaðurinn</w>
   <w>Lennart</w>
@@ -192,7 +204,7 @@
     <original><w>eitt</w><w>blóðfallið</w></original>
     <corrected><w>ein</w><w>blóðtakan</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="wording" eid="0" />
       </errors>
   </revision>
   <w>fyrir</w>

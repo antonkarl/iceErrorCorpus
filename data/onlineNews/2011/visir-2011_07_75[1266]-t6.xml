@@ -7,7 +7,7 @@
     <original><w>Búð</w></original>
     <corrected><w>Búið</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="missing-letter" eid="0" />
       </errors>
   </revision>
   <w>er</w>
@@ -17,7 +17,7 @@
     <original><w>í</w><w>Álftaveri</w></original>
     <corrected><w>Álftaver</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="wording" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -41,7 +41,7 @@
     <original><w>lögreglunnar</w></original>
     <corrected><w>Lögreglunnar</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="lower4upper-proper" eid="0" />
       </errors>
   </revision>
   <w>á</w>
@@ -92,7 +92,7 @@
     <original><w>lögreglunnar</w></original>
     <corrected><w>Lögreglunnar</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="lower4upper-proper" eid="0" />
       </errors>
   </revision>
   <w>á</w>
@@ -174,7 +174,7 @@
     <original><w>gert</w></original>
     <corrected><w>hafður</w><w>opinn</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="wording" idx="5-1" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -182,7 +182,7 @@
     <original><w>almannaástandi</w></original>
     <corrected><w>almannavarnaástandi</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="dep" depId="5-1" eid="0" />
       </errors>
   </revision>
   <c>.</c>

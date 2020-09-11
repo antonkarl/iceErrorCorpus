@@ -6,20 +6,20 @@
   <w>Fyrst</w>
   <w>var</w>
   <w>1</w>
-  
+  <c>-</c>
   <w>0</w>
   <c>,</c>
   <w>svo</w>
   <w>2</w>
-  
+  <c>-</c>
   <w>0</w>
   <c>,</c>
   <w>3</w>
-  
+  <c>-</c>
   <w>0</w>
   <c>,</c>
   <w>4</w>
-  
+  <c>-</c>
   <w>0</w>
   <w>og</w>
   <w>svo</w>
@@ -27,7 +27,7 @@
   <w>staðan</w>
   <w>orðin</w>
   <w>5</w>
-  
+  <c>-</c>
   <w>0</w>
   <c>.</c>
 </s>
@@ -465,7 +465,7 @@
   <w>á</w>
   <w>bilinu</w>
   <w>2200</w>
-  
+  <c>-</c>
   <w>6000</w>
   <c>.</c>
 </s>
@@ -607,7 +607,7 @@
   <w>vann</w>
   <w>leikinn</w>
   <w>2</w>
-  
+  <c>-</c>
   <w>0</w>
   <c>.</c>
 </s>
@@ -617,7 +617,7 @@
     <original></original>
     <corrected><w>spilar</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="missing-word" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -752,14 +752,14 @@
   <w>metin</w>
   <w>í</w>
   <w>2</w>
-  
+  <c>-</c>
   <w>2</w>
   <w>eftir</w>
   <w>að</w>
   <w>hafa</w>
   <w>lent</w>
   <w>2</w>
-  
+  <c>-</c>
   <w>0</w>
   <w>undir</w>
   <revision id="29">
@@ -1097,7 +1097,7 @@
   <w>slátruðu</w>
   <w>Englendingum</w>
   <w>6</w>
-  
+  <c>-</c>
   <w>3</w>
   <w>á</w>
   <w>Wembley</w>
@@ -1111,7 +1111,7 @@
   <w>þeir</w>
   <w>ensku</w>
   <w>7</w>
-  
+  <c>-</c>
   <w>1</w>
   <w>í</w>
   <w>Búdapest</w>
@@ -1188,7 +1188,7 @@
   <w>Suður-Kórea</w>
   <w>lá</w>
   <w>9</w>
-  
+  <c>-</c>
   <w>0</w>
   <w>gegn</w>
   <w>ungversku</w>
@@ -1206,7 +1206,7 @@
   <w>komust</w>
   <w>í</w>
   <w>8</w>
-  
+  <c>-</c>
   <w>1</w>
   <w>áður</w>
   <w>en</w>
@@ -1216,7 +1216,7 @@
   <w>muninn</w>
   <w>í</w>
   <w>8</w>
-  
+  <c>-</c>
   <w>3</w>
   <c>.</c>
 </s>
@@ -1272,7 +1272,7 @@
   <w>að</w>
   <w>gleyma</w>
   <w>8</w>
-  
+  <c>-</c>
   <w>3</w>
   <revision id="47">
     <original><w>flengingunni</w></original>
@@ -1316,7 +1316,7 @@
   <w>komust</w>
   <w>í</w>
   <w>2</w>
-  
+  <c>-</c>
   <w>0</w>
   <w>eftir</w>
   <w>átta</w>
@@ -1374,7 +1374,7 @@
   <w>var</w>
   <w>orðin</w>
   <w>2</w>
-  
+  <c>-</c>
   <w>2</w>
   <c>.</c>
 </s>
@@ -1680,7 +1680,7 @@
   <w>1966</w>
   <w>og</w>
   <w>2</w>
-  
+  <c>-</c>
   <w>1</w>
   <w>sigur</w>
   <w>Alsír</w>
@@ -2008,7 +2008,7 @@
 </s>
 <s n="87">
   <w>10</w>
-  
+  <c>-</c>
   <w>1</w>
   <revision id="64">
     <original><w>rassskelling</w></original>

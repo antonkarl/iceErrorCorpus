@@ -35,7 +35,7 @@
     <original><w>tilbaka</w></original>
     <corrected><w>til</w><w>baka</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="merged-words" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -84,7 +84,7 @@
     <original><w>sem</w></original>
     <corrected></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="extra-word" eid="0" />
       </errors>
   </revision>
   <w>hefur</w>
@@ -98,7 +98,7 @@
     <original><c>.</c><w>Liðið</w></original>
     <corrected><w>en</w><w>liðið</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="period4conjunction" eid="0" />
       </errors>
   </revision>
   <w>hefur</w>
@@ -122,7 +122,7 @@
     <original></original>
     <corrected><w>eins</w><w>og</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="missing-words" eid="0" />
       </errors>
   </revision>
   <w>í</w>

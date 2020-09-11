@@ -13,7 +13,8 @@
     <original><w>fjöldahjálpastöðina</w></original>
     <corrected><w>fjöldahjálparstöðina</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="compound-collocation" idx="1-1" eid="0" />
+        <error xtype="compound-nonword" idx="1-1" eid="0" />
       </errors>
   </revision>
   <w>á</w>
@@ -28,7 +29,7 @@
     <original><w>fulltrúa</w></original>
     <corrected><w>fulltrúi</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="nominal-inflection" eid="0" />
       </errors>
   </revision>
   <w>Rauða</w>
@@ -45,7 +46,7 @@
     <original><w>grunnskólanum</w></original>
     <corrected><w>Grunnskólanum</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="lower4upper-proper" eid="0" />
       </errors>
   </revision>
   <w>á</w>
@@ -154,7 +155,7 @@
     <original></original>
     <corrected><w>ferðamenn</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="wording" idx="4-1" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -163,7 +164,7 @@
     <original><w>ferðamenn</w></original>
     <corrected></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="dep" depId="4-1" eid="0" />
       </errors>
   </revision>
   <w>sem</w>

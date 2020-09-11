@@ -8,7 +8,7 @@
     <original><w>Madrid</w><w>goðsögnin</w></original>
     <corrected><w>Madrid-goðsögnin</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="missing-dash" eid="0" />
       </errors>
   </revision>
   <w>Alfredo</w>
@@ -37,7 +37,7 @@
     <original><w>inná</w></original>
     <corrected><w>inn</w><w>á</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="merged-words" eid="0" />
       </errors>
   </revision>
   <w>Gregorio</w>
@@ -81,7 +81,7 @@
     <original></original>
     <corrected><w>árin</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="missing-word" eid="0" />
       </errors>
   </revision>
   <w>1957</w>

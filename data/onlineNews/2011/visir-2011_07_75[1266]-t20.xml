@@ -15,7 +15,8 @@
     <original><w>bringustundi</w></original>
     <corrected><w>bringusundi</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="extra-letter" idx="1-1" eid="0" />
+        <error xtype="nonword" idx="1-1" eid="0" />
       </errors>
   </revision>
   <w>á</w>
@@ -38,7 +39,7 @@
     <original><c>,</c></original>
     <corrected></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="extra-comma" eid="0" />
       </errors>
   </revision>
   <w>þroskahamlaðra</w>
@@ -84,7 +85,7 @@
     <original><w>dugði</w></original>
     <corrected><w>tryggði</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="wording" idx="3-1" eid="0" />
       </errors>
   </revision>
   <w>honum</w>
@@ -92,7 +93,7 @@
     <original><w>í</w></original>
     <corrected></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="dep" depId="3-1" eid="0" />
       </errors>
   </revision>
   <w>fjórða</w>
@@ -107,7 +108,7 @@
     <original></original>
     <corrected><c>,</c></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="missing-commas" idx="5-1" eid="0" />
       </errors>
   </revision>
   <w>34,70</w>
@@ -116,7 +117,7 @@
     <original></original>
     <corrected><c>,</c></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="dep" depId="5-1" eid="0" />
       </errors>
   </revision>
   <w>dugði</w>
@@ -132,7 +133,8 @@
     <original><w>bringustundi</w></original>
     <corrected><w>bringusundi</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="extra-letter" idx="7-1" eid="0" />
+        <error xtype="nonword" idx="7-1" eid="0" />
       </errors>
   </revision>
   <w>en</w>

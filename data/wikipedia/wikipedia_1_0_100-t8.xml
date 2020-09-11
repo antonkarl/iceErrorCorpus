@@ -29,7 +29,7 @@
     <original><w>Lýbíu</w></original>
     <corrected><w>Líbíu</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="ý4í" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -64,7 +64,7 @@
     <original><w>Saharaeyðimörkinni</w></original>
     <corrected><w>Sahara-eyðimörkinni</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="missing-dash" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -76,7 +76,7 @@
     <original></original>
     <corrected><w>þess</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="missing-word" eid="0" />
       </errors>
   </revision>
   <w>eru</w>
@@ -203,7 +203,7 @@
     <original><w>1960</w></original>
     <corrected><w>árið 1960</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="missing-word" eid="0" />
       </errors>
   </revision>
   <w>var</w>
@@ -251,7 +251,7 @@
     <original><w>Lengst</w><w>af</w><w>síðan</w></original>
     <corrected><w>Síðan</w><w>þá</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="wording" idx="5-1" eid="0" />
       </errors>
   </revision>
   <w>var</w>
@@ -260,7 +260,7 @@
     <original></original>
     <corrected><w>lengst</w><w>af</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="dep" depId="5-1" eid="0" />
       </errors>
   </revision>
   <w>undir</w>

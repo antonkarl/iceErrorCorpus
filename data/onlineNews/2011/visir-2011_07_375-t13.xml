@@ -47,7 +47,7 @@
     <original><w>er</w></original>
     <corrected></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="extra-word" eid="0" />
       </errors>
   </revision>
   <w>talinn</w>
@@ -83,7 +83,7 @@
     <original><w>slysið-átta</w></original>
     <corrected><w>slysið</w><c>,</c><w>átta</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="dash4comma" eid="0" />
       </errors>
   </revision>
   <w>Ítalir</w>

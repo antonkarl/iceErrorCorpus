@@ -58,7 +58,7 @@
     <original><w>úr</w></original>
     <corrected><w>af</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="wrong-prep" eid="0" />
       </errors>
   </revision>
   <w>braut</w>
@@ -87,7 +87,7 @@
     <original><w>grasinu</w></original>
     <corrected><w>grasblettinum</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="wording" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
@@ -112,7 +112,7 @@
     <original><w>og</w></original>
     <corrected><w>svo</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="conjunction" eid="0" />
       </errors>
   </revision>
   <w>Raikkonen</w>
@@ -186,7 +186,7 @@
     <original><w>grasinu</w></original>
     <corrected><w>grasblettinum</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="wording" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -213,7 +213,7 @@
     <original><w>er</w></original>
     <corrected><w>var</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="pres4past" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -226,7 +226,7 @@
     <original><w>er</w></original>
     <corrected><w>hafi</w><w>verið</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="wording" eid="0" />
       </errors>
   </revision>
   <w>hola</w>
@@ -254,7 +254,7 @@
     <original><w>Epísk</w></original>
     <corrected><w>Það</w><w>var</w><w>epísk</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="missing-words" eid="0" />
       </errors>
   </revision>
   <w>barátta</w>
@@ -262,7 +262,7 @@
     <original></original>
     <corrected><w>á</w><w>milli</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="missing-words" eid="0" />
       </errors>
   </revision>
   <w>Vettel</w>
@@ -337,7 +337,7 @@
     <original><w>hefði</w></original>
     <corrected><w>hafi</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="past4pres" eid="0" />
       </errors>
   </revision>
   <w>farið</w>
@@ -425,7 +425,8 @@
     <original><w>Vette</w></original>
     <corrected><w>Vettel</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="missing-letter" idx="10-1" eid="0" />
+        <error xtype="nonword" idx="10-1" eid="0" />
       </errors>
   </revision>
   <w>hefði</w>
@@ -498,7 +499,8 @@
     <original></original>
     <corrected><w>heldur</w><w>áfram</w><c>.</c></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-period" eid="0" />
       </errors>
   </revision>
   <w>Eftir</w>
@@ -547,7 +549,7 @@
     <original><w>18</w></original>
     <corrected><w>átjándi</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="number4word" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -618,7 +620,8 @@
     <original></original>
     <corrected><w>voru</w><w>stór</w><c>.</c></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-period" eid="0" />
       </errors>
   </revision>
   <w>Hamilton</w>
@@ -771,7 +774,8 @@
     <original></original>
     <corrected><w>fjallar</w><w>um</w><w>kappaksturinn</w><c>.</c></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-period" eid="0" />
       </errors>
   </revision>
   <w>Kristján</w>
@@ -810,7 +814,7 @@
     <original><w>sterkir</w></original>
     <corrected><w>sterkur</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="agreement-pred" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -878,7 +882,8 @@
     <original><w>uppfærlur</w></original>
     <corrected><w>uppfærslur</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="missing-letter" idx="16-1" eid="0" />
+        <error xtype="nonword" idx="16-1" eid="0" />
       </errors>
   </revision>
   <w>eftir</w>

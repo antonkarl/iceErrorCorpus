@@ -7,7 +7,7 @@
     <original><w>Heimsmeistaramótið</w></original>
     <corrected><w>Heimsmeistaramót</w><w>kvenna</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="wording" idx="1-1" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -16,7 +16,7 @@
     <original><w>kvenna</w></original>
     <corrected></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="dep" depId="1-1" eid="0" />
       </errors>
   </revision>
   <w>stendur</w>
@@ -33,7 +33,7 @@
     <original><w>í</w></original>
     <corrected></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="extra-word" eid="0" />
       </errors>
   </revision>
   <w>með</w>

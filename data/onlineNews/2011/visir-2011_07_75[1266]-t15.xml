@@ -43,7 +43,7 @@
     <original><w>Útihátíðarinnar</w></original>
     <corrected><w>útihátíðarinnar</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="upper4lower-proper" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
@@ -101,7 +101,7 @@
     <original><w>fimm</w></original>
     <corrected><w>klukkan fimm</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="missing-word" eid="0" />
       </errors>
   </revision>
   <w>mínútur</w>
@@ -128,7 +128,7 @@
     <original><w>um</w></original>
     <corrected><w>í</w><w>kringum</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="wording" eid="0" />
       </errors>
   </revision>
   <w>hálf</w>
@@ -137,7 +137,7 @@
     <original><w>leytið</w></original>
     <corrected></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="extra-word" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -148,7 +148,7 @@
     <original><w>lögreglunnar</w></original>
     <corrected><w>Lögreglunnar</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="lower4upper-proper" eid="0" />
       </errors>
   </revision>
   <w>á</w>
@@ -198,7 +198,7 @@
     <original><w>bara</w></original>
     <corrected><w>aðeins</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="wording" eid="0" />
       </errors>
   </revision>
   <w>ein</w>

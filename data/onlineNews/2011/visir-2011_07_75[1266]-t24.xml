@@ -28,7 +28,7 @@
     <original><w>Útihátíðina</w></original>
     <corrected><w>útihátíðina</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="upper4lower-proper" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
@@ -40,7 +40,13 @@
   <w>í</w>
   <w>dag</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="1b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="2">
   <w>Það</w>
@@ -53,14 +59,20 @@
   <w>austur</w>
   <w>að</w>
   <w>Hellu</w>
-  <c>&quot;</c>
+  <revision id="1c">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>varðstjóri</w>
   <revision id="2">
     <original><w>lögreglunnar</w></original>
     <corrected><w>Lögreglunnar</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="lower4upper-proper" eid="0" />
       </errors>
   </revision>
   <w>á</w>
@@ -95,7 +107,7 @@
     <original><w>framhjá</w></original>
     <corrected><w>fram</w><w>hjá</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="merged-words" eid="0" />
       </errors>
   </revision>
   <w>bænum</w>
@@ -114,7 +126,7 @@
     <original><w>Útihátíðarinnar</w></original>
     <corrected><w>útihátíðarinnar</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="upper4lower-proper" eid="0" />
       </errors>
   </revision>
   <c>,</c>

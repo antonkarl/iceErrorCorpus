@@ -30,7 +30,7 @@
     <original></original>
     <corrected><c>,</c></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="missing-comma" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
@@ -74,7 +74,7 @@
     <original><w>bara</w></original>
     <corrected></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="extra-word" eid="0" />
       </errors>
   </revision>
   <w>verið</w>
@@ -128,7 +128,7 @@
     <original></original>
     <corrected><w>sjálfstraustið</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="wording" idx="3-1" eid="0" />
       </errors>
   </revision>
   <w>farið</w>
@@ -139,7 +139,7 @@
     <original><w>í</w><w>sjálfstrausti</w></original>
     <corrected></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="dep" depId="3-1" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -235,7 +235,7 @@
     <original><w>maður</w></original>
     <corrected><w>kona</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="wording" eid="0" />
       </errors>
   </revision>
   <w>leiksins</w>
@@ -292,7 +292,7 @@
     <original><w>sigur-hugarfar</w></original>
     <corrected><w>sigurhugarfar</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="extra-dash" eid="0" />
       </errors>
   </revision>
   <w>og</w>

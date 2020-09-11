@@ -11,7 +11,7 @@
     <original><w>vilja</w></original>
     <corrected><w>vill</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="agreement-pred" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -159,7 +159,7 @@
     <original><w>eða</w></original>
     <corrected></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="extra-conjunction" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
@@ -168,7 +168,7 @@
     <original></original>
     <corrected><w>til</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="missing-word" eid="0" />
       </errors>
   </revision>
   <w>tæpum</w>
@@ -178,7 +178,8 @@
     <original><w>milljónu</w></original>
     <corrected><w>milljónum</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="missing-letter" idx="4-1" eid="0" />
+        <error xtype="nonword" idx="4-1" eid="0" />
       </errors>
   </revision>
   <w>íslenskra</w>

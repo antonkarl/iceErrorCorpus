@@ -84,7 +84,7 @@
     <original><w>Miður</w></original>
     <corrected><w>Það</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="wording" idx="1-1" eid="0" />
       </errors>
   </revision>
   <w>þótti</w>
@@ -92,7 +92,7 @@
     <original></original>
     <corrected><w>miður</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="dep" depId="1-1" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -102,7 +102,7 @@
     <original><w>þurfti</w></original>
     <corrected><w>hafi</w><w>þurft</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="wording" eid="0" />
       </errors>
   </revision>
   <w>að</w>

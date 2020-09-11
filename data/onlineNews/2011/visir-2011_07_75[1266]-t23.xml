@@ -45,7 +45,7 @@
     <original><w>Bendir</w><w>það</w></original>
     <corrected><w>Það</w><w>bendir</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="wording" eid="0" />
       </errors>
   </revision>
   <w>til</w>
@@ -55,7 +55,9 @@
     <original><w>þónokkur</w><w>fórnalömb</w></original>
     <corrected><w>þó</w><w>nokkur</w><w>fórnarlömb</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="merged-words" idx="2-1" eid="0" />
+        <error xtype="compound-collocation" idx="2-2" eid="0" />
+        <error xtype="compound-nonword" idx="2-2" eid="0" />
       </errors>
   </revision>
   <w>hafi</w>

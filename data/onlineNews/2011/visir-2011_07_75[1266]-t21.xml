@@ -15,7 +15,7 @@
     <original><w>Adolf</w><w>Hitler</w></original>
     <corrected><w>Adolfs</w><w>Hitlers</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="nominal-inflection" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -46,7 +46,7 @@
     <original></original>
     <corrected><c>„</c></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="missing-quots" idx="2-1" eid="0" />
       </errors>
   </revision>
   <w>Persona</w>
@@ -56,7 +56,7 @@
     <original></original>
     <corrected><c>“</c></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="dep" depId="2-1" eid="0" />
       </errors>
   </revision>
   <w>eða</w>
@@ -83,7 +83,7 @@
     <original><w>þó</w></original>
     <corrected></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="wording" idx="4-1" eid="0" />
       </errors>
   </revision>
   <w>tókst</w>
@@ -91,7 +91,7 @@
     <original></original>
     <corrected><w>þó</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="dep" depId="4-1" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -106,7 +106,7 @@
     <original><w>Einræðisherrann</w><w>austurríski</w></original>
     <corrected><w>Austurríski</w><w>einræðisherrann</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="wording" eid="0" />
       </errors>
   </revision>
   <w>fæddist</w>
@@ -115,7 +115,7 @@
     <original><w>rauninni</w></original>
     <corrected><w>raun</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="def4ind" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -145,7 +145,7 @@
     <original><w>hinsvegar</w></original>
     <corrected><w>hins</w><w>vegar</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="merged-words" eid="0" />
       </errors>
   </revision>
   <w>seinna</w>

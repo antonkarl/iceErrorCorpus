@@ -44,7 +44,7 @@
   <w>Weidman</w>
   <c>(</c>
   <w>11</w>
-  
+  <c>.</c>
   <w>0</w>
   <c>)</c>
   <revision id="2">
@@ -59,10 +59,10 @@
   <w>Machida</w>
   <c>(</c>
   <w>21</w>
-  
+  <c>.</c>
   <w>4</w>
   <c>)</c>
-  
+  <c>.</c>
   <revision id="3">
     <original></original>
     <corrected><w>það</w><w>er</w></corrected>
@@ -357,14 +357,14 @@
   <w>Rousey</w>
   <c>(</c>
   <w>9</w>
-  
+  <c>.</c>
   <w>0</w>
   <c>)</c>
   <revision id="14">
     <original></original>
     <corrected><w>berst</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="missing-word" eid="0" />
       </errors>
   </revision>
   <w>gegn</w>
@@ -372,10 +372,10 @@
   <w>Davis</w>
   <c>(</c>
   <w>16</w>
-  
+  <c>.</c>
   <w>5</w>
   <c>)</c>
-  
+  <c>.</c>
   <revision id="15">
     <original></original>
     <corrected><w>það</w><w>er</w></corrected>
@@ -394,7 +394,7 @@
     <original></original>
     <corrected><c>.</c></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="missing-period" eid="0" />
       </errors>
   </revision>
   <w>Ronda</w>

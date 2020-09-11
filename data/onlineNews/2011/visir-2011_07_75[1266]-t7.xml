@@ -19,7 +19,7 @@
     <original></original>
     <corrected><w>í</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="missing-word" eid="0" />
       </errors>
   </revision>
   <w>morgun</w>
@@ -51,7 +51,7 @@
     <original><w>en</w></original>
     <corrected></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="wording" idx="2-1" eid="0" />
       </errors>
   </revision>
   <w>þar</w>
@@ -59,7 +59,7 @@
     <original><w>er</w></original>
     <corrected><w>sem</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="dep" depId="2-1" eid="0" />
       </errors>
   </revision>
   <w>hámarkshraði</w>
@@ -67,7 +67,7 @@
     <original></original>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="dep" depId="2-1" eid="0" />
       </errors>
   </revision>
   <w>90</w>
@@ -104,7 +104,7 @@
     <original><w>lögreglunni</w></original>
     <corrected><w>Lögreglunni</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="lower4upper-proper" eid="0" />
       </errors>
   </revision>
   <w>á</w>
@@ -121,7 +121,7 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="xxx" eid="0" />
+        <error xtype="missing-conjunction" eid="0" />
       </errors>
   </revision>
   <w>allt</w>
