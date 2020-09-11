@@ -174,7 +174,13 @@
   <w>er</w>
   <w>rétt</w>
   <w>undirbúið</w>
-  <c>&quot;</c>
+  <revision id="2b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>sagði</w>
   <w>Mansell</w>
@@ -381,7 +387,13 @@
   <w>láta</w>
   <w>slíkt</w>
   <w>trufla</w>
-  <c>&quot;</c>
+  <revision id="8b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>sagði</w>
   <w>Mansell</w>

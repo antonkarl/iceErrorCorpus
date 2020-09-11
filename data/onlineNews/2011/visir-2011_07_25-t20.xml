@@ -154,7 +154,13 @@
   <w>fyrir</w>
   <w>umferð</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="5b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Hreinn</w>
   <w>Haraldsson</w>
@@ -348,7 +354,13 @@
   <w>að</w>
   <w>ljúka</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="12b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Hreinn</w>
   <c>.</c>
@@ -501,7 +513,13 @@
   <w>einhverjar</w>
   <w>vikur</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="15b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Hreinn</w>
   <c>.</c>
@@ -597,7 +615,13 @@
   <w>algjöran</w>
   <w>forgang</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="19b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Ögmundur</w>
   <w>Jónasson</w>

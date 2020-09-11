@@ -141,7 +141,13 @@
   </revision>
   <w>að</w>
   <w>vera</w>
-  <c>&quot;</c>
+  <revision id="3b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>sagði</w>
   <w>Button</w>
@@ -227,7 +233,13 @@
   <w>fyrstu</w>
   <w>beygju</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="6b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="9">
   <c>„</c>
@@ -285,7 +297,13 @@
   <w>verður</w>
   <w>helgin</w>
   <w>frábær</w>
-  <c>&quot;</c>
+  <revision id="7b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>sagði</w>
   <w>Button</w>
@@ -366,7 +384,13 @@
   <w>er</w>
   <w>einfaldlega</w>
   <w>ótrúlegt</w>
-  <c>&quot;</c>
+  <revision id="9b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>sagði</w>
   <w>Hamilton</w>
@@ -415,7 +439,13 @@
   <w>við</w>
   <w>breska</w>
   <w>kappaksturinn</w>
-  <c>&quot;</c>
+  <revision id="9c">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>sagði</w>
   <w>Hamilton</w>
@@ -479,7 +509,13 @@
   <w>verðum</w>
   <w>samkeppnisfærir</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="10b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="20">
   <c>„</c>
@@ -526,7 +562,13 @@
         <error xtype="wording" eid="0" />
       </errors>
   </revision>
-  <c>&quot;</c>
+  <revision id="11b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>sagði</w>
   <w>Hamilton</w>

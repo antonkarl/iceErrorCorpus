@@ -40,7 +40,13 @@
   <w>þarna</w>
   <w>niðri</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="0">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Arnar</w>
   <w>Grétarsson</w>
@@ -110,7 +116,13 @@
   <w>í</w>
   <w>lokin</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="3b">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="5">
   <c>„</c>
@@ -156,7 +168,13 @@
   <w>það</w>
   <w>tókst</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="3c">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Arnar</w>
   <w>en</w>
@@ -235,7 +253,13 @@
   <w>einbeitingu</w>
   <w>þarna</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="3d">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 </p></body></text>
 </TEI>

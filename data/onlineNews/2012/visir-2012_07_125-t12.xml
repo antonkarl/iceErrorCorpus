@@ -136,7 +136,13 @@
   <w>næsta</w>
   <w>tímabili</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="5b">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Pardew</w>
   <c>.</c>

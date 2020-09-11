@@ -120,9 +120,15 @@
   <w>æfingum</w>
   <w>liðsins</w>
   <c>.</c>
-  <c>&quot;</c>
 </s>
 <s n="7">
+  <revision id="2">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Þrátt</w>
   <w>fyrir</w>
   <w>að</w>
@@ -161,7 +167,13 @@
   <w>með</w>
   <w>honum</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="3">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Poropat</w>
   <c>.</c>

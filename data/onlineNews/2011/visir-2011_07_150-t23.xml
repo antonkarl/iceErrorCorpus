@@ -123,9 +123,15 @@
   <w>enga</w>
   <w>framtíð</w>
   <c>.</c>
-  <c>&quot;</c>
 </s>
 <s n="9">
+  <revision id="2">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Eins</w>
   <w>og</w>
   <w>staðan</w>
@@ -178,13 +184,25 @@
   <w>nokkra</w>
   <w>daga</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="3">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Bellamy</w>
   <c>.</c>
-  <c>&quot;</c>
 </s>
 <s n="13">
+  <revision id="4">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Það</w>
   <w>breyttist</w>
   <w>allt</w>
@@ -243,7 +261,6 @@
   <w>að</w>
   <w>mér</w>
   <c>.</c>
-  <c>&quot;</c>
 </s>
 <s n="17">
   <w>Hann</w>
@@ -311,7 +328,13 @@
   <w>saman</w>
   <w>síðan</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="5">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 </p></body></text>
 </TEI>

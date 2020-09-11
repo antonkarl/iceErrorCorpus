@@ -17,7 +17,7 @@
   <w>vegna</w>
   <w>fjögurra</w>
   <w>Boeing</w>
-
+  <c>-</c>
   <w>757</w>
   <w>farþegaþotna</w>
   <c>,</c>
@@ -185,7 +185,13 @@
   <w>til</w>
   <w>frekari</w>
   <w>sóknar</w>
-  <c>&quot;</c>
+  <revision id="3">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>segir</w>
   <w>Jens</w>

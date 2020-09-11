@@ -78,9 +78,15 @@
   <w>landsliðinu</w>
   <w>árið 2001</w>
   <c>.</c>
-  <c>&quot;</c>
 </s>
 <s n="5">
+  <revision id="0">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Ég</w>
   <w>sá</w>
   <w>myndböndin</w>
@@ -113,13 +119,25 @@
       </errors>
   </revision>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="2b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Svíinn</w>
   <c>.</c>
-  <c>&quot;</c>
 </s>
 <s n="6">
+  <revision id="2c">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Strákurinn</w>
   <w>hefur</w>
   <w>verið</w>
@@ -158,7 +176,13 @@
   <w>gera</w>
   <w>það</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="3">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 </p></body></text>
 </TEI>

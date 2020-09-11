@@ -276,7 +276,13 @@
   <w>og</w>
   <w>kannski</w>
   <w>tilfinningarík</w>
-  <c>&quot;</c>
+  <revision id="17b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>sagði</w>
   <w>Ricciardo</w>
@@ -510,7 +516,13 @@
   <w>hluti</w>
   <w>af</w>
   <w>lærdómnum</w>
-  <c>&quot;</c>
+  <revision id="27b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>sagði</w>
   <w>Ricciardo</w>

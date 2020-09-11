@@ -60,7 +60,13 @@
   <w>kveðja</w>
   <w>ættingja</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="1">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Depp</w>
   <c>.</c>
@@ -110,7 +116,13 @@
   <w>og</w>
   <w>berskjaldaður</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="2">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="6">
   <w>Depp</w>
@@ -149,7 +161,13 @@
   <w>allt</w>
   <w>svart</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="3">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="8">
   <w>Public</w>

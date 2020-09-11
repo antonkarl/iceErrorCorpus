@@ -114,7 +114,13 @@
   <w>alltaf</w>
   <w>vinna</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="3b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Grant</w>
   <w>sem</w>

@@ -68,10 +68,22 @@
   <w>einnig</w>
   <w>á</w>
   <w>að</w>
-  <c>&quot;</c>
+  <revision id="0">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>einkennilegt</w>
   <w>þrátefli</w>
-  <c>&quot;</c>
+  <revision id="0b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>geti</w>
   <w>orðið</w>
   <w>ef</w>
@@ -157,9 +169,15 @@
   <w>gert</w>
   <w>það</w>
   <c>.</c>
-  <c>&quot;</c>
 </s>
 <s n="6">
+  <revision id="0c">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Þingið</w>
   <w>getur</w>
   <w>fellt</w>
@@ -243,7 +261,13 @@
   <w>þetta</w>
   <w>lýðræðislega</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="3b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Jónatan</w>
   <c>.</c>

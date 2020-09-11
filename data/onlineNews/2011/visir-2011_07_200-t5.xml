@@ -251,9 +251,15 @@
   <w>þeirra</w>
   <w>svæða</w>
   <c>.</c>
-  <c>&quot;</c>
 </s>
 <s n="11">
+  <revision id="3b">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Ráðherrar</w>
   <w>hafa</w>
   <w>þann</w>
@@ -287,7 +293,13 @@
       </errors>
   </revision>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="5b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Guðmundur</w>
   <w>og</w>
@@ -306,9 +318,15 @@
   <w>væntanlega</w>
   <w>þingsályktunartillögu</w>
   <c>.</c>
-  <c>&quot;</c>
 </s>
 <s n="13">
+  <revision id="5c">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Það</w>
   <w>er</w>
   <w>nauðsynlegt</w>
@@ -339,7 +357,13 @@
   <w>flýta</w>
   <w>sér</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="7b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 </p></body></text>
 </TEI>

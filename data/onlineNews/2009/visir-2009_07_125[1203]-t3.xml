@@ -150,7 +150,13 @@
   <w>að</w>
   <w>sér</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="1b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Logi</w>
   <c>.</c>
@@ -227,7 +233,13 @@
   <w>í</w>
   <w>sendingum</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="3b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="12">
   <c>„</c>
@@ -248,7 +260,13 @@
   <w>en</w>
   <w>dýrkeyptur</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="3c">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Logi</w>
   <w>Ólafsson</w>

@@ -630,7 +630,13 @@
   <w>töpuðum</w>
   <w>sanngjarnt</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="16b">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Logi</w>
   <w>og</w>
@@ -682,7 +688,13 @@
   <w>þessari</w>
   <w>leiktíð</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="16c">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Logi</w>
 </s>

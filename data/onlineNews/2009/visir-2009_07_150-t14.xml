@@ -90,7 +90,13 @@
   <w>þeir</w>
   <w>það</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="1b">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Ferguson</w>
   <c>.</c>
@@ -124,7 +130,13 @@
   <w>snúast</w>
   <w>hugur</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="1c">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="6">
   <w>Þá</w>
@@ -206,7 +218,13 @@
   <w>leikmaður</w>
   <w>heims</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="1d">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Ferguson</w>
   <c>.</c>

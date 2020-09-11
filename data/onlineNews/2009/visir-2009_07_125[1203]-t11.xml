@@ -75,7 +75,13 @@
   <w>bara</w>
   <w>spranga</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="0">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Marika</w>
   <w>Fedorowicz</w>
@@ -296,7 +302,13 @@
   <w>góður</w>
   <w>hundur</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="5b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="18">
   <w>Hún</w>
@@ -327,7 +339,13 @@
   <w>á</w>
   <w>þessu</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="5c">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="21">
   <w>Hún</w>
@@ -396,7 +414,13 @@
   <w>þess</w>
   <w>síðan</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="8b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="25">
   <w>Er</w>
@@ -419,7 +443,13 @@
   <w>en</w>
   <w>ég</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="8c">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Marika</w>
   <w>og</w>

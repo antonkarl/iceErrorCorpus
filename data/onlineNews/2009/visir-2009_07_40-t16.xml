@@ -134,7 +134,13 @@
   <w>heims</w>
   <w>löndunum</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="0">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Guðbrandur</w>
   <w>Einarsson</w>
@@ -163,7 +169,13 @@
   <w>um</w>
   <w>málið</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="0b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Guðbrandur</w>
   <c>.</c>
@@ -287,7 +299,13 @@
   <w>fyrir</w>
   <w>bæjarfélagið</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="1b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Árni</w>
   <w>Sigfússon</w>

@@ -60,7 +60,13 @@
   <w>á</w>
   <w>FM</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="2b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Pétur</w>
   <w>Jóhann</w>
@@ -212,7 +218,13 @@
   <w>kínverskan</w>
   <c>„</c>
   <w>take-away</w>
-  <c>&quot;</c>
+  <revision id="8b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>mat</w>
   <c>.</c>
 </s>

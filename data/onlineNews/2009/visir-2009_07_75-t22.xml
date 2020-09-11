@@ -181,7 +181,13 @@
   <w>þetta</w>
   <w>þróast</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="2b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Harry</w>
   <w>Redknapp</w>

@@ -38,9 +38,15 @@
   <w>E-pillur</w>
   <w>fundust</w>
   <c>.</c>
-  <c>&quot;</c>
 </s>
 <s n="3">
+  <revision id="0">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Mikil</w>
   <w>ölvun</w>
   <w>var</w>
@@ -86,7 +92,13 @@
   <w>og</w>
   <w>óspekta</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="1">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Ingólfur</w>
   <w>Waage</w>

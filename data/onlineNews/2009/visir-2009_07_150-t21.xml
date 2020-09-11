@@ -33,7 +33,13 @@
   <w>þetta</w>
   <w>gerst</w>
   <c>?</c>
-  <c>&quot;</c>
+  <revision id="0">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="2">
   <w>Flestir</w>
@@ -340,7 +346,13 @@
   <w>höfðinu</w>
   <w>dansi</w>
   <w>limirnir</w>
-  <c>&quot;</c>
+  <revision id="2b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>þessa</w>
   <w>dagana</w>

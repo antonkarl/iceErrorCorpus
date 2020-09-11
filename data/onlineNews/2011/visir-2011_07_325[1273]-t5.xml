@@ -123,7 +123,13 @@
   <w>fara</w>
   <w>inn</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="5b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="5">
   <revision id="6">
@@ -198,7 +204,13 @@
   <w>sig</w>
   <w>meira</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="8b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>markmaðurinn</w>
   <w>við</w>
@@ -245,7 +257,13 @@
   <w>í</w>
   <w>háum</w>
   <w>hælum</w>
-  <c>&quot;</c>
+  <revision id="8c">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>á</w>
   <w>prinsessan</w>
   <w>að</w>

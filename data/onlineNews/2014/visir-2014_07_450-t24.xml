@@ -422,7 +422,13 @@
   <w>eigin</w>
   <w>vegum</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="8b">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Sólveig</w>
   <c>.</c>
@@ -504,7 +510,13 @@
   <w>náttúrulaug</w>
   <c>,</c>
   <w>LavaSpa</w>
-  <c>&quot;</c>
+  <revision id="11b">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Sólveig</w>
   <c>.</c>

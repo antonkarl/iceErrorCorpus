@@ -37,7 +37,13 @@
   <w>mínir</w>
   <w>og</w>
   <w>hórur</w>
-  <c>&quot;</c>
+  <revision id="1b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="2">
@@ -80,7 +86,13 @@
   <w>við</w>
   <w>konur</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="1c">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Dagný</w>
   <w>Óskarsdóttir</w>
@@ -166,7 +178,13 @@
   <w>á</w>
   <w>svið</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="3b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="7">
   <w>Skrif</w>
@@ -261,7 +279,13 @@
   <w>til</w>
   <w>Stígamóta</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="6b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="9">
   <w>Dagný</w>

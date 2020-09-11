@@ -17,7 +17,13 @@
   <w>til</w>
   <w>ösku</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="1">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Helgi</w>
   <w>Björnsson</w>
@@ -75,7 +81,13 @@
   <w>yndislegt</w>
   <w>kvöld</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="2">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Helgi</w>
   <w>en</w>
@@ -113,7 +125,13 @@
   <w>frábæra</w>
   <w>hús</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="3">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 </p></body></text>
 </TEI>

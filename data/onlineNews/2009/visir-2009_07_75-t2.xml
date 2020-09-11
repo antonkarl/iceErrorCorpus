@@ -71,7 +71,13 @@
   <w>af</w>
   <w>því</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="0">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Guðmundur</w>
   <w>Felixson</w>
@@ -150,7 +156,13 @@
   <w>milli</w>
   <w>leikfélaganna</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="3b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="8">
   <w>Þá</w>
@@ -219,7 +231,13 @@
   <w>eru</w>
   <w>mörg</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="5b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="12">
   <w>Hugmyndin</w>
@@ -288,7 +306,13 @@
   <w>formenn</w>
   <w>leikfélaganna</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="7b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="16">
   <w>Félagið</w>

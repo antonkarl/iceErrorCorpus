@@ -76,7 +76,13 @@
   <w>alla</w>
   <w>vikuna</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="2b">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="4">
   <w>Við</w>
@@ -130,7 +136,13 @@
   <w>hvort</w>
   <w>það</w>
   <w>virkar</w>
-  <c>&quot;</c>
+  <revision id="4b">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Marthin</w>
   <w>Whitmarsh</w>
@@ -170,7 +182,13 @@
   <w>á</w>
   <w>Nurburgring</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="4c">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="8">
   <w>Það</w>
@@ -230,7 +248,13 @@
   <w>í</w>
   <w>næstu</w>
   <w>mótum</w>
-  <c>&quot;</c>
+  <revision id="5b">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>sagði</w>
   <w>heimsmeistarinn</w>

@@ -12,9 +12,21 @@
   <w>sú</w>
   <w>deild</w>
   <w>sem</w>
-  <c>&quot;</c>
+  <revision id="0">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>á</w>
-  <c>&quot;</c>
+  <revision id="0b">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>flest</w>
   <w>mörk</w>
   <w>á</w>
@@ -25,7 +37,7 @@
   <w>Brasilíu</w>
   <w>eftir</w>
   <w>1</w>
-
+  <c>-</c>
   <w>0</w>
   <w>sigur</w>
   <w>Þjóðverja</w>

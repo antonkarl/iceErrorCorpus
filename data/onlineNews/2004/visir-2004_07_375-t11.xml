@@ -71,9 +71,15 @@
   <w>sæta</w>
   <w>kynferðisofbeldi</w>
   <c>.</c>
-  <c>&quot;</c>
 </s>
 <s n="4">
+  <revision id="0">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Rannsóknir</w>
   <w>víða</w>
   <w>erlendis</w>
@@ -97,14 +103,26 @@
   <w>önnur</w>
   <w>börn</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="0b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Bragi</w>
   <w>Guðbrandsson</w>
   <c>.</c>
-  <c>&quot;</c>
 </s>
 <s n="5">
+  <revision id="0c">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Kynferðisbrotamenn</w>
   <w>eru</w>
   <w>fundvísir</w>
@@ -157,7 +175,13 @@
   <w>öðrum</w>
   <w>hætti</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="0d">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="7">
   <w>Bragi</w>
@@ -183,7 +207,13 @@
   <w>hættu</w>
   <w>lengi</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="2b">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="8">
   <revision id="3">
@@ -234,7 +264,13 @@
   <w>öryggi</w>
   <w>þeirra</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="5b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="9">
   <w>Héraðsdómur</w>
@@ -341,7 +377,13 @@
   <w>hlut</w>
   <w>eigi</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="6b">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="14">
   <w>Engu</w>
@@ -373,7 +415,13 @@
   <w>þessi</w>
   <w>börn</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="6c">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 </p></body></text>
 </TEI>

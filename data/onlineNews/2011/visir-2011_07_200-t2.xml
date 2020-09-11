@@ -162,7 +162,7 @@
         <error xtype="extra-commas" idx="2-1" eid="0" />
       </errors>
   </revision>
-
+  <c>-</c>
   <w>með</w>
   <w>uppgripum</w>
   <revision id="3">
@@ -172,7 +172,7 @@
         <error xtype="dep" depId="2-1" eid="0" />
       </errors>
   </revision>
-
+  <c>-</c>
   <w>og</w>
   <w>Páll</w>
   <w>segir</w>
@@ -199,9 +199,15 @@
   <w>fá</w>
   <w>fólk</w>
   <c>?</c>
-  <c>&quot;</c>
 </s>
 <s n="10">
+  <revision id="3b">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Það</w>
   <w>hefur</w>
   <w>allavega</w>
@@ -211,12 +217,18 @@
   <w>sérlega</w>
   <w>vel</w>
   <c>,</c>
-
+  <c>-</c>
   <w>í</w>
   <w>sum</w>
   <w>störf</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="3c">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>svarar</w>
   <w>Páll</w>
   <w>og</w>

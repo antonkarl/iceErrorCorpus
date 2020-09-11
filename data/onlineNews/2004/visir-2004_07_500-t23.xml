@@ -109,9 +109,15 @@
   <w>elska</w>
   <w>hann</w>
   <c>.</c>
-  <c>&quot;</c>
 </s>
 <s n="5">
+  <revision id="2b">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Ég</w>
   <revision id="3">
     <original><w>er</w><w>búin</w><w>að</w><w>kyssa</w></original>
@@ -157,7 +163,13 @@
   <w>hið</w>
   <w>raunverulega</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="3b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Britney</w>
   <c>.</c>

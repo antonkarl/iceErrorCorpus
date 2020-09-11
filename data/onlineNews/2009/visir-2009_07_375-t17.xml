@@ -25,7 +25,13 @@
   <w>útlensk</w>
   <w>hljómsveit</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="0">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Barði</w>
   <w>Jóhannsson</w>
@@ -99,7 +105,13 @@
   <w>sinnum</w>
   <w>segðu</w>
   <w>já</w>
-  <c>&quot;</c>
+  <revision id="0b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="5">
@@ -126,7 +138,13 @@
   <w>gömlu</w>
   <w>perlum</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="0c">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Barði</w>
   <c>.</c>

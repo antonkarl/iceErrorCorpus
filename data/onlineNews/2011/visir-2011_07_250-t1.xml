@@ -56,7 +56,13 @@
   <w>mun</w>
   <w>takast</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="0">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Jose</w>
   <w>Luis</w>
@@ -125,7 +131,13 @@
   <c>„</c>
   <w>Barra</w>
   <w>brava</w>
-  <c>&quot;</c>
+  <revision id="3">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>misstu</w>
   <w>stjórn</w>
   <w>á</w>

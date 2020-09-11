@@ -35,7 +35,13 @@
   <w>hvers</w>
   <w>og</w>
   <w>eins</w>
-  <c>&quot;</c>
+  <revision id="1">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>segir</w>
   <w>skipuleggjandi</w>

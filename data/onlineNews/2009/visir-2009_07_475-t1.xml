@@ -58,7 +58,13 @@
   <w>staðið</w>
   <w>við</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="1b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Birgitta</w>
   <w>Jónsdóttir</w>
@@ -123,7 +129,13 @@
   <w>ekki</w>
   <w>pólitískum</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="2b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="5">
   <w>Bjarni</w>
@@ -197,7 +209,13 @@
   <w>á</w>
   <w>milliríkjadeilu</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="4b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Bjarni</w>
   <c>.</c>
@@ -218,7 +236,13 @@
   <w>þessar</w>
   <w>skuldbindingar</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="4c">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Sigmundur</w>
   <w>Davíð</w>

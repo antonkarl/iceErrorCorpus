@@ -16,9 +16,15 @@
   <w>fyrir</w>
   <w>löngu</w>
   <c>.</c>
-  <c>&quot;</c>
 </s>
 <s n="2">
+  <revision id="0">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Ég</w>
   <w>byrjaði</w>
   <w>að</w>
@@ -83,7 +89,13 @@
   <w>í</w>
   <w>Sautján</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="1b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>María</w>
   <w>sem</w>
@@ -99,9 +111,15 @@
   <w>Skjás</w>
   <w>eins</w>
   <c>.</c>
-  <c>&quot;</c>
 </s>
 <s n="5">
+  <revision id="1c">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Þetta</w>
   <w>er</w>
   <w>fjölbreytt</w>
@@ -192,7 +210,13 @@
   <w>og</w>
   <w>Parísar</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="2b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="9">
   <w>María</w>
@@ -225,9 +249,15 @@
   <w>í</w>
   <w>Kringlunni</w>
   <c>.</c>
-  <c>&quot;</c>
 </s>
 <s n="11">
+  <revision id="2c">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Ég</w>
   <w>sé</w>
   <w>um</w>
@@ -248,7 +278,13 @@
   <w>að</w>
   <w>selja</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="2d">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="12">
   <w>María</w>
@@ -260,9 +296,15 @@
   <w>algjört</w>
   <w>fatafrík</w>
   <c>.</c>
-  <c>&quot;</c>
 </s>
 <s n="13">
+  <revision id="2e">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Ég</w>
   <w>á</w>
   <w>mest</w>
@@ -315,7 +357,13 @@
       </errors>
   </revision>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="3b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 </p></body></text>
 </TEI>

@@ -217,7 +217,13 @@
   <w>í</w>
   <w>haust</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="3b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Kristinn</w>
   <c>.</c>
@@ -342,7 +348,13 @@
   <w>Stefáni</w>
   <w>Loga</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="5b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Kristinn</w>
   <w>á</w>

@@ -75,7 +75,13 @@
   <w>í</w>
   <w>hagnaði</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="0">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Pálmi</w>
   <w>Haraldsson</w>
@@ -121,7 +127,13 @@
   <w>að</w>
   <w>Fons</w>
   <c>...</c>
-  <c>&quot;</c>
+  <revision id="0b">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>hafi</w>
   <w>selt</w>
   <w>hluti</w>
@@ -264,7 +276,13 @@
   <w>íslenskum</w>
   <w>fjárfesti</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="2b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="9">
   <w>Þess</w>

@@ -60,7 +60,13 @@
   <w>heimasíðu</w>
   <w>sinni</w>
   <c>:</c>
-  <c>&quot;</c>
+  <revision id="0">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <c>...</c>
   <w>er</w>
   <w>ljóst</w>
@@ -173,7 +179,13 @@
   <w>horni</w>
   <c>,</c>
   <c>...</c>
-  <c>&quot;</c>
+  <revision id="1b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Björn</w>
   <w>Bjarnason</w>

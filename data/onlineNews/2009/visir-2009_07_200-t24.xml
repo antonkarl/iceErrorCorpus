@@ -117,7 +117,13 @@
   <w>á</w>
   <w>Íslandi</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="3b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Bjarni</w>
   <w>sem</w>
@@ -252,7 +258,13 @@
   <w>upprunalegastri</w>
   <w>mynd</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="4b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Bjarni</w>
   <w>að</w>

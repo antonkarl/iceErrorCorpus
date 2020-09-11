@@ -124,7 +124,13 @@
   <w>tvo</w>
   <w>markmenn</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="1b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Ólafur</w>
   <w>Þórðarson</w>
@@ -204,7 +210,13 @@
   <w>hans</w>
   <w>skarð</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="3b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Ólafur</w>
   <w>en</w>
@@ -268,7 +280,13 @@
   <w>að</w>
   <w>búast</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="3c">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Ólafur</w>
   <c>.</c>
@@ -332,7 +350,13 @@
   <w>þekki</w>
   <w>karakterinn</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="4b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Ólafur</w>
   <w>en</w>
@@ -382,7 +406,13 @@
   <w>í</w>
   <w>ljós</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="5b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Ólafur</w>
   <w>að</w>

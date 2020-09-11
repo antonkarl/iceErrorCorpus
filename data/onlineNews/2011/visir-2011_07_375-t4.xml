@@ -137,7 +137,13 @@
   <w>Viðskiptablaðinu</w>
   <w>segir</w>
   <c>:</c>
-  <c>&quot;</c>
+  <revision id="4b">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Endanleg</w>
   <w>ákvörðun</w>
   <w>um</w>
@@ -177,7 +183,13 @@
   <w>loknum</w>
   <w>kröfuhafafundum</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="4c">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 </p></body></text>
 </TEI>

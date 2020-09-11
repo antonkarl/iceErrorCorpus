@@ -396,7 +396,13 @@
   <w>ekki</w>
   <w>málið</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="4">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 </p></body></text>
 </TEI>

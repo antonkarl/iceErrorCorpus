@@ -141,7 +141,13 @@
   <w>og</w>
   <w>sviðið</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="3b">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Haraldur</w>
   <w>Ási</w>
@@ -205,7 +211,13 @@
   <w>10 þúsund</w>
   <w>gestum</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="4b">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Haraldur</w>
   <c>.</c>

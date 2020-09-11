@@ -106,7 +106,13 @@
   <w>á</w>
   <w>strengnum</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="2b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Sigurrós</w>
   <c>.</c>
@@ -132,7 +138,13 @@
   <w>flóðið</w>
   <w>er</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="2c">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="8">
   <w>Hún</w>
@@ -203,7 +215,13 @@
   <w>verja</w>
   <w>samböndin</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="3b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="11">
   <w>Sigurrós</w>
@@ -298,7 +316,13 @@
   <w>aðstæður</w>
   <w>leyfa</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="4b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 </p></body></text>
 </TEI>

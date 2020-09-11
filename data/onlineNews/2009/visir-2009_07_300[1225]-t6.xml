@@ -10,7 +10,13 @@
   <w>fullum</w>
   <w>gangi</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="0">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>er</w>
   <w>haft</w>
   <w>eftir</w>
@@ -80,7 +86,13 @@
   <w>óttast</w>
   <w>var</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="0b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>er</w>
   <w>haft</w>
   <w>eftir</w>
@@ -111,7 +123,13 @@
   </revision>
   <w>það</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="1b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>bætir</w>
   <w>hann</w>
   <w>við</w>

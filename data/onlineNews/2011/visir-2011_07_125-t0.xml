@@ -96,10 +96,14 @@
   <w>á</w>
   <w>Akranesi</w>
   <c>?</c>
-</s>
-<s n="5">
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="2">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>spyr</w>
   <w>Páll</w>
   <w>Baldvin</w>
@@ -154,7 +158,13 @@
   <w>neinum</w>
   <w>hætti</w>
   <c>...</c>
-  <c>&quot;</c>
+  <revision id="3">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>en</w>
   <w>steli</w>
   <w>sjálfir</w>

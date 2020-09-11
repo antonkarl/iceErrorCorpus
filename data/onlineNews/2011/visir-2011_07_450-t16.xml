@@ -128,7 +128,13 @@
   <w>úr</w>
   <w>fjármálageiranum</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="3b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Guðjón</w>
   <c>.</c>
@@ -300,7 +306,13 @@
   <w>svona</w>
   <w>útilokun</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="6b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Guðjón</w>
   <c>.</c>
@@ -475,7 +487,13 @@
   <w>sem</w>
   <w>er</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="8b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Guðjón</w>
   <c>.</c>

@@ -91,7 +91,13 @@
   <w>við</w>
   <w>kaupmenn</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="2b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Höskuldur</w>
   <w>Ólafsson</w>
@@ -228,7 +234,13 @@
   <w>samkeppnislegum</w>
   <w>tilgangi</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="4b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Höskuldur</w>
   <w>Ólafsson</w>
@@ -293,7 +305,13 @@
   <w>svo</w>
   <w>stöddu</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="5b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Haukur</w>
   <w>Oddsson</w>

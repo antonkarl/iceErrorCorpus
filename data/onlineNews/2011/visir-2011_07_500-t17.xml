@@ -10,9 +10,21 @@
   <w>á</w>
   <w>vel</w>
   <w>heppnuðum</w>
-  <c>&quot;</c>
+  <revision id="1">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>unplugged</w>
-  <c>&quot;</c>
+  <revision id="2">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>tónleikum</w>
   <w>á</w>
   <w>fimmtudaginn</w>

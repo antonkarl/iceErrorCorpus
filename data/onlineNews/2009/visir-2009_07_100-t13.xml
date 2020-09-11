@@ -103,7 +103,13 @@
   <w>og</w>
   <w>útivist</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="1">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>í</w>
   <w>skýrslunni</w>
@@ -197,7 +203,13 @@
   <w>mislægum</w>
   <w>vegamótum</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="2">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 </p></body></text>
 </TEI>

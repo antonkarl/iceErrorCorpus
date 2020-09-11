@@ -39,9 +39,15 @@
   <w>vera</w>
   <w>veigamiklar</w>
   <c>.</c>
-  <c>&quot;</c>
 </s>
 <s n="2">
+  <revision id="0">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Ég</w>
   <w>dreg</w>
   <w>sömuleiðis</w>
@@ -99,7 +105,13 @@
   </revision>
   <w>henni</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="1b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Össur</w>
   <c>.</c>
@@ -150,14 +162,26 @@
   <w>hefur</w>
   <w>staðið</w>
   <w>saman</w>
-  <c>&quot;</c>
+  <revision id="1c">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sem</w>
   <w>einn</w>
   <w>maður</w>
   <w>í</w>
   <w>þessu</w>
   <w>máli</w>
-  <c>&quot;</c>
+  <revision id="1d">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 </p></body></text>

@@ -137,7 +137,13 @@
   <w>lagað</w>
   <w>þetta</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="3b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Ólafur</w>
   <w>Örn.</w>
@@ -258,7 +264,13 @@
   <w>hjá</w>
   <w>okkur</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="9b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>þjálfarinn</w>
   <c>.</c>
@@ -373,7 +385,13 @@
   <w>um</w>
   <w>samherjana</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="12b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="19">
   <w>Gengi</w>
@@ -497,7 +515,13 @@
   <w>að</w>
   <w>halda</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="13b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Ólafur</w>
   <w>að</w>

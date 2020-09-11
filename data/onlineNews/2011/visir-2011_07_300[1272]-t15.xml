@@ -600,7 +600,13 @@
   <w>áhættufjárfestingarsjóðinn</w>
   <w>Pace</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="16b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="20">
   <w>Francis</w>

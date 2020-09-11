@@ -105,7 +105,13 @@
   <w>væri</w>
   <w>látið</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="3b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Guðjón</w>
   <w>sem</w>
@@ -147,7 +153,13 @@
   <w>heyrt</w>
   <w>áður</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="3c">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 </p></body></text>
 </TEI>

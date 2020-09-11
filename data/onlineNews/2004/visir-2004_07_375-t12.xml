@@ -3,13 +3,25 @@
 <teiHeader></teiHeader>
 <text><body><p n="1">
 <s n="1">
-  <c>&quot;</c>
+  <revision id="0">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Þetta</w>
   <w>er</w>
   <w>ekki</w>
   <w>kosningamál</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="0b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Birgir</w>
   <w>Hermannsson</w>
@@ -37,9 +49,15 @@
   <w>kosningar</w>
   <w>2007</w>
   <c>.</c>
-  <c>&quot;</c>
 </s>
 <s n="2">
+  <revision id="1b">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Forsetinn</w>
   <w>getur</w>
   <w>skrifað</w>
@@ -152,7 +170,13 @@
   <w>leiðinni</w>
   <w>út</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="9b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="6">
   <w>Hvað</w>
@@ -168,9 +192,15 @@
   <w>í</w>
   <w>grundvallaratriðum</w>
   <c>.</c>
-  <c>&quot;</c>
 </s>
 <s n="7">
+  <revision id="9c">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Það</w>
   <w>tekur</w>
   <w>marga</w>
@@ -199,7 +229,13 @@
   <w>við</w>
   <w>þingið</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="9d">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 </p></body></text>
 </TEI>

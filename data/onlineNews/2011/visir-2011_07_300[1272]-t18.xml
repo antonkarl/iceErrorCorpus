@@ -70,7 +70,13 @@
   <w>hann</w>
   <w>aftur</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="2b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Tony</w>
   <w>Ocampo</w>
@@ -180,7 +186,13 @@
   <w>gegn</w>
   <w>Brasilíu</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="3b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>bætti</w>
   <w>Ocampo</w>
   <w>við</w>

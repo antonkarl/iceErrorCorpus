@@ -118,7 +118,13 @@
   <w>rennandi</w>
   <w>blautir</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="1b">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Teitur</w>
   <c>.</c>
@@ -193,7 +199,13 @@
   <w>í</w>
   <w>morgun</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="1c">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="11">
@@ -239,7 +251,13 @@
   <w>á</w>
   <w>Akureyri</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="4b">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Teitur</w>
   <w>við</w>

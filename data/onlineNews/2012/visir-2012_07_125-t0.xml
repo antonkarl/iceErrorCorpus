@@ -561,7 +561,13 @@
   <w>í</w>
   <w>mjöðminni</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="16b">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>bætti</w>
   <w>Pape</w>
   <w>við</w>
@@ -793,7 +799,13 @@
   <w>í</w>
   <w>pottinum</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="22b">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Guðjón</w>
   <w>Þórðarson</w>
@@ -908,7 +920,13 @@
   <w>drepur</w>
   <w>leikinn</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="25b">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Ólafur</w>
   <w>Þórðarson</w>

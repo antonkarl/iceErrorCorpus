@@ -113,7 +113,13 @@
   <w>minn</w>
   <w>bráðlega</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="1">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Lampard</w>
   <w>við</w>
@@ -176,7 +182,13 @@
   <w>sjáum</w>
   <w>til</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="2">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="9">
   <c>„</c>
@@ -209,7 +221,13 @@
   <w>ég</w>
   <w>tek</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="3">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Lampard</w>
   <c>.</c>

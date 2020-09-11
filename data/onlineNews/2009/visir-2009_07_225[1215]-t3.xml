@@ -110,7 +110,13 @@
   <w>hörmulegs</w>
   <w>atburðar</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="3b">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>talsmaður</w>
   <w>ABP</w>
@@ -128,7 +134,13 @@
   <w>grundvöllur</w>
   <w>fjárfestingar</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="3c">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="5">
   <w>Talsmaðurinn</w>
@@ -186,13 +198,7 @@
   <w>sjóðsins</w>
   <w>eru</w>
   <w>nú</w>
-  <revision id="5">
-    <original><w>m.</w><w>a</w><c>.</c></original>
-    <corrected><w>m.a.</w></corrected>
-      <errors>
-        <error xtype="extra-space" eid="0" />
-      </errors>
-  </revision>
+  <w>m.a.</w>
   <w>lög</w>
   <w>Justin</w>
   <w>Timberlake</w>
@@ -275,7 +281,13 @@
   <w>sögu</w>
   <w>poppsins</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="5b">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>talsmaður</w>
   <w>ABP</w>

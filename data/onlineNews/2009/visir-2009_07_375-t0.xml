@@ -43,11 +43,23 @@
   <w>Upphaflega</w>
   <w>var</w>
   <w>yfirskriftin</w>
-  <c>&quot;</c>
+  <revision id="1b">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Nauðgar</w>
   <w>vinur</w>
   <w>þinn</w>
-  <c>&quot;</c>
+  <revision id="1c">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>en</w>
   <w>henni</w>
   <w>var</w>

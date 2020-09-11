@@ -503,9 +503,21 @@
   <w>kölluðu</w>
   <w>meðal</w>
   <w>annars</w>
-  <c>&quot;</c>
+  <revision id="10b">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>KSÍ-KSÍ</w>
-  <c>&quot;</c>
+  <revision id="10c">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>inn</w>
   <w>á</w>
   <w>völlinn</w>

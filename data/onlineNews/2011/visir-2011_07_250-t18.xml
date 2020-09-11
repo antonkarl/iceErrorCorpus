@@ -235,7 +235,13 @@
   <w>lygnum</w>
   <w>sjó</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="5b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Garðar</w>
   <w>Hannes</w>
@@ -353,7 +359,13 @@
   <w>er</w>
   <w>björt</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="12b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="14">
   <w>Kjarnastarfsemi</w>
@@ -472,7 +484,13 @@
   <w>útleigðum</w>
   <w>fermetrum</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="12c">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Garðar</w>
   <c>.</c>
@@ -502,7 +520,13 @@
   <w>okkar</w>
   <w>hluthafa</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="12d">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Garðar</w>
   <c>.</c>

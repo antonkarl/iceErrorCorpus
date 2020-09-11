@@ -58,7 +58,13 @@
   <w>mínum</w>
   <w>draumum</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="1b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Cristiano</w>
   <w>Ronaldo</w>
@@ -80,7 +86,13 @@
   <c>„</c>
   <w>Viva</w>
   <w>Madrid</w>
-  <c>&quot;</c>
+  <revision id="1c">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="4">
@@ -191,7 +203,13 @@
   <w>fyrir</w>
   <w>mig</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="5b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Ronaldo</w>
   <w>sem</w>

@@ -80,7 +80,13 @@
   <w>á</w>
   <w>frumvarpinu</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="0">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Guðbjartur</w>
   <c>.</c>
@@ -253,7 +259,13 @@
   <w>um</w>
   <w>álitið</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="0b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Helgi</w>
   <c>,</c>
@@ -305,7 +317,13 @@
   <w>af</w>
   <w>einhverju</w>
   <w>viti</w>
-  <c>&quot;</c>
+  <revision id="0c">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>þingið</w>
   <w>klári</w>
@@ -373,7 +391,13 @@
   <w>sjálfan</w>
   <w>samninginn</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="1b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Ólöf</w>
   <c>.</c>

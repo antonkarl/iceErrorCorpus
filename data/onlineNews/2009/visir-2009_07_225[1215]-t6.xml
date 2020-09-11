@@ -23,7 +23,13 @@
   <w>er</w>
   <w>margþætt</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="1b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Gísli</w>
   <w>Gíslason</w>
@@ -118,7 +124,13 @@
   <w>heitir</w>
   <w>Tesla</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="1c">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="7">
   <w>Þannig</w>
@@ -217,7 +229,13 @@
   <w>kostar</w>
   <w>350 krónur</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="2b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="14">
   <revision id="3">
@@ -372,7 +390,13 @@
   <w>þá</w>
   <w>heiminum</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="12b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Gísli</w>
   <c>.</c>

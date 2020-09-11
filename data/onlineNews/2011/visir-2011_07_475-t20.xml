@@ -127,9 +127,15 @@
   <w>þrjár</w>
   <w>vikur</w>
   <c>.</c>
-  <c>&quot;</c>
 </s>
 <s n="5">
+  <revision id="2b">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Það</w>
   <w>sem</w>
   <w>hefur</w>
@@ -160,7 +166,13 @@
   <w>öll</w>
   <w>reynst</w>
   <w>óaðgengileg</w>
-  <c>&quot;</c>
+  <revision id="2c">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Ögmundur</w>
   <w>og</w>
@@ -186,9 +198,15 @@
   <w>á</w>
   <w>þyrlu</w>
   <c>.</c>
-  <c>&quot;</c>
 </s>
 <s n="6">
+  <revision id="3b">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Við</w>
   <w>verðum</w>
   <w>vonandi</w>
@@ -203,7 +221,13 @@
   <w>tíma</w>
   <w>í</w>
   <w>haust</w>
-  <c>&quot;</c>
+  <revision id="3c">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 </p></body></text>

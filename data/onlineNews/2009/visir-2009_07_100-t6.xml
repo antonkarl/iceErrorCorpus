@@ -24,7 +24,13 @@
   <w>til</w>
   <w>1. september</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="1b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Jón</w>
   <w>Gerald</w>
@@ -106,7 +112,13 @@
   <w>í</w>
   <w>sínum</w>
   <w>búðum</w>
-  <c>&quot;</c>
+  <revision id="2b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="4">
@@ -191,7 +203,13 @@
       </errors>
   </revision>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="3b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Jón</w>
   <c>.</c>
@@ -230,7 +248,13 @@
   <w>ný</w>
   <w>lágvöruverðsverslun</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="3c">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="10">
   <w>Fyrir</w>
@@ -242,11 +266,17 @@
   <w>og</w>
   <w>njótum</w>
   <w>lífsins</w>
-  
+  <c>-</c>
   <w>Jón</w>
   <w>Gerald</w>
   <w>Sullenberger</w>
-  <c>&quot;</c>
+  <revision id="3d">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 </p></body></text>

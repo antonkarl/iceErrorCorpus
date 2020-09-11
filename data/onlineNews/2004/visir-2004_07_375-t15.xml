@@ -20,9 +20,15 @@
   <w>hátíðin</w>
   <w>vel</w>
   <c>.</c>
-  <c>&quot;</c>
 </s>
 <s n="2">
+  <revision id="0">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Þetta</w>
   <w>er</w>
   <w>fámennasta</w>
@@ -46,7 +52,13 @@
   <w>langan</w>
   <w>tíma</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="1b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Jón</w>
   <w>Garðar</w>
@@ -78,9 +90,15 @@
   <w>á</w>
   <w>hátíðinni</w>
   <c>.</c>
-  <c>&quot;</c>
 </s>
 <s n="4">
+  <revision id="1c">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Við</w>
   <w>lentum</w>
   <w>í</w>
@@ -116,7 +134,13 @@
   <w>með</w>
   <w>hana</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="1d">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Jón</w>
   <w>Garðar</w>

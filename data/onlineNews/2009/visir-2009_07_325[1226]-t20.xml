@@ -13,7 +13,7 @@
   <w>velli</w>
   <w>í</w>
   <w>2</w>
-
+  <c>-</c>
   <w>0</w>
   <w>sigri</w>
   <w>KR</w>
@@ -128,7 +128,13 @@
   <w>í</w>
   <w>gær</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="2b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Logi</w>
   <w>í</w>

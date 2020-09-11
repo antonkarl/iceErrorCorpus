@@ -219,7 +219,13 @@
   <w>síðustu</w>
   <w>tvö</w>
   <w>ár</w>
-  <c>&quot;</c>
+  <revision id="4b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>sagði</w>
   <w>Frank</w>
@@ -281,7 +287,13 @@
   <w>okkar</w>
   <w>á</w>
   <w>brautinni</w>
-  <c>&quot;</c>
+  <revision id="5b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>sagði</w>
   <w>Williams</w>

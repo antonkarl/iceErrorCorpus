@@ -202,7 +202,13 @@
   <w>nýtt</w>
   <w>fyrir</w>
   <w>liðið</w>
-  <c>&quot;</c>
+  <revision id="4b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>sagði</w>
   <w>Webber</w>
@@ -287,7 +293,13 @@
   <w>að</w>
   <w>kappakstrinum</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="5b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="12">
   <c>„</c>
@@ -331,7 +343,13 @@
   <w>sækja</w>
   <w>til</w>
   <w>sigurs</w>
-  <c>&quot;</c>
+  <revision id="5c">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>sagði</w>
   <w>Webber</w>

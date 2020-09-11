@@ -53,7 +53,13 @@
   <c>,</c>
   <w>segir</w>
   <c>:</c>
-  <c>&quot;</c>
+  <revision id="0">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Viðfangið</w>
   <w>gerði</w>
   <w>eiginkonu</w>
@@ -92,7 +98,13 @@
   <w>til</w>
   <w>Hjálpræðishersins</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="0b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="4">
   <w>Það</w>

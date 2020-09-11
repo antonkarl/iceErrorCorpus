@@ -25,7 +25,13 @@
   <w>að</w>
   <w>Keflavík</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="0">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Guðmundur</w>
   <w>Steinarsson</w>
@@ -140,7 +146,13 @@
   <w>klæðast</w>
   <w>Keflavíkurbúningnum</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="0b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Guðmundur</w>
   <c>.</c>
@@ -213,7 +225,13 @@
   <w>þetta</w>
   <w>lið</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="2b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Guðmundur</w>
   <c>.</c>
@@ -249,7 +267,13 @@
   <w>í</w>
   <w>kvöld</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="2c">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="11">
   <w>Guðmundur</w>
@@ -283,7 +307,7 @@
   </revision>
   <w>í</w>
   <w>3</w>
-
+  <c>-</c>
   <w>3</w>
   <w>jafntefli</w>
   <w>á</w>
@@ -293,7 +317,7 @@
   <w>sigurmarkið</w>
   <w>í</w>
   <w>2</w>
-
+  <c>-</c>
   <w>1</w>
   <w>sigri</w>
   <w>Keflavíkur</w>
@@ -334,7 +358,13 @@
   <w>eða</w>
   <w>ekki</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="3b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Guðmundur</w>
   <c>.</c>

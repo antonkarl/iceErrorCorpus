@@ -128,9 +128,15 @@
   <w>næstu</w>
   <w>helgi</w>
   <c>.</c>
-  <c>&quot;</c>
 </s>
 <s n="6">
+  <revision id="3b">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Ég</w>
   <w>kynntist</w>
   <w>Henry</w>
@@ -167,14 +173,26 @@
   <w>málum</w>
   <w>vegna</w>
   <w>slyssins</w>
-  <c>&quot;</c>
+  <revision id="3c">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>sagði</w>
   <w>Alguersuari</w>
   <c>.</c>
-  <c>&quot;</c>
 </s>
 <s n="8">
+  <revision id="3d">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Við</w>
   <w>sem</w>
   <w>ökumenn</w>
@@ -220,7 +238,13 @@
   <w>minningu</w>
   <w>Henrys</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="3e">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="10">
   <w>Henry</w>

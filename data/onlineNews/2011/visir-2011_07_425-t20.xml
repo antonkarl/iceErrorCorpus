@@ -58,7 +58,13 @@
   <w>eitt</w>
   <w>þeirra</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="1">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Jerry</w>
   <w>de</w>
@@ -109,7 +115,13 @@
   <w>til</w>
   <w>Coventry</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="2">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>bætti</w>
   <w>de</w>
   <w>Koning</w>
@@ -171,7 +183,13 @@
   <w>fyrir</w>
   <w>Aron</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="3">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>de</w>
   <w>Koning</w>
@@ -241,7 +259,13 @@
   <w>fyrir</w>
   <w>okkur</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="4">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>de</w>
   <w>Koning</w>

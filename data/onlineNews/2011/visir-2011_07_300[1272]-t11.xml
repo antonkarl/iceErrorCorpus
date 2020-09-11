@@ -154,7 +154,13 @@
   <w>né</w>
   <w>landbúnaðarmála</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="4b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="5">
   <c>(</c>
@@ -296,7 +302,13 @@
   <w>íslenska</w>
   <w>bændur</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="8b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Haraldur</w>
   <w>Benediktsson</w>
@@ -383,7 +395,13 @@
         <error xtype="dep" depId="11-1" eid="0" />
       </errors>
   </revision>
-  <c>&quot;</c>
+  <revision id="13b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Haraldur</w>
   <c>.</c>
@@ -407,7 +425,13 @@
   <w>eru</w>
   <w>óhagkvæm</w>
   <c>?</c>
-  <c>&quot;</c>
+  <revision id="13c">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="15">
   <w>Þau</w>
@@ -511,7 +535,13 @@
   <w>endilega</w>
   <w>óhagstæðastur</w>
   <c>?</c>
-  <c>&quot;</c>
+  <revision id="17b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="20">
   <w>Haraldur</w>
@@ -589,7 +619,13 @@
   <w>árar</w>
   <w>annarsstaðar</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="20b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Haraldur</w>
   <w>Benediktsson</w>

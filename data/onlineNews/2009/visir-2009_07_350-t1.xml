@@ -56,9 +56,15 @@
   <w>til</w>
   <w>forseta</w>
   <c>.</c>
-  <c>&quot;</c>
 </s>
 <s n="3">
+  <revision id="0">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Ég</w>
   <w>hef</w>
   <w>oft</w>
@@ -120,16 +126,28 @@
   <w>á</w>
   <w>lýðræðislegan</w>
   <w>hátt</w>
-  <c>&quot;</c>
+  <revision id="1b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>sagði</w>
   <w>Vatanen</w>
   <w>um</w>
   <w>málið</w>
   <c>.</c>
-  <c>&quot;</c>
 </s>
 <s n="6">
+  <revision id="1c">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Todt</w>
   <w>er</w>
   <w>einmitt</w>
@@ -175,7 +193,13 @@
   <w>er</w>
   <w>ekki</w>
   <w>lýðræði</w>
-  <c>&quot;</c>
+  <revision id="2b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>sagði</w>
   <w>Vatnanen</w>

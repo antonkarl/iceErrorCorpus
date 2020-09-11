@@ -49,7 +49,13 @@
   <w>á</w>
   <w>mánudaginn</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="0">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Agnar</w>
   <w>Bragi</w>
@@ -84,7 +90,13 @@
   <w>ekki</w>
   <w>leiðinlegt</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="0b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="5">
   <w>Agnar</w>
@@ -177,7 +189,13 @@
   <w>skora</w>
   <w>sigurmarkið</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="0c">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Agnar</w>
   <w>Bragi</w>
@@ -275,7 +293,13 @@
       </errors>
   </revision>
   <c>;</c>
-  <c>&quot;</c>
+  <revision id="6b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Agnar</w>
   <w>Bragi</w>

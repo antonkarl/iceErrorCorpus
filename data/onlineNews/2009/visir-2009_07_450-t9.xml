@@ -109,7 +109,13 @@
   <w>varðar</w>
   <w>hagsmunina</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="2b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Sigmundur</w>
   <w>Davíð</w>
@@ -278,7 +284,13 @@
   <w>að</w>
   <w>Evrópusambandinu</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="6b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Sigmundur</w>
   <w>Davíð</w>

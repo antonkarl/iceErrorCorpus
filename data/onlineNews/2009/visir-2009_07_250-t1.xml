@@ -58,7 +58,13 @@
   <w>í</w>
   <w>töflunni</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="0">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Ingimundur</w>
   <w>í</w>
@@ -117,7 +123,13 @@
   <w>við</w>
   <w>vel</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="1e">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="8">
   <w>Ingimundur</w>
@@ -183,7 +195,13 @@
   <w>öllu</w>
   <w>leyti</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="2b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 </p></body></text>
 </TEI>

@@ -3,7 +3,13 @@
 <teiHeader></teiHeader>
 <text><body><p n="1">
 <s n="1">
-  <c>&quot;</c>
+  <revision id="0">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Þessi</w>
   <w>lausn</w>
   <w>kom</w>
@@ -11,7 +17,13 @@
   <w>á</w>
   <w>óvart</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="0b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Hjálmar</w>
   <w>Árnason</w>
@@ -58,9 +70,15 @@
   <w>í</w>
   <w>gærkvöld</w>
   <c>.</c>
-  <c>&quot;</c>
 </s>
 <s n="3">
+  <revision id="0c">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Formaður</w>
   <w>flokksins</w>
   <w>hefur</w>
@@ -81,7 +99,13 @@
   <w>þessu</w>
   <w>máli</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="0d">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Hjálmar</w>
   <c>.</c>
@@ -103,9 +127,15 @@
   </revision>
   <w>niðurstöðuna</w>
   <c>.</c>
-  <c>&quot;</c>
 </s>
 <s n="5">
+  <revision id="1b">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Þingflokkurinn</w>
   <w>telur</w>
   <w>að</w>
@@ -131,7 +161,13 @@
   <w>verulegu</w>
   <w>varða</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="1c">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 </p></body></text>
 </TEI>

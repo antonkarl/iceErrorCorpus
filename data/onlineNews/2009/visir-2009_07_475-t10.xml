@@ -158,9 +158,15 @@
   <w>hjá</w>
   <w>liðinu</w>
   <c>.</c>
-  <c>&quot;</c>
 </s>
 <s n="7">
+  <revision id="2b">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Sigurinn</w>
   <w>er</w>
   <w>mjög</w>
@@ -246,7 +252,13 @@
   <w>handleiðslu</w>
   <w>Adrian</w>
   <w>Newey</w>
-  <c>&quot;</c>
+  <revision id="3b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>sagði</w>
   <w>Webber</w>

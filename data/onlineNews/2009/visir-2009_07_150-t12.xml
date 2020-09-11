@@ -29,7 +29,7 @@
   <w>framfæri</w>
   <w>eftir</w>
   <w>3</w>
-
+  <c>-</c>
   <w>1</w>
   <w>sigur</w>
   <w>liðsins</w>
@@ -78,7 +78,13 @@
   <w>á</w>
   <w>vellinum</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="2b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Kristján</w>
   <w>eftir</w>

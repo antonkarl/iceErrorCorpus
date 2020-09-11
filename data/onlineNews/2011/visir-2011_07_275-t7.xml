@@ -40,9 +40,15 @@
   <w>allan</w>
   <w>heim</w>
   <c>.</c>
-  <c>&quot;</c>
 </s>
 <s n="3">
+  <revision id="0">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Ætlunin</w>
   <w>er</w>
   <w>að</w>
@@ -66,7 +72,13 @@
   <w>allan</w>
   <w>heim</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="0b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Helgi</w>
   <w>Ingólfsson</w>
@@ -340,9 +352,15 @@
   <w>um</w>
   <w>heim</w>
   <c>.</c>
-  <c>&quot;</c>
 </s>
 <s n="16">
+  <revision id="3b">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Við</w>
   <w>erum</w>
   <w>ekkert</w>
@@ -366,7 +384,13 @@
   <w>þriggja</w>
   <w>ára</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="3c">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Helgi</w>
   <c>.</c>

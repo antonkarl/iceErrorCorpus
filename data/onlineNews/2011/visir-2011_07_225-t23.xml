@@ -41,7 +41,13 @@
   <w>að</w>
   <w>gjósa</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="1b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Óli</w>
   <w>Már</w>
@@ -205,7 +211,13 @@
   </revision>
   <w>hræðilegt</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="7b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="7">
   <w>Á</w>
@@ -289,7 +301,13 @@
   <w>sjá</w>
   <w>fjallið</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="7c">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Óli</w>
   <w>Már</w>
@@ -370,7 +388,13 @@
   <w>neitt</w>
   <w>gerst</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="9b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>hann</w>
   <w>að</w>

@@ -160,7 +160,13 @@
   <w>allan</w>
   <w>heim</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="2b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Helga</w>
   <w>Valfells</w>
@@ -231,7 +237,13 @@
   <w>þessu</w>
   <w>árferði</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="6b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="10">
   <w>Helga</w>
@@ -281,7 +293,13 @@
   <w>og</w>
   <w>Lowels</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="6c">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Helga</w>
   <c>.</c>
@@ -310,7 +328,13 @@
   <w>tilskyldum</w>
   <w>tíma</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="16d">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="13">
   <revision id="7">

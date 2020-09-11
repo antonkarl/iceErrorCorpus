@@ -72,7 +72,13 @@
   <w>fyrir</w>
   <w>og</w>
   <w>bless</w>
-  <c>&quot;</c>
+  <revision id="3b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>gamlar</w>
   <w>forsíður</w>

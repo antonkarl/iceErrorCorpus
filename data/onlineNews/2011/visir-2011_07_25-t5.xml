@@ -81,15 +81,15 @@
   <w>Robert</w>
   <w>Lindstedt</w>
   <w>6</w>
-
+  <c>-</c>
   <w>4</w>
   <c>,</c>
   <w>7</w>
-
+  <c>-</c>
   <w>6</w>
   <w>og</w>
   <w>7</w>
-
+  <c>-</c>
   <w>5</w>
   <c>.</c>
 </s>
@@ -128,7 +128,13 @@
   <w>leik</w>
   <w>okkar</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="1b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Lindstedt</w>
   <w>við</w>
@@ -194,7 +200,13 @@
   <w>sterkt</w>
   <w>teymi</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="3b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>bætti</w>
   <w>Lindstedt</w>
   <w>við</w>
@@ -216,7 +228,7 @@
   <w>Serbar</w>
   <w>leiða</w>
   <w>2</w>
-
+  <c>-</c>
   <w>1</w>
   <w>þegar</w>
   <w>tveimur</w>
@@ -241,7 +253,7 @@
   <w>Við</w>
   <w>erum</w>
   <w>2</w>
-
+  <c>-</c>
   <w>1</w>
   <w>yfir</w>
   <w>fyrir</w>
@@ -264,7 +276,13 @@
   <w>klára</w>
   <w>dæmið</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="3c">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Djokovic</w>
   <c>.</c>
@@ -275,7 +293,7 @@
   <w>út</w>
   <w>Kazakhstan</w>
   <w>5</w>
-
+  <c>-</c>
   <w>0</w>
   <w>í</w>
   <w>vikunni</w>
@@ -283,7 +301,7 @@
   <w>Frakkar</w>
   <w>eru</w>
   <w>3</w>
-
+  <c>-</c>
   <w>0</w>
   <w>yfir</w>
   <w>gegn</w>
@@ -299,7 +317,7 @@
   <w>eru</w>
   <w>Spánverjar</w>
   <w>2</w>
-
+  <c>-</c>
   <w>0</w>
   <w>yfir</w>
   <w>gegn</w>

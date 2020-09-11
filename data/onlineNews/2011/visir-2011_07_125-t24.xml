@@ -71,9 +71,15 @@
   <w>sem</w>
   <w>erfiði</w>
   <c>.</c>
-  <c>&quot;</c>
 </s>
 <s n="4">
+  <revision id="2b">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Þjálfarinn</w>
   <w>vill</w>
   <w>halda</w>
@@ -95,7 +101,13 @@
   <w>búningi</w>
   <w>félagsins</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="2c">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>umboðsmaður</w>
   <w>Motta</w>

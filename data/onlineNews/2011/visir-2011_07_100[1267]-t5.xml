@@ -127,7 +127,13 @@
   <w>íbúa</w>
   <w>bæjarins</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="2b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="5">
   <w>Að</w>
@@ -259,7 +265,13 @@
   <w>séu</w>
   <w>kynþáttafordómar</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="6b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Jónas</w>
   <w>Gestur</w>
@@ -317,7 +329,13 @@
       </errors>
   </revision>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="8b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Jónas</w>
   <w>Gestur</w>

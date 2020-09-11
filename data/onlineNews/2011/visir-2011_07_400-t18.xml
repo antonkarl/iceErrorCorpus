@@ -81,9 +81,15 @@
   <w>í</w>
   <w>niðurníðslu</w>
   <c>.</c>
-  <c>&quot;</c>
 </s>
 <s n="5">
+  <revision id="0">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Nú</w>
   <w>hefur</w>
   <w>húsið</w>
@@ -105,7 +111,13 @@
   <w>frábærum</w>
   <w>stað</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="1b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="6">
   <w>Hildigunnur</w>

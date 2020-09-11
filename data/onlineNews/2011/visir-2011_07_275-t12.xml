@@ -199,7 +199,13 @@
   <w>í</w>
   <w>gamla</w>
   <w>daga</w>
-  <c>&quot;</c>
+  <revision id="7b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Viktor</w>
   <w>og</w>

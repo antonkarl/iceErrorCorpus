@@ -85,7 +85,13 @@
   <w>í</w>
   <w>dag</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="1b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Hlynur</w>
   <w>Jónsson</w>
@@ -140,7 +146,13 @@
   <w>leysi</w>
   <w>málið</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="1c">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Ósvaldur</w>
   <w>Knudsen</w>

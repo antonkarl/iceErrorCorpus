@@ -159,7 +159,13 @@
   <w>næsta</w>
   <w>mánaðar</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="1b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Reynir</w>
   <w>Vignir</w>

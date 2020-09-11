@@ -64,7 +64,13 @@
   <w>og</w>
   <w>útrásarvíkingarnir</w>
   <c>?</c>
-  <c>&quot;</c>
+  <revision id="1b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="4">
   <revision id="2">
@@ -126,7 +132,13 @@
   <w>eignum</w>
   <w>Landsbankans</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="2b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Jón</w>
   <w>Daníelsson</w>
@@ -249,7 +261,13 @@
   <w>og</w>
   <w>hjálpfýsi</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="6b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Jón</w>
   <c>.</c>

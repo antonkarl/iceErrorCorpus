@@ -19,7 +19,13 @@
   <w>einn</w>
   <w>sigur</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="0">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Elísabet</w>
   <w>Gunnarsdóttir</w>
@@ -99,7 +105,13 @@
   <w>góð</w>
   <w>færi</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="2b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Elísabet</w>
   <w>en</w>
@@ -213,7 +225,13 @@
   <w>í</w>
   <w>fyrra</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="4b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Elísabet</w>
   <c>.</c>
@@ -337,7 +355,13 @@
   <w>inniheldur</w>
   <w>allt</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="6b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Elísabet</w>
   <c>.</c>
@@ -356,7 +380,13 @@
   <w>verið</w>
   <w>betra</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="6c">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="18">
   <w>Kristianstad</w>

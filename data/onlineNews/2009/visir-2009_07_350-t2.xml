@@ -35,7 +35,13 @@
   <w>kærkominn</w>
   <w>sigur</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="0">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Halldór</w>
   <w>Orri</w>
@@ -51,7 +57,7 @@
   <w>burstaði</w>
   <w>Þrótt</w>
   <w>5</w>
-
+  <c>-</c>
   <w>1</w>
   <w>á</w>
   <w>fimmtudag</w>
@@ -127,14 +133,20 @@
   <w>gegn</w>
   <w>Þrótti</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="0b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Halldór</w>
   <w>en</w>
   <w>Stjarnan</w>
   <w>vann</w>
   <w>6</w>
-
+  <c>-</c>
   <w>0</w>
   <w>sigur</w>
   <w>þegar</w>
@@ -190,7 +202,7 @@
   <w>þeim</w>
   <w>en</w>
   <w>11</w>
-
+  <c>-</c>
   <w>1</w>
   <w>í</w>
   <w>tveimur</w>
@@ -214,7 +226,7 @@
   <w>komast</w>
   <w>í</w>
   <w>3</w>
-
+  <c>-</c>
   <w>0</w>
   <c>.</c>
 </s>
@@ -236,7 +248,13 @@
   <w>seinni</w>
   <w>hálfleikinn</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="0c">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="11">
   <w>Mikið</w>
@@ -329,7 +347,13 @@
   <w>veðrið</w>
   <w>er</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="0d">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Halldór</w>
   <c>.</c>
@@ -413,7 +437,13 @@
   <w>í</w>
   <w>þessu</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="2b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Halldór</w>
   <w>Orri</w>

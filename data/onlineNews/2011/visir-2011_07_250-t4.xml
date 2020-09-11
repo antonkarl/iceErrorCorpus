@@ -256,7 +256,13 @@
   <w>samninganefndar</w>
   <w>Íslands</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="5b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Haraldur</w>
   <c>.</c>
@@ -268,9 +274,15 @@
   <w>með</w>
   <w>því</w>
   <c>?</c>
-  <c>&quot;</c>
 </s>
 <s n="11">
+  <revision id="5c">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Hvar</w>
   <w>fer</w>
   <w>fram</w>
@@ -288,7 +300,13 @@
   <w>á</w>
   <w>henni</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="5d">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="13">
   <w>Haraldur</w>
@@ -310,13 +328,25 @@
   <w>hann</w>
   <w>segir</w>
   <w>að</w>
-  <c>&quot;</c>
+  <revision id="5e">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>varnarlínurnar</w>
   <w>hafi</w>
   <w>ekki</w>
   <w>verið</w>
   <w>dregnar</w>
-  <c>&quot;</c>
+  <revision id="5f">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>þegar</w>
   <w>komi</w>
   <w>að</w>
@@ -449,8 +479,13 @@
   <w>og</w>
   <w>veru</w>
   <c>,</c>
-  <c>&quot;</c>
-  <w>segir</w>
+  <revision id="6b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>  <w>segir</w>
   <w>Haraldur</w>
   <c>.</c>
 </s>

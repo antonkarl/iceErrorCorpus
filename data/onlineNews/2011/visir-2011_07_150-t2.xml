@@ -65,9 +65,15 @@
   <w>til</w>
   <w>City</w>
   <c>.</c>
-  <c>&quot;</c>
 </s>
 <s n="5">
+  <revision id="1">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Ég</w>
   <w>var</w>
   <w>í</w>
@@ -91,13 +97,25 @@
   <w>ensku</w>
   <w>úrvalsdeildinni</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="2">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>Clichy</w>
   <c>.</c>
-  <c>&quot;</c>
 </s>
 <s n="7">
+  <revision id="3">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Ég</w>
   <w>hefði</w>
   <w>fengið</w>
@@ -137,7 +155,13 @@
   <w>ekki</w>
   <w>þannig</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="4">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 </p></body></text>
 </TEI>

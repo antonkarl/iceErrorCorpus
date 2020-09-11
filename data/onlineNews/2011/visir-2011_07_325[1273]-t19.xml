@@ -37,7 +37,13 @@
   <w>ábyrgð</w>
   <w>á</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="2b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Páll</w>
   <w>Reynisson</w>
@@ -217,7 +223,13 @@
   <w>í</w>
   <w>áfengismeðferð</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="4b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="10">
   <w>Þá</w>
@@ -272,7 +284,13 @@
   <w>og</w>
   <w>ánægju</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="6b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>í</w>
   <w>yfirlýsingunni</w>

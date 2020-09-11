@@ -170,7 +170,13 @@
   <w>barnið</w>
   <w>mitt</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="2b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>móðir</w>
   <w>stúlkunnar</w>
@@ -312,7 +318,13 @@
   <w>öllu</w>
   <w>hjarta</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="3b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>móðirin</w>
   <c>.</c>
@@ -520,7 +532,13 @@
   <w>sinni</w>
   <w>könnu</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="13b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>móðirin</w>
   <w>að</w>

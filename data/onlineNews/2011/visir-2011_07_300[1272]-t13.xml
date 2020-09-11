@@ -98,9 +98,15 @@
       </errors>
   </revision>
   <c>.</c>
-  <c>&quot;</c>
 </s>
 <s n="4">
+  <revision id="4b">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Það</w>
   <w>sem</w>
   <revision id="5">
@@ -170,7 +176,13 @@
   <w>á</w>
   <w>þessum</w>
   <w>svæðum</w>
-  <c>&quot;</c>
+  <revision id="9b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Svanfríður</w>
   <w>Jónasdóttir</w>
@@ -290,9 +302,15 @@
   <w>um</w>
   <w>verndar- og orkunýtingaráætlun</w>
   <c>.</c>
-  <c>&quot;</c>
 </s>
 <s n="7">
+  <revision id="16b">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <revision id="17">
     <original><w>Þannig</w><w>einhver</w><w>þessarra</w></original>
     <corrected><w>Einhver</w><w>þessara</w></corrected>
@@ -358,7 +376,13 @@
   </revision>
   <w>vernduð</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="22b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="8">
   <w>Efst</w>
@@ -458,9 +482,15 @@
   <w>hluta</w>
   <w>verndunarlistans</w>
   <c>.</c>
-  <c>&quot;</c>
 </s>
 <s n="13">
+  <revision id="23b">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <revision id="24">
     <original></original>
     <corrected><w>Með</w><w>þessarri</w><w>skýrslu</w><c>,</c><w>eða</w><w>þessarri</w><w>uppröðun</w><c>,</c><w>er</w></corrected>
@@ -536,7 +566,13 @@
       </errors>
   </revision>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="30b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 </p></body></text>
 </TEI>

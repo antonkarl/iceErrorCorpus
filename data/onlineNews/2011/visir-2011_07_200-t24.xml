@@ -814,7 +814,13 @@
       </errors>
   </revision>
   <c>:</c>
-  <c>&quot;</c>
+  <revision id="36b">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Bæjarstjórn</w>
   <w>Garðabæjar</w>
   <w>hefur</w>
@@ -919,7 +925,16 @@
   <w>leiða</w>
   <w>til</w>
   <w>þess</w>
-  <c>&quot;</c>
+  <c>.</c>
+  <revision id="37b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
+</s>
+<s n="26b">
   <w>Eitt</w>
   <w>af</w>
   <w>markmiðum</w>
@@ -946,7 +961,13 @@
   <w>að</w>
   <w>leiða</w>
   <w>lýðræðisferla</w>
-  <c>&quot;</c>
+  <revision id="38b">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Formaður</w>
   <w>skipulagsnefndar</w>
   <revision id="39">

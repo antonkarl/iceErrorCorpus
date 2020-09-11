@@ -217,8 +217,17 @@
   <w>mig</w>
   <w>og</w>
   <w>fyrirtæki</w>
-  <w>mín.</w>
-  <c>&quot;</c>
+  <w>mín</w>
+  <c>.</c>
+  <revision id="6b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
+</s>
+<s n="7b">
   <w>Þá</w>
   <w>segist</w>
   <w>Björgólfur</w>

@@ -64,7 +64,13 @@
   <w>fjármagna</w>
   <w>Vaðlaheiðargöng</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="0">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Kristján</w>
   <c>.</c>
@@ -121,7 +127,13 @@
   <w>þessari</w>
   <w>fjármögnun</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="2b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="6">
   <w>Sjálfur</w>
@@ -159,7 +171,13 @@
   <w>framkvæmdastjóri</w>
   <w>Stapa</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="2c">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="8">
   <w>Sigurður</w>
@@ -209,7 +227,13 @@
   <w>í</w>
   <w>fréttum</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="4b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="10">
   <w>Sveitarstjórnarmenn</w>
@@ -375,7 +399,13 @@
       </errors>
   </revision>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="6b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 <s n="16">
   <w>Hann</w>
@@ -414,7 +444,13 @@
   <w>er</w>
   <w>mikilvægast</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="6c">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Sigurður</w>
   <w>og</w>

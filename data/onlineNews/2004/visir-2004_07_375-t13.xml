@@ -3,7 +3,13 @@
 <teiHeader></teiHeader>
 <text><body><p n="1">
 <s n="1">
-  <c>&quot;</c>
+  <revision id="0">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Þetta</w>
   <w>er</w>
   <w>lausn</w>
@@ -27,7 +33,13 @@
   <w>til</w>
   <w>baka</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="0b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>Svanur</w>
   <w>Kristjánsson</w>
@@ -36,9 +48,15 @@
   <w>í</w>
   <w>stjórnmálafræði</w>
   <c>.</c>
-  <c>&quot;</c>
 </s>
 <s n="2">
+  <revision id="0c">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>Fyrst</w>
   <w>svo</w>
   <w>er</w>
@@ -199,7 +217,13 @@
   <w>hegða</w>
   <w>þjóðarakvæðagreiðslu</w>
   <c>.</c>
-  <c>&quot;</c>
+  <revision id="3b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
 </s>
 </p></body></text>
 </TEI>

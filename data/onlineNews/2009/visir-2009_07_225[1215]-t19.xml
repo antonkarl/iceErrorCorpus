@@ -142,7 +142,13 @@
   <w>nokkurs</w>
   <w>liðs</w>
   <c>,</c>
-  <c>&quot;</c>
+  <revision id="2">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>fulltrúi</w>
   <w>frá</w>
