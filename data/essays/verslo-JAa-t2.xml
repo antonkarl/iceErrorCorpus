@@ -33,6 +33,14 @@
   <w>landið</w>
   <w>okkar</w>
   <c>,</c>
+  <revision id="1a">
+    <original><w>ennþá</w></original>
+    <corrected><w>enn</w><w>þá</w></corrected>
+      <errors>
+        <error xtype="merged-words" idx="1a-1" eid="0" />
+        <error xtype="nonword" idx="1a-1" eid="0" />
+      </errors>
+  </revision>
   <w>ennþá</w>
   <c>.</c>
 </s><s n="3">
