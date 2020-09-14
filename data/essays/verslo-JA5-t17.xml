@@ -72,8 +72,22 @@
 </s><s n="4">
   <w>Í</w>
   <w>dag</w>
+  <revision id="1a">
+    <original></original>
+    <corrected><w>,</w></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
   <w>stúdentar</w>
   <w>góðir</w>
+  <revision id="1b">
+    <original></original>
+    <corrected><w>,</w></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
   <w>eruð</w>
   <w>þið</w>
   <w>komin</w>
@@ -539,7 +553,14 @@
   <w>ykkur</w>
   <w>innilega</w>
   <w>til</w>
-  <w>haminju</w>
+  <revision id="4a">
+    <original><w>haminju</w></original>
+    <corrected><w>hamingju</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="4a-1" eid="0" />
+        <error xtype="nonword" idx="4a-1" eid="0" />
+      </errors>
+  </revision>
   <w>með</w>
   <w>þennan</w>
   <w>merka</w>
@@ -752,6 +773,13 @@
   <c>.</c>
 </s><s n="35">
   <w>Tímamót</w>
+  <revision id="10a">
+    <original></original>
+    <corrected><w>.</w></corrected>
+      <errors>
+        <error xtype="missing-period" eid="0" />
+      </errors>
+  </revision>
   <w>Kæru</w>
   <w>stúdentar</w>
   <c>,</c>
