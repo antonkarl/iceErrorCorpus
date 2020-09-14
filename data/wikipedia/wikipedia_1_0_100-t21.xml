@@ -637,7 +637,8 @@
     <original><w>1 km</w></original>
     <corrected><w>kílómetra</w></corrected>
       <errors>
-        <error xtype="zzz" eid="0" />
+        <error xtype="extra-word" idx="42-1" eid="0" />
+        <error xtype="abbreviation4words" idx="42-1" eid="0" />
       </errors>
   </revision>
   <w>fjarlægð</w>

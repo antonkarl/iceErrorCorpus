@@ -21,11 +21,12 @@
   <w>um</w>
   <w>2</w>
   <w>milljónir</w>
+  <w>km</w>
   <revision id="1">
-    <original><w>km</w></original>
+    <original><w>2</w></original>
     <corrected><w><sup>2</sup></w></corrected>
       <errors>
-        <error xtype="zzz" eid="0"/>
+        <error xtype="nonsup4sup" eid="0"/>
       </errors>
   </revision>
   <c>(</c>
@@ -60,10 +61,10 @@
   <w>milljónir</w>
   <w>km</w>
   <revision id="3">
-    <original/>
+    <original><w>2</w></original>
     <corrected><w><sup>2</sup></w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="nonsup4sup" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -152,7 +153,7 @@
     <original><w>flæðibasaltatburði</w></original>
     <corrected><w>flæðibasaltburði</w></corrected>
       <errors>
-        <error xtype="zzz" eid="0"/>
+        <error xtype="wording" eid="0"/>
       </errors>
   </revision>
   <c>.</c>

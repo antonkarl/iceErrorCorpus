@@ -125,30 +125,6 @@
   <w>nokkur</w>
   <w>tími</w>
   <c>.</c>
-</s><s n="5">
-  <revision id="4">
-    <original><w>Danmörk</w></original>
-    <corrected><w>Danmörku</w><c>,</c></corrected>
-      <errors>
-        <error xtype="nominal-inflection" idx="14-1" eid="0"/>
-        <error xtype="dep" depId="13-1" eid="0"/>
-      </errors>
-  </revision>
-  <w>þá</w>
-  <w>er</w>
-  <w>menntaskólinn</w>
-  <w>þar</w>
-  <w>styttri</w>
-  <revision id="5">
-    <original/>
-    <corrected><w>heldur</w></corrected>
-      <errors>
-        <error xtype="missing-word" eid="0"/>
-      </errors>
-  </revision>
-  <w>en</w>
-  <w>hér</w>
-  <c>.</c>
 </s><s n="6">
   <w>Þar</w>
   <w>af</w>
@@ -421,14 +397,38 @@
   </revision>
   <w>okkar</w>
   <revision id="18">
-    <original><w>sbr</w></original>
-    <corrected><c>,</c><w>t.d</w></corrected>
+    <original><w>sbr.</w></original>
+    <corrected><c>,</c><w>t.d.</w></corrected>
       <errors>
         <error xtype="missing-commas" idx="13-1" eid="0"/>
-        <error xtype="zzzwording" idx="13-2" eid="0"/>
+        <error xtype="wording" idx="13-2" eid="0"/>
       </errors>
   </revision>
+  <s n="5">
+  <revision id="4">
+    <original><w>Danmörk</w></original>
+    <corrected><w>Danmörku</w><c>,</c></corrected>
+      <errors>
+        <error xtype="nominal-inflection" idx="14-1" eid="0"/>
+        <error xtype="dep" depId="13-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>þá</w>
+  <w>er</w>
+  <w>menntaskólinn</w>
+  <w>þar</w>
+  <w>styttri</w>
+  <revision id="5">
+    <original/>
+    <corrected><w>heldur</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
+  <w>en</w>
+  <w>hér</w>
   <c>.</c>
+</s>
 </s><s n="16">
   <w>Stytting</w>
   <w>veldur</w>

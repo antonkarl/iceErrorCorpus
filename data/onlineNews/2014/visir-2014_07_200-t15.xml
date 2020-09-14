@@ -366,9 +366,10 @@
   <w>á</w>
   <revision id="4">
     <original><w>Faecebook-síðu</w></original>
-    <corrected><w>Facebooks-síðu</w></corrected>
+    <corrected><w>Facebook-síðu</w></corrected>
       <errors>
-        <error xtype="zzz missing-letter" idx="4-1" eid="0" />
+        <error xtype="extra-letter" idx="4-1" eid="0" />
+        <error xtype="nonword" idx="4-1" eid="0" />
       </errors>
   </revision>
   <w>sinni</w>
