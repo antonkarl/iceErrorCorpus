@@ -702,7 +702,14 @@
   <w>stuðla</w>
   <w>að</w>
   <w>öflugra</w>
-  <w>efnahafskerfi</w>
+  <revision id="12a">
+    <original><w>efnahafskerfi</w></original>
+    <corrected><w>efnahagskerfi</w></corrected>
+      <errors>
+        <error xtype="letter-rep" idx="12a-1" eid="0" />
+        <error xtype="compound-nonword" idx="12a-1" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>frekari</w>
   <w>velferð</w>
