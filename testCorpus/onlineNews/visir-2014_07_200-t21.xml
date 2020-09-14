@@ -723,7 +723,8 @@
     <original><c>....</c></original>
     <corrected><w>voru</w><c>:</c></corrected>
       <errors>
-        <error xtype="zzz" eid="0" />
+        <error xtype="extra-punctuation" eid="0" />
+        <error xtype="missing-word" eid="0" />
         <error xtype="missing-colon" idx="29-2" eid="0" />
       </errors>
   </revision>
