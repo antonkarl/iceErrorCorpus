@@ -33,7 +33,14 @@
   <w>leiðir</w>
   <w>oft</w>
   <w>til</w>
-  <w>átáka</w>
+  <revision id="1a">
+    <original><w>átáka</w></original>
+    <corrected><w>átaka</w></corrected>
+      <errors>
+        <error xtype="extra-accent" idx="1a-1" eid="0" />
+        <error xtype="nonword" idx="1a-1" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="3">
   <w>En</w>
