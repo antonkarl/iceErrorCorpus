@@ -140,7 +140,13 @@
   <w>bjóða</w>
   <w>þér</w>
   <w>í</w>
-  <w>party</w>
+  <revision id="1a">
+    <original><w>party</w></original>
+    <corrected><w>partý</w></corrected>
+      <errors>
+        <error xtype="fw4ice" eid="0" />
+      </errors>
+  </revision>
   <w>í</w>
   <w>kvöld</w>
   <c>“</c>

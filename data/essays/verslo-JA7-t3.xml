@@ -180,7 +180,13 @@
   <w>ef</w>
   <w>til</w>
   <w>vill</w>
-  <w>fleiri</w>
+  <revision id="1a">
+    <original><w>fleiri</w></original>
+    <corrected><w>fleirum</w></corrected>
+      <errors>
+        <error xtype="adjective-inflection" eid="0" />
+      </errors>
+  </revision>
   <w>mun</w>
   <w>ég</w>
   <w>reyna</w>
@@ -287,7 +293,13 @@
       </errors>
   </revision>
   <w>þrautinni</w>
-  <w>þyngra</w>
+  <revision id="3a">
+    <original><w>þyngra</w></original>
+    <corrected><w>þyngri</w></corrected>
+      <errors>
+        <error xtype="adjective-inflection" eid="0" />
+      </errors>
+  </revision>
   <w>að</w>
   <w>ákveða</w>
   <w>hvað</w>

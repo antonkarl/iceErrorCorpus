@@ -12,7 +12,14 @@
   <w>andstæður</w>
   <w>sem</w>
   <w>hvergi</w>
-  <w>annarsstaðar</w>
+  <revision id="1a">
+    <original><w>annarsstaðar</w></original>
+    <corrected><w>annars</w><w>staðar</w></corrected>
+      <errors>
+        <error xtype="merged-words" idx="1a-1" eid="0" />
+        <error xtype="nonword" idx="1a-1" eid="0" />
+      </errors>
+  </revision>
   <w>eru</w>
   <w>sjáanlegar</w>
   <c>.</c>
@@ -251,7 +258,14 @@
   <w>virkjanir</w>
   <w>voru</w>
   <w>gerðar</w>
-  <w>víðsvegar</w>
+  <revision id="2a">
+    <original><w>víðsvegar</w></original>
+    <corrected><w>víðs</w><w>vegar</w></corrected>
+      <errors>
+        <error xtype="merged-words" idx="2a-1" eid="0" />
+        <error xtype="nonword" idx="2a-1" eid="0" />
+      </errors>
+  </revision>
   <w>um</w>
   <w>landið</w>
   <c>.</c>
@@ -886,7 +900,14 @@
   <w>sem</w>
   <w>settust</w>
   <w>að</w>
-  <w>víðsvegar</w>
+  <revision id="17a">
+    <original><w>víðsvegar</w></original>
+    <corrected><w>víðs</w><w>vegar</w></corrected>
+      <errors>
+        <error xtype="merged-words" idx="17a-1" eid="0" />
+        <error xtype="nonword" idx="17a-1" eid="0" />
+      </errors>
+  </revision>
   <w>um</w>
   <w>landið</w>
   <c>.</c>
@@ -1106,6 +1127,13 @@
   <w>okkar</w>
   <w>Íslendinga</w>
   <w>þó</w>
+  <revision id="27">
+    <original></original>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
   <w>fjármálaheimurinn</w>
   <w>ryðji</w>
   <w>sér</w>

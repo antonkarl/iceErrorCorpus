@@ -756,9 +756,21 @@
 </s><s n="22">
   <w>Fólk</w>
   <w>virðist</w>
-  <w>hinsvegar</w>
+  <revision id="10a">
+    <original><w>hinsvegar</w></original>
+    <corrected><w>hins</w><w>vegar</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>oft</w>
-  <w>á</w>
+  <revision id="10b">
+    <original><w>á</w></original>
+    <corrected><w>og</w></corrected>
+      <errors>
+        <error xtype="collocation" eid="0" />
+      </errors>
+  </revision>
   <w>tíðum</w>
   <w>vera</w>
   <w>mjög</w>
