@@ -114,6 +114,13 @@
 </s><s n="7">
   <w>Að</w>
   <w>leiðarlokum</w>
+  <revision id="2a">
+    <original></original>
+    <corrected><w>.</w></corrected>
+      <errors>
+        <error xtype="missing-period" eid="0" />
+      </errors>
+  </revision>
   <w>Allt</w>
   <w>á</w>
   <w>sér</w>
@@ -333,6 +340,13 @@
   <w>draumur</w>
   <w>og</w>
   <w>þó</w>
+  <revision id="7a">
+    <original></original>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
   <w>þeir</w>
   <w>séu</w>
   <w>alltaf</w>
@@ -536,7 +550,13 @@
   <w>og</w>
   <w>ef</w>
   <w>það</w>
-  <w>skorti</w>
+  <revision id="9a">
+    <original><w>skorti</w></original>
+    <corrected><w>skortir</w></corrected>
+      <errors>
+        <error xtype="verb-inflection" eid="0" />
+      </errors>
+  </revision>
   <w>ættu</w>
   <w>hinir</w>
   <w>verst</w>
@@ -979,6 +999,13 @@
   <w>ég</w>
   <w>unni</w>
   <w>þér</w>
+  <revision id="12a">
+    <original></original>
+    <corrected><w>.</w></corrected>
+      <errors>
+        <error xtype="missing-period" eid="0" />
+      </errors>
+  </revision>
   <w>Hvers</w>
   <w>virði</w>
   <w>væri</w>
@@ -1420,7 +1447,13 @@
   <w>Önnur</w>
   <w>tegund</w>
   <w>drauma</w>
-  <w>eru</w>
+  <revision id="16">
+    <original><w>eru</w></original>
+    <corrected><w>er</w></corrected>
+      <errors>
+        <error xtype="verb-inflection" eid="0" />
+      </errors>
+  </revision>
   <w>dagdraumar</w>
   <c>.</c>
 </s><s n="73">
@@ -1891,7 +1924,14 @@
   <w>verða</w>
   <w>að</w>
   <w>vinna</w>
-  <w>forvarnastarf</w>
+  <revision id="22a">
+    <original><w>forvarnastarf</w></original>
+    <corrected><w>forvarnarstarf</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="22a-1" eid="0" />
+        <error xtype="compound-nonword" idx="22a-1" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="95">
   <w>En</w>
@@ -1951,7 +1991,14 @@
   <w>móðinn</w>
   <w>og</w>
   <w>fátækir</w>
-  <w>sæu</w>
+  <revision id="22b">
+    <original><w>sæu</w></original>
+    <corrected><w>sæju</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="22b-1" eid="0" />
+        <error xtype="nonword" idx="22b-1" eid="0" />
+      </errors>
+  </revision>
   <w>ekki</w>
   <w>ljósið</w>
   <w>við</w>
@@ -2634,6 +2681,13 @@
   <c>.</c>
 </s><s n="124">
   <w>Lokaorð</w>
+  <revision id="36a">
+    <original></original>
+    <corrected><w>.</w></corrected>
+      <errors>
+        <error xtype="missing-period" eid="0" />
+      </errors>
+  </revision>
   <w>Allar</w>
   <w>leiðir</w>
   <w>hafa</w>
@@ -2707,7 +2761,13 @@
   <w>ekki</w>
   <w>hægt</w>
   <w>að</w>
-  <w>spurja</w>
+  <revision id="36b">
+    <original><w>spurja</w></original>
+    <corrected><w>spyrja</w></corrected>
+      <errors>
+        <error xtype="pronun-writing" eid="0" />
+      </errors>
+  </revision>
   <w>þannig</w>
   <w>þar</w>
   <w>sem</w>
