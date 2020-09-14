@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Þýski</w>
+  <w>sportbílaframleiðandinn</w>
+  <w>Porsche</w>
+  <w>hefur</w>
+  <w>fengið</w>
+  <w>það</w>
+  <w>hlutverk</w>
+  <w>að</w>
+  <w>smíða</w>
+  <w>vél</w>
+  <w>í</w>
+  <w>nýja</w>
+  <revision id="1">
+    <original><w>limósínu</w></original>
+    <corrected><w>limúsínu</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
+  <w>fyrir</w>
+  <w>Vladimir</w>
+  <w>Pútín</w>
+  <w>forseta</w>
+  <w>Rússlands</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Vélin</w>
+  <w>verður</w>
+  <w>í</w>
+  <w>nýjum</w>
+  <w>bíl</w>
+  <w>forsetans</w>
+  <w>sem</w>
+  <revision id="2">
+    <original><w>tilbúinn</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wording" idx="2-1" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>að</w>
+  <w>vera</w>
+  <revision id="3">
+    <original></original>
+    <corrected><w>tilbúinn</w></corrected>
+      <errors>
+        <error xtype="dep" depId="2-1" eid="0" />
+      </errors>
+  </revision>
+  <w>árið 2017</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <revision id="4">
+    <original><w>Vélin</w><w>er</w></original>
+    <corrected><w>Í</w><w>vélinni</w><w>verða</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>milli</w>
+  <w>6,0</w>
+  <w>og</w>
+  <w>6,6</w>
+  <w>lítrar</w>
+  <w>af</w>
+  <w>sprengirými</w>
+  <c>,</c>
+  <revision id="5">
+    <original><w>orkar</w></original>
+    <corrected><w>hún</w><w>mun</w><w>orka</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>um</w>
+  <w>800</w>
+  <w>hestöfl</w>
+  <w>og</w>
+  <w>verður</w>
+  <w>12</w>
+  <w>strokka</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Vélin</w>
+  <w>verður</w>
+  <w>búin</w>
+  <w>til</w>
+  <w>úr</w>
+  <w>rússneskum</w>
+  <w>íhlutum</w>
+  <c>,</c>
+  <w>enda</w>
+  <w>leyfir</w>
+  <w>stolt</w>
+  <w>Pútíns</w>
+  <w>ekkert</w>
+  <w>annað</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Þetta</w>
+  <w>verkefni</w>
+  <w>Pútíns</w>
+  <w>kallast</w>
+  <w>Motorcade</w>
+  <w>Project</w>
+  <revision id="6">
+    <original><w>og</w><w>felst</w></original>
+    <corrected><w>en</w></corrected>
+      <errors>
+        <error xtype="conjunction" eid="0" />
+        <error xtype="wording" idx="6-1" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <revision id="7">
+    <original></original>
+    <corrected><w>því</w><w>felst</w></corrected>
+      <errors>
+        <error xtype="dep" depId="6-1" eid="0" />
+      </errors>
+  </revision>
+  <w>smíði</w>
+  <w>fleiri</w>
+  <w>bíla</w>
+  <w>undir</w>
+  <w>rússneska</w>
+  <w>yfirmenn</w>
+  <c>,</c>
+  <w>þar</w>
+  <w>á</w>
+  <w>meðal</w>
+  <w>jeppa</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Allir</w>
+  <w>bílarnir</w>
+  <w>verða</w>
+  <w>fjórhjóladrifnir</w>
+  <w>og</w>
+  <w>mun</w>
+  <w>Porsche</w>
+  <w>einnig</w>
+  <w>sjá</w>
+  <w>um</w>
+  <w>fjórhjóladrifrás</w>
+  <w>bílanna</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>Verkefnið</w>
+  <w>mun</w>
+  <w>samkvæmt</w>
+  <w>óljósum</w>
+  <w>heimildum</w>
+  <w>kosta</w>
+  <w>150</w>
+  <c>-</c>
+  <revision id="8">
+    <original><w>400 milljón</w></original>
+    <corrected><w>400</w><w>milljónir</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
+  <w>dollara</w>
+  <w>eða</w>
+  <w>18</w>
+  <c>-</c>
+  <w>48 þúsund</w>
+  <w>milljónir</w>
+  <w>króna</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

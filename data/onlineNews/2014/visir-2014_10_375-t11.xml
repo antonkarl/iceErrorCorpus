@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Maður</w>
+  <w>var</w>
+  <w>handtekinn</w>
+  <w>á</w>
+  <w>skemmtistað</w>
+  <w>í</w>
+  <w>miðborg</w>
+  <w>Reykjavíkur</w>
+  <w>eftir</w>
+  <w>líkamsárás</w>
+  <w>um</w>
+  <w>klukkan hálf fjögur</w>
+  <w>í</w>
+  <w>nótt</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Sá</w>
+  <w>sem</w>
+  <revision id="1">
+    <original><w>ráðist</w></original>
+    <corrected><w>á</w></corrected>
+      <errors>
+        <error xtype="wording" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>var</w>
+  <revision id="2">
+    <original><w>á</w></original>
+    <corrected><w>ráðist</w></corrected>
+      <errors>
+        <error xtype="dep" depId="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>var</w>
+  <w>fluttur</w>
+  <w>með</w>
+  <w>sjúkrabifreið</w>
+  <w>á</w>
+  <w>slysadeild</w>
+  <w>en</w>
+  <w>meiðsli</w>
+  <revision id="3">
+    <original></original>
+    <corrected><w>hans</w><w>voru</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <w>ekki</w>
+  <w>talin</w>
+  <w>alvarleg</w>
+  <w>samkvæmt</w>
+  <w>upplýsingum</w>
+  <w>frá</w>
+  <w>lögreglu</w>
+  <revision id="4">
+    <original><w>en</w><w>árásarmaðurinn</w></original>
+    <corrected><c>.</c><w>Árásarmaðurinn</w></corrected>
+      <errors>
+        <error xtype="conjunction4period" eid="0" />
+      </errors>
+  </revision>
+  <w>var</w>
+  <w>vistaður</w>
+  <w>í</w>
+  <w>fangageymslu</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Þá</w>
+  <w>var</w>
+  <w>maður</w>
+  <w>staðinn</w>
+  <w>að</w>
+  <w>þjófnaði</w>
+  <w>á</w>
+  <w>áfengisflöskum</w>
+  <w>á</w>
+  <w>bar</w>
+  <w>í</w>
+  <w>miðborginni</w>
+  <w>og</w>
+  <w>var</w>
+  <w>málið</w>
+  <w>afgreitt</w>
+  <w>með</w>
+  <w>skýrslutöku</w>
+  <w>á</w>
+  <w>vettvangi</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <revision id="5">
+    <original><w>Uppúr</w><w>kvöldmat</w></original>
+    <corrected><w>Um</w><w>kvöldmatarleytið</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>gærkvöldi</w>
+  <w>var</w>
+  <w>tilkynnt</w>
+  <w>um</w>
+  <w>innbrot</w>
+  <w>á</w>
+  <w>heimili</w>
+  <w>í</w>
+  <w>Hafnarfirði</w>
+  <w>en</w>
+  <w>þar</w>
+  <revision id="6">
+    <original><w>höfðu</w></original>
+    <corrected><w>hafði</w></corrected>
+      <errors>
+        <error xtype="agreement-pred" eid="0" />
+      </errors>
+  </revision>
+  <w>rafmagnstækjum</w>
+  <w>verið</w>
+  <w>stolið</w>
+  <w>af</w>
+  <w>heimilinu</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Um</w>
+  <revision id="7">
+    <original><w>þrjú</w><w>leitið</w></original>
+    <corrected><w>þrjúleytið</w></corrected>
+      <errors>
+        <error xtype="compound-split" idx="7-1" eid="0" />
+        <error xtype="i4y" idx="7-1" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>nótt</w>
+  <w>var</w>
+  <w>ökumaður</w>
+  <w>stöðvaður</w>
+  <w>vegna</w>
+  <w>hraðaksturs</w>
+  <w>í</w>
+  <w>austurborginni</w>
+  <w>og</w>
+  <w>við</w>
+  <w>nánari</w>
+  <w>eftirgrennslan</w>
+  <w>kom</w>
+  <w>í</w>
+  <w>ljós</w>
+  <w>að</w>
+  <w>ökumaður</w>
+  <w>var</w>
+  <w>einnig</w>
+  <w>undir</w>
+  <w>áhrifum</w>
+  <w>áfengis</w>
+  <w>og</w>
+  <w>var</w>
+  <w>hann</w>
+  <w>látinn</w>
+  <w>laus</w>
+  <w>eftir</w>
+  <w>sýnatöku</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Annar</w>
+  <w>ökumaður</w>
+  <w>var</w>
+  <w>stöðvaður</w>
+  <w>um</w>
+  <revision id="8">
+    <original><w>klukkan hálf eitt</w></original>
+    <corrected><w>klukkan hálfeitt</w></corrected>
+      <errors>
+        <error xtype="compound-split" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <revision id="9">
+    <original><w>austurborginni</w></original>
+    <corrected><w>austurhluta</w><w>borgarinnar</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>vegna</w>
+  <w>gruns</w>
+  <w>um</w>
+  <w>akstur</w>
+  <w>undir</w>
+  <w>áhrifum</w>
+  <w>áfengis</w>
+  <w>og</w>
+  <w>annar</w>
+  <w>ökumaður</w>
+  <w>var</w>
+  <w>stöðvaður</w>
+  <w>í</w>
+  <revision id="10">
+    <original><w>vesturbænum</w></original>
+    <corrected><w>Vesturbænum</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
+  <w>vegna</w>
+  <w>gruns</w>
+  <w>um</w>
+  <w>akstur</w>
+  <w>undir</w>
+  <w>áhrifum</w>
+  <w>fíkniefna</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>Hann</w>
+  <w>var</w>
+  <w>laus</w>
+  <w>að</w>
+  <revision id="11">
+    <original><w>sýnatöku</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wording" idx="11-1" eid="0" />
+      </errors>
+  </revision>
+  <w>lokinni</w>
+  <revision id="12">
+    <original></original>
+    <corrected><w>sýnatöku</w></corrected>
+      <errors>
+        <error xtype="dep" depId="11-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

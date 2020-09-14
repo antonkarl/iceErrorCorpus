@@ -1,0 +1,4913 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>LDN</w>
+  <c>(</c>
+  <w>skammstöfun</w>
+  <w>á</w>
+  <w><i>Low</i></w>
+  <w><i>dose</i></w>
+  <w><i>naltrexone</i></w>
+  <c>)</c>
+  <w>er</w>
+  <w>heiti</w>
+  <w>á</w>
+  <w>lyfinu</w>
+  <w>naltrexón</w>
+  <w>sem</w>
+  <w>gefið</w>
+  <w>er</w>
+  <w>í</w>
+  <w>lágum</w>
+  <w>skömmtum</w>
+  <revision id="1">
+    <original><c>(</c></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="bracket4comma" eid="0" />
+      </errors>
+  </revision>
+  <w>allt</w>
+  <w>uppí</w>
+  <w>4,5 mg</w>
+  <revision id="2">
+    <original><c>)</c></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="bracket4comma" eid="0" />
+      </errors>
+  </revision>
+  <w>við</w>
+  <w>ýmsum</w>
+  <w>sjúkdómum</w>
+  <w>svo</w>
+  <w>sem</w>
+  <revision id="3">
+    <original><w>MS</w><w>sjúkdómi</w></original>
+    <corrected><w>MS-sjúkdómi</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>vefjagigt</w>
+  <c>,</c>
+  <w>ME</w>
+  <c>(</c>
+  <w><i>Mylgic</i></w>
+  <w><i>Encephalomyelitis</i></w>
+  <revision id="4">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>áður</w>
+  <w>kallað</w>
+  <revision id="5">
+    <original><w><i>síþreyta</i></w></original>
+    <corrected><w>síþreyta</w></corrected>
+      <errors>
+        <error xtype="it4nonit" eid="0" />
+      </errors>
+  </revision>
+  <c>)</c>
+  <c>,</c>
+  <revision id="6">
+    <original><w>Crohns</w><w>sjúkdómi</w></original>
+    <corrected><w>Crohns-sjúkdómi</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>HIV</w>
+  <w>og</w>
+  <w>fleiri</w>
+  <w>sjúkdómum</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Naltrexón</w>
+  <w>í</w>
+  <w>háskammti</w>
+  <c>(</c>
+  <w>50 mg</w>
+  <w>eða</w>
+  <w>meira</w>
+  <w>á</w>
+  <w>dag</w>
+  <c>)</c>
+  <w>er</w>
+  <w>vanalega</w>
+  <w>ávísað</w>
+  <w>við</w>
+  <w>meðferð</w>
+  <w>á</w>
+  <w>opíatafíkn</w>
+  <w>eða</w>
+  <revision id="7">
+    <original><w>alkahólisma</w></original>
+    <corrected><w>alkóhólisma</w></corrected>
+      <errors>
+        <error xtype="letter-rep" idx="7-1" eid="0" />
+        <error xtype="nonword" idx="7-1" eid="0" />
+      </errors>
+  </revision>
+  <w>þar</w>
+  <w>sem</w>
+  <w>það</w>
+  <w>er</w>
+  <w>öflugur</w>
+  <revision id="8">
+    <original><w>ópíatatablokki</w></original>
+    <corrected><w>ópíatablokki</w><c>,</c></corrected>
+      <errors>
+        <error xtype="extra-letters" idx="8-1" eid="0" />
+        <error xtype="compound-nonword" idx="8-1" eid="0" />
+        <error xtype="missing-comma" idx="8-2" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>þýðir</w>
+  <w>að</w>
+  <w>það</w>
+  <w>bindur</w>
+  <w>sig</w>
+  <w>við</w>
+  <w>ópíataviðtakana</w>
+  <w>í</w>
+  <w>frumunum</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Þessir</w>
+  <w>viðtakar</w>
+  <w>myndu</w>
+  <w>annars</w>
+  <w>binda</w>
+  <w>hin</w>
+  <w>náttúrulegu</w>
+  <w>verkjastillandi</w>
+  <w>efni</w>
+  <w>sem</w>
+  <w>líkaminn</w>
+  <w>framleiðir</w>
+  <w>svo</w>
+  <w>sem</w>
+  <w>endorfín</w>
+  <w>og</w>
+  <w>morfín</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Naltrexón</w>
+  <w>heldur</w>
+  <w>einnig</w>
+  <w>niðri</w>
+  <w>áhrifum</w>
+  <w>heróíns</w>
+  <w>sem</w>
+  <w>er</w>
+  <w>efnasamband</w>
+  <w>úr</w>
+  <w>morfíni</w>
+  <w>og</w>
+  <w>verkar</w>
+  <w>því</w>
+  <w>vel</w>
+  <w>til</w>
+  <w>að</w>
+  <w>draga</w>
+  <w>úr</w>
+  <w>ópíatafíkn</w>
+  <w>svo</w>
+  <w>sem</w>
+  <w>heróínfíkn</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Bandaríska</w>
+  <w>matvæla- og lyfjaeftirlitið</w>
+  <c>(</c>
+  <w>FDA</w>
+  <c>)</c>
+  <w>hefur</w>
+  <w>samþykkt</w>
+  <w>notkun</w>
+  <w>á</w>
+  <w>naltrexóni</w>
+  <w>í</w>
+  <w>háum</w>
+  <w>skömmtum</w>
+  <c>(</c>
+  <w>50 mg</w>
+  <c>)</c>
+  <w>við</w>
+  <w>ópíatafíkn</w>
+  <w>og</w>
+  <w>við</w>
+  <w>afvötnun</w>
+  <w>frá</w>
+  <w>öðrum</w>
+  <w>eiturlyfjum</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>LDN</w>
+  <w>er</w>
+  <w>hins</w>
+  <w>vegar</w>
+  <w>gefið</w>
+  <w>í</w>
+  <w>skömmtum</w>
+  <w>minni</w>
+  <w>en</w>
+  <w>5 mg</w>
+  <w>á</w>
+  <w>dag</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>Við</w>
+  <w>svo</w>
+  <w>lágan</w>
+  <w>skammt</w>
+  <revision id="9">
+    <original><w>blokkar</w></original>
+    <corrected><w>lokar</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>lyfið</w>
+  <revision id="10">
+    <original></original>
+    <corrected><w>á</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>dópamínviðtaka</w>
+  <w>líkamans</w>
+  <w>í</w>
+  <w>örfáa</w>
+  <w>klukkutíma</w>
+  <w>og</w>
+  <w>við</w>
+  <w>það</w>
+  <w>fjölgar</w>
+  <w>ópíataviðtökunum</w>
+  <w>í</w>
+  <w>frumunum</w>
+  <w>og</w>
+  <w>þeir</w>
+  <w>verða</w>
+  <w>næmari</w>
+  <c>.</c>
+</s>
+<s n="8">
+  <w>Endorfínframleiðsla</w>
+  <w>líkamans</w>
+  <w>eykst</w>
+  <w>en</w>
+  <w>endorfínið</w>
+  <w>hefur</w>
+  <w>verkjastillandi</w>
+  <w>áhrif</w>
+  <w>og</w>
+  <w>eykur</w>
+  <w>vellíðan</w>
+  <c>.</c>
+</s>
+<s n="9">
+  <w>Til</w>
+  <w>þess</w>
+  <w>að</w>
+  <w>ná</w>
+  <w>þessari</w>
+  <w>virkni</w>
+  <w>skiptir</w>
+  <w>máli</w>
+  <w>að</w>
+  <w>taka</w>
+  <w>inn</w>
+  <w>dagskammtinn</w>
+  <w>af</w>
+  <w>lyfinu</w>
+  <c>,</c>
+  <w>allan</w>
+  <w>í</w>
+  <w>einu</w>
+  <c>,</c>
+  <w>einu</w>
+  <w>sinni</w>
+  <w>á</w>
+  <w>dag</w>
+  <c>,</c>
+  <w>rétt</w>
+  <w>fyrir</w>
+  <w>svefn</w>
+  <c>.</c>
+</s>
+<s n="10">
+  <w>Efnið</w>
+  <w>brotnar</w>
+  <w>hratt</w>
+  <w>niður</w>
+  <w>og</w>
+  <w>skilur</w>
+  <w>sig</w>
+  <w>út</w>
+  <w>úr</w>
+  <w>líkamanum</w>
+  <w>á</w>
+  <w>þremur</w>
+  <w>til</w>
+  <w>fjórum</w>
+  <w>klukkustundum</w>
+  <c>.</c>
+</s>
+<s n="11">
+  <w>Á</w>
+  <w>meðan</w>
+  <w>lyfið</w>
+  <w>er</w>
+  <w>virkt</w>
+  <w>í</w>
+  <w>líkamanum</w>
+  <w>eykst</w>
+  <w>öll</w>
+  <w>virkni</w>
+  <w>dópamínviðtakana</w>
+  <c>,</c>
+  <w>þeim</w>
+  <w>fjölgar</w>
+  <c>,</c>
+  <w>endorfínframleiðslan</w>
+  <w>eykst</w>
+  <w>og</w>
+  <w>verkjastillandi</w>
+  <w>áhrif</w>
+  <w>og</w>
+  <w>vellíðan</w>
+  <w>samhliða</w>
+  <w>því</w>
+  <c>.</c>
+</s>
+<s n="12">
+  <w>Þó</w>
+  <w>að</w>
+  <w>lyfið</w>
+  <w>sjálft</w>
+  <w>skili</w>
+  <w>sér</w>
+  <w>hratt</w>
+  <w>út</w>
+  <w>úr</w>
+  <w>líkamanum</w>
+  <w>vara</w>
+  <w>áhrifin</w>
+  <w>allt</w>
+  <w>uppí</w>
+  <revision id="11">
+    <original><w>24.</w></original>
+    <corrected><w>24</w></corrected>
+      <errors>
+        <error xtype="extra-period" eid="0" />
+      </errors>
+  </revision>
+  <w>til</w>
+  <revision id="12">
+    <original><w>72.</w></original>
+    <corrected><w>72</w></corrected>
+      <errors>
+        <error xtype="extra-period" eid="0" />
+      </errors>
+  </revision>
+  <w>klukkustundir</w>
+  <w>og</w>
+  <w>auka</w>
+  <w>náttúrulega</w>
+  <w>ópíatavirkni</w>
+  <w>líkamans</w>
+  <w>um</w>
+  <w>100</w>
+  <c>-</c>
+  <w>300</w>
+  <w>prósent</w>
+  <c>.</c>
+</s>
+<s n="13">
+  <w>Fjöldi</w>
+  <w>óstaðfestra</w>
+  <w>skýrslna</w>
+  <w>hafa</w>
+  <w>verið</w>
+  <w>birtar</w>
+  <revision id="13">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>bæði</w>
+  <w>skrifaðar</w>
+  <w>af</w>
+  <w>sjúklingum</w>
+  <w>og</w>
+  <w>læknum</w>
+  <revision id="14">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>lýsa</w>
+  <w>bata</w>
+  <w>á</w>
+  <w>ýmsum</w>
+  <w>sjúkdómum</w>
+  <w>eftir</w>
+  <w>notkun</w>
+  <w>LDN</w>
+  <c>.</c>
+</s>
+<s n="14">
+  <w>Þó</w>
+  <w>að</w>
+  <w>klínískar</w>
+  <w>rannsóknir</w>
+  <w>séu</w>
+  <w>aðeins</w>
+  <w>aðgengilegar</w>
+  <w>við</w>
+  <w>fáum</w>
+  <w>þeirra</w>
+  <w>má</w>
+  <w>skýra</w>
+  <w>aukningu</w>
+  <w>slíkra</w>
+  <w>skýrslna</w>
+  <w>og</w>
+  <w>þess</w>
+  <w>að</w>
+  <w>læknar</w>
+  <w>ávísi</w>
+  <w>lyfinu</w>
+  <w>með</w>
+  <w>lágu</w>
+  <w>verði</w>
+  <w>lyfsins</w>
+  <w>og</w>
+  <w>þess</w>
+  <w>hve</w>
+  <w>öruggt</w>
+  <w>það</w>
+  <w>er</w>
+  <c>.</c>
+</s>
+<s n="15">
+  <w>Það</w>
+  <w>að</w>
+  <w>lyfið</w>
+  <w>sé</w>
+  <w>ódýrt</w>
+  <w>og</w>
+  <w>með</w>
+  <w>háan</w>
+  <w>öryggisstaðal</w>
+  <w>hefur</w>
+  <w>haft</w>
+  <w>hvetjandi</w>
+  <w>áhrif</w>
+  <w>á</w>
+  <w>að</w>
+  <w>læknar</w>
+  <w>leyfi</w>
+  <w>sjúklingum</w>
+  <w>sínum</w>
+  <w>að</w>
+  <w>prófa</w>
+  <w>lyfið</w>
+  <w>og</w>
+  <w>meta</w>
+  <w>sjálfir</w>
+  <w>hvort</w>
+  <w>það</w>
+  <w>hafi</w>
+  <w>góð</w>
+  <w>áhrif</w>
+  <w>á</w>
+  <w>sjúkdómsástand</w>
+  <w>þeirra</w>
+  <c>.</c>
+</s>
+<s n="16">
+  <w>Þá</w>
+  <w>er</w>
+  <w>sífellt</w>
+  <w>meiri</w>
+  <w>meðvitund</w>
+  <w>meðal</w>
+  <w>lækna</w>
+  <w>um</w>
+  <w>hve</w>
+  <w>stórt</w>
+  <w>hlutverk</w>
+  <w>ópíataviðtakar</w>
+  <w>heilans</w>
+  <w>og</w>
+  <w>endorfín</w>
+  <w>gegnir</w>
+  <w>í</w>
+  <w>meðhöndlun</w>
+  <w>á</w>
+  <w>sjúkdómum</w>
+  <w>sem</w>
+  <w>eiga</w>
+  <w>upptök</w>
+  <w>sín</w>
+  <w>í</w>
+  <w>ónæmiskerfinu</w>
+  <c>.</c>
+</s>
+<s n="17">
+  <w>Staðfest</w>
+  <w>er</w>
+  <w>að</w>
+  <w>LDN</w>
+  <w>er</w>
+  <w>notað</w>
+  <w>til</w>
+  <w>lækninga</w>
+  <w>á</w>
+  <w>víðtækum</w>
+  <w>kvillum</w>
+  <w>og</w>
+  <w>sjúkdómum</w>
+  <w>svo</w>
+  <w>sem</w>
+  <w>ofnæmi</w>
+  <c>,</c>
+  <w>ALS</w>
+  <c>,</c>
+  <w>gigt</w>
+  <c>,</c>
+  <revision id="15">
+    <original><w>Asperger</w><w>heilkenni</w></original>
+    <corrected><w>Asperger-heilkenni</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>einhverfu</w>
+  <c>,</c>
+  <w>krabbameini</w>
+  <c>,</c>
+  <revision id="16">
+    <original><w>Crohns</w><w>sjúkdómi</w></original>
+    <corrected><w>Crohns-sjúkdómi</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>ME</w>
+  <c>,</c>
+  <w>Hashimotos</w>
+  <c>,</c>
+  <w>lifrarbólgu</w>
+  <c>,</c>
+  <w>HIV</w>
+  <c>,</c>
+  <w>Lupus</w>
+  <c>(</c>
+  <revision id="17">
+    <original><w>í</w><c>.</c></original>
+    <corrected><w>ísl.</w></corrected>
+      <errors>
+        <error xtype="abbreviation" idx="17-1" eid="0" />
+        <error xtype="extra-space" idx="17-2" eid="0" />
+      </errors>
+  </revision>
+</s>
+<s n="18">
+  <w><i>Rauðir</i></w>
+  <w><i>úlfar</i></w>
+  <c>)</c>
+  <c>,</c>
+  <revision id="18">
+    <original><w>MS</w><w>sjúkdómnum</w></original>
+    <corrected><w>MS-sjúkdómnum</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>Parkinsons</w>
+  <w>og</w>
+  <w>Sarcoidosis</w>
+  <w>svo</w>
+  <w>eitthvað</w>
+  <w>sé</w>
+  <w>nefnt</w>
+  <c>.</c>
+</s>
+<s n="19">
+  <w>Aðeins</w>
+  <w>hluti</w>
+  <w>af</w>
+  <revision id="19">
+    <original><w>þessu</w></original>
+    <corrected><w>þessum</w><w>meðferðum</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>hefur</w>
+  <w>verið</w>
+  <revision id="20">
+    <original><w>rannsakað</w></original>
+    <corrected><w>rannsakaður</w></corrected>
+      <errors>
+        <error xtype="agreement-pred" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>fullu</w>
+  <w>og</w>
+  <w>niðurstöður</w>
+  <revision id="21">
+    <original><w>á</w><w>klínískum</w><w>rannsóknum</w><w>verið</w></original>
+    <corrected><w>klínískra</w><w>rannsókna</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>birtar</w>
+  <revision id="22">
+    <original><w>og</w><w>margar</w></original>
+    <corrected><c>.</c><w>Margar</w></corrected>
+      <errors>
+        <error xtype="conjunction4period" eid="0" />
+      </errors>
+  </revision>
+  <w>þeirra</w>
+  <w>benda</w>
+  <w>til</w>
+  <w>þess</w>
+  <w>að</w>
+  <w>enn</w>
+  <w>þurfi</w>
+  <w>að</w>
+  <w>gera</w>
+  <w>ítarlegri</w>
+  <w>rannsóknir</w>
+  <c>.</c>
+</s>
+<s n="20">
+  <w>Staðfestar</w>
+  <w>klínískar</w>
+  <w>rannsóknir</w>
+  <w>á</w>
+  <w>LDN</w>
+  <w>eru</w>
+  <w>fáar</w>
+  <w>en</w>
+  <w>um</w>
+  <w>þessar</w>
+  <w>mundir</w>
+  <w>eru</w>
+  <w>sífellt</w>
+  <w>fleiri</w>
+  <w>og</w>
+  <w>fleiri</w>
+  <w>litlar</w>
+  <w>rannsóknir</w>
+  <w>framkvæmdar</w>
+  <w>og</w>
+  <w>í</w>
+  <w>flestum</w>
+  <w>tilfellum</w>
+  <w>eru</w>
+  <w>niðurstöðurnar</w>
+  <w>jákvæðar</w>
+  <c>.</c>
+</s>
+<s n="21">
+  <w>Sumar</w>
+  <w>þessara</w>
+  <w>rannsókna</w>
+  <w>eru</w>
+  <w>forrannsóknir</w>
+  <w>sem</w>
+  <w>vísa</w>
+  <w>þá</w>
+  <w>áfram</w>
+  <w>í</w>
+  <w>mögulegar</w>
+  <revision id="23">
+    <original><w>framtíða</w><w>rannsóknir</w></original>
+    <corrected><w>framtíðarrannsóknir</w></corrected>
+      <errors>
+        <error xtype="split-compound" eid="0" />
+      </errors>
+  </revision>
+  <w>eða</w>
+  <revision id="24">
+    <original><w>að</w><w>það</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-words" eid="0" />
+      </errors>
+  </revision>
+  <w>er</w>
+  <w>nú</w>
+  <w>þegar</w>
+  <w>verið</w>
+  <w>að</w>
+  <w>rannsaka</w>
+  <w>meira</w>
+  <c>.</c>
+</s>
+<s n="22">
+  <w>Þó</w>
+  <w>eru</w>
+  <w>nokkrar</w>
+  <w>rannsóknir</w>
+  <w>sem</w>
+  <w>hafa</w>
+  <revision id="25">
+    <original><w>farið</w></original>
+    <corrected><w>náð</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>yfir</w>
+  <w>forrannsóknastigið</w>
+  <w>og</w>
+  <w>innihalda</w>
+  <w>skýrari</w>
+  <w>rök</w>
+  <w>fyrir</w>
+  <w>jákvæðum</w>
+  <w>niðurstöðum</w>
+  <c>.</c>
+</s>
+<s n="23">
+  <w>Þar</w>
+  <w>sem</w>
+  <w>einkaleyfi</w>
+  <w>á</w>
+  <w>lyfinu</w>
+  <w>naltrexón</w>
+  <w>er</w>
+  <w>útrunnið</w>
+  <w>og</w>
+  <w>lyfið</w>
+  <w>ódýrt</w>
+  <revision id="26">
+    <original><w>og</w></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="conjunction4comma" eid="0" />
+      </errors>
+  </revision>
+  <w>öruggt</w>
+  <w>og</w>
+  <w>nú</w>
+  <w>þegar</w>
+  <w>samþykkt</w>
+  <w>af</w>
+  <revision id="27">
+    <original><w>Bandaríska</w></original>
+    <corrected><w>bandaríska</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
+  <w>matvæla- og lyfjaeftirlitinu</w>
+  <w>FDA</w>
+  <w>í</w>
+  <w>50 mg</w>
+  <w>skömmtum</w>
+  <w>hefur</w>
+  <w>verið</w>
+  <w>erfitt</w>
+  <w>að</w>
+  <w>fjármagna</w>
+  <w>stórar</w>
+  <w>rannsóknir</w>
+  <w>á</w>
+  <w>LDN</w>
+  <c>.</c>
+</s>
+<s n="24">
+  <w>Tvíblind</w>
+  <w>rannsókn</w>
+  <w>var</w>
+  <w>gerð</w>
+  <w>þar</w>
+  <w>sem</w>
+  <w>stuðst</w>
+  <w>var</w>
+  <w>við</w>
+  <w>lyfleysu</w>
+  <w>og</w>
+  <revision id="28">
+    <original><w>þáttakendur</w></original>
+    <corrected><w>þátttakendur</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="28-1" eid="0" />
+        <error xtype="nonword" idx="28-1" eid="0" />
+      </errors>
+  </revision>
+  <w>voru</w>
+  <w>40</w>
+  <w>fullorðnir</w>
+  <w>einstaklingar</w>
+  <w>með</w>
+  <w>virkan</w>
+  <revision id="29">
+    <original><w>Crohns</w><w>sjúkdóm</w></original>
+    <corrected><w>Crohns-sjúkdóm</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="25">
+  <w>Niðurstaðan</w>
+  <w>leiddi</w>
+  <w>í</w>
+  <w>ljós</w>
+  <w>að</w>
+  <w>80%</w>
+  <w>þeirra</w>
+  <w>sem</w>
+  <w>gefið</w>
+  <w>var</w>
+  <w>LDN</w>
+  <w>í</w>
+  <w>stað</w>
+  <w>lyfleysu</w>
+  <w>höfðu</w>
+  <w>að</w>
+  <revision id="30">
+    <original><w>minsta</w></original>
+    <corrected><w>minnsta</w></corrected>
+      <errors>
+        <error xtype="n4nn" idx="30-1" eid="0" />
+        <error xtype="nonword" idx="30-1" eid="0" />
+      </errors>
+  </revision>
+  <w>kosti</w>
+  <w>70</w>
+  <c>-</c>
+  <w>punkta</w>
+  <revision id="31">
+    <original><w>minkun</w></original>
+    <corrected><w>minnkun</w></corrected>
+      <errors>
+        <error xtype="n4nn" idx="31-1" eid="0" />
+        <error xtype="nonword" idx="31-1" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <revision id="32">
+    <original><w>CDAI</w><w>skori</w></original>
+    <corrected><w>CDAI-skori</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>miðað</w>
+  <w>við</w>
+  <w>40%</w>
+  <w>af</w>
+  <w>þeim</w>
+  <w>sem</w>
+  <w>tóku</w>
+  <w>lyfleysu</w>
+  <c>(</c>
+  <w>p</w>
+  <c>=</c>
+  <w>0.009</w>
+  <c>)</c>
+  <c>.</c>
+</s>
+<s n="26">
+  <w>Eftir</w>
+  <w>12</w>
+  <w>vikur</w>
+  <w>sýndu</w>
+  <w>78%</w>
+  <w>þeirra</w>
+  <w>sem</w>
+  <w>meðhöndlaðir</w>
+  <revision id="33">
+    <original><w>vour</w></original>
+    <corrected><w>voru</w></corrected>
+      <errors>
+        <error xtype="swapped-letters" idx="33-1" eid="0" />
+        <error xtype="nonword" idx="33-1" eid="0" />
+      </errors>
+  </revision>
+  <w>með</w>
+  <revision id="34">
+    <original><w>LDN</w><w>breytingu</w></original>
+    <corrected><w>LDN-breytingu</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>slímhúð</w>
+  <w>sem</w>
+  <w>kom</w>
+  <w>fram</w>
+  <w>í</w>
+  <w>5</w>
+  <c>-</c>
+  <w>punkta</w>
+  <revision id="35">
+    <original><w>minkun</w></original>
+    <corrected><w>minnkun</w></corrected>
+      <errors>
+        <error xtype="n4nn" idx="35-1" eid="0" />
+        <error xtype="nonword" idx="35-1" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <revision id="36">
+    <original><w>Crohns</w><w>alvarleika</w><w>skalanum</w></original>
+    <corrected><w>Crohns-alvarleikaskalanum</w></corrected>
+      <errors>
+        <error xtype="missing-dash" idx="36-1" eid="0" />
+        <error xtype="split-compound" idx="36-2" eid="0" />
+      </errors>
+  </revision>
+  <c>(</c>
+  <w>CDEIS</w>
+  <c>)</c>
+  <w>miðað</w>
+  <w>við</w>
+  <w>28%</w>
+  <w>viðbragða</w>
+  <w>hjá</w>
+  <w>hópnum</w>
+  <w>sem</w>
+  <w>fékk</w>
+  <w>lyfleysu</w>
+  <c>(</c>
+  <w>p</w>
+  <c>=</c>
+  <w>0.008</w>
+  <c>)</c>
+  <w>og</w>
+  <w>33%</w>
+  <w>náðu</w>
+  <w>því</w>
+  <w>bata</w>
+  <w>samkvæmt</w>
+  <revision id="37">
+    <original><w>CDEIS</w><w>skorum</w></original>
+    <corrected><w>CDEIS-skorum</w></corrected>
+      <errors>
+        <error xtype="missing-dash" idx="37-1" eid="0" />
+      </errors>
+  </revision>
+  <c>&lt;</c>
+  <w>6</w>
+  <w>en</w>
+  <w>aðeins</w>
+  <w>8%</w>
+  <w>þeirra</w>
+  <w>sem</w>
+  <w>fengu</w>
+  <w>lyfleysu</w>
+  <w>sýndu</w>
+  <w>sömu</w>
+  <w>breytingu</w>
+  <c>.</c>
+</s>
+<s n="27">
+  <c>„</c>
+  <revision id="38">
+    <original><w>Þessi</w><w>rannsókn</w><w>kemst</w><w>að</w><w>þeirri</w><w>niðurstöðu</w></original>
+    <corrected><w>Niðurstaða</w><w>þessarar</w><w>rannsóknar</w><w>er</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>Naltrexón</w>
+  <w>bætir</w>
+  <w>ástand</w>
+  <w>og</w>
+  <revision id="39">
+    <original><w>bólgu</w><w>virkni</w></original>
+    <corrected><w>bólguvirkni</w></corrected>
+      <errors>
+        <error xtype="split-compound" eid="0" />
+      </errors>
+  </revision>
+  <w>einstaklinga</w>
+  <w>með</w>
+  <w>miðlungs</w>
+  <w>til</w>
+  <w>alvarlegan</w>
+  <revision id="40">
+    <original><w>Crohns</w><w>sjúkdóm</w></original>
+    <corrected><w>Crohns-sjúkdóm</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>samanborið</w>
+  <w>við</w>
+  <w>hópinn</w>
+  <w>sem</w>
+  <w>fékk</w>
+  <w>lyfleysuna</w>
+  <c>.</c>
+  <c>“</c>
+</s>
+<s n="28">
+  <w>Meðferð</w>
+  <w>sem</w>
+  <w>felur</w>
+  <w>í</w>
+  <w>sér</w>
+  <w>áhrif</w>
+  <w>á</w>
+  <w>ópíataviðtakana</w>
+  <w>lofar</w>
+  <w>því</w>
+  <w>góðu</w>
+  <w>í</w>
+  <w>meðferð</w>
+  <w>við</w>
+  <revision id="41">
+    <original><w>Crohns</w><w>sjúkdómnum</w></original>
+    <corrected><w>Crohns-sjúkdómnum</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="29">
+  <w>Þá</w>
+  <w>var</w>
+  <w>gerð</w>
+  <w>sambærileg</w>
+  <w>frumrannsókn</w>
+  <w>við</w>
+  <w><i>Penn</i></w>
+  <w><i>State</i></w>
+  <w><i>College</i></w>
+  <w><i>of</i></w>
+  <w><i>Medicine</i></w>
+  <w>til</w>
+  <w>að</w>
+  <w>meta</w>
+  <w>öryggi</w>
+  <w>og</w>
+  <w>þol</w>
+  <w>barna</w>
+  <w>með</w>
+  <w>miðlungs</w>
+  <w>til</w>
+  <w>alvarlegan</w>
+  <revision id="42">
+    <original><w>Chrons</w><w>sjúkdóm</w></original>
+    <corrected><w>Chrons-sjúkdóm</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>LDN</w>
+  <c>.</c>
+</s>
+<s n="30">
+  <w>Rannsókn</w>
+  <w>var</w>
+  <w>gerð</w>
+  <w>á</w>
+  <w>14</w>
+  <w>einstaklingum</w>
+  <w>þar</w>
+  <w>sem</w>
+  <w>einnig</w>
+  <w>var</w>
+  <w>notast</w>
+  <w>við</w>
+  <w>lyfleysu</w>
+  <revision id="43">
+    <original><w>og</w><w>tók</w></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="conjunction4comma" idx="43-1" eid="0" />
+        <error xtype="wording" idx="43-2" eid="0" />
+      </errors>
+  </revision>
+  <w>rannsóknin</w>
+  <revision id="44">
+    <original></original>
+    <corrected><w>tók</w></corrected>
+      <errors>
+        <error xtype="dep" depId="43-2" eid="0" />
+      </errors>
+  </revision>
+  <w>8</w>
+  <w>vikur</w>
+  <w>og</w>
+  <w>svo</w>
+  <w>aðrar</w>
+  <w>8</w>
+  <w>vikur</w>
+  <w>í</w>
+  <w>svokallaðri</w>
+  <w><i>open</i></w>
+  <w><i>lable</i></w>
+  <w><i>treatment</i></w>
+  <w>þar</w>
+  <w>sem</w>
+  <w>sjúklingar</w>
+  <w>vissu</w>
+  <w>hvaða</w>
+  <w>lyf</w>
+  <w>þeir</w>
+  <w>voru</w>
+  <w>að</w>
+  <w>taka</w>
+  <c>.</c>
+</s>
+<s n="31">
+  <w>Rannsóknin</w>
+  <w>gaf</w>
+  <w>til</w>
+  <w>kynna</w>
+  <w>að</w>
+  <revision id="45">
+    <original><c>"</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-quots" eid="0" />
+      </errors>
+  </revision>
+  <w>PCDAI</w>
+  <w>skorið</w>
+  <w>drógst</w>
+  <w>verulega</w>
+  <w>saman</w>
+  <w>og</w>
+  <w>lækkuðu</w>
+  <w>gildin</w>
+  <w>úr</w>
+  <c>(</c>
+  <w>34.2</w>
+  <c>±</c>
+  <w>3.3</w>
+  <c>)</c>
+  <w>í</w>
+  <c>(</c>
+  <w>21.7</w>
+  <c>±</c>
+  <w>3.9</w>
+  <c>)</c>
+  <c>(</c>
+  <w>P</w>
+  <c>=</c>
+  <w>0.005</w>
+  <c>)</c>
+  <w>eftir</w>
+  <w>8</w>
+  <w>vikna</w>
+  <revision id="46">
+    <original><w>LDN</w><w>meðferð</w></original>
+    <corrected><w>LDN-meðferð</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="32">
+  <w>25%</w>
+  <w>þeirra</w>
+  <w>sem</w>
+  <w>var</w>
+  <w>gefið</w>
+  <w>LDN</w>
+  <w>voru</w>
+  <w>komnir</w>
+  <w>í</w>
+  <w>sjúkdómshlé</w>
+  <c>(</c>
+  <w>með</w>
+  <w>skor</w>
+  <w>≤</w>
+  <w>10</w>
+  <c>)</c>
+  <w>og</w>
+  <w>67%</w>
+  <w>hafði</w>
+  <w>batnað</w>
+  <w>og</w>
+  <w>voru</w>
+  <w>með</w>
+  <w>milda</w>
+  <w>útgáfu</w>
+  <w>af</w>
+  <w>sjúkdómnum</w>
+  <c>(</c>
+  <revision id="47">
+    <original></original>
+    <corrected><w>þ.e.</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <w>minnkun</w>
+  <w>á</w>
+  <w>PCDAI</w>
+  <w>skalanum</w>
+  <w>um</w>
+  <revision id="48">
+    <original><w>a</w><c>.</c><w>m.</w><w>k</w></original>
+    <corrected><w>a.m.k.</w></corrected>
+      <errors>
+        <error xtype="extra-space" eid="0" />
+      </errors>
+  </revision>
+  <w>10</w>
+  <w>punkta</w>
+  <c>)</c>
+  <w>við</w>
+  <w>lok</w>
+  <w>rannsóknarinnar</w>
+  <c>.</c>
+</s>
+<s n="33">
+  <w>Almenn</w>
+  <w>og</w>
+  <w>félagsleg</w>
+  <w>lífsgæði</w>
+  <w>bötnuðu</w>
+  <w>með</w>
+  <revision id="49">
+    <original><w>Naltrexón</w><w>meðferð</w></original>
+    <corrected><w>Naltrexón-meðferð</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <c>(</c>
+  <w>P</w>
+  <c>=</c>
+  <w>0,035</w>
+  <c>)</c>
+  <c>.</c>
+</s>
+<s n="34">
+  <c>„</c>
+  <w>Niðurstaða</w>
+  <w>rannsóknarinnar</w>
+  <w>var</w>
+  <w>því</w>
+  <w>að</w>
+  <revision id="50">
+    <original><w>Naltrexón</w><w>meðferð</w></original>
+    <corrected><w>Naltrexón-meðferð</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>virtist</w>
+  <w>örugg</w>
+  <w>og</w>
+  <w>með</w>
+  <w>takmörkuðum</w>
+  <w>eituráhrifum</w>
+  <w>þegar</w>
+  <w>börnum</w>
+  <w>með</w>
+  <revision id="51">
+    <original><w>Crohns</w><w>sjúkdóm</w></original>
+    <corrected><w>Crohns-sjúkdóm</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>er</w>
+  <w>gefið</w>
+  <w>lyfið</w>
+  <w>og</w>
+  <w>getur</w>
+  <w>það</w>
+  <w>haldið</w>
+  <w>sjúkdómnum</w>
+  <w>niðri</w>
+  <c>.</c>
+  <c>“</c>
+</s>
+<s n="35">
+  <revision id="52">
+    <original><w>Í</w><w>tvíblindri</w></original>
+    <corrected><w>Tvíblind</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>samanburðarrannsókn</w>
+  <w>með</w>
+  <w>lyfleysu</w>
+  <c>,</c>
+  <w>þar</w>
+  <w>sem</w>
+  <w>notast</w>
+  <w>var</w>
+  <w>við</w>
+  <w>slembiúrtak</w>
+  <w>á</w>
+  <w>31</w>
+  <revision id="53">
+    <original><w>konum</w></original>
+    <corrected><w>konu</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
+  <w>með</w>
+  <w>vefjagigt</w>
+  <revision id="54">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>gaf</w>
+  <w>til</w>
+  <w>kynna</w>
+  <c>„</c>
+  <w>verulega</w>
+  <w>minnkun</w>
+  <w>á</w>
+  <w>verkjum</w>
+  <w>hjá</w>
+  <w>þeim</w>
+  <w>hópi</w>
+  <w>sem</w>
+  <w>fékk</w>
+  <revision id="55">
+    <original><w>Lág</w><w>skammta</w></original>
+    <corrected><w>lágskammta</w></corrected>
+      <errors>
+        <error xtype="split-compound" eid="0" />
+      </errors>
+  </revision>
+  <w>naltrexón</w>
+  <w>miðað</w>
+  <w>við</w>
+  <w>þá</w>
+  <w>sem</w>
+  <w>fengu</w>
+  <w>lyfleysu</w>
+  <revision id="56">
+    <original><c>.</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-period" eid="0" />
+      </errors>
+  </revision>
+  <c>(</c>
+  <w>28.8%</w>
+  <revision id="57">
+    <original><w>minkun</w><w>versus</w></original>
+    <corrected><w>minnkun</w><w>á</w><w>móti</w></corrected>
+      <errors>
+        <error xtype="n4nn" idx="57-1" eid="0" />
+        <error xtype="fw4ice" idx="57-2" eid="0" />
+      </errors>
+  </revision>
+  <w>18.0%</w>
+  <w>minkun</w>
+  <c>;</c>
+  <w>P</w>
+  <c>=</c>
+  <w>0.016</w>
+  <c>)</c>
+  <c>.</c>
+</s>
+<s n="36">
+  <w>LDN</w>
+  <w>var</w>
+  <w>einnig</w>
+  <w>tengt</w>
+  <w>við</w>
+  <w>bætta</w>
+  <w>almenna</w>
+  <w>líðan</w>
+  <c>(</c>
+  <w>P</w>
+  <c>=</c>
+  <w>0.045</w>
+  <c>)</c>
+  <w>og</w>
+  <revision id="58">
+    <original><w>við</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
+  <w>bætt</w>
+  <w>lundarfar</w>
+  <c>(</c>
+  <w>P</w>
+  <c>=</c>
+  <w>0.039</w>
+  <c>)</c>
+  <c>,</c>
+  <w>en</w>
+  <w>bætti</w>
+  <w>ekki</w>
+  <w>síþreytu</w>
+  <revision id="59">
+    <original><w>eða</w></original>
+    <corrected><w>né</w></corrected>
+      <errors>
+        <error xtype="collocation" eid="0" />
+      </errors>
+  </revision>
+  <w>svefn</w>
+  <c>.</c>
+</s>
+<s n="37">
+  <w>Þrjátíu</w>
+  <w>og</w>
+  <w>tvö</w>
+  <w>prósent</w>
+  <w>af</w>
+  <revision id="60">
+    <original><w>þáttakendum</w></original>
+    <corrected><w>þátttakendum</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="106-1" eid="0" />
+        <error xtype="nonword" idx="106-1" eid="0" />
+      </errors>
+  </revision>
+  <w>rannsóknarinnar</w>
+  <w>stóðust</w>
+  <w>viðmið</w>
+  <w>hópsins</w>
+  <w>sem</w>
+  <revision id="61">
+    <original><c>“</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
+  <w>sýndi</w>
+  <w>viðbrögð</w>
+  <w>við</w>
+  <w>lyfinu</w>
+  <c>“</c>
+  <c>(</c>
+  <w>skilgreint</w>
+  <w>sem</w>
+  <w>að</w>
+  <w>verulega</w>
+  <w>hafi</w>
+  <w>dregið</w>
+  <w>úr</w>
+  <w>verkjum</w>
+  <w>auk</w>
+  <w>þess</w>
+  <w>sem</w>
+  <w>verulega</w>
+  <w>hafi</w>
+  <w>dregið</w>
+  <w>úr</w>
+  <revision id="62">
+    <original><w>annað</w><w>hvort</w></original>
+    <corrected><w>annaðhvort</w></corrected>
+      <errors>
+        <error xtype="split-compound" eid="0" />
+      </errors>
+  </revision>
+  <w>síþreytueinkennum</w>
+  <w>eða</w>
+  <w>svefntruflunum</w>
+  <c>)</c>
+  <w>meðan</w>
+  <w>á</w>
+  <revision id="63">
+    <original><w>LDN</w><w>meðferð</w></original>
+    <corrected><w>LDN-meðferð</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>stóð</w>
+  <w>miðað</w>
+  <w>við</w>
+  <w>11%</w>
+  <w>viðbrögð</w>
+  <w>hjá</w>
+  <w>lyfleysuhópnum</w>
+  <c>(</c>
+  <w>P</w>
+  <c>=</c>
+  <w>0.05</w>
+  <c>)</c>
+  <c>.</c>
+</s>
+<s n="38">
+  <w>LDN</w>
+  <w>var</w>
+  <w>gefin</w>
+  <w>sú</w>
+  <w>einkunn</w>
+  <w>að</w>
+  <w>vera</w>
+  <w>jafn</w>
+  <w>þolanlegt</w>
+  <w>og</w>
+  <w>lyfleysan</w>
+  <w>og</w>
+  <w>engar</w>
+  <w>alvarlegar</w>
+  <w>aukaverkanir</w>
+  <w>voru</w>
+  <w>skráðar</w>
+  <c>.</c>
+</s>
+<s n="39">
+  <w>Niðurstaða</w>
+  <w>rannsóknarinnar</w>
+  <w>var</w>
+  <c>:</c>
+  <c>„</c>
+  <w>Forrannsóknir</w>
+  <w>benda</w>
+  <w>enn</w>
+  <w>til</w>
+  <w>þess</w>
+  <w>að</w>
+  <w>LDN</w>
+  <w>hafi</w>
+  <w>ákveðna</w>
+  <w>kosti</w>
+  <w>og</w>
+  <w>klínísk</w>
+  <w>áhrif</w>
+  <w>til</w>
+  <w>hins</w>
+  <w>betra</w>
+  <w>fyrir</w>
+  <w>verki</w>
+  <w>sem</w>
+  <revision id="64">
+    <original><w>fygja</w></original>
+    <corrected><w>fylgja</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="64-1" eid="0" />
+        <error xtype="nonword" idx="64-1" eid="0" />
+      </errors>
+  </revision>
+  <w>vefjagigt</w>
+  <c>.</c>
+</s>
+<s n="40">
+  <w>Lyfið</w>
+  <w>er</w>
+  <w>auðfáanlegt</w>
+  <c>,</c>
+  <w>ódýrt</w>
+  <c>,</c>
+  <w>öruggt</w>
+  <w>og</w>
+  <w>vel</w>
+  <w>þolanlegt</w>
+  <c>.</c>
+</s>
+<s n="41">
+  <w>Þörf</w>
+  <w>er</w>
+  <w>á</w>
+  <w>áframhaldandi</w>
+  <w>tvíblindum</w>
+  <w>rannsóknum</w>
+  <w>til</w>
+  <w>að</w>
+  <w>úrskurða</w>
+  <w>endanlega</w>
+  <w>um</w>
+  <w>gagnsemi</w>
+  <w>lyfsins</w>
+  <c>.</c>
+  <c>“</c>
+</s>
+<s n="42">
+  <w>Þessi</w>
+  <w>rannsókn</w>
+  <w>var</w>
+  <w>framhald</w>
+  <w>af</w>
+  <w>eldri</w>
+  <w>forrannsókn</w>
+  <w>sem</w>
+  <w>innihélt</w>
+  <w>10</w>
+  <w>einstaklinga</w>
+  <w>en</w>
+  <w>niðurstaða</w>
+  <w>hennar</w>
+  <w>var</w>
+  <w>að</w>
+  <c>„</c>
+  <revision id="65">
+    <original><w>Lág</w><w>skammta</w></original>
+    <corrected><w>lágskammta</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" idx="65-1" eid="0" />
+        <error xtype="split-compound" idx="65-1" eid="0" />
+      </errors>
+  </revision>
+  <w>naltrexón</w>
+  <w>dró</w>
+  <w>úr</w>
+  <revision id="66">
+    <original><w>vefjagigtar</w><w>einkennum</w></original>
+    <corrected><w>vefjagigtareinkennum</w></corrected>
+      <errors>
+        <error xtype="split-compound" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>allan</w>
+  <w>máta</w>
+  <w>með</w>
+  <w>meira</w>
+  <w>en</w>
+  <w>30%</w>
+  <w>minnkun</w>
+  <w>á</w>
+  <w>einkennum</w>
+  <w>umfram</w>
+  <w>þá</w>
+  <w>sem</w>
+  <w>tóku</w>
+  <w>lyfleysu</w>
+  <c>.</c>
+  <c>“</c>
+</s>
+<s n="43">
+  <w>Þá</w>
+  <w>var</w>
+  <w>einnig</w>
+  <w>gerð</w>
+  <w>önnur</w>
+  <w>lítil</w>
+  <revision id="67">
+    <original><w>for</w><w>rannsókn</w></original>
+    <corrected><w>forrannsókn</w></corrected>
+      <errors>
+        <error xtype="split-compound" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>sýndi</w>
+  <revision id="68">
+    <original><w>einnig</w></original>
+    <corrected><w>líka</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>fram</w>
+  <w>á</w>
+  <w>að</w>
+  <w>LDN</w>
+  <w>drægi</w>
+  <w>úr</w>
+  <w>einkennum</w>
+  <w>vefjagigtar</w>
+  <c>.</c>
+</s>
+<s n="44">
+  <w>Rannsóknir</w>
+  <w>á</w>
+  <w>LDN</w>
+  <w>við</w>
+  <w>ME</w>
+  <w>hafa</w>
+  <w>ekki</w>
+  <w>verið</w>
+  <w>gerðar</w>
+  <w>sérstaklega</w>
+  <w>heldur</w>
+  <w>hafa</w>
+  <w>þær</w>
+  <w>oft</w>
+  <revision id="69">
+    <original><w>á</w></original>
+    <corrected><w>og</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>tíðum</w>
+  <w>haldist</w>
+  <w>í</w>
+  <w>hendur</w>
+  <w>við</w>
+  <w>rannsóknir</w>
+  <w>á</w>
+  <w>vefjagigt</w>
+  <w>en</w>
+  <w>læknarnir</w>
+  <w>Dr.</w>
+  <w>Kenny</w>
+  <w>Meirleir</w>
+  <w>og</w>
+  <w>Dr.</w>
+  <w>Nancy</w>
+  <w>Klimas</w>
+  <w>hafa</w>
+  <w>verið</w>
+  <w>leiðandi</w>
+  <w>í</w>
+  <w>rannsóknum</w>
+  <w>og</w>
+  <w>meðhöndlun</w>
+  <w>á</w>
+  <w>sjúkdómnum</w>
+  <w>og</w>
+  <w>hafa</w>
+  <w>þau</w>
+  <w>meðal</w>
+  <w>annars</w>
+  <w>fjallað</w>
+  <w>um</w>
+  <w>lyfið</w>
+  <w>sem</w>
+  <w>staðalmeðferð</w>
+  <w>við</w>
+  <revision id="70">
+    <original><w>ME</w><w>sjúkdómnum</w></original>
+    <corrected><w>ME-sjúkdómnum</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="45">
+  <w>Einblind</w>
+  <w>rannsókn</w>
+  <w>á</w>
+  <w>LDN</w>
+  <w>með</w>
+  <w>slembiúrtaki</w>
+  <w>sem</w>
+  <w>innihélt</w>
+  <w>tvo</w>
+  <w>hópa</w>
+  <w>af</w>
+  <w>HIV</w>
+  <c>/</c>
+  <revision id="71">
+    <original><w>AIDS</w><w>sjúklingum</w></original>
+    <corrected><w>AIDS-sjúklingum</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>var</w>
+  <w>framkvæmd</w>
+  <w>í</w>
+  <w>Mali</w>
+  <w>frá</w>
+  <w>mars 2008</w>
+  <w>til</w>
+  <w>mars 2010</w>
+  <w>og</w>
+  <w>var</w>
+  <w>birt</w>
+  <w>í</w>
+  <w><i>The</i></w>
+  <w><i>Journal</i></w>
+  <w><i>of</i></w>
+  <w><i>AIDS</i></w>
+  <w><i>and</i></w>
+  <w><i>HIV</i></w>
+  <w><i>Research</i></w>
+  <c>.</c>
+</s>
+<s n="46">
+  <w>Höfundarnir</w>
+  <w>komust</w>
+  <w>að</w>
+  <w>þeirri</w>
+  <w>niðurstöðu</w>
+  <w>að</w>
+  <w>með</w>
+  <w>því</w>
+  <w>að</w>
+  <w>bæta</w>
+  <w>LDN</w>
+  <w>við</w>
+  <w>þriggja</w>
+  <w>lyfja</w>
+  <w>blöndu</w>
+  <w>af</w>
+  <w>víruslyfjum</w>
+  <w>bætti</w>
+  <w>það</w>
+  <w>árangurinn</w>
+  <w>af</w>
+  <w>lyfjameðferðinni</w>
+  <w>um</w>
+  <w>CD</w>
+  <w>4</w>
+  <w>stig</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>benti</w>
+  <w>til</w>
+  <w>þess</w>
+  <w>að</w>
+  <w>forsvaranlegt</w>
+  <w>væri</w>
+  <w>að</w>
+  <w>gera</w>
+  <w>fleiri</w>
+  <w>rannsóknir</w>
+  <w>á</w>
+  <w>LDN</w>
+  <w>sem</w>
+  <w>hluta</w>
+  <w>af</w>
+  <w>meðferð</w>
+  <w>við</w>
+  <w>HIV</w>
+  <c>.</c>
+</s>
+<s n="47">
+  <w>Einblind</w>
+  <w>hóprannsókn</w>
+  <w>á</w>
+  <w>LDN</w>
+  <w>með</w>
+  <w>55</w>
+  <revision id="72">
+    <original><w>HIV</w><w>jákvæðum</w></original>
+    <corrected><w>HIV-jákvæðum</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>einstaklingum</w>
+  <w>sem</w>
+  <w>höfðu</w>
+  <w>verið</w>
+  <w>án</w>
+  <w>meðferðar</w>
+  <w>með</w>
+  <w>CD</w>
+  <w>4</w>
+  <revision id="73">
+    <original></original>
+    <corrected><c>-</c></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>stig</w>
+  <w>milli</w>
+  <w>350</w>
+  <c>-</c>
+  <w>600</w>
+  <w>var</w>
+  <w>framkvæmd</w>
+  <w>árin</w>
+  <w>2008</w>
+  <c>-</c>
+  <w>2009</w>
+  <w>og</w>
+  <w>sýndi</w>
+  <w>að</w>
+  <w>eftir</w>
+  <w>9</w>
+  <w>mánuði</w>
+  <w>hafði</w>
+  <w>CD</w>
+  <w>4</w>
+  <revision id="74">
+    <original></original>
+    <corrected><c>-</c></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>prósentan</w>
+  <w>staðið</w>
+  <w>í</w>
+  <w>stað</w>
+  <c>.</c>
+</s>
+<s n="48">
+  <w>Forrannsóknir</w>
+  <w>benda</w>
+  <w>til</w>
+  <w>að</w>
+  <w>LDN</w>
+  <revision id="75">
+    <original><c>(</c></original>
+    <corrected><c>,</c><w>sem</w></corrected>
+      <errors>
+        <error xtype="bracket4comma" idx="75-1" eid="0" />
+        <error xtype="missing-conjunction" idx="75-2" eid="0" />
+      </errors>
+  </revision>
+  <w>yfirleitt</w>
+  <revision id="76">
+    <original></original>
+    <corrected><w>er</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>gefið</w>
+  <w>undir</w>
+  <w>5 mg</w>
+  <w>daglega</w>
+  <revision id="77">
+    <original><c>)</c></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="bracket4comma" eid="0" />
+      </errors>
+  </revision>
+  <w>geti</w>
+  <w>gagnast</w>
+  <w>við</w>
+  <w>að</w>
+  <w>koma</w>
+  <w>í</w>
+  <w>veg</w>
+  <w>fyrir</w>
+  <revision id="78">
+    <original><w>ópíata</w><w>þol</w></original>
+    <corrected><w>ópíataþol</w></corrected>
+      <errors>
+        <error xtype="split-compound" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <revision id="79">
+    <original><w>fýkn</w></original>
+    <corrected><w>fíkn</w></corrected>
+      <errors>
+        <error xtype="ý4í" idx="79-1" eid="0" />
+        <error xtype="nonword" idx="79-1" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>slík</w>
+  <w>efni</w>
+  <w>þegar</w>
+  <revision id="80">
+    <original></original>
+    <corrected><w>lyfinu</w><w>er</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <w>blandað</w>
+  <w>saman</w>
+  <w>við</w>
+  <w>ópíataskyld</w>
+  <w>efni</w>
+  <w>og</w>
+  <w>geti</w>
+  <w>dregið</w>
+  <w>úr</w>
+  <w>fráhvarfseinkennum</w>
+  <c>.</c>
+</s>
+<s n="49">
+  <w>Notkun</w>
+  <w>þess</w>
+  <w>í</w>
+  <w>þeim</w>
+  <w>tilgangi</w>
+  <w>er</w>
+  <w>nú</w>
+  <w>rannsökuð</w>
+  <w>með</w>
+  <w>lyfinu</w>
+  <revision id="81">
+    <original><w>Oxytrex</w></original>
+    <corrected><w><i>Oxytrex</i></w></corrected>
+      <errors>
+        <error xtype="nonit4it" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>sem</w>
+  <w>er</w>
+  <w>blanda</w>
+  <w>af</w>
+  <revision id="82">
+    <original><w>Oxycodone</w></original>
+    <corrected><w><i>Oxycodone</i></w></corrected>
+      <errors>
+        <error xtype="nonit4it" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <revision id="83">
+    <original><w>Ultra-low-dose</w><w>naltrexone</w></original>
+    <corrected><w><i>Ultra-low-dose</i></w><w><i>naltrexone</i></w></corrected>
+      <errors>
+        <error xtype="nonit4it" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+  <revision id="84">
+    <original><c>]</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-bracket" eid="0" />
+      </errors>
+  </revision>
+</s>
+<s n="50">
+  <w>Þá</w>
+  <w>eru</w>
+  <w>einnig</w>
+  <w>vísbendingar</w>
+  <w>um</w>
+  <w>að</w>
+  <w>mjög</w>
+  <w>lágir</w>
+  <w>skammtar</w>
+  <w>af</w>
+  <w>opíatablokkum</w>
+  <revision id="85">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-commas" idx="85-1" eid="0" />
+      </errors>
+  </revision>
+  <w>svo</w>
+  <w>sem</w>
+  <w>naltrexóni</w>
+  <revision id="86">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="dep" depId="85-1" eid="0" />
+      </errors>
+  </revision>
+  <w>geti</w>
+  <w>dregið</w>
+  <w>úr</w>
+  <w>fráhvarfseinkennum</w>
+  <w>af</w>
+  <w>ópíumskyldum</w>
+  <w>lyfjum</w>
+  <c>.</c>
+</s>
+<s n="51">
+  <revision id="87">
+    <original><w>MS</w><w>sjúklingar</w></original>
+    <corrected><w>MS-sjúklingar</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>eru</w>
+  <w>sá</w>
+  <w>sjúklingahópur</w>
+  <w>sem</w>
+  <w>hefur</w>
+  <w>haft</w>
+  <w>hvað</w>
+  <w>mestan</w>
+  <w>áhuga</w>
+  <w>á</w>
+  <w>að</w>
+  <w>nota</w>
+  <w>LDN</w>
+  <c>.</c>
+</s>
+<s n="52">
+  <w>Þrátt</w>
+  <w>fyrir</w>
+  <w>að</w>
+  <w>þó</w>
+  <w>nokkrar</w>
+  <w>rannsóknir</w>
+  <w>hafi</w>
+  <w>verið</w>
+  <w>gerðar</w>
+  <w>á</w>
+  <w>LDN</w>
+  <w>við</w>
+  <w>MS</w>
+  <w>hefur</w>
+  <w>niðurstaðan</w>
+  <w>ekki</w>
+  <w>verið</w>
+  <w>nægjanlega</w>
+  <w>viðunandi</w>
+  <w>til</w>
+  <w>að</w>
+  <w>lyfið</w>
+  <w>geti</w>
+  <w>flokkast</w>
+  <w>sem</w>
+  <w>opinbert</w>
+  <revision id="88">
+    <original><w>MS</w><w>lyf</w></original>
+    <corrected><w>MS-lyf</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="53">
+  <w>Gerð</w>
+  <w>var</w>
+  <w>frumprófun</w>
+  <w>á</w>
+  <w>LDN</w>
+  <w>á</w>
+  <w>40</w>
+  <revision id="89">
+    <original><w>MS</w><w>sjúklingum</w></original>
+    <corrected><w>MS-sjúklingum</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>með</w>
+  <w>stigvaxandi</w>
+  <w>virkan</w>
+  <revision id="90">
+    <original><w>MS</w><w>sjúkdóm</w></original>
+    <corrected><w>MS-sjúkdóm</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>Mílanó</w>
+  <w>á</w>
+  <w>Ítalíu</w>
+  <c>.</c>
+</s>
+<s n="54">
+  <w>Rannsókninni</w>
+  <w>var</w>
+  <w>stýrt</w>
+  <w>af</w>
+  <w>taugasérfræðingnum</w>
+  <w>Dr.</w>
+  <w>Maira</w>
+  <w>Gironi</w>
+  <w>og</w>
+  <w>félögum</w>
+  <w>hans</w>
+  <c>.</c>
+</s>
+<s n="55">
+  <w>Rannsóknin</w>
+  <w>hófst</w>
+  <w>í</w>
+  <w>byrjun</w>
+  <w>desember árið 2006</w>
+  <w>og</w>
+  <w>stóð</w>
+  <w>yfir</w>
+  <w>í</w>
+  <w>6</w>
+  <w>mánuði</w>
+  <w>en</w>
+  <w>henni</w>
+  <w>lauk</w>
+  <w>í</w>
+  <w>ágúst 2007</w>
+  <c>.</c>
+</s>
+<s n="56">
+  <w>Rannsóknarhópur</w>
+  <w>Dr.</w>
+  <w>Gironi</w>
+  <w>hefur</w>
+  <w>mikið</w>
+  <w>rannsakað</w>
+  <w>áhrif</w>
+  <w>endorfíns</w>
+  <w>í</w>
+  <w>tengslum</w>
+  <w>við</w>
+  <w>sjúkdóma</w>
+  <w>og</w>
+  <w>þessi</w>
+  <w>rannsókn</w>
+  <w>mældi</w>
+  <w>nákvæmlega</w>
+  <w>endorfínmagnið</w>
+  <w>og</w>
+  <w>aukningu</w>
+  <w>þess</w>
+  <w>við</w>
+  <w>inntöku</w>
+  <w>á</w>
+  <w>LDN</w>
+  <c>.</c>
+</s>
+<s n="57">
+  <w>Niðurstaða</w>
+  <w>rannsóknarinnar</w>
+  <w>var</w>
+  <w>birt</w>
+  <w>í</w>
+  <w>september 2008</w>
+  <c>.</c>
+</s>
+<s n="58">
+  <w>Aðalatriðið</w>
+  <w>í</w>
+  <revision id="91">
+    <original><w>niðurstöðinni</w></original>
+    <corrected><w>niðurstöðunni</w></corrected>
+      <errors>
+        <error xtype="letter-rep" idx="91-1" eid="0" />
+        <error xtype="nonword" idx="91-1" eid="0" />
+      </errors>
+  </revision>
+  <w>var</w>
+  <w>að</w>
+  <w>LDN</w>
+  <w>var</w>
+  <w>öruggt</w>
+  <w>og</w>
+  <w>vel</w>
+  <w>þolanlegt</w>
+  <c>.</c>
+</s>
+<s n="59">
+  <w>Þá</w>
+  <w>voru</w>
+  <w>skoðuð</w>
+  <w>áhrif</w>
+  <w>á</w>
+  <w>spasma</w>
+  <c>,</c>
+  <w>verki</w>
+  <c>,</c>
+  <w>þreytu</w>
+  <c>,</c>
+  <w>þunglyndi</w>
+  <w>og</w>
+  <w>almenn</w>
+  <w>lífsgæði</w>
+  <c>.</c>
+</s>
+<s n="60">
+  <w>Í</w>
+  <w>lok</w>
+  <w>rannsóknarinnar</w>
+  <w>kom</w>
+  <w>í</w>
+  <w>ljós</w>
+  <w>að</w>
+  <w>verulega</w>
+  <w>dró</w>
+  <w>úr</w>
+  <w>spasma</w>
+  <w>hjá</w>
+  <w>sjúklingunum</w>
+  <c>.</c>
+</s>
+<s n="61">
+  <w>Einnig</w>
+  <w>var</w>
+  <w>gerð</w>
+  <w>17</w>
+  <w>vikna</w>
+  <w>slembiröðuð</w>
+  <c>,</c>
+  <w>tvíblind</w>
+  <w>klínísk</w>
+  <w>prófun</w>
+  <w>þar</w>
+  <w>sem</w>
+  <w>stuðst</w>
+  <w>var</w>
+  <w>við</w>
+  <w>lyfleysu</w>
+  <w>við</w>
+  <w>tvo</w>
+  <w>háskóla</w>
+  <w>til</w>
+  <w>að</w>
+  <w>kanna</w>
+  <w>áhrif</w>
+  <w>LDN</w>
+  <w>á</w>
+  <w>lífsgæði</w>
+  <revision id="92">
+    <original><w>MS</w><w>sjúklinga</w></original>
+    <corrected><w>MS-sjúklinga</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="62">
+  <revision id="93">
+    <original><w>Þáttakendur</w></original>
+    <corrected><w>Þátttakendur</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="93-1" eid="0" />
+        <error xtype="nonword" idx="93-1" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>rannsókninni</w>
+  <w>voru</w>
+  <w>96</w>
+  <w>fullorðnir</w>
+  <w>einstaklingar</w>
+  <w>með</w>
+  <revision id="94">
+    <original><w>MS</w><w>sjúkdóminn</w></original>
+    <corrected><w>MS-sjúkdóminn</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="63">
+  <w>Ýmislegt</w>
+  <w>var</w>
+  <w>kannað</w>
+  <c>,</c>
+  <w>svo</w>
+  <w>sem</w>
+  <w>áhrif</w>
+  <w>lyfsins</w>
+  <w>á</w>
+  <w>verki</w>
+  <c>,</c>
+  <w>orku</w>
+  <c>,</c>
+  <w>tilfinningalega</w>
+  <w>vellíðan</w>
+  <c>,</c>
+  <w>félagslega</w>
+  <w>þætti</w>
+  <c>,</c>
+  <w>lærdómshæfni</w>
+  <w>og</w>
+  <w>kynferðislega</w>
+  <w>virkni</w>
+  <c>,</c>
+  <w>skerðingu</w>
+  <w>á</w>
+  <w>færni</w>
+  <w>vegna</w>
+  <w>líkamlegra</w>
+  <w>og</w>
+  <w>tilfinningalegra</w>
+  <w>vandamála</w>
+  <c>,</c>
+  <w>heilsukvíða</w>
+  <w>og</w>
+  <w>almenn</w>
+  <w>lífsgæði</w>
+  <c>.</c>
+</s>
+<s n="64">
+  <w>Rannsóknin</w>
+  <w>sýndi</w>
+  <w>ekki</w>
+  <w>marktækan</w>
+  <w>mun</w>
+  <w>milli</w>
+  <w>þeirra</w>
+  <w>sem</w>
+  <w>tóku</w>
+  <w>LDN</w>
+  <w>og</w>
+  <w>þeirra</w>
+  <w>sem</w>
+  <w>tóku</w>
+  <w>lyfleysu</w>
+  <w>en</w>
+  <w>hún</w>
+  <w>staðfesti</w>
+  <w>öryggi</w>
+  <w>LDN</w>
+  <w>fyrir</w>
+  <revision id="95">
+    <original><w>MS</w><w>sjúklinga</w></original>
+    <corrected><w>MS-sjúklinga</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>rannsakendur</w>
+  <w>komust</w>
+  <w>að</w>
+  <w>þeirri</w>
+  <w>niðurstöðu</w>
+  <w>að</w>
+  <w>það</w>
+  <w>þyrfti</w>
+  <w>líklega</w>
+  <w>að</w>
+  <w>gera</w>
+  <w>fleiri</w>
+  <w>og</w>
+  <w>þá</w>
+  <w>ítarlegri</w>
+  <w>rannsóknir</w>
+  <w>í</w>
+  <w>framtíðinni</w>
+  <w>á</w>
+  <w>þessum</w>
+  <w>sjúklingahóp</w>
+  <w>til</w>
+  <w>lengri</w>
+  <w>tíma</w>
+  <c>.</c>
+</s>
+<s n="65">
+  <w>Eldri</w>
+  <w>forrannsókn</w>
+  <w>sem</w>
+  <w>innihélt</w>
+  <w>80</w>
+  <revision id="96">
+    <original><w>MS</w><w>sjúklinga</w><w>komst</w></original>
+    <corrected><w>MS-sjúklinga</w><w>leiddi</w></corrected>
+      <errors>
+        <error xtype="missing-dash" idx="96-1" eid="0" />
+        <error xtype="wording" idx="96-2" eid="0" />
+      </errors>
+  </revision>
+  <w>hins</w>
+  <w>vegar</w>
+  <w>að</w>
+  <w>þeirri</w>
+  <w>niðurstöðu</w>
+  <w>að</w>
+  <w>verulegur</w>
+  <w>bati</w>
+  <w>var</w>
+  <w>sýnilegur</w>
+  <w>við</w>
+  <w>notkun</w>
+  <w>LDN</w>
+  <w>en</w>
+  <w>rannsóknin</w>
+  <w>átti</w>
+  <w>í</w>
+  <w>erfiðleikum</w>
+  <w>vegna</w>
+  <w>brottfalls</w>
+  <w>úr</w>
+  <w>hópnum</w>
+  <w>auk</w>
+  <w>þess</w>
+  <w>sem</w>
+  <w>umsýsla</w>
+  <w>um</w>
+  <w>skráningu</w>
+  <w>veikti</w>
+  <w>niðurstöðurnar</w>
+  <c>.</c>
+</s>
+<s n="66">
+  <w>Vegna</w>
+  <w>þessara</w>
+  <w>niðurstaðna</w>
+  <w>í</w>
+  <w>tengslum</w>
+  <w>við</w>
+  <revision id="97">
+    <original><w>LDN</w><w>meðferð</w></original>
+    <corrected><w>LDN-meðferð</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>við</w>
+  <w>MS</w>
+  <w>ítrekar</w>
+  <revision id="98">
+    <original><w>The</w></original>
+    <corrected><w><i>The</i></w></corrected>
+      <errors>
+        <error xtype="nonit4it" eid="0" />
+      </errors>
+  </revision>
+  <w><i>United</i></w>
+  <w><i>States</i></w>
+  <w><i>Department</i></w>
+  <w><i>of</i></w>
+  <w><i>Veteran</i></w>
+  <w><i>Affairs</i></w>
+  <w>að</w>
+  <w>LDN</w>
+  <w>skuli</w>
+  <w>ekki</w>
+  <w>vera</w>
+  <w>talið</w>
+  <w>fyrirbyggjandi</w>
+  <w>lyf</w>
+  <w>við</w>
+  <revision id="99">
+    <original><w>MS</w><w>sjúkdómnum</w></original>
+    <corrected><w>MS-sjúkdómnum</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>né</w>
+  <w>notað</w>
+  <w>í</w>
+  <w>stað</w>
+  <w>hefðbundinna</w>
+  <w>viðurkenndra</w>
+  <revision id="100">
+    <original><w>MS</w><w>lyfja</w></original>
+    <corrected><w>MS-lyfja</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>þrátt</w>
+  <w>fyrir</w>
+  <w>að</w>
+  <w>sumir</w>
+  <revision id="101">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>svo</w>
+  <w>sem</w>
+  <w>ýmsar</w>
+  <w>vefsíður</w>
+  <revision id="102">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>haldi</w>
+  <w>því</w>
+  <w>fram</w>
+  <c>.</c>
+</s>
+<s n="67">
+  <w>Að</w>
+  <w>sama</w>
+  <w>skapi</w>
+  <w>sendi</w>
+  <w>Alþjóðlega</w>
+  <revision id="103">
+    <original><w>MS</w><w>félagið</w></original>
+    <corrected><w>MS-félagið</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>frá</w>
+  <w>sér</w>
+  <w>tilkynningu</w>
+  <w>árið 2009</w>
+  <w>sem</w>
+  <revision id="104">
+    <original><w>sagði</w></original>
+    <corrected><w>mælti</w><w>um</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>fleiri</w>
+  <w>rannsókna</w>
+  <w>væri</w>
+  <w>þörf</w>
+  <w>til</w>
+  <w>þess</w>
+  <w>að</w>
+  <w>sanna</w>
+  <w>að</w>
+  <w>LDN</w>
+  <w>gæti</w>
+  <w>haldið</w>
+  <w>niðri</w>
+  <w>einkennum</w>
+  <w>á</w>
+  <revision id="105">
+    <original><w>MS</w><w>sjúkdómnum</w></original>
+    <corrected><w>MS-sjúkdómnum</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>kanna</w>
+  <w>langtíma</w>
+  <w>öryggi</w>
+  <w>lyfsins</w>
+  <c>.</c>
+</s>
+<s n="68">
+  <w>Breska</w>
+  <w>heilsugæslan</w>
+  <w>telur</w>
+  <w>einnig</w>
+  <w>að</w>
+  <w>meiri</w>
+  <w>sannanir</w>
+  <w>þurfi</w>
+  <w>að</w>
+  <w>koma</w>
+  <revision id="106">
+    <original><w>til</w></original>
+    <corrected><w>fram</w></corrected>
+      <errors>
+        <error xtype="wrong-prep" eid="0" />
+      </errors>
+  </revision>
+  <w>til</w>
+  <w>að</w>
+  <w>lyfið</w>
+  <w>geti</w>
+  <w>flokkast</w>
+  <revision id="107">
+    <original><w>undir</w><w>að</w><w>vera</w></original>
+    <corrected><w>sem</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>yfirlýst</w>
+  <revision id="108">
+    <original><w>MS</w><w>lyf</w></original>
+    <corrected><w>MS-lyf</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="69">
+  <w>Einhverjar</w>
+  <w>rannsóknir</w>
+  <w>eru</w>
+  <w>í</w>
+  <w>gangi</w>
+  <w>um</w>
+  <w>þessar</w>
+  <w>mundir</w>
+  <w>á</w>
+  <w>notkun</w>
+  <w>LDN</w>
+  <w>við</w>
+  <w>einhverfu</w>
+  <c>(</c>
+  <w>e.</w>
+  <w>autism</w>
+  <c>)</c>
+  <w>og</w>
+  <revision id="109">
+    <original><w>Asberger</w><w>heilkenni</w></original>
+    <corrected><w>Asberger-heilkenni</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>en</w>
+  <w>þær</w>
+  <w>rannsóknir</w>
+  <w>eru</w>
+  <w>á</w>
+  <w>algjöru</w>
+  <w>frumstigi</w>
+  <w>og</w>
+  <w>munu</w>
+  <w>ekki</w>
+  <w>á</w>
+  <w>þessum</w>
+  <w>tímapunkti</w>
+  <w>réttlæta</w>
+  <w>LDN</w>
+  <w>sem</w>
+  <w>meðferð</w>
+  <w>við</w>
+  <w>einhverfu</w>
+  <c>.</c>
+</s>
+<s n="70">
+  <w>Þótt</w>
+  <w>engar</w>
+  <w>stórar</w>
+  <w>klínískar</w>
+  <w>rannsóknir</w>
+  <w>hafi</w>
+  <w>verið</w>
+  <w>gerðar</w>
+  <w>á</w>
+  <w>LDN</w>
+  <w>við</w>
+  <w>krabbameini</w>
+  <w>gerði</w>
+  <w>Dr.</w>
+  <w>Bihari</w>
+  <w>rannsóknir</w>
+  <w>á</w>
+  <w>450</w>
+  <w>krabbameinssjúklingum</w>
+  <w>sem</w>
+  <w>hann</w>
+  <w>birti</w>
+  <w>í</w>
+  <w>mars árið 2004</w>
+  <c>.</c>
+</s>
+<s n="71">
+  <w>Nánast</w>
+  <w>allir</w>
+  <w>þessir</w>
+  <w>sjúklingar</w>
+  <w>höfðu</w>
+  <w>ekki</w>
+  <w>sýnt</w>
+  <w>bata</w>
+  <w>við</w>
+  <w>hefðbundna</w>
+  <w>meðferð</w>
+  <w>og</w>
+  <w>leiddi</w>
+  <w>rannsókn</w>
+  <w>Dr.</w>
+  <w>Biharis</w>
+  <w>í</w>
+  <w>ljós</w>
+  <w>að</w>
+  <w>60%</w>
+  <w>krabbameinssjúklinga</w>
+  <w>gæti</w>
+  <w>haft</w>
+  <w>gagn</w>
+  <w>af</w>
+  <revision id="110">
+    <original><w>LDN</w><w>meðferð</w></original>
+    <corrected><w>LDN-meðferð</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="72">
+  <w>Af</w>
+  <w>þeim</w>
+  <w>354</w>
+  <w>sjúklingum</w>
+  <w>sem</w>
+  <w>Dr.</w>
+  <w>Bihari</w>
+  <w>fylgdi</w>
+  <w>reglulega</w>
+  <w>eftir</w>
+  <w>sýndu</w>
+  <w>86</w>
+  <w>þeirra</w>
+  <w>merki</w>
+  <w>um</w>
+  <w>verulega</w>
+  <revision id="111">
+    <original><w>æxlis</w><w>minnkun</w></original>
+    <corrected><w>æxlisminnkun</w></corrected>
+      <errors>
+        <error xtype="split-compound" eid="0" />
+      </errors>
+  </revision>
+  <w>eða</w>
+  <revision id="112">
+    <original><w>allavega</w></original>
+    <corrected><w>a.m.k.</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>75%</w>
+  <revision id="113">
+    <original><w>minkun</w></original>
+    <corrected><w>minnkun</w></corrected>
+      <errors>
+        <error xtype="n4nn" idx="113-1" eid="0" />
+        <error xtype="nonword" idx="113-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="73">
+  <w>125</w>
+  <w>sjúklingar</w>
+  <w>voru</w>
+  <w>stöðugir</w>
+  <w>eða</w>
+  <w>á</w>
+  <w>bataleið</w>
+  <w>í</w>
+  <w>lok</w>
+  <w>rannsóknarinnar</w>
+  <c>.</c>
+</s>
+<s n="74">
+  <w>Talið</w>
+  <w>er</w>
+  <w>að</w>
+  <w>LDN</w>
+  <w>geti</w>
+  <w>haft</w>
+  <w>áhrif</w>
+  <w>á</w>
+  <w>æxlisvöxt</w>
+  <w>á</w>
+  <w>þrjá</w>
+  <w>mismunandi</w>
+  <w>vegu</w>
+  <c>.</c>
+</s>
+<s n="75">
+  <w>Virkni</w>
+  <w>LDN</w>
+  <w>við</w>
+  <w>að</w>
+  <w>koma</w>
+  <w>í</w>
+  <w>veg</w>
+  <w>fyrir</w>
+  <w>þróun</w>
+  <w>á</w>
+  <w>þoli</w>
+  <w>ópíata</w>
+  <w>felur</w>
+  <w>í</w>
+  <w>sér</w>
+  <w>hina</w>
+  <w>öflugu</w>
+  <w>bindingu</w>
+  <w>efnisins</w>
+  <w>við</w>
+  <w>próteinið</w>
+  <w>fílamín</w>
+  <w>A.</w>
+  <w>Innræn</w>
+  <revision id="114">
+    <original><w>ópíata</w></original>
+    <corrected><w>ópíatalosun</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <c>(</c>
+  <revision id="115">
+    <original><w>endorfín</w></original>
+    <corrected><w>endorfínlosun</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <c>)</c>
+  <revision id="116">
+    <original><w>losun</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
+  <w>er</w>
+  <w>þekkt</w>
+  <w>fyrir</w>
+  <w>að</w>
+  <w>hafa</w>
+  <w>verkjastillandi</w>
+  <w>áhrif</w>
+  <c>.</c>
+</s>
+<s n="76">
+  <w>Aukning</w>
+  <w>á</w>
+  <w>losun</w>
+  <w>endorfíns</w>
+  <w>í</w>
+  <w>gegnum</w>
+  <revision id="117">
+    <original><w>LDN</w><w>notkun</w></original>
+    <corrected><w>LDN-notkun</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>getur</w>
+  <w>því</w>
+  <w>nýst</w>
+  <w>sem</w>
+  <revision id="118">
+    <original><w>vekjastillandi</w></original>
+    <corrected><w>verkjastillandi</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="118-1" eid="0" />
+        <error xtype="compound-nonword" idx="118-1" eid="0" />
+      </errors>
+  </revision>
+  <w>meðferð</w>
+  <c>.</c>
+</s>
+<s n="77">
+  <w>Auk</w>
+  <w>áhrifanna</w>
+  <w>á</w>
+  <w>ópíöt</w>
+  <w>og</w>
+  <w>ópíataviðtakana</w>
+  <c>,</c>
+  <w>hefur</w>
+  <w>LDN</w>
+  <revision id="119">
+    <original><w>annarskonar</w></original>
+    <corrected><w>annars</w><w>konar</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
+  <w>virkni</w>
+  <w>en</w>
+  <w>með</w>
+  <w>því</w>
+  <w>að</w>
+  <w>bindast</w>
+  <w>próteininu</w>
+  <w>TLR</w>
+  <w>4</w>
+  <c>(</c>
+  <w><i>toll-like</i></w>
+  <w><i>receptor</i></w>
+  <w><i></i></w>
+  <w>4Z</w>
+  <c>)</c>
+  <w>eða</w>
+  <w>mögulega</w>
+  <w>nærliggjandi</w>
+  <w>svæðum</w>
+  <w>og</w>
+  <w>varna</w>
+  <w>því</w>
+  <w>að</w>
+  <w>LPS</w>
+  <c>(</c>
+  <w><i>Lipo-Poly-Saccharides</i></w>
+  <c>)</c>
+  <w>bindist</w>
+  <w>sömu</w>
+  <w>TLR</w>
+  <w>4</w>
+  <revision id="120">
+    <original></original>
+    <corrected><c>-</c></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>viðtökunum</w>
+  <w>sem</w>
+  <w>í</w>
+  <w>staðinn</w>
+  <w>kemur</w>
+  <w>í</w>
+  <w>veg</w>
+  <w>fyrir</w>
+  <w>að</w>
+  <w>LPS</w>
+  <w>virkji</w>
+  <w>ónæmis</w>
+  <w>frumur</w>
+  <c>(</c>
+  <w><i>microglial</i></w>
+  <w><i>frumur</i></w>
+  <c>)</c>
+  <w>í</w>
+  <w>að</w>
+  <w>mynda</w>
+  <w>boðefnið</w>
+  <revision id="121">
+    <original><w>cytokines</w></original>
+    <corrected><w><i>cytokines</i></w></corrected>
+      <errors>
+        <error xtype="nonit4it" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>aftur</w>
+  <w>eykur</w>
+  <revision id="122">
+    <original><w>superocide</w><w>magnið</w></original>
+    <corrected><w><i>superocide-magnið</i></w></corrected>
+      <errors>
+        <error xtype="nonit4it" idx="122-1" eid="0" />
+        <error xtype="missing-dash" idx="122-2" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>líkamanum</w>
+  <revision id="123">
+    <original><c>(</c></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="bracket4comma" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>þjónar</w>
+  <w>þeim</w>
+  <w>tilgangi</w>
+  <w>að</w>
+  <w>drepa</w>
+  <w>utanaðkomandi</w>
+  <revision id="124">
+    <original><w>míkrobakteríur</w><c>)</c></original>
+    <corrected><w>míkróbakteríur</w><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-accent" idx="124-1" eid="0" />
+        <error xtype="bracket4comma" idx="124-2" eid="0" />
+      </errors>
+  </revision>
+  <w>en</w>
+  <w>ef</w>
+  <w>þær</w>
+  <w>eru</w>
+  <w>í</w>
+  <w>of</w>
+  <w>miklu</w>
+  <w>magni</w>
+  <w>geta</w>
+  <w>þær</w>
+  <w>valdið</w>
+  <w>skaða</w>
+  <w>í</w>
+  <w>taugafrumum</w>
+  <c>.</c>
+</s>
+<s n="78">
+  <w>LDN</w>
+  <w>getur</w>
+  <w>þar</w>
+  <w>af</w>
+  <w>leiðandi</w>
+  <w>haft</w>
+  <w>taugaverjandi</w>
+  <w>áhrif</w>
+  <w>með</w>
+  <w>því</w>
+  <w>að</w>
+  <w>róa</w>
+  <w>þessar</w>
+  <revision id="125">
+    <original><w>ónæmis</w><w>frumur</w></original>
+    <corrected><w>ónæmisfrumur</w></corrected>
+      <errors>
+        <error xtype="split-compound" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>þar</w>
+  <w>með</w>
+  <revision id="126">
+    <original><w>draga</w></original>
+    <corrected><w>dregið</w></corrected>
+      <errors>
+        <error xtype="verb-inflection" eid="0" />
+      </errors>
+  </revision>
+  <w>úr</w>
+  <revision id="127">
+    <original><w>cytokines</w><c>(</c></original>
+    <corrected><w><i>cytokines</i></w><c>,</c></corrected>
+      <errors>
+        <error xtype="nonit4it" idx="127-1" eid="0" />
+        <error xtype="bracket4comma" idx="127-2" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <revision id="128">
+    <original><w>er</w><w>bólgu</w><w>valdandi</w></original>
+    <corrected><w>eru</w><w>bólguvaldandi</w></corrected>
+      <errors>
+        <error xtype="agreement" idx="128-1" eid="0" />
+        <error xtype="split-compound" idx="128-2" eid="0" />
+      </errors>
+  </revision>
+  <c>)</c>
+  <revision id="129">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <revision id="130">
+    <original><w>superoxides</w><c>(</c></original>
+    <corrected><w><i>superoxides</i></w><c>,</c></corrected>
+      <errors>
+        <error xtype="nonit4it" idx="130-1" eid="0" />
+        <error xtype="bracket4comma" idx="130-2" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>geta</w>
+  <w>skemmt</w>
+  <w>taugafrumur</w>
+  <revision id="131">
+    <original><c>)</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-bracket" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="79">
+  <w>Bæði</w>
+  <w>bólgur</w>
+  <w>og</w>
+  <w>taugaskemmdir</w>
+  <w>í</w>
+  <w>gegnum</w>
+  <w>oxun</w>
+  <w>eru</w>
+  <w>taldar</w>
+  <w>eiga</w>
+  <w>stóran</w>
+  <w>þátt</w>
+  <w>í</w>
+  <w>taugasjúkdómum</w>
+  <w>eins</w>
+  <w>og</w>
+  <revision id="132">
+    <original><w>Parkinsons- og MS</w><w>sjúkdómnum</w></original>
+    <corrected><w>Parkinsons- og MS-sjúkdómnum</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="80">
+  <w>Þessi</w>
+  <w>verkun</w>
+  <w>LDN</w>
+  <w>á</w>
+  <revision id="133">
+    <original><w>microglia</w><w>frumur</w></original>
+    <corrected><w>microglia-frumur</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>innan</w>
+  <w>miðtaugakerfisins</w>
+  <w>er</w>
+  <w>talin</w>
+  <w>vera</w>
+  <w>ástæðan</w>
+  <revision id="134">
+    <original><c>(</c><w>fyrir</w><w>utan</w></original>
+    <corrected><c>,</c><w>að</w><w>fráskildum</w></corrected>
+      <errors>
+        <error xtype="bracket4comma" idx="134-1" eid="0" />
+        <error xtype="wording" idx="134-2" eid="0" />
+      </errors>
+  </revision>
+  <w>verkjastillandi</w>
+  <revision id="135">
+    <original><w>áhrif</w></original>
+    <corrected><w>áhrifum</w></corrected>
+      <errors>
+        <error xtype="dep" depId="134-2" eid="0" />
+      </errors>
+  </revision>
+  <w>endorfínflæðisins</w>
+  <revision id="136">
+    <original><c>)</c></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="bracket4comma" eid="0" />
+      </errors>
+  </revision>
+  <w>fyrir</w>
+  <w>því</w>
+  <w>að</w>
+  <w>lyfið</w>
+  <w>virki</w>
+  <w>vel</w>
+  <w>á</w>
+  <w>einstaklinga</w>
+  <w>sem</w>
+  <w>þjást</w>
+  <w>af</w>
+  <w>vefjagigt</w>
+  <w>þar</w>
+  <w>sem</w>
+  <w>þessi</w>
+  <w>verkun</w>
+  <w>á</w>
+  <revision id="137">
+    <original><w>microglial</w><w>frumur</w></original>
+    <corrected><w>microglial-frumur</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>dregur</w>
+  <w>úr</w>
+  <w>framleiðslu</w>
+  <w>bólguefna</w>
+  <w>eins</w>
+  <w>og</w>
+  <revision id="138">
+    <original><w>cytokines</w></original>
+    <corrected><w><i>cytokines</i></w></corrected>
+      <errors>
+        <error xtype="nonit4it" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>og</w>
+  <w>taugaeiturefna</w>
+  <revision id="139">
+    <original><c>(</c></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="bracket4comma" eid="0" />
+      </errors>
+  </revision>
+  <w>sjá</w>
+  <w>umfjöllun</w>
+  <w>um</w>
+  <revision id="140">
+    <original><w>neurotoxic</w><w>superoxides</w><c>)</c></original>
+    <corrected><w><i>neurotoxic</i></w><w><i>superoxides</i></w></corrected>
+      <errors>
+        <error xtype="nonit4it" idx="140-1" eid="0" />
+        <error xtype="extra-bracket" idx="140-2" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="81">
+  <w>Það</w>
+  <w>eru</w>
+  <w>því</w>
+  <w>nokkrar</w>
+  <w>ástæður</w>
+  <w>fyrir</w>
+  <w>því</w>
+  <w>að</w>
+  <w>LDN</w>
+  <w>er</w>
+  <w>stundum</w>
+  <w>kallað</w>
+  <w>vellíðunarlyfið</w>
+  <w>og</w>
+  <w>sumar</w>
+  <w>rannsóknir</w>
+  <w>benda</w>
+  <w>til</w>
+  <w>þess</w>
+  <w>að</w>
+  <w>vellíðunarþættir</w>
+  <w>eins</w>
+  <w>og</w>
+  <w>endorfín</w>
+  <w>séu</w>
+  <w>í</w>
+  <w>lágmarki</w>
+  <w>hjá</w>
+  <w>fólki</w>
+  <w>með</w>
+  <w>verkjasjúkdóma</w>
+  <w>eins</w>
+  <w>og</w>
+  <w>vefjagigt</w>
+  <w>og</w>
+  <w>ME</w>
+  <c>(</c>
+  <w>CFS</w>
+  <c>/</c>
+  <w>ME</w>
+  <c>)</c>
+  <c>.</c>
+</s>
+<s n="82">
+  <w>Með</w>
+  <w>því</w>
+  <w>að</w>
+  <revision id="141">
+    <original><w>blokka</w><w>endorfín</w><w>viðtakana</w></original>
+    <corrected><w>loka</w><w>á</w><w>endorfínviðtakana</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>virðist</w>
+  <w>LDN</w>
+  <w>því</w>
+  <w>virkja</w>
+  <w>heilann</w>
+  <w>til</w>
+  <w>að</w>
+  <w>framleiða</w>
+  <w>meira</w>
+  <w>af</w>
+  <w>þeim</w>
+  <c>.</c>
+</s>
+<s n="83">
+  <w>Þar</w>
+  <w>sem</w>
+  <w>endorfínin</w>
+  <w>eru</w>
+  <w>oft</w>
+  <w>talin</w>
+  <w>vera</w>
+  <w>náttúruleg</w>
+  <w>verkjalyf</w>
+  <w>líkamans</w>
+  <w>virðist</w>
+  <w>það</w>
+  <w>hafa</w>
+  <w>góð</w>
+  <w>áhrif</w>
+  <w>á</w>
+  <w>fólk</w>
+  <w>með</w>
+  <w>verkjasjúkdóma</w>
+  <w>að</w>
+  <w>líkaminn</w>
+  <w>framleiði</w>
+  <w>meira</w>
+  <w>af</w>
+  <w>þeim</w>
+  <c>.</c>
+</s>
+<s n="84">
+  <w>Endorfín</w>
+  <w>eru</w>
+  <w>framleidd</w>
+  <w>í</w>
+  <w>undirstúku</w>
+  <w>heiladingulsins</w>
+  <w>við</w>
+  <revision id="142">
+    <original><w>nýrnahettu</w><w>ás</w></original>
+    <corrected><w>nýrnahettuás</w><c>,</c></corrected>
+      <errors>
+        <error xtype="split-compound" idx="142-1" eid="0" />
+        <error xtype="missing-commas" idx="142-2" eid="0" />
+      </errors>
+  </revision>
+  <w>eða</w>
+  <revision id="143">
+    <original><c>(</c><w>HTP</w><w>ás</w><c>)</c></original>
+    <corrected><w>HTP-ás</w><c>,</c></corrected>
+      <errors>
+        <error xtype="extra-bracket" idx="143-1" eid="0" />
+        <error xtype="missing-dash" idx="143-2" eid="0" />
+        <error xtype="dep" depId="142-2" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>virðist</w>
+  <w>samkvæmt</w>
+  <w>sumum</w>
+  <w>nýlegum</w>
+  <w>rannsóknum</w>
+  <w>vera</w>
+  <w>bilaður</w>
+  <w>hjá</w>
+  <w>bæði</w>
+  <w>fólki</w>
+  <w>með</w>
+  <w>vefjagigt</w>
+  <w>og</w>
+  <w>ME</w>
+  <c>.</c>
+</s>
+<s n="85">
+  <w>Þá</w>
+  <w>hafa</w>
+  <w>menn</w>
+  <w>velt</w>
+  <w>fyrir</w>
+  <w>sér</w>
+  <w>öðrum</w>
+  <w>möguleika</w>
+  <w>en</w>
+  <w>endorfín</w>
+  <revision id="144">
+    <original></original>
+    <corrected><w>til</w><w>að</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <w>auka</w>
+  <w>viðbrögð</w>
+  <w>líkamans</w>
+  <w>við</w>
+  <w>frumum</w>
+  <w>sem</w>
+  <w>nefndar</w>
+  <w>eru</w>
+  <w><i>Natural</i></w>
+  <w><i>killer</i></w>
+  <w><i>cells</i></w>
+  <c>(</c>
+  <w>eða</w>
+  <w>NK</w>
+  <w>cells</w>
+  <c>)</c>
+  <w>og</w>
+  <w>eru</w>
+  <revision id="145">
+    <original><w>lykil</w><w>þáttur</w></original>
+    <corrected><w>lykilþáttur</w></corrected>
+      <errors>
+        <error xtype="split-compound" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>virkni</w>
+  <revision id="146">
+    <original><w>ónæmiskerfisin</w></original>
+    <corrected><w>ónæmiskerfisins</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="146-1" eid="0" />
+        <error xtype="nonword" idx="146-1" eid="0" />
+      </errors>
+  </revision>
+  <w>hjá</w>
+  <w>fólki</w>
+  <w>með</w>
+  <w>vefjagigt</w>
+  <w>og</w>
+  <w>ME</w>
+  <w>og</w>
+  <w>þau</w>
+  <w>draga</w>
+  <w>líka</w>
+  <w>úr</w>
+  <w>virkni</w>
+  <w>B-frumna</w>
+  <w>og</w>
+  <revision id="147">
+    <original><w>Rituximab</w></original>
+    <corrected><w><i>Rituximab</i></w></corrected>
+      <errors>
+        <error xtype="nonit4it" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>er</w>
+  <w>mótefnið</w>
+  <revision id="148">
+    <original><c>(</c></original>
+    <corrected><c>,</c><w>þ.e.</w></corrected>
+      <errors>
+        <error xtype="bracket4comma" idx="148-1" eid="0" />
+        <error xtype="missing-words" idx="148-2" eid="0" />
+      </errors>
+  </revision>
+  <w>prótein</w>
+  <w>sem</w>
+  <w>er</w>
+  <w>utan</w>
+  <w>á</w>
+  <w>B-frumunni</w>
+  <revision id="149">
+    <original><c>)</c></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="bracket4comma" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>gæti</w>
+  <w>það</w>
+  <w>lofað</w>
+  <w>góðu</w>
+  <w>við</w>
+  <w>lækningu</w>
+  <w>ME</w>
+  <w>og</w>
+  <w>vefjagigtar</w>
+  <w>og</w>
+  <w>almennt</w>
+  <w>sjúkdóma</w>
+  <w>sem</w>
+  <w>eiga</w>
+  <w>upptök</w>
+  <w>sín</w>
+  <w>í</w>
+  <w>ónæmiskerfinu</w>
+  <c>.</c>
+</s>
+<s n="86">
+  <w>LDN</w>
+  <w>virðist</w>
+  <w>einnig</w>
+  <w>eins</w>
+  <w>og</w>
+  <w>áður</w>
+  <w>sagði</w>
+  <w>hafa</w>
+  <w>áhrif</w>
+  <w>á</w>
+  <w>virkni</w>
+  <w>og</w>
+  <w>koma</w>
+  <w>reglu</w>
+  <w>á</w>
+  <revision id="150">
+    <original><w>ónæmis</w><w>frumur</w></original>
+    <corrected><w>ónæmisfrumur</w></corrected>
+      <errors>
+        <error xtype="split-compound" eid="0" />
+      </errors>
+  </revision>
+  <c>(</c>
+  <revision id="151">
+    <original><w>microglial</w><w>frumur</w></original>
+    <corrected><w>microglial-frumur</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <c>)</c>
+  <w>í</w>
+  <w>miðtaugakerfinu</w>
+  <c>.</c>
+</s>
+<s n="87">
+  <w>En</w>
+  <w>þegar</w>
+  <w>þessar</w>
+  <w>frumur</w>
+  <w>sýkjast</w>
+  <w>eða</w>
+  <w>veikjast</w>
+  <w>framleiða</w>
+  <w>þær</w>
+  <w>bólguefnið</w>
+  <revision id="152">
+    <original><w>cytokines</w></original>
+    <corrected><w><i>cytokines</i></w></corrected>
+      <errors>
+        <error xtype="nonit4it" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>aftur</w>
+  <w>veldur</w>
+  <w>skaða</w>
+  <c>.</c>
+</s>
+<s n="88">
+  <revision id="153">
+    <original><w>Microlial</w><w>ónæmis</w><w>frumur</w></original>
+    <corrected><w>Microliar-ónæmisfrumur</w></corrected>
+      <errors>
+        <error xtype="missing-dash" idx="153-1" eid="0" />
+        <error xtype="split-compound" idx="153-2" eid="0" />
+      </errors>
+  </revision>
+  <w>gætu</w>
+  <w>verið</w>
+  <w>lykilþáttur</w>
+  <w>í</w>
+  <w>því</w>
+  <w>ferli</w>
+  <w>sem</w>
+  <w>orsakar</w>
+  <w>síþreytu</w>
+  <c>,</c>
+  <w>flensueinkenni</w>
+  <c>,</c>
+  <w>verki</w>
+  <w>og</w>
+  <w>fleira</w>
+  <c>.</c>
+</s>
+<s n="89">
+  <w>Sumir</w>
+  <w>vísindamenn</w>
+  <w>telja</w>
+  <w>að</w>
+  <w>krónísk</w>
+  <w>sýking</w>
+  <w>fari</w>
+  <w>í</w>
+  <w>gang</w>
+  <w>hjá</w>
+  <w>fólki</w>
+  <w>með</w>
+  <w>ME</w>
+  <w>og</w>
+  <w>CFS</w>
+  <c>.</c>
+</s>
+<s n="90">
+  <w>Þar</w>
+  <w>sem</w>
+  <w>LDN</w>
+  <w>virðist</w>
+  <w>geta</w>
+  <revision id="154">
+    <original><w>blokkerað</w></original>
+    <corrected><w>teppt</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>lykilviðtakana</w>
+  <c>(</c>
+  <w>TLR</w>
+  <w>4</w>
+  <c>)</c>
+  <w>í</w>
+  <revision id="155">
+    <original><w>microglial</w><w>ónæmis</w><w>frumum</w></original>
+    <corrected><w>microglial-ónæmisfrumum</w></corrected>
+      <errors>
+        <error xtype="missing-dash" idx="155-1" eid="0" />
+        <error xtype="split-compound" idx="155-2" eid="0" />
+      </errors>
+  </revision>
+  <w>virðist</w>
+  <w>það</w>
+  <w>geta</w>
+  <w>hamlað</w>
+  <w>því</w>
+  <w>að</w>
+  <w>það</w>
+  <w>kvikni</w>
+  <w>á</w>
+  <w>þeim</w>
+  <c>.</c>
+</s>
+<s n="91">
+  <w>Margar</w>
+  <w>konur</w>
+  <w>með</w>
+  <revision id="156">
+    <original><w>MS</w><w>sjúkdóminn</w></original>
+    <corrected><w>MS-sjúkdóminn</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>ME</w>
+  <w>og</w>
+  <w>CFS</w>
+  <w>virðast</w>
+  <w>upplifa</w>
+  <w>bata</w>
+  <w>á</w>
+  <w>meðgöngu</w>
+  <w>á</w>
+  <w>meðan</w>
+  <w>hátt</w>
+  <w>magn</w>
+  <w>af</w>
+  <w>innri</w>
+  <w>opíötum</w>
+  <w>virðist</w>
+  <w>vera</w>
+  <w>í</w>
+  <w>líkamanum</w>
+  <w>en</w>
+  <w>svo</w>
+  <w>upplifa</w>
+  <w>þær</w>
+  <w>oft</w>
+  <w>versnun</w>
+  <w>nokkrum</w>
+  <w>mánuðum</w>
+  <w>eftir</w>
+  <w>meðgöngu</w>
+  <w>þegar</w>
+  <w>magn</w>
+  <w>þessara</w>
+  <w>innri</w>
+  <w>opíata</w>
+  <w>fellur</w>
+  <c>.</c>
+</s>
+<s n="92">
+  <w>Þetta</w>
+  <w>bendir</w>
+  <w>til</w>
+  <w>þess</w>
+  <w>að</w>
+  <w>einn</w>
+  <w>eða</w>
+  <w>fleiri</w>
+  <w>opíataviðtaki</w>
+  <w>sem</w>
+  <w>LDN</w>
+  <w>hefur</w>
+  <w>áhrif</w>
+  <w>á</w>
+  <w>gæti</w>
+  <w>spilað</w>
+  <w>rullu</w>
+  <w>í</w>
+  <w>framgangi</w>
+  <w>þessara</w>
+  <w>sjúkdóma</w>
+  <c>.</c>
+</s>
+<s n="93">
+  <w>Aukaverkanir</w>
+  <w>af</w>
+  <w>lyfinu</w>
+  <w>eru</w>
+  <w>yfirleitt</w>
+  <w>í</w>
+  <w>lágmarki</w>
+  <w>en</w>
+  <w>geta</w>
+  <w>lýst</w>
+  <w>sér</w>
+  <w>sem</w>
+  <w>langvarandi</w>
+  <w>stinning</w>
+  <w>hjá</w>
+  <w>karlmönnum</w>
+  <c>,</c>
+  <w>svefntruflanir</w>
+  <w>og</w>
+  <w>auknar</w>
+  <w>draumfarir</w>
+  <revision id="157">
+    <original><c>(</c></original>
+    <corrected><c>,</c><w>þá</w></corrected>
+      <errors>
+        <error xtype="bracket4comma" idx="157-1" eid="0" />
+        <error xtype="missing-word" idx="157-2" eid="0" />
+      </errors>
+  </revision>
+  <w>aðallega</w>
+  <w>í</w>
+  <w>upphafi</w>
+  <w>meðferðar</w>
+  <revision id="158">
+    <original><c>)</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-bracket" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="94">
+  <w>Naltrexón</w>
+  <w>var</w>
+  <w>þróað</w>
+  <w>upp</w>
+  <w>úr</w>
+  <w>1970</w>
+  <w>í</w>
+  <w>tengslum</w>
+  <w>við</w>
+  <w>þörfina</w>
+  <w>fyrir</w>
+  <w>öfluga</w>
+  <w>meðferð</w>
+  <w>við</w>
+  <revision id="159">
+    <original><w>heróín</w><w>fíkn</w></original>
+    <corrected><w>heróínfíkn</w></corrected>
+      <errors>
+        <error xtype="split-compound" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="95">
+  <w>Fljótlega</w>
+  <w>eftir</w>
+  <w>þá</w>
+  <w>þróunarvinnu</w>
+  <w>fóru</w>
+  <w>læknarnir</w>
+  <w>Ian</w>
+  <w>S.</w>
+  <w>Zagon</w>
+  <w>og</w>
+  <w>Patricia</w>
+  <w>McLaughlin</w>
+  <w>við</w>
+  <w><i>Hershey</i></w>
+  <w><i>Medical</i></w>
+  <w><i>Center</i></w>
+  <w>við</w>
+  <w><i>Penn</i></w>
+  <w><i>State</i></w>
+  <w><i>University</i></w>
+  <w><i>College</i></w>
+  <w><i>of</i></w>
+  <w><i>Medicine</i></w>
+  <w>að</w>
+  <w>rannsaka</w>
+  <w>hvort</w>
+  <w>Naltrexón</w>
+  <w>gæti</w>
+  <w>gagnast</w>
+  <w>við</w>
+  <w>öðrum</w>
+  <w>sjúkdómum</w>
+  <c>.</c>
+</s>
+<s n="96">
+  <w>Árið 1982</w>
+  <w>uppgötvuðu</w>
+  <w>Zagon</w>
+  <w>og</w>
+  <w>McLaughlin</w>
+  <w>að</w>
+  <w>Naltrexón</w>
+  <w>hafði</w>
+  <w>áhrif</w>
+  <w>á</w>
+  <w>frumuvöxt</w>
+  <w>á</w>
+  <w>mismunandi</w>
+  <w>hátt</w>
+  <w>eftir</w>
+  <w>því</w>
+  <w>hvort</w>
+  <w>lyfið</w>
+  <w>væri</w>
+  <w>gefið</w>
+  <w>í</w>
+  <w>háum</w>
+  <w>eða</w>
+  <w>lágum</w>
+  <w>skömmtum</w>
+  <c>.</c>
+</s>
+<s n="97">
+  <w>Þessi</w>
+  <w>niðurstaða</w>
+  <w>gerði</w>
+  <w>það</w>
+  <w>að</w>
+  <w>verkum</w>
+  <w>að</w>
+  <w>Zagon</w>
+  <w>og</w>
+  <w>hans</w>
+  <w>teymi</w>
+  <w>héldu</w>
+  <w>áfram</w>
+  <w>að</w>
+  <w>rannsaka</w>
+  <w>naltrexón</w>
+  <w>í</w>
+  <w>tengslum</w>
+  <w>við</w>
+  <w>aðra</w>
+  <w>sjúkdóma</w>
+  <c>.</c>
+</s>
+<s n="98">
+  <w>Fyrir</w>
+  <w>tilviljun</w>
+  <w>uppgötvuðu</w>
+  <w>þau</w>
+  <w>að</w>
+  <w>Naltrexón</w>
+  <w>eykur</w>
+  <w>náttúrulega</w>
+  <w>framleiðslu</w>
+  <w>líkamans</w>
+  <w>á</w>
+  <w>endorfíni</w>
+  <w>þegar</w>
+  <w>það</w>
+  <w>er</w>
+  <w>gefið</w>
+  <w>í</w>
+  <w>lágum</w>
+  <w>skömmtum</w>
+  <c>.</c>
+</s>
+<s n="99">
+  <w>Um</w>
+  <w>miðjan</w>
+  <w>níunda</w>
+  <w>áratuginn</w>
+  <w>byrjaði</w>
+  <revision id="160">
+    <original><w>Harvard</w><w>menntaði</w></original>
+    <corrected><w>Harvard-menntaði</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>taugasérfræðingurinn</w>
+  <revision id="161">
+    <original><w>Dr</w></original>
+    <corrected><w>Dr.</w></corrected>
+      <errors>
+        <error xtype="abbreviation-period" eid="0" />
+      </errors>
+  </revision>
+  <w>Bernard</w>
+  <w>Bihari</w>
+  <w>sem</w>
+  <w>þá</w>
+  <w>var</w>
+  <w>yfir</w>
+  <w>fíknisviði</w>
+  <w><i>State</i></w>
+  <w><i>University</i></w>
+  <w><i>of</i></w>
+  <w><i>New</i></w>
+  <w><i>York</i></w>
+  <w><i></i></w>
+  <c>(</c>
+  <w>SUNY</w>
+  <c>)</c>
+  <w><i></i></w>
+  <w><i>Health</i></w>
+  <w><i>Service</i></w>
+  <w><i>Center</i></w>
+  <w>í</w>
+  <w>Brooklyn</w>
+  <c>,</c>
+  <w>að</w>
+  <w>nota</w>
+  <w>naltrexón</w>
+  <w>á</w>
+  <w>fíknisjúklinga</w>
+  <w>sína</w>
+  <c>.</c>
+</s>
+<s n="100">
+  <w>Margir</w>
+  <w>af</w>
+  <w>þessum</w>
+  <w>sömu</w>
+  <w>sjúklingum</w>
+  <w>voru</w>
+  <w>einnig</w>
+  <w>veikir</w>
+  <w>af</w>
+  <revision id="162">
+    <original><w>HIV</w><w>vírusnum</w></original>
+    <corrected><w>HIV-vírusnum</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>veldur</w>
+  <w>ónæmishruni</w>
+  <revision id="163">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-commas" idx="163-1" eid="0" />
+      </errors>
+  </revision>
+  <w>AIDS</w>
+  <revision id="164">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="dep" depid="163-1" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>því</w>
+  <w>gat</w>
+  <w>dr.</w>
+  <w>Bihari</w>
+  <w>skoðað</w>
+  <w>áhrif</w>
+  <w>Naltrexón</w>
+  <w>á</w>
+  <w>ónæmiskerfi</w>
+  <w>þeirra</w>
+  <c>.</c>
+</s>
+<s n="101">
+  <w>Dr.</w>
+  <w>Bihari</w>
+  <w>tók</w>
+  <w>eftir</w>
+  <w>því</w>
+  <w>að</w>
+  <w>það</w>
+  <w>dró</w>
+  <w>úr</w>
+  <w>tilvikum</w>
+  <w>Kaposi's</w>
+  <w>sarcoma</w>
+  <revision id="165">
+    <original><c>(</c><w>sem</w><w>er</w><w>krabbameins</w><w>æxlismyndun</w></original>
+    <corrected><c>,</c><w>krabbameinsæxlismyndun</w></corrected>
+      <errors>
+        <error xtype="bracket4comma" idx="165-1" eid="0" />
+        <error xtype="extra-words" idx="165-2" eid="0" />
+        <error xtype="split-compound" idx="165-3" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>kemur</w>
+  <w>oftast</w>
+  <w>fram</w>
+  <w>í</w>
+  <w>húð</w>
+  <w>eða</w>
+  <w>munnholi</w>
+  <revision id="166">
+    <original><c>)</c></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="bracket4comma" eid="0" />
+      </errors>
+  </revision>
+  <w>hjá</w>
+  <w>þessum</w>
+  <w>sjúklingum</w>
+  <w>sem</w>
+  <w>hann</w>
+  <w>skrifaði</w>
+  <w>á</w>
+  <w>áhrif</w>
+  <w>naltrexóns</w>
+  <c>.</c>
+</s>
+<s n="102">
+  <w>Hvattur</w>
+  <w>áfram</w>
+  <w>af</w>
+  <w>eigin</w>
+  <w>niðurstöðum</w>
+  <w>og</w>
+  <w>rannsóknum</w>
+  <w>þeirra</w>
+  <w>Zagon</w>
+  <w>og</w>
+  <w>McLaughlin</w>
+  <w>framkvæmdi</w>
+  <w>dr.</w>
+  <w>Bihari</w>
+  <w>fyrstu</w>
+  <w>klínísku</w>
+  <w>rannsóknina</w>
+  <w>á</w>
+  <w>LDN</w>
+  <w>á</w>
+  <w>sjúklingum</w>
+  <w>með</w>
+  <w>HIV</w>
+  <w>árin</w>
+  <w>1985</w>
+  <w>og</w>
+  <w>1986</w>
+  <w>við</w>
+  <w><i>Downstate</i></w>
+  <w><i>Medical</i></w>
+  <w><i>Center</i></w>
+  <w>í</w>
+  <w>New</w>
+  <w>York</w>
+  <c>.</c>
+</s>
+<s n="103">
+  <w>Rannsóknin</w>
+  <w>var</w>
+  <w>fjármögnuð</w>
+  <w>af</w>
+  <w><i>Foundation</i></w>
+  <w><i>for</i></w>
+  <w><i>Intergrative</i></w>
+  <w><i>Research</i></w>
+  <c>.</c>
+</s>
+<s n="104">
+  <w>Með</w>
+  <w>rannsókninni</w>
+  <w>sýndi</w>
+  <w>dr.</w>
+  <w>Bihari</w>
+  <w>fram</w>
+  <w>á</w>
+  <w>með</w>
+  <w>tilraunum</w>
+  <w>að</w>
+  <w>LDN</w>
+  <w>virtist</w>
+  <w>bæta</w>
+  <revision id="167">
+    <original><w>ónæmis</w><w>virkni</w></original>
+    <corrected><w>ónæmisvirkni</w></corrected>
+      <errors>
+        <error xtype="split-compound" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <revision id="168">
+    <original><w>HIV</w><w>sýktum</w></original>
+    <corrected><w>HIV-sýktum</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>sjúklingum</w>
+  <c>.</c>
+</s>
+<s n="105">
+  <w>Hann</w>
+  <w>kynnti</w>
+  <w>þessar</w>
+  <w>niðurstöður</w>
+  <w>á</w>
+  <w>alþjóðlegri</w>
+  <w>ráðstefnu</w>
+  <w>um</w>
+  <w>AIDS</w>
+  <w>í</w>
+  <w>París</w>
+  <c>,</c>
+  <w>Frakklandi</w>
+  <w>í</w>
+  <w>júní árið 1986</w>
+  <c>.</c>
+</s>
+<s n="106">
+  <w>Eftir</w>
+  <w>rannsóknina</w>
+  <w>hóf</w>
+  <w>dr.</w>
+  <w>Bihari</w>
+  <w>að</w>
+  <w>gefa</w>
+  <w>sjúklingum</w>
+  <w>með</w>
+  <w>HIV</w>
+  <w>og</w>
+  <w>aðra</w>
+  <w>ónæmistengda</w>
+  <w>sjúkdóma</w>
+  <revision id="169">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>svo</w>
+  <w>sem</w>
+  <w>MS</w>
+  <w>og</w>
+  <revision id="170">
+    <original><w>Lymphoma</w><c>(</c><w>krabbamein</w><c>)</c></original>
+    <corrected><w>eitilfrumukrabbamein</w><c>,</c></corrected>
+      <errors>
+        <error xtype="wording" idx="170-1" eid="0" />
+        <error xtype="extra-bracket" idx="170-2" eid="0" />
+        <error xtype="missing-comma" idx="170-3" eid="0" />
+      </errors>
+  </revision>
+  <w>LDN</w>
+  <c>.</c>
+</s>
+<s n="107">
+  <w>Síðan</w>
+  <w>þá</w>
+  <w>hefur</w>
+  <w>dr.</w>
+  <w>Bihari</w>
+  <w>meðhöndlað</w>
+  <revision id="171">
+    <original><w>hundruði</w></original>
+    <corrected><w>hundruð</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
+  <w>sjúklinga</w>
+  <w>með</w>
+  <w>víðtæka</w>
+  <w>og</w>
+  <w>ólíka</w>
+  <w>sjúkdóma</w>
+  <w>með</w>
+  <w>LDN</w>
+  <c>.</c>
+</s>
+<s n="108">
+  <revision id="172">
+    <original><w>Æsku</w><w>vinur</w></original>
+    <corrected><w>Æskuvinur</w></corrected>
+      <errors>
+        <error xtype="split-compound" eid="0" />
+      </errors>
+  </revision>
+  <w>Biharis</w>
+  <revision id="173">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-commas" idx="173-1" eid="0" />
+      </errors>
+  </revision>
+  <w>læknirinn</w>
+  <w>David</w>
+  <w>Gluck</w>
+  <revision id="174">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="dep" depid="173-1" eid="0" />
+      </errors>
+  </revision>
+  <w>hefur</w>
+  <w>vakið</w>
+  <w>athygli</w>
+  <w>á</w>
+  <w>niðurstöðum</w>
+  <w>Biharis</w>
+  <w>með</w>
+  <revision id="175">
+    <original><w>upplýsinga</w><w>vefsíðu</w></original>
+    <corrected><w>upplýsingavefsíðu</w></corrected>
+      <errors>
+        <error xtype="split-compound" eid="0" />
+      </errors>
+  </revision>
+  <w>um</w>
+  <w>LDN</w>
+  <c>.</c>
+</s>
+<s n="109">
+  <w>Meðan</w>
+  <w>Zagon</w>
+  <w>rannsakaði</w>
+  <w>LDN</w>
+  <w>komst</w>
+  <w>hann</w>
+  <w>að</w>
+  <w>því</w>
+  <w>að</w>
+  <revision id="176">
+    <original><w>megin</w><w>áhrif</w></original>
+    <corrected><w>megináhrif</w></corrected>
+      <errors>
+        <error xtype="split-compound" eid="0" />
+      </errors>
+  </revision>
+  <w>þess</w>
+  <w>væru</w>
+  <w>aukning</w>
+  <w>á</w>
+  <w>framleiðslu</w>
+  <revision id="177">
+    <original><w>endogenous</w><w>opiate</w><w>met</w></original>
+    <corrected><w><i>endogenous</i></w><w><i>opiate</i></w><w><i>met</i></w></corrected>
+      <errors>
+        <error xtype="nonit4it" eid="0" />
+      </errors>
+  </revision>
+  <c>-</c>
+  <w>5</w>
+  <c>-</c>
+  <revision id="178">
+    <original><w>enkephalin</w></original>
+    <corrected><w><i>enkephalin</i></w></corrected>
+      <errors>
+        <error xtype="nonit4it" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>sem</w>
+  <w>hann</w>
+  <w>kallaði</w>
+  <w><i>opioid</i></w>
+  <w><i>growth</i></w>
+  <w><i>factor</i></w>
+  <c>(</c>
+  <w>OGF</w>
+  <c>)</c>
+  <w>eða</w>
+  <revision id="179">
+    <original><w>ópíata</w><w>vaxtabreytu</w></original>
+    <corrected><w>ópíatavaxtabreytu</w></corrected>
+      <errors>
+        <error xtype="split-compound" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="110">
+  <w>Rannsóknir</w>
+  <w>Zagon's</w>
+  <w>á</w>
+  <revision id="180">
+    <original><w>ópíata</w><w>vaxtabreytu</w></original>
+    <corrected><w>ópíatavaxtabreytum</w></corrected>
+      <errors>
+        <error xtype="split-compound" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <revision id="181">
+    <original><w>opiata</w><w>vaxtabreytu</w><w>viðtökum</w></original>
+    <corrected><w>ópíatavaxtabreytuviðtökum</w></corrected>
+      <errors>
+        <error xtype="split-compound" eid="0" />
+      </errors>
+  </revision>
+  <w>leiddi</w>
+  <w>til</w>
+  <w>þess</w>
+  <w>að</w>
+  <w>uppgötva</w>
+  <w>OGF</w>
+  <w>sem</w>
+  <w>meðferðarfræðilegt</w>
+  <w>efni</w>
+  <c>.</c>
+</s>
+<s n="111">
+  <w>Ásamt</w>
+  <w>dr.</w>
+  <w>Jill</w>
+  <w>Smith</w>
+  <w>framkvæmdi</w>
+  <w>Zagon</w>
+  <w>klíníska</w>
+  <w>forrannsókn</w>
+  <w>á</w>
+  <w>LDN</w>
+  <w>við</w>
+  <revision id="182">
+    <original><w>Chron's</w><w>sjúkdómi</w></original>
+    <corrected><w>Chron's-sjúkdómi</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>sýndi</w>
+  <w>ávinning</w>
+  <w>af</w>
+  <w>lyfinu</w>
+  <w>fyrir</w>
+  <w>89%</w>
+  <w>sjúklinga</w>
+  <c>.</c>
+</s>
+<s n="112">
+  <w>Í</w>
+  <w>klínískum</w>
+  <w>rannsóknum</w>
+  <w>á</w>
+  <w>Naltrexón</w>
+  <w>og</w>
+  <w>OGF</w>
+  <w>sýndi</w>
+  <w>Zagon</w>
+  <w>fram</w>
+  <w>á</w>
+  <w>hraðari</w>
+  <w>gróanda</w>
+  <w>sára</w>
+  <w>hjá</w>
+  <w>sjúklingum</w>
+  <w>með</w>
+  <w>sykursýki</w>
+  <w>auk</w>
+  <w>þess</w>
+  <w>sem</w>
+  <w>hann</w>
+  <w>sýndi</w>
+  <w>fram</w>
+  <w>á</w>
+  <w>ávinning</w>
+  <w>af</w>
+  <w>lyfinu</w>
+  <w>fyrir</w>
+  <w>sjúklinga</w>
+  <w>með</w>
+  <w>krabbamein</w>
+  <w>í</w>
+  <w>brisi</w>
+  <c>,</c>
+  <w>og</w>
+  <w>æxli</w>
+  <w>í</w>
+  <w>höfði</w>
+  <w>og</w>
+  <w>hálsi</w>
+  <c>.</c>
+</s>
+<s n="113">
+  <w>Aðrir</w>
+  <w>fræðimenn</w>
+  <w>hafa</w>
+  <w>um</w>
+  <w>árabil</w>
+  <w>einnig</w>
+  <w>rannsakað</w>
+  <w>áhrif</w>
+  <revision id="183">
+    <original><w>opíat</w><w>blokka</w></original>
+    <corrected><w>opíatblokka</w></corrected>
+      <errors>
+        <error xtype="split-compound" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>ýmsa</w>
+  <w>sjúkdóma</w>
+  <c>.</c>
+</s>
+<s n="114">
+  <w>Við</w>
+  <w>háskólann</w>
+  <w>í</w>
+  <w>Iowa</w>
+  <c>(</c>
+  <revision id="184">
+    <original></original>
+    <corrected><w>e.</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w><i>University</i></w>
+  <w><i>of</i></w>
+  <w><i>Iowa</i></w>
+  <c>,</c>
+  <w>seinna</w>
+  <revision id="185">
+    <original><w>Cornell</w><w>University</w></original>
+    <corrected><w><i>Cornell</i></w><w><i>University</i></w></corrected>
+      <errors>
+        <error xtype="nonit4it" eid="0" />
+      </errors>
+  </revision>
+  <c>)</c>
+  <w>hefur</w>
+  <w>dr.</w>
+  <w>Yash</w>
+  <w>Agrawal</w>
+  <w>rannsakað</w>
+  <w>og</w>
+  <w>skrifað</w>
+  <w>um</w>
+  <w>hlutverk</w>
+  <w>LDN</w>
+  <w>við</w>
+  <w>að</w>
+  <w>draga</w>
+  <w>úr</w>
+  <w>oxunarálagi</w>
+  <w>og</w>
+  <w>að</w>
+  <w>hamla</w>
+  <w>framleiðslu</w>
+  <w>úteiturs</w>
+  <w>sem</w>
+  <w>hefur</w>
+  <w>áhrif</w>
+  <w>á</w>
+  <w>taugahrörnunarsjúkdóma</w>
+  <c>.</c>
+</s>
+<s n="115">
+  <c>(</c>
+  <w>Medical</w>
+  <w>Hypotheses</w>
+  <w>64</w>
+  <c>,</c>
+  <w>no.</w>
+  <w>4</w>
+  <c>(</c>
+  <w>2005</w>
+  <c>)</c>
+  <w>721</w>
+  <c>-</c>
+  <w>724</w>
+  <c>)</c>
+  <c>.</c>
+</s>
+<s n="116">
+  <w>En</w>
+  <w>vegna</w>
+  <w>þess</w>
+  <w>hve</w>
+  <w>formlegar</w>
+  <w>rannsóknir</w>
+  <w>og</w>
+  <w>útgáfur</w>
+  <w>eru</w>
+  <w>fáar</w>
+  <w>og</w>
+  <revision id="186">
+    <original><w>ekki</w></original>
+    <corrected><w>einskis</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>samþykki</w>
+  <w>frá</w>
+  <w>FDA</w>
+  <w>til</w>
+  <w>að</w>
+  <w>nota</w>
+  <w>naltrexón</w>
+  <w>í</w>
+  <w>þeim</w>
+  <w>tilgangi</w>
+  <w>sem</w>
+  <w>hér</w>
+  <w>um</w>
+  <w>ræðir</w>
+  <w>hefur</w>
+  <w>lyfið</w>
+  <w>ekki</w>
+  <w>notið</w>
+  <w>almennrar</w>
+  <w>viðurkenningar</w>
+  <c>.</c>
+</s>
+<s n="117">
+  <w>Læknar</w>
+  <w>eru</w>
+  <w>ekki</w>
+  <w>hvattir</w>
+  <w>af</w>
+  <w>lyfjafyrirtækjunum</w>
+  <w>til</w>
+  <w>að</w>
+  <w>skrifa</w>
+  <w>út</w>
+  <w>LDN</w>
+  <c>.</c>
+</s>
+<s n="118">
+  <w>Læknatímarit</w>
+  <w>birta</w>
+  <w>ekki</w>
+  <w>heilsíðuauglýsingar</w>
+  <w>þar</w>
+  <w>sem</w>
+  <w>hvatt</w>
+  <w>er</w>
+  <w>til</w>
+  <w>notkunar</w>
+  <w>lyfsins</w>
+  <c>.</c>
+</s>
+<s n="119">
+  <w>Þá</w>
+  <w>hafa</w>
+  <w>lyfjafyrirtæki</w>
+  <w>lítinn</w>
+  <w>ávinning</w>
+  <w>af</w>
+  <w>því</w>
+  <w>að</w>
+  <w>fjármagna</w>
+  <w>rannsóknir</w>
+  <w>á</w>
+  <w>lyfi</w>
+  <w>sem</w>
+  <w>í</w>
+  <w>grunninn</w>
+  <w>er</w>
+  <w>nú</w>
+  <w>þegar</w>
+  <w>samþykkt</w>
+  <w>af</w>
+  <w>bandaríska</w>
+  <w>fæðu- og lyfjastofnuninni</w>
+  <w>FDA</w>
+  <w>og</w>
+  <w>er</w>
+  <w>víða</w>
+  <w>framleitt</w>
+  <w>og</w>
+  <w>selt</w>
+  <w>í</w>
+  <w>50 mg</w>
+  <w>töflum</w>
+  <c>.</c>
+</s>
+<s n="120">
+  <w>Því</w>
+  <w>þurfa</w>
+  <w>apótek</w>
+  <w>með</w>
+  <w>eigin</w>
+  <w>lyfjablöndunaraðstöðu</w>
+  <w>að</w>
+  <w>sjá</w>
+  <w>um</w>
+  <w>að</w>
+  <w>útbúa</w>
+  <w>og</w>
+  <w>afgreiða</w>
+  <w>LDN</w>
+  <w>sem</w>
+  <w>notað</w>
+  <w>er</w>
+  <w>í</w>
+  <w>skammtastærðum</w>
+  <w>allt</w>
+  <w>frá</w>
+  <w>1,5 mg</w>
+  <w>upp</w>
+  <w>í</w>
+  <w>10 mg</w>
+  <c>.</c>
+</s>
+<s n="121">
+  <w>Þrátt</w>
+  <w>fyrir</w>
+  <w>skort</w>
+  <w>á</w>
+  <w>rannsóknum</w>
+  <w>og</w>
+  <w>auglýsingu</w>
+  <w>hafa</w>
+  <w>vinsældir</w>
+  <w>LDN</w>
+  <w>aukist</w>
+  <w>jafnt</w>
+  <w>og</w>
+  <w>þétt</w>
+  <c>.</c>
+</s>
+<s n="122">
+  <w>Fyrsta</w>
+  <w>árlega</w>
+  <revision id="187">
+    <original><w>LDN</w><w>ráðstefnan</w></original>
+    <corrected><w>LDN-ráðstefnan</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>var</w>
+  <w>haldin</w>
+  <w>árið 2005</w>
+  <w>og</w>
+  <w>laðaði</w>
+  <w>hún</w>
+  <w>að</w>
+  <w>sér</w>
+  <w>marga</w>
+  <w>lækna</w>
+  <w>og</w>
+  <w>sjúklinga</w>
+  <w>alls</w>
+  <revision id="188">
+    <original><w>staðan</w></original>
+    <corrected><w>staðar</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>úr</w>
+  <w>heiminum</w>
+  <w>og</w>
+  <w>hver</w>
+  <w>ráðstefnan</w>
+  <w>á</w>
+  <w>fætur</w>
+  <w>annari</w>
+  <revision id="189">
+    <original><w>hafa</w></original>
+    <corrected><w>hefur</w></corrected>
+      <errors>
+        <error xtype="agreement" eid="0" />
+      </errors>
+  </revision>
+  <w>laðað</w>
+  <w>að</w>
+  <w>sér</w>
+  <w>enn</w>
+  <w>fleiri</w>
+  <c>.</c>
+</s>
+<s n="123">
+  <w>Sérstaklega</w>
+  <w>er</w>
+  <w>það</w>
+  <w>árangur</w>
+  <w>LDN</w>
+  <w>við</w>
+  <w>meðhöndlun</w>
+  <revision id="190">
+    <original><w>MS</w><w>sjúkdómsins</w></original>
+    <corrected><w>MS-sjúkdómsins</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>hefur</w>
+  <w>vakið</w>
+  <w>athygli</w>
+  <c>.</c>
+</s>
+<s n="124">
+  <w>Víða</w>
+  <w>um</w>
+  <w>heim</w>
+  <w>er</w>
+  <w>haldið</w>
+  <w>úti</w>
+  <w>vefsíðum</w>
+  <w>sem</w>
+  <w>bæði</w>
+  <w>eru</w>
+  <w>stofnaðar</w>
+  <w>af</w>
+  <w>læknum</w>
+  <w>og</w>
+  <w>sjúklingum</w>
+  <w>og</w>
+  <w>lýsa</w>
+  <w>verklagi</w>
+  <w>við</w>
+  <w>inntöku</w>
+  <w>LDN</w>
+  <w>hjá</w>
+  <revision id="191">
+    <original><w>MS</w><w>sjúklingum</w></original>
+    <corrected><w>MS-sjúklingum</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>miðla</w>
+  <w>árangrinum</w>
+  <c>.</c>
+</s>
+<s n="125">
+  <w>Frá</w>
+  <w>árinu 2005</w>
+  <w>hafa</w>
+  <w>ýmis</w>
+  <w>tímarit</w>
+  <w>allt</w>
+  <w>frá</w>
+  <w><i>The</i></w>
+  <w><i>Townsend</i></w>
+  <w><i>Newsletter</i></w>
+  <w><i>for</i></w>
+  <w><i>Doctors</i></w>
+  <c>,</c>
+  <w><i>The</i></w>
+  <w><i>Boston</i></w>
+  <w><i>Cure</i></w>
+  <w><i>Project</i></w>
+  <w><i>Newsletter</i></w>
+  <c>,</c>
+  <w><i>The</i></w>
+  <w><i>Fort</i></w>
+  <w><i>Meyers</i></w>
+  <w><i>Florida</i></w>
+  <w><i>Island</i></w>
+  <w><i>Newsletter</i></w>
+  <c>,</c>
+  <w><i>Medical</i></w>
+  <w><i>Hypotheses</i></w>
+  <w>og</w>
+  <w><i>The</i></w>
+  <w><i>London</i></w>
+  <w><i>Herald</i></w>
+  <w>birt</w>
+  <w>greinar</w>
+  <w>um</w>
+  <w>LDN</w>
+  <w>þar</w>
+  <w>sem</w>
+  <w>vakin</w>
+  <w>er</w>
+  <w>athygli</w>
+  <w>á</w>
+  <w>þörfinni</w>
+  <w>fyrir</w>
+  <w>fleiri</w>
+  <w>klínískar</w>
+  <w>rannsóknir</w>
+  <w>á</w>
+  <w>lyfinu</w>
+  <c>.</c>
+</s>
+<s n="126">
+  <w>Á</w>
+  <w>Íslandi</w>
+  <w>er</w>
+  <w>haldið</w>
+  <w>úti</w>
+  <w>vefsíðu</w>
+  <w>um</w>
+  <w>LDN</w>
+  <w>sem</w>
+  <w>stýrt</w>
+  <w>er</w>
+  <w>af</w>
+  <w>notendum</w>
+  <w>og</w>
+  <w>nokkrar</w>
+  <w>greinar</w>
+  <w>hafa</w>
+  <w>birst</w>
+  <w>um</w>
+  <w>lyfið</w>
+  <w>svo</w>
+  <w>sem</w>
+  <w>grein</w>
+  <w>á</w>
+  <w>Heilsuhringnum</w>
+  <c>.</c>
+</s>
+<s n="127">
+  <w>Árbæjarapótek</w>
+  <w>á</w>
+  <w>Íslandi</w>
+  <w>blandar</w>
+  <w>og</w>
+  <w>selur</w>
+  <w>LDN</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

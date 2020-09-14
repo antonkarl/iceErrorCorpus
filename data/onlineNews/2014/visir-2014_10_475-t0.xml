@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Vegna</w>
+  <w>fréttar</w>
+  <w>sem</w>
+  <w>birtist</w>
+  <w>í</w>
+  <revision id="1">
+    <original><w>Fréttablaðinuí</w></original>
+    <corrected><w>Fréttablaðinu</w><w>í</w></corrected>
+      <errors>
+        <error xtype="merged-words" idx="1-1" eid="0" />
+        <error xtype="nonword" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>morgun</w>
+  <revision id="2">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-commas" idx="2-1" eid="0" />
+      </errors>
+  </revision>
+  <w>um</w>
+  <revision id="3">
+    <original><w>það</w><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wording" idx="3-1" eid="0" />
+      </errors>
+  </revision>
+  <w>þrjú</w>
+  <w>hundruð</w>
+  <w>milljónir</w>
+  <revision id="4">
+    <original><w>vanti</w></original>
+    <corrected><w>sem</w></corrected>
+      <errors>
+        <error xtype="dep" depId="3-1" eid="0" />
+      </errors>
+  </revision>
+  <w>upp</w>
+  <w>á</w>
+  <revision id="5">
+    <original><w>að</w></original>
+    <corrected><w>vantar</w><w>svo</w></corrected>
+      <errors>
+        <error xtype="dep" depId="3-1" eid="0" />
+      </errors>
+  </revision>
+  <w>ríkið</w>
+  <revision id="6">
+    <original><w>standi</w><w>við</w></original>
+    <corrected><w>standist</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>samning</w>
+  <w>sem</w>
+  <w>gerður</w>
+  <w>var</w>
+  <w>við</w>
+  <w>sveitarfélög</w>
+  <w>á</w>
+  <w>höfuðborgarsvæðinu</w>
+  <w>um</w>
+  <w>almenningssamgöngur</w>
+  <revision id="7">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="dep" depId="2-1" eid="0" />
+      </errors>
+  </revision>
+  <w>hafa</w>
+  <w>aðildarfélög</w>
+  <w>Ungra</w>
+  <w>jafnaðarmanna</w>
+  <w>á</w>
+  <w>höfuðborgarsvæðinu</w>
+  <w>sent</w>
+  <w>frá</w>
+  <w>sér</w>
+  <w>sameiginlega</w>
+  <w>yfirlýsingu</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Ungir</w>
+  <w>jafnaðarmenn</w>
+  <w>á</w>
+  <w>höfuðborgarsvæðinu</w>
+  <w>eru</w>
+  <w>vonsviknir</w>
+  <w>vegna</w>
+  <w>svika</w>
+  <w>ríkisstjórnarinnar</w>
+  <w>eins</w>
+  <w>og</w>
+  <revision id="8">
+    <original><w>þau</w></original>
+    <corrected><w>samtökin</w></corrected>
+      <errors>
+        <error xtype="pro4noun" eid="0" />
+      </errors>
+  </revision>
+  <w>orða</w>
+  <w>það</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <c>„</c>
+  <w>Aðildarfélög</w>
+  <w>Ungra</w>
+  <w>jafnaðarmanna</w>
+  <w>á</w>
+  <revision id="9">
+    <original><w>höfuðborgarsvæðinu-Bersinn</w></original>
+    <corrected><w>höfuðborgarsvæðinu</w><c>;</c><w>Bersinn</w></corrected>
+      <errors>
+        <error xtype="dash4semicolon" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>Hafnarfirði</w>
+  <c>,</c>
+  <w>Hallveig</w>
+  <w>í</w>
+  <w>Reykjavík</w>
+  <w>og</w>
+  <w>Rannveig</w>
+  <w>í</w>
+  <revision id="10">
+    <original><w>Kópavogi-gagnrýna</w></original>
+    <corrected><w>Kópavogi</w><c>,</c><w>gagnrýna</w></corrected>
+      <errors>
+        <error xtype="dash4comma" eid="0" />
+      </errors>
+  </revision>
+  <w>harðlega</w>
+  <w>svik</w>
+  <w>ríkisstjórnarinnar</w>
+  <w>á</w>
+  <w>samkomulagi</w>
+  <w>um</w>
+  <w>styrki</w>
+  <w>til</w>
+  <w>almenningssamgangna</w>
+  <w>á</w>
+  <w>höfuðborgarsvæðinu</w>
+  <c>,</c>
+  <c>“</c>
+  <w>segir</w>
+  <w>í</w>
+  <w>yfirlýsingunni</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Þar</w>
+  <w>segir</w>
+  <w>einnig</w>
+  <w>að</w>
+  <w>samkvæmt</w>
+  <w>samkomulagi</w>
+  <w>sem</w>
+  <w>fulltrúar</w>
+  <w>Vegagerðarinnar</w>
+  <w>og</w>
+  <w>Samtaka</w>
+  <w>sveitarfélaga</w>
+  <w>á</w>
+  <w>höfuðborgarsvæðinu</w>
+  <w>skrifuðu</w>
+  <w>undir</w>
+  <w>í</w>
+  <w>maí árið 2012</w>
+  <w>sé</w>
+  <w>ríkið</w>
+  <w>skuldbundið</w>
+  <w>til</w>
+  <w>að</w>
+  <w>styrkja</w>
+  <w>almenningssamgöngur</w>
+  <w>á</w>
+  <w>höfuðborgarsvæðinu</w>
+  <w>um</w>
+  <w>einn</w>
+  <w>milljarð</w>
+  <w>á</w>
+  <w>ári</w>
+  <w>í</w>
+  <w>áratug</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Markmiðin</w>
+  <w>með</w>
+  <w>samningnum</w>
+  <w>eru</w>
+  <w>m.a.</w>
+  <w>að</w>
+  <w>stuðla</w>
+  <w>að</w>
+  <w>samdrætti</w>
+  <w>í</w>
+  <w>losun</w>
+  <w>gróðurhúsalofttegunda</w>
+  <w>og</w>
+  <w>að</w>
+  <w>lækka</w>
+  <w>samgöngukostnað</w>
+  <w>heimila</w>
+  <w>og</w>
+  <w>samfélagsins</w>
+  <w>alls</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <c>„</c>
+  <w>Ég</w>
+  <w>trúi</w>
+  <w>því</w>
+  <w>ekki</w>
+  <w>að</w>
+  <w>ríkisstjórnin</w>
+  <w>ætli</w>
+  <w>að</w>
+  <w>svíkja</w>
+  <w>þetta</w>
+  <revision id="11">
+    <original><w>góða</w></original>
+    <corrected><w>ágæta</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>samkomulag</w>
+  <w>án</w>
+  <w>þess</w>
+  <w>að</w>
+  <revision id="12">
+    <original><w>taka</w><w>um</w><w>það</w><w>einhverja</w><w>umræðu</w></original>
+    <corrected><w>nokkur</w><w>umræða</w><w>fari</w><w>fram</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>segir</w>
+  <w>Óskar</w>
+  <w>Steinn</w>
+  <w>Ómarsson</w>
+  <c>,</c>
+  <w>formaður</w>
+  <w>Bersans</w>
+  <w>í</w>
+  <w>Hafnarfirði</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>Það</w>
+  <w>þýðir</w>
+  <w>ekki</w>
+  <w>að</w>
+  <w>fara</w>
+  <w>einhverja</w>
+  <w>bakdyraleið</w>
+  <w>og</w>
+  <w>lækka</w>
+  <w>smám</w>
+  <w>saman</w>
+  <w>framlögin</w>
+  <w>á</w>
+  <w>fjárlögum</w>
+  <c>.</c>
+</s>
+<s n="8">
+  <w>Ríkisstjórnin</w>
+  <w>verður</w>
+  <w>að</w>
+  <w>vera</w>
+  <w>hreinskilin</w>
+  <w>um</w>
+  <w>hver</w>
+  <w>stefna</w>
+  <w>hennar</w>
+  <w>er</w>
+  <w>varðandi</w>
+  <w>almenningssamgöngur</w>
+  <w>á</w>
+  <w>höfuðborgarsvæðinu</w>
+  <revision id="13">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>við</w>
+  <w>köllum</w>
+  <w>eftir</w>
+  <w>viðbrögðum</w>
+  <w>innanríkisráðherra</w>
+  <w>í</w>
+  <w>þessu</w>
+  <w>máli</w>
+  <c>.</c>
+  <c>“</c>
+</s>
+<s n="9">
+  <w>Ljóst</w>
+  <w>sé</w>
+  <w>að</w>
+  <w>til</w>
+  <w>að</w>
+  <w>leysa</w>
+  <w>umferðarvanda</w>
+  <w>höfuðborgarsvæðisins</w>
+  <w>og</w>
+  <w>stuðla</w>
+  <w>að</w>
+  <w>minni</w>
+  <w>mengun</w>
+  <w>og</w>
+  <w>bættu</w>
+  <w>loftslagi</w>
+  <w>þurfi</w>
+  <w>að</w>
+  <w>bæta</w>
+  <w>almenningssamgöngur</w>
+  <c>.</c>
+</s>
+<s n="10">
+  <c>„</c>
+  <w>Félög</w>
+  <w>Ungra</w>
+  <w>jafnaðarmanna</w>
+  <w>á</w>
+  <w>höfuðborgarsvæðinu</w>
+  <w>hvetja</w>
+  <w>ríkisstjórnina</w>
+  <w>til</w>
+  <w>að</w>
+  <w>standa</w>
+  <w>við</w>
+  <w>samkomulagið</w>
+  <w>og</w>
+  <w>gera</w>
+  <w>viðeigandi</w>
+  <w>breytingar</w>
+  <w>á</w>
+  <w>fjárlagafrumvarpinu</w>
+  <c>.</c>
+  <c>“</c>
+</s>
+</p></body></text>
+</TEI>
