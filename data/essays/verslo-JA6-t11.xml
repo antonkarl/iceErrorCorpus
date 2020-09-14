@@ -53,7 +53,14 @@
   <w>hent</w>
   <w>of</w>
   <w>fljótt</w>
-  <w>inní</w>
+  <revision id="1a">
+    <original><w>inní</w></original>
+    <corrected><w>inn</w><w>í</w></corrected>
+      <errors>
+        <error xtype="merged-words" idx="1a-1" eid="0" />
+        <error xtype="nonword" idx="1a-1" eid="0" />
+      </errors>
+  </revision>
   <w>skóla</w>
   <w>fá</w>
   <w>þau</w>
@@ -700,7 +707,14 @@
   <w>byrja</w>
   <w>námið</w>
   <w>með</w>
-  <w>jafnöldum</w>
+  <revision id="19a">
+    <original><w>jafnöldum</w></original>
+    <corrected><w>jafnöldrum</w></corrected>
+      <errors>
+        <error xtype="compound-nonword" idx="19a-1" eid="0" />
+        <error xtype="missing-letter" idx="19a-1" eid="0" />
+      </errors>
+  </revision>
   <w>sínum</w>
   <c>,</c>
   <w>en</w>
