@@ -554,7 +554,13 @@
   <w>ég</w>
   <w>annað</w>
   <w>en</w>
-  <w>glaðzt</w>
+  <revision id="9a">
+    <original><w>glaðzt</w></original>
+    <corrected><w>glaðst</w></corrected>
+      <errors>
+        <error xtype="letter-rep" eid="0" />
+      </errors>
+  </revision>
   <w>við</w>
   <w>hvern</w>
   <w>geisla</w>
@@ -1329,6 +1335,13 @@
   <w>gang</w>
   <w>og</w>
   <w>gallabuxurnar</w>
+  <revision id="21a">
+    <original></original>
+    <corrected><w>voru</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
   <w>því</w>
   <w>ennþá</w>
   <w>skítugar</w>
