@@ -131,7 +131,13 @@
   <w>vinnu</w>
   <c>,</c>
   <w>oft</w>
-  <w>á</w>
+  <revision id="1a">
+    <original><w>á</w></original>
+    <corrected><w>og</w></corrected>
+      <errors>
+        <error xtype="collocation" eid="0" />
+      </errors>
+  </revision>
   <w>tíðum</w>
   <w>vanaverki</w>
   <w>sem</w>
@@ -475,8 +481,21 @@
   <w>þungt</w>
   <w>starf</w>
   <w>en</w>
+  <revision id="1b">
+    <original></original>
+    <corrected><w>það</w><w>er</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
   <w>oft</w>
-  <w>á</w>
+  <revision id="1c">
+    <original><w>á</w></original>
+    <corrected><w>og</w></corrected>
+      <errors>
+        <error xtype="collocation" eid="0" />
+      </errors>
+  </revision>
   <w>tíðum</w>
   <w>einkar</w>
   <w>skemmtilegt</w>
