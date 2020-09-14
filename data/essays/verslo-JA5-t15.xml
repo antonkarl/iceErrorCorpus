@@ -507,6 +507,13 @@
   <c>.</c>
 </s><s n="23">
   <w>Siðferði</w>
+  <revision id="17a">
+    <original></original>
+    <corrected><w>.</w></corrected>
+      <errors>
+        <error xtype="missing-period" eid="0" />
+      </errors>
+  </revision>
   <w>Siðferði</w>
   <w>eru</w>
   <w>góðir</w>
@@ -612,6 +619,13 @@
   <c>?</c>
 </s><s n="30">
   <w>Fjölmiðlar</w>
+  <revision id="21a">
+    <original></original>
+    <corrected><w>.</w></corrected>
+      <errors>
+        <error xtype="missing-period" eid="0" />
+      </errors>
+  </revision>
   <w>Fjölmiðill</w>
   <w>er</w>
   <w>orð</w>
@@ -703,7 +717,13 @@
   <w>Séð</w>
   <w>og</w>
   <w>heyrt</w>
-  <c>)</c>
+  <revision id="24">
+    <original><w>)</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-bracket" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>Internetið</w>
   <c>.</c>
@@ -826,10 +846,14 @@
   <w>dag</w>
   <w>eru</w>
   <w>allar</w>
-  <w>sjónvarpstöðvar</w>
-  <c>(</c>
-  <w>t.d</w>
-  <c>.</c>
+  <revision id="25a">
+    <original><w>sjónvarpstöðvar</w></original>
+    <corrected><w>sjónvarpsstöðvar</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="25a-1" eid="0" />
+        <error xtype="compound-nonword" idx="25a-1" eid="0" />
+      </errors>
+  </revision>
 </s><s n="39">
   <w>Hans</w>
   <w>vegna</w>
@@ -948,13 +972,6 @@
   <w>og</w>
   <w>Stöð</w>
   <w>2</w>
-  <c>)</c>
-  <c>,</c>
-  <w>dagblöð</w>
-  <w>og</w>
-  <w>tímarit</w>
-  <c>(</c>
-  <w>t.d</w>
   <c>.</c>
 </s><s n="44">
   <w>Hann</w>
