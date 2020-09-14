@@ -778,7 +778,14 @@
   <w>barneignum</w>
   <w>er</w>
   <w>oft</w>
-  <w>sláð</w>
+  <revision id="6a">
+    <original><w>sláð</w></original>
+    <corrected><w>slegið</w></corrected>
+      <errors>
+        <error xtype="verb-inflection" idx="6a-1" eid="0" />
+        <error xtype="nonword" idx="6a-1" eid="0" />
+      </errors>
+  </revision>
   <w>á</w>
   <w>frest</w>
   <w>sem</w>
@@ -1071,7 +1078,14 @@
   <w>á</w>
   <w>þessum</w>
   <w>tíma</w>
-  <w>velmegunnar</w>
+  <revision id="7a">
+    <original><w>velmegunnar</w></original>
+    <corrected><w>velmegunar</w></corrected>
+      <errors>
+        <error xtype="nn4n" idx="7a-1" eid="0" />
+        <error xtype="nonword" idx="7a-1" eid="0" />
+      </errors>
+  </revision>
   <c>?</c>
 </s><s n="49">
   <w>En</w>
