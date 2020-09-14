@@ -5223,11 +5223,19 @@
   <revision id="361">
     <original><w>ný</w><w>útkominni</w><w>kvikmyndinni</w><w>byggðir</w></original>
     <corrected><w>nýútkominni</w><w>kvikmynd</w><w>sem</w><w>byggð</w><w>er</w></corrected>
+    <errors>
+        <error xtype="split-word" eid="0" />
+        <error xtype="def4ind" eid="0" />
+        <error xtype="wording" eid="0" />
+      </errors>
   </revision>
   <w>á</w>
   <revision id="362">
     <original><w>Les</w><w>Misérables</w></original>
     <corrected><w><i>Les</i></w><w><i>Misérables</i></w></corrected>
+    <errors>
+        <error xtype="nonit4it" eid="0" />
+      </errors>
   </revision>
   <c>.</c>
 </s>
