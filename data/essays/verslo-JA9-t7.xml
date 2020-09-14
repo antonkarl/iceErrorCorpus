@@ -412,6 +412,13 @@
   <w>vinna</w>
   <w>og</w>
   <w>undirbúningur</w>
+  <revision id="13a">
+    <original></original>
+    <corrected><w>,</w></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
   <w>allt</w>
   <w>til</w>
   <w>þess</w>
