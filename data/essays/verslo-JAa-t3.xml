@@ -789,7 +789,13 @@
   <w>og</w>
   <w>kusu</w>
   <w>í</w>
-  <w>takt</w>
+  <revision id="26a">
+    <original><w>takt</w></original>
+    <corrected><w>takti</w></corrected>
+      <errors>
+        <error xtype="collocation-idiom" eid="0" />
+      </errors>
+  </revision>
   <w>við</w>
   <w>það</w>
   <c>.</c>
