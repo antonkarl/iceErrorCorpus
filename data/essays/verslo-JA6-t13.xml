@@ -1072,7 +1072,13 @@
   <w>alþjóð</w>
   <w>einum</w>
   <w>spáir</w>
-  <w>óláns</w>
+  <revision id="28a">
+    <original><w>óláns</w></original>
+    <corrected><w>óláni</w></corrected>
+      <errors>
+        <error xtype="noun-inflection" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>rætist</w>
   <w>það</w>
