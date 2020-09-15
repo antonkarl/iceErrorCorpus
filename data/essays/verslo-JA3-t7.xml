@@ -350,7 +350,14 @@
   <w>að</w>
   <w>fresta</w>
   <w>og</w>
-  <w>janfvel</w>
+  <revision id="7a">
+    <original><w>janfvel</w></original>
+    <corrected><w>jafnvel</w></corrected>
+      <errors>
+        <error xtype="swapped-letter" idx="7a-1" eid="0" />
+        <error xtype="nonword" idx="7a-1" eid="0" />
+      </errors>
+  </revision>
   <w>sleppa</w>
   <w>mikilvægustu</w>
   <w>eigninni</w>
@@ -797,10 +804,23 @@
   <w>Húsið</w>
   <w>og</w>
   <w>bíllinn</w>
-  <w>hefur</w>
+  <revision id="24a">
+    <original><w>hefur</w></original>
+    <corrected><w>hafa</w></corrected>
+      <errors>
+        <error xtype="verb-inflection" idx="24a-1" eid="0" />
+        <error xtype="singular4plural" idx="24a-1" eid="0" />
+      </errors>
+  </revision>
   <w>ekkert</w>
   <w>annað</w>
-  <w>uppá</w>
+  <revision id="24b">
+    <original><w>uppá</w></original>
+    <corrected><w>upp</w><w>á</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>að</w>
   <w>bjóða</w>
   <w>nema</w>
@@ -921,11 +941,23 @@
   <w>ekki</w>
   <w>að</w>
   <w>kaupa</w>
-  <w>ennþá</w>
+  <revision id="30a">
+    <original><w>ennþá</w></original>
+    <corrected><w>enn</w><w>þá</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>stærri</w>
   <w>bíl</w>
   <w>og</w>
-  <w>ennþá</w>
+  <revision id="30b">
+    <original><w>ennþá</w></original>
+    <corrected><w>enn</w><w>þá</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>stærra</w>
   <w>hús</w>
   <c>?</c>
