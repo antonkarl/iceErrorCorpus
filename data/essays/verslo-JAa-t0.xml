@@ -492,7 +492,13 @@
   <w>liggur</w>
   <w>leiðin</w>
   <w>í</w>
-  <w>alþjóðaviðskipti</w>
+    <revision id="19a">
+    <original><w>alþjóðaviðskipti</w></original>
+    <corrected><w>Alþjóðaviðskipti</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
   <w>í</w>
   <w>Háskóla</w>
   <w>Íslands</w>
