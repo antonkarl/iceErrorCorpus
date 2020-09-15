@@ -916,7 +916,14 @@
   <w>ætli</w>
   <w>það</w>
   <w>sé</w>
-  <w>eftirsóknvarvert</w>
+  <revision id="10a">
+    <original><w>eftirsóknvarvert</w></original>
+    <corrected><w>eftirsóknarvert</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="10a-1" eid="0" />
+         <error xtype="nonword" idx="10a-1" eid="0" />
+      </errors>
+  </revision>
   <w>að</w>
   <w>vera</w>
   <w>hamingjusamur</w>
