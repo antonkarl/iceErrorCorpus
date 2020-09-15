@@ -617,7 +617,14 @@
   <w>landið</w>
   <w>býður</w>
   <w>ekki</w>
-  <w>uppá</w>
+  <revision id="14a">
+    <original><w>uppá</w></original>
+    <corrected><w>upp</w><w>á</w></corrected>
+      <errors>
+        <error xtype="merged-words" idx="14a-1" eid="0" />
+        <error xtype="nonword" idx="14a-1" eid="0" />
+      </errors>
+  </revision>
   <w>stóra</w>
   <w>þjóð</w>
   <c>.</c>
