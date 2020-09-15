@@ -515,7 +515,14 @@
   <w>peningar</w>
   <w>séu</w>
   <w>forsenda</w>
-  <w>hamingu</w>
+  <revision id="3a">
+    <original><w>hamingu</w></original>
+    <corrected><w>hamingju</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="3a-1" eid="0" />
+        <error xtype="compound-collocation" idx="3a-1" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="35">
   <w>Var</w>
@@ -697,7 +704,13 @@
   <w>hin</w>
   <c>.</c>
 </s><s n="47">
-  <w>Efnahyggjan</w>
+  <revision id="5a">
+    <original><w>Efnahyggjan</w></original>
+    <corrected><w>Efnishyggjan</w></corrected>
+      <errors>
+        <error xtype="extra-letter" eid="0" />
+      </errors>
+  </revision>
   <w>er</w>
   <w>ríkjandi</w>
   <w>í</w>
