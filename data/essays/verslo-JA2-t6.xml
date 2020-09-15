@@ -253,7 +253,14 @@
   <w>að</w>
   <w>ákveða</w>
   <w>hvort</w>
-  <w>að</w>
+  <revision id="6b">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="6b-1" eid="0"/>
+        <error xtype="style" idx="6b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>Ísland</w>
   <w>vildi</w>
   <w>fara</w>

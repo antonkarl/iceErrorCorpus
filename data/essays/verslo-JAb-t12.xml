@@ -586,7 +586,14 @@
   <w>og</w>
   <w>sjá</w>
   <w>hvort</w>
-  <w>að</w>
+  <revision id="17b">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="17b-1" eid="0"/>
+        <error xtype="style" idx="17b-1" eid="0"/>
+      </errors>
+  </revision>
   <c>„</c>
   <w>afhjúpunin</w>
   <w>mikla</w>

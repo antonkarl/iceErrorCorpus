@@ -23,7 +23,14 @@
   <w>er</w>
   <w>líka</w>
   <w>hvort</w>
-  <w>að</w>
+  <revision id="0">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="0-1" eid="0"/>
+        <error xtype="style" idx="0-1" eid="0"/>
+      </errors>
+  </revision>
   <w>fríið</w>
   <w>fresti</w>
   <w>ekki</w>

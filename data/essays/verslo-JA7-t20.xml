@@ -759,7 +759,14 @@
   <w>brosa</w>
   <w>eða</w>
   <w>hvort</w>
-  <w>að</w>
+  <revision id="8b">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="8b-1" eid="0"/>
+        <error xtype="style" idx="8b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>það</w>
   <w>sé</w>
   <w>barnið</w>

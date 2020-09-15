@@ -1638,7 +1638,14 @@
       </errors>
   </revision>
   <w>hvort</w>
-  <w>að</w>
+  <revision id="11b">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="11b-1" eid="0"/>
+        <error xtype="style" idx="11b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>ég</w>
   <w>og</w>
   <w>Tinna</w>
