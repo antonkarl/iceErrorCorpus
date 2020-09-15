@@ -167,7 +167,14 @@
   <w>taka</w>
   <w>þátt</w>
   <w>í</w>
-  <w>þessarri</w>
+  <revision id="8a">
+    <original><w>þessarri</w></original>
+    <corrected><w>þessari</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="8a-1" eid="0" />
+        <error xtype="nonword" idx="8a-1" eid="0" />
+      </errors>
+  </revision>
   <w>uppbyggingu</w>
   <c>.</c>
 </s><s n="7">
@@ -1197,7 +1204,14 @@
   <w>séu</w>
   <w>einhvers</w>
   <w>konar</w>
-  <w>menningarárekstar</w>
+  <revision id="54a">
+    <original><w>menningarárekstar</w></original>
+    <corrected><w>menningarárekstrar</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="54a-1" eid="0" />
+        <error xtype="compound-nonword" idx="54a-1" eid="0" />
+      </errors>
+  </revision>
   <w>sem</w>
   <w>eiga</w>
   <w>sér</w>
