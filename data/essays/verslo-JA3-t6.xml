@@ -364,7 +364,6 @@
   <w>menntaskóla</w>
   <w>í</w>
   <w>háskóla</w>
-  
   <w>bestu</w>
   <w>árin</w>
   <w>í</w>
@@ -386,7 +385,14 @@
   <w>séu</w>
   <w>bestu</w>
   <w>ár</w>
-  <w>lífins</w>
+  <revision id="6a">
+    <original><w>lífins</w></original>
+    <corrected><w>lífsins</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="6a-1" eid="0" />
+        <error xtype="nonwords" idx="6a-1" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="18">
   <w>Háskólinn</w>
@@ -618,11 +624,24 @@
 </s><s n="24">
   <w>Sá</w>
   <w>stóri</w>
-  <w>gallir</w>
+  <revision id="14b">
+    <original><w>gallir</w></original>
+    <corrected><w>galli</w></corrected>
+      <errors>
+        <error xtype="extra-letter" eid="0" />
+      </errors>
+  </revision>
   <w>er</w>
   <w>nefnilega</w>
   <w>á</w>
-  <w>mannskeppnunni</w>
+  <revision id="14a">
+    <original><w>mannskeppnunni</w></original>
+    <corrected><w>mannskepnunni</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="14a-1" eid="0" />
+        <error xtype="compound-nonwords" idx="14a-1" eid="0" />
+      </errors>
+  </revision>
   <w>að</w>
   <w>hann</w>
   <w>er</w>
@@ -1142,6 +1161,13 @@
   <w>degi</w>
   <c>,</c>
   <w>þó</w>
+  <revision id="20a">
+    <original></original>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
   <w>það</w>
   <w>séu</w>
   <w>ekki</w>
