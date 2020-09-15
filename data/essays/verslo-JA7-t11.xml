@@ -515,7 +515,13 @@
   <w>en</w>
   <w>þó</w>
   <w>hafa</w>
-  <w>ennþá</w>
+  <revision id="2a">
+    <original><w>ennþá</w></original>
+    <corrected><w>enn</w><w>þá</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>val</w>
   <w>um</w>
   <w>styttra</w>
