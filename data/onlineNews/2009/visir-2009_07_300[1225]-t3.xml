@@ -23,7 +23,7 @@
   <w>er</w>
   <w>enski</w>
   <w>U</w>
-
+  <c>-</c>
   <w>21</w>
   <w>árs</w>
   <w>landsliðsmaðurinn</w>
@@ -171,7 +171,14 @@
   <w>er</w>
   <w>spurning</w>
   <w>hvort</w>
-  <w>að</w>
+  <revision id="5b">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="5b-1" eid="0"/>
+        <error xtype="style" idx="5b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>Whelan</w>
   <w>og</w>
   <w>Wigan</w>
@@ -200,7 +207,7 @@
   <w>á</w>
   <w>bilinu</w>
   <w>7</w>
-
+  <c>-</c>
   <w>8</w>
   <w>milljónir</w>
   <w>punda</w>

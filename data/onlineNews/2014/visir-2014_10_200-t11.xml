@@ -46,7 +46,14 @@
   <w>og</w>
   <w>athuga</w>
   <w>hvort</w>
-  <w>að</w>
+  <revision id="0">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="0-1" eid="0"/>
+        <error xtype="style" idx="0-1" eid="0"/>
+      </errors>
+  </revision>
   <w>aðstæður</w>
   <w>hafi</w>
   <w>ekki</w>
@@ -158,7 +165,14 @@
   <w>fylgjast</w>
   <w>með</w>
   <w>hvort</w>
-  <w>að</w>
+  <revision id="0b">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="0b-1" eid="0"/>
+        <error xtype="style" idx="0b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>gosmengun</w>
   <w>sé</w>
   <w>í</w>

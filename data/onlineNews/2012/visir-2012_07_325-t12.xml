@@ -277,7 +277,14 @@
 <s n="12">
   <w>Aðspurður</w>
   <w>hvort</w>
-  <w>að</w>
+  <revision id="10b">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="10b-1" eid="0"/>
+        <error xtype="style" idx="10b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>íbúar</w>
   <w>á</w>
   <w>svæðinu</w>

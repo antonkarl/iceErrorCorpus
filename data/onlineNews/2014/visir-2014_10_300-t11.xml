@@ -17,7 +17,14 @@
   <w>það</w>
   <w>reyna</w>
   <w>hvort</w>
-  <w>að</w>
+  <revision id="0">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="0-1" eid="0"/>
+        <error xtype="style" idx="0-1" eid="0"/>
+      </errors>
+  </revision>
   <w>tryggja</w>
   <w>megi</w>
   <w>hagsmuni</w>

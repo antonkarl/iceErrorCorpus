@@ -184,7 +184,14 @@
   <w>löglaust</w>
   <w>plagg</w>
   <w>sem</w>
-  <w>að</w>
+  <revision id="5b">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="5b-1" eid="0"/>
+        <error xtype="style" idx="5b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>vegur</w>
   <w>að</w>
   <w>æru</w>

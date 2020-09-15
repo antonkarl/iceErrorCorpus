@@ -913,7 +913,14 @@
   <w>er</w>
   <w>um</w>
   <w>hvort</w>
-  <w>að</w>
+  <revision id="19b">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="19b-1" eid="0"/>
+        <error xtype="style" idx="19b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>stjórnin</w>
   <c>,</c>
   <w>með</w>

@@ -373,7 +373,14 @@
       </errors>
   </revision>
   <w>sem</w>
-  <w>að</w>
+  <revision id="15b">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="15b-1" eid="0"/>
+        <error xtype="style" idx="15b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>í</w>
   <w>raun</w>
   <w>biðu</w>

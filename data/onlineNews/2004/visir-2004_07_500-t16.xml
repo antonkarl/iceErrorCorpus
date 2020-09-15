@@ -62,7 +62,14 @@
   <w>í</w>
   <w>ljós</w>
   <w>hvort</w>
-  <w>að</w>
+  <revision id="3">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="3-1" eid="0"/>
+        <error xtype="style" idx="3-1" eid="0"/>
+      </errors>
+  </revision>
   <w>Klestil</w>
   <w>lifir</w>
   <w>af</w>

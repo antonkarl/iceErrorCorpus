@@ -107,7 +107,14 @@
 <s n="5">
   <w>Aðspurður</w>
   <w>hvort</w>
-  <w>að</w>
+  <revision id="5b">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="5b-1" eid="0"/>
+        <error xtype="style" idx="5b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>Bandaríkin</w>
   <w>bæru</w>
   <w>ábyrgð</w>

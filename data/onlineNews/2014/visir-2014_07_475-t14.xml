@@ -19,7 +19,7 @@
   <w>Brasilía</w>
   <w>vann</w>
   <w>2</w>
-  
+  <c>-</c>
   <w>1</w>
   <w>sigur</w>
   <w>á</w>
@@ -46,7 +46,14 @@
   <w>um</w>
   <w>það</w>
   <w>hvort</w>
-  <w>að</w>
+  <revision id="0">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="0-1" eid="0"/>
+        <error xtype="style" idx="0-1" eid="0"/>
+      </errors>
+  </revision>
   <w>Neymar</w>
   <w>verði</w>
   <w>leikfær</w>

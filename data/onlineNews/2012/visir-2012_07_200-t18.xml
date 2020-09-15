@@ -138,7 +138,14 @@
   <w>Pétur</w>
   <w>aðspurður</w>
   <w>hvort</w>
-  <w>að</w>
+  <revision id="2b">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="2b-1" eid="0"/>
+        <error xtype="style" idx="2b-1" eid="0"/>
+      </errors>
+  </revision>
   <revision id="3">
     <original><w>Hróaskelduhátíðin</w></original>
     <corrected><w>Hróarskelduhátíðin</w></corrected>

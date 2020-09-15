@@ -245,7 +245,14 @@
   <w>var</w>
   <w>spurður</w>
   <w>hvort</w>
-  <w>að</w>
+  <revision id="9b">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="9b-1" eid="0"/>
+        <error xtype="style" idx="9b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>hann</w>
   <w>hefði</w>
   <w>ekki</w>
