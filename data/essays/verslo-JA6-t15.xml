@@ -5,7 +5,6 @@
 <s n="1">
   <w>Þar</w>
   <w>sagði</w>
-  <w>sagði</w>
   <w>hann</w>
   <w>að</w>
   <w>peningar</w>
@@ -140,6 +139,13 @@
 </s><s n="7">
   <w>Frá</w>
   <w>því</w>
+  <revision id="5a">
+    <original></original>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
   <w>ég</w>
   <w>var</w>
   <w>orðinn</w>
@@ -1247,7 +1253,14 @@
   <w>Fólk</w>
   <w>lifir</w>
   <w>fyrir</w>
-  <w>trúnna</w>
+  <revision id="39a">
+    <original><w>trúnna</w></original>
+    <corrected><w>trúna</w></corrected>
+      <errors>
+        <error xtype="nn4n" idx="39a-1" eid="0" />
+        <error xtype="nominal-inflection" idx="39a-1" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>gerir</w>
   <w>sitt</w>
