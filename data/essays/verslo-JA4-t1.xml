@@ -879,7 +879,14 @@
   <w>skólans</w>
   <w>og</w>
   <w>sigraði</w>
-  <w>keppninauta</w>
+  <revision id="20a">
+    <original><w>keppninauta</w></original>
+    <corrected><w>keppinauta</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="20a-1" eid="0" />
+        <error xtype="compound-nonword" idx="20a-1" eid="0" />
+      </errors>
+  </revision>
   <w>mína</w>
   <c>.</c>
 </s><s n="37">
