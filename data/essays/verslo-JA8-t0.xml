@@ -591,6 +591,14 @@
   <w>Þetta</w>
   <w>er</w>
   <w>hneysa</w>
+  <revision id="21b">
+    <original><w>hneysa</w></original>
+    <corrected><w>hneisa</w></corrected>
+      <errors>
+        <error xtype="y4i" idx="21b-1" eid="0"/>
+        <error xtype="nonword" idx="21b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>af</w>
   <w>hálfu</w>
   <w>hennar</w>
@@ -612,7 +620,14 @@
   <w>á</w>
   <w>því</w>
   <w>sem</w>
-  <w>að</w>
+  <revision id="22b">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="22b-1" eid="0"/>
+        <error xtype="style" idx="22b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>menntaskólakennarar</w>
   <w>hafa</w>
   <w>að</w>

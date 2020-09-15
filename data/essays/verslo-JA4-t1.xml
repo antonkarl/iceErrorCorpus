@@ -950,7 +950,14 @@
   <w>markað</w>
   <w>tímamót</w>
   <w>sem</w>
-  <w>að</w>
+  <revision id="20b">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="20b-1" eid="0"/>
+        <error xtype="style" idx="20b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>hafa</w>
   <w>ekki</w>
   <w>áhrif</w>

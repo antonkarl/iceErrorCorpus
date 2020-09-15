@@ -248,7 +248,14 @@
   <w>að</w>
   <w>athyglin</w>
   <w>sem</w>
-  <w>að</w>
+  <revision id="1b">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="1b-1" eid="0"/>
+        <error xtype="style" idx="1b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>pabbi</w>
   <w>fór</w>
   <w>að</w>
@@ -1127,7 +1134,14 @@
   <w>Eftir</w>
   <w>því</w>
   <w>sem</w>
-  <w>að</w>
+  <revision id="10b">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="10b-1" eid="0"/>
+        <error xtype="style" idx="10b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>leið</w>
   <w>á</w>
   <w>samtalið</w>
