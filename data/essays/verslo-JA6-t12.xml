@@ -869,7 +869,14 @@
   <w>ráða</w>
   <w>við</w>
   <w>þessa</w>
-  <w>hárfreskju</w>
+  <revision id="32a">
+    <original><w>hárfreskju</w></original>
+    <corrected><w>hárófreskju</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="32a-1" eid="0" />
+        <error xtype="compound-nonword" idx="32a-1" eid="0" />
+      </errors>
+  </revision>
   <w>þarf</w>
   <w>að</w>
   <w>hafa</w>
@@ -1542,7 +1549,14 @@
   <w>sagði</w>
   <w>hann</w>
   <w>við</w>
-  <w>strákan</w>
+  <revision id="55a">
+    <original><w>strákan</w></original>
+    <corrected><w>strákana</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="55a-1" eid="0" />
+        <error xtype="nonword" idx="55a-1" eid="0" />
+      </errors>
+  </revision>
   <w>í</w>
   <w>símann</w>
   <c>.</c>
