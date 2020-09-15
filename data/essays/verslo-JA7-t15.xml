@@ -6,7 +6,13 @@
   <w>Mamma</w>
   <w>fór</w>
   <w>að</w>
-  <w>spurja</w>
+  <revision id="1a">
+    <original><w>spurja</w></original>
+    <corrected><w>spyrja</w></corrected>
+      <errors>
+        <error xtype="pronun-writing" eid="0" />
+      </errors>
+  </revision>
   <w>mig</w>
   <w>spjörunum</w>
   <w>úr</w>
@@ -598,7 +604,14 @@
   <w>samband</w>
   <w>við</w>
   <w>djöfulinn</w>
-  <w>sjálfann</w>
+  <revision id="3a">
+    <original><w>sjálfann</w></original>
+    <corrected><w>sjálfan</w></corrected>
+      <errors>
+        <error xtype="nn4n" idx="3a-1" eid="0" />
+        <error xtype="nonword" idx="3a-1" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>því</w>
   <w>fyrir</w>
@@ -618,6 +631,13 @@
   <w>í</w>
   <w>þig</w>
   <w>áður</w>
+  <revision id="3b">
+    <original><w>þannig</w></original>
+    <corrected><w>svo</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
   <w>þannig</w>
   <w>ég</w>
   <w>tel</w>
@@ -759,7 +779,13 @@
   <w>ég</w>
   <w>er</w>
   <w>orðin</w>
-  <w>skilnaðarbarn</w>
+  <revision id="5a">
+    <original><w>skilnaðarbarn</w></original>
+    <corrected><w>að</w><w>skilnaðarbarni</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>sé</w>
   <w>ég</w>
@@ -815,7 +841,14 @@
   <w>að</w>
   <w>fá</w>
   <w>sínu</w>
-  <w>framgegnt</w>
+  <revision id="5b">
+    <original><w>framgegnt</w></original>
+    <corrected><w>framgengt</w></corrected>
+      <errors>
+        <error xtype="swapped-letters" idx="5b-a" eid="0" />
+        <error xtype="nonword" idx="5b-a" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="37">
   <w>Það</w>
