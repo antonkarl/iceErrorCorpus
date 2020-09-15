@@ -824,7 +824,13 @@
 </s><s n="30">
   <w>Versló</w>
   <w>og</w>
-  <w>verslingar</w>
+  <revision id="30a">
+    <original><w>verslingar</w></original>
+    <corrected><w>Verslingar</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
   <w>eiga</w>
   <w>eftir</w>
   <w>að</w>
@@ -1139,7 +1145,13 @@
   <w>Lífið</w>
   <w>lék</w>
   <w>við</w>
-  <w>hvurn</w>
+  <revision id="36a">
+    <original><w>hvurn</w></original>
+    <corrected><w>hvorn</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
   <w>sinn</w>
   <w>fingur</w>
   <w>og</w>
