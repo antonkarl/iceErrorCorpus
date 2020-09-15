@@ -959,7 +959,13 @@
   <w>eru</w>
   <w>spennandi</w>
   <w>tímar</w>
-  <w>framundan</w>
+  <revision id="8a">
+    <original><w>framundan</w></original>
+    <corrected><w>fram</w><w>undan</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="47">
   <w>Gert</w>
