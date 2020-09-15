@@ -1,4 +1,4 @@
-code	error	class	example
+code	error	class	comment
 lower4upper-initial	lítill stafur í upphafi málsgreinar	capitalization	hann var seinn > Hann var seinn
 lower4upper-proper	lítill stafur í upphafi sérnafns	capitalization	ísland > Íslands
 lower4upper-acro	lítill stafur í hánefni	capitalization	Dv > DV
@@ -34,7 +34,7 @@ comma4qm	komma fyrir spurningarmerki	punctuation	Höfum við réttinn, eins og a
 comma4colon	komma fyrir tvípunkt	punctuation	...er í þremur heimsálfum, Asíu, Afríku og Evrópu > ...er í þremur heimsálfum: Asíu, Afríku og Evrópu
 double-punctuation	tvöfalt greinarmerki	punctuation	.. > .,
 extra-abbreviation	skammstöfun ofaukið	punctuation	,, > ,
-extra-dash	bandstriki ofaukið	punctuation	-- > -, austur-húnvetnskra > austurhúnvetnskra
+extra-dash	bandstriki ofaukið	punctuation	-- > -
 iteration-colon	greinarmerki við upptalningu, tvíp.	punctuation	
 missing-colon	tvípunkt vantar	punctuation	Hann sagði við þá „Komið til mín“ > Hann sagði við þá: „Komið til mín“
 missing-comma	kommu vantar	punctuation	Hún vex á Íslandi Grænlandi og Færeyjum > Hún vex á Íslandi, Grænlandi og Færeyjum
@@ -43,8 +43,8 @@ missing-period	punkt vantar	punctuation	Tónlistin varð ekki vinsæl strax þa�
 missing-qm	spurningamerki vantar	punctuation	„Skilur þú mig“ spurði Halldór > „Skilur þú mig?“ spurði Halldór
 missing-conjunction	samtengingu vantar	punctuation	í Noregi suður að Gíbraltarsundi > í Noregi og suður að Gíbraltarsundi
 missing-quot	gæsalöpp vantar	punctuation	„I'm winning > „I'm winning“
-missing-quots	gæsalappir vantar	punctuation	I'm winning > „I'm winning“
-misplaced-quot	gæsalöpp á röngum stað	punctuation	í lok dags“. > í lok dags.“
+missing-quots	gæsalappir vantar	punctuation	„I'm winning > „I'm winning“
+misplaced-quot	gæsalöpp á röngum stað	punctuation	...í lok dags“. > ...í lok dags.“
 wrong-quots	rangar gæsalappir	punctuation	"takið þennan svarta" > „takið þennan svarta“
 extra-quot	gæsalöpp ofaukið	punctuation	hún hófst 1. júlí“. > hún hófst 1. júlí.
 extra-quots	gæsalöppum ofaukið	punctuation	„I'm winning“ > I'm winning
@@ -156,7 +156,6 @@ date-period	vantar punkt í dagsetningu	punctuation	11 september > 11. september
 comma4semicolon	komma fyrir semíkommu	punctuation	, > ; 
 word4dash	orð í stað bandstriks	punctuation	til > -
 dash4word	bandstrik fyrir orð	punctuation	- > til
-missing-degree	vantar gráðumerki	punctuation	66 > 66°
 missing-semicolon	vantar semíkommu	punctuation	Haukar Björgvin Páll > Haukar; Björgvin Páll
 symbol4word	tákn fyrir orð	other	stjórn ™ > stjórn TM 
 want	vill í stað vil / vil í stað vill	grammar	ég vill > ég vil
@@ -176,9 +175,9 @@ ex4period	upphrópun fyrir punkt	punctuation	! > .
 extra-colon	tvípunktur ofaukið	punctuation	Kristján: Grindvíkingar eru... > Kristján segir Grindvíkinga vera
 nonit4it	óskáletrað fyrir skáletrað		orðið qibt > orðið qibt
 bracket4comma	svigi fyrir kommu	punctuation	stjórinn (Rogers sjálfur) ... > stjórinn, Rogers sjálfur, ...
-extra-inf-part	nafnháttarmerki ofaukið grammar Bæði lið að sækja .. > Bæði lið sóttu ...
-extra-qm	spurningarmerki ofaukið punctuation Þú gerðir hvað fyrstu árin? > Aðspurður um fyrstu árin
-comma4dash  komma fyrir bandstrik punctuation , > -
+extra-inf-part	nafnháttarmerki ofaukið	grammar	Bæði lið að sækja .. > Bæði lið sóttu ...
+extra-qm	spurningarmerki ofaukið	punctuation	Þú gerðir hvað fyrstu árin? > Aðspurður um fyrstu árin
+comma4dash	komma fyrir bandstrik	punctuation	Einar Ólafur, Haukum > Einar Ólafur - Haukum
 dash4semicolon	bandstrik fyrir semíkommu	punctuation	núna - þetta > núna; þetta
 wrong-dash	rangt bandstrik	punctuation	- > –
 it4nonit	skáletrað fyrir óskáletrað		Studdi Isma'il > Studdi Isma'il
@@ -207,5 +206,7 @@ dem4noun	ábendingarfornafn í stað nafnorðs	grammar	hinn > maðurinn
 noun4dem	nafnorð í stað ábendingarfornafns	grammar	stærsta klukkan > sú stærsta
 ice4fw	íslenskt orð notað í staðinn erlends		Demókrata öldungarþings herferðarnefndina > Democratic Senatorial Campaign Committee
 extra-commas	kommur ofaukið utan um innskot	punctuation	Lárus Dagur, framkvæmdastjóri, ... > Lárus Dagur framkvæmdastjóri ...
-number4symbol	númer fyrir tákn		5. >  V			
+number4symbol	númer fyrir tákn		5. >  V
 conjunction4semicolon	samtenging fyrir semíkommu	punctuation	en > ;
+repeat-word	orð endurtekið, orðin eru hliðstæð		maður sem sem fór > maður sem fór
+repeat-word-split	orð endurtekið en orð kemur á milli		var eitt ár var eftir > eitt ár var eftir			
