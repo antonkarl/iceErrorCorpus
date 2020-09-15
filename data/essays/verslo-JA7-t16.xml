@@ -629,7 +629,14 @@
   <w>þeirra</w>
   <w>sem</w>
   <w>við</w>
-  <w>umgöngust</w>
+  <revision id="7a">
+    <original><w>umgöngust</w></original>
+    <corrected><w>umgöngumst</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="7a-1" eid="0" />
+        <error xtype="nonword" idx="7a-1" eid="0" />
+      </errors>
+  </revision>
   <w>á</w>
   <w>vissan</w>
   <w>hátt</w>
@@ -730,6 +737,13 @@
   <w>Það</w>
   <w>vill</w>
   <w>oft</w>
+  <revision id="8a">
+    <original><w>á</w></original>
+    <corrected><w>og</w></corrected>
+      <errors>
+        <error xtype="collocation" eid="0" />
+      </errors>
+  </revision>
   <w>á</w>
   <w>tíðum</w>
   <w>halda</w>
@@ -863,7 +877,14 @@
   <c>,</c>
   <w>mín</w>
   <w>síðasta</w>
-  <w>kennnslustund</w>
+  <revision id="10a">
+    <original><w>kennnslustund</w></original>
+    <corrected><w>kennslustund</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="10a-1" eid="0" />
+        <error xtype="compound-nonword" idx="10a-1" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s></p></body></text>
 </TEI>
