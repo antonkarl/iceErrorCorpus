@@ -954,7 +954,14 @@
   <c>,</c>
   <w>svo</w>
   <w>sem</w>
-  <w>heimilsfang</w>
+  <revision id="29a">
+    <original><w>heimilsfang</w></original>
+    <corrected><w>heimilisfang</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="29a-1" eid="0" />
+        <error xtype="compound-nonword" idx="29a-1" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>símanúmer</w>
   <c>.</c>
