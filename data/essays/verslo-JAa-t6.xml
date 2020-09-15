@@ -843,7 +843,13 @@
   <w>börnum</w>
   <w>mínum</w>
   <w>mikilvægi</w>
-  <w>menntur</w>
+  <revision id="15a">
+    <original><w>menntur</w></original>
+    <corrected><w>menntunar</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>segja</w>
   <w>við</w>
