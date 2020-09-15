@@ -290,7 +290,13 @@
   <w>Eftir</w>
   <w>að</w>
   <w>prófunum</w>
-  <w>líkur</w>
+  <revision id="6a">
+    <original><w>líkur</w></original>
+    <corrected><w>lýkur</w></corrected>
+      <errors>
+        <error xtype="í4ý" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>núna</w>
   <w>í</w>
@@ -306,7 +312,14 @@
   <w>okkar</w>
   <c>.</c>
 </s><s n="12">
-  <w>Bekkjarkefið</w>
+  <revision id="6b">
+    <original><w>Bekkjarkefið</w></original>
+    <corrected><w>Bekkjarkerfið</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="6b-1" eid="0" />
+        <error xtype="compound-nonword" idx="6b-1" eid="0" />
+      </errors>
+  </revision>
   <w>heillaði</w>
   <w>og</w>
   <w>ég</w>
@@ -965,6 +978,13 @@
   <w>Allt</w>
   <w>frá</w>
   <w>því</w>
+  <revision id="22a">
+    <original></original>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
   <w>ég</w>
   <w>var</w>
   <w>barn</w>
@@ -1281,6 +1301,13 @@
 </s><s n="47">
   <w>En</w>
   <w>þó</w>
+  <revision id="30a">
+    <original></original>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
   <w>lykillinn</w>
   <w>að</w>
   <w>góðu</w>
