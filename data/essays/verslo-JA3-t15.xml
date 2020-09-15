@@ -133,7 +133,14 @@
   <w>grimmur</w>
   <w>og</w>
   <w>ógnað</w>
-  <w>heimsfriðnum</w>
+  <revision id="2a">
+    <original><w>heimsfriðnum</w></original>
+    <corrected><w>heimsfriðinum</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="2a-1" eid="0" />
+        <error xtype="compound-nonword" idx="2a-1" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="7">
   <w>Ekkert</w>
@@ -302,7 +309,13 @@
   <w>lítið</w>
   <w>breyst</w>
   <w>í</w>
-  <w>hundruðir</w>
+  <revision id="16">
+    <original><w>hundruðir</w></original>
+    <corrected><w>hundruð</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
   <w>ára</w>
   <c>.</c>
 </s><s n="17">
