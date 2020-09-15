@@ -196,7 +196,13 @@
   <w>taka</w>
   <w>nokkur</w>
   <w>dæmi</w>
-  <w>uppá</w>
+  <revision id="1a">
+    <original><w>uppá</w></original>
+    <corrected><w>upp</w><w>á</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>töflu</w>
   <w>sem</w>
   <w>væru</w>
@@ -582,7 +588,14 @@
   </revision>
   <w>góma</w>
   <w>í</w>
-  <w>fjöskylduboðum</w>
+  <revision id="2a">
+    <original><w>fjöskylduboðum</w></original>
+    <corrected><w>fjölskylduboðum</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="2a-1" eid="0" />
+        <error xtype="compound-nonword" idx="2a-1" eid="0" />
+      </errors>
+  </revision>
   <w>er</w>
   <w>ég</w>
   <w>yfirleitt</w>
