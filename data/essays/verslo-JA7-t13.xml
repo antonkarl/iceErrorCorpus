@@ -15,7 +15,13 @@
   <c>,</c>
   <w>framtíðin</w>
   <w>er</w>
-  <w>framundan</w>
+  <revision id="1a">
+    <original><w>framundan</w></original>
+    <corrected><w>fram</w><w>undan</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>það</w>
   <w>á</w>
@@ -759,6 +765,13 @@
   <w>sumum</w>
   <w>erfið</w>
   <w>en</w>
+  <revision id="9a">
+    <original></original>
+    <corrected><w>fyrir</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
   <w>öðrum</w>
   <w>er</w>
   <w>hún</w>
@@ -1102,7 +1115,13 @@
 </s><s n="48">
   <w>Stelpurnar</w>
   <w>fara</w>
-  <w>hinsvegar</w>
+  <revision id="13a">
+    <original><w>hinsvegar</w></original>
+    <corrected><w>hins</w><w>vegar</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>að</w>
   <w>breytast</w>
   <w>í</w>
