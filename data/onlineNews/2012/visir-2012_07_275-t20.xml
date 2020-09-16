@@ -290,7 +290,13 @@
   <w>sem</w>
   <w>höfðu</w>
   <w>yfirgnæfandi</w>
-  <w>hlutdeilt</w>
+  <revision id="2b">
+    <original><w>hlutdeilt</w></original>
+    <corrected><w>hlutdeild</w></corrected>
+      <errors>
+        <error xtype="letter-rep" eid="0"/>
+      </errors>
+  </revision>
   <w>árið 1999</w>
   <c>,</c>
   <w>eða</w>

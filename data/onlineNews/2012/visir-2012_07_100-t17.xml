@@ -60,8 +60,13 @@
 <s n="4">
   <w>Hún</w>
   <w>náði</w>
-  <w>þó</w>
-  <w>sér</w>
+  <revision id="1">
+    <original><w>þó</w><w>sér</w></original>
+    <corrected><w>sér</w><w>þó</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
   <w>aftur</w>
   <w>á</w>
   <w>strik</w>

@@ -17,6 +17,13 @@
 </s>
 <s n="2">
   <w>Þó</w>
+  <revision id="0">
+    <original></original>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
   <w>regndekkin</w>
   <w>losi</w>
   <w>60</w>
@@ -127,10 +134,22 @@
   <w>ræsa</w>
   <w>átjándi</w>
   <w>þó</w>
+  <revision id="3b">
+    <original></original>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
   <w>tímatökunni</w>
   <w>verði</w>
-  <w>áfram</w>
-  <w>haldið</w>
+  <revision id="3c">
+    <original><w>áfram</w><w>haldið</w></original>
+    <corrected><w>haldið</w><w>áfram</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="6">

@@ -160,6 +160,13 @@
   <w>segir</w>
   <w>að</w>
   <w>þó</w>
+  <revision id="6c">
+    <original></original>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
   <w>einfaldara</w>
   <w>sé</w>
   <w>að</w>
@@ -215,7 +222,7 @@
   <w>fimm</w>
   <w>prósent</w>
   <c>,</c>
-  <revision id="6c">
+  <revision id="6d">
     <original><c>&quot;</c></original>
     <corrected><c>“</c></corrected>
       <errors>

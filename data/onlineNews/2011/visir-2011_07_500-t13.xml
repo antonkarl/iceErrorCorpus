@@ -94,6 +94,13 @@
 </s>
 <s n="4">
   <w>Þó</w>
+  <revision id="2b">
+    <original></original>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
   <w>svæðið</w>
   <w>hafi</w>
   <w>ekki</w>
@@ -406,6 +413,13 @@
   <w>Silverstone</w>
   <w>og</w>
   <w>þó</w>
+  <revision id="9c">
+    <original></original>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
   <w>margt</w>
   <w>hafi</w>
   <w>breyst</w>
@@ -439,7 +453,7 @@
   <w>við</w>
   <w>breska</w>
   <w>kappaksturinn</w>
-  <revision id="9c">
+  <revision id="9d">
     <original><c>&quot;</c></original>
     <corrected><c>“</c></corrected>
       <errors>

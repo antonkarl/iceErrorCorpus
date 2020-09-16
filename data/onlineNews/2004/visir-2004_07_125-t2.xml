@@ -412,6 +412,13 @@
 </s>
 <s n="16">
   <w>Þó</w>
+  <revision id="7b">
+    <original></original>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
   <w>ekki</w>
   <w>sé</w>
   <w>ljóst</w>
@@ -422,7 +429,13 @@
   <w>einstökum</w>
   <w>atriðum</w>
   <w>má</w>
-  <w>þó</w>
+  <revision id="7c">
+    <original><w>þó</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0"/>
+      </errors>
+  </revision>
   <w>gera</w>
   <w>ráð</w>
   <w>fyrir</w>
@@ -462,7 +475,7 @@
 </s>
 <s n="17">
   <w>Nefnd</w>
-  <revision id="7b">
+  <revision id="7d">
     <original><c>"</c></original>
     <corrected><c>„</c></corrected>
       <errors>
@@ -471,7 +484,7 @@
   </revision>
   <w>vísra</w>
   <w>manna</w>
-  <revision id="7c">
+  <revision id="7e">
     <original><c>"</c></original>
     <corrected><c>“</c></corrected>
       <errors>
@@ -653,6 +666,13 @@
 </s>
 <s n="23">
   <w>Þó</w>
+  <revision id="7f">
+    <original></original>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
   <w>skoðanir</w>
   <w>séu</w>
   <w>vissulega</w>
