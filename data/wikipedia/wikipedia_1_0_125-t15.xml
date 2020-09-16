@@ -1201,7 +1201,14 @@
   <w>fylkjum</w>
   <w>þar</w>
   <w>sem</w>
-  <w>að</w>
+  <revision id="63b">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="63b-1" eid="0"/>
+        <error xtype="style" idx="63b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>franska</w>
   <w>er</w>
   <w>opinbert</w>

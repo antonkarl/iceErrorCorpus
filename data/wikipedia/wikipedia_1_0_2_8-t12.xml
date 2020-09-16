@@ -60,7 +60,14 @@
   <c>,</c>
   <w>brúin</w>
   <w>sem</w>
-  <w>að</w>
+  <revision id="1b">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="1b-1" eid="0"/>
+        <error xtype="style" idx="1b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>hérna</w>
   <w>sést</w>
   <c>.</c>
@@ -827,7 +834,14 @@
   <w>vinna</w>
   <c>,</c>
   <w>sem</w>
-  <w>að</w>
+  <revision id="27b">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="27b-1" eid="0"/>
+        <error xtype="style" idx="27b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>veitir</w>
   <w>gleði</w>
   <w>og</w>
@@ -1069,7 +1083,14 @@
   <w>sveitarhnoss</w>
   <c>,</c>
   <w>sem</w>
-  <w>að</w>
+  <revision id="33b">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="33b-1" eid="0"/>
+        <error xtype="style" idx="33b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>flestir</w>
   <w>unna</w>
   <c>.</c>

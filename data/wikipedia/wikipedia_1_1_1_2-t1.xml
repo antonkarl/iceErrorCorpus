@@ -2036,7 +2036,14 @@
   <w>væri</w>
   <w>eitthvað</w>
   <w>sem</w>
-  <w>að</w>
+  <revision id="127b">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="127b-1" eid="0"/>
+        <error xtype="style" idx="127b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>hann</w>
   <w>gæti</w>
   <w>vakið</w>

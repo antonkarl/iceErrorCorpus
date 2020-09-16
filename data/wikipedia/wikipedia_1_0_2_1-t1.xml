@@ -456,7 +456,14 @@
   <w>að</w>
   <w>sjá</w>
   <w>hvort</w>
-  <w>að</w>
+  <revision id="21b">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="21b-1" eid="0"/>
+        <error xtype="style" idx="21b-1" eid="0"/>
+      </errors>
+  </revision>
   <revision id="22">
     <original><w>ttákn</w></original>
     <corrected><w>tákn</w></corrected>

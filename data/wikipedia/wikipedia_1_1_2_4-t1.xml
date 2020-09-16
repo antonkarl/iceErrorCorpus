@@ -308,7 +308,14 @@
   <w>að</w>
   <w>kanna</w>
   <w>hvort</w>
-  <w>að</w>
+  <revision id="4b">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="4b-1" eid="0"/>
+        <error xtype="style" idx="4b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>frægir</w>
   <w>menn</w>
   <w>myndu</w>

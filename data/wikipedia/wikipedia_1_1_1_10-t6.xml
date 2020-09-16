@@ -19,7 +19,14 @@
   <w>náttúrulega</w>
   <w>frumefnið</w>
   <w>sem</w>
-  <w>að</w>
+  <revision id="0">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="0-1" eid="0"/>
+        <error xtype="style" idx="0-1" eid="0"/>
+      </errors>
+  </revision>
   <w>uppgötvað</w>
   <w>var</w>
   <w>og</w>
@@ -553,7 +560,14 @@
   <w>platínu-renín</w>
   <w>hvata</w>
   <w>sem</w>
-  <w>að</w>
+  <revision id="14b">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="14b-1" eid="0"/>
+        <error xtype="style" idx="14b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>eru</w>
   <w>þá</w>
   <w>aðallega</w>

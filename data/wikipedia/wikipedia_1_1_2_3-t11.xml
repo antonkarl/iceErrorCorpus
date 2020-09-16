@@ -1511,7 +1511,14 @@
   </revision>
   <w>þar</w>
   <w>sem</w>
-  <w>að</w>
+  <revision id="119b">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="119b-1" eid="0"/>
+        <error xtype="style" idx="119b-1" eid="0"/>
+      </errors>
+  </revision>
   <revision id="120">
     <original><w>aðalboðskapurinn</w></original>
     <corrected><w>aðalatriðið</w></corrected>
@@ -1530,7 +1537,14 @@
   <w>er</w>
   <w>tromma</w>
   <w>sem</w>
-  <w>að</w>
+  <revision id="120b">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="120b-1" eid="0"/>
+        <error xtype="style" idx="120b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>er</w>
   <w>oftast</w>
   <w>há</w>
