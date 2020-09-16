@@ -1463,7 +1463,13 @@
   <w>þó</w>
   <w>svo</w>
   <w>að</w>
-  <w>þeim</w>
+  <revision id="65">
+    <original><w>þeim</w></original>
+    <corrected><w>þau</w></corrected>
+      <errors>
+        <error xtype="dative-sub" eid="0"/>
+      </errors>
+  </revision>
   <w>langi</w>
   <w>í</w>
   <w>raun</w>

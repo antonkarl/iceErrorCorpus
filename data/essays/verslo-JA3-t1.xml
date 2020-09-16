@@ -870,7 +870,7 @@
   <w>vera</w>
   <revision id="16">
     <original><w>atburður</w><w>líðand</w></original>
-    <corrected><w>fólginn</w><w>í</w><w>atburðum</w><w>líðandi</w></corrected>
+    <corrected><w>fólgin</w><w>í</w><w>atburðum</w><w>líðandi</w></corrected>
       <errors>
         <error xtype="wording" idx="20-1" eid="0"/>
         <error xtype="style" idx="20-1" eid="0"/>
@@ -878,15 +878,16 @@
   </revision>
   <w>stundar</w>
   <w>þó</w>
-  <w>oftar</w>
-  <w>sé</w>
-  <revision id="17">
-    <original><w>því</w></original>
-    <corrected/>
+  <revision id="16b">
+    <original></original>
+    <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="extra-word" eid="0"/>
+        <error xtype="missing-word" eid="0"/>
       </errors>
   </revision>
+  <w>oftar</w>
+  <w>sé</w>
+  <w>því</w>
   <w>kannski</w>
   <w>þannig</w>
   <w>farið</w>

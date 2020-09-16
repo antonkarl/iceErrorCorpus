@@ -1538,6 +1538,13 @@
   <w>ekki</w>
   <c>,</c>
   <w>þó</w>
+  <revision id="38b">
+    <original></original>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
   <w>sumir</w>
   <w>geri</w>
   <w>það</w>
@@ -1663,7 +1670,7 @@
   <c>,</c>
   <revision id="44">
     <original><w>þótt</w><w>svo</w><w>sem</w></original>
-    <corrected><w>þó</w></corrected>
+    <corrected><w>þó</w><w>að</w></corrected>
       <errors>
         <error xtype="wording" eid="0"/>
       </errors>

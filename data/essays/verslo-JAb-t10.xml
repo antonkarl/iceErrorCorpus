@@ -346,6 +346,13 @@
   <w>eigin</w>
   <w>hugmyndir</w>
   <w>þó</w>
+  <revision id="6b">
+    <original></original>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
   <w>nauðsynlegt</w>
   <revision id="7">
     <original><w>sér</w></original>
@@ -378,6 +385,13 @@
   <w>á</w>
   <w>menntaskólaprófum</w>
   <w>þó</w>
+  <revision id="7b">
+    <original></original>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
   <w>mikilvægt</w>
   <w>sé</w>
   <w>að</w>
@@ -651,6 +665,13 @@
   <w>það</w>
   <c>,</c>
   <w>þó</w>
+  <revision id="13b">
+    <original></original>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
   <w>þú</w>
   <w>lærir</w>
   <w>það</w>
@@ -1221,7 +1242,10 @@
       </errors>
   </revision>
   <w>samræmt</w>
-  <w>próf.</w>
+  <w>próf</w>
+  <c>.</c>
+</s>
+<s n="49b">
   <w>Nauðsynlegt</w>
   <w>er</w>
   <w>þó</w>

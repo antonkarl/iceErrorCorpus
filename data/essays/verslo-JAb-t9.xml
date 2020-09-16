@@ -280,6 +280,13 @@
   <w>fyrir</w>
   <w>þá</w>
   <w>þó</w>
+  <revision id="2b">
+    <original></original>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
   <w>raunin</w>
   <w>yrði</w>
   <w>ef</w>
@@ -608,6 +615,13 @@
   <w>margt</w>
   <w>að</w>
   <w>þakka</w>
+  <revision id="9b">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0"/>
+      </errors>
+  </revision>
   <w>einkum</w>
   <w>þó</w>
   <revision id="10">

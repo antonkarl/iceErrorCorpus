@@ -7,6 +7,13 @@
   <w>saknaði</w>
   <w>Reykjavíkur</w>
   <w>þó</w>
+  <revision id="0">
+    <original></original>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
   <w>ég</w>
   <revision id="1">
     <original><w>hafði</w></original>
@@ -638,6 +645,13 @@
   <w>er</w>
   <w>yfir</w>
   <w>bíómynd</w>
+  <revision id="16b">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0"/>
+      </errors>
+  </revision>
   <w>þó</w>
   <revision id="17">
     <original><w>mér</w></original>

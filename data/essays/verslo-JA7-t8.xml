@@ -276,7 +276,13 @@
   <w>margir</w>
   <w>nemendur</w>
   <w>fara</w>
-  <w>erlendis</w>
+  <revision id="3b">
+    <original><w>erlendis</w></original>
+    <corrected><w>til</w><w>útlanda</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
   <w>eftir</w>
   <w>stúdentspróf</w>
   <w>eða</w>
@@ -503,6 +509,13 @@
   <c>.</c>
 </s><s n="21">
   <w>Þó</w>
+  <revision id="4b">
+    <original></original>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
   <w>hann</w>
   <w>sé</w>
   <w>greinilega</w>
