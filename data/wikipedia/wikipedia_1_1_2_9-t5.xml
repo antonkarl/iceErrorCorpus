@@ -2132,7 +2132,13 @@
   <w>Þrátt</w>
   <w>fyrir</w>
   <w>að</w>
-  <w>þó</w>
+  <revision id="87b">
+    <original><w>þó</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0"/>
+      </errors>
+  </revision>
   <w>nokkrar</w>
   <w>rannsóknir</w>
   <w>hafi</w>

@@ -581,12 +581,13 @@
 </s><s n="31">
   <w>Þó</w>
   <revision id="27">
-    <original><w>það</w></original>
-    <corrected/>
+    <original></original>
+    <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="extra-word" eid="0"/>
+        <error xtype="missing-word-word" eid="0"/>
       </errors>
   </revision>
+  <w>það</w>
   <w>sé</w>
   <w>mikill</w>
   <w>munur</w>

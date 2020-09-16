@@ -25,7 +25,13 @@
   <w>líkist</w>
   <w>þó</w>
   <w>ekki</w>
-  <w>ekki</w>
+  <revision id="0">
+    <original><w>ekki</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="repeat-word" eid="0"/>
+      </errors>
+  </revision>
   <w>kirkju</w>
   <w>að</w>
   <w>utan</w>
