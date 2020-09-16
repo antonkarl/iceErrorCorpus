@@ -493,7 +493,13 @@
   <w>sé</w>
   <w>umhverfið</w>
   <w>og</w>
-  <w>ýmis</w>
+  <revision id="13a">
+    <original><w>ýmis</w></original>
+    <corrected><w>ýmiss</w></corrected>
+      <errors>
+        <error xtype="missing-letter" eid="0" />
+      </errors>
+  </revision>
   <w>konar</w>
   <w>áreiti</w>
   <w>í</w>
@@ -1375,8 +1381,14 @@
   <w>sem</w>
   <w>heillar</w>
   <w>allar</w>
-  <w>stelpur</w>
-  <w>uppúr</w>
+  <w>stelpur</w>  
+  <revision id="33a">
+    <original><w>uppúr</w></original>
+    <corrected><w>upp</w><w><úr/w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>skónum</w>
   <w>og</w>
   <w>það</w>

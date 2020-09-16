@@ -784,7 +784,13 @@
   <w>á</w>
   <w>önn</w>
   <w>kemur</w>
-  <w>einskonar</w>
+    <revision id="14a">
+    <original><w>einskonar</w></original>
+    <corrected><w>eins</w><w>konar</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>flóðbylgja</w>
   <w>af</w>
   <w>skyndiprófum</w>
