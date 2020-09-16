@@ -33,8 +33,13 @@
   <w>og</w>
   <w>fólkið</w>
   <w>í</w>
-  <w>kring</w>
-  <w>um</w>
+  <revision id="1a">
+    <original><w>kring</w><w>um</w></corrected
+    <corrected><w>kringum</w></original>
+      <errors>
+        <error xtype="split-word" eid="0" />
+      </errors>
+  </revision>
   <w>það</w>
   <c>,</c>
   <w>þess</w>
@@ -136,8 +141,13 @@
   <w>á</w>
   <w>fólkið</w>
   <w>í</w>
-  <w>kring</w>
-  <w>um</w>
+  <revision id="2a">
+    <original><w>kring</w><w>um</w></corrected
+    <corrected><w>kringum</w></original>
+      <errors>
+        <error xtype="split-word" eid="0" />
+      </errors>
+  </revision>
   <w>það</w>
   <c>,</c>
   <w>þannig</w>
@@ -520,7 +530,14 @@
   <w>áhrif</w>
   <w>á</w>
   <w>líf</w>
-  <w>fólkst</w>
+  <revision id="5a">
+    <original><w>fólkst</w></original>
+    <corrected><w>fólks</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="5a-1" eid="0" />
+        <error xtype="nonword" idx="5a-1" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="17">
   <w>Það</w>
