@@ -519,7 +519,14 @@
 </s><s n="21">
   <w>Einkunnir</w>
   <w>úr</w>
-  <w>menntaksóla</w>
+  <revision id="10a">
+    <original><w>menntaksóla</w></original>
+    <corrected><w>menntaskóla</w></corrected>
+      <errors>
+        <error xtype="swapped-letters" idx="10a-1" eid="0" />
+        <error xtype="compound-nonword" idx="10a-1" eid="0" />
+      </errors>
+  </revision>
   <w>ættu</w>
   <w>ekki</w>
   <w>að</w>
@@ -1377,7 +1384,14 @@
   <w>Slakir</w>
   <w>nemendur</w>
   <w>í</w>
-  <w>menntaksóla</w>
+  <revision id="28a">
+    <original><w>menntaksóla</w></original>
+    <corrected><w>menntaskóla</w></corrected>
+      <errors>
+        <error xtype="swapped-letters" idx="28a-1" eid="0" />
+        <error xtype="compound-nonword" idx="28a-1" eid="0" />
+      </errors>
+  </revision>
   <w>standa</w>
   <w>sig</w>
   <w>oft</w>
