@@ -959,11 +959,23 @@
   <w>borðað</w>
   <w>það</w>
   <w>sem</w>
-  <w>þeim</w>
+  <revision id="4a">
+    <original><w>þeim</w></original>
+    <corrected><w>þá</w></corrected>
+      <errors>
+        <error xtype="dative-sub" eid="0" />
+      </errors>
+  </revision>
   <w>langar</w>
   <w>í</w>
   <w>þegar</w>
-  <w>þeim</w>
+  <revision id="4b">
+    <original><w>þeim</w></original>
+    <corrected><w>þá</w></corrected>
+      <errors>
+        <error xtype="dative-sub" eid="0" />
+      </errors>
+  </revision>
   <w>langar</w>
   <w>til</w>
   <w>en</w>
