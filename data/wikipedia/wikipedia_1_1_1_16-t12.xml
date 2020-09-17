@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_16-t12.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Þrátt</w>
@@ -49,7 +61,7 @@
   <w>en</w>
   <w>tilheyra</w>
   <w>ættinni</w>
-  <w><i>Pteriidae</i></w>
+  <w><hi>Pteriidae</hi></w>
   <c>.</c>
 </s><s n="4">
   <w>Rannsóknir</w>
@@ -720,13 +732,13 @@
   <w>þeirra</w>
   <w>tilheyra</w>
   <w>ættkvíslunum</w>
-  <w><i>Ostrea</i></w>
+  <w><hi>Ostrea</hi></w>
   <c>,</c>
-  <w><i>Crassostrea</i></w>
+  <w><hi>Crassostrea</hi></w>
   <c>,</c>
-  <w><i>Ostreola</i></w>
+  <w><hi>Ostreola</hi></w>
   <w>og</w>
-  <w><i>Saccostrea</i></w>
+  <w><hi>Saccostrea</hi></w>
   <c>.</c>
 </s><s n="38">
   <w>Gæta</w>

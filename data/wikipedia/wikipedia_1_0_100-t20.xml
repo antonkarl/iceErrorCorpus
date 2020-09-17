@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_100-t20.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Atlantshaf</w>
@@ -98,8 +110,8 @@
   <w>nafnið</w>
   <w>Atlantshaf</w>
   <w>eru</w>
-  <w><i>Sögur</i></w>
-  <w><i>Heródótosar</i></w>
+  <w><hi>Sögur</hi></w>
+  <w><hi>Heródótosar</hi></w>
   <w>frá</w>
   <w>því</w>
   <w>um</w>
@@ -118,8 +130,8 @@
   <w>Ἀτλαντὶς</w>
   <w>θάλασσα</w>
   <c>(</c>
-  <w><i>Atlantis</i></w>
-  <w><i>þalassa</i></w>
+  <w><hi>Atlantis</hi></w>
+  <w><hi>þalassa</hi></w>
   <c>)</c>
   <w>eða</w>
   <c>„</c>

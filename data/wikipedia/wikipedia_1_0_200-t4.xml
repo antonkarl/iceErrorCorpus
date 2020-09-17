@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_200-t4.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Nafnið</w>
@@ -10,7 +22,7 @@
   <w>arabíska</w>
   <w>orðinu</w>
   <w>قمر</w>
-  <w><i>qamar</i></w>
+  <w><hi>qamar</hi></w>
   <c>,</c>
   <revision id="1">
     <original/>

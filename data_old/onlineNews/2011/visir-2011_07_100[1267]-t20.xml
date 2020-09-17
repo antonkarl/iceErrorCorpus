@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Umferðaslys</w>
+  <w>varð</w>
+  <w>nærri</w>
+  <w>Skógum</w>
+  <w>fyrir</w>
+  <w>örfáum</w>
+  <w>mínútum</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Sjónarvottur</w>
+  <w>sem</w>
+  <w>Vísir</w>
+  <w>talaði</w>
+  <w>við</w>
+  <w>segist</w>
+  <w>hafa</w>
+  <w>séð</w>
+  <w>fjölmarga</w>
+  <w>lögreglubíla</w>
+  <c>,</c>
+  <w>sjúkrabíla</w>
+  <w>og</w>
+  <revision id="1">
+    <original><w>björgunarsveitabíla</w></original>
+    <corrected><w>björgunarsveitarbíla</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="1-1" eid="0" />
+        <error xtype="compound-collocation" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>drífa</w>
+  <w>að</w>
+  <c>,</c>
+  <w>en</w>
+  <w>frekari</w>
+  <w>upplýsingar</w>
+  <w>um</w>
+  <w>málið</w>
+  <w>hafa</w>
+  <w>ekki</w>
+  <w>fengist</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Við</w>
+  <w>segjum</w>
+  <w>nánar</w>
+  <w>frá</w>
+  <w>þegar</w>
+  <w>frekari</w>
+  <w>upplýsingar</w>
+  <w>berast</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

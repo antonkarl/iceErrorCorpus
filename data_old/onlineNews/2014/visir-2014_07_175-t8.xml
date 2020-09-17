@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Fyrir</w>
+  <w>þá</w>
+  <w>sem</w>
+  <w>hafa</w>
+  <w>enn</w>
+  <w>ekki</w>
+  <w>horft</w>
+  <w>á</w>
+  <w>myndirnar</w>
+  <w>um</w>
+  <revision id="1">
+    <original><w>Lord</w><w>of</w><w>the</w><w>Rings</w></original>
+    <corrected><w>Hringadróttinssögu</w></corrected>
+      <errors>
+        <error xtype="fw" idx="1-1" eid="0" />
+        <error xtype="style" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>en</w>
+  <w>nenna</w>
+  <w>ekki</w>
+  <w>að</w>
+  <w>horfa</w>
+  <w>á</w>
+  <w>allar</w>
+  <w>myndirnar</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>eru</w>
+  <w>yfir</w>
+  <w>níu</w>
+  <w>klukkutímar</w>
+  <w>samtals</w>
+  <c>,</c>
+  <w>er</w>
+  <w>nú</w>
+  <w>komin</w>
+  <w>lausn</w>
+  <w>á</w>
+  <w>vandamálinu</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Mashable</w>
+  <w>bjó</w>
+  <w>til</w>
+  <w>90</w>
+  <w>sekúndna</w>
+  <w>samantekt</w>
+  <w>sem</w>
+  <w>getur</w>
+  <w>sett</w>
+  <w>fólk</w>
+  <w>inn</w>
+  <w>í</w>
+  <w>annars</w>
+  <revision id="2">
+    <original><w>flókinn</w><w>söguþráð</w></original>
+    <corrected><w>flókna</w><w>söguþráðinn</w></corrected>
+      <errors>
+        <error xtype="ind4def" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Sjón</w>
+  <w>er</w>
+  <w>sögu</w>
+  <w>ríkari</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_7-t5.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Kvikasilfur</w>
@@ -93,7 +105,7 @@
   <w>kvikasilfursúlfíð</w>
   <c>,</c>
   <revision id="2">
-    <original><w><i>HgS</i></w></original>
+    <original><w><hi>HgS</hi></w></original>
     <corrected><w>HgS</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -399,7 +411,7 @@
   <w>yfir</w>
   <w>gullgerðarlist</w>
   <w>er</w>
-  <w><i>rassayana</i></w>
+  <w><hi>rassayana</hi></w>
   <w>sem</w>
   <w>þýðir</w>
   <c>„</c>
@@ -502,7 +514,7 @@
   <w>dregið</w>
   <w>af</w>
   <w>orðinu</w>
-  <w><i>hydragyrum</i></w>
+  <w><hi>hydragyrum</hi></w>
   <c>,</c>
   <w>sem</w>
   <w>er</w>
@@ -513,7 +525,7 @@
   <w>orðinu</w>
   <w>ύδράργυρος</w>
   <c>,</c>
-  <w><i>hydragyros</i></w>
+  <w><hi>hydragyros</hi></w>
   <revision id="9">
     <original></original>
     <corrected><c>,</c></corrected>
@@ -528,7 +540,7 @@
   <w>sem</w>
   <w>þýðir</w>
   <revision id="10">
-    <original><w><i>vatn</i></w></original>
+    <original><w><hi>vatn</hi></w></original>
     <corrected><c>‚</c><w>vatn</w><c>‘</c></corrected>
       <errors>
         <error xtype="missing-quots" idx="10-1" eid="0" />
@@ -537,7 +549,7 @@
   </revision>
   <w>og</w>
   <revision id="11">
-    <original><w><i>silfur</i></w></original>
+    <original><w><hi>silfur</hi></w></original>
     <corrected><c>‚</c><w>silfur</w><c>‘</c></corrected>
       <errors>
         <error xtype="missing-quots" idx="11-1" eid="0" />
@@ -634,10 +646,10 @@
   <w>enska</w>
   <w>máltækisins</w>
   <c>„</c>
-  <w><i>mad</i></w>
-  <w><i>as</i></w>
-  <w><i>a</i></w>
-  <w><i>hatter</i></w>
+  <w><hi>mad</hi></w>
+  <w><hi>as</hi></w>
+  <w><hi>a</hi></w>
+  <w><hi>hatter</hi></w>
   <c>“</c>
   <c>(</c>
   <c>„</c>

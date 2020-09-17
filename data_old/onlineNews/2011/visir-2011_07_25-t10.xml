@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Breska</w>
+  <w>vikublaðið</w>
+  <w>News</w>
+  <w>of</w>
+  <w>the</w>
+  <w>World</w>
+  <w>kemur</w>
+  <w>út</w>
+  <w>í</w>
+  <w>síðasta</w>
+  <w>skipti</w>
+  <w>á</w>
+  <w>morgun</w>
+  <w>en</w>
+  <w>ákveðið</w>
+  <w>hefur</w>
+  <w>verið</w>
+  <w>að</w>
+  <w>leggja</w>
+  <w>blaðið</w>
+  <w>niður</w>
+  <w>eftir</w>
+  <w>að</w>
+  <w>fréttir</w>
+  <w>bárust</w>
+  <revision id="1">
+    <original><w>að</w></original>
+    <corrected><w>af</w></corrected>
+      <errors>
+        <error xtype="að4af" eid="0" />
+      </errors>
+  </revision>
+  <w>því</w>
+  <w>að</w>
+  <revision id="2">
+    <original><w>menn</w></original>
+    <corrected><w>fólk</w></corrected>
+      <errors>
+        <error xtype="gendered" idx="2-1" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>vegum</w>
+  <w>blaðsins</w>
+  <revision id="3">
+    <original><w>hefðu</w></original>
+    <corrected><w>hefði</w></corrected>
+      <errors>
+        <error xtype="dep" depId="2-1" eid="0" />
+      </errors>
+  </revision>
+  <w>hlerað</w>
+  <w>síma</w>
+  <w>einstaklinga</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Á</w>
+  <w>forsíðunni</w>
+  <w>á</w>
+  <w>blaðinu</w>
+  <w>í</w>
+  <w>fyrramálið</w>
+  <w>stendur</w>
+  <c>„</c>
+  <w>Takk</w>
+  <w>fyrir</w>
+  <w>og</w>
+  <w>bless</w>
+  <revision id="3b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>gamlar</w>
+  <w>forsíður</w>
+  <w>blaðsins</w>
+  <w>eru</w>
+  <w>í</w>
+  <w>bakgrunni</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Fréttirnar</w>
+  <w>um</w>
+  <w>hleranir</w>
+  <w>blaðsins</w>
+  <w>hafa</w>
+  <w>vakið</w>
+  <w>hörð</w>
+  <w>viðbrögð</w>
+  <w>og</w>
+  <w>á</w>
+  <w>endanum</w>
+  <w>ákvað</w>
+  <w>eigandi</w>
+  <w>blaðsins</w>
+  <w>Rupert</w>
+  <w>Murdoc</w>
+  <w>að</w>
+  <w>leggja</w>
+  <w>það</w>
+  <w>niður</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Á</w>
+  <w>meðal</w>
+  <w>þeirra</w>
+  <w>sem</w>
+  <w>voru</w>
+  <revision id="4">
+    <original><w>hleraðir</w></original>
+    <corrected><w>hleruð</w></corrected>
+      <errors>
+        <error xtype="gendered" eid="0" />
+      </errors>
+  </revision>
+  <w>voru</w>
+  <w>brotaþolar</w>
+  <w>í</w>
+  <w>áberandi</w>
+  <w>sakamálum</w>
+  <w>og</w>
+  <revision id="5">
+    <original><w>fræga</w><w>listamenn</w></original>
+    <corrected><w>frægt</w><w>listafólk</w></corrected>
+      <errors>
+        <error xtype="dep" depId="5-1" eid="0" />
+        <error xtype="gendered" idx="5-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>News</w>
+  <w>of</w>
+  <w>the</w>
+  <w>World</w>
+  <w>er</w>
+  <w>eitt</w>
+  <w>stærsta</w>
+  <w>blaðið</w>
+  <w>í</w>
+  <w>Bretlandi</w>
+  <w>og</w>
+  <w>var</w>
+  <w>stofnað</w>
+  <w>árið 1843</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

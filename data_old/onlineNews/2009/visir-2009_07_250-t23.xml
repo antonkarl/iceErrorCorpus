@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Erlendir</w>
+  <w>kröfuhafar</w>
+  <w>gömlu</w>
+  <w>bankanna</w>
+  <w>reyna</w>
+  <w>nú</w>
+  <w>að</w>
+  <w>tefja</w>
+  <w>samningaviðræður</w>
+  <w>við</w>
+  <w>íslenska</w>
+  <w>ríkið</w>
+  <w>til</w>
+  <w>að</w>
+  <w>komast</w>
+  <w>hjá</w>
+  <w>því</w>
+  <w>að</w>
+  <w>bókfæra</w>
+  <w>tap</w>
+  <w>vegna</w>
+  <w>bankahrunsins</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Formlega</w>
+  <w>viðræður</w>
+  <w>við</w>
+  <w>kröfuhafa</w>
+  <w>gömlu</w>
+  <w>bankanna</w>
+  <w>hófust</w>
+  <w>í</w>
+  <w>byrjun</w>
+  <w>síðasta</w>
+  <w>mánaðar</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Viðræðum</w>
+  <w>á</w>
+  <w>ljúka</w>
+  <w>í</w>
+  <w>næstu</w>
+  <w>viku</w>
+  <w>þegar</w>
+  <w>ríkið</w>
+  <w>ætlar</w>
+  <w>endurfjármagna</w>
+  <w>nýju</w>
+  <w>bankana</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Ljóst</w>
+  <w>er</w>
+  <w>að</w>
+  <w>kröfuhafarnir</w>
+  <w>þurfa</w>
+  <w>að</w>
+  <w>afskrifa</w>
+  <w>verulega</w>
+  <w>upphæðir</w>
+  <w>vegna</w>
+  <w>bankahrunsins</w>
+  <w>en</w>
+  <w>samningaviðræðurnar</w>
+  <w>ganga</w>
+  <w>meðal</w>
+  <w>annars</w>
+  <w>út</w>
+  <w>á</w>
+  <w>verðmat</w>
+  <w>þeirra</w>
+  <w>eigna</w>
+  <w>sem</w>
+  <w>fluttar</w>
+  <w>voru</w>
+  <w>úr</w>
+  <w>gömlu</w>
+  <w>bönkunum</w>
+  <w>yfir</w>
+  <w>í</w>
+  <w>þá</w>
+  <w>nýju</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Helga</w>
+  <w>Valfells</w>
+  <revision id="1">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-commas" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>aðstoðarmaður</w>
+  <w>viðskiptaráðherra</w>
+  <revision id="2">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>segir</w>
+  <w>að</w>
+  <w>viðræður</w>
+  <w>við</w>
+  <w>kröfuhafa</w>
+  <w>gangi</w>
+  <w>almennt</w>
+  <w>vel</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <c>„</c>
+  <w>Hins</w>
+  <w>vegar</w>
+  <w>eru</w>
+  <w>sumir</w>
+  <w>kröfuhafar</w>
+  <w>sem</w>
+  <w>vilja</w>
+  <w>tefja</w>
+  <w>samningaviðræðurnar</w>
+  <w>vegna</w>
+  <w>þess</w>
+  <w>að</w>
+  <w>þeir</w>
+  <w>eru</w>
+  <w>ekki</w>
+  <w>tilbúnir</w>
+  <w>að</w>
+  <w>taka</w>
+  <w>á</w>
+  <w>sig</w>
+  <w>tap</w>
+  <w>í</w>
+  <w>sínu</w>
+  <w>bókhaldi</w>
+  <w>vegna</w>
+  <w>þess</w>
+  <w>að</w>
+  <w>þeir</w>
+  <w>eru</w>
+  <w>að</w>
+  <w>taka</w>
+  <w>á</w>
+  <w>sig</w>
+  <w>tap</w>
+  <w>út</w>
+  <w>um</w>
+  <w>allan</w>
+  <w>heim</w>
+  <c>,</c>
+  <revision id="2b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
+  <w>segir</w>
+  <w>Helga</w>
+  <w>Valfells</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <c>„</c>
+  <revision id="3">
+    <original><w>Þeir</w><w>eru</w></original>
+    <corrected><w>Það</w><w>er</w></corrected>
+      <errors>
+        <error xtype="agreement-pro" eid="0" />
+        <error xtype="agreement-pred" eid="0" />
+      </errors>
+  </revision>
+  <w>hugsanlega</w>
+  <revision id="4">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>ársuppgjör</w>
+  <w>eða</w>
+  <w>milliuppgjör</w>
+  <w>þar</w>
+  <w>sem</w>
+  <w>þeir</w>
+  <w>vilja</w>
+  <w>ekki</w>
+  <w>sýna</w>
+  <w>tapið</w>
+  <w>strax</w>
+  <c>.</c>
+</s>
+<s n="8">
+  <revision id="5">
+    <original><w>það</w></original>
+    <corrected><w>Það</w></corrected>
+      <errors>
+        <error xtype="lower4upper-initial" eid="0" />
+      </errors>
+  </revision>
+  <w>er</w>
+  <w>kannski</w>
+  <w>líka</w>
+  <w>það</w>
+  <c>.</c>
+</s>
+<s n="9">
+  <revision id="6">
+    <original><w>það</w></original>
+    <corrected><w>Það</w></corrected>
+      <errors>
+        <error xtype="lower4upper-initial" eid="0" />
+      </errors>
+  </revision>
+  <w>eru</w>
+  <w>allir</w>
+  <w>tregir</w>
+  <w>til</w>
+  <w>að</w>
+  <w>taka</w>
+  <w>á</w>
+  <w>sig</w>
+  <w>tap</w>
+  <w>í</w>
+  <w>þessu</w>
+  <w>árferði</w>
+  <c>.</c>
+  <revision id="6b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
+</s>
+<s n="10">
+  <w>Helga</w>
+  <w>segir</w>
+  <w>að</w>
+  <w>kröfuhafarnir</w>
+  <w>hafi</w>
+  <w>ekki</w>
+  <w>hótað</w>
+  <w>að</w>
+  <w>fara</w>
+  <w>í</w>
+  <w>mál</w>
+  <w>vegna</w>
+  <w>setningu</w>
+  <w>neyðarlaganna</w>
+  <w>hins</w>
+  <w>vegar</w>
+  <w>muni</w>
+  <w>ríkið</w>
+  <w>njóta</w>
+  <w>aðstoðar</w>
+  <w>lögfræðinga</w>
+  <w>náist</w>
+  <w>ekki</w>
+  <w>að</w>
+  <w>klára</w>
+  <w>viðræður</w>
+  <w>fyrir</w>
+  <w>tilsettan</w>
+  <w>tíma</w>
+  <c>.</c>
+</s>
+<s n="11">
+  <c>„</c>
+  <w>Við</w>
+  <w>erum</w>
+  <w>með</w>
+  <w>tvær</w>
+  <w>lögfræðiskrifstofur</w>
+  <w>okkur</w>
+  <w>við</w>
+  <w>hlið</w>
+  <c>,</c>
+  <w>bæði</w>
+  <w>Landslög</w>
+  <w>og</w>
+  <w>Lowels</w>
+  <c>,</c>
+  <revision id="6c">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
+  <w>segir</w>
+  <w>Helga</w>
+  <c>.</c>
+</s>
+<s n="12">
+  <c>„</c>
+  <w>Þær</w>
+  <w>eru</w>
+  <w>að</w>
+  <w>teikna</w>
+  <w>upp</w>
+  <w>leiðir</w>
+  <w>og</w>
+  <w>finna</w>
+  <w>leiðir</w>
+  <w>til</w>
+  <w>að</w>
+  <w>friðþægja</w>
+  <w>kröfuhafa</w>
+  <w>ef</w>
+  <w>að</w>
+  <w>samningsviðræðum</w>
+  <w>lýkur</w>
+  <w>ekki</w>
+  <w>á</w>
+  <w>tilskyldum</w>
+  <w>tíma</w>
+  <c>.</c>
+  <revision id="16d">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
+</s>
+<s n="13">
+  <revision id="7">
+    <original><w>Ennfremur</w></original>
+    <corrected><w>Enn</w><w>fremur</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
+  <w>kemur</w>
+  <w>fram</w>
+  <w>hjá</w>
+  <w>Helgu</w>
+  <w>að</w>
+  <w>allir</w>
+  <w>séu</w>
+  <w>mjög</w>
+  <w>meðvitaðir</w>
+  <w>um</w>
+  <w>þessa</w>
+  <w>dagsetningu</w>
+  <w>17. júlí</w>
+  <w>og</w>
+  <w>stjórnvöld</w>
+  <w>muni</w>
+  <w>gera</w>
+  <w>sitt</w>
+  <w>besta</w>
+  <w>til</w>
+  <w>að</w>
+  <w>klára</w>
+  <w>þetta</w>
+  <w>fyrir</w>
+  <w>þann</w>
+  <w>tíma</w>
+  <c>.</c>
+</s>
+<s n="14">
+  <w>Ríkið</w>
+  <w>er</w>
+  <w>tilbúið</w>
+  <w>að</w>
+  <w>koma</w>
+  <w>með</w>
+  <w>sitt</w>
+  <w>fjármagn</w>
+  <w>og</w>
+  <w>kröfuhafar</w>
+  <w>vita</w>
+  <w>af</w>
+  <w>því</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

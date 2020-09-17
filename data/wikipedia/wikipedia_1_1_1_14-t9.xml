@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_14-t9.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Að</w>
@@ -367,7 +379,7 @@
   <c>,</c>
   <w>sálmalög</w>
   <w>úr</w>
-  <w><i>Mattheusarpassíunni</i></w>
+  <w><hi>Mattheusarpassíunni</hi></w>
   <w>og</w>
   <w>íslensk</w>
   <w>tónlist</w>
@@ -419,15 +431,15 @@
   <w>á</w>
   <w>borð</w>
   <w>við</w>
-  <w><i>Jólaóratoríu</i></w>
+  <w><hi>Jólaóratoríu</hi></w>
   <c>,</c>
-  <w><i>Jóhannesarpassíu</i></w>
+  <w><hi>Jóhannesarpassíu</hi></w>
   <c>,</c>
   <w>ZMattheusarpassíu</w>
   <w>og</w>
   <revision id="10">
-    <original><w><i>H-moll</i></w><w>messu</w></original>
-    <corrected><w><i>H-mollmessu</i></w></corrected>
+    <original><w><hi>H-moll</hi></w><w>messu</w></original>
+    <corrected><w><hi>H-mollmessu</hi></w></corrected>
       <errors>
         <error xtype="split-compound" eid="0"/>
       </errors>
@@ -693,8 +705,8 @@
   <w>meðal</w>
   <w>annars</w>
   <w>verkin</w>
-  <w><i>Ave</i></w>
-  <w><i>Verum</i></w>
+  <w><hi>Ave</hi></w>
+  <w><hi>Verum</hi></w>
   <w>eftir</w>
   <w>Mozart</w>
   <w>og</w>
@@ -781,9 +793,9 @@
   <w>apríl 1976</w>
   <w>flutti</w>
   <w>kórinn</w>
-  <w><i>Messu</i></w>
-  <w><i>í</i></w>
-  <w><i>H-moll</i></w>
+  <w><hi>Messu</hi></w>
+  <w><hi>í</hi></w>
+  <w><hi>H-moll</hi></w>
   <w>eftir</w>
   <w>J.</w>
   <w>S.</w>
@@ -808,11 +820,11 @@
   <w>þeirra</w>
   <w>fyrri</w>
   <w>voru</w>
-  <w><i>Gloria</i></w>
+  <w><hi>Gloria</hi></w>
   <w>eftir</w>
   <w>Vivaldi</w>
   <w>og</w>
-  <w><i>Magnificat</i></w>
+  <w><hi>Magnificat</hi></w>
   <w>eftir</w>
   <w>Bach</w>
   <c>.</c>
@@ -828,7 +840,7 @@
   <w>meðal</w>
   <w>annars</w>
   <w>tónverkið</w>
-  <w><i>Dauðadansinn</i></w>
+  <w><hi>Dauðadansinn</hi></w>
   <w>eftir</w>
   <w>Hugo</w>
   <w>Distler</w>
@@ -896,18 +908,18 @@
   <w>í</w>
   <w>Háskólabíói</w>
   <w>á</w>
-  <w><i>Ave</i></w>
-  <w><i>verum</i></w>
+  <w><hi>Ave</hi></w>
+  <w><hi>verum</hi></w>
   <w>eftir</w>
   <w>Mozart</w>
   <c>,</c>
-  <w><i>Te</i></w>
-  <w><i>deum</i></w>
+  <w><hi>Te</hi></w>
+  <w><hi>deum</hi></w>
   <w>eftir</w>
   <w>Verdi</w>
   <w>og</w>
-  <w><i>Stabat</i></w>
-  <w><i>Mater</i></w>
+  <w><hi>Stabat</hi></w>
+  <w><hi>Mater</hi></w>
   <w>eftir</w>
   <w>Rossini</w>
   <c>.</c>
@@ -989,7 +1001,7 @@
   <w>flytja</w>
   <revision id="16">
     <original><w>H-moll</w><w>messu</w></original>
-    <corrected><w><i>H-moll</i></w><w><i>messu</i></w></corrected>
+    <corrected><w><hi>H-moll</hi></w><w><hi>messu</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -1051,7 +1063,7 @@
   <w>á</w>
   <w>efnisskrá</w>
   <w>verkið</w>
-  <w><i>Messa</i></w>
+  <w><hi>Messa</hi></w>
   <w>eftir</w>
   <w>Gunnar</w>
   <w>Reyni</w>
@@ -1087,7 +1099,7 @@
 </s><s n="45">
   <w>Kórinn</w>
   <w>flutti</w>
-  <w><i>Jólaóratóríu</i></w>
+  <w><hi>Jólaóratóríu</hi></w>
   <w>Bachs</w>
   <w>í</w>
   <w>Kristskirkju</w>
@@ -1195,7 +1207,7 @@
   <w>á</w>
   <w>jólatónleikunum</w>
   <w>var</w>
-  <w><i>Jólaóratóría</i></w>
+  <w><hi>Jólaóratóría</hi></w>
   <w>Bachs</w>
   <w>á</w>
   <w>dagskrá</w>
@@ -1288,8 +1300,8 @@
   <w>voru</w>
   <w>hlutar</w>
   <w>úr</w>
-  <w><i>Óratóríunni</i></w>
-  <w><i>Eddu</i></w>
+  <w><hi>Óratóríunni</hi></w>
+  <w><hi>Eddu</hi></w>
   <w>eftir</w>
   <w>Jón</w>
   <w>Leifs</w>
@@ -1306,9 +1318,9 @@
   <w>gefin</w>
   <w>út</w>
   <w>bókin</w>
-  <w><i>Í</i></w>
-  <w><i>ljósi</i></w>
-  <w><i>líðandi</i></w>
+  <w><hi>Í</hi></w>
+  <w><hi>ljósi</hi></w>
+  <w><hi>líðandi</hi></w>
   <w>Zstundar</w>
   <revision id="19">
     <original><c>.</c></original>
@@ -1318,7 +1330,7 @@
       </errors>
   </revision>
   <w><i/></w>
-  <w><i>Pólýfónkórinn</i></w>
+  <w><hi>Pólýfónkórinn</hi></w>
   <w><i/></w>
   <w>1957</w>
   <c>-</c>
@@ -1328,9 +1340,9 @@
   <w>Á</w>
   <w>efnisskránni</w>
   <w>voru</w>
-  <w><i>Magnificat</i></w>
+  <w><hi>Magnificat</hi></w>
   <w>og</w>
-  <w><i>Svíta</i></w>
+  <w><hi>Svíta</hi></w>
   <w>Znr</w>
   <c>.</c>
 </s><s n="57">
@@ -1339,7 +1351,7 @@
   <w>síðast</w>
   <revision id="20">
     <original><w>Mattheusarpassían</w></original>
-    <corrected><w><i>Mattheusarpassían</i></w></corrected>
+    <corrected><w><hi>Mattheusarpassían</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -1893,7 +1905,7 @@
   <w>Árið 1971</w>
   <w>flutti</w>
   <w>kórinn</w>
-  <w><i>Magnificat</i></w>
+  <w><hi>Magnificat</hi></w>
   <w>eftir</w>
   <w>Monteverdi</w>
   <w>ásamt</w>
@@ -1947,8 +1959,8 @@
   <w>janúar</w>
   <w>söng</w>
   <w>hann</w>
-  <w><i>Stabat</i></w>
-  <w><i>Mater</i></w>
+  <w><hi>Stabat</hi></w>
+  <w><hi>Mater</hi></w>
   <w>eftir</w>
   <w>Szymanowski</w>
   <w>með</w>
@@ -1990,7 +2002,7 @@
   <w>Í</w>
   <w>flutningi</w>
   <w>á</w>
-  <w><i>Mattheusarpassíunni</i></w>
+  <w><hi>Mattheusarpassíunni</hi></w>
   <w>fékk</w>
   <w>kórinn</w>
   <c>,</c>
@@ -2188,7 +2200,7 @@
 </s><s n="92">
   <w>Kórinn</w>
   <w>söng</w>
-  <w><i>Messías</i></w>
+  <w><hi>Messías</hi></w>
   <w>aftur</w>
   <w>í</w>
   <w>Hallgrímskirkju</w>
@@ -2648,7 +2660,7 @@
   <w>með</w>
   <revision id="39">
     <original><w>H-moll</w><w>messuna</w></original>
-    <corrected><w><i>H-moll</i></w><w><i>messu</i></w></corrected>
+    <corrected><w><hi>H-moll</hi></w><w><hi>messu</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="96-1" eid="0"/>
         <error xtype="def4ind" idx="96-2" eid="0"/>
@@ -2732,7 +2744,7 @@
   <w>fyrstu</w>
   <w>heildaruppfærslu</w>
   <w>á</w>
-  <w><i>Mattheusarpassíu</i></w>
+  <w><hi>Mattheusarpassíu</hi></w>
   <w>Bachs</w>
   <c>,</c>
   <w>í</w>
@@ -2934,17 +2946,17 @@
   <w>og</w>
   <w>ítölsku</w>
   <w>riddaraorðunni</w>
-  <w><i>Cavaliere</i></w>
-  <w><i>della</i></w>
+  <w><hi>Cavaliere</hi></w>
+  <w><hi>della</hi></w>
   <revision id="45">
-    <original><w><i>Repubblica</i></w></original>
-    <corrected><w><i>Republica</i></w></corrected>
+    <original><w><hi>Repubblica</hi></w></original>
+    <corrected><w><hi>Republica</hi></w></corrected>
       <errors>
         <error xtype="extra-letter" idx="15-1" eid="0"/>
         <error xtype="foreign error" idx="15-1" eid="0"/>
       </errors>
   </revision>
-  <w><i>Italiana</i></w>
+  <w><hi>Italiana</hi></w>
   <w>1977</w>
   <w>og</w>
   <w>1991</w>
@@ -3170,8 +3182,8 @@
   <w>á</w>
   <w>landi</w>
   <w>verkið</w>
-  <w><i>Agnus</i></w>
-  <w><i>Dei</i></w>
+  <w><hi>Agnus</hi></w>
+  <w><hi>Dei</hi></w>
   <w>eftir</w>
   <w>Þorkel</w>
   <w>Sigurbjörnsson</w>
@@ -3283,7 +3295,7 @@
   <w>Árið 1978</w>
   <w>flutti</w>
   <w>kórinn</w>
-  <w><i>Jólaóratóríu</i></w>
+  <w><hi>Jólaóratóríu</hi></w>
   <w>Bachs</w>
   <w>í</w>
   <w>Háskólabíói</w>
@@ -3497,8 +3509,8 @@
   <w>af</w>
   <w>höfuðverkum</w>
   <w>kirkjutónlistarinnar</w>
-  <w><i>Stabat</i></w>
-  <w><i>Mater</i></w>
+  <w><hi>Stabat</hi></w>
+  <w><hi>Mater</hi></w>
   <w>eftir</w>
   <w>Palestrina</w>
   <w>og</w>
@@ -3760,7 +3772,7 @@
   <w>síðar</w>
   <w>frumflutti</w>
   <w>kórinn</w>
-  <w><i>Mattheusarpassíu</i></w>
+  <w><hi>Mattheusarpassíu</hi></w>
   <w>Bachs</w>
   <w>ásamt</w>
   <w>barnakór</w>
@@ -3917,8 +3929,8 @@
   <w>í</w>
   <w>að</w>
   <w>frumflytja</w>
-  <w><i>H-moll</i></w>
-  <w><i>messu</i></w>
+  <w><hi>H-moll</hi></w>
+  <w><hi>messu</hi></w>
   <w>Bachs</w>
   <w>á</w>
   <w>Íslandi</w>
@@ -3943,9 +3955,9 @@
   <w>Einnig</w>
   <w>var</w>
   <w>fluttur</w>
-  <w><i>Konsert</i></w>
-  <w><i>í</i></w>
-  <w><i>d-moll</i></w>
+  <w><hi>Konsert</hi></w>
+  <w><hi>í</hi></w>
+  <w><hi>d-moll</hi></w>
   <w>eftir</w>
   <w>Bach</w>
   <c>,</c>
@@ -3978,7 +3990,7 @@
   <w>sína</w>
   <w>og</w>
   <w>fluttu</w>
-  <w><i>Messías</i></w>
+  <w><hi>Messías</hi></w>
   <w>eftir</w>
   <w>Händel</w>
   <w>í</w>
@@ -4063,7 +4075,7 @@
   <w>ásamt</w>
   <w>köflum</w>
   <w>úr</w>
-  <w><i>Messíasi</i></w>
+  <w><hi>Messíasi</hi></w>
   <w>eftir</w>
   <w>Händel</w>
   <c>.</c>
@@ -4257,7 +4269,7 @@
   <w>og</w>
   <w>kaflar</w>
   <w>úr</w>
-  <w><i>Jólaóratóríu</i></w>
+  <w><hi>Jólaóratóríu</hi></w>
   <w>Bachs</w>
   <c>,</c>
   <w>með</w>
@@ -4288,8 +4300,8 @@
   <w>Í</w>
   <w>apríl 1980</w>
   <w>var</w>
-  <w><i>Litla</i></w>
-  <w><i>helgimessan</i></w>
+  <w><hi>Litla</hi></w>
+  <w><hi>helgimessan</hi></w>
   <c>(</c>
   <w>Petite</w>
   <w>Messe</w>
@@ -4305,7 +4317,7 @@
   <w>síðar</w>
   <w>flutti</w>
   <w>kórinn</w>
-  <w><i>Jóhannesarpassíu</i></w>
+  <w><hi>Jóhannesarpassíu</hi></w>
   <w>Bachs</w>
   <w>í</w>
   <w>heild</w>
@@ -4579,7 +4591,7 @@
   <w>tónleikunum</w>
   <c>.</c>
 </s><s n="207">
-  <w><i>Jólaóratoría</i></w>
+  <w><hi>Jólaóratoría</hi></w>
   <w>Bachs</w>
   <w>var</w>
   <w>svo</w>
@@ -4828,10 +4840,10 @@
         <error xtype="semicolon4colon" eid="0"/>
       </errors>
   </revision>
-  <w><i>H-moll</i></w>
+  <w><hi>H-moll</hi></w>
   <revision id="60">
-    <original><w><i>messuna</i></w></original>
-    <corrected><w><i>messu</i></w></corrected>
+    <original><w><hi>messuna</hi></w></original>
+    <corrected><w><hi>messu</hi></w></corrected>
       <errors>
         <error xtype="def4ind" eid="0"/>
       </errors>
@@ -4844,7 +4856,7 @@
   <w>svonefndum</w>
   <revision id="61">
     <original><w>Bel</w><w>canto</w><w>stíl</w></original>
-    <corrected><w><i>Bel</i></w><w><i>canto</i></w><c>-stíl</c></corrected>
+    <corrected><w><hi>Bel</hi></w><w><hi>canto</hi></w><c>-stíl</c></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -5097,7 +5109,7 @@
   <w>um</w>
   <w>fyrsta</w>
   <w>flutning</w>
-  <w><i>Mattheusarpassíunnar</i></w>
+  <w><hi>Mattheusarpassíunnar</hi></w>
   <w>í</w>
   <w>heild</w>
   <w>á</w>
@@ -5252,15 +5264,15 @@
   <w>flutt</w>
   <w>voru</w>
   <w>verkin</w>
-  <w><i>Gloria</i></w>
+  <w><hi>Gloria</hi></w>
   <w>eftir</w>
   <w>Vivaldi</w>
   <c>,</c>
-  <w><i>Magnificat</i></w>
+  <w><hi>Magnificat</hi></w>
   <w>eftir</w>
   <w>Bach</w>
   <w>og</w>
-  <w><i>Gloria</i></w>
+  <w><hi>Gloria</hi></w>
   <w>eftir</w>
   <w>Poulenc</w>
   <c>.</c>
@@ -5731,7 +5743,7 @@
   <c>,</c>
   <w>heildarflutningur</w>
   <w>á</w>
-  <w><i>Mattheusarpassíu</i></w>
+  <w><hi>Mattheusarpassíu</hi></w>
   <w>Bachs</w>
   <c>,</c>
   <w>heldur</w>
@@ -5894,10 +5906,10 @@
   <w>júlí 1961</w>
   <w>undir</w>
   <w>nafninu</w>
-  <w><i>Llangollen</i></w>
-  <w><i>International</i></w>
-  <w><i>Musical</i></w>
-  <w><i>Eisteddfod</i></w>
+  <w><hi>Llangollen</hi></w>
+  <w><hi>International</hi></w>
+  <w><hi>Musical</hi></w>
+  <w><hi>Eisteddfod</hi></w>
   <c>.</c>
 </s><s n="252">
   <w>Atli</w>
@@ -6031,7 +6043,7 @@
   <w>Árið 1974</w>
   <w>flutti</w>
   <w>kórinn</w>
-  <w><i>Jóhannesarpassíu</i></w>
+  <w><hi>Jóhannesarpassíu</hi></w>
   <w>Bachs</w>
   <w>í</w>
   <w>Háskólabíói</w>
@@ -6063,7 +6075,7 @@
   <w>eftir</w>
   <w>Poulenc</w>
   <c>,</c>
-  <w><i>Vatnamúsík</i></w>
+  <w><hi>Vatnamúsík</hi></w>
   <w>eftir</w>
   <w>Händel</w>
   <c>,</c>
@@ -6220,7 +6232,7 @@
   <w>svo</w>
   <w>í</w>
   <w>flutning</w>
-  <w><i>Jóhannesarpassíu</i></w>
+  <w><hi>Jóhannesarpassíu</hi></w>
   <w>Bachs</w>
   <w>með</w>
   <w>kammerhljómsveit</w>
@@ -6493,7 +6505,7 @@
   <w>flutti</w>
   <w>kórinn</w>
   <w>svo</w>
-  <w><i>Messías</i></w>
+  <w><hi>Messías</hi></w>
   <w>eftir</w>
   <w>Händel</w>
   <w>í</w>
@@ -6629,7 +6641,7 @@
   <w>meðal</w>
   <w>annars</w>
   <w>verkið</w>
-  <w><i>Requiem</i></w>
+  <w><hi>Requiem</hi></w>
   <w>eftir</w>
   <w>Pál</w>
   <w>P.</w>
@@ -6649,7 +6661,7 @@
   <w>tónleikunum</w>
   <w>var</w>
   <w>óratórían</w>
-  <w><i>Messías</i></w>
+  <w><hi>Messías</hi></w>
   <w>eftir</w>
   <w>Händel</w>
   <w>flutt</w>

@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>visir-2014_10_225-t11.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Hugmyndin</w>
@@ -113,7 +125,7 @@
   <w>nafninu</w>
   <revision id="3">
     <original><w>Pick</w><w>Up</w><c>,</c></original>
-    <corrected><w><i>Týndu</i></w><w><i>upp</i></w><c>!</c><c>(</c><w>e.</w><w><i>Pick</i></w><w><i>Up</i></w><c>)</c></corrected>
+    <corrected><w><hi>Týndu</hi></w><w><hi>upp</hi></w><c>!</c><c>(</c><w>e.</w><w><hi>Pick</hi></w><w><hi>Up</hi></w><c>)</c></corrected>
       <errors>
         <error xtype="missing-words" idx="1-1" eid="0"/>
         <error xtype="missing-ex" idx="1-2" eid="0"/>
@@ -156,7 +168,7 @@
   <w>frétt</w>
   <revision id="4">
     <original><w>Die</w><w>Weltkemur</w></original>
-    <corrected><w><i>Die</i></w><w><i>Welt</i></w><w>kemur</w></corrected>
+    <corrected><w><hi>Die</hi></w><w><hi>Welt</hi></w><w>kemur</w></corrected>
       <errors>
         <error xtype="nonit4it" idx="2-1" eid="0"/>
         <error xtype="missing-space" idx="2-2" eid="0"/>

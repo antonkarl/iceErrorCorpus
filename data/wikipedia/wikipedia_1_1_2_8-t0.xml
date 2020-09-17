@@ -1,18 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_8-t0.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
-  <w><i>Ástríkur</i></w>
-  <w><i>og</i></w>
-  <w><i>bændaglíman</i></w>
+  <w><hi>Ástríkur</hi></w>
+  <w><hi>og</hi></w>
+  <w><hi>bændaglíman</hi></w>
   <c>(</c>
   <w>franska</w>
   <c>:</c>
-  <w><i>Le</i></w>
-  <w><i>Combat</i></w>
-  <w><i>des</i></w>
-  <w><i>chefs</i></w>
+  <w><hi>Le</hi></w>
+  <w><hi>Combat</hi></w>
+  <w><hi>des</hi></w>
+  <w><hi>chefs</hi></w>
   <c>)</c>
   <w>er</w>
   <w>belgísk</w>
@@ -55,7 +67,7 @@
   <w>teiknimyndablaðinu</w>
   <revision id="3">
     <original><w>Pilote</w></original>
-    <corrected><w><i>Pilote</i></w></corrected>
+    <corrected><w><hi>Pilote</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -92,7 +104,7 @@
   <w>Rómversku</w>
   <w>foringjarnir</w>
   <revision id="4">
-    <original><w><i>Glóbus</i></w><w><i>Glákasíkus</i></w></original>
+    <original><w><hi>Glóbus</hi></w><w><hi>Glákasíkus</hi></w></original>
     <corrected><w>Glóbus</w><w>Glákasíkus</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -102,7 +114,7 @@
   <w>franska</w>
   <c>:</c>
   <revision id="5">
-    <original><w><i>Langélus</i></w></original>
+    <original><w><hi>Langélus</hi></w></original>
     <corrected><w>Langélus</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -111,7 +123,7 @@
   <c>)</c>
   <w>og</w>
   <revision id="6">
-    <original><w><i>Falskus</i></w><w><i>Fláríkus</i></w></original>
+    <original><w><hi>Falskus</hi></w><w><hi>Fláríkus</hi></w></original>
     <corrected><w>Falskus</w><w>Fláríkus</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -121,7 +133,7 @@
   <w>franska</w>
   <c>:</c>
   <revision id="7">
-    <original><w><i>Perclus</i></w></original>
+    <original><w><hi>Perclus</hi></w></original>
     <corrected><w>Perclus</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -131,7 +143,7 @@
   <w>í</w>
   <w>herbúðunum</w>
   <revision id="8">
-    <original><w><i>Tótórum</i></w></original>
+    <original><w><hi>Tótórum</hi></w></original>
     <corrected><w>Tótórum</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -157,7 +169,7 @@
   <w>hefð</w>
   <c>,</c>
   <revision id="9">
-    <original><w><i>bændaglímu</i></w></original>
+    <original><w><hi>bændaglímu</hi></w></original>
     <corrected><w>bændaglímu</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -195,7 +207,7 @@
   <w>notast</w>
   <w>við</w>
   <revision id="10">
-    <original><w><i>Ofrík</i></w><w><i>Hrokríkus</i></w></original>
+    <original><w><hi>Ofrík</hi></w><w><hi>Hrokríkus</hi></w></original>
     <corrected><w>Ofrík</w><w>Hrokríkus</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -205,7 +217,7 @@
   <w>franska</w>
   <c>:</c>
   <revision id="11">
-    <original><w><i>Aplusbégalix</i></w></original>
+    <original><w><hi>Aplusbégalix</hi></w></original>
     <corrected><w>Aplusbégalix</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -231,7 +243,7 @@
   <w>kappi</w>
   <w>við</w>
   <revision id="12">
-    <original><w><i>Aðalrík</i></w><w><i>allsgáða</i></w></original>
+    <original><w><hi>Aðalrík</hi></w><w><hi>allsgáða</hi></w></original>
     <corrected><w>Aðalrík</w><w>allsgáða</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -248,7 +260,7 @@
   <w>við</w>
   <w>seiðkarlinn</w>
   <revision id="13">
-    <original><w><i>Sjóðrík</i></w></original>
+    <original><w><hi>Sjóðrík</hi></w></original>
     <corrected><w>Sjóðrík</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -270,7 +282,7 @@
   <c>,</c>
   <w>en</w>
   <revision id="14">
-    <original><w><i>Steinríkur</i></w><w><i>alvaski</i></w></original>
+    <original><w><hi>Steinríkur</hi></w><w><hi>alvaski</hi></w></original>
     <corrected><w>Steinríkur</w><w>alvaski</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -334,7 +346,7 @@
   <w>geðlækningar</w>
   <c>,</c>
   <revision id="15">
-    <original><w><i>Sálsýk</i></w><w><i>Geðveilan</i></w></original>
+    <original><w><hi>Sálsýk</hi></w><w><hi>Geðveilan</hi></w></original>
     <corrected><w>Sálsýk</w><w>Geðveilan</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -344,7 +356,7 @@
   <w>franska</w>
   <c>:</c>
   <revision id="16">
-    <original><w><i>Amnésix</i></w></original>
+    <original><w><hi>Amnésix</hi></w></original>
     <corrected><w>Amnésix</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -472,7 +484,7 @@
 <s n="19">
   <revision id="17">
     <original><w>Ástríkur</w><w>skylmingakappi</w></original>
-    <corrected><w><i>Ástríkur</i></w><w><i>skylmingakappi</i></w></corrected>
+    <corrected><w><hi>Ástríkur</hi></w><w><hi>skylmingakappi</hi></w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
       </errors>

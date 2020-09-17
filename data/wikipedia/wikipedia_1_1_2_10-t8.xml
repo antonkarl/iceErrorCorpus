@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_10-t8.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Hvíldarþjálfun</w>
@@ -274,7 +286,7 @@
   <w>e.</w>
   <revision id="2">
     <original><w>medical</w><w>contraindications</w></original>
-    <corrected><w><i>medical</i></w><w><i>contraindications</i></w></corrected>
+    <corrected><w><hi>medical</hi></w><w><hi>contraindications</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>

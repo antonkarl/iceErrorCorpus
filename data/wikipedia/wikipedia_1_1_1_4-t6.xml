@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_4-t6.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Hann</w>
@@ -326,7 +338,7 @@
   <c>.</c>
 </s><s n="11">
   <revision id="9">
-    <original><w><i>Svaraðu</i></w><w><i>fyrir</i></w><w><i>þig</i></w><c><i>!</i></c></original>
+    <original><w><hi>Svaraðu</hi></w><w><hi>fyrir</hi></w><w><hi>þig</hi></w><c><hi>!</hi></c></original>
     <corrected><w>Svaraðu</w><w>fyrir</w><w>þig</w><c>!</c></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -394,8 +406,8 @@
         <error xtype="dash4comma" eid="0"/>
       </errors>
   </revision>
-  <w><i>Tala</i></w>
-  <w><i>Eulers</i></w>
+  <w><hi>Tala</hi></w>
+  <w><hi>Eulers</hi></w>
   <c>.</c>
 </s><s n="15">
   <w>Í</w>
@@ -446,7 +458,7 @@
   <w>orðunum</w>
   <c>:</c>
   <revision id="14">
-    <original><w><i>Herra</i></w><w><i>minn</i></w></original>
+    <original><w><hi>Herra</hi></w><w><hi>minn</hi></w></original>
     <corrected><c>„</c><w>Herra</w><w>minn</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -462,7 +474,7 @@
   <c>)</c>
   <c>/</c>
   <revision id="15">
-    <original><w><i>n</i></w></original>
+    <original><w><hi>n</hi></w></original>
     <corrected><w>n</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -470,7 +482,7 @@
   </revision>
   <c>=</c>
   <revision id="16">
-    <original><w><i>x</i></w></original>
+    <original><w><hi>x</hi></w></original>
     <corrected><w>x</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -478,7 +490,7 @@
   </revision>
   <c>;</c>
   <revision id="17">
-    <original><w><i>þar</i></w><w><i>af</i></w><w><i>leiðir</i></w><w><i>að</i></w><w><i>Guð</i></w><w><i>er</i></w><w><i>til</i></w></original>
+    <original><w><hi>þar</hi></w><w><hi>af</hi></w><w><hi>leiðir</hi></w><w><hi>að</hi></w><w><hi>Guð</hi></w><w><hi>er</hi></w><w><hi>til</hi></w></original>
     <corrected><w>þar</w><w>af</w><w>leiðir</w><w>að</w><w>Guð</w><w>er</w><w>til</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -623,7 +635,7 @@
         <error xtype="missing-word" eid="0"/>
       </errors>
   </revision>
-  <w><i>viscocity</i></w>
+  <w><hi>viscocity</hi></w>
   <c>)</c>
   <c>.</c>
 </s><s n="24">

@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Vilhjálmur</w>
+  <w>Bretaprins</w>
+  <w>og</w>
+  <w>eiginkona</w>
+  <w>hans</w>
+  <revision id="1">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-commas" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>Kate</w>
+  <w>Middleton</w>
+  <revision id="2">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="dep" depId="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>létu</w>
+  <w>fara</w>
+  <w>vel</w>
+  <w>um</w>
+  <w>sig</w>
+  <w>í</w>
+  <w>Kanada</w>
+  <w>á</w>
+  <w>dögunum</w>
+  <w>en</w>
+  <w>þar</w>
+  <w>heimsóttu</w>
+  <w>þau</w>
+  <w>gesti</w>
+  <w>og</w>
+  <w>gangandi</w>
+  <w>í</w>
+  <w>bænum</w>
+  <w>Yellowknife</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Þau</w>
+  <revision id="3">
+    <original><w>hitti</w></original>
+    <corrected><w>hittu</w></corrected>
+      <errors>
+        <error xtype="agreement-pred" idx="3-1" eid="0" />
+        <error xtype="singular4plural" idx="3-1" eid="0" />
+      </errors>
+  </revision>
+  <w>hokkí-liðið</w>
+  <w>í</w>
+  <w>bænum</w>
+  <w>og</w>
+  <w>tóku</w>
+  <w>örstuttan</w>
+  <w>leik</w>
+  <w>með</w>
+  <revision id="4">
+    <original><w>þeim</w></original>
+    <corrected><w>því</w></corrected>
+      <errors>
+        <error xtype="agreement-pro" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Samkvæmt</w>
+  <w>fréttum</w>
+  <w>tók</w>
+  <revision id="5">
+    <original><w>hann</w></original>
+    <corrected><w>prinsinn</w></corrected>
+      <errors>
+        <error xtype="pro4noun" eid="0" />
+      </errors>
+  </revision>
+  <w>þrjú</w>
+  <w>skot</w>
+  <w>en</w>
+  <w>ekkert</w>
+  <w>þeirra</w>
+  <w>fór</w>
+  <w>í</w>
+  <w>markið</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Haft</w>
+  <w>er</w>
+  <w>eftir</w>
+  <w>prinsinum</w>
+  <w>að</w>
+  <w>hann</w>
+  <w>hafi</w>
+  <w>þá</w>
+  <w>sagt</w>
+  <w>við</w>
+  <w>markmanninn</w>
+  <c>:</c>
+  <c>„</c>
+  <w>Þú</w>
+  <w>verður</w>
+  <w>að</w>
+  <w>átta</w>
+  <w>þig</w>
+  <w>á</w>
+  <w>því</w>
+  <w>að</w>
+  <w>þú</w>
+  <w>verður</w>
+  <w>að</w>
+  <w>láta</w>
+  <w>einn</w>
+  <w>fara</w>
+  <w>inn</w>
+  <c>.</c>
+  <revision id="5b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
+</s>
+<s n="5">
+  <revision id="6">
+    <original><w>En</w><w>markmaðurinn</w></original>
+    <corrected><w>Markmaðurinn</w></corrected>
+      <errors>
+        <error xtype="extra-conjunction" eid="0" />
+      </errors>
+  </revision>
+  <w>gaf</w>
+  <w>sig</w>
+  <revision id="7">
+    <original></original>
+    <corrected><w>þó</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>ekki</w>
+  <w>þrátt</w>
+  <w>fyrir</w>
+  <w>að</w>
+  <w>hertoginn</w>
+  <w>af</w>
+  <w>Cambridge</w>
+  <w>væri</w>
+  <w>að</w>
+  <w>skjóta</w>
+  <w>á</w>
+  <w>hann</w>
+  <c>,</c>
+  <revision id="8">
+    <original><w>heldur</w></original>
+    <corrected><w>og</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>varði</w>
+  <w>öll</w>
+  <w>skotin</w>
+  <w>frá</w>
+  <w>prinsinum</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <c>„</c>
+  <w>Hann</w>
+  <w>leit</w>
+  <w>út</w>
+  <w>fyrir</w>
+  <w>að</w>
+  <w>vita</w>
+  <w>hvað</w>
+  <w>hann</w>
+  <w>væri</w>
+  <w>að</w>
+  <w>gera</w>
+  <w>og</w>
+  <w>ég</w>
+  <w>held</w>
+  <w>að</w>
+  <w>hann</w>
+  <w>gæti</w>
+  <w>alveg</w>
+  <w>orðið</w>
+  <w>góður</w>
+  <w>ef</w>
+  <w>hann</w>
+  <w>myndi</w>
+  <w>æfa</w>
+  <w>sig</w>
+  <w>meira</w>
+  <c>,</c>
+  <revision id="8b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
+  <w>sagði</w>
+  <w>markmaðurinn</w>
+  <w>við</w>
+  <w>fjölmiðla</w>
+  <w>sem</w>
+  <w>fylgdust</w>
+  <w>spenntir</w>
+  <w>með</w>
+  <w>kappleiknum</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>Á</w>
+  <w>meðan</w>
+  <w>prinsinn</w>
+  <w>skaut</w>
+  <w>af</w>
+  <w>krafti</w>
+  <w>og</w>
+  <w>svitnaði</w>
+  <w>í</w>
+  <w>hitanum</w>
+  <c>,</c>
+  <w>stóð</w>
+  <w>Kate</w>
+  <w>Middleton</w>
+  <w>til</w>
+  <w>hliðar</w>
+  <w>og</w>
+  <w>fylgdist</w>
+  <w>með</w>
+  <c>.</c>
+</s>
+<s n="8">
+  <c>„</c>
+  <w>Ég</w>
+  <w>myndi</w>
+  <w>taka</w>
+  <w>skot</w>
+  <w>ef</w>
+  <w>ég</w>
+  <w>væri</w>
+  <w>ekki</w>
+  <w>í</w>
+  <w>háum</w>
+  <w>hælum</w>
+  <revision id="8c">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>prinsessan</w>
+  <w>að</w>
+  <w>hafa</w>
+  <w>sagt</w>
+  <w>við</w>
+  <w>unglingana</w>
+  <w>þegar</w>
+  <w>þeir</w>
+  <w>buðu</w>
+  <w>henni</w>
+  <w>að</w>
+  <w>vera</w>
+  <w>með</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

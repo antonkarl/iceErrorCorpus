@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_300-t18.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Níl</w>
@@ -8,7 +20,7 @@
   <w>arabíska</w>
   <w>النيل</w>
   <c>,</c>
-  <w><i>an-nīl</i></w>
+  <w><hi>an-nīl</hi></w>
   <c>)</c>
   <w>er</w>
   <w>annað</w>
@@ -23,7 +35,7 @@
   <w>kemur</w>
   <w>úr</w>
   <w>grísku</w>
-  <w><i>Νειλος</i></w>
+  <w><hi>Νειλος</hi></w>
   <c>(</c>
   <w>Neílos</w>
   <c>)</c>
@@ -32,7 +44,7 @@
   <w>kölluðu</w>
   <w>ána</w>
   <w>einnig</w>
-  <w><i>Αιγυπτος</i></w>
+  <w><hi>Αιγυπτος</hi></w>
   <c>(</c>
   <w>Ægyptos</w>
   <c>)</c>
@@ -47,7 +59,7 @@
   <w>Forn-Egyptar</w>
   <w>kölluðu</w>
   <w>fljótið</w>
-  <w><i>iteru</i></w>
+  <w><hi>iteru</hi></w>
   <c>.</c>
 </s>
 <s n="4">

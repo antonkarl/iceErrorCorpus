@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_10-t13.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Hnykkhöfðar</w>
   <c>(</c>
   <w>fræðiheiti</w>
   <c>:</c>
-  <w><i>Kinorhyncha</i></w>
+  <w><hi>Kinorhyncha</hi></w>
   <c>)</c>
   <w>eru</w>
   <w>fylking</w>
@@ -21,8 +33,8 @@
   <w>undir</w>
   <w>enska</w>
   <w>heitinu</w>
-  <w><i>mud</i></w>
-  <w><i>dragons</i></w>
+  <w><hi>mud</hi></w>
+  <w><hi>dragons</hi></w>
   <w>sem</w>
   <w>þýðir</w>
   <c>„</c>
@@ -164,9 +176,9 @@
   <w>flatormum</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>free-living</i></w>
-  <w><i>primitive</i></w>
-  <w><i>flatworms</i></w>
+  <w><hi>free-living</hi></w>
+  <w><hi>primitive</hi></w>
+  <w><hi>flatworms</hi></w>
   <c>)</c>
   <c>.</c>
 </s>
@@ -341,7 +353,7 @@
 <s n="18">
   <w>Maðkamæður</w>
   <c>(</c>
-  <w><i>priapulida</i></w>
+  <w><hi>priapulida</hi></w>
   <c>)</c>
   <w>eru</w>
   <w>systurfylking</w>

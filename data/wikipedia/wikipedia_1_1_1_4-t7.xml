@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_4-t7.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Úr</w>
@@ -8,7 +20,7 @@
   <w>varð</w>
   <revision id="1">
     <original><w>The</w><w>Hitchhiker's</w><w>Guide</w><w>to</w><w>the</w><w>Galaxy</w></original>
-    <corrected><w><i>The</i></w><w><i>Hitchhiker's</i></w><w><i>Guide</i></w><w><i>to</i></w><w><i>the</i></w><w><i>Galaxy</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Hitchhiker's</hi></w><w><hi>Guide</hi></w><w><hi>to</hi></w><w><hi>the</hi></w><w><hi>Galaxy</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -143,7 +155,7 @@
   <w>bókinni</w>
   <revision id="9">
     <original><w>The</w><w>Restaurant</w><w>at</w><w>the</w><w>End</w><w>of</w><w>the</w><w>Universe</w></original>
-    <corrected><w><i>The</i></w><w><i>Restaurant</i></w><w><i>at</i></w><w><i>the</i></w><w><i>End</i></w><w><i>of</i></w><w><i>the</i></w><w><i>Universe</i></w><c>,</c></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Restaurant</hi></w><w><hi>at</hi></w><w><hi>the</hi></w><w><hi>End</hi></w><w><hi>of</hi></w><w><hi>the</hi></w><w><hi>Universe</hi></w><c>,</c></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
         <error xtype="missing-comma" eid="0"/>
@@ -252,7 +264,7 @@
   <c>)</c>
   <revision id="13">
     <original><w>stúdentaleikfélagaið</w><w>Cambridge</w><w>University</w><w>Footlights</w><w>Dramatic</w><w>Club</w></original>
-    <corrected><w>stúdentaleikfélagið</w><w><i>Cambridge</i></w><w><i>University</i></w><w><i>Footlights</i></w><w><i>Dramatic</i></w><w><i>Club</i></w></corrected>
+    <corrected><w>stúdentaleikfélagið</w><w><hi>Cambridge</hi></w><w><hi>University</hi></w><w><hi>Footlights</hi></w><w><hi>Dramatic</hi></w><w><hi>Club</hi></w></corrected>
       <errors>
         <error xtype="extra-letter" idx="4-1" eid="0"/>
         <error xtype="nonword" idx="4-1" eid="0"/>
@@ -272,12 +284,12 @@
   <w>þessarar</w>
   <w>bókar</w>
   <w>við</w>
-  <w><i>The</i></w>
-  <w><i>Hitchhiker's</i></w>
-  <w><i>Guide</i></w>
-  <w><i>to</i></w>
-  <w><i>the</i></w>
-  <w><i>Galaxy</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Hitchhiker's</hi></w>
+  <w><hi>Guide</hi></w>
+  <w><hi>to</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>Galaxy</hi></w>
   <w>eru</w>
   <w>til</w>
   <w>sögur</w>
@@ -299,11 +311,11 @@
   <w>vegu</w>
   <c>.</c>
 </s><s n="10">
-  <w><i>Dirk</i></w>
-  <w><i>Gently's</i></w>
-  <w><i>Holistic</i></w>
-  <w><i>Detective</i></w>
-  <w><i>Agency</i></w>
+  <w><hi>Dirk</hi></w>
+  <w><hi>Gently's</hi></w>
+  <w><hi>Holistic</hi></w>
+  <w><hi>Detective</hi></w>
+  <w><hi>Agency</hi></w>
   <c>.</c>
 </s><s n="11">
   <w>Douglas</w>
@@ -324,7 +336,7 @@
   <c>:</c>
   <revision id="15">
     <original><w>Life</w></original>
-    <corrected><w><i>Life</i></w></corrected>
+    <corrected><w><hi>Life</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -332,7 +344,7 @@
   <c>,</c>
   <revision id="16">
     <original><w>The</w><w>Universe</w><w>and</w><w>Everything</w></original>
-    <corrected><w><i>The</i></w><w><i>Universe</i></w><w><i>and</i></w><w><i>Everything</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Universe</hi></w><w><hi>and</hi></w><w><hi>Everything</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -340,7 +352,7 @@
   <c>,</c>
   <revision id="17">
     <original><w>So</w><w>Long</w><w>and</w><w>Thanks</w><w>For</w><w>All</w><w>the</w><w>Fish</w></original>
-    <corrected><w><i>So</i></w><w><i>Long</i></w><w><i>and</i></w><w><i>Thanks</i></w><w><i>For</i></w><w><i>All</i></w><w><i>the</i></w><w><i>Fish</i></w></corrected>
+    <corrected><w><hi>So</hi></w><w><hi>Long</hi></w><w><hi>and</hi></w><w><hi>Thanks</hi></w><w><hi>For</hi></w><w><hi>All</hi></w><w><hi>the</hi></w><w><hi>Fish</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -348,7 +360,7 @@
   <w>og</w>
   <revision id="18">
     <original><w>Mostly</w><w>Harmless</w></original>
-    <corrected><w><i>Mostly</i></w><w><i>Harmless</i></w></corrected>
+    <corrected><w><hi>Mostly</hi></w><w><hi>Harmless</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -386,7 +398,7 @@
   <w>stig</w>
   <revision id="20">
     <original><w>The</w><w>Hitchhiker's</w><w>Guide</w><w>To</w><w>The</w><w>Galaxy</w></original>
-    <corrected><w><i>The</i></w><w><i>Hitchhiker's</i></w><w><i>Guide</i></w><w><i>To</i></w><w><i>The</i></w><w><i>Galaxy</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Hitchhiker's</hi></w><w><hi>Guide</hi></w><w><hi>To</hi></w><w><hi>The</hi></w><w><hi>Galaxy</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -428,12 +440,12 @@
   <w>séð</w>
   <c>.</c>
 </s><s n="14">
-  <w><i>The</i></w>
-  <w><i>Hitchhiker's</i></w>
-  <w><i>Guide</i></w>
-  <w><i>To</i></w>
-  <w><i>The</i></w>
-  <w><i>Future</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Hitchhiker's</hi></w>
+  <w><hi>Guide</hi></w>
+  <w><hi>To</hi></w>
+  <w><hi>The</hi></w>
+  <w><hi>Future</hi></w>
   <w>þar</w>
   <w>sem</w>
   <w>hann</w>
@@ -529,7 +541,7 @@
   <w>samið</w>
   <revision id="24">
     <original><w>Hitchhikers</w><w>Guide</w><w>to</w><w>the</w><w>Galaxy</w></original>
-    <corrected><w>bókina</w><w><i>Hitchhikers</i></w><w><i>Guide</i></w><w><i>to</i></w><w><i>the</i></w><w><i>Galaxy</i></w></corrected>
+    <corrected><w>bókina</w><w><hi>Hitchhikers</hi></w><w><hi>Guide</hi></w><w><hi>to</hi></w><w><hi>the</hi></w><w><hi>Galaxy</hi></w></corrected>
       <errors>
         <error xtype="missing-word" eid="0"/>
         <error xtype="nonit4it" eid="0"/>
@@ -618,7 +630,7 @@
   <w>tölvuleikinn</w>
   <revision id="28">
     <original><w>Starship</w><w>Titanic</w></original>
-    <corrected><w><i>Starship</i></w><w><i>Titanic</i></w></corrected>
+    <corrected><w><hi>Starship</hi></w><w><hi>Titanic</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -633,12 +645,12 @@
   <c>,</c>
   <w>eins</w>
   <w>og</w>
-  <w><i>The</i></w>
-  <w><i>Hitchhiker's</i></w>
-  <w><i>Guide</i></w>
-  <w><i>to</i></w>
-  <w><i>the</i></w>
-  <w><i>Galaxy</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Hitchhiker's</hi></w>
+  <w><hi>Guide</hi></w>
+  <w><hi>to</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>Galaxy</hi></w>
   <c>,</c>
   <w>yfirfærðir</w>
   <w>á</w>
@@ -718,13 +730,13 @@
         <error xtype="missing-commas" idx="40-1" eid="0"/>
       </errors>
   </revision>
-  <w><i>The</i></w>
-  <w><i>Long</i></w>
-  <w><i>Dark</i></w>
-  <w><i>Teatime</i></w>
-  <w><i>Of</i></w>
-  <w><i>the</i></w>
-  <w><i>Soul</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Long</hi></w>
+  <w><hi>Dark</hi></w>
+  <w><hi>Teatime</hi></w>
+  <w><hi>Of</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>Soul</hi></w>
   <revision id="32">
     <original/>
     <corrected><c>,</c></corrected>
@@ -870,7 +882,7 @@
   <w>unnin</w>
   <revision id="38">
     <original><w>útvarpsþáttarröðin</w><w>Last</w><w>Chance</w><w>To</w><w>See</w></original>
-    <corrected><w>útvarpsþáttaröðin</w><w><i>Last</i></w><w><i>Chance</i></w><w><i>To</i></w><w><i>See</i></w></corrected>
+    <corrected><w>útvarpsþáttaröðin</w><w><hi>Last</hi></w><w><hi>Chance</hi></w><w><hi>To</hi></w><w><hi>See</hi></w></corrected>
       <errors>
         <error xtype="extra-letter" idx="38-1" eid="0"/>
         <error xtype="nonword" idx="38-1" eid="0"/>
@@ -890,12 +902,12 @@
   <w>rullu</w>
   <w>og</w>
   <w>í</w>
-  <w><i>The</i></w>
-  <w><i>Hitchhiker's</i></w>
-  <w><i>Guide</i></w>
-  <w><i>to</i></w>
-  <w><i>the</i></w>
-  <w><i>Galaxy</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Hitchhiker's</hi></w>
+  <w><hi>Guide</hi></w>
+  <w><hi>to</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>Galaxy</hi></w>
   <c>,</c>
   <w>þulinn</w>
   <c>.</c>
@@ -961,12 +973,12 @@
   <w>seinna</w>
   <w>kom</w>
   <w>bókin</w>
-  <w><i>The</i></w>
-  <w><i>Hitchhiker's</i></w>
-  <w><i>Guide</i></w>
-  <w><i>to</i></w>
-  <w><i>the</i></w>
-  <w><i>Galaxy</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Hitchhiker's</hi></w>
+  <w><hi>Guide</hi></w>
+  <w><hi>to</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>Galaxy</hi></w>
   <w>út</w>
   <c>.</c>
 </s><s n="32">

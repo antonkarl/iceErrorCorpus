@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_3-t11.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Gó-gó</w>
   <w>tónlist</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>Go-go</i></w>
+  <w><hi>Go-go</hi></w>
   <c>)</c>
   <w>er</w>
   <w>tónlistarstefna</w>
@@ -67,7 +79,7 @@
   <w>viðurnefnið</w>
   <revision id="5">
     <original><w>Guðfaðir</w><w>gó-gó</w><w>tónlistar</w></original>
-    <corrected><w><i>guðfaðir</i></w><w><i>gó-gó</i></w><w><i>tónlistarinnar</i></w></corrected>
+    <corrected><w><hi>guðfaðir</hi></w><w><hi>gó-gó</hi></w><w><hi>tónlistarinnar</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -277,7 +289,7 @@
   <c>,</c>
   <revision id="22">
     <original><w>The</w><w>Soul</w><w>Searchers</w></original>
-    <corrected><w><i>The</i></w><w><i>Soul</i></w><w><i>Searchers</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Soul</hi></w><w><hi>Searchers</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -483,7 +495,7 @@
 <s n="15">
   <revision id="37">
     <original><w>George</w><w>Clinton</w><w>og</w><w>Parliament-Funkadelic</w></original>
-    <corrected><w><i>George</i></w><w><i>Clinton</i></w><w><i>og</i></w><w><i>Parliament-Funkadelic</i></w></corrected>
+    <corrected><w><hi>George</hi></w><w><hi>Clinton</hi></w><w><hi>og</hi></w><w><hi>Parliament-Funkadelic</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -594,10 +606,10 @@
         <error xtype="wording" idx="44-1" eid="0" />
       </errors>
   </revision>
-  <w><i>Slave</i></w>
-  <w><i>to</i></w>
-  <w><i>the</i></w>
-  <w><i>Rhythm</i></w>
+  <w><hi>Slave</hi></w>
+  <w><hi>to</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>Rhythm</hi></w>
   <revision id="46">
     <original><c>,</c><w>hafði</w></original>
     <corrected><w>má</w><w>greina</w></corrected>
@@ -615,10 +627,10 @@
       </errors>
   </revision>
   <w>lagið</w>
-  <w><i>Who</i></w>
-  <w><i>comes</i></w>
-  <w><i>to</i></w>
-  <w><i>Boogie</i></w>
+  <w><hi>Who</hi></w>
+  <w><hi>comes</hi></w>
+  <w><hi>to</hi></w>
+  <w><hi>Boogie</hi></w>
   <revision id="48">
     <original></original>
     <corrected><w>með</w><w>Little</w><w>Benny</w></corrected>
@@ -724,8 +736,8 @@
       </errors>
   </revision>
   <w>lagið</w>
-  <w><i>Da</i></w>
-  <w><i>Butt</i></w>
+  <w><hi>Da</hi></w>
+  <w><hi>Butt</hi></w>
   <c>.</c>
 </s>
 <s n="21">
@@ -808,7 +820,7 @@
   <w>kallaðir</w>
   <revision id="64">
     <original><w>voru´nýja</w><w>kynslóðin</w><c>´</c></original>
-    <corrected><w>voru</w><w><i>nýja</i></w><w><i>kynslóðin</i></w></corrected>
+    <corrected><w>voru</w><w><hi>nýja</hi></w><w><hi>kynslóðin</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="64-1" eid="0" />
         <error xtype="nonit4it" idx="64-2" eid="0" />
@@ -989,7 +1001,7 @@
   <w>Útvarpstöðin</w>
   <revision id="78">
     <original><w>GoGoRadio</w></original>
-    <corrected><w><i>GoGoRadio</i></w></corrected>
+    <corrected><w><hi>GoGoRadio</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1080,7 +1092,7 @@
   <w>með</w>
   <revision id="85">
     <original><w>Jerry</w><w>Butler</w><w>and</w><w>the</w><w>Earls</w><w>of</w><w>Rhythm</w></original>
-    <corrected><w><i>Jerry</i></w><w><i>Butler</i></w><w><i>and</i></w><w><i>the</i></w><w><i>Earls</i></w><w><i>of</i></w><w><i>Rhythm</i></w></corrected>
+    <corrected><w><hi>Jerry</hi></w><w><hi>Butler</hi></w><w><hi>and</hi></w><w><hi>the</hi></w><w><hi>Earls</hi></w><w><hi>of</hi></w><w><hi>Rhythm</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1121,7 +1133,7 @@
   <w>og</w>
   <revision id="89">
     <original><w>Los</w><w>Latinos</w></original>
-    <corrected><w><i>Los</i></w><w><i>Latinos</i></w></corrected>
+    <corrected><w><hi>Los</hi></w><w><hi>Latinos</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1188,7 +1200,7 @@
   <w>nafnið</w>
   <revision id="95">
     <original><w>gó-gó</w></original>
-    <corrected><w><i>gó-gó</i></w></corrected>
+    <corrected><w><hi>gó-gó</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1243,14 +1255,14 @@
   <w>stórsmelli</w>
   <w>eins</w>
   <w>og</w>
-  <w><i>We</i></w>
-  <w><i>Need</i></w>
-  <w><i>Some</i></w>
-  <w><i>Money</i></w>
+  <w><hi>We</hi></w>
+  <w><hi>Need</hi></w>
+  <w><hi>Some</hi></w>
+  <w><hi>Money</hi></w>
   <w>og</w>
-  <w><i>The</i></w>
-  <w><i>Other</i></w>
-  <w><i>Side</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Other</hi></w>
+  <w><hi>Side</hi></w>
   <c>.</c>
 </s>
 <s n="36">
@@ -1329,7 +1341,7 @@
   <w>kalla</w>
   <revision id="104">
     <original><w>aðal</w><w>söngvarann</w><c>„</c><w>aðal</w><w>talarann</w><c>“</c><c>,</c></original>
-    <corrected><w>aðalsöngvarann</w><w><i>aðaltalarann</i></w></corrected>
+    <corrected><w>aðalsöngvarann</w><w><hi>aðaltalarann</hi></w></corrected>
       <errors>
         <error xtype="split-compound" idx="104-1" eid="0" />
         <error xtype="extra-quots" idx="104-2" eid="0" />
@@ -1411,7 +1423,7 @@
   <w>skapaði</w>
   <revision id="111">
     <original><w>gó-gó</w></original>
-    <corrected><w><i>gó-gó</i></w></corrected>
+    <corrected><w><hi>gó-gó</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1873,7 +1885,7 @@
 <s n="54">
   <revision id="137">
     <original><w>Trouble</w><w>Funk</w></original>
-    <corrected><w>Hljómsveitin</w><w><i>Trouble</i></w><w><i>Funk</i></w></corrected>
+    <corrected><w>Hljómsveitin</w><w><hi>Trouble</hi></w><w><hi>Funk</hi></w></corrected>
       <errors>
         <error xtype="missing-word" idx="137-1" eid="0" />
         <error xtype="nonit4it" idx="137-2" eid="0" />
@@ -1933,13 +1945,13 @@
   <w>fyrstu</w>
   <w>plötu</w>
   <c>,</c>
-  <w><i>Straight</i></w>
-  <w><i>Up</i></w>
-  <w><i>Funk</i></w>
-  <w><i>Go-Go</i></w>
+  <w><hi>Straight</hi></w>
+  <w><hi>Up</hi></w>
+  <w><hi>Funk</hi></w>
+  <w><hi>Go-Go</hi></w>
   <revision id="142">
-    <original><w><i>Stile</i></w></original>
-    <corrected><w><i>Style</i></w></corrected>
+    <original><w><hi>Stile</hi></w></original>
+    <corrected><w><hi>Style</hi></w></corrected>
       <errors>
         <error xtype="i4y" idx="142-1" eid="0" />
         <error xtype="foreign-error" idx="142-1" eid="0" />
@@ -1966,7 +1978,7 @@
   <w>fyrir</w>
   <revision id="144">
     <original><w>þá</w><c>,</c></original>
-    <corrected><w><i>Trouble</i></w><w><i>Funk</i></w></corrected>
+    <corrected><w><hi>Trouble</hi></w><w><hi>Funk</hi></w></corrected>
       <errors>
         <error xtype="pro4noun" idx="144-1" eid="0" />
         <error xtype="extra-comma" idx="144-2" eid="0" />
@@ -2036,7 +2048,7 @@
   <w>hljómsveitin</w>
   <revision id="149">
     <original><w>Rare</w><w>Essence</w></original>
-    <corrected><w><i>Rare</i></w><w><i>Essence</i></w></corrected>
+    <corrected><w><hi>Rare</hi></w><w><hi>Essence</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -2057,8 +2069,8 @@
   <w>fyrsta</w>
   <w>lag</w>
   <c>,</c>
-  <w><i>Body</i></w>
-  <w><i>Moves</i></w>
+  <w><hi>Body</hi></w>
+  <w><hi>Moves</hi></w>
   <c>,</c>
   <w>árið 1981</w>
   <c>.</c>
@@ -2103,7 +2115,7 @@
 <s n="62">
   <revision id="154">
     <original><w>Þeir</w><w>eru</w></original>
-    <corrected><w><i>Rare</i></w><w><i>Essence</i></w><w>er</w></corrected>
+    <corrected><w><hi>Rare</hi></w><w><hi>Essence</hi></w><w>er</w></corrected>
       <errors>
         <error xtype="pro4noun" idx="154-1" eid="0" />
         <error xtype="dep" depId="154-1" eid="0" />
@@ -2146,7 +2158,7 @@
 <s n="63">
   <revision id="158">
     <original><w>Experience</w><w>Unlimited</w></original>
-    <corrected><w><i>Experience</i></w><w><i>Unlimited</i></w></corrected>
+    <corrected><w><hi>Experience</hi></w><w><hi>Unlimited</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -2155,7 +2167,7 @@
   <w>eða</w>
   <revision id="159">
     <original><w>E.</w><w>U.</w></original>
-    <corrected><w><i>E.U.</i></w></corrected>
+    <corrected><w><hi>E.U.</hi></w></corrected>
       <errors>
         <error xtype="extra-space" idx="158-1" eid="0" />
         <error xtype="nonit4it" idx="158-1" eid="0" />
@@ -2203,8 +2215,8 @@
       </errors>
   </revision>
   <w>sitt</w>
-  <w><i>Da</i></w>
-  <w><i>Butt</i></w>
+  <w><hi>Da</hi></w>
+  <w><hi>Butt</hi></w>
   <w>sem</w>
   <revision id="164">
     <original><w>að</w></original>
@@ -2257,7 +2269,7 @@
   <w>eru</w>
   <revision id="168">
     <original><w>UCB</w><w>Uncalled</w><w>4</w><w>Experience</w></original>
-    <corrected><c>:</c><w><i>UCB</i></w><c>,</c><w><i>Uncalled</i></w><w><i>4</i></w><w><i>Experience</i></w></corrected>
+    <corrected><c>:</c><w><hi>UCB</hi></w><c>,</c><w><hi>Uncalled</hi></w><w><hi>4</hi></w><w><hi>Experience</hi></w></corrected>
       <errors>
         <error xtype="missing-colon" idx="168-1" eid="0" />
         <error xtype="nonit4it" idx="168-2" eid="0" />
@@ -2267,7 +2279,7 @@
   <c>,</c>
   <revision id="169">
     <original><w>Northwest</w><w>Youngins</w></original>
-    <corrected><w><i>Northwest</i></w><w><i>Youngins</i></w></corrected>
+    <corrected><w><hi>Northwest</hi></w><w><hi>Youngins</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -2275,7 +2287,7 @@
   <w>og</w>
   <revision id="170">
     <original><w>BYB</w></original>
-    <corrected><w><i>BYB</i></w></corrected>
+    <corrected><w><hi>BYB</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -2284,7 +2296,7 @@
   <w>eða</w>
   <revision id="171">
     <original><w>Backyard</w><w>Band</w></original>
-    <corrected><w><i>Backyard</i></w><w><i>Band</i></w></corrected>
+    <corrected><w><hi>Backyard</hi></w><w><hi>Band</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -2540,11 +2552,11 @@
   <w>vinsælasta</w>
   <w>lag</w>
   <c>,</c>
-  <w><i>Let</i></w>
-  <w><i>Me</i></w>
-  <w><i>Clear</i></w>
-  <w><i>My</i></w>
-  <w><i>Throat</i></w>
+  <w><hi>Let</hi></w>
+  <w><hi>Me</hi></w>
+  <w><hi>Clear</hi></w>
+  <w><hi>My</hi></w>
+  <w><hi>Throat</hi></w>
   <c>,</c>
   <w>árið 1996</w>
   <c>.</c>
@@ -2655,12 +2667,12 @@
   <w>fyrsta</w>
   <w>lag</w>
   <c>,</c>
-  <w><i>Why</i></w>
-  <w><i>Don‘t</i></w>
-  <w><i>We</i></w>
-  <w><i>Fall</i></w>
-  <w><i>In</i></w>
-  <w><i>Love</i></w>
+  <w><hi>Why</hi></w>
+  <w><hi>Don‘t</hi></w>
+  <w><hi>We</hi></w>
+  <w><hi>Fall</hi></w>
+  <w><hi>In</hi></w>
+  <w><hi>Love</hi></w>
   <c>,</c>
   <revision id="193">
     <original><w>árið 2022</w></original>

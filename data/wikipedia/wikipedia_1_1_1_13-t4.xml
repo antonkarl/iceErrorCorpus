@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_13-t4.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Hljómsveitin</w>
@@ -301,8 +313,8 @@
   <w>Jaðarþungarokk</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>alternative</i></w>
-  <w><i>metal</i></w>
+  <w><hi>alternative</hi></w>
+  <w><hi>metal</hi></w>
   <c>)</c>
   <w>er</w>
   <w>tegund</w>
@@ -339,7 +351,7 @@
   <w>plötuna</w>
   <revision id="10">
     <original><w>Undertow</w><w>1993</w></original>
-    <corrected><w><i>Undertow</i></w><w>árið 1993</w></corrected>
+    <corrected><w><hi>Undertow</hi></w><w>árið 1993</w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
         <error xtype="missing-word" eid="0"/>
@@ -1523,7 +1535,7 @@
   <w>plötuna</w>
   <revision id="47">
     <original><w>Toxicity</w></original>
-    <corrected><w><i>Toxicity</i></w></corrected>
+    <corrected><w><hi>Toxicity</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -1786,7 +1798,7 @@
   <w>Metallica</w>
   <revision id="56">
     <original><w>með</w><w>The</w><w>Day</w><w>That</w><w>Never</w><w>Comes</w></original>
-    <corrected><w><i>The</i></w><w><i>Day</i></w><w><i>That</i></w><w><i>Never</i></w><w><i>Comes</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Day</hi></w><w><hi>That</hi></w><w><hi>Never</hi></w><w><hi>Comes</hi></w></corrected>
       <errors>
         <error xtype="extra-word" eid="0"/>
         <error xtype="nonit4it" eid="0"/>

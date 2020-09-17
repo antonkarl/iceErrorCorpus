@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_275-t16.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Fjöldatala</w>
@@ -22,18 +34,18 @@
   <w>í</w>
   <w>tilteknu</w>
   <w>mengi</w>
-  <w><i>M</i></w>
+  <w><hi>M</hi></w>
   <c>,</c>
   <w>oft</w>
   <w>táknuð</w>
   <w>með</w>
   <c>|</c>
-  <w><i>M</i></w>
+  <w><hi>M</hi></w>
   <c>|</c>
   <w>eða</w>
-  <w><i>card</i></w>
+  <w><hi>card</hi></w>
   <c>(</c>
-  <w><i>M</i></w>
+  <w><hi>M</hi></w>
   <c>)</c>
   <c>.</c>
 </s>
@@ -54,9 +66,9 @@
   <w>er</w>
   <w>að</w>
   <w>talan</w>
-  <w><i>n</i></w>
+  <w><hi>n</hi></w>
   <w>er</w>
-  <w><i>fjöldatala</i></w>
+  <w><hi>fjöldatala</hi></w>
   <w>mengisins</w>
   <w>A</w>
   <w>þá</w>
@@ -68,7 +80,7 @@
   <w>sé</w>
   <w>gagntækt</w>
   <w>fall</w>
-  <w><i>f</i></w>
+  <w><hi>f</hi></w>
   <w>á</w>
   <w>hlutmengi</w>
   <w>náttúrulegra</w>
@@ -121,7 +133,7 @@
   <w>þá</w>
   <w>er</w>
   <w>mengið</w>
-  <w><i>A</i></w>
+  <w><hi>A</hi></w>
   <w>sagt</w>
   <w>óteljanlegt</w>
   <c>.</c>
@@ -140,7 +152,7 @@
   <w>ℵ</w>
   <c>(</c>
   <w>framburður</w>
-  <w><i>alef</i></w>
+  <w><hi>alef</hi></w>
   <c>)</c>
   <c>.</c>
 </s>
@@ -218,8 +230,8 @@
   <w>er</w>
   <w>stundum</w>
   <w>nefnd</w>
-  <w><i>fjöldatala</i></w>
-  <w><i>samfellunnar</i></w>
+  <w><hi>fjöldatala</hi></w>
+  <w><hi>samfellunnar</hi></w>
   <c>,</c>
   <w>táknuð</w>
   <w>með</w>
@@ -252,9 +264,9 @@
   <w><sub>m</sub></w>
   <c>,</c>
   <w>ef</w>
-  <w><i>n</i></w>
+  <w><hi>n</hi></w>
   <c>&lt;</c>
-  <w><i>m</i></w>
+  <w><hi>m</hi></w>
   <c>.</c>
 </s>
 <s n="11">
@@ -311,9 +323,9 @@
   <w>fjöldatölu</w>
   <w>veldismengisins</w>
   <w>í</w>
-  <w><i>mengi</i></w>
-  <w><i>allra</i></w>
-  <w><i>fjöldatalna</i></w>
+  <w><hi>mengi</hi></w>
+  <w><hi>allra</hi></w>
+  <w><hi>fjöldatalna</hi></w>
   <revision id="5">
     <original><c>,</c><w>væri</w><w>komið</w></original>
     <corrected><w>yrði</w><w>til</w></corrected>

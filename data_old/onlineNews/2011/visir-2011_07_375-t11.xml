@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <revision id="1">
+    <original><w>Heimsmeistaramótið</w></original>
+    <corrected><w>Heimsmeistaramót</w><w>kvenna</w></corrected>
+      <errors>
+        <error xtype="wording" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>fótbolta</w>
+  <revision id="2">
+    <original><w>kvenna</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>stendur</w>
+  <w>nú</w>
+  <w>yfir</w>
+  <w>í</w>
+  <w>Þýskalandi</w>
+  <c>.</c>
+</s>
+<s n="1">
+  <w>Riðlakeppninni</w>
+  <w>lýkur</w>
+  <revision id="3">
+    <original><w>í</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
+  <w>með</w>
+  <w>fjórum</w>
+  <w>leikjum</w>
+  <w>og</w>
+  <w>er</w>
+  <w>hart</w>
+  <w>barist</w>
+  <w>um</w>
+  <w>sæti</w>
+  <w>í</w>
+  <w>átta</w>
+  <w>liða</w>
+  <w>úrslitum</w>
+  <w>keppninnar</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Í</w>
+  <w>myndasyrpunni</w>
+  <w>eru</w>
+  <w>valdar</w>
+  <w>myndir</w>
+  <w>frá</w>
+  <w>ljósmyndurum</w>
+  <w>AFP</w>
+  <w>frá</w>
+  <w>keppninni</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

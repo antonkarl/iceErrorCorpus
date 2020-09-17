@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_13-t6.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Hópurinn</w>
@@ -10,7 +22,7 @@
   <w>fékk</w>
   <w>þá</w>
   <w>fræðiheitið</w>
-  <w><i>Entoprocta</i></w>
+  <w><hi>Entoprocta</hi></w>
   <c>(</c>
   <w>stilkormar</w>
   <c>)</c>
@@ -20,7 +32,7 @@
   <w>að</w>
   <w>kalla</w>
   <w>mosadýrin</w>
-  <w><i>Ectoprocta</i></w>
+  <w><hi>Ectoprocta</hi></w>
   <c>.</c>
 </s><s n="2">
   <w>Allar</w>
@@ -110,7 +122,7 @@
       </errors>
   </revision>
   <c>(</c>
-  <w><i>autozooid</i></w>
+  <w><hi>autozooid</hi></w>
   <c>)</c>
   <w>einstaklingar</w>
   <w>sem</w>
@@ -126,7 +138,7 @@
   <w>heild</w>
   <c>.</c>
 </s><s n="4">
-  <w><i>Cheilostomata</i>-ætt</w>
+  <w><hi>Cheilostomata</hi>-ætt</w>
   <w>mosadýra</w>
   <w>hefur</w>
   <w>mestan</w>
@@ -165,12 +177,12 @@
   <w>til</w>
   <w>frummunna</w>
   <c>(</c>
-  <w><i>Protostomia</i></w>
+  <w><hi>Protostomia</hi></w>
   <c>)</c>
   <w>eða</w>
   <w>nýmunna</w>
   <c>(</c>
-  <w><i>Deuterostomia</i></w>
+  <w><hi>Deuterostomia</hi></w>
   <c>)</c>
   <c>.</c>
 </s><s n="6">
@@ -239,11 +251,11 @@
   <c>(</c>
   <w>fræðiheiti</w>
   <c>:</c>
-  <w><i>Bryozoa</i></w>
+  <w><hi>Bryozoa</hi></w>
   <c>,</c>
-  <w><i>Ectoprocta</i></w>
+  <w><hi>Ectoprocta</hi></w>
   <w>eða</w>
-  <w><i>Polyzoa</i></w>
+  <w><hi>Polyzoa</hi></w>
   <c>)</c>
   <w>eru</w>
   <w>fylking</w>
@@ -309,7 +321,7 @@
   <w>ósjálfstæðar</w>
   <w>einingar</w>
   <c>(</c>
-  <w><i>zooid</i></w>
+  <w><hi>zooid</hi></w>
   <c>)</c>
   <w>í</w>
   <w>stærri</w>
@@ -355,7 +367,7 @@
   <w>þyrpingum</w>
   <c>.</c>
 </s><s n="15">
-  <w><i>Bryozoa</i></w>
+  <w><hi>Bryozoa</hi></w>
   <w>heitið</w>
   <w>hefur</w>
   <w>þó</w>
@@ -373,7 +385,7 @@
   <w>er</w>
   <w>notað</w>
   <w>jafnhliða</w>
-  <w><i>Ectoprocta</i></w>
+  <w><hi>Ectoprocta</hi></w>
   <c>.</c>
 </s><s n="16">
   <w>Í</w>
@@ -382,12 +394,12 @@
   <w>fræðiheiti</w>
   <w>þessarar</w>
   <w>fylkingar</w>
-  <w><i>Polyzoa</i></w>
+  <w><hi>Polyzoa</hi></w>
   <w>en</w>
   <w>það</w>
   <w>vék</w>
   <w>fyrir</w>
-  <w><i>Bryozoa</i></w>
+  <w><hi>Bryozoa</hi></w>
   <w>árið 1831</w>
   <c>.</c>
 </s><s n="17">
@@ -646,8 +658,8 @@
   <w>með</w>
   <w>undir</w>
   <revision id="17">
-    <original><w><i>Bryozoa</i></w><w>fylkingunni</w><w>þangað</w></original>
-    <corrected><w><i>Bryozoa</i>-fylkingunni</w><w>fram</w></corrected>
+    <original><w><hi>Bryozoa</hi></w><w>fylkingunni</w><w>þangað</w></original>
+    <corrected><w><hi>Bryozoa</hi>-fylkingunni</w><w>fram</w></corrected>
       <errors>
         <error xtype="missing-dash" eid="0"/>
         <error xtype="wording" eid="0"/>

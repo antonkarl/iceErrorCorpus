@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_425-t5.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Nútría</w>
@@ -21,7 +33,7 @@
   <w>eini</w>
   <w>meðlimur</w>
   <w>ættarinnar</w>
-  <w><i>Myocastoridae</i></w>
+  <w><hi>Myocastoridae</hi></w>
   <c>,</c>
   <w>og</w>
   <w>lifir</w>

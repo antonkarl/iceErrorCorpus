@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_9-t6.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <revision id="1">
@@ -57,8 +69,8 @@
   <w>í</w>
   <w>leiklist</w>
   <w>frá</w>
-  <w><i>Brooklyn</i></w>
-  <w><i>College</i></w>
+  <w><hi>Brooklyn</hi></w>
+  <w><hi>College</hi></w>
   <w>árið 1980</w>
   <w>og</w>
   <w>MFA</w>
@@ -79,7 +91,7 @@
   <w>í</w>
   <revision id="3">
     <original><w>Dexter</w></original>
-    <corrected><w><i>Dexter</i></w></corrected>
+    <corrected><w><hi>Dexter</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -87,7 +99,7 @@
   <w>og</w>
   <revision id="4">
     <original><w>Sons</w><w>of</w><w>Anarchy</w></original>
-    <corrected><w><i>Sons</i></w><w><i>of</i></w><w><i>Anarchy</i></w></corrected>
+    <corrected><w><hi>Sons</hi></w><w><hi>of</hi></w><w><hi>Anarchy</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -102,7 +114,7 @@
   <w>í</w>
   <revision id="5">
     <original><w>Miami</w><w>Vice</w></original>
-    <corrected><w><i>Miami</i></w><w><i>Vice</i></w></corrected>
+    <corrected><w><hi>Miami</hi></w><w><hi>Vice</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -136,21 +148,21 @@
   <w>á</w>
   <w>borð</w>
   <w>við</w>
-  <w><i>God</i></w>
-  <w><i>of</i></w>
-  <w><i>Carnage</i></w>
+  <w><hi>God</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>Carnage</hi></w>
   <c>,</c>
-  <w><i>Hamlet</i></w>
+  <w><hi>Hamlet</hi></w>
   <c>,</c>
-  <w><i>Buck</i></w>
+  <w><hi>Buck</hi></w>
   <c>,</c>
-  <w><i>Twelfth</i></w>
-  <w><i>Night</i></w>
+  <w><hi>Twelfth</hi></w>
+  <w><hi>Night</hi></w>
   <w>og</w>
-  <w><i>Much</i></w>
-  <w><i>Ado</i></w>
-  <w><i>About</i></w>
-  <w><i>Nothing</i></w>
+  <w><hi>Much</hi></w>
+  <w><hi>Ado</hi></w>
+  <w><hi>About</hi></w>
+  <w><hi>Nothing</hi></w>
   <c>.</c>
 </s><s n="8">
   <w>Fyrsta</w>
@@ -159,8 +171,8 @@
   <w>var</w>
   <w>árið 1986</w>
   <w>í</w>
-  <w><i>Running</i></w>
-  <w><i>Scared</i></w>
+  <w><hi>Running</hi></w>
+  <w><hi>Scared</hi></w>
   <c>.</c>
 </s><s n="9">
   <w>Hefur</w>
@@ -174,24 +186,24 @@
   <w>á</w>
   <w>borð</w>
   <w>við</w>
-  <w><i>Hotshot</i></w>
+  <w><hi>Hotshot</hi></w>
   <c>,</c>
   <w>ZVital</w>
   <w>SignsZ</w>
   <c>,</c>
-  <w><i>Fire</i></w>
-  <w><i>Within</i></w>
+  <w><hi>Fire</hi></w>
+  <w><hi>Within</hi></w>
   <c>,</c>
   <revision id="6">
     <original><w>The</w><w>Million</w><w>Dollar</w><w>Hotel</w></original>
-    <corrected><w><i>The</i></w><w><i>Million</i></w><w><i>Dollar</i></w><w><i>Hotel</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Million</hi></w><w><hi>Dollar</hi></w><w><hi>Hotel</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
-  <w><i>El</i></w>
-  <w><i>traspatio</i></w>
+  <w><hi>El</hi></w>
+  <w><hi>traspatio</hi></w>
   <c>.</c>
 </s><s n="10">
   <w>Jimmy</w>
@@ -215,7 +227,7 @@
   <w>í</w>
   <revision id="7">
     <original><w>L.A.</w><w>Law</w></original>
-    <corrected><w><i>L.A.</i></w><w><i>Law</i></w></corrected>
+    <corrected><w><hi>L.A.</hi></w><w><hi>Law</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -223,7 +235,7 @@
   <c>,</c>
   <revision id="8">
     <original><w>NYPD</w><w>Blue</w></original>
-    <corrected><w><i>NYPD</i></w><w><i>Blue</i></w></corrected>
+    <corrected><w><hi>NYPD</hi></w><w><hi>Blue</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -231,7 +243,7 @@
   <w>og</w>
   <revision id="9">
     <original><w>The</w><w>West</w><w>Wing</w></original>
-    <corrected><w><i>The</i></w><w><i>West</i></w><w><i>Wing</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>West</hi></w><w><hi>Wing</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -246,7 +258,7 @@
   <w>í</w>
   <revision id="10">
     <original><w>L.A.</w><w>Law</w></original>
-    <corrected><w><i>L.A.</i></w><w><i>Law</i></w></corrected>
+    <corrected><w><hi>L.A.</hi></w><w><hi>Law</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -276,7 +288,7 @@
   <w>lögregluþættinum</w>
   <revision id="11">
     <original><w>NYPD</w><w>Blue</w></original>
-    <corrected><w><i>NYPD</i></w><w><i>Blue</i></w></corrected>
+    <corrected><w><hi>NYPD</hi></w><w><hi>Blue</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -289,7 +301,7 @@
   <w>fyrir</w>
   <revision id="12">
     <original><w>David</w><w>Caruso</w></original>
-    <corrected><w><i>David</i></w><w><i>Caruso</i></w></corrected>
+    <corrected><w><hi>David</hi></w><w><hi>Caruso</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -308,7 +320,7 @@
   <w>í</w>
   <revision id="13">
     <original><w>The</w><w>West</w><w>Wing</w></original>
-    <corrected><w><i>The</i></w><w><i>West</i></w><w><i>Wing</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>West</hi></w><w><hi>Wing</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

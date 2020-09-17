@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_5-t5.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Algengt</w>
@@ -89,8 +101,8 @@
   <w>döbbplötuna</w>
   <w>sem</w>
   <w>hét</w>
-  <w><i>Blackboard</i></w>
-  <w><i>Jungle</i></w>
+  <w><hi>Blackboard</hi></w>
+  <w><hi>Jungle</hi></w>
   <c>.</c>
 </s><s n="4">
   <w>Einstaka</w>
@@ -619,7 +631,7 @@
   <c>(</c>
   <w>e.</w>
   <revision id="13">
-    <original><w><i>dub</i></w></original>
+    <original><w><hi>dub</hi></w></original>
     <corrected><w>dub</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -1031,7 +1043,7 @@
   <w>stundum</w>
   <w>er</w>
   <w>nefnd</w>
-  <w><i>digidöbb</i></w>
+  <w><hi>digidöbb</hi></w>
   <c>.</c>
 </s><s n="34">
   <revision id="24">

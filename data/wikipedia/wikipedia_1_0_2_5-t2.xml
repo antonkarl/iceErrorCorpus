@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_5-t2.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Árið 1649</w>
@@ -77,8 +89,8 @@
   <w>kaupmenn</w>
   <w>kölluðu</w>
   <w>eyjuna</w>
-  <w><i>Dina</i></w>
-  <w><i>Morgabin</i></w>
+  <w><hi>Dina</hi></w>
+  <w><hi>Morgabin</hi></w>
   <w>og</w>
   <w>hún</w>
   <w>kemur</w>
@@ -333,7 +345,7 @@
   <w>fjögur</w>
   <w>hverfi</w>
   <c>(</c>
-  <w><i>arrondissements</i></w>
+  <w><hi>arrondissements</hi></w>
   <c>)</c>
   <c>,</c>
   <w>49</w>
@@ -347,8 +359,8 @@
   <c>(</c>
   <w>franska</w>
   <c>:</c>
-  <w><i>La</i></w>
-  <w><i>Réunion</i></w>
+  <w><hi>La</hi></w>
+  <w><hi>Réunion</hi></w>
   <c>)</c>
   <w>er</w>
   <w>frönsk</w>
@@ -435,7 +447,7 @@
   <w>eyjuna</w>
   <w>með</w>
   <w>tundurspillinum</w>
-  <w><i>Léopard</i></w>
+  <w><hi>Léopard</hi></w>
   <c>.</c>
 </s><s n="25">
   <w>Sagt</w>

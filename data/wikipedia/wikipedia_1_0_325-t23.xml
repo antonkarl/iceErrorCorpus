@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_325-t23.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Wolin</w>
   <c>(</c>
   <w>þýska</w>
   <c>:</c>
-  <w><i>Wollin</i></w>
+  <w><hi>Wollin</hi></w>
   <c>)</c>
   <w>er</w>
   <w>eyja</w>
@@ -49,7 +61,7 @@
   <c>(</c>
   <w>pólska</w>
   <c>:</c>
-  <w><i>Świna</i></w>
+  <w><hi>Świna</hi></w>
   <c>)</c>
   <revision id="1">
     <original><c>,</c></original>
@@ -138,7 +150,7 @@
   <w>er</w>
   <w>sagt</w>
   <w>að</w>
-  <w><i>Jóm</i></w>
+  <w><hi>Jóm</hi></w>
   <w>sé</w>
   <w>hérað</w>
   <w>á</w>
@@ -163,7 +175,7 @@
 </s>
 <s n="8">
   <c>(</c>
-  <w><i>Jóm</i></w>
+  <w><hi>Jóm</hi></w>
   <w>er</w>
   <w>hvorugkynsorð</w>
   <c>,</c>
@@ -186,7 +198,7 @@
   <w>sama</w>
   <w>nafn</w>
   <w>og</w>
-  <w><i>Jumne</i></w>
+  <w><hi>Jumne</hi></w>
   <w>sem</w>
   <w>kemur</w>
   <w>fyrir</w>
@@ -279,7 +291,7 @@
 </s>
 <s n="14">
   <w>Þjóðsagnaborgin</w>
-  <w><i>Vineta</i></w>
+  <w><hi>Vineta</hi></w>
   <w>er</w>
   <w>talin</w>
   <w>hafa</w>

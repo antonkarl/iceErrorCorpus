@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_1-t5.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Kínverskt</w>
@@ -928,7 +940,7 @@
   <w>plöturnar</w>
   <revision id="18">
     <original><c>„</c><w>Balls</w><w>Under</w><w>The</w><w>Red</w><w>Flag</w><c>“</c></original>
-    <corrected><w><i>Balls</i></w><w><i>Under</i></w><w><i>The</i></w><w><i>Red</i></w><w><i>Flag</i></w></corrected>
+    <corrected><w><hi>Balls</hi></w><w><hi>Under</hi></w><w><hi>The</hi></w><w><hi>Red</hi></w><w><hi>Flag</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="18-1" eid="0" />
         <error xtype="nonit4it" idx="18-1" eid="0" />
@@ -937,7 +949,7 @@
   <w>og</w>
   <revision id="19">
     <original><c>„</c><w>Power</w><w>to</w><w>the</w><w>Powerless</w><c>“</c></original>
-    <corrected><w><i>Power</i></w><w><i>to</i></w><w><i>the</i></w><w><i>Powerless</i></w></corrected>
+    <corrected><w><hi>Power</hi></w><w><hi>to</hi></w><w><hi>the</hi></w><w><hi>Powerless</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="18-1" eid="0" />
         <error xtype="nonit4it" idx="18-1" eid="0" />
@@ -1186,7 +1198,7 @@
   <w>útgáfunnar</w>
   <revision id="20">
     <original><c>„</c><w>Its</w><w>Great</w></original>
-    <corrected><w><i>Its</i></w><w><i>Great</i></w></corrected>
+    <corrected><w><hi>Its</hi></w><w><hi>Great</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="20-1" eid="0" />
         <error xtype="nonit4it" eid="0" />
@@ -1670,7 +1682,7 @@
   <w>nafnið</w>
   <revision id="30">
     <original><c>„</c><w>Drunk</w><w>is</w><w>Beautiful</w><c>“</c></original>
-    <corrected><w><i>Drunk</i></w><w><i>is</i></w><w><i>Beautiful</i></w></corrected>
+    <corrected><w><hi>Drunk</hi></w><w><hi>is</hi></w><w><hi>Beautiful</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="30-1" eid="0" />
         <error xtype="nonit4it" idx="30-1" eid="0" />

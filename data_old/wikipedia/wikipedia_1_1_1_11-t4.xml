@@ -1,0 +1,2405 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Laos</w>
+  <c>(</c>
+  <w>formlegt</w>
+  <w>nafn</w>
+  <c>:</c>
+  <w><i>Alþýðulýðveldið</i></w>
+  <w><i>Laos</i></w>
+  <c>,</c>
+  <w>á</w>
+  <w>laosku</w>
+  <c>:</c>
+  <w><i>Sathalanalat</i></w>
+  <w><i>Paxathipatai</i></w>
+  <w><i>Paxaxon</i></w>
+  <w><i>Lao</i></w>
+  <c>,</c>
+  <revision id="1">
+    <original><w>bókstaflega</w><c>„</c><w>Alþýðulýðveldi</w><w>Lao</w><w>fólksins</w><c>“</c></original>
+    <corrected><w>bókstafleg</w><w>þýðing</w><c>:</c><w><i>Alþýðulýðveldi</i></w><w><i>Lao</i></w><w><i>fólksins</i></w></corrected>
+      <errors>
+        <error xtype="wording" idx="1-1" eid="0" />
+        <error xtype="missing-colon" idx="1-2" eid="0" />
+        <error xtype="extra-quots" idx="1-3" eid="0" />
+        <error xtype="nonit4it" idx="1-3" eid="0" />
+      </errors>
+  </revision>
+  <c>)</c>
+  <w>er</w>
+  <w>land</w>
+  <w>í</w>
+  <revision id="2">
+    <original><w>Suðausturasíu</w></original>
+    <corrected><w>Suðaustur-Asíu</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Landið</w>
+  <revision id="3">
+    <original><w>hefur</w></original>
+    <corrected><w>liggur</w></corrected>
+      <errors>
+        <error xtype="wording" idx="3-1" eid="0" />
+      </errors>
+  </revision>
+  <w>hvergi</w>
+  <revision id="4">
+    <original><w>aðgang</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="3-1" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>hafi</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Í</w>
+  <revision id="5">
+    <original><w>norðvestur</w></original>
+    <corrected><w>norðvestri</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>landið</w>
+  <w>landamæri</w>
+  <w>að</w>
+  <w>Myanmar</w>
+  <c>(</c>
+  <w>Burma</w>
+  <c>)</c>
+  <c>,</c>
+  <w>í</w>
+  <revision id="6">
+    <original><w>norður</w></original>
+    <corrected><w>norðri</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>Kína</w>
+  <c>,</c>
+  <w>í</w>
+  <revision id="7">
+    <original><w>austur</w></original>
+    <corrected><w>austri</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>Víetnam</w>
+  <c>,</c>
+  <w>í</w>
+  <revision id="8">
+    <original><w>suður</w></original>
+    <corrected><w>suðri</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>Kambódíu</w>
+  <w>og</w>
+  <w>í</w>
+  <revision id="9">
+    <original><w>vestur</w></original>
+    <corrected><w>vestri</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>Taílandi</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Saga</w>
+  <w>landsins</w>
+  <w>er</w>
+  <w>rakin</w>
+  <w>aftur</w>
+  <w>til</w>
+  <w>konungsríkisins</w>
+  <w>Lan</w>
+  <w>Xang</w>
+  <w>eða</w>
+  <w><i>Miljón</i></w>
+  <w><i>fíla</i></w>
+  <revision id="10">
+    <original><w><i>landið</i></w></original>
+    <corrected><w><i>landsins</i></w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>var</w>
+  <w>við</w>
+  <w>lýði</w>
+  <w>frá</w>
+  <w>fjórtándu</w>
+  <revision id="11">
+    <original></original>
+    <corrected><w>öld</w><w>og</w></corrected>
+      <errors>
+        <error xtype="wording" idx="11-1" eid="0" />
+      </errors>
+  </revision>
+  <w>fram</w>
+  <w>að</w>
+  <revision id="12">
+    <original></original>
+    <corrected><w>þeirri</w></corrected>
+      <errors>
+        <error xtype="dep" depId="11-1" eid="0" />
+      </errors>
+  </revision>
+  <w>átjándu</w>
+  <revision id="13">
+    <original><w>öld</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="11-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Laos</w>
+  <w>var</w>
+  <w>frönsk</w>
+  <w>nýlenda</w>
+  <w>í</w>
+  <w>rúmlega</w>
+  <w>hálfa</w>
+  <w>öld</w>
+  <w>en</w>
+  <w>fékk</w>
+  <w>sjálfstæði</w>
+  <w>1949</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Þá</w>
+  <w>tók</w>
+  <w>við</w>
+  <w>borgarastyrjöld</w>
+  <w>sem</w>
+  <w>stóð</w>
+  <w>fram</w>
+  <w>til</w>
+  <w>1975</w>
+  <w>þegar</w>
+  <w>hreyfing</w>
+  <w>kommúnista</w>
+  <c>,</c>
+  <revision id="14">
+    <original><w>Pathet</w><w>Lao</w></original>
+    <corrected><w><i>Pathet</i></w><w><i>Lao</i></w></corrected>
+      <errors>
+        <error xtype="nonit4it" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>náði</w>
+  <w>völdum</w>
+  <w>í</w>
+  <w>landinu</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>Árið 1986</w>
+  <w>var</w>
+  <w>landið</w>
+  <w>opnað</w>
+  <w>fyrir</w>
+  <w>einkaframtaki</w>
+  <w>og</w>
+  <w>erlendum</w>
+  <w>fjárfestingum</w>
+  <c>.</c>
+</s>
+<s n="8">
+  <w>Laos</w>
+  <w>er</w>
+  <w>þó</w>
+  <w>enn</w>
+  <w>talið</w>
+  <w>til</w>
+  <w>þeirra</w>
+  <w>landa</w>
+  <w>sem</w>
+  <w>búa</w>
+  <w>við</w>
+  <w>minnst</w>
+  <w>efnahagslegt</w>
+  <w>og</w>
+  <w>pólitískt</w>
+  <w>frelsi</w>
+  <c>.</c>
+</s>
+<s n="9">
+  <w>Þrátt</w>
+  <w>fyrir</w>
+  <w>þetta</w>
+  <w>hefur</w>
+  <w>hagvöxtur</w>
+  <w>verið</w>
+  <w>gríðarmikill</w>
+  <w>síðustu</w>
+  <w>árin</w>
+  <w>og</w>
+  <w>jókst</w>
+  <w>um</w>
+  <revision id="15">
+    <original><w>7.2%</w></original>
+    <corrected><w>7,2%</w></corrected>
+      <errors>
+        <error xtype="period4comma" eid="0" />
+      </errors>
+  </revision>
+  <w>árið 2006</w>
+  <c>,</c>
+  <w>Landbúnaður</w>
+  <w>er</w>
+  <w>aðalatvinnugrein</w>
+  <w>og</w>
+  <w>starfa</w>
+  <w>um</w>
+  <w>80%</w>
+  <w>landsmanna</w>
+  <w>við</w>
+  <w>sjálfsþurftarbúskap</w>
+  <c>.</c>
+</s>
+<s n="10">
+  <w>Íbúar</w>
+  <w>landsins</w>
+  <w>skiptast</w>
+  <w>upp</w>
+  <w>í</w>
+  <w>fjölmörg</w>
+  <w>þjóðarbrot</w>
+  <revision id="16">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>en</w>
+  <w>um</w>
+  <w>það</w>
+  <w>bil</w>
+  <w>70%</w>
+  <w>tilheyra</w>
+  <w>Lao-fólkinu</w>
+  <c>.</c>
+</s>
+<s n="11">
+  <w>Nafn</w>
+  <w>landsins</w>
+  <w>á</w>
+  <w>laosku</w>
+  <w>er</w>
+  <w><i>Lao</i></w>
+  <revision id="17">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>en</w>
+  <w>þegar</w>
+  <w>Frakkar</w>
+  <w>gerðu</w>
+  <w>landið</w>
+  <w>að</w>
+  <w>nýlendu</w>
+  <w>sinni</w>
+  <w>bættu</w>
+  <w>þeir</w>
+  <w>við</w>
+  <w>fleirtölu</w>
+  <w>s-i</w>
+  <w>við</w>
+  <w>nafnið</w>
+  <c>,</c>
+  <w>enda</w>
+  <w>var</w>
+  <w>landið</w>
+  <w>þá</w>
+  <w>uppskipt</w>
+  <w>í</w>
+  <w>fleiri</w>
+  <w>konungsveldi</w>
+  <c>.</c>
+</s>
+<s n="12">
+  <w>Laos</w>
+  <w>rekur</w>
+  <w>sögu</w>
+  <w>sína</w>
+  <w>aftur</w>
+  <w>til</w>
+  <w>konungsríkisins</w>
+  <w>Lan</w>
+  <w>Xang</w>
+  <w>sem</w>
+  <w>skapaðist</w>
+  <w>á</w>
+  <w>14.</w>
+  <w>öld</w>
+  <c>.</c>
+</s>
+<s n="13">
+  <w>Á</w>
+  <w>18.</w>
+  <w>öld</w>
+  <w>óx</w>
+  <revision id="18">
+    <original><w>síömsku</w></original>
+    <corrected><w>síamska</w></corrected>
+      <errors>
+        <error xtype="agreement-concord" eid="0" />
+      </errors>
+  </revision>
+  <w>konungsveldinu</w>
+  <w>mjög</w>
+  <w>fiskur</w>
+  <w>um</w>
+  <w>hrygg</w>
+  <w>og</w>
+  <revision id="19">
+    <original><w>lögðu</w></original>
+    <corrected><w>lagði</w><w>það</w></corrected>
+      <errors>
+        <error xtype="agreement-pred" idx="19-1" eid="0" />
+        <error xtype="missing-word" idx="19-2" eid="0" />
+      </errors>
+  </revision>
+  <w>undir</w>
+  <w>sig</w>
+  <revision id="20">
+    <original><w>stærsta</w></original>
+    <corrected><w>stærstan</w></corrected>
+      <errors>
+        <error xtype="agreement-concord" eid="0" />
+      </errors>
+  </revision>
+  <w>hluta</w>
+  <w>þeirra</w>
+  <w>svæða</w>
+  <w>sem</w>
+  <w>höfðu</w>
+  <w>verið</w>
+  <w>undir</w>
+  <w>stjórn</w>
+  <w>Lan</w>
+  <w>Xang</w>
+  <c>(</c>
+  <revision id="21">
+    <original><w>þó</w></original>
+    <corrected><w>þótt</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>þau</w>
+  <w>væru</w>
+  <w>þá</w>
+  <w>uppskipt</w>
+  <w>í</w>
+  <w>fleiri</w>
+  <w>minni</w>
+  <w>konungsveldi</w>
+  <c>)</c>
+  <c>.</c>
+</s>
+<s n="14">
+  <w>Frakkar</w>
+  <revision id="22">
+    <original></original>
+    <corrected><w>sem</w></corrected>
+      <errors>
+        <error xtype="missing-conjunction" eid="0" />
+      </errors>
+  </revision>
+  <w>voru</w>
+  <w>þá</w>
+  <w>að</w>
+  <w>leggja</w>
+  <w>stóran</w>
+  <w>hluta</w>
+  <revision id="23">
+    <original><w>Suðausturasíu</w></original>
+    <corrected><w>Suðaustur-Asíu</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>undir</w>
+  <w>sig</w>
+  <w>snérust</w>
+  <w>gegn</w>
+  <w>auknum</w>
+  <w>áhrifum</w>
+  <w>Síam</w>
+  <c>.</c>
+</s>
+<s n="15">
+  <w>Tókst</w>
+  <w>þeim</w>
+  <w>að</w>
+  <w>hrekja</w>
+  <w>síamska</w>
+  <w>herinn</w>
+  <w>vestur</w>
+  <w>fyrir</w>
+  <w>Mekong-fljótið</w>
+  <w>og</w>
+  <revision id="24">
+    <original><w>sköpuðu</w></original>
+    <corrected><w>skapa</w></corrected>
+      <errors>
+        <error xtype="verb-inflection" eid="0" />
+      </errors>
+  </revision>
+  <w>Laos</w>
+  <w>sem</w>
+  <w>svæði</w>
+  <w>innan</w>
+  <w>Frönsku</w>
+  <w>Indókína</w>
+  <revision id="25">
+    <original><w>1893</w><c>.</c><w>En</w><w>stærsti</w></original>
+    <corrected><w>árið 1893</w><w>en</w><w>stærstur</w></corrected>
+      <errors>
+        <error xtype="missing-word" idx="25-1" eid="0" />
+        <error xtype="missing-period" idx="25-2" eid="0" />
+        <error xtype="agreement-concord" idx="25-3" eid="0" />
+      </errors>
+  </revision>
+  <w>hluti</w>
+  <revision id="26">
+    <original><w>þess</w><w>sem</w><w>hafði</w><w>verið</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-words" eid="0" />
+      </errors>
+  </revision>
+  <w>Laos</w>
+  <revision id="27">
+    <original><w>og</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-conjunction" eid="0" />
+      </errors>
+  </revision>
+  <w>þar</w>
+  <w>sem</w>
+  <w>um</w>
+  <w>80%</w>
+  <w>laómælandi</w>
+  <w>bjuggu</w>
+  <w>varð</w>
+  <w>hluti</w>
+  <w>af</w>
+  <w>Taílandi</w>
+  <w>og</w>
+  <w>er</w>
+  <w>enn</w>
+  <c>.</c>
+</s>
+<s n="16">
+  <w>Frakkar</w>
+  <w>breyttu</w>
+  <w>nafni</w>
+  <w>höfuðborgarinnar</w>
+  <w>úr</w>
+  <w>Vieng</w>
+  <w>Chang</w>
+  <w>í</w>
+  <w>Vientiane</w>
+  <c>.</c>
+</s>
+<s n="17">
+  <w>Japan</w>
+  <w>hernam</w>
+  <w>landið</w>
+  <revision id="28">
+    <original><w>í</w><w>nokkur</w><w>ár</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wording" idx="28-1" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>seinni</w>
+  <w>heimsstyrjöldinni</w>
+  <w>og</w>
+  <revision id="29">
+    <original></original>
+    <corrected><w>réðu</w><w>í</w><w>nokkur</w><w>ár</w><c>,</c></corrected>
+      <errors>
+        <error xtype="dep" depId="28-1" eid="0" />
+      </errors>
+  </revision>
+  <w>lýst</w>
+  <w>var</w>
+  <w>yfir</w>
+  <w>sjálfstæði</w>
+  <w>landsins</w>
+  <revision id="30">
+    <original><w>1945</w></original>
+    <corrected><w>árið 1945</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>en</w>
+  <w>Frökkum</w>
+  <w>tókst</w>
+  <w>fljótlega</w>
+  <w>að</w>
+  <w>ná</w>
+  <w>völdum</w>
+  <w>aftur</w>
+  <c>.</c>
+</s>
+<s n="18">
+  <w>Laos</w>
+  <w>varð</w>
+  <w>formlega</w>
+  <w>sjálfstætt</w>
+  <revision id="31">
+    <original></original>
+    <corrected><w>ríki</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>1949</w>
+  <w>en</w>
+  <w>það</w>
+  <w>var</w>
+  <w>ekki</w>
+  <w>fyrr</w>
+  <w>en</w>
+  <w>1954</w>
+  <w>sem</w>
+  <w>það</w>
+  <w>varð</w>
+  <w>í</w>
+  <w>raun</w>
+  <w>sjálfstætt</w>
+  <w>sem</w>
+  <w>þingbundið</w>
+  <w>konungsríki</w>
+  <w>og</w>
+  <w>var</w>
+  <w>Sisavang</w>
+  <w>Vong</w>
+  <w>vígður</w>
+  <w>konungur</w>
+  <c>.</c>
+</s>
+<s n="19">
+  <w>Árið 1951</w>
+  <w>var</w>
+  <w>kommúnistahreyfingin</w>
+  <w>Pathet</w>
+  <w>Lao</w>
+  <w>stofnuð</w>
+  <w>undir</w>
+  <w>forystu</w>
+  <w>Souphanouvong</w>
+  <w>prins</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>kallaður</w>
+  <w>var</w>
+  <w><i>rauði</i></w>
+  <w><i>prinsinn</i></w>
+  <c>.</c>
+</s>
+<s n="20">
+  <w>Pathet</w>
+  <w>Lao</w>
+  <w>tók</w>
+  <w>völdin</w>
+  <w>1954</w>
+  <w>í</w>
+  <w>tveimur</w>
+  <w>héruðum</w>
+  <w>í</w>
+  <w>norðurhluta</w>
+  <w>landsins</w>
+  <c>.</c>
+</s>
+<s n="21">
+  <w>Næstu</w>
+  <w>tveir</w>
+  <w>áratugirnir</w>
+  <w>einkenndust</w>
+  <w>af</w>
+  <w>borgarastyrjöld</w>
+  <w>og</w>
+  <w>valdaránum</w>
+  <c>.</c>
+</s>
+<s n="22">
+  <w>Þrátt</w>
+  <w>fyrir</w>
+  <w>að</w>
+  <w>Laos</w>
+  <w>væri</w>
+  <w>aldrei</w>
+  <w>formlega</w>
+  <w>hluti</w>
+  <w>af</w>
+  <w>Víetnamstríðinu</w>
+  <revision id="32">
+    <original><w>varð</w></original>
+    <corrected><w>hafði</w></corrected>
+      <errors>
+        <error xtype="wording" idx="32-1" eid="0" />
+      </errors>
+  </revision>
+  <w>það</w>
+  <revision id="33">
+    <original><w>illileg</w><w>fyrir</w><w>áhrifum</w><w>frá</w><w>því</w></original>
+    <corrected><w>mikil</w><w>áhrif</w><w>á</w><w>landið</w></corrected>
+      <errors>
+        <error xtype="dep" depId="32-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="23">
+  <w>Milli</w>
+  <w>1971</w>
+  <w>og</w>
+  <w>1973</w>
+  <revision id="34">
+    <original><w>felldi</w></original>
+    <corrected><w>lét</w></corrected>
+      <errors>
+        <error xtype="wording" idx="34-1" eid="0" />
+      </errors>
+  </revision>
+  <w>bandaríkjaher</w>
+  <w>fleiri</w>
+  <revision id="35">
+    <original><w>sprengjum</w></original>
+    <corrected><w>sprengjur</w><w>falla</w></corrected>
+      <errors>
+        <error xtype="dep" depId="34-1" eid="0" />
+      </errors>
+  </revision>
+  <w>yfir</w>
+  <w>Laos</w>
+  <w>en</w>
+  <revision id="36">
+    <original><w>voru</w><w>felldar</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-words" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>seinni</w>
+  <w>heimsstyrjöldinni</w>
+  <w>á</w>
+  <w>árunum</w>
+  <w>1939</w>
+  <c>-</c>
+  <w>1945</w>
+  <c>.</c>
+</s>
+<s n="24">
+  <w>Samanlagt</w>
+  <revision id="37">
+    <original><w>felldu</w><w>þeir</w></original>
+    <corrected><w>lét</w><w>herinn</w><w>falla</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>yfir</w>
+  <w>2</w>
+  <revision id="38">
+    <original><w>miljóna</w></original>
+    <corrected><w>miljónir</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="38-1" eid="0" />
+        <error xtype="nonword" idx="38-1" eid="0" />
+        <error xtype="nominal-inflection" idx="38-1" eid="0" />
+      </errors>
+  </revision>
+  <w>tonna</w>
+  <w>af</w>
+  <w>sprengjum</w>
+  <w>yfir</w>
+  <w>landið</w>
+  <w>og</w>
+  <revision id="39">
+    <original><w>er</w></original>
+    <corrected><w>eru</w><w>þær</w></corrected>
+      <errors>
+        <error xtype="wording" idx="39-1" eid="0" />
+      </errors>
+  </revision>
+  <w>enn</w>
+  <revision id="40">
+    <original><w>verið</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="39-1" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <revision id="41">
+    <original><w>finna</w><w>þær</w></original>
+    <corrected><w>finnast</w></corrected>
+      <errors>
+        <error xtype="dep" depId="39-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="25">
+  <w>Eftir</w>
+  <w>sigur</w>
+  <w>kommúnista</w>
+  <w>í</w>
+  <w>Víetnam</w>
+  <w>hóf</w>
+  <w>Pathet</w>
+  <w>Lao</w>
+  <w>mikla</w>
+  <w>sókn</w>
+  <w>og</w>
+  <w>tókst</w>
+  <w>1975</w>
+  <w>að</w>
+  <w>ná</w>
+  <w>völdum</w>
+  <w>í</w>
+  <w>öllu</w>
+  <w>landinu</w>
+  <c>.</c>
+</s>
+<s n="26">
+  <w>Áætlað</w>
+  <w>að</w>
+  <w>nærri</w>
+  <revision id="42">
+    <original><w>300</w><w>000</w></original>
+    <corrected><w>300.000</w></corrected>
+      <errors>
+        <error xtype="missing-period" idx="42-1" eid="0" />
+        <error xtype="split-word" idx="42-1" eid="0" />
+      </errors>
+  </revision>
+  <w>flóttamenn</w>
+  <w>hafi</w>
+  <w>flúið</w>
+  <w>til</w>
+  <w>Taílands</w>
+  <w>eftir</w>
+  <w>valdtöku</w>
+  <w>kommúnista</w>
+  <c>.</c>
+</s>
+<s n="27">
+  <w>Eftir</w>
+  <w>valdatökuna</w>
+  <w>fékk</w>
+  <w>landið</w>
+  <w>formlega</w>
+  <w>nafnið</w>
+  <w>Alþýðulýðveldið</w>
+  <w>Laos</w>
+  <w>og</w>
+  <w>gerðir</w>
+  <w>voru</w>
+  <w>samningar</w>
+  <w>sem</w>
+  <w>heimiluðu</w>
+  <w>Víetnam</w>
+  <w>að</w>
+  <w>hafa</w>
+  <w>her</w>
+  <w>í</w>
+  <w>landinu</w>
+  <w>og</w>
+  <w>hafa</w>
+  <w>yfirsjón</w>
+  <revision id="43">
+    <original><w>um</w></original>
+    <corrected><w>með</w></corrected>
+      <errors>
+        <error xtype="collocation" eid="0" />
+      </errors>
+  </revision>
+  <w>stjórn</w>
+  <w>þess</w>
+  <c>.</c>
+</s>
+<s n="28">
+  <w>Laos</w>
+  <w>varð</w>
+  <w>mjög</w>
+  <w>einangrað</w>
+  <w>og</w>
+  <w>hafði</w>
+  <w>nánast</w>
+  <w>einungis</w>
+  <w>viðskipti</w>
+  <w>við</w>
+  <w>Víetnam</w>
+  <c>.</c>
+</s>
+<s n="29">
+  <revision id="44">
+    <original><w>Harðlínu</w><w>kommúnismi</w></original>
+    <corrected><w>Harðlínukommúnismi</w></corrected>
+      <errors>
+        <error xtype="compound-split" eid="0" />
+      </errors>
+  </revision>
+  <w>var</w>
+  <w>þó</w>
+  <w>aldrei</w>
+  <w>allsráðandi</w>
+  <c>,</c>
+  <w>til</w>
+  <w>dæmis</w>
+  <w>voru</w>
+  <w>tilraunir</w>
+  <w>til</w>
+  <w>að</w>
+  <w>koma</w>
+  <w>á</w>
+  <w>samyrkjubúum</w>
+  <w>fljótlega</w>
+  <w>lagðar</w>
+  <w>af</w>
+  <c>.</c>
+</s>
+<s n="30">
+  <w>Viðhorf</w>
+  <w>kommúnista</w>
+  <w>í</w>
+  <w>Laos</w>
+  <w>urðu</w>
+  <w>fljótlega</w>
+  <w>mjög</w>
+  <w>frábrugðin</w>
+  <revision id="45">
+    <original></original>
+    <corrected><w>viðhorfi</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>annarra</w>
+  <w>kommúnista</w>
+  <c>,</c>
+  <w>búddismi</w>
+  <w>var</w>
+  <w>því</w>
+  <w>sem</w>
+  <w>næst</w>
+  <w>gerð</w>
+  <w>að</w>
+  <w>ríkistrúarbrögðum</w>
+  <w>og</w>
+  <w>mikil</w>
+  <w>áhersla</w>
+  <w>lögð</w>
+  <w>á</w>
+  <revision id="46">
+    <original></original>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>sýna</w>
+  <w>fram</w>
+  <w>á</w>
+  <w>að</w>
+  <w>í</w>
+  <w>raun</w>
+  <w>væri</w>
+  <w>búddisminn</w>
+  <w>sósíalískur</w>
+  <c>.</c>
+</s>
+<s n="31">
+  <w>Allt</w>
+  <w>frá</w>
+  <w>því</w>
+  <w>að</w>
+  <w>áhrif</w>
+  <w>Víetnam</w>
+  <w>fóru</w>
+  <w>að</w>
+  <w>minnka</w>
+  <w>upp</w>
+  <w>úr</w>
+  <w>miðjum</w>
+  <w>níunda</w>
+  <w>áratugnum</w>
+  <w>og</w>
+  <w>sérlega</w>
+  <w>eftir</w>
+  <w>að</w>
+  <w>landið</w>
+  <w>gekk</w>
+  <w>í</w>
+  <w>ASEAN</w>
+  <w>árið 1997</w>
+  <w>hefur</w>
+  <w>efnahags</w>
+  <w>og</w>
+  <w>samfélagslíf</w>
+  <w>gjörbreyst</w>
+  <c>.</c>
+</s>
+<s n="32">
+  <w>Laos</w>
+  <w>er</w>
+  <revision id="47">
+    <original><w>235</w><w>000</w></original>
+    <corrected><w>235.000</w></corrected>
+      <errors>
+        <error xtype="missing-period" idx="47-1" eid="0" />
+        <error xtype="split-word" idx="47-1" eid="0" />
+      </errors>
+  </revision>
+  <w>ferkílómetrar</w>
+  <w>að</w>
+  <w>flatarmáli</w>
+  <c>,</c>
+  <w>heldur</w>
+  <w>stærra</w>
+  <w>en</w>
+  <w>Bretland</w>
+  <c>.</c>
+</s>
+<s n="33">
+  <w>Að</w>
+  <w>stærstum</w>
+  <w>hluta</w>
+  <w>er</w>
+  <w>það</w>
+  <w>skógi</w>
+  <w>vaxið</w>
+  <w>fjallaland</w>
+  <c>,</c>
+  <w>hæsta</w>
+  <w>fjallið</w>
+  <w>er</w>
+  <w>Phou</w>
+  <w>Bia</w>
+  <revision id="48">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>2817</w>
+  <w>metra</w>
+  <w>hátt</w>
+  <c>,</c>
+  <w>um</w>
+  <w>70%</w>
+  <w>af</w>
+  <w>landinu</w>
+  <w>er</w>
+  <w>fjöll</w>
+  <w>eða</w>
+  <w>hásléttur</w>
+  <c>.</c>
+</s>
+<s n="34">
+  <w>Fljótið</w>
+  <w>Mekong</w>
+  <w>fylgir</w>
+  <w>að</w>
+  <w>mestu</w>
+  <revision id="49">
+    <original><w>vesturlandamærunum</w></original>
+    <corrected><w>landamærunum</w><w>í</w><w>vestri</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>Taílandi</w>
+  <w>en</w>
+  <w>Annamít</w>
+  <w>fjallgarðurinn</w>
+  <c>(</c>
+  <w>sem</w>
+  <w>nefndur</w>
+  <w>er</w>
+  <w>Phou</w>
+  <w>Luag</w>
+  <w>í</w>
+  <w>Laos</w>
+  <c>)</c>
+  <w>myndar</w>
+  <w>landamæri</w>
+  <revision id="50">
+    <original><w>gegn</w></original>
+    <corrected><w>við</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>Víetnam</w>
+  <w>í</w>
+  <w>austri</w>
+  <c>.</c>
+</s>
+<s n="35">
+  <w>Í</w>
+  <w>landinu</w>
+  <w>er</w>
+  <w>hitabeltisloftslag</w>
+  <w>og</w>
+  <w>monsúnrigningar</w>
+  <revision id="51">
+    <original></original>
+    <corrected><w>tíðar</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="36">
+  <w>Rigningatíminn</w>
+  <w>stendur</w>
+  <w>yfir</w>
+  <w>frá</w>
+  <w>maí</w>
+  <w>fram</w>
+  <w>til</w>
+  <w>nóvember</w>
+  <w>og</w>
+  <w>þurrkatíð</w>
+  <w>frá</w>
+  <w>desember</w>
+  <w>fram</w>
+  <w>til</w>
+  <w>apríl</w>
+  <c>.</c>
+</s>
+<s n="37">
+  <w>Höfuðborgin</w>
+  <w>og</w>
+  <w>stærsta</w>
+  <w>borgin</w>
+  <w>í</w>
+  <w>Laos</w>
+  <w>er</w>
+  <w>Vientiane</w>
+  <c>,</c>
+  <w>aðrar</w>
+  <w>stærri</w>
+  <w>borgir</w>
+  <w>eru</w>
+  <w>Luang</w>
+  <w>Prabang</w>
+  <c>,</c>
+  <w>Savannakhet</w>
+  <w>og</w>
+  <w>Pakse</w>
+  <c>.</c>
+</s>
+<s n="38">
+  <w>Skógarsvæðin</w>
+  <w>í</w>
+  <w>Laos</w>
+  <w>eru</w>
+  <w>þau</w>
+  <w>helstu</w>
+  <w>sem</w>
+  <w>eftir</w>
+  <w>eru</w>
+  <w>í</w>
+  <w>allri</w>
+  <revision id="52">
+    <original><w>Suðausturasíu</w></original>
+    <corrected><w>Suðaustur-Asíu</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>þekja</w>
+  <w>um</w>
+  <w>40%</w>
+  <w>af</w>
+  <w>landinu</w>
+  <c>.</c>
+</s>
+<s n="39">
+  <w>Þess</w>
+  <w>vegna</w>
+  <w>er</w>
+  <w>lífríki</w>
+  <w>landsins</w>
+  <w>einstaklega</w>
+  <w>fjölbreytt</w>
+  <c>.</c>
+</s>
+<s n="40">
+  <w>Þar</w>
+  <w>er</w>
+  <w>meðal</w>
+  <w>annars</w>
+  <w>hægt</w>
+  <w>að</w>
+  <w>finna</w>
+  <revision id="53">
+    <original><w>stórann</w></original>
+    <corrected><w>stóran</w></corrected>
+      <errors>
+        <error xtype="nn4n" idx="53-1" eid="0" />
+        <error xtype="nonword" idx="53-1" eid="0" />
+      </errors>
+  </revision>
+  <w>hluta</w>
+  <w>af</w>
+  <w>þeim</w>
+  <revision id="54">
+    <original><w>Asíu</w><w>fílum</w></original>
+    <corrected><w>asíufílum</w></corrected>
+      <errors>
+        <error xtype="compound-split" idx="54-1" eid="0" />
+        <error xtype="upper4lower-common" idx="54-1" eid="0" />
+      </errors>
+  </revision>
+  <c>(</c>
+  <w><i>Elephas</i></w>
+  <w><i>maximus</i></w>
+  <c>)</c>
+  <w>sem</w>
+  <w>enn</w>
+  <w>eru</w>
+  <w>til</w>
+  <w>villtir</w>
+  <c>,</c>
+  <w>einnig</w>
+  <w>er</w>
+  <w>þar</w>
+  <w>að</w>
+  <w>finna</w>
+  <revision id="55">
+    <original><w>Indókínverska</w></original>
+    <corrected><w>indókínverska</w></corrected>
+      <errors>
+        <error xtype="upper4lower-noninitial" eid="0" />
+      </errors>
+  </revision>
+  <w>tígrisdýrið</w>
+  <c>(</c>
+  <w><i>Panthera</i></w>
+  <w><i>tigris</i></w>
+  <w><i>corbetti</i></w>
+  <c>)</c>
+  <w>og</w>
+  <w>hinn</w>
+  <w>risavaxna</w>
+  <w>gáruxa</w>
+  <c>(</c>
+  <w><i>Bos</i></w>
+  <w><i>gaurus</i></w>
+  <c>)</c>
+  <c>.</c>
+</s>
+<s n="41">
+  <w>Ríkisstjórnin</w>
+  <w>ákvað</w>
+  <w>1993</w>
+  <w>að</w>
+  <w>21%</w>
+  <w>landsins</w>
+  <revision id="56">
+    <original><w>eiga</w></original>
+    <corrected><w>eigi</w></corrected>
+      <errors>
+        <error xtype="ind4sub" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>vernda</w>
+  <w>sem</w>
+  <w>sérstaklega</w>
+  <w>mikilvæg</w>
+  <w>fyrir</w>
+  <w>fjölbreytni</w>
+  <w>lífríkisins</w>
+  <c>,</c>
+  <w>ætlunin</w>
+  <w>er</w>
+  <w>að</w>
+  <w>þessi</w>
+  <w>svæði</w>
+  <w>verði</w>
+  <w>gerð</w>
+  <w>að</w>
+  <w>þjóðgörðum</w>
+  <w>síðar</w>
+  <c>.</c>
+</s>
+<s n="42">
+  <w>Í</w>
+  <w>engu</w>
+  <w>landi</w>
+  <w>í</w>
+  <revision id="57">
+    <original><w>Suðaustur</w><w>Asíu</w></original>
+    <corrected><w>Suðaustur-Asíu</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>búa</w>
+  <w>jafn</w>
+  <w>margar</w>
+  <w>þjóðir</w>
+  <w>og</w>
+  <w>þjóðflokkar</w>
+  <w>og</w>
+  <w>í</w>
+  <w>Laos</w>
+  <c>.</c>
+</s>
+<s n="43">
+  <w>Allt</w>
+  <w>eftir</w>
+  <w>því</w>
+  <w>hvernig</w>
+  <w>reiknað</w>
+  <w>er</w>
+  <w>eru</w>
+  <w>þær</w>
+  <w>taldar</w>
+  <w>vera</w>
+  <w>48</w>
+  <w>eða</w>
+  <w>65</w>
+  <c>.</c>
+</s>
+<s n="44">
+  <revision id="58">
+    <original><w>Ýmiss</w></original>
+    <corrected><w>Ýmis</w></corrected>
+      <errors>
+        <error xtype="agreement-concord" eid="0" />
+      </errors>
+  </revision>
+  <w>háttur</w>
+  <w>hefur</w>
+  <w>verið</w>
+  <w>hafður</w>
+  <w>á</w>
+  <w>að</w>
+  <w>flokka</w>
+  <w>þessi</w>
+  <w>þjóðarbrot</w>
+  <w>saman</w>
+  <c>.</c>
+</s>
+<s n="45">
+  <w>Á</w>
+  <w>áttunda</w>
+  <w>áratugnum</w>
+  <w>flokkuðu</w>
+  <w>yfirvöld</w>
+  <w>þá</w>
+  <w>í</w>
+  <w>þrjá</w>
+  <w>hópa</w>
+  <c>,</c>
+  <w><i>Lao</i></w>
+  <w><i>Loum</i></w>
+  <c>(</c>
+  <w>láglendisbúa</w>
+  <c>)</c>
+  <c>,</c>
+  <w><i>Lao</i></w>
+  <w><i>Theung</i></w>
+  <c>(</c>
+  <w>hæðabúa</w>
+  <c>)</c>
+  <w>og</w>
+  <w><i>Lao</i></w>
+  <w><i>Soung</i></w>
+  <c>(</c>
+  <w>fjallabúa</w>
+  <c>)</c>
+  <c>.</c>
+</s>
+<s n="46">
+  <w>Þessi</w>
+  <w>greining</w>
+  <w>var</w>
+  <w>byggð</w>
+  <w>á</w>
+  <w>pólitískum</w>
+  <w>forsendum</w>
+  <w>og</w>
+  <revision id="59">
+    <original><w>hefur</w><w>nú</w><w>verið</w><w>yfirgefin</w><w>þó</w></original>
+    <corrected><w>mælst</w><w>er</w><w>til</w><w>þess</w></corrected>
+      <errors>
+        <error xtype="wording" idx="59-1" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <revision id="60">
+    <original></original>
+    <corrected><w>hún</w><w>sé</w><w>ekki</w><w>notuð</w><c>.</c><w>Samt</w><w>nota</w></corrected>
+      <errors>
+        <error xtype="dep" depId="59-1" eid="0" />
+      </errors>
+  </revision>
+  <w>margir</w>
+  <revision id="61">
+    <original><w>noti</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="59-1" eid="0" />
+      </errors>
+  </revision>
+  <w>hana</w>
+  <w>enn</w>
+  <w>og</w>
+  <w>oft</w>
+  <revision id="62">
+    <original><w>megi</w></original>
+    <corrected><w>má</w></corrected>
+      <errors>
+        <error xtype="dep" depId="59-1" eid="0" />
+      </errors>
+  </revision>
+  <w>sjá</w>
+  <w>hana</w>
+  <w>í</w>
+  <w>bókum</w>
+  <w>um</w>
+  <w>Laos</w>
+  <c>.</c>
+</s>
+<s n="47">
+  <w>Nú</w>
+  <w>er</w>
+  <w>flokkað</w>
+  <w>eftir</w>
+  <w>hinum</w>
+  <w>þremur</w>
+  <w>stóru</w>
+  <w>tungumálafjölskyldum</w>
+  <w>sem</w>
+  <w>flest</w>
+  <w>tungumálin</w>
+  <revision id="63">
+    <original><w>tileyra-Ástró-Taí</w></original>
+    <corrected><w>tilheyra</w><c>:</c><w>ástró-taí</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="63-1" eid="0" />
+        <error xtype="nonword" idx="63-1" eid="0" />
+        <error xtype="dash4colon" idx="63-2" eid="0" />
+        <error xtype="upper4lower-common" idx="63-3" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <revision id="64">
+    <original><w>Ástró-Asísk</w></original>
+    <corrected><w>ástró-asísk</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" idx="64-1" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <revision id="65">
+    <original><w>Sínó-Tíbetönsk</w></original>
+    <corrected><w>sínó-tíbetönsk</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
+  <w>mál</w>
+  <c>.</c>
+</s>
+<s n="48">
+  <w>Um</w>
+  <w>helmingur</w>
+  <w>íbúana</w>
+  <revision id="66">
+    <original><w>hafa</w></original>
+    <corrected><w>hefur</w></corrected>
+      <errors>
+        <error xtype="agreement-pred" eid="0" />
+      </errors>
+  </revision>
+  <w>laosku</w>
+  <w>að</w>
+  <w>móðurmáli</w>
+  <c>,</c>
+  <w>um</w>
+  <w>15%</w>
+  <w>tala</w>
+  <w>önnur</w>
+  <w>mál</w>
+  <w>af</w>
+  <revision id="67">
+    <original><w>Taí-Lao</w></original>
+    <corrected><w>taí-lao</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
+  <w>málaætt</w>
+  <c>,</c>
+  <w>en</w>
+  <w>allir</w>
+  <w>hinir</w>
+  <w>hóparnir</w>
+  <w>eru</w>
+  <w>mun</w>
+  <w>minni</w>
+  <c>.</c>
+</s>
+<s n="49">
+  <w>Af</w>
+  <w>þeim</w>
+  <w>má</w>
+  <w>nefna</w>
+  <revision id="68">
+    <original><w>Khmu</w></original>
+    <corrected><w>khmu</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <revision id="69">
+    <original><w>Hmong</w></original>
+    <corrected><w>hmong</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <revision id="70">
+    <original><w>Lu</w></original>
+    <corrected><w>lu</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <revision id="71">
+    <original><w>Phuan</w></original>
+    <corrected><w>phuan</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <revision id="72">
+    <original><w>So</w></original>
+    <corrected><w>so</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <revision id="73">
+    <original><w>Katang</w></original>
+    <corrected><w>katang</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <revision id="74">
+    <original><w>Akha</w></original>
+    <corrected><w>akha</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <revision id="75">
+    <original><w>Tai</w><w>Dam</w></original>
+    <corrected><w>tai</w><w>dam</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <revision id="76">
+    <original><w>Yao</w></original>
+    <corrected><w>yao</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="50">
+  <w>Þar</w>
+  <w>að</w>
+  <w>auki</w>
+  <w>er</w>
+  <w>um</w>
+  <w>eitt</w>
+  <w>prósent</w>
+  <w>íbúa</w>
+  <w>af</w>
+  <w>kínverskum</w>
+  <w>eða</w>
+  <w>víetnömskum</w>
+  <w>ættum</w>
+  <c>.</c>
+</s>
+<s n="51">
+  <w>Theravada</w>
+  <w>búddismi</w>
+  <w>er</w>
+  <w>höfuðtrú</w>
+  <w>og</w>
+  <w>hefur</w>
+  <w>nánast</w>
+  <w>stöðu</w>
+  <w>sem</w>
+  <w>ríkistrú</w>
+  <c>.</c>
+</s>
+<s n="52">
+  <w>Þar</w>
+  <w>að</w>
+  <w>auki</w>
+  <w>er</w>
+  <w>andatrú</w>
+  <w>og</w>
+  <w>forfeðradýrkun</w>
+  <w>algeng</w>
+  <revision id="77">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>sérlega</w>
+  <w>hjá</w>
+  <w>minnihlutahópunum</w>
+  <c>.</c>
+</s>
+<s n="53">
+  <w>Fáeinir</w>
+  <w>kristnir</w>
+  <w>eru</w>
+  <w>í</w>
+  <w>borgunum</w>
+  <w>og</w>
+  <w>múslimar</w>
+  <w>við</w>
+  <w>landamærin</w>
+  <w>að</w>
+  <w>Burma</w>
+  <c>.</c>
+</s>
+<s n="54">
+  <w>Trúboð</w>
+  <w>er</w>
+  <w>litið</w>
+  <w>illu</w>
+  <w>auga</w>
+  <w>af</w>
+  <w>yfirvöldum</w>
+  <w>og</w>
+  <w>er</w>
+  <w>háð</w>
+  <w>ströngu</w>
+  <w>eftirliti</w>
+  <c>.</c>
+</s>
+<s n="55">
+  <w>Kommúnistastjórnin</w>
+  <w>í</w>
+  <w>Laos</w>
+  <w>tók</w>
+  <w>upp</w>
+  <w>nýja</w>
+  <w>efnahagsstefnu</w>
+  <w>1986</w>
+  <w>með</w>
+  <w>því</w>
+  <w>að</w>
+  <w>minnka</w>
+  <w>miðstýringu</w>
+  <w>og</w>
+  <w>leyfa</w>
+  <w>einkaframtak</w>
+  <w>í</w>
+  <w>efnahagsmálum</w>
+  <c>.</c>
+</s>
+<s n="56">
+  <w>Við</w>
+  <w>það</w>
+  <w>tók</w>
+  <w>efnahagslífið</w>
+  <w>mikinn</w>
+  <w>kipp</w>
+  <w>og</w>
+  <w>hefur</w>
+  <w>árlegur</w>
+  <w>hagvöxtur</w>
+  <w>á</w>
+  <w>árunum</w>
+  <w>1988</w>
+  <w>til</w>
+  <w>2006</w>
+  <w>verið</w>
+  <w>að</w>
+  <w>meðaltali</w>
+  <w>6%</w>
+  <c>.</c>
+</s>
+<s n="57">
+  <w>Sérlega</w>
+  <w>er</w>
+  <w>þetta</w>
+  <w>áberandi</w>
+  <w>í</w>
+  <w>stærri</w>
+  <revision id="78">
+    <original><w>bæjunum</w></original>
+    <corrected><w>borgunum</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>Vientiane</w>
+  <c>,</c>
+  <w>Luang</w>
+  <w>Prabang</w>
+  <w>og</w>
+  <w>Savannakhet</w>
+  <c>.</c>
+</s>
+<s n="58">
+  <w>Efnahagslífið</w>
+  <w>er</w>
+  <w>nánast</w>
+  <w>algjörlega</w>
+  <w>undirlagt</w>
+  <w>hinum</w>
+  <w>ríku</w>
+  <w>og</w>
+  <w>voldugu</w>
+  <w>nágrönnum</w>
+  <c>,</c>
+  <w>Taílandi</w>
+  <c>,</c>
+  <w>Víetnam</w>
+  <revision id="79">
+    <original><w>er</w></original>
+    <corrected><w>og</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>sérstaklega</w>
+  <w>Kína</w>
+  <c>.</c>
+</s>
+<s n="59">
+  <w>Samgöngur</w>
+  <w>eru</w>
+  <revision id="80">
+    <original><w>þau</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
+  <w>afar</w>
+  <w>erfiðar</w>
+  <c>,</c>
+  <w>vegakerfið</w>
+  <w>í</w>
+  <w>mjög</w>
+  <w>slæmu</w>
+  <w>ástandi</w>
+  <c>,</c>
+  <w>mest</w>
+  <w>eru</w>
+  <w>þetta</w>
+  <w>moldarvegir</w>
+  <w>sem</w>
+  <w>verða</w>
+  <w>algjörlega</w>
+  <w>ófærir</w>
+  <w>á</w>
+  <w>rigningartímanum</w>
+  <c>.</c>
+</s>
+<s n="60">
+  <w>Lestarkerfi</w>
+  <w>er</w>
+  <revision id="81">
+    <original><w>ekkert</w></original>
+    <corrected><w>ekki</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>til</w>
+  <revision id="82">
+    <original></original>
+    <corrected><w>staðar</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>flugsamgöngur</w>
+  <w>takmarkaðar</w>
+  <c>.</c>
+</s>
+<s n="61">
+  <w>Mikið</w>
+  <w>af</w>
+  <w>flutningum</w>
+  <w>fer</w>
+  <w>fram</w>
+  <w>á</w>
+  <w>fljótunum</w>
+  <revision id="83">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>sérlega</w>
+  <w>á</w>
+  <revision id="84">
+    <original><w>Mekongfljótinu</w></original>
+    <corrected><w>Mekong-fljótinu</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="62">
+  <w>Sjálfsþurftarbúskapur</w>
+  <revision id="85">
+    <original><w>stendur</w></original>
+    <corrected><w>aflar</w></corrected>
+      <errors>
+        <error xtype="wording" idx="85-1" eid="0" />
+      </errors>
+  </revision>
+  <w>enn</w>
+  <revision id="86">
+    <original><w>fyrir</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="85-1" eid="0" />
+      </errors>
+  </revision>
+  <w>um</w>
+  <revision id="87">
+    <original><w>helmingi</w></original>
+    <corrected><w>helming</w></corrected>
+      <errors>
+        <error xtype="wording" depId="85-1" eid="0" />
+      </errors>
+  </revision>
+  <w>af</w>
+  <w>vergum</w>
+  <revision id="88">
+    <original><w>þjóðatekjum</w></original>
+    <corrected><w>þjóðartekjum</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="88-1" eid="0" />
+        <error xtype="missing-letter" idx="88-1" eid="0" />
+        <error xtype="nonword" idx="88-1" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>um</w>
+  <w>80%</w>
+  <w>af</w>
+  <w>íbúunum</w>
+  <revision id="89">
+    <original><w>hafa</w></original>
+    <corrected><w>byggja</w></corrected>
+      <errors>
+        <error xtype="wording" idx="89-1" eid="0" />
+      </errors>
+  </revision>
+  <w>sína</w>
+  <w>afkomu</w>
+  <revision id="90">
+    <original><w>innan</w><w>þess</w></original>
+    <corrected><w>á</w><w>honum</w></corrected>
+      <errors>
+        <error xtype="dep" depId="89-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="63">
+  <w>Hrísgrjónaræktun</w>
+  <w>er</w>
+  <revision id="91">
+    <original><w>aðal</w><w>landbúnaðargreinin</w></original>
+    <corrected><w>aðallandbúnaðargreinin</w></corrected>
+      <errors>
+        <error xtype="split-word" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>er</w>
+  <w>um</w>
+  <w>80%</w>
+  <w>ræktaðs</w>
+  <w>land</w>
+  <w>notað</w>
+  <w>undir</w>
+  <w>það</w>
+  <revision id="92">
+    <original><c>,</c></original>
+    <corrected><c>.</c></corrected>
+      <errors>
+        <error xtype="comma4period" eid="0" />
+      </errors>
+  </revision>
+  <w>Hvergi</w>
+  <revision id="93">
+    <original><w>er</w></original>
+    <corrected><w>eru</w></corrected>
+      <errors>
+        <error xtype="agreement-pred" eid="0" />
+      </errors>
+  </revision>
+  <w>til</w>
+  <w>eins</w>
+  <w>mörg</w>
+  <w>afbrigði</w>
+  <w>af</w>
+  <w>hrísgrjónum</w>
+  <w>eins</w>
+  <w>og</w>
+  <w>hér</w>
+  <w>og</w>
+  <w>yfirvöld</w>
+  <w>hafa</w>
+  <w>unnið</w>
+  <w>með</w>
+  <w>alþjóðlegum</w>
+  <w>stofnunum</w>
+  <w>frá</w>
+  <revision id="94">
+    <original><w>1995</w></original>
+    <corrected><w>árinu 1995</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>við</w>
+  <w>að</w>
+  <w>safna</w>
+  <w>inn</w>
+  <w>fræjum</w>
+  <w>af</w>
+  <w>þeim</w>
+  <w>þúsundum</w>
+  <w>tegunda</w>
+  <w>sem</w>
+  <w>eru</w>
+  <w>ræktaðar</w>
+  <w>í</w>
+  <w>Laos</w>
+  <c>.</c>
+</s>
+<s n="64">
+  <w>Fyrir</w>
+  <w>utan</w>
+  <w>landbúnað</w>
+  <w>er</w>
+  <w>námugröftur</w>
+  <c>,</c>
+  <w>aðallega</w>
+  <w>kopar</w>
+  <w>og</w>
+  <w>gull</w>
+  <c>,</c>
+  <w>en</w>
+  <w>einnig</w>
+  <w>rafmagnsútflutningur</w>
+  <w>mikilvægur</w>
+  <w>þáttur</w>
+  <w>í</w>
+  <w>erlendum</w>
+  <w>viðskiptum</w>
+  <w>landsins</w>
+  <c>.</c>
+</s>
+<s n="65">
+  <w>Ferðamannaþjónusta</w>
+  <w>er</w>
+  <w>í</w>
+  <w>hröðum</w>
+  <w>vexti</w>
+  <w>og</w>
+  <w>eru</w>
+  <w>það</w>
+  <w>einkum</w>
+  <w>ferðamenn</w>
+  <w>frá</w>
+  <w>Kína</w>
+  <w>og</w>
+  <w>Taílandi</w>
+  <revision id="96">
+    <original><w>á</w><w>ferð</w></original>
+    <corrected><w>sem</w><w>eru</w><w>fjölmennastir</w><w>í</w><w>landinu</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="66">
+  <w>Vöntun</w>
+  <w>á</w>
+  <w>alls</w>
+  <w>konar</w>
+  <w>menntafólki</w>
+  <w>stendur</w>
+  <w>mjög</w>
+  <w>í</w>
+  <w>vegi</w>
+  <revision id="97">
+    <original><w>allra</w><w>framfara</w></original>
+    <corrected><w>fyrir</w><w>framförum</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="67">
+  <w>Samkvæmt</w>
+  <w>rannsókn</w>
+  <w>sem</w>
+  <w>gerð</w>
+  <w>var</w>
+  <w>a</w>
+  <w>vegum</w>
+  <w>Alþjóðabankans</w>
+  <w>2005</w>
+  <w>býr</w>
+  <w>37%</w>
+  <w>allra</w>
+  <revision id="98">
+    <original><w>mennaðra</w></original>
+    <corrected><w>menntaðra</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="98-1" eid="0" />
+        <error xtype="nonword" idx="98-1" eid="0" />
+      </errors>
+  </revision>
+  <w>Laosbúa</w>
+  <w>erlendis</w>
+  <w>og</w>
+  <w>setur</w>
+  <w>það</w>
+  <w>Laos</w>
+  <w>í</w>
+  <w>fimmta</w>
+  <w>versta</w>
+  <w>sæti</w>
+  <w>í</w>
+  <w>heiminum</w>
+  <w>hvað</w>
+  <w>þetta</w>
+  <w>varðar</w>
+  <c>.</c>
+</s>
+<s n="68">
+  <w>Menntunarkerfið</w>
+  <w>í</w>
+  <w>Laos</w>
+  <w>er</w>
+  <w>mjög</w>
+  <w>skammt</w>
+  <revision id="99">
+    <original></original>
+    <corrected><w>á</w><w>veg</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <w>komið</w>
+  <c>.</c>
+</s>
+<s n="69">
+  <w>Þegar</w>
+  <w>landið</w>
+  <w>fékk</w>
+  <w>sjálfstæði</w>
+  <w>frá</w>
+  <revision id="100">
+    <original><w>frökkum</w></original>
+    <corrected><w>Frökkum</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
+  <w>var</w>
+  <w>einungis</w>
+  <w>örlítill</w>
+  <w>hópur</w>
+  <w>tengdur</w>
+  <w>aðalsmönnum</w>
+  <w>sem</w>
+  <w>hafði</w>
+  <w>einhverja</w>
+  <w>formlega</w>
+  <w>menntun</w>
+  <w>ef</w>
+  <w>undantekin</w>
+  <w>er</w>
+  <w>klausturmenntun</w>
+  <w>munka</w>
+  <w>og</w>
+  <w>nunna</w>
+  <c>.</c>
+</s>
+<s n="70">
+  <w>Það</w>
+  <w>var</w>
+  <w>ekki</w>
+  <w>fyrr</w>
+  <w>en</w>
+  <w>um</w>
+  <w>1960</w>
+  <w>sem</w>
+  <w>farið</w>
+  <w>var</w>
+  <w>að</w>
+  <w>byggja</w>
+  <w>upp</w>
+  <w>menntakerfi</w>
+  <revision id="101">
+    <original><w>að</w></original>
+    <corrected><w>með</w></corrected>
+      <errors>
+        <error xtype="wrong-prep" eid="0" />
+      </errors>
+  </revision>
+  <w>nútímasniði</w>
+  <c>.</c>
+</s>
+<s n="71">
+  <w>Eftir</w>
+  <w>valdatöku</w>
+  <w>Pathet</w>
+  <w>Lao</w>
+  <w>1975</w>
+  <w>flúðu</w>
+  <w>flestir</w>
+  <w>þeirra</w>
+  <w>sem</w>
+  <w>höfðu</w>
+  <revision id="102">
+    <original><w>eihverja</w></original>
+    <corrected><w>einhverja</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="102-1" eid="0" />
+        <error xtype="nonword" idx="102-1" eid="0" />
+      </errors>
+  </revision>
+  <w>æðri</w>
+  <w>menntun</w>
+  <revision id="103">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>þar</w>
+  <w>á</w>
+  <w>meðal</w>
+  <w>margir</w>
+  <revision id="104">
+    <original><w>betur</w></original>
+    <corrected><w>vel</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>menntaðir</w>
+  <w>kennarar</w>
+  <c>.</c>
+</s>
+<s n="72">
+  <w>Í</w>
+  <w>núverandi</w>
+  <w>skólakerfi</w>
+  <w>er</w>
+  <w>fimm</w>
+  <w>ára</w>
+  <w>grunnskóli</w>
+  <w>skylda</w>
+  <w>og</w>
+  <w>eru</w>
+  <w>nánast</w>
+  <w>70%</w>
+  <w>hvers</w>
+  <w>árgangs</w>
+  <w>sem</w>
+  <w>ljúka</w>
+  <w>honum</w>
+  <c>.</c>
+</s>
+<s n="73">
+  <w>Þrátt</w>
+  <w>fyrir</w>
+  <w>það</w>
+  <w>er</w>
+  <w>áætlað</w>
+  <w>að</w>
+  <w>um</w>
+  <w>helmingur</w>
+  <w>Laosbúa</w>
+  <revision id="105">
+    <original><w>séu</w><w>ólæsir</w></original>
+    <corrected><w>sé</w><w>ólæs</w></corrected>
+      <errors>
+        <error xtype="agreement-pred" idx="105-1" eid="0" />
+        <error xtype="agreement-pred" idx="105-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="74">
+  <w>Eftir</w>
+  <w>grunnskóla</w>
+  <w>geta</w>
+  <w>nemendur</w>
+  <w>haldið</w>
+  <w>áfram</w>
+  <w>í</w>
+  <w>þriggja</w>
+  <w>ára</w>
+  <w>viðbótarnám</w>
+  <w>og</w>
+  <w>svo</w>
+  <w>þaðan</w>
+  <w>í</w>
+  <w>þriggja</w>
+  <w>ára</w>
+  <w>menntaskólanám</w>
+  <c>.</c>
+</s>
+<s n="75">
+  <w>Það</w>
+  <w>eru</w>
+  <w>hins</w>
+  <w>vegar</w>
+  <revision id="106">
+    <original><w>innann</w></original>
+    <corrected><w>innan</w></corrected>
+      <errors>
+        <error xtype="nn4n" idx="106-1" eid="0" />
+        <error xtype="nonword" idx="106-1" eid="0" />
+      </errors>
+  </revision>
+  <w>við</w>
+  <w>10%</w>
+  <w>sem</w>
+  <w>ná</w>
+  <w>þangað</w>
+  <c>.</c>
+</s>
+<s n="76">
+  <w>Í</w>
+  <w>landinu</w>
+  <w>er</w>
+  <w>einungis</w>
+  <w>einn</w>
+  <w>háskóli</w>
+  <c>.</c>
+</s>
+<s n="77">
+  <w>Allir</w>
+  <w>fjölmiðlar</w>
+  <w>í</w>
+  <w>Laos</w>
+  <w>eru</w>
+  <w>í</w>
+  <w>eigu</w>
+  <w>ríkisins</w>
+  <w>og</w>
+  <w>undir</w>
+  <w>strangri</w>
+  <w>ritskoðun</w>
+  <c>.</c>
+</s>
+<s n="78">
+  <w>Einungis</w>
+  <w>tvö</w>
+  <w>dagblöð</w>
+  <w>eru</w>
+  <w>í</w>
+  <w>landinu</w>
+  <c>,</c>
+  <w>burtséð</w>
+  <w>frá</w>
+  <w>útgáfum</w>
+  <w>á</w>
+  <w>frönsku</w>
+  <w>og</w>
+  <w>ensku</w>
+  <c>,</c>
+  <w>og</w>
+  <w>fáein</w>
+  <w>tímarit</w>
+  <c>.</c>
+</s>
+<s n="79">
+  <w>Þau</w>
+  <w>koma</w>
+  <w>öll</w>
+  <w>út</w>
+  <w>í</w>
+  <w>mjög</w>
+  <w>fáum</w>
+  <w>eintökum</w>
+  <w>og</w>
+  <w>flestir</w>
+  <w>Laosbúar</w>
+  <w>sjá</w>
+  <w>aldrei</w>
+  <w>dagblað</w>
+  <c>.</c>
+</s>
+<s n="80">
+  <w>Ríkið</w>
+  <w>rekur</w>
+  <w>einnig</w>
+  <w>útvarps</w>
+  <w>og</w>
+  <w>sjónvarpsstöð</w>
+  <c>.</c>
+</s>
+<s n="81">
+  <w>Engar</w>
+  <w>bækur</w>
+  <w>má</w>
+  <w>gefa</w>
+  <w>út</w>
+  <w>án</w>
+  <w>þess</w>
+  <w>að</w>
+  <w>þær</w>
+  <w>hafi</w>
+  <w>farið</w>
+  <w>í</w>
+  <w>gegnum</w>
+  <w>ritskoðunarkerfið</w>
+  <c>.</c>
+</s>
+<s n="82">
+  <w>Hins</w>
+  <w>vegar</w>
+  <w>eru</w>
+  <w>engar</w>
+  <w>hömlur</w>
+  <w>á</w>
+  <w>innflutningi</w>
+  <w>á</w>
+  <w>tímaritum</w>
+  <w>og</w>
+  <w>bókum</w>
+  <c>.</c>
+</s>
+<s n="83">
+  <revision id="107">
+    <original><w>Interneti</w></original>
+    <corrected><w>Internetið</w></corrected>
+      <errors>
+        <error xtype="missing-letter" eid="0" />
+      </errors>
+  </revision>
+  <w>er</w>
+  <w>nánast</w>
+  <w>óþekkt</w>
+  <c>,</c>
+  <w>það</w>
+  <w>er</w>
+  <w>einungis</w>
+  <revision id="108">
+    <original></original>
+    <corrected><w>aðgengilegt</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>fáeinum</w>
+  <w>stöðum</w>
+  <c>,</c>
+  <w>sérlega</w>
+  <w>í</w>
+  <w>Vietiane</w>
+  <w>og</w>
+  <w>þá</w>
+  <revision id="109">
+    <original><w>fyrir</w><w>ferðamenn</w><c>,</c><w>þar</w><w>sem</w><w>netið</w><w>er</w><w>aðgengilegt</w></original>
+    <corrected><w>ferðamönnum</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

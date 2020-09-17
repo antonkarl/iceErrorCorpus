@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_8-t4.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Árið 2007</w>
@@ -15,8 +27,8 @@
   <w>Joosten</w>
   <w>í</w>
   <w>sjónvarpsþættinum</w>
-  <w><i>The</i></w>
-  <w><i>View</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>View</hi></w>
   <w>að</w>
   <w>krabbameinið</w>
   <w>væri</w>
@@ -108,7 +120,7 @@
   <w>var</w>
   <w>árið 1984</w>
   <w>í</w>
-  <w><i>Grandview</i></w>
+  <w><hi>Grandview</hi></w>
   <c>,</c>
   <w>ZU.S.A.Z.</w>
   <w>Kom</w>
@@ -120,24 +132,24 @@
   <w>á</w>
   <w>borð</w>
   <w>við</w>
-  <w><i>Eating</i></w>
-  <w><i>Las</i></w>
-  <w><i>Vegas</i></w>
+  <w><hi>Eating</hi></w>
+  <w><hi>Las</hi></w>
+  <w><hi>Vegas</hi></w>
   <c>,</c>
-  <w><i>Cojones</i></w>
+  <w><hi>Cojones</hi></w>
   <c>,</c>
-  <w><i>Wedding</i></w>
-  <w><i>crashers</i></w>
+  <w><hi>Wedding</hi></w>
+  <w><hi>crashers</hi></w>
   <c>,</c>
-  <w><i>The</i></w>
-  <w><i>Gold</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Gold</hi></w>
   <w>ZLunchz</w>
   <w>og</w>
-  <w><i>Character</i></w>
-  <w><i>and</i></w>
-  <w><i>Morality</i></w>
-  <w><i>in</i></w>
-  <w><i>Entertainment-verðlaunin</i></w>
+  <w><hi>Character</hi></w>
+  <w><hi>and</hi></w>
+  <w><hi>Morality</hi></w>
+  <w><hi>in</hi></w>
+  <w><hi>Entertainment-verðlaunin</hi></w>
   <revision id="4">
     <original/>
     <corrected><c>.</c></corrected>
@@ -155,27 +167,27 @@
   <w>á</w>
   <w>borð</w>
   <w>við</w>
-  <w><i>Ladies</i></w>
-  <w><i>of</i></w>
-  <w><i>the</i></w>
-  <w><i>Corridor</i></w>
+  <w><hi>Ladies</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>Corridor</hi></w>
   <c>,</c>
-  <w><i>The</i></w>
-  <w><i>Front</i></w>
-  <w><i>Page</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Front</hi></w>
+  <w><hi>Page</hi></w>
   <c>,</c>
   <revision id="5">
     <original><w>Annie</w></original>
-    <corrected><w><i>Annie</i></w></corrected>
+    <corrected><w><hi>Annie</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
-  <w><i>Night</i></w>
-  <w><i>of</i></w>
-  <w><i>the</i></w>
-  <w><i>Iguana</i></w>
+  <w><hi>Night</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>Iguana</hi></w>
   <c>.</c>
 </s><s n="8">
   <w>Árið 1992</w>
@@ -325,8 +337,8 @@
   <w>árið 1985</w>
   <w>í</w>
   <w>sjónvarpsmyndinni</w>
-  <w><i>Lady</i></w>
-  <w><i>Blue</i></w>
+  <w><hi>Lady</hi></w>
+  <w><hi>Blue</hi></w>
   <c>.</c>
 </s><s n="15">
   <w>Joosten</w>
@@ -400,8 +412,8 @@
   <w>hún</w>
   <w>leiklistartíma</w>
   <w>við</w>
-  <w><i>Steppenwolf</i></w>
-  <w><i>Theater</i></w>
+  <w><hi>Steppenwolf</hi></w>
+  <w><hi>Theater</hi></w>
   <w>í</w>
   <w>Chicago</w>
   <c>.</c>
@@ -411,13 +423,13 @@
   <w>nefnd</w>
   <w>forsvarskona</w>
   <w>fyrir</w>
-  <w><i>Lung</i></w>
-  <w><i>Cancer</i></w>
-  <w><i>Profiles</i></w>
-  <w><i>herferðina</i></w>
+  <w><hi>Lung</hi></w>
+  <w><hi>Cancer</hi></w>
+  <w><hi>Profiles</hi></w>
+  <w><hi>herferðina</hi></w>
   <w>fyrir</w>
   <w>hönd</w>
-  <w><i>Pfizer</i></w>
+  <w><hi>Pfizer</hi></w>
   <c>.</c>
 </s><s n="19">
   <w>Joosten</w>

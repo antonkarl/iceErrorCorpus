@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_11-t8.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Natalia</w>
@@ -10,7 +22,7 @@
   <w>fjórum</w>
   <revision id="1">
     <original><w>Harry</w><w>Potter</w><w>myndum</w></original>
-    <corrected><w><i>Harry</i></w><w><i>Potter</i></w><c>-myndum</c></corrected>
+    <corrected><w><hi>Harry</hi></w><w><hi>Potter</hi></w><c>-myndum</c></corrected>
       <errors>
         <error xtype="nonit4it" idx="22-1" eid="0"/>
         <error xtype="missing-dash" idx="22-2" eid="0"/>
@@ -52,7 +64,7 @@
   <w>í</w>
   <revision id="3">
     <original><w>Harry</w><w>Potter</w><w>bíómyndunum</w></original>
-    <corrected><w><i>Harry</i></w><w><i>Potter</i></w><c>-bíómyndunum</c></corrected>
+    <corrected><w><hi>Harry</hi></w><w><hi>Potter</hi></w><c>-bíómyndunum</c></corrected>
       <errors>
         <error xtype="nonit4it" idx="11-1" eid="0"/>
         <error xtype="missing-dash" idx="11-2" eid="0"/>
@@ -77,7 +89,7 @@
   <w>heitir</w>
   <revision id="4">
     <original><w>You</w><w>Instead</w></original>
-    <corrected><w><i>You</i></w><w><i>Instead</i></w></corrected>
+    <corrected><w><hi>You</hi></w><w><hi>Instead</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -326,7 +338,7 @@
   <w>myndin</w>
   <revision id="14">
     <original><w>About</w><w>a</w><w>boy</w></original>
-    <corrected><w><i>About</i></w><w><i>a</i></w><w><i>Boy</i></w></corrected>
+    <corrected><w><hi>About</hi></w><w><hi>a</hi></w><w><hi>Boy</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -457,7 +469,7 @@
   <w>myndin</w>
   <revision id="24">
     <original><w>Bel</w><w>Ami</w></original>
-    <corrected><w><i>Bel</i></w><w><i>Ami</i></w></corrected>
+    <corrected><w><hi>Bel</hi></w><w><hi>Ami</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

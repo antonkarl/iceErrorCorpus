@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_475-t21.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Rosalyn</w>
@@ -122,7 +134,7 @@
   <w>geislaónæmismælingar</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>radioimmunoassay</i></w>
+  <w><hi>radioimmunoassay</hi></w>
   <c>)</c>
   <w>á</w>
   <w>peptíðhormónum</w>

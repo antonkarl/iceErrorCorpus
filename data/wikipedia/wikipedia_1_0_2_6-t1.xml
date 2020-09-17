@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_6-t1.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Eftir</w>
@@ -14,7 +26,7 @@
   <w>hlé</w>
   <w>þar</w>
   <w>til</w>
-  <w><i>Spegillinn</i></w>
+  <w><hi>Spegillinn</hi></w>
   <w>birtist</w>
   <w>að</w>
   <w>nýju</w>
@@ -144,7 +156,7 @@
   <w>Pétursson</w>
   <c>.</c>
 </s><s n="7">
-  <w><i>Spegillinn</i></w>
+  <w><hi>Spegillinn</hi></w>
   <w>var</w>
   <w>íslenskt</w>
   <w>háðsádeilutímarit</w>
@@ -284,7 +296,7 @@
   <w>eina</w>
   <w>ár</w>
   <w>lagði</w>
-  <w><i>Spegillinn</i></w>
+  <w><hi>Spegillinn</hi></w>
   <w>aftur</w>
   <w>upp</w>
   <w>laupana</w>
@@ -339,7 +351,7 @@
   <w>blaðið</w>
   <c>.</c>
 </s><s n="18">
-  <w><i>Spegillinn</i></w>
+  <w><hi>Spegillinn</hi></w>
   <w>var</w>
   <w>stofnaður</w>
   <w>af</w>
@@ -356,7 +368,7 @@
 </s><s n="19">
   <w>Árið 1965</w>
   <w>var</w>
-  <w><i>Spegillinn</i></w>
+  <w><hi>Spegillinn</hi></w>
   <w>endurreistur</w>
   <w>og</w>
   <w>að</w>
@@ -449,7 +461,7 @@
   <w>mánuði</w>
   <c>.</c>
 </s><s n="27">
-  <w><i>Spegillinn</i></w>
+  <w><hi>Spegillinn</hi></w>
   <w>lagði</w>
   <w>endanlega</w>
   <w>upp</w>
@@ -548,7 +560,7 @@
   <w>Bæ</w>
   <c>,</c>
   <w>við</w>
-  <w><i>Speglinum</i></w>
+  <w><hi>Speglinum</hi></w>
   <w>en</w>
   <w>aðstoðarritstjóri</w>
   <w>var</w>

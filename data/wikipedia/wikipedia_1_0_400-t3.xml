@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_400-t3.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Gunnar</w>
@@ -29,7 +41,7 @@
   <w>stofnendum</w>
   <revision id="2">
     <original><w>Fréttablaðsins</w></original>
-    <corrected><w><i>Fréttablaðsins</i></w></corrected>
+    <corrected><w><hi>Fréttablaðsins</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -38,7 +50,7 @@
   <w>vikublaðanna</w>
   <revision id="3">
     <original><w>Eintaks</w></original>
-    <corrected><w><i>Eintaks</i></w></corrected>
+    <corrected><w><hi>Eintaks</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -46,7 +58,7 @@
   <w>og</w>
   <revision id="4">
     <original><w>Morgunpóstsins</w></original>
-    <corrected><w><i>Morgunpóstsins</i></w></corrected>
+    <corrected><w><hi>Morgunpóstsins</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -58,7 +70,7 @@
   <w>vikublaðinu</w>
   <revision id="5">
     <original><w>Pressunni</w></original>
-    <corrected><w><i>Pressunni</i></w></corrected>
+    <corrected><w><hi>Pressunni</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -77,7 +89,7 @@
   <w>útgefendum</w>
   <revision id="6">
     <original><w>Nyhedsavisen</w></original>
-    <corrected><w><i>Nyhedsavisen</i></w><c>,</c></corrected>
+    <corrected><w><hi>Nyhedsavisen</hi></w><c>,</c></corrected>
       <errors>
         <error xtype="nonit4it" idx="6-1" eid="0" />
         <error xtype="missing-comma" idx="6-2" eid="0" />
@@ -93,7 +105,7 @@
   <w>fyrirmynd</w>
   <revision id="7">
     <original><w>Fréttablaðsinn</w></original>
-    <corrected><w><i>Fréttablaðsins</i></w></corrected>
+    <corrected><w><hi>Fréttablaðsins</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>

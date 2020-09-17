@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_450-t4.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
-  <w><i>Fagurskinna</i></w>
+  <w><hi>Fagurskinna</hi></w>
   <w>eða</w>
   <w>Noregs</w>
   <w>konunga</w>
@@ -59,7 +71,7 @@
 </s>
 <s n="2b">
   <revision id="4">
-    <original><w><i>Fagurskinna</i></w></original>
+    <original><w><hi>Fagurskinna</hi></w></original>
     <corrected><w>Hún</w></corrected>
       <errors>
         <error xtype="it4nonit" idx="4-1" eid="0" />
@@ -191,7 +203,7 @@
   <w>gaf</w>
   <w>því</w>
   <w>nafnið</w>
-  <w><i>Fagurskinna</i></w>
+  <w><hi>Fagurskinna</hi></w>
   <c>.</c>
 </s>
 <s n="8">
@@ -303,11 +315,11 @@
   <w>Sturluson</w>
   <w>hafi</w>
   <w>notað</w>
-  <w><i>Fagurskinnu</i></w>
+  <w><hi>Fagurskinnu</hi></w>
   <w>þegar</w>
   <w>hann</w>
   <w>samdi</w>
-  <w><i>Heimskringlu</i></w>
+  <w><hi>Heimskringlu</hi></w>
   <c>,</c>
   <w>en</w>
   <w>vísbendingar</w>
@@ -341,10 +353,10 @@
   <w>mun</w>
   <w>ítarlegri</w>
   <w>en</w>
-  <w><i>Ágrip</i></w>
-  <w><i>af</i></w>
-  <w><i>Noregskonunga</i></w>
-  <w><i>sögum</i></w>
+  <w><hi>Ágrip</hi></w>
+  <w><hi>af</hi></w>
+  <w><hi>Noregskonunga</hi></w>
+  <w><hi>sögum</hi></w>
   <c>,</c>
   <w>sem</w>
   <w>er</w>
@@ -387,9 +399,9 @@
   <w>sem</w>
   <w>vísur</w>
   <w>úr</w>
-  <w><i>Haraldskvæði</i></w>
+  <w><hi>Haraldskvæði</hi></w>
   <w>og</w>
-  <w><i>Eiríksmálum</i></w>
+  <w><hi>Eiríksmálum</hi></w>
   <c>.</c>
 </s>
 <s n="16">
@@ -416,10 +428,10 @@
   <w>nokkur</w>
   <w>atriði</w>
   <w>sem</w>
-  <w><i>Fagurskinna</i></w>
+  <w><hi>Fagurskinna</hi></w>
   <w>hefur</w>
   <w>umfram</w>
-  <w><i>Heimskringlu</i></w>
+  <w><hi>Heimskringlu</hi></w>
   <w>og</w>
   <w>aðrar</w>
   <w>konungasögur</w>
@@ -642,9 +654,9 @@
         <error xtype="wording" eid="0" />
       </errors>
   </revision>
-  <w><i>Noregs</i></w>
-  <w><i>konunga</i></w>
-  <w><i>tal</i></w>
+  <w><hi>Noregs</hi></w>
+  <w><hi>konunga</hi></w>
+  <w><hi>tal</hi></w>
   <revision id="27b">
     <original><c>(</c></original>
     <corrected><w>öðru</w><w>nafni</w></corrected>
@@ -653,7 +665,7 @@
         <error xtype="missing-words" eid="0" />
       </errors>
   </revision>
-  <w><i>Fagurskinna</i></w>
+  <w><hi>Fagurskinna</hi></w>
   <revision id="27c">
     <original><c>)</c></original>
     <corrected></corrected>
@@ -664,8 +676,8 @@
   <c>,</c>
   <w>og</w>
   <w>loks</w>
-  <w><i>Sverris</i></w>
-  <w><i>saga</i></w>
+  <w><hi>Sverris</hi></w>
+  <w><hi>saga</hi></w>
   <c>,</c>
   <w>og</w>
   <w>lést</w>

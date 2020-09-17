@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_16-t5.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Í</w>
@@ -457,9 +469,9 @@
   <w>var</w>
   <w>hann</w>
   <w>formaður</w>
-  <w><i>Þjóðarátaks</i></w>
-  <w><i>um</i></w>
-  <w><i>umferðaröryggi</i></w>
+  <w><hi>Þjóðarátaks</hi></w>
+  <w><hi>um</hi></w>
+  <w><hi>umferðaröryggi</hi></w>
   <w>á</w>
   <w>árunum</w>
   <w>1988</w>
@@ -553,9 +565,9 @@
   <w>ásamt</w>
   <w>öðrum</w>
   <w>kynningarmyndina</w>
-  <w><i>The</i></w>
-  <w><i>Living</i></w>
-  <w><i>Sea</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Living</hi></w>
+  <w><hi>Sea</hi></w>
   <w>fyrir</w>
   <w>ríkisstjórn</w>
   <w>Íslands</w>
@@ -605,19 +617,19 @@
   <w>umhverfismálum</w>
   <w>undir</w>
   <w>yfirskriftinni</w>
-  <w><i>Á</i></w>
-  <w><i>leið</i></w>
-  <w><i>til</i></w>
-  <w><i>sjálfbærrar</i></w>
+  <w><hi>Á</hi></w>
+  <w><hi>leið</hi></w>
+  <w><hi>til</hi></w>
+  <w><hi>sjálfbærrar</hi></w>
   <w>Zþróunar</w>
   <c>:</c>
   <w><i/></w>
-  <w><i>Stefna</i></w>
-  <w><i>og</i></w>
-  <w><i>framkvæmdir</i></w>
-  <w><i>ríkisstjórnarinnar</i></w>
-  <w><i>í</i></w>
-  <w><i>umhverfismálum</i></w>
+  <w><hi>Stefna</hi></w>
+  <w><hi>og</hi></w>
+  <w><hi>framkvæmdir</hi></w>
+  <w><hi>ríkisstjórnarinnar</hi></w>
+  <w><hi>í</hi></w>
+  <w><hi>umhverfismálum</hi></w>
   <c>.</c>
 </s><s n="33">
   <w>Á</w>
@@ -662,7 +674,7 @@
   <w>vikuritsins</w>
   <revision id="7">
     <original><w>Time</w></original>
-    <corrected><w><i>Time</i></w></corrected>
+    <corrected><w><hi>Time</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -999,7 +1011,7 @@
   <w>sem</w>
   <w>slíkur</w>
   <w>umræðuþáttunum</w>
-  <w><i>Blaðamannafundur</i></w>
+  <w><hi>Blaðamannafundur</hi></w>
   <c>,</c>
   <w>þar</w>
   <w>sem</w>
@@ -1140,10 +1152,10 @@
   <w>kynnir</w>
   <w>í</w>
   <w>þættinum</w>
-  <w><i>Góða</i></w>
-  <w><i>veislu</i></w>
-  <w><i>gjöra</i></w>
-  <w><i>skal</i></w>
+  <w><hi>Góða</hi></w>
+  <w><hi>veislu</hi></w>
+  <w><hi>gjöra</hi></w>
+  <w><hi>skal</hi></w>
   <c>,</c>
   <w>áramótaskaupi</w>
   <w>sjónvarpsins</w>

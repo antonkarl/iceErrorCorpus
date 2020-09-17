@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Útboð</w>
+  <w>vegna</w>
+  <w>framkvæmda</w>
+  <w>við</w>
+  <w>Vesturlandsveg</w>
+  <w>stendur</w>
+  <w>til</w>
+  <w>13. júlí</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Akreinar</w>
+  <w>til</w>
+  <w>beggja</w>
+  <w>átta</w>
+  <w>verða</w>
+  <w>tvíbreiðar</w>
+  <c>,</c>
+  <w>ásamt</w>
+  <w>því</w>
+  <w>að</w>
+  <w>tvö</w>
+  <w>ný</w>
+  <w>hringtorg</w>
+  <w>verða</w>
+  <w>byggð</w>
+  <c>,</c>
+  <w>tvær</w>
+  <revision id="1">
+    <original><w>vegbrý</w></original>
+    <corrected><w>vegbrýr</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="1-1" eid="0" />
+        <error xtype="nonword" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>göngubrú</w>
+  <w>yfir</w>
+  <w>Úlfarsá</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Verkinu</w>
+  <w>á</w>
+  <w>að</w>
+  <w>skila</w>
+  <w>fullbúnu</w>
+  <w>15. október</w>
+  <w>á</w>
+  <w>næsta</w>
+  <w>ári</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Sturla</w>
+  <w>Böðvarsson</w>
+  <w>samgönguráðherra</w>
+  <w>sagði</w>
+  <w>í</w>
+  <w>svari</w>
+  <w>við</w>
+  <w>fyrirspurn</w>
+  <w>Valdimars</w>
+  <w>Friðrikssonar</w>
+  <c>,</c>
+  <w>varaþingmanns</w>
+  <w>Samfylkingarinnar</w>
+  <c>,</c>
+  <w>á</w>
+  <w>Alþingi</w>
+  <w>15. apríl</w>
+  <w>að</w>
+  <w>vegna</w>
+  <w>kostnaðar</w>
+  <w>frestaðist</w>
+  <w>framkvæmdin</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Stuttu</w>
+  <w>síðar</w>
+  <w>var</w>
+  <w>tilkynnt</w>
+  <w>að</w>
+  <revision id="2">
+    <original><w>tvöföldum</w></original>
+    <corrected><w>tvöföldun</w></corrected>
+      <errors>
+        <error xtype="letter-rep" eid="0" />
+      </errors>
+  </revision>
+  <w>hæfist</w>
+  <w>í</w>
+  <w>sumar</w>
+  <w>vegna</w>
+  <w>óska</w>
+  <w>frá</w>
+  <w>Mosfellsbæ</w>
+  <w>og</w>
+  <w>Reykjavíkurborg</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

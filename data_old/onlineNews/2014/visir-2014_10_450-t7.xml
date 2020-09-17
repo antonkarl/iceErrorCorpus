@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Forsætisráðherra</w>
+  <w>mun</w>
+  <w>á</w>
+  <w>föstudaginn</w>
+  <w>úthluta</w>
+  <w>styrkjum</w>
+  <revision id="1">
+    <original></original>
+    <corrected><w>úr</w><w>Jafnréttissjóði</w></corrected>
+      <errors>
+        <error xtype="wording" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>til</w>
+  <w>rannsókna</w>
+  <w>á</w>
+  <w>sviði</w>
+  <w>jafnréttismála</w>
+  <revision id="2">
+    <original><w>úr</w><w>Jafnréttissjóði</w></original>
+    <corrected><c>.</c><w>Verður</w><w>það</w><w>gert</w></corrected>
+      <errors>
+        <error xtype="dep" depId="1-1" eid="0" />
+        <error xtype="missing-period" eid="0" />
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>degi</w>
+  <w>Sameinuðu</w>
+  <w>þjóðanna</w>
+  <revision id="3">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>morgunverðarmálþingi</w>
+  <w>á</w>
+  <w>Grand</w>
+  <w>Hótel</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Í</w>
+  <w>tilkynningu</w>
+  <w>frá</w>
+  <w>forsætisráðuneytinu</w>
+  <w>segir</w>
+  <w>að</w>
+  <w>styrkirnir</w>
+  <w>séu</w>
+  <w>fjórir</w>
+  <w>og</w>
+  <w>samtals</w>
+  <w>að</w>
+  <w>upphæð</w>
+  <w>8,6 mkr.</w>
+</s>
+<s n="3">
+  <w>Hins</w>
+  <w>vegar</w>
+  <w>sagði</w>
+  <w>í</w>
+  <w>auglýsingu</w>
+  <w>frá</w>
+  <w>í</w>
+  <w>júlí</w>
+  <w>að</w>
+  <w>gert</w>
+  <w>sé</w>
+  <w>ráð</w>
+  <w>fyrir</w>
+  <w>því</w>
+  <w>að</w>
+  <w>sjóðurinn</w>
+  <w>hafi</w>
+  <w>9,8</w>
+  <w>milljónir</w>
+  <w>til</w>
+  <w>ráðstöfunar</w>
+  <w>hvert</w>
+  <w>starfsár</w>
+  <w>og</w>
+  <w>hefur</w>
+  <w>því</w>
+  <w>kvarnast</w>
+  <w>af</w>
+  <w>því</w>
+  <w>fé</w>
+  <w>sem</w>
+  <w>nemur</w>
+  <revision id="4">
+    <original><w>1,2 milljón</w></original>
+    <corrected><w>1,2</w><w>milljónum</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
+  <w>frá</w>
+  <w>í</w>
+  <w>sumar</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Jafnréttissjóður</w>
+  <w>er</w>
+  <revision id="5">
+    <original><w>rannsóknarsjóður</w></original>
+    <corrected><w>rannsóknasjóður</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>vegum</w>
+  <w>forsætisráðuneytisins</w>
+  <w>sem</w>
+  <w>settur</w>
+  <w>var</w>
+  <w>á</w>
+  <w>laggirnar</w>
+  <w>árið 2005</w>
+  <w>í</w>
+  <w>tilefni</w>
+  <w>af</w>
+  <w>30</w>
+  <w>ára</w>
+  <w>afmæli</w>
+  <w>kvennafrídagsins</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Tilgangur</w>
+  <w>sjóðsins</w>
+  <w>er</w>
+  <w>að</w>
+  <w>efla</w>
+  <w>kynjarannsóknir</w>
+  <w>og</w>
+  <w>stuðla</w>
+  <w>þannig</w>
+  <w>að</w>
+  <w>bættri</w>
+  <w>stöðu</w>
+  <w>kvenna</w>
+  <w>og</w>
+  <w>karla</w>
+  <w>og</w>
+  <w>framgangi</w>
+  <w>jafnréttis</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <revision id="6">
+    <original><w>Uppfært</w><w>klukkan 12</w><c>:</c><w>30</w><c>:</c></original>
+    <corrected><w>Frétt</w><w>var</w><w>uppfærð</w><w>klukkan 12:30</w><c>.</c></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+        <error xtype="colon4period" eid="0" />
+      </errors>
+  </revision>
+  <w>Ástæður</w>
+  <revision id="7">
+    <original><w>fyrir</w><w>því</w></original>
+    <corrected><w>þess</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>upphæðin</w>
+  <w>sem</w>
+  <w>veitt</w>
+  <w>er</w>
+  <w>í</w>
+  <w>styrkina</w>
+  <w>er</w>
+  <w>lægri</w>
+  <w>en</w>
+  <w>heildaruppæðin</w>
+  <w>sem</w>
+  <w>veitt</w>
+  <w>er</w>
+  <w>til</w>
+  <w>verkefnisins</w>
+  <w>alls</w>
+  <c>,</c>
+  <w>9,8</w>
+  <w>milljónir</w>
+  <w>og</w>
+  <w>auglýst</w>
+  <w>var</w>
+  <w>í</w>
+  <w>sumar</w>
+  <c>,</c>
+  <w>eru</w>
+  <w>meðal</w>
+  <w>annars</w>
+  <w>þær</w>
+  <w>að</w>
+  <w>af</w>
+  <w>þeirri</w>
+  <w>upphæð</w>
+  <w>er</w>
+  <w>einnig</w>
+  <w>greiddur</w>
+  <w>allur</w>
+  <w>kostnaður</w>
+  <w>við</w>
+  <w>sjóðinn</w>
+  <w>svo</w>
+  <w>sem</w>
+  <w>þóknun</w>
+  <w>til</w>
+  <w>formanns</w>
+  <c>,</c>
+  <w>auglýsingar</w>
+  <c>,</c>
+  <w>kostnaður</w>
+  <w>vegna</w>
+  <w>málþingsins</w>
+  <w>og</w>
+  <w>fleira</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>Samkvæmt</w>
+  <w>upplýsingum</w>
+  <w>frá</w>
+  <w>upplýsingafulltrúa</w>
+  <w>ríkisstjórnarinnar</w>
+  <c>,</c>
+  <w>Sigurði</w>
+  <w>Má</w>
+  <w>Jónssyni</w>
+  <c>,</c>
+  <w>hefur</w>
+  <w>það</w>
+  <w>aldrei</w>
+  <w>verið</w>
+  <revision id="8">
+    <original><w>þannig</w></original>
+    <corrected><w>svo</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>fjárveitingin</w>
+  <w>hafi</w>
+  <w>öll</w>
+  <w>farið</w>
+  <w>í</w>
+  <revision id="9">
+    <original><w>styrkina</w></original>
+    <corrected><w>styrki</w></corrected>
+      <errors>
+        <error xtype="def4ind" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="8">
+  <revision id="10">
+    <original><w>Það</w><w>er</w><w>meira</w><w>að</w><w>segja</w><w>svo</w><w>að</w></original>
+    <corrected><w>Auk</w><w>þess</w><w>var</w></corrected>
+      <errors>
+        <error xtype="wording" idx="10-1" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>fyrra</w>
+  <revision id="11">
+    <original><w>var</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="10-1" eid="0" />
+      </errors>
+  </revision>
+  <w>farið</w>
+  <w>örlítið</w>
+  <w>fram</w>
+  <w>úr</w>
+  <w>fjárveitingu</w>
+  <w>og</w>
+  <w>er</w>
+  <w>verið</w>
+  <w>að</w>
+  <w>jafna</w>
+  <revision id="12">
+    <original><w>það</w></original>
+    <corrected><w>þá</w><w>skekkju</w></corrected>
+      <errors>
+        <error xtype="pro4noun" eid="0" />
+      </errors>
+  </revision>
+  <w>núna</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

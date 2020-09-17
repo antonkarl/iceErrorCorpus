@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>visir-2014_10_375-t13.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <revision id="1">
-    <original><w><i>Ásmundur</i></w><w><i>Arnarsson</i></w></original>
+    <original><w><hi>Ásmundur</hi></w><w><hi>Arnarsson</hi></w></original>
     <corrected><w>Ásmundur</w><w>Arnarsson</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />

@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_10-t2.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Eli</w>
@@ -910,7 +922,7 @@
   <w>Árið 2008</w>
   <w>gerði</w>
   <w>tímaritið</w>
-  <w><i>Empire</i></w>
+  <w><hi>Empire</hi></w>
   <w>könnun</w>
   <w>um</w>
   <w>bestu</w>
@@ -918,9 +930,9 @@
   <w>allra</w>
   <w>tíma</w>
   <w>og</w>
-  <w><i>The</i></w>
-  <w><i>Royal</i></w>
-  <w><i>Tenenbaums</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Royal</hi></w>
+  <w><hi>Tenenbaums</hi></w>
   <w>lenti</w>
   <w>í</w>
   <w>159.</w>
@@ -1112,7 +1124,7 @@
   <w>bara</w>
   <revision id="71">
     <original><w>Tic</w><w>Tacs</w></original>
-    <corrected><w>sælgætið</w><w><i>Tic</i></w><w><i>Tacs</i></w></corrected>
+    <corrected><w>sælgætið</w><w><hi>Tic</hi></w><w><hi>Tacs</hi></w></corrected>
       <errors>
         <error xtype="missing-word" idx="54-1" eid="0"/>
         <error xtype="nonit4it" idx="54-2" eid="0"/>

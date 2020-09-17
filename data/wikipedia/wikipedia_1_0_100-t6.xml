@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_100-t6.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Skæri</w>
@@ -12,7 +24,7 @@
   <w>einnig</w>
   <c>,</c>
   <revision id="1">
-    <original><w><i>blað</i></w></original>
+    <original><w><hi>blað</hi></w></original>
     <corrected><w>blað</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -20,7 +32,7 @@
   </revision>
   <c>,</c>
   <revision id="2">
-    <original><w><i>skæri</i></w></original>
+    <original><w><hi>skæri</hi></w></original>
     <corrected><w>skæri</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -28,7 +40,7 @@
   </revision>
   <c>,</c>
   <revision id="3">
-    <original><w><i>steinn</i></w></original>
+    <original><w><hi>steinn</hi></w></original>
     <corrected><w>steinn</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -38,7 +50,7 @@
   <w>eða</w>
   <c>,</c>
   <revision id="4">
-    <original><w><i>steinn</i></w></original>
+    <original><w><hi>steinn</hi></w></original>
     <corrected><w>steinn</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -46,7 +58,7 @@
   </revision>
   <c>,</c>
   <revision id="5">
-    <original><w><i>skæri</i></w></original>
+    <original><w><hi>skæri</hi></w></original>
     <corrected><w>skæri</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -54,7 +66,7 @@
   </revision>
   <c>,</c>
   <revision id="6">
-    <original><w><i>pappír</i></w></original>
+    <original><w><hi>pappír</hi></w></original>
     <corrected><w>pappír</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -64,7 +76,7 @@
   <w>eða</w>
   <c>,</c>
   <revision id="7">
-    <original><w><i>steinn</i></w></original>
+    <original><w><hi>steinn</hi></w></original>
     <corrected><w>steinn</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -72,7 +84,7 @@
   </revision>
   <c>,</c>
   <revision id="8">
-    <original><w><i>skæri</i></w><w><i>blað</i></w></original>
+    <original><w><hi>skæri</hi></w><w><hi>blað</hi></w></original>
     <corrected><w>skæri</w><c>,</c><w>blað</w></corrected>
       <errors>
         <error xtype="missing-comma" eid="0" />
@@ -208,7 +220,7 @@
 </s>
 <s n="3">
   <revision id="18">
-    <original><w><i>Steinn</i></w></original>
+    <original><w><hi>Steinn</hi></w></original>
     <corrected><c>„</c><w>Steinn</w></corrected>
       <errors>
         <error xtype="missing-quot" eid="0" />
@@ -217,7 +229,7 @@
   </revision>
   <c>,</c>
   <revision id="19">
-    <original><w><i>skæri</i></w></original>
+    <original><w><hi>skæri</hi></w></original>
     <corrected><w>skæri</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -225,7 +237,7 @@
   </revision>
   <c>,</c>
   <revision id="20">
-    <original><w><i>blað</i></w></original>
+    <original><w><hi>blað</hi></w></original>
     <corrected><w>blað</w><c>“</c></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -292,7 +304,7 @@
   <w>og</w>
   <w>telja</w>
   <revision id="24">
-    <original><w><i>blað</i></w></original>
+    <original><w><hi>blað</hi></w></original>
     <corrected><w>upphátt</w><c>„</c><w>blað</w></corrected>
       <errors>
         <error xtype="missing-word" eid="0" />
@@ -302,7 +314,7 @@
   </revision>
   <c>,</c>
   <revision id="25">
-    <original><w><i>skæri</i></w></original>
+    <original><w><hi>skæri</hi></w></original>
     <corrected><w>skæri</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -310,7 +322,7 @@
   </revision>
   <c>,</c>
   <revision id="26">
-    <original><w><i>steinn</i></w><c>.</c></original>
+    <original><w><hi>steinn</hi></w><c>.</c></original>
     <corrected><w>steinn</w><c>“</c></corrected>
       <errors>
         <error xtype="missing-quot"  idx="26-1" eid="0" />

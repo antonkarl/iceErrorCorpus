@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_8-t9.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Mön</w>
@@ -92,7 +104,7 @@
   <w>eyjarinnar</w>
   <w>eru</w>
   <w>nefndir</w>
-  <w><i>Manverjar</i></w>
+  <w><hi>Manverjar</hi></w>
   <w>á</w>
   <w>íslensku</w>
   <c>.</c>
@@ -310,8 +322,8 @@
   <w>á</w>
   <w>mönsku</w>
   <w>er</w>
-  <w><i>Ellan</i></w>
-  <w><i>Vannin</i></w>
+  <w><hi>Ellan</hi></w>
+  <w><hi>Vannin</hi></w>
   <c>.</c>
 </s>
 <s n="21">
@@ -322,7 +334,7 @@
         <error xtype="missing-quots" idx="2-1" eid="0" />
       </errors>
   </revision>
-  <w><i>Ellan</i></w>
+  <w><hi>Ellan</hi></w>
   <revision id="3">
     <original></original>
     <corrected><c>‘</c></corrected>
@@ -354,7 +366,7 @@
         <error xtype="missing-quots" idx="6-1" eid="0" />
       </errors>
   </revision>
-  <w><i>Vannin</i></w>
+  <w><hi>Vannin</hi></w>
   <revision id="7">
     <original></original>
     <corrected><c>‘</c></corrected>
@@ -372,7 +384,7 @@
         <error xtype="missing-quots" idx="8-1" eid="0" />
       </errors>
   </revision>
-  <w><i>Manu</i></w>
+  <w><hi>Manu</hi></w>
   <revision id="9">
     <original></original>
     <corrected><c>‘</c></corrected>
@@ -388,7 +400,7 @@
         <error xtype="missing-quots" idx="10-1" eid="0" />
       </errors>
   </revision>
-  <w><i>Mana</i></w>
+  <w><hi>Mana</hi></w>
   <revision id="11">
     <original></original>
     <corrected><c>‘</c></corrected>
@@ -412,7 +424,7 @@
         <error xtype="missing-quots" eid="0" />
       </errors>
   </revision>
-  <w><i>Manu</i></w>
+  <w><hi>Manu</hi></w>
   <revision id="13">
     <original></original>
     <corrected><c>‘</c></corrected>
@@ -428,7 +440,7 @@
         <error xtype="missing-quot" eid="0" />
       </errors>
   </revision>
-  <w><i>Mana</i></w>
+  <w><hi>Mana</hi></w>
   <revision id="15">
     <original></original>
     <corrected><c>‘</c></corrected>
@@ -474,8 +486,8 @@
   <w>á</w>
   <w>Anglesey</w>
   <c>,</c>
-  <w><i>Ynys</i></w>
-  <w><i>Môn</i></w>
+  <w><hi>Ynys</hi></w>
+  <w><hi>Môn</hi></w>
   <c>.</c>
 </s>
 <s n="25">
@@ -488,7 +500,7 @@
         <error xtype="missing-quot" eid="0" />
       </errors>
   </revision>
-  <w><i>mynydd</i></w>
+  <w><hi>mynydd</hi></w>
   <revision id="17">
     <original></original>
     <corrected><c>‘</c></corrected>
@@ -506,7 +518,7 @@
         <error xtype="missing-quot" eid="0" />
       </errors>
   </revision>
-  <w><i>menez</i></w>
+  <w><hi>menez</hi></w>
   <revision id="19">
     <original></original>
     <corrected><c>‘</c></corrected>
@@ -524,7 +536,7 @@
         <error xtype="missing-quot" eid="0" />
       </errors>
   </revision>
-  <w><i>monadh</i></w>
+  <w><hi>monadh</hi></w>
   <revision id="21">
     <original></original>
     <corrected><c>‘</c></corrected>
@@ -579,23 +591,23 @@
   <w>hún</w>
   <w>er</w>
   <w>kölluð</w>
-  <w><i>Mona</i></w>
+  <w><hi>Mona</hi></w>
   <c>,</c>
-  <w><i>Monapia</i></w>
+  <w><hi>Monapia</hi></w>
   <c>,</c>
   <w>Mοναοιδα</w>
   <c>(</c>
-  <w><i>Monaoida</i></w>
+  <w><hi>Monaoida</hi></w>
   <c>)</c>
   <c>,</c>
   <w>Mοναρινα</w>
   <c>(</c>
-  <w><i>Monarina</i></w>
+  <w><hi>Monarina</hi></w>
   <c>)</c>
   <c>,</c>
-  <w><i>Menavi</i></w>
+  <w><hi>Menavi</hi></w>
   <w>og</w>
-  <w><i>Mevania</i></w>
+  <w><hi>Mevania</hi></w>
   <c>.</c>
 </s>
 <s n="27">
@@ -603,9 +615,9 @@
   <w>höfundar</w>
   <w>nefndu</w>
   <w>hana</w>
-  <w><i>Eubonia</i></w>
+  <w><hi>Eubonia</hi></w>
   <w>eða</w>
-  <w><i>Eumonia</i></w>
+  <w><hi>Eumonia</hi></w>
   <w>á</w>
   <w>latínu</w>
   <c>,</c>
@@ -616,13 +628,13 @@
   <w>hún</w>
   <w>fyrir</w>
   <w>sem</w>
-  <w><i>Manaw</i></w>
+  <w><hi>Manaw</hi></w>
   <w>og</w>
   <w>í</w>
   <w>norrænum</w>
   <w>ritum</w>
   <w>sem</w>
-  <w><i>Mön</i></w>
+  <w><hi>Mön</hi></w>
   <c>.</c>
 </s>
 <s n="28">

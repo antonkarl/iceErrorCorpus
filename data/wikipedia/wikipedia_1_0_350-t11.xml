@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_350-t11.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Benedetto</w>
@@ -103,12 +115,12 @@
   <w>Croce</w>
   <w>má</w>
   <w>telja</w>
-  <w><i>Breviario</i></w>
-  <w><i>di</i></w>
-  <w><i>estetica</i></w>
+  <w><hi>Breviario</hi></w>
+  <w><hi>di</hi></w>
+  <w><hi>estetica</hi></w>
   <c>(</c>
-  <w><i>Kjarni</i></w>
-  <w><i>fagurfræðinnar</i></w>
+  <w><hi>Kjarni</hi></w>
+  <w><hi>fagurfræðinnar</hi></w>
   <c>)</c>
   <c>,</c>
   <w>lítið</w>

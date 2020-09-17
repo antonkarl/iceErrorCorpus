@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Real</w>
+  <w>Madrid</w>
+  <w>mun</w>
+  <w>líklega</w>
+  <w>ekki</w>
+  <w>geta</w>
+  <w>stillt</w>
+  <w>upp</w>
+  <w>sínu</w>
+  <w>allra</w>
+  <w>besta</w>
+  <w>liði</w>
+  <w>gegn</w>
+  <w>Liverpool</w>
+  <w>í</w>
+  <revision id="1">
+    <original><w>Meistaradeildinni</w></original>
+    <corrected><w>meistaradeildinni</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>miðvikudag</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Dýrasti</w>
+  <w>leikmaður</w>
+  <w>heims</w>
+  <c>,</c>
+  <w>Gareth</w>
+  <w>Bale</w>
+  <c>,</c>
+  <revision id="2">
+    <original><w>er</w><w>að</w><w>glíma</w></original>
+    <corrected><w>glímir</w></corrected>
+      <errors>
+        <error xtype="cont4simple" eid="0" />
+      </errors>
+  </revision>
+  <w>við</w>
+  <w>meiðsli</w>
+  <w>í</w>
+  <w>læri</w>
+  <w>og</w>
+  <w>verður</w>
+  <w>líklega</w>
+  <w>ekki</w>
+  <w>með</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <revision id="3">
+    <original><w>Hann</w></original>
+    <corrected><w>Bale</w></corrected>
+      <errors>
+        <error xtype="pro4noun" eid="0" />
+      </errors>
+  </revision>
+  <w>gat</w>
+  <w>ekki</w>
+  <w>spilað</w>
+  <w>um</w>
+  <w>helgina</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Hann</w>
+  <w>er</w>
+  <w>í</w>
+  <w>stífri</w>
+  <w>meðferð</w>
+  <w>hjá</w>
+  <w>sjúkraþjálfurum</w>
+  <w>félagsins</w>
+  <w>og</w>
+  <w>það</w>
+  <w>mun</w>
+  <w>ekki</w>
+  <w>skýrast</w>
+  <w>fyrr</w>
+  <w>en</w>
+  <w>á</w>
+  <w>leikdegi</w>
+  <w>hvort</w>
+  <revision id="4">
+    <original><w>Bale</w></original>
+    <corrected><w>hann</w></corrected>
+      <errors>
+        <error xtype="noun4pro" eid="0" />
+      </errors>
+  </revision>
+  <w>geti</w>
+  <revision id="5">
+    <original></original>
+    <corrected><w>yfir</w><w>höfuð</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <w>spilað</w>
+  <revision id="6">
+    <original></original>
+    <corrected><w>með</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Þetta</w>
+  <w>er</w>
+  <w>stór</w>
+  <w>vika</w>
+  <w>hjá</w>
+  <w>Real</w>
+  <w>því</w>
+  <w>um</w>
+  <w>næstu</w>
+  <w>helgi</w>
+  <w>á</w>
+  <w>liðið</w>
+  <w>leik</w>
+  <w>gegn</w>
+  <w>Barcelona</w>
+  <w>í</w>
+  <w>deildinni</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

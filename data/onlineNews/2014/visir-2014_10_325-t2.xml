@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>visir-2014_10_325-t2.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Íslenska</w>
   <w>hrollvekjan</w>
   <revision id="1">
     <original><w>Grafir</w></original>
-    <corrected><w><i>Grafir</i></w></corrected>
+    <corrected><w><hi>Grafir</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -15,7 +27,7 @@
   <c>&amp;</c>
   <revision id="2">
     <original><w>bein</w></original>
-    <corrected><w><i>bein</i></w></corrected>
+    <corrected><w><hi>bein</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -63,7 +75,7 @@
 <s n="4">
   <revision id="3">
     <original><w>Grafir</w></original>
-    <corrected><w><i>Grafir</i></w></corrected>
+    <corrected><w><hi>Grafir</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -71,7 +83,7 @@
   <c>&amp;</c>
   <revision id="4">
     <original><w>bein</w></original>
-    <corrected><w><i>bein</i></w></corrected>
+    <corrected><w><hi>bein</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -189,7 +201,7 @@
 <s n="9">
   <revision id="6">
     <original><w>Húsið</w></original>
-    <corrected><w><i>Húsið</i></w></corrected>
+    <corrected><w><hi>Húsið</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -296,7 +308,7 @@
 <s n="13">
   <revision id="9">
     <original><w>Draugasaga</w></original>
-    <corrected><w><i>Draugasaga</i></w></corrected>
+    <corrected><w><hi>Draugasaga</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -385,7 +397,7 @@
 <s n="17">
   <revision id="11">
     <original><w>Djákninn</w></original>
-    <corrected><w><i>Djákninn</i></w></corrected>
+    <corrected><w><hi>Djákninn</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -457,7 +469,7 @@
 <s n="20">
   <revision id="13">
     <original><w>Frost</w></original>
-    <corrected><w><i>Frost</i></w></corrected>
+    <corrected><w><hi>Frost</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>

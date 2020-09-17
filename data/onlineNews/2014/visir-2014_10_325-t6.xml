@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>visir-2014_10_325-t6.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Hörður</w>
@@ -25,7 +37,7 @@
   <w>BC</w>
   <revision id="3">
     <original><w>á</w><w>Basketball</w><w>Löven</w><w>Braunschweig</w></original>
-    <corrected><w>sigraði</w><w><i>Basketball</i></w><w><i>Löven</i></w><w><i>Braunschweig</i></w></corrected>
+    <corrected><w>sigraði</w><w><hi>Basketball</hi></w><w><hi>Löven</hi></w><w><hi>Braunschweig</hi></w></corrected>
       <errors>
         <error xtype="dep" depId="2-1" eid="0"/>
         <error xtype="nonit4it" idx="3-1" eid="0"/>

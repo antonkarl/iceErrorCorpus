@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Leitin</w>
+  <w>að</w>
+  <w>ísbirninum</w>
+  <w>kemur</w>
+  <w>í</w>
+  <w>staðinn</w>
+  <w>fyrir</w>
+  <w>æfingaflug</w>
+  <w>hjá</w>
+  <w>þyrlu</w>
+  <w>Landhelgisgæslunnar</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Því</w>
+  <w>bætist</w>
+  <w>í</w>
+  <w>raun</w>
+  <w>ekkert</w>
+  <w>við</w>
+  <w>kostnað</w>
+  <w>gæslunnar</w>
+  <w>þó</w>
+  <revision id="0">
+    <original></original>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
+  <w>þyrlan</w>
+  <w>hafi</w>
+  <w>flogið</w>
+  <w>í</w>
+  <w>um</w>
+  <w>13</w>
+  <w>klukkustundir</w>
+  <revision id="1">
+    <original><w>allt</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <revision id="2">
+    <original><w>allt</w></original>
+    <corrected><w>heild</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>leit</w>
+  <w>að</w>
+  <w>birninum</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Þetta</w>
+  <w>segir</w>
+  <w>Hrafnhildur</w>
+  <w>Brynja</w>
+  <w>Stefánsdóttir</w>
+  <c>,</c>
+  <w>upplýsingafulltrúi</w>
+  <w>Landhelgisgæslunnar</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Eins</w>
+  <w>og</w>
+  <w>gefur</w>
+  <w>að</w>
+  <w>skilja</w>
+  <w>er</w>
+  <w>mikill</w>
+  <w>kostnaður</w>
+  <w>við</w>
+  <w>leit</w>
+  <revision id="3">
+    <original><w>að</w></original>
+    <corrected><w>af</w></corrected>
+      <errors>
+        <error xtype="að4af" idx="3-1" eid="0" />
+        <error xtype="collocation" idx="3-1" eid="0" />
+      </errors>
+  </revision>
+  <w>þessum</w>
+  <w>toga</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <c>„</c>
+  <w>Þegar</w>
+  <w>gæslan</w>
+  <w>leigir</w>
+  <w>út</w>
+  <w>þyrlu</w>
+  <w>sína</w>
+  <revision id="4">
+    <original><w>er</w></original>
+    <corrected><w>eru</w></corrected>
+      <errors>
+        <error xtype="agreement-pred" eid="0" />
+      </errors>
+  </revision>
+  <w>yfirleitt</w>
+  <revision id="5">
+    <original><w>rukkað</w></original>
+    <corrected><w>rukkaðar</w></corrected>
+      <errors>
+        <error xtype="agreement-pred" eid="0" />
+      </errors>
+  </revision>
+  <w>um</w>
+  <w>650 þúsund krónur</w>
+  <w>fyrir</w>
+  <w>klukkutímann</w>
+  <c>,</c>
+  <revision id="6">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
+  <w>segir</w>
+  <w>Hrafnhildur</w>
+  <w>en</w>
+  <w>tekur</w>
+  <w>fram</w>
+  <w>að</w>
+  <w>sjaldgæft</w>
+  <w>sé</w>
+  <w>að</w>
+  <w>þyrlan</w>
+  <w>sé</w>
+  <w>leigð</w>
+  <w>út</w>
+  <w>með</w>
+  <w>þeim</w>
+  <w>hætti</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Hins</w>
+  <w>vegar</w>
+  <w>mun</w>
+  <w>kostnaðurinn</w>
+  <w>í</w>
+  <w>þetta</w>
+  <w>sinn</w>
+  <w>vegast</w>
+  <w>upp</w>
+  <w>á</w>
+  <w>móti</w>
+  <w>kostnaði</w>
+  <w>sem</w>
+  <w>annars</w>
+  <w>hefði</w>
+  <w>orðið</w>
+  <w>af</w>
+  <w>æfingaflugi</w>
+  <w>gæslunnar</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <c>„</c>
+  <w>Það</w>
+  <w>bætist</w>
+  <w>í</w>
+  <revision id="7">
+    <original><w>rauninni</w></original>
+    <corrected><w>raun</w></corrected>
+      <errors>
+        <error xtype="def4ind" eid="0" />
+      </errors>
+  </revision>
+  <w>ekkert</w>
+  <w>við</w>
+  <w>kostnað</w>
+  <w>gæslunnar</w>
+  <c>,</c>
+  <revision id="8">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
+  <w>segir</w>
+  <w>Hrafnhildur</w>
+  <c>.</c>
+</s>
+<s n="8">
+  <c>„</c>
+  <w>Þetta</w>
+  <w>flug</w>
+  <w>nýtist</w>
+  <revision id="9">
+    <original><w>bara</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <revision id="10">
+    <original><w>þjálfuninni</w></original>
+    <corrected><w>þjálfunina</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
+  <w>hjá</w>
+  <w>gæslunni</w>
+  <w>og</w>
+  <w>satt</w>
+  <w>að</w>
+  <w>segja</w>
+  <w>er</w>
+  <w>hið</w>
+  <w>besta</w>
+  <w>mál</w>
+  <w>að</w>
+  <revision id="11">
+    <original><w>þeir</w></original>
+    <corrected><w>þau</w></corrected>
+      <errors>
+        <error xtype="agreement-pro" eid="0" />
+      </errors>
+  </revision>
+  <w>fái</w>
+  <w>raunverulegt</w>
+  <w>verkefni</w>
+  <w>að</w>
+  <w>kljást</w>
+  <w>við</w>
+  <c>.</c>
+  <revision id="12">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
+</s>
+<s n="9">
+  <w>Á</w>
+  <w>móti</w>
+  <w>mun</w>
+  <w>æfingaflug</w>
+  <w>gæslunnar</w>
+  <w>styttast</w>
+  <w>sem</w>
+  <w>nemur</w>
+  <w>þeim</w>
+  <w>tíma</w>
+  <w>sem</w>
+  <w>hefur</w>
+  <w>farið</w>
+  <w>í</w>
+  <w>leitina</w>
+  <w>að</w>
+  <w>birninum</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_20-t0.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Unglingarnir</w>
@@ -74,7 +86,7 @@
   <w>plötuna</w>
   <revision id="3">
     <original><w>Gives</w><w>You</w><w>Hell</w></original>
-    <corrected><w><i>Gives</i></w><w><i>You</i></w><w><i>Hell</i></w></corrected>
+    <corrected><w><hi>Gives</hi></w><w><hi>You</hi></w><w><hi>Hell</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -185,7 +197,7 @@
   <c>,</c>
   <revision id="9">
     <original><w>Homesick</w></original>
-    <corrected><w><i>Homesick</i></w><c>,</c></corrected>
+    <corrected><w><hi>Homesick</hi></w><c>,</c></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
         <error xtype="missing-comma" eid="0"/>
@@ -318,7 +330,7 @@
   <w>Green</w>
   <revision id="17">
     <original><w>Day</w><w>plötunni</w><w>American</w><w>Idiot</w></original>
-    <corrected><w>Day-plötunni</w><w><i>American</i></w><w><i>Idiot</i></w></corrected>
+    <corrected><w>Day-plötunni</w><w><hi>American</hi></w><w><hi>Idiot</hi></w></corrected>
       <errors>
         <error xtype="missing-dash" eid="0"/>
         <error xtype="nonit4it" eid="0"/>
@@ -365,7 +377,7 @@
   <w>plötuna</w>
   <revision id="18">
     <original><w>Folie</w><w>á</w><w>Deux</w></original>
-    <corrected><w><i>Folie</i></w><w><i>á</i></w><w><i>Deux</i></w></corrected>
+    <corrected><w><hi>Folie</hi></w><w><hi>á</hi></w><w><hi>Deux</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -732,7 +744,7 @@
   <c>,</c>
   <revision id="29">
     <original><w>Man</w><w>Overboard</w></original>
-    <corrected><w><i>Man</i></w><w><i>Overboard</i></w></corrected>
+    <corrected><w><hi>Man</hi></w><w><hi>Overboard</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -916,7 +928,7 @@
   <c>,</c>
   <revision id="35">
     <original><w>The</w><w>Black</w><w>Parade</w></original>
-    <corrected><w><i>The</i></w><w><i>Black</i></w><w><i>Parade</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Black</hi></w><w><hi>Parade</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -931,7 +943,7 @@
   <w>platan</w>
   <revision id="36">
     <original><w>Move</w><w>Along</w></original>
-    <corrected><w><i>Move</i></w><w><i>Along</i></w></corrected>
+    <corrected><w><hi>Move</hi></w><w><hi>Along</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -948,7 +960,7 @@
   <w>með</w>
   <w>plötunni</w>
   <w>sinni</w>
-  <w><i>Nevermind</i></w>
+  <w><hi>Nevermind</hi></w>
   <c>.</c>
 </s><s n="37">
   <w>Á</w>
@@ -1055,7 +1067,7 @@
   <c>(</c>
   <revision id="39">
     <original><w>emo</w><c>,</c><w>scream</w></original>
-    <corrected><w><i>emo</i></w><w>og</w><w><i>scream</i></w></corrected>
+    <corrected><w><hi>emo</hi></w><w>og</w><w><hi>scream</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
         <error xtype="comma4conjunction" eid="0"/>
@@ -1173,7 +1185,7 @@
   <c>,</c>
   <revision id="43">
     <original><w>The</w><w>Best</w><w>Damn</w><w>Thing</w></original>
-    <corrected><w><i>The</i></w><w><i>Best</i></w><w><i>Damn</i></w><w><i>Thing</i></w><c>,</c></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Best</hi></w><w><hi>Damn</hi></w><w><hi>Thing</hi></w><c>,</c></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
         <error xtype="missing-comma" eid="0"/>
@@ -1582,7 +1594,7 @@
   <w>nafnið</w>
   <revision id="53">
     <original><w>Save</w><w>Rock</w><w>And</w><w>Roll</w></original>
-    <corrected><w><i>Save</i></w><w><i>Rock</i></w><w><i>And</i></w><w><i>Roll</i></w></corrected>
+    <corrected><w><hi>Save</hi></w><w><hi>Rock</hi></w><w><hi>And</hi></w><w><hi>Roll</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -1641,7 +1653,7 @@
   <c>,</c>
   <revision id="54">
     <original><w>From</w><w>Under</w><w>The</w><w>Cork</w><w>Tree</w></original>
-    <corrected><w><i>From</i></w><w><i>Under</i></w><w><i>The</i></w><w><i>Cork</i></w><w><i>Tree</i></w></corrected>
+    <corrected><w><hi>From</hi></w><w><hi>Under</hi></w><w><hi>The</hi></w><w><hi>Cork</hi></w><w><hi>Tree</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -1917,7 +1929,7 @@
   <c>,</c>
   <revision id="68">
     <original><w>Mutiny</w><c>!</c></original>
-    <corrected><w><i>Mutiny</i></w><c><i>!</i></c><c>,</c></corrected>
+    <corrected><w><hi>Mutiny</hi></w><c><hi>!</hi></c><c>,</c></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
         <error xtype="missing-comma" eid="0"/>
@@ -1936,7 +1948,7 @@
   <c>,</c>
   <revision id="69">
     <original><w>Rise</w><w>Or</w><w>Die</w><w>Trying</w></original>
-    <corrected><w><i>Rise</i></w><w><i>Or</i></w><w><i>Die</i></w><w><i>Trying</i></w></corrected>
+    <corrected><w><hi>Rise</hi></w><w><hi>Or</hi></w><w><hi>Die</hi></w><w><hi>Trying</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -2020,7 +2032,7 @@
   <w>e.</w>
   <revision id="71">
     <original><c>"</c><w>emo</w><w>rock</w><c>"</c></original>
-    <corrected><w><i>emo</i></w><w><i>rock</i></w></corrected>
+    <corrected><w><hi>emo</hi></w><w><hi>rock</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="1-1" eid="0"/>
         <error xtype="nonit4it" idx="1-1" eid="0"/>
@@ -2062,7 +2074,7 @@
   <w>orðið</w>
   <revision id="72">
     <original><c>„</c><w>emo</w><c>“</c></original>
-    <corrected><c>‚</c><w><i>emo</i></w><c>‘</c></corrected>
+    <corrected><c>‚</c><w><hi>emo</hi></w><c>‘</c></corrected>
       <errors>
         <error xtype="wrong-quots" idx="2-1" eid="0"/>
         <error xtype="nonit4it" idx="2-1" eid="0"/>
@@ -2208,7 +2220,7 @@
   <c>,</c>
   <revision id="76">
     <original><w>Enemy</w><w>Of</w><w>The</w><w>World</w></original>
-    <corrected><w><i>Enemy</i></w><w><i>Of</i></w><w><i>The</i></w><w><i>World</i></w><c>,</c></corrected>
+    <corrected><w><hi>Enemy</hi></w><w><hi>Of</hi></w><w><hi>The</hi></w><w><hi>World</hi></w><c>,</c></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
         <error xtype="missing-comma" eid="0"/>
@@ -2235,8 +2247,8 @@
   <w>sína</w>
   <w>aðra</w>
   <w>plötu</w>
-  <w><i>en</i></w>
-  <w><i>Arcade</i></w>
+  <w><hi>en</hi></w>
+  <w><hi>Arcade</hi></w>
   <c>.</c>
 </s><s n="93">
   <w>Fyrstu</w>
@@ -2299,7 +2311,7 @@
   <c>,</c>
   <revision id="79">
     <original><w>Move</w><w>Along</w></original>
-    <corrected><w><i>Move</i></w><w><i>Along</i></w></corrected>
+    <corrected><w><hi>Move</hi></w><w><hi>Along</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -2517,7 +2529,7 @@
   <c>,</c>
   <revision id="89">
     <original><w>Radiosurgery</w></original>
-    <corrected><w><i>Radiosurgery</i></w><c>,</c></corrected>
+    <corrected><w><hi>Radiosurgery</hi></w><c>,</c></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
         <error xtype="missing-comma" eid="0"/>
@@ -2601,7 +2613,7 @@
   <c>,</c>
   <revision id="91">
     <original><w>This</w><w>Will</w><w>Be</w><w>The</w><w>Death</w><w>Of</w><w>Us</w></original>
-    <corrected><w><i>This</i></w><w><i>Will</i></w><w><i>Be</i></w><w><i>The</i></w><w><i>Death</i></w><w><i>Of</i></w><w><i>Us</i></w><c>,</c></corrected>
+    <corrected><w><hi>This</hi></w><w><hi>Will</hi></w><w><hi>Be</hi></w><w><hi>The</hi></w><w><hi>Death</hi></w><w><hi>Of</hi></w><w><hi>Us</hi></w><c>,</c></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
         <error xtype="missing-comma" eid="0"/>
@@ -3083,7 +3095,7 @@
   <w>plötuna</w>
   <revision id="109">
     <original><w>Pretty</w><c>.</c><w>Odd</w><c>.</c></original>
-    <corrected><w><i>Pretty.</i></w><w><i>Odd.</i></w></corrected>
+    <corrected><w><hi>Pretty.</hi></w><w><hi>Odd.</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -3116,7 +3128,7 @@
   <w>plötuna</w>
   <revision id="110">
     <original><w>A</w><w>Fever</w><w>You</w><w>Can't</w><w>Sweat</w><w>Out</w></original>
-    <corrected><w><i>A</i></w><w><i>Fever</i></w><w><i>You</i></w><w><i>Can't</i></w><w><i>Sweat</i></w><w><i>Out</i></w></corrected>
+    <corrected><w><hi>A</hi></w><w><hi>Fever</hi></w><w><hi>You</hi></w><w><hi>Can't</hi></w><w><hi>Sweat</hi></w><w><hi>Out</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

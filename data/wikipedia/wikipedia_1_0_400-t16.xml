@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_400-t16.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Pixar</w>
@@ -12,9 +24,9 @@
         <error xtype="missing-bracket" idx="1-2" eid="0" />
       </errors>
   </revision>
-  <w><i>Pixar</i></w>
-  <w><i>Animation</i></w>
-  <w><i>Studios</i></w>
+  <w><hi>Pixar</hi></w>
+  <w><hi>Animation</hi></w>
+  <w><hi>Studios</hi></w>
   <revision id="2">
     <original></original>
     <corrected><c>)</c></corrected>
@@ -36,7 +48,7 @@
   <w>fyrirtækisins</w>
   <revision id="3">
     <original><w>Leikfangasaga</w></original>
-    <corrected><c>,</c><w><i>Leikfangasaga</i></w><c>,</c></corrected>
+    <corrected><c>,</c><w><hi>Leikfangasaga</hi></w><c>,</c></corrected>
       <errors>
         <error xtype="missing-commas" idx="3-1" eid="0" />
         <error xtype="nonit4it" idx="3-2" eid="0" />
@@ -118,7 +130,7 @@
   <w>stuttmyndina</w>
   <revision id="6">
     <original><w>André</w></original>
-    <corrected><w><i>André</i></w></corrected>
+    <corrected><w><hi>André</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -126,7 +138,7 @@
   <c>&amp;</c>
   <revision id="7">
     <original><w>Wally</w><w>B.</w></original>
-    <corrected><w><i>Wally</i></w><w><i>B</i></w><c>.</c></corrected>
+    <corrected><w><hi>Wally</hi></w><w><hi>B</hi></w><c>.</c></corrected>
       <errors>
         <error xtype="nonit4it" idx="7-1" eid="0" />
         <error xtype="missing-period" idx="7-2" eid="0" />
@@ -238,7 +250,7 @@
   <w>við</w>
   <revision id="11">
     <original><c>,,</c><w>Harry</w><w>Potter</w></original>
-    <corrected><w><i>Harry</i></w><w><i>Potter</i></w></corrected>
+    <corrected><w><hi>Harry</hi></w><w><hi>Potter</hi></w></corrected>
       <errors>
         <error xtype="extra-commas" idx="11-1" eid="0" />
         <error xtype="nonit4it" idx="11-2" eid="0" />
@@ -247,7 +259,7 @@
   <w>og</w>
   <revision id="12">
     <original><w>Árásin</w><w>á</w><w>Perluhöfn</w></original>
-    <corrected><w><i>Árásin</i></w><w><i>á</i></w><w><i>Perluhöfn</i></w></corrected>
+    <corrected><w><hi>Árásin</hi></w><w><hi>á</hi></w><w><hi>Perluhöfn</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -260,8 +272,8 @@
   <w>Pixar</w>
   <w>út</w>
   <w>stuttmyndina</w>
-  <w><i>Luxo</i></w>
-  <w><i>Jr.</i></w>
+  <w><hi>Luxo</hi></w>
+  <w><hi>Jr.</hi></w>
   <c>.</c>
 </s>
 <s n="10">
@@ -315,7 +327,7 @@
   <w>stuttmyndin</w>
   <revision id="15">
     <original><w>Red´s</w><w>Dream</w></original>
-    <corrected><w><i>Red´s</i></w><w><i>Dream</i></w></corrected>
+    <corrected><w><hi>Red´s</hi></w><w><hi>Dream</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -323,8 +335,8 @@
   <w>og</w>
   <w>í</w>
   <w>kjölfarið</w>
-  <w><i>Tin</i></w>
-  <w><i>Toy</i></w>
+  <w><hi>Tin</hi></w>
+  <w><hi>Toy</hi></w>
   <w>sem</w>
   <revision id="16">
     <original><w>að</w></original>
@@ -389,8 +401,8 @@
   </revision>
   <w>bar</w>
   <w>nafnið</w>
-  <w><i>Kick</i></w>
-  <w><i>Knack</i></w>
+  <w><hi>Kick</hi></w>
+  <w><hi>Knack</hi></w>
   <c>.</c>
 </s>
 <s n="14">
@@ -404,7 +416,7 @@
         <error xtype="missing-commas" idx="21-1" eid="0" />
       </errors>
   </revision>
-  <w><i>Leikfangasaga</i></w>
+  <w><hi>Leikfangasaga</hi></w>
   <revision id="22">
     <original></original>
     <corrected><c>,</c></corrected>
@@ -431,7 +443,7 @@
   <w>stuttmyndin</w>
   <revision id="23">
     <original><w>Tin</w><w>Toy</w></original>
-    <corrected><w><i>Tin</i></w><w><i>Toy</i></w></corrected>
+    <corrected><w><hi>Tin</hi></w><w><hi>Toy</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -510,7 +522,7 @@
   <w>kom</w>
   <w>út</w>
   <w>kvikmyndin</w>
-  <w><i>Pöddulíf</i></w>
+  <w><hi>Pöddulíf</hi></w>
   <c>.</c>
 </s>
 <s n="18">
@@ -521,7 +533,7 @@
   <w>stuttmyndin</w>
   <revision id="28">
     <original><w>Geri´s</w><w>Game</w></original>
-    <corrected><w><i>Geri´s</i></w><w><i>Game</i></w></corrected>
+    <corrected><w><hi>Geri´s</hi></w><w><hi>Game</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -552,14 +564,14 @@
   <w>kom</w>
   <w>út</w>
   <w>framhaldsmyndin</w>
-  <w><i>Leikfangasaga</i></w>
-  <w><i></i></w>
+  <w><hi>Leikfangasaga</hi></w>
+  <w><hi></hi></w>
   <w>2Z</w>
   <c>.</c>
 </s>
 <s n="20">
-  <w><i>Skrímsli</i></w>
-  <w><i>hf.</i></w>
+  <w><hi>Skrímsli</hi></w>
+  <w><hi>hf.</hi></w>
   <w>var</w>
   <revision id="31">
     <original><w>útgefin</w></original>
@@ -604,12 +616,12 @@
   <c>.</c>
 </s>
 <s n="22">
-  <w><i>Leitin</i></w>
-  <w><i>að</i></w>
-  <w><i>Nemo</i></w>
+  <w><hi>Leitin</hi></w>
+  <w><hi>að</hi></w>
+  <w><hi>Nemo</hi></w>
   <w>og</w>
-  <w><i>Hinir</i></w>
-  <w><i>ótrúlegu</i></w>
+  <w><hi>Hinir</hi></w>
+  <w><hi>ótrúlegu</hi></w>
   <w>komu</w>
   <w>út</w>
   <w>á</w>
@@ -618,7 +630,7 @@
   <w>árum</w>
   <w>og</w>
   <w>kvikmyndin</w>
-  <w><i>Bílar</i></w>
+  <w><hi>Bílar</hi></w>
   <w>fylgdi</w>
   <w>í</w>
   <w>kjölfarið</w>
@@ -925,7 +937,7 @@
   <w>framleiða</w>
   <revision id="54">
     <original><w>Leikfangasögu</w><w>3</w></original>
-    <corrected><w><i>Leikfangasögu</i></w><w><i>3</i></w></corrected>
+    <corrected><w><hi>Leikfangasögu</hi></w><w><hi>3</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1026,7 +1038,7 @@
 <s n="33">
   <w>2007</w>
   <w>var</w>
-  <w><i>Ratatouille</i></w>
+  <w><hi>Ratatouille</hi></w>
   <w>gefin</w>
   <w>út</w>
   <c>.</c>
@@ -1097,7 +1109,7 @@
   <w>Ári</w>
   <w>síðar</w>
   <w>kom</w>
-  <w><i>Wall-E</i></w>
+  <w><hi>Wall-E</hi></w>
   <w>út</w>
   <w>sem</w>
   <w>var</w>
@@ -1180,7 +1192,7 @@
   <w>var</w>
   <revision id="70">
     <original><w>Up</w></original>
-    <corrected><w><i>Up</i></w></corrected>
+    <corrected><w><hi>Up</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1255,7 +1267,7 @@
   <w>var</w>
   <revision id="76">
     <original><w>Leikfangasaga</w><w>3</w></original>
-    <corrected><w><i>Leikfangasaga</i></w><w><i>3</i></w></corrected>
+    <corrected><w><hi>Leikfangasaga</hi></w><w><hi>3</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1422,7 +1434,7 @@
   <w>að</w>
   <revision id="88">
     <original><w>Leikfangasögu</w><c>,</c><w>leikara</w><w>The</w><w>Wire</w></original>
-    <corrected><w><i>Leikfangasögu</i></w><c>;</c></corrected>
+    <corrected><w><hi>Leikfangasögu</hi></w><c>;</c></corrected>
       <errors>
         <error xtype="nonit4it" idx="88-1" eid="0" />
         <error xtype="comma4semicolon" idx="88-2" eid="0" />
@@ -1441,7 +1453,7 @@
   <w>sem</w>
   <revision id="90">
     <original></original>
-    <corrected><w>lék</w><w>í</w><w><i>The</i></w><w><i>Wire</i></w><c>,</c></corrected>
+    <corrected><w>lék</w><w>í</w><w><hi>The</hi></w><w><hi>Wire</hi></w><c>,</c></corrected>
       <errors>
         <error xtype="dep" depId="88-3" eid="0" />
         <error xtype="dep" depId="89-1" eid="0" />
@@ -1451,7 +1463,7 @@
   <w>að</w>
   <revision id="91">
     <original><w>Up</w></original>
-    <corrected><w><i>Up</i></w><c>;</c></corrected>
+    <corrected><w><hi>Up</hi></w><c>;</c></corrected>
       <errors>
         <error xtype="nonit4it" idx="91-1" eid="0" />
         <error xtype="missing-semicolon" idx="91-2" eid="0" />
@@ -1461,7 +1473,7 @@
   <w>loks</w>
   <revision id="92">
     <original><w>handritshöfund</w><w>Little</w><w>Miss</w><w>Sunshine</w></original>
-    <corrected><w>Michael</w><w>Arndt</w><c>,</c><w>handritshöfundur</w><w><i>Little</i></w><w><i>Miss</i></w><w><i>Sunshine</i></w></corrected>
+    <corrected><w>Michael</w><w>Arndt</w><c>,</c><w>handritshöfundur</w><w><hi>Little</hi></w><w><hi>Miss</hi></w><w><hi>Sunshine</hi></w></corrected>
       <errors>
         <error xtype="dep" depId="93-1" eid="0" />
         <error xtype="missing-comma" idx="92-1" eid="0" />
@@ -1483,7 +1495,7 @@
   <w>að</w>
   <revision id="94">
     <original><w>Leikfangasögu</w><w>1</w></original>
-    <corrected><w><i>Leikfangasögu</i></w><w><i>1</i></w></corrected>
+    <corrected><w><hi>Leikfangasögu</hi></w><w><hi>1</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1491,7 +1503,7 @@
   <c>-</c>
   <revision id="95">
     <original><w>3</w></original>
-    <corrected><w><i>3</i></w></corrected>
+    <corrected><w><hi>3</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1522,7 +1534,7 @@
 </s>
 <s n="48">
   <w>Í</w>
-  <w><i>Bílar</i></w>
+  <w><hi>Bílar</hi></w>
   <w>var</w>
   <w>það</w>
   <w>endurspeglun</w>
@@ -1532,8 +1544,8 @@
   <w>rúðum</w>
   <c>,</c>
   <w>í</w>
-  <w><i>Skrímsli</i></w>
-  <w><i>hf.</i></w>
+  <w><hi>Skrímsli</hi></w>
+  <w><hi>hf.</hi></w>
   <w>var</w>
   <w>það</w>
   <w>feldurinn</w>
@@ -1581,7 +1593,7 @@
   <w>talsetti</w>
   <revision id="98">
     <original><w>Leikfangasögu</w><w>1</w></original>
-    <corrected><w><i>Leikfangasögu</i></w><w><i>1</i></w></corrected>
+    <corrected><w><hi>Leikfangasögu</hi></w><w><hi>1</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1589,7 +1601,7 @@
   <c>-</c>
   <revision id="99">
     <original><w>3</w></original>
-    <corrected><w><i>3</i></w></corrected>
+    <corrected><w><hi>3</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1599,7 +1611,7 @@
   <w>Hunter</w>
   <revision id="100">
     <original><w>Hina</w><w>ótrúlegu</w></original>
-    <corrected><w><i>Hin</i></w><w><i>ótrúlegu</i></w></corrected>
+    <corrected><w><hi>Hin</hi></w><w><hi>ótrúlegu</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1609,7 +1621,7 @@
   <w>Dafoe</w>
   <revision id="101">
     <original><w>Leitina</w><w>að</w><w>Nemo</w></original>
-    <corrected><w><i>Leitina</i></w><w><i>að</i></w><w><i>Nemo</i></w></corrected>
+    <corrected><w><hi>Leitina</hi></w><w><hi>að</hi></w><w><hi>Nemo</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1647,7 +1659,7 @@
   <w>fyrirtækisins</w>
   <revision id="104">
     <original><w>og</w><w>í</w><w>Leikfangasögu</w><w>3</w></original>
-    <corrected><c>.</c><w>Í</w><w><i>Leikfangasögu</i></w><w><i>3</i></w></corrected>
+    <corrected><c>.</c><w>Í</w><w><hi>Leikfangasögu</hi></w><w><hi>3</hi></w></corrected>
       <errors>
         <error xtype="conjunction4period" idx="104-1" eid="0" />
         <error xtype="nonit4it" idx="104-2" eid="0" />
@@ -1669,7 +1681,7 @@
   <w>kvikmyndina</w>
   <revision id="106">
     <original><w>My</w><w>Neighbour</w><w>Totoro</w></original>
-    <corrected><w><i>My</i></w><w><i>Neighbour</i></w><w><i>Totoro</i></w></corrected>
+    <corrected><w><hi>My</hi></w><w><hi>Neighbour</hi></w><w><hi>Totoro</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>

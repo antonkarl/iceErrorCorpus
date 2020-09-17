@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Jarðneskar</w>
+  <w>leifar</w>
+  <w>sýrlenskra</w>
+  <w>hermanna</w>
+  <revision id="1">
+    <original><w>eru</w></original>
+    <corrected><w>er</w></corrected>
+      <errors>
+        <error xtype="agreement" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>sjá</w>
+  <w>á</w>
+  <w>víð</w>
+  <w>og</w>
+  <w>dreif</w>
+  <w>á</w>
+  <w>götum</w>
+  <w>borga</w>
+  <w>og</w>
+  <w>bæja</w>
+  <w>Sýrlands</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Á</w>
+  <w>myndbandi</w>
+  <w>sem</w>
+  <w>Daily</w>
+  <w>mail</w>
+  <w>birti</w>
+  <w>í</w>
+  <w>dag</w>
+  <w>má</w>
+  <w>sjá</w>
+  <w>fólk</w>
+  <revision id="2">
+    <original><c>-</c></original>
+    <corrected><c>–</c></corrected>
+      <errors>
+        <error xtype="wrong-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>konur</w>
+  <w>og</w>
+  <w>börn</w>
+  <revision id="3">
+    <original><c>-</c></original>
+    <corrected><c>–</c></corrected>
+      <errors>
+        <error xtype="wrong-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>ganga</w>
+  <w>fram</w>
+  <w>á</w>
+  <w>lík</w>
+  <w>hermannanna</w>
+  <w>á</w>
+  <w>götum</w>
+  <w>borgarinnar</w>
+  <w>Raqqa</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Þau</w>
+  <w>eru</w>
+  <w>afar</w>
+  <w>illa</w>
+  <w>leikin</w>
+  <w>og</w>
+  <w>mörg</w>
+  <w>hver</w>
+  <w>hálshöggvin</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Fólkið</w>
+  <w>virðist</w>
+  <w>lítið</w>
+  <w>sem</w>
+  <w>ekkert</w>
+  <w>kippa</w>
+  <w>sér</w>
+  <w>upp</w>
+  <w>við</w>
+  <w>það</w>
+  <w>enda</w>
+  <w>er</w>
+  <w>hryllingur</w>
+  <w>sem</w>
+  <w>þessi</w>
+  <w>orðinn</w>
+  <w>nær</w>
+  <w>daglegt</w>
+  <w>brauð</w>
+  <w>hjá</w>
+  <revision id="4">
+    <original><w>Sýrlendingum</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wording" idx="4-1" eid="0" />
+      </errors>
+  </revision>
+  <w>flestum</w>
+  <revision id="5">
+    <original></original>
+    <corrected><w>Sýrlendingum</w></corrected>
+      <errors>
+        <error xtype="dep" depId="4-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Myndbandið</w>
+  <w>sem</w>
+  <w>um</w>
+  <w>ræðir</w>
+  <w>er</w>
+  <w>tekið</w>
+  <w>í</w>
+  <w>júlí</w>
+  <w>í</w>
+  <w>borginni</w>
+  <w>Raqqa</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>er</w>
+  <w>eitt</w>
+  <w>höfuðvígi</w>
+  <w>Íslamska</w>
+  <w>ríkisins</w>
+  <revision id="6">
+    <original><w>sem</w></original>
+    <corrected><w>en</w></corrected>
+      <errors>
+        <error xtype="conjunction" eid="0" />
+      </errors>
+  </revision>
+  <w>samtökin</w>
+  <w>lögðu</w>
+  <revision id="7">
+    <original></original>
+    <corrected><w>það</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>undir</w>
+  <w>sig</w>
+  <w>á</w>
+  <w>síðasta</w>
+  <w>ári</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Athugið</w>
+  <revision id="8">
+    <original><c>.</c><w>Varað</w></original>
+    <corrected><w>að</w><w>varað</w></corrected>
+      <errors>
+        <error xtype="period4conjunction" eid="0" />
+      </errors>
+  </revision>
+  <w>er</w>
+  <w>við</w>
+  <w>myndum</w>
+  <w>og</w>
+  <w>myndbandi</w>
+  <w>sem</w>
+  <w>fylgja</w>
+  <w>þessari</w>
+  <w>frétt</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

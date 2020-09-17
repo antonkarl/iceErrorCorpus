@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>visir-2014_10_375-t2.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Franski</w>
   <w>ökumaðurinn</w>
   <revision id="1">
-    <original><w><i>Jules</i></w><w><i>Bianchi</i></w></original>
+    <original><w><hi>Jules</hi></w><w><hi>Bianchi</hi></w></original>
     <corrected><w>Jules</w><w>Bianchi</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -172,7 +184,7 @@
   <c>“</c>
   <w>sagði</w>
   <revision id="7">
-    <original><w><i>Matteo</i></w><w><i>Bonciani</i></w></original>
+    <original><w><hi>Matteo</hi></w><w><hi>Bonciani</hi></w></original>
     <corrected><w>Matteo</w><w>Bonciani</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />

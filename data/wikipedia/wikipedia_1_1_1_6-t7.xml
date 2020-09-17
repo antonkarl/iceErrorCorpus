@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_6-t7.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Sumir</w>
@@ -27,8 +39,8 @@
   <w>sérfræðingaráð</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>Think</i></w>
-  <w><i>Tanks</i></w>
+  <w><hi>Think</hi></w>
+  <w><hi>Tanks</hi></w>
   <c>)</c>
   <c>.</c>
 </s><s n="2">
@@ -98,9 +110,9 @@
   <w>Hergagnaiðnaðurinn</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>the</i></w>
-  <w><i>military–industrial</i></w>
-  <w><i>complex</i></w>
+  <w><hi>the</hi></w>
+  <w><hi>military–industrial</hi></w>
+  <w><hi>complex</hi></w>
   <c>)</c>
   <w>er</w>
   <w>hugtak</w>
@@ -336,8 +348,8 @@
   <w>að</w>
   <w>þýða</w>
   <w>hugtakið</w>
-  <w><i>Military–industrial</i></w>
-  <w><i>complex</i></w>
+  <w><hi>Military–industrial</hi></w>
+  <w><hi>complex</hi></w>
   <revision id="9">
     <original><w>sem</w><w>dæmi</w></original>
     <corrected><c>.</c><w>Dæmi</w><w>um</w><w>þær</w><w>eru</w><c>:</c></corrected>
@@ -583,9 +595,9 @@
   <w>hagnaðarskyni</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>war</i></w>
-  <w><i>for</i></w>
-  <w><i>profit</i></w>
+  <w><hi>war</hi></w>
+  <w><hi>for</hi></w>
+  <w><hi>profit</hi></w>
   <c>)</c>
   <c>,</c>
   <w>þar</w>
@@ -825,7 +837,7 @@
   <w>hugtakið</w>
   <revision id="24">
     <original><c>„</c><w>the</w><w>military–industrial</w><w>complex</w><c>“</c></original>
-    <corrected><w><i>the</i></w><w><i>military–industrial</i></w><w><i>complex</i></w></corrected>
+    <corrected><w><hi>the</hi></w><w><hi>military–industrial</hi></w><w><hi>complex</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="9-1" eid="0"/>
         <error xtype="nonit4it" idx="9-1" eid="0"/>

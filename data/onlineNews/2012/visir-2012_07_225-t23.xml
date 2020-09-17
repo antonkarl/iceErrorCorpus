@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>visir-2012_07_225-t23.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Önnur</w>
@@ -14,7 +26,7 @@
   <w>ástarsöguna</w>
   <revision id="1">
     <original><w>50</w><w>shades</w><w>of</w><w>grey</w></original>
-    <corrected><w><i>Fifty</i></w><w><i>Shades</i></w><w><i>of</i></w><w><i>Grey</i></w></corrected>
+    <corrected><w><hi>Fifty</hi></w><w><hi>Shades</hi></w><w><hi>of</hi></w><w><hi>Grey</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="1-1" eid="0" />
         <error xtype="number4word" idx="1-2" eid="0" />
@@ -162,7 +174,7 @@
 <s n="6">
   <revision id="9">
     <original><w>50</w><w>Shades</w><w>of</w><w>Grey</w></original>
-    <corrected><w><i>Fifty</i></w><w><i>Shades</i></w><w><i>of</i></w><w><i>Grey</i></w></corrected>
+    <corrected><w><hi>Fifty</hi></w><w><hi>Shades</hi></w><w><hi>of</hi></w><w><hi>Grey</hi></w></corrected>
       <errors>
         <error xtype="number4word" idx="9-1" eid="0" />
         <error xtype="name-error" idx="9-1" eid="0" />

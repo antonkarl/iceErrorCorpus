@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_325-t2.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Vefarinn</w>
@@ -151,7 +163,7 @@
   <w>einnig</w>
   <w>vera</w>
   <revision id="1">
-    <original><c>"</c><w><i>ekkert</i></w><w><i>meistaraverk</i></w><c>"</c></original>
+    <original><c>"</c><w><hi>ekkert</hi></w><w><hi>meistaraverk</hi></w><c>"</c></original>
     <corrected><c>„</c><w>ekkert</w><w>meistaraverk</w><c>“</c></corrected>
       <errors>
         <error xtype="wrong-quots" idx="1-1" eid="0" />
@@ -180,7 +192,7 @@
   <w>eða</w>
   <w>ófagrar</w>
   <revision id="3">
-    <original><c>"</c><w><i>en</i></w><w><i>eftir</i></w><w><i>stendur</i></w><w><i>að</i></w></original>
+    <original><c>"</c><w><hi>en</hi></w><w><hi>eftir</hi></w><w><hi>stendur</hi></w><w><hi>að</hi></w></original>
     <corrected><c>„</c><w>en</w><w>eftir</w><w>stendur</w><w>að</w></corrected>
       <errors>
         <error xtype="wrong-quot" idx="3-1" eid="0" />
@@ -189,7 +201,7 @@
   </revision>
   <c>:</c>
   <revision id="4">
-    <original><c>"</c><w><i>Þróun</i></w><w><i>tímaborins</i></w><w><i>íslenzks</i></w><w><i>sögustíls</i></w><w><i>tekur</i></w><w><i>hálfrar</i></w><w><i>aldar</i></w><w><i>stökk</i></w><w><i>með</i></w><w><i>þessari</i></w><w><i>bók</i></w><w><i>H</i></w><c>.</c><w><i>K.</i></w><w><i>L.</i></w><c>"</c></original>
+    <original><c>"</c><w><hi>Þróun</hi></w><w><hi>tímaborins</hi></w><w><hi>íslenzks</hi></w><w><hi>sögustíls</hi></w><w><hi>tekur</hi></w><w><hi>hálfrar</hi></w><w><hi>aldar</hi></w><w><hi>stökk</hi></w><w><hi>með</hi></w><w><hi>þessari</hi></w><w><hi>bók</hi></w><w><hi>H</hi></w><c>.</c><w><hi>K.</hi></w><w><hi>L.</hi></w><c>"</c></original>
     <corrected><w>Þróun</w><w>tímaborins</w><w>íslenzks</w><w>sögustíls</w><w>tekur</w><w>hálfrar</w><w>aldar</w><w>stökk</w><w>með</w><w>þessari</w><w>bók</w><w>H.K.L.</w></corrected>
       <errors>
         <error xtype="extra-quots" idx="4-1" eid="0" />

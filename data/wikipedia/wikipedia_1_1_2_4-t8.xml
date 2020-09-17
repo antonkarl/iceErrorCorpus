@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_4-t8.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Lárentíus</w>
@@ -1435,8 +1447,8 @@
   <w>talinn</w>
   <w>vera</w>
   <w>höfundur</w>
-  <w><i>Lárentíus</i></w>
-  <w><i>sögu</i></w>
+  <w><hi>Lárentíus</hi></w>
+  <w><hi>sögu</hi></w>
   <c>.</c>
 </s>
 <s n="74">
@@ -1482,7 +1494,7 @@
   <c>.</c>
 </s>
 <s n="75">
-  <w><i>Lögmannsannáll</i></w>
+  <w><hi>Lögmannsannáll</hi></w>
   <c>,</c>
   <w>sem</w>
   <w>er</w>
@@ -1501,8 +1513,8 @@
   <w>víða</w>
   <w>orðrétt</w>
   <w>samhljóða</w>
-  <w><i>Lárentíus</i></w>
-  <w><i>sögu</i></w>
+  <w><hi>Lárentíus</hi></w>
+  <w><hi>sögu</hi></w>
   <c>.</c>
 </s>
 <s n="76">
@@ -1527,8 +1539,8 @@
   <w>sem</w>
   <w>persóna</w>
   <w>í</w>
-  <w><i>Lárentíus</i></w>
-  <w><i>sögu</i></w>
+  <w><hi>Lárentíus</hi></w>
+  <w><hi>sögu</hi></w>
   <c>.</c>
 </s>
 <s n="78">
@@ -1585,7 +1597,7 @@
   <w>sett</w>
   <w>fram</w>
   <w>í</w>
-  <w><i>Kirkjusögu</i></w>
+  <w><hi>Kirkjusögu</hi></w>
   <w>Finns</w>
   <w>Jónssonar</w>
   <w>Skálholtsbiskups</w>

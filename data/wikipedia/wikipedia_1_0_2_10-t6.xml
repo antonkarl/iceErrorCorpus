@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_10-t6.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Haarlem</w>
@@ -191,16 +203,16 @@
   <w>með</w>
   <w>áletruninni</w>
   <c>:</c>
-  <w><i>Vicit</i></w>
-  <w><i>vim</i></w>
-  <w><i>Virtus</i></w>
+  <w><hi>Vicit</hi></w>
+  <w><hi>vim</hi></w>
+  <w><hi>Virtus</hi></w>
   <c>,</c>
   <w>sem</w>
   <w>merkir</w>
-  <w><i>dyggð</i></w>
-  <w><i>sigrast</i></w>
-  <w><i>á</i></w>
-  <w><i>valdi</i></w>
+  <w><hi>dyggð</hi></w>
+  <w><hi>sigrast</hi></w>
+  <w><hi>á</hi></w>
+  <w><hi>valdi</hi></w>
   <c>.</c>
 </s>
 <s n="13">
@@ -236,10 +248,10 @@
 <s n="15">
   <w>Haar</w>
   <w>merkir</w>
-  <w><i>hæð</i></w>
+  <w><hi>hæð</hi></w>
   <c>(</c>
   <w>sbr.</w>
-  <w><i>Har</i></w>
+  <w><hi>Har</hi></w>
   <w>danger</w>
   <w>á</w>
   <w>norsku</w>
@@ -247,26 +259,26 @@
   <c>,</c>
   <w>lo</w>
   <w>merkir</w>
-  <w><i>skógur</i></w>
+  <w><hi>skógur</hi></w>
   <c>(</c>
   <w>sbr.</w>
   <w>Waterloo</w>
   <c>=</c>
-  <w><i>vatnaskógur</i></w>
+  <w><hi>vatnaskógur</hi></w>
   <c>)</c>
   <w>og</w>
   <w>heim</w>
   <w>merkir</w>
-  <w><i>bær</i></w>
+  <w><hi>bær</hi></w>
   <c>.</c>
 </s>
 <s n="16">
   <w>Merkingin</w>
   <w>er</w>
   <w>því</w>
-  <w><i>bærinn</i></w>
-  <w><i>á</i></w>
-  <w><i>skógarhæðinni</i></w>
+  <w><hi>bærinn</hi></w>
+  <w><hi>á</hi></w>
+  <w><hi>skógarhæðinni</hi></w>
   <c>.</c>
 </s>
 <s n="17">
@@ -342,7 +354,7 @@
   <w>kölluð</w>
   <w>Bloemenstadt</w>
   <c>(</c>
-  <w><i>Blómaborgin</i></w>
+  <w><hi>Blómaborgin</hi></w>
   <c>)</c>
   <w>í</w>
   <w>Hollandi</w>
@@ -1991,8 +2003,8 @@
   <c>.</c>
 </s>
 <s n="92">
-  <w><i>bloemencorso</i></w>
-  <w><i>Bollenstreek</i></w>
+  <w><hi>bloemencorso</hi></w>
+  <w><hi>Bollenstreek</hi></w>
   <w>er</w>
   <w>blómaskrúðganga</w>
   <w>sem</w>
@@ -2032,7 +2044,7 @@
   <c>.</c>
 </s>
 <s n="95">
-  <w><i>Bevrijdingspop</i></w>
+  <w><hi>Bevrijdingspop</hi></w>
   <w>er</w>
   <w>tónlistarhátíð</w>
   <w>í</w>

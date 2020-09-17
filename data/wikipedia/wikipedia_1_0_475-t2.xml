@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_475-t2.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <revision id="1">
@@ -25,7 +37,7 @@
   <w>í</w>
   <revision id="3">
     <original><w>Flashdance</w></original>
-    <corrected><w><i>Flashdance</i></w></corrected>
+    <corrected><w><hi>Flashdance</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -84,10 +96,10 @@
   <w>er</w>
   <w>sendiherra</w>
   <w>fyrir</w>
-  <w><i>National</i></w>
-  <w><i>Multiple</i></w>
-  <w><i>Sclerosis</i></w>
-  <w><i>Society</i></w>
+  <w><hi>National</hi></w>
+  <w><hi>Multiple</hi></w>
+  <w><hi>Sclerosis</hi></w>
+  <w><hi>Society</hi></w>
   <w>en</w>
   <w>fyrrverandi</w>
   <w>eiginkona</w>
@@ -107,7 +119,7 @@
   <c>:</c>
   <revision id="7">
     <original><w>NCIS</w></original>
-    <corrected><w><i>NCIS</i></w></corrected>
+    <corrected><w><hi>NCIS</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -125,7 +137,7 @@
   <w>og</w>
   <revision id="8">
     <original><w>Damages</w></original>
-    <corrected><w>í</w><w><i>Damages</i></w></corrected>
+    <corrected><w>í</w><w><hi>Damages</hi></w></corrected>
       <errors>
         <error xtype="missing-word" idx="20-1" eid="0"/>
         <error xtype="nonit4it" idx="20-2" eid="0"/>
@@ -143,9 +155,9 @@
   <w>árið 1969</w>
   <w>í</w>
   <w>kvikmyndinni</w>
-  <w><i>Goodbye</i></w>
+  <w><hi>Goodbye</hi></w>
   <c>,</c>
-  <w><i>Columbus</i></w>
+  <w><hi>Columbus</hi></w>
   <w>sem</w>
   <w>Don</w>
   <w>Farber</w>
@@ -159,8 +171,8 @@
   <w>lék</w>
   <w>Nouri</w>
   <w>í</w>
-  <w><i>Forty</i></w>
-  <w><i>Carats</i></w>
+  <w><hi>Forty</hi></w>
+  <w><hi>Carats</hi></w>
   <w>á</w>
   <w>móti</w>
   <w>Julie</w>
@@ -194,7 +206,7 @@
   <w>unglingadramanu</w>
   <revision id="11">
     <original><w>The</w><w>O.C.</w></original>
-    <corrected><w><i>The</i></w><w><i>O.C.</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>O.C.</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -305,14 +317,14 @@
   <w>á</w>
   <w>borð</w>
   <w>við</w>
-  <w><i>Bay</i></w>
-  <w><i>City</i></w>
-  <w><i>Blues</i></w>
+  <w><hi>Bay</hi></w>
+  <w><hi>City</hi></w>
+  <w><hi>Blues</hi></w>
   <c>,</c>
-  <w><i>Downtown</i></w>
+  <w><hi>Downtown</hi></w>
   <revision id="18">
     <original><c>,,</c><w>The</w><w>West</w><w>Wing</w></original>
-    <corrected><c>,</c><w><i>The</i></w><w><i>West</i></w><w><i>Wing</i></w></corrected>
+    <corrected><c>,</c><w><hi>The</hi></w><w><hi>West</hi></w><w><hi>Wing</hi></w></corrected>
       <errors>
         <error xtype="double-punctuation" idx="14-1" eid="0"/>
         <error xtype="nonit4it" idx="14-2" eid="0"/>
@@ -322,7 +334,7 @@
   <w>og</w>
   <revision id="19">
     <original><w>Without</w><w>a</w><w>Trace</w></original>
-    <corrected><w><i>Without</i></w><w><i>a</i></w><w><i>Trace</i></w></corrected>
+    <corrected><w><hi>Without</hi></w><w><hi>a</hi></w><w><hi>Trace</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -367,7 +379,7 @@
   <w>í</w>
   <revision id="23">
     <original><w>Flashdance</w></original>
-    <corrected><w><i>Flashdance</i></w></corrected>
+    <corrected><w><hi>Flashdance</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -375,7 +387,7 @@
   <c>,</c>
   <revision id="24">
     <original><w>NCIS</w></original>
-    <corrected><w><i>NCIS</i></w></corrected>
+    <corrected><w><hi>NCIS</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -383,7 +395,7 @@
   <c>,</c>
   <revision id="25">
     <original><w>Damages</w></original>
-    <corrected><w><i>Damages</i></w></corrected>
+    <corrected><w><hi>Damages</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -391,7 +403,7 @@
   <w>og</w>
   <revision id="26">
     <original><w>All</w><w>My</w><w>Children</w></original>
-    <corrected><w><i>All</i></w><w><i>My</i></w><w><i>Children</i></w></corrected>
+    <corrected><w><hi>All</hi></w><w><hi>My</hi></w><w><hi>Children</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -404,7 +416,7 @@
   <w>var</w>
   <w>árið 1974</w>
   <w>í</w>
-  <w><i>Somerset</i></w>
+  <w><hi>Somerset</hi></w>
   <c>.</c>
 </s><s n="13">
   <revision id="27">
@@ -426,7 +438,7 @@
   <w>við</w>
   <revision id="28">
     <original><w>Fatal</w><w>Sky</w></original>
-    <corrected><w><i>Fatal</i></w><w><i>Sky</i></w></corrected>
+    <corrected><w><hi>Fatal</hi></w><w><hi>Sky</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -434,7 +446,7 @@
   <c>,</c>
   <revision id="29">
     <original><w>Fortunes</w><w>of</w><w>War</w></original>
-    <corrected><w><i>Fortunes</i></w><w><i>of</i></w><w><i>War</i></w></corrected>
+    <corrected><w><hi>Fortunes</hi></w><w><hi>of</hi></w><w><hi>War</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -442,7 +454,7 @@
   <c>,</c>
   <revision id="30">
     <original><w>Picture</w><w>This</w></original>
-    <corrected><w><i>Picture</i></w><w><i>This</i></w></corrected>
+    <corrected><w><hi>Picture</hi></w><w><hi>This</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -450,7 +462,7 @@
   <c>,</c>
   <revision id="31">
     <original><w>The</w><w>Terminal</w></original>
-    <corrected><w><i>The</i></w><w><i>Terminal</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Terminal</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -458,7 +470,7 @@
   <c>,</c>
   <revision id="32">
     <original><w>The</w><w>Proposal</w></original>
-    <corrected><w><i>The</i></w><w><i>Proposal</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Proposal</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -466,7 +478,7 @@
   <w>og</w>
   <revision id="33">
     <original><w>Sinatra</w><w>Club</w></original>
-    <corrected><w><i>Sinatra</i></w><w><i>Club</i></w></corrected>
+    <corrected><w><hi>Sinatra</hi></w><w><hi>Club</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -482,14 +494,14 @@
   <w>í</w>
   <w>eru</w>
   <c>:</c>
-  <w><i>Can</i></w>
-  <w><i>Can</i></w>
+  <w><hi>Can</hi></w>
+  <w><hi>Can</hi></w>
   <c>,</c>
-  <w><i>South</i></w>
-  <w><i>Pacific</i></w>
+  <w><hi>South</hi></w>
+  <w><hi>Pacific</hi></w>
   <w>og</w>
-  <w><i>Funny</i></w>
-  <w><i>Girl</i></w>
+  <w><hi>Funny</hi></w>
+  <w><hi>Girl</hi></w>
   <c>.</c>
 </s><s n="15">
   <w>Síðan</w>
@@ -510,7 +522,7 @@
   <w>sápuóperunni</w>
   <revision id="35">
     <original><w>All</w><w>My</w><w>Children</w></original>
-    <corrected><w><i>All</i></w><w><i>My</i></w><w><i>Children</i></w></corrected>
+    <corrected><w><hi>All</hi></w><w><hi>My</hi></w><w><hi>Children</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -539,7 +551,7 @@
   <w>í</w>
   <revision id="37">
     <original><w>The</w><w>Young</w><w>and</w><w>the</w><w>Restless</w></original>
-    <corrected><w><i>The</i></w><w><i>Young</i></w><w><i>and</i></w><w><i>the</i></w><w><i>Restless</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Young</hi></w><w><hi>and</hi></w><w><hi>the</hi></w><w><hi>Restless</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

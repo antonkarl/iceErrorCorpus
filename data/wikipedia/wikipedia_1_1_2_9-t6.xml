@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_9-t6.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Sankti</w>
@@ -261,10 +273,10 @@
 </s>
 <s n="18">
   <w>Kvikmyndin</w>
-  <w><i>Pirates</i></w>
-  <w><i>of</i></w>
-  <w><i>the</i></w>
-  <w><i>Caribbean</i></w>
+  <w><hi>Pirates</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>Caribbean</hi></w>
   <w>var</w>
   <w>tekin</w>
   <w>á</w>
@@ -284,7 +296,7 @@
   <w>eyjuna</w>
   <w>Sankti</w>
   <w>Vinsent</w>
-  <w><i>Hairouna</i></w>
+  <w><hi>Hairouna</hi></w>
   <c>.</c>
 </s>
 <s n="20">
@@ -319,8 +331,8 @@
 <s n="21">
   <w>Grenadínur</w>
   <w>kölluðust</w>
-  <w><i>Los</i></w>
-  <w><i>Granadillos</i></w>
+  <w><hi>Los</hi></w>
+  <w><hi>Granadillos</hi></w>
   <w>á</w>
   <w>spænsku</w>
   <w>eftir</w>

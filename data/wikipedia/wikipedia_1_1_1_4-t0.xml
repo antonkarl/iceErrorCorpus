@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_4-t0.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Fáninn</w>
@@ -242,7 +254,7 @@
   <w>af</w>
   <w>orðunum</w>
   <revision id="15">
-    <original><w><i>bra</i></w></original>
+    <original><w><hi>bra</hi></w></original>
     <corrected><w>bra</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -253,7 +265,7 @@
   <w>upphaflega</w>
   <w>merkir</w>
   <revision id="16">
-    <original><w><i>auður</i></w></original>
+    <original><w><hi>auður</hi></w></original>
     <corrected><c>„</c><w>auður</w><c>“</c></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -262,13 +274,13 @@
   </revision>
   <c>(</c>
   <w>sbr.</w>
-  <w><i>brach</i></w>
+  <w><hi>brach</hi></w>
   <w>á</w>
   <w>þýsku</w>
   <c>)</c>
   <w>og</w>
   <revision id="17">
-    <original><w><i>bant</i></w></original>
+    <original><w><hi>bant</hi></w></original>
     <corrected><w>bant</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -278,7 +290,7 @@
   <w>sem</w>
   <w>merkir</w>
   <revision id="18">
-    <original><w><i>fylki</i></w></original>
+    <original><w><hi>fylki</hi></w></original>
     <corrected><c>„</c><w>fylki</w><c>“</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="14-1" eid="0"/>

@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_3-t10.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Söngleikir</w>
@@ -121,8 +133,8 @@
   <w>til</w>
   <w>dæmis</w>
   <w>í</w>
-  <w><i>Les</i></w>
-  <w><i>Misérables</i></w>
+  <w><hi>Les</hi></w>
+  <w><hi>Misérables</hi></w>
   <c>.</c>
 </s>
 <s n="6">
@@ -148,8 +160,8 @@
   <w>og</w>
   <w>hin</w>
   <w>svokallaða</w>
-  <w><i>Gullöld</i></w>
-  <w><i>söngleikjanna</i></w>
+  <w><hi>Gullöld</hi></w>
+  <w><hi>söngleikjanna</hi></w>
   <w>byrjaði</w>
   <w>1940</w>
   <c>.</c>
@@ -183,8 +195,8 @@
         <error xtype="missing-colon" idx="11-2" eid="0" />
       </errors>
   </revision>
-  <w><i>Show</i></w>
-  <w><i>Boat</i></w>
+  <w><hi>Show</hi></w>
+  <w><hi>Boat</hi></w>
   <c>(</c>
   <w>1927</w>
   <c>)</c>
@@ -193,44 +205,44 @@
   <c>!</c>
 </s>
 <s n="8">
-  <w><i></i></w>
+  <w><hi></hi></w>
   <c>(</c>
   <w>1943</w>
   <c>)</c>
   <c>,</c>
-  <w><i>West</i></w>
-  <w><i>Side</i></w>
-  <w><i>Story</i></w>
+  <w><hi>West</hi></w>
+  <w><hi>Side</hi></w>
+  <w><hi>Story</hi></w>
   <c>(</c>
   <w>1957</w>
   <c>)</c>
   <c>,</c>
-  <w><i>The</i></w>
-  <w><i>Fantasticks</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Fantasticks</hi></w>
   <c>(</c>
   <w>1960</w>
   <c>)</c>
   <c>,</c>
-  <w><i>Hárið</i></w>
+  <w><hi>Hárið</hi></w>
   <c>(</c>
   <w>1967</w>
   <c>)</c>
   <c>,</c>
-  <w><i>Vesalingarnir</i></w>
+  <w><hi>Vesalingarnir</hi></w>
   <c>(</c>
   <w>1985</w>
   <c>)</c>
   <c>,</c>
-  <w><i>The</i></w>
-  <w><i>Phantom</i></w>
-  <w><i>of</i></w>
-  <w><i>the</i></w>
-  <w><i>Opera</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Phantom</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>Opera</hi></w>
   <c>(</c>
   <w>1986</w>
   <c>)</c>
   <w>og</w>
-  <w><i>Rent</i></w>
+  <w><hi>Rent</hi></w>
   <c>(</c>
   <w>1994</w>
   <c>)</c>
@@ -239,7 +251,7 @@
 <s n="9">
   <revision id="12">
     <original><w>Bókarsöngleikir</w></original>
-    <corrected><w>Söngleikir</w><w>úr</w><w><i>Sígildu</i></w><w><i>söngbókinni</i></w></corrected>
+    <corrected><w>Söngleikir</w><w>úr</w><w><hi>Sígildu</hi></w><w><hi>söngbókinni</hi></w></corrected>
       <errors>
         <error xtype="wording" eid="0" />
       </errors>
@@ -284,11 +296,11 @@
         <error xtype="missing-word" eid="0" />
       </errors>
   </revision>
-  <w><i>bók</i></w>
+  <w><hi>bók</hi></w>
   <c>,</c>
   <w>einnig</w>
   <w>kölluð</w>
-  <w><i>libretto</i></w>
+  <w><hi>libretto</hi></w>
   <revision id="17">
     <original><c>,</c></original>
     <corrected><c>:</c></corrected>
@@ -621,7 +633,7 @@
         <error xtype="missing-bracket" idx="36-2" eid="0" />
       </errors>
   </revision>
-  <w><i>librettist</i></w>
+  <w><hi>librettist</hi></w>
   <revision id="37">
     <original></original>
     <corrected><c>)</c></corrected>
@@ -634,14 +646,14 @@
 <s n="17">
   <revision id="38">
     <original><w>Oklahoma</w></original>
-    <corrected><w><i>Oklahoma</i></w></corrected>
+    <corrected><w><hi>Oklahoma</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
   </revision>
   <revision id="39">
     <original><c>!</c></original>
-    <corrected><c><i>!</i></c></corrected>
+    <corrected><c><hi>!</hi></c></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -668,10 +680,10 @@
   <w>byggður</w>
   <w>á</w>
   <w>leikritinu</w>
-  <w><i>Green</i></w>
-  <w><i>Grow</i></w>
-  <w><i>the</i></w>
-  <w><i>Lilacs</i></w>
+  <w><hi>Green</hi></w>
+  <w><hi>Grow</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>Lilacs</hi></w>
   <w>eftir</w>
   <w>Lynn</w>
   <w>Riggs</w>
@@ -699,7 +711,7 @@
 <s n="21">
   <revision id="41">
     <original><w>Oklahoma</w><c>!</c></original>
-    <corrected><w><i>Oklahoma</i></w><c><i>!</i></c></corrected>
+    <corrected><w><hi>Oklahoma</hi></w><c><hi>!</hi></c></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -718,8 +730,8 @@
         <error xtype="missing-bracket" idx="43-4" eid="0" />
       </errors>
   </revision>
-  <w><i>book</i></w>
-  <w><i>musical</i></w>
+  <w><hi>book</hi></w>
+  <w><hi>musical</hi></w>
   <revision id="44">
     <original><c>,</c></original>
     <corrected><c>)</c></corrected>
@@ -874,18 +886,18 @@
         <error xtype="wording" eid="0" />
       </errors>
   </revision>
-  <w><i>Oh</i></w>
+  <w><hi>Oh</hi></w>
   <c>,</c>
-  <w><i>What</i></w>
-  <w><i>a</i></w>
-  <w><i>Beautiful</i></w>
-  <w><i>Mornin</i></w>
+  <w><hi>What</hi></w>
+  <w><hi>a</hi></w>
+  <w><hi>Beautiful</hi></w>
+  <w><hi>Mornin</hi></w>
   <c>.</c>
 </s>
 <s n="26">
   <revision id="55">
     <original><w>Oklahoma</w><c>!</c></original>
-    <corrected><w><i>Oklahoma</i></w><c><i>!</i></c></corrected>
+    <corrected><w><hi>Oklahoma</hi></w><c><hi>!</hi></c></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -932,7 +944,7 @@
   <w>í</w>
   <revision id="60">
     <original><w>The</w><w>New</w><w>York</w><w>Times</w></original>
-    <corrected><w><i>The</i></w><w><i>New</i></w><w><i>York</i></w><w><i>Times</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>New</hi></w><w><hi>York</hi></w><w><hi>Times</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -964,7 +976,7 @@
   <w>eftir</w>
   <revision id="62">
     <original><w>Oklahoma</w><c>!</c></original>
-    <corrected><w><i>Oklahoma</i></w><c><i>!</i></c></corrected>
+    <corrected><w><hi>Oklahoma</hi></w><c><hi>!</hi></c></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1016,14 +1028,14 @@
   <w>eftir</w>
   <revision id="65">
     <original><w>Oklahoma</w><c>!</c></original>
-    <corrected><w><i>Oklahoma</i></w><c><i>!</i></c></corrected>
+    <corrected><w><hi>Oklahoma</hi></w><c><hi>!</hi></c></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
   </revision>
   <revision id="66">
     <original><w>er</w><c>(</c><w>1945</w><c>)</c><c>,</c><w>South</w><w>Pacific</w></original>
-    <corrected><w>eru</w><w><i>South</i></w><w><i>Pacific</i></w></corrected>
+    <corrected><w>eru</w><w><hi>South</hi></w><w><hi>Pacific</hi></w></corrected>
       <errors>
         <error xtype="agreement" idx="66-1" eid="0" />
         <error xtype="extra-bracket" idx="66-2" eid="0" />
@@ -1039,7 +1051,7 @@
   <w>svo</w>
   <revision id="67">
     <original><w>The</w><w>King</w><w>and</w><w>I</w></original>
-    <corrected><w><i>The</i></w><w><i>King</i></w><w><i>and</i></w><w><i>I</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>King</hi></w><w><hi>and</hi></w><w><hi>I</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1050,7 +1062,7 @@
   <w>og</w>
   <revision id="68">
     <original><w>The</w><w>Sound</w><w>of</w><w>Music</w></original>
-    <corrected><w><i>The</i></w><w><i>Sound</i></w><w><i>of</i></w><w><i>Music</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Sound</hi></w><w><hi>of</hi></w><w><hi>Music</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1095,7 +1107,7 @@
   <w>söngleik</w>
   <revision id="71">
     <original><w>My</w><w>Fair</w><w>Lady</w></original>
-    <corrected><w><i>My</i></w><w><i>Fair</i></w><w><i>Lady</i></w></corrected>
+    <corrected><w><hi>My</hi></w><w><hi>Fair</hi></w><w><hi>Lady</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1154,7 +1166,7 @@
   <w>í</w>
   <revision id="75">
     <original><w>The</w><w>Boy</w><w>Friend</w></original>
-    <corrected><w>söngleiknum</w><w><i>The</i></w><w><i>Boy</i></w><w><i>Friend</i></w></corrected>
+    <corrected><w>söngleiknum</w><w><hi>The</hi></w><w><hi>Boy</hi></w><w><hi>Friend</hi></w></corrected>
       <errors>
         <error xtype="missing-word" idx="75-1" eid="0" />
         <error xtype="nonit4it" idx="75-2" eid="0" />
@@ -1201,7 +1213,7 @@
 <s n="34">
   <revision id="79">
     <original><w>The</w><w>Boy</w><w>Friend</w></original>
-    <corrected><w><i>The</i></w><w><i>Boy</i></w><w><i>Friend</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Boy</hi></w><w><hi>Friend</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1223,7 +1235,7 @@
   <w>en</w>
   <revision id="81">
     <original><w>My</w><w>Fair</w><w>Lady</w></original>
-    <corrected><w><i>My</i></w><w><i>Fair</i></w><w><i>Lady</i></w></corrected>
+    <corrected><w><hi>My</hi></w><w><hi>Fair</hi></w><w><hi>Lady</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1252,7 +1264,7 @@
   <w>Söngleikurinn</w>
   <revision id="84">
     <original><w>The</w><w>Threepenny</w><w>Opera</w><w>kom</w></original>
-    <corrected><w><i>The</i></w><w><i>Threepenny</i></w><w><i>Opera</i></w><w>komst</w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Threepenny</hi></w><w><hi>Opera</hi></w><w>komst</w></corrected>
       <errors>
         <error xtype="nonit4it" idx="84-1" eid="0" />
         <error xtype="verb-inflection" idx="84-2" eid="0" />
@@ -1306,7 +1318,7 @@
   <w>að</w>
   <revision id="88">
     <original><w>The</w><w>Fantasticks</w></original>
-    <corrected><w><i>The</i></w><w><i>Fantasticks</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Fantasticks</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1319,7 +1331,7 @@
 <s n="36">
   <revision id="89">
     <original><w>West</w><w>Side</w><w>Story</w></original>
-    <corrected><w><i>West</i></w><w><i>Side</i></w><w><i>Story</i></w></corrected>
+    <corrected><w><hi>West</hi></w><w><hi>Side</hi></w><w><hi>Story</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1341,7 +1353,7 @@
   <w>af</w>
   <revision id="91">
     <original><w>Rómeó</w><w>og</w><w>Júlíu</w></original>
-    <corrected><w><i>Rómeó</i></w><w><i>og</i></w><w><i>Júlíu</i></w></corrected>
+    <corrected><w><hi>Rómeó</hi></w><w><hi>og</hi></w><w><hi>Júlíu</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1379,7 +1391,7 @@
   <w>gengin</w>
   <revision id="95">
     <original><w>Jets</w></original>
-    <corrected><w><i>Jets</i></w></corrected>
+    <corrected><w><hi>Jets</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1387,7 +1399,7 @@
   <w>og</w>
   <revision id="96">
     <original><w>Sharks</w></original>
-    <corrected><w><i>Sharks</i></w></corrected>
+    <corrected><w><hi>Sharks</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1397,7 +1409,7 @@
 <s n="37">
   <revision id="97">
     <original><w>Jets</w></original>
-    <corrected><w><i>Jets</i></w></corrected>
+    <corrected><w><hi>Jets</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1416,7 +1428,7 @@
   <w>en</w>
   <revision id="99">
     <original><w>Sharks</w></original>
-    <corrected><w><i>Sharks</i></w></corrected>
+    <corrected><w><hi>Sharks</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1434,7 +1446,7 @@
   <w>af</w>
   <revision id="100">
     <original><w>Jets</w></original>
-    <corrected><w><i>Jets-genginu</i></w></corrected>
+    <corrected><w><hi>Jets-genginu</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="100-1" eid="0" />
         <error xtype="wording" idx="100-1" eid="0" />
@@ -1457,7 +1469,7 @@
   <w>leiðtoga</w>
   <revision id="101">
     <original><w>Sharks</w></original>
-    <corrected><w><i>Sharks-gengisins</i></w></corrected>
+    <corrected><w><hi>Sharks-gengisins</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="101-1" eid="0" />
         <error xtype="wording" idx="101-1" eid="0" />
@@ -1525,7 +1537,7 @@
   <w>var</w>
   <revision id="105">
     <original><w>The</w><w>Sound</w><w>of</w><w>Music</w></original>
-    <corrected><w><i>The</i></w><w><i>Sound</i></w><w><i>of</i></w><w><i>Music</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Sound</hi></w><w><hi>of</hi></w><w><hi>Music</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1577,7 +1589,7 @@
   <w>Söngleikurinn</w>
   <revision id="108">
     <original></original>
-    <corrected><w><i>The</i></w><w><i>Sound</i></w><w><i>of</i></w><w><i>Music</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Sound</hi></w><w><hi>of</hi></w><w><hi>Music</hi></w></corrected>
       <errors>
         <error xtype="missing-words" idx="108-1" eid="0" />
       </errors>
@@ -1615,7 +1627,7 @@
 <s n="44">
   <revision id="110">
     <original><w>The</w><w>Sound</w><w>of</w><w>Music</w></original>
-    <corrected><w><i>The</i></w><w><i>Sound</i></w><w><i>of</i></w><w><i>Music</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Sound</hi></w><w><hi>of</hi></w><w><hi>Music</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1737,7 +1749,7 @@
   <w>söngleikurinn</w>
   <revision id="121">
     <original><w>The</w><w>Fantasticks</w><w>út</w></original>
-    <corrected><w><i>The</i></w><w><i>Fantasticks</i></w><w>frumsýndur</w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Fantasticks</hi></w><w>frumsýndur</w></corrected>
       <errors>
         <error xtype="nonit4it" idx="121-1" eid="0" />
         <error xtype="extra-word" idx="121-2" eid="0" />
@@ -1765,16 +1777,16 @@
   <w>lauslega</w>
   <w>byggt</w>
   <w>á</w>
-  <w><i>Les</i></w>
-  <w><i>Romanesques</i></w>
+  <w><hi>Les</hi></w>
+  <w><hi>Romanesques</hi></w>
   <w>eftir</w>
   <w>Edmond</w>
   <w>Rostand</w>
   <c>.</c>
 </s>
 <s n="48">
-  <w><i>The</i></w>
-  <w><i>Fantasticks</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Fantasticks</hi></w>
   <w>var</w>
   <revision id="122">
     <original><w>sett</w></original>
@@ -1787,7 +1799,7 @@
   <w>í</w>
   <revision id="123">
     <original><w>Sullivan</w><w>Street</w><w>Theatre</w></original>
-    <corrected><w><i>Sullivan</i></w><w><i>Street</i></w><w><i>Theatre</i></w></corrected>
+    <corrected><w><hi>Sullivan</hi></w><w><hi>Street</hi></w><w><hi>Theatre</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1795,7 +1807,7 @@
   <w>í</w>
   <revision id="124">
     <original><w>Greenwich</w><w>Village</w></original>
-    <corrected><w><i>Greenwich</i></w><w><i>Village</i></w></corrected>
+    <corrected><w><hi>Greenwich</hi></w><w><hi>Village</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1860,7 +1872,7 @@
   <w>dæmis</w>
   <revision id="129">
     <original><w>I</w><w>Do</w><c>!</c></original>
-    <corrected><w><i>I</i></w><w><i>Do</i></w><c><i>!</i></c></corrected>
+    <corrected><w><hi>I</hi></w><w><hi>Do</hi></w><c><hi>!</hi></c></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1869,7 +1881,7 @@
 <s n="50">
   <revision id="130">
     <original><w>I</w><w>Do</w><c>!</c></original>
-    <corrected><w><i>I</i></w><w><i>Do</i></w><c><i>!</i></c></corrected>
+    <corrected><w><hi>I</hi></w><w><hi>Do</hi></w><c><hi>!</hi></c></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1954,7 +1966,7 @@
   <w>árið 1964</w>
   <revision id="137">
     <original><w>var</w><w>Fiddler</w><w>on</w><w>the</w><w>Roof</w></original>
-    <corrected><c>:</c><w>Fiðlarinn</w><w>á</w><w>þakinu</w><c>(</c><w>e.</w><w><i>Fiddler</i></w><w><i>on</i></w><w><i>the</i></w><w><i>Roof</i></w><c>)</c></corrected>
+    <corrected><c>:</c><w>Fiðlarinn</w><w>á</w><w>þakinu</w><c>(</c><w>e.</w><w><hi>Fiddler</hi></w><w><hi>on</hi></w><w><hi>the</hi></w><w><hi>Roof</hi></w><c>)</c></corrected>
       <errors>
         <error xtype="word4symbol" idx="137-1" eid="0" />
         <error xtype="missing-words" idx="137-2" eid="0" />
@@ -2007,7 +2019,7 @@
   <w>var</w>
   <revision id="140">
     <original><w>Hello</w><c>,</c><w>Dolly</w><c>!</c></original>
-    <corrected><w><i>Hello</i></w><c><i>,</i></c><w><i>Dolly</i></w><c><i>!</i></c></corrected>
+    <corrected><w><hi>Hello</hi></w><c><hi>,</hi></c><w><hi>Dolly</hi></w><c><hi>!</hi></c></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -2058,7 +2070,7 @@
   <w>var</w>
   <revision id="146">
     <original><w>Funny</w><w>Girl</w></original>
-    <corrected><w><i>Funny</i></w><w><i>Girl</i></w></corrected>
+    <corrected><w><hi>Funny</hi></w><w><hi>Girl</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -2096,7 +2108,7 @@
   <w>Tónlistarhöfundur</w>
   <revision id="148">
     <original><w>Hello</w><c>,</c><w>Dolly</w><c>!</c></original>
-    <corrected><w><i>Hello</i></w><c><i>,</i></c><w><i>Dolly</i></w><c><i>!</i></c></corrected>
+    <corrected><w><hi>Hello</hi></w><c><hi>,</hi></c><w><hi>Dolly</hi></w><c><hi>!</hi></c></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -2123,7 +2135,7 @@
   <w>textahöfundur</w>
   <revision id="151">
     <original><w>West</w><w>Side</w><w>Story</w></original>
-    <corrected><w><i>West</i></w><w><i>Side</i></w><w><i>Story</i></w></corrected>
+    <corrected><w><hi>West</hi></w><w><hi>Side</hi></w><w><hi>Story</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -2160,7 +2172,7 @@
   <w>heitir</w>
   <revision id="153">
     <original><w>Milk</w><w>and</w><w>Honey</w></original>
-    <corrected><w><i>Milk</i></w><w><i>and</i></w><w><i>Honey</i></w></corrected>
+    <corrected><w><hi>Milk</hi></w><w><hi>and</hi></w><w><hi>Honey</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -2222,7 +2234,7 @@
   <w>fyrsti</w>
   <revision id="158">
     <original><w>A</w><w>Funny</w><w>Thing</w><w>Happened</w><w>on</w><w>the</w><w>Way</w><w>to</w><w>the</w><w>Forum</w></original>
-    <corrected><w><i>A</i></w><w><i>Funny</i></w><w><i>Thing</i></w><w><i>Happened</i></w><w><i>on</i></w><w><i>the</i></w><w><i>Way</i></w><w><i>to</i></w><w><i>the</i></w><w><i>Forum</i></w></corrected>
+    <corrected><w><hi>A</hi></w><w><hi>Funny</hi></w><w><hi>Thing</hi></w><w><hi>Happened</hi></w><w><hi>on</hi></w><w><hi>the</hi></w><w><hi>Way</hi></w><w><hi>to</hi></w><w><hi>the</hi></w><w><hi>Forum</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -2293,7 +2305,7 @@
   <w>söngleikurinn</w>
   <revision id="162">
     <original><w>Hárið</w></original>
-    <corrected><w><i>Hárið</i></w></corrected>
+    <corrected><w><hi>Hárið</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -2322,7 +2334,7 @@
 <s n="63">
   <revision id="165">
     <original><w>Höfundur</w><w>söngleikjarinns</w></original>
-    <corrected><w>Höfundar</w><w><i>Hársins</i></w></corrected>
+    <corrected><w>Höfundar</w><w><hi>Hársins</hi></w></corrected>
       <errors>
         <error xtype="singular4plural" idx="165-1" eid="0" />
         <error xtype="wording" idx="165-2" eid="0" />
@@ -2435,7 +2447,7 @@
   <w>sem</w>
   <revision id="171">
     <original><w>Jesus</w><w>Christ</w><w>Superstar</w></original>
-    <corrected><w><i>Jesus</i></w><w><i>Christ</i></w><w><i>Superstar</i></w></corrected>
+    <corrected><w><hi>Jesus</hi></w><w><hi>Christ</hi></w><w><hi>Superstar</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -2443,7 +2455,7 @@
   <w>og</w>
   <revision id="172">
     <original><w>Grease</w></original>
-    <corrected><w><i>Grease</i></w></corrected>
+    <corrected><w><hi>Grease</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -2453,7 +2465,7 @@
 <s n="67">
   <revision id="173">
     <original><w>Jesus</w><w>Christ</w><w>Superstar</w></original>
-    <corrected><w><i>Jesus</i></w><w><i>Christ</i></w><w><i>Superstar</i></w></corrected>
+    <corrected><w><hi>Jesus</hi></w><w><hi>Christ</hi></w><w><hi>Superstar</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -2581,7 +2593,7 @@
   <w>höfundar</w>
   <revision id="183">
     <original><w>Jesus</w><w>Christ</w><w>Superstar</w><w>kom</w><w>með</w></original>
-    <corrected><w><i>Jesus</i></w><w><i>Christ</i></w><w><i>Superstar</i></w><w>kynntu</w></corrected>
+    <corrected><w><hi>Jesus</hi></w><w><hi>Christ</hi></w><w><hi>Superstar</hi></w><w>kynntu</w></corrected>
       <errors>
         <error xtype="nonit4it" idx="183-1" eid="0" />
         <error xtype="wording" idx="183-2" eid="0" />
@@ -2657,7 +2669,7 @@
   <w>plötunni</w>
   <revision id="189">
     <original><w>Tommy</w></original>
-    <corrected><w><i>Tommy</i></w></corrected>
+    <corrected><w><hi>Tommy</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -2666,7 +2678,7 @@
   <w>hljómsveitinni</w>
   <revision id="190">
     <original><w>The</w><w>Who</w></original>
-    <corrected><w><i>The</i></w><w><i>Who</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Who</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -2836,7 +2848,7 @@
   <w>að</w>
   <revision id="203">
     <original><w>Hárið</w></original>
-    <corrected><w><i>Hárið</i></w></corrected>
+    <corrected><w><hi>Hárið</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -2926,7 +2938,7 @@
 <s n="76">
   <revision id="210">
     <original><w>Jesus</w><w>Christ</w><w>Superstar</w></original>
-    <corrected><w><i>Jesus</i></w><w><i>Christ</i></w><w><i>Superstar</i></w></corrected>
+    <corrected><w><hi>Jesus</hi></w><w><hi>Christ</hi></w><w><hi>Superstar</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -2972,7 +2984,7 @@
 <s n="77">
   <revision id="214">
     <original><w>Dreamgirls</w></original>
-    <corrected><w><i>Dreamgirls</i></w><w>fjallar</w></corrected>
+    <corrected><w><hi>Dreamgirls</hi></w><w>fjallar</w></corrected>
       <errors>
         <error xtype="nonit4it" idx="214-1" eid="0" />
         <error xtype="missing-word" idx="214-2" eid="0" /> 
@@ -3012,7 +3024,7 @@
   <w>á</w>
   <revision id="217">
     <original><w>The</w><w>Rocky</w><w>Horror</w><w>Show</w><w>það</w><w>var</w></original>
-    <corrected><w><i>The</i></w><w><i>Rocky</i></w><w><i>Horror</i></w><w><i>Show</i></w><c>.</c><w>Það</w><w>er</w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Rocky</hi></w><w><hi>Horror</hi></w><w><hi>Show</hi></w><c>.</c><w>Það</w><w>er</w></corrected>
       <errors>
         <error xtype="nonit4it" idx="217-1" eid="0" />
         <error xtype="missing-period" idx="217-2" eid="0" />
@@ -3097,7 +3109,7 @@
   <w>Svokallaðir</w>
   <revision id="224">
     <original><c>“</c><w>konsept</w><c>”</c><w>söngleikir</w></original>
-    <corrected><w><i>konsept-söngleikir</i></w></corrected>
+    <corrected><w><hi>konsept-söngleikir</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="224-1" eid="0" />
         <error xtype="nonit4it" idx="224-2" eid="0" />
@@ -3143,7 +3155,7 @@
   <w>nafnið</w>
   <revision id="225">
     <original><w>konsept-söngleikur</w></original>
-    <corrected><w><i>konsept-söngleikur</i></w></corrected>
+    <corrected><w><hi>konsept-söngleikur</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -3227,7 +3239,7 @@
   <w>fyirr</w>
   <revision id="230">
     <original><w>konsept-söngleikin</w><w>Company</w></original>
-    <corrected><w>konsept-söngleikinn</w><w><i>Company</i></w></corrected>
+    <corrected><w>konsept-söngleikinn</w><w><hi>Company</hi></w></corrected>
       <errors>
         <error xtype="n4nn" idx="230-1" eid="0" />
         <error xtype="nonword" idx="230-1" eid="0" />
@@ -3288,7 +3300,7 @@
   <w>líklega</w>
   <revision id="234">
     <original><w>Sweeney</w><w>Todd</w></original>
-    <corrected><w><i>Sweeney</i></w><w><i>Todd</i></w></corrected>
+    <corrected><w><hi>Sweeney</hi></w><w><hi>Todd</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -3328,7 +3340,7 @@
   <w>Í</w>
   <revision id="236">
     <original><w>Sweeney</w><w>Todd</w><w>var</w></original>
-    <corrected><w><i>Sweeney</i></w><w><i>Todd</i></w><w>er</w></corrected>
+    <corrected><w><hi>Sweeney</hi></w><w><hi>Todd</hi></w><w>er</w></corrected>
       <errors>
         <error xtype="nonit4it" idx="236-1" eid="0" />
         <error xtype="past4pres" idx="236-2" eid="0" />
@@ -3388,7 +3400,7 @@
   <w>áfram</w>
   <revision id="239">
     <original><w>sýnu</w><w>stryki</w><w>frá</w><w>Jesus</w><w>Christ</w><w>Superstar</w></original>
-    <corrected><w>sínu</w><w>striki</w><w>í</w><w>framhaldi</w><w>af</w><w><i>Jesus</i></w><w><i>Christ</i></w><w><i>Superstar</i></w></corrected>
+    <corrected><w>sínu</w><w>striki</w><w>í</w><w>framhaldi</w><w>af</w><w><hi>Jesus</hi></w><w><hi>Christ</hi></w><w><hi>Superstar</hi></w></corrected>
       <errors>
         <error xtype="ý4í" idx="239-1" eid="0" />
         <error xtype="y4i" idx="239-2" eid="0" />
@@ -3403,7 +3415,7 @@
   <w>úr</w>
   <revision id="240">
     <original><w>Evitu</w><c>.</c></original>
-    <corrected><w><i>Evitu</i></w><w>sem</w></corrected>
+    <corrected><w><hi>Evitu</hi></w><w>sem</w></corrected>
       <errors>
         <error xtype="nonit4it" idx="240-1" eid="0" />
         <error xtype="period4conjunction" idx="240-2" eid="0" />
@@ -3447,7 +3459,7 @@
   <w>innihald</w>
   <revision id="242">
     <original><w>söngleikjanna</w><c>.</c><w>Evita</w></original>
-    <corrected><w>söngleiksins</w><w>almennt</w><w>í</w><w>svokölluðum</w><w>ofursöngleikjum</w><w>en</w><w><i>Evita</i></w></corrected>
+    <corrected><w>söngleiksins</w><w>almennt</w><w>í</w><w>svokölluðum</w><w>ofursöngleikjum</w><w>en</w><w><hi>Evita</hi></w></corrected>
       <errors>
         <error xtype="plural4singular" idx="242-1" eid="0" />
         <error xtype="missing-words" idx="242-2" eid="0" />
@@ -3542,7 +3554,7 @@
   <w>áhorfendum</w>
   <revision id="250">
     <original><w>eru</w><w>Littla</w><w>Hryllingsbúðin</w></original>
-    <corrected><w>er</w><w><i>Litla</i></w><w><i>hryllingsbúðin</i></w></corrected>
+    <corrected><w>er</w><w><hi>Litla</hi></w><w><hi>hryllingsbúðin</hi></w></corrected>
       <errors>
         <error xtype="agreement" idx="250-1" eid="0" />
         <error xtype="nonit4it" idx="250-2" eid="0" />
@@ -3608,7 +3620,7 @@
   <w>söngleikur</w>
   <revision id="255">
     <original><w>áratugarinns</w><w>var</w><w>Cats</w><c>.</c><w>Cats</w></original>
-    <corrected><w>áratugarins</w><w><i>Cats</i></w><w>og</w></corrected>
+    <corrected><w>áratugarins</w><w><hi>Cats</hi></w><w>og</w></corrected>
       <errors>
         <error xtype="nn4n" idx="255-1" eid="0" />
         <error xtype="wording" idx="255-2" eid="0" />
@@ -3644,7 +3656,7 @@
   <w>bókinni</w>
   <revision id="258">
     <original><w>Old</w><w>Possum's</w><w>Book</w><w>of</w><w>Practical</w><w>Cats</w></original>
-    <corrected><w><i>Old</i></w><w><i>Possum's</i></w><w><i>Book</i></w><w><i>of</i></w><w><i>Practical</i></w><w><i>Cats</i></w></corrected>
+    <corrected><w><hi>Old</hi></w><w><hi>Possum's</hi></w><w><hi>Book</hi></w><w><hi>of</hi></w><w><hi>Practical</hi></w><w><hi>Cats</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -3684,7 +3696,7 @@
 <s n="93">
   <revision id="260">
     <original><w>The</w><w>Phantom</w><w>of</w><w>the</w><w>Opera</w></original>
-    <corrected><w><i>The</i></w><w><i>Phantom</i></w><w><i>of</i></w><w><i>the</i></w><w><i>Opera</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Phantom</hi></w><w><hi>of</hi></w><w><hi>the</hi></w><w><hi>Opera</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -3725,7 +3737,7 @@
   <w>bókinni</w>
   <revision id="261">
     <original><w>Le</w><w>Fantôme</w><w>de</w><w>l'Opéra</w></original>
-    <corrected><w><i>Le</i></w><w><i>Fantôme</i></w><w><i>de</i></w><w><i>l'Opéra</i></w></corrected>
+    <corrected><w><hi>Le</hi></w><w><hi>Fantôme</hi></w><w><hi>de</hi></w><w><hi>l'Opéra</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -3910,10 +3922,10 @@
   <c>.</c>
 </s>
 <s n="102">
-  <w><i>Les</i></w>
-  <w><i>Misérables</i></w>
+  <w><hi>Les</hi></w>
+  <w><hi>Misérables</hi></w>
   <w>eða</w>
-  <w><i>Vesalingarnir</i></w>
+  <w><hi>Vesalingarnir</hi></w>
   <c>,</c>
   <w>oft</w>
   <w>einnig</w>
@@ -3924,11 +3936,11 @@
         <error xtype="agreement-pred" eid="0" />
       </errors>
   </revision>
-  <w><i>Les</i></w>
-  <w><i>Mis</i></w>
+  <w><hi>Les</hi></w>
+  <w><hi>Mis</hi></w>
   <w>eða</w>
-  <w><i>Les</i></w>
-  <w><i>Miz</i></w>
+  <w><hi>Les</hi></w>
+  <w><hi>Miz</hi></w>
   <w>er</w>
   <w>söngleikur</w>
   <w>þar</w>
@@ -4039,7 +4051,7 @@
   <w>í</w>
   <revision id="278">
     <original><w>Barbican</w><w>Centre</w></original>
-    <corrected><w><i>Barbican</i></w><w><i>Centre</i></w></corrected>
+    <corrected><w><hi>Barbican</hi></w><w><hi>Centre</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -4242,7 +4254,7 @@
 <s n="110">
   <revision id="288">
     <original><w>Vesalingarnir</w><w>hafa</w></original>
-    <corrected><w>Söngleikurinn</w><w><i>Vesalingarnir</i></w><w>hefur</w></corrected>
+    <corrected><w>Söngleikurinn</w><w><hi>Vesalingarnir</hi></w><w>hefur</w></corrected>
       <errors>
         <error xtype="missing-word" idx="288-1" eid="0" />
         <error xtype="dep" depId="288-1" eid="0" />
@@ -4321,7 +4333,7 @@
   <w>sá</w>
   <revision id="293">
     <original><w>West-End</w><w>söngleikur</w></original>
-    <corrected><w><i>West-End-söngleikur</i></w></corrected>
+    <corrected><w><hi>West-End-söngleikur</hi></w></corrected>
       <errors>
         <error xtype="missing-dash" eid="0" />
       </errors>
@@ -4378,7 +4390,7 @@
   <w>frumsýningu</w>
   <revision id="297">
     <original><w>Rent</w></original>
-    <corrected><w><i>Rent</i></w></corrected>
+    <corrected><w><hi>Rent</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -4388,7 +4400,7 @@
 <s n="114">
   <revision id="298">
     <original><w>Rent</w></original>
-    <corrected><w><i>Rent</i></w></corrected>
+    <corrected><w><hi>Rent</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -4502,7 +4514,7 @@
   <w>rokksöngleikurinn</w>
   <revision id="308">
     <original></original>
-    <corrected><c>,</c><w><i>Hárið</i></w><c>,</c></corrected>
+    <corrected><c>,</c><w><hi>Hárið</hi></w><c>,</c></corrected>
       <errors>
         <error xtype="missing-commas" idx="308-1" eid="0" />
         <error xtype="missing-word" idx="308-2" eid="0" />
@@ -4513,7 +4525,7 @@
   <w>nýjasti</w>
   <revision id="309">
     <original><c>(</c><w>þegar</w><w>Rent</w><w>er</w><w>frumsýndur</w></original>
-    <corrected><c>,</c><w><i>Rent</i></w><c>,</c></corrected>
+    <corrected><c>,</c><w><hi>Rent</hi></w><c>,</c></corrected>
       <errors>
         <error xtype="bracket4comma" idx="309-1" eid="0" />
         <error xtype="extra-words" idx="309-2" eid="0" />
@@ -4527,7 +4539,7 @@
 <s n="117">
   <revision id="310">
     <original><w>Hárið</w></original>
-    <corrected><w><i>Hárið</i></w></corrected>
+    <corrected><w><hi>Hárið</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -4554,7 +4566,7 @@
   <w>í</w>
   <revision id="312">
     <original><w>Rent</w></original>
-    <corrected><w><i>Rent</i></w></corrected>
+    <corrected><w><hi>Rent</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -4594,7 +4606,7 @@
   <w>óperunni</w>
   <revision id="314">
     <original><w>La</w><w>bohème</w></original>
-    <corrected><w><i>La</i></w><w><i>bohème</i></w></corrected>
+    <corrected><w><hi>La</hi></w><w><hi>bohème</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -4674,7 +4686,7 @@
   <w>gerir</w>
   <revision id="321">
     <original><w>Rent</w></original>
-    <corrected><w><i>Rent</i></w></corrected>
+    <corrected><w><hi>Rent</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -4737,7 +4749,7 @@
 <s n="121">
   <revision id="325">
     <original><w>Rent</w></original>
-    <corrected><w>Söngleikurinn</w><w><i>Rent</i></w></corrected>
+    <corrected><w>Söngleikurinn</w><w><hi>Rent</hi></w></corrected>
       <errors>
         <error xtype="missing-word" idx="325-1" eid="0" />
         <error xtype="nonit4it" idx="325-2" eid="0" />
@@ -4845,7 +4857,7 @@
 <s n="123">
   <revision id="332">
     <original><w>Rent</w></original>
-    <corrected><w><i>Rent</i></w></corrected>
+    <corrected><w><hi>Rent</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -4945,7 +4957,7 @@
   <w>dæmis</w>
   <revision id="339">
     <original><w>Litla</w><w>hafmeyjan</w></original>
-    <corrected><w><i>Litla</i></w><w><i>hafmeyjan</i></w></corrected>
+    <corrected><w><hi>Litla</hi></w><w><hi>hafmeyjan</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -4953,7 +4965,7 @@
   <c>,</c>
   <revision id="340">
     <original><w>Konungur</w><w>ljónana</w></original>
-    <corrected><w><i>Konungur</i></w><w><i>ljónanna</i></w></corrected>
+    <corrected><w><hi>Konungur</hi></w><w><hi>ljónanna</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -4961,7 +4973,7 @@
   <c>,</c>
   <revision id="341">
     <original><w>Aladdin</w></original>
-    <corrected><w><i>Aladdín</i></w></corrected>
+    <corrected><w><hi>Aladdín</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -4969,7 +4981,7 @@
   <w>og</w>
   <revision id="342">
     <original><w>Hringjarinn</w><w>í</w><w>Notre</w><w>Dame</w></original>
-    <corrected><w><i>Hringjarinn</i></w><w><i>í</i></w><w><i>Notre</i></w><w><i>Dame</i></w></corrected>
+    <corrected><w><hi>Hringjarinn</hi></w><w><hi>í</hi></w><w><hi>Notre</hi></w><w><hi>Dame</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -4997,7 +5009,7 @@
   <w>utan</w>
   <revision id="344">
     <original><w>Konung</w><w>Ljónanna</w></original>
-    <corrected><w><i>Konung</i></w><w><i>Ljónanna</i></w></corrected>
+    <corrected><w><hi>Konung</hi></w><w><hi>Ljónanna</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -5046,7 +5058,7 @@
   <w>nefna</w>
   <revision id="348">
     <original><w>Konung</w><w>Ljónana</w></original>
-    <corrected><w><i>Konung</i></w><w><i>Ljónanna</i></w></corrected>
+    <corrected><w><hi>Konung</hi></w><w><hi>Ljónanna</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -5054,7 +5066,7 @@
   <w>og</w>
   <revision id="349">
     <original><w>Fríðu</w><w>og</w><w>Dýrið</w></original>
-    <corrected><w><i>Fríðu</i></w><w><i>og</i></w><w><i>Dýrið</i></w></corrected>
+    <corrected><w><hi>Fríðu</hi></w><w><hi>og</hi></w><w><hi>Dýrið</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -5078,7 +5090,7 @@
   <w>á</w>
   <revision id="350">
     <original><w>það</w><w>eru</w><w>Wicked</w></original>
-    <corrected><c>,</c><w>til</w><w>dæmis</w><w><i>Wicked</i></w></corrected>
+    <corrected><c>,</c><w>til</w><w>dæmis</w><w><hi>Wicked</hi></w></corrected>
       <errors>
         <error xtype="missing-comma" idx="350-1" eid="0" />
         <error xtype="wording" idx="350-2" eid="0" />
@@ -5102,7 +5114,7 @@
   <w>úr</w>
   <revision id="352">
     <original><w>Galdrakarlinum</w><w>í</w><w>Oz</w></original>
-    <corrected><w><i>Galdrakarlinum</i></w><w><i>í</i></w><w><i>Oz</i></w></corrected>
+    <corrected><w><hi>Galdrakarlinum</hi></w><w><hi>í</hi></w><w><hi>Oz</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -5114,7 +5126,7 @@
   <w>í</w>
   <revision id="353">
     <original><w>Wicked</w></original>
-    <corrected><w><i>Wicked</i></w></corrected>
+    <corrected><w><hi>Wicked</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -5189,7 +5201,7 @@
   <w>eru</w>
   <revision id="357">
     <original><w>Chicago</w></original>
-    <corrected><w><i>Chicago</i></w></corrected>
+    <corrected><w><hi>Chicago</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -5197,7 +5209,7 @@
   <c>,</c>
   <revision id="358">
     <original><w>Phantom</w><w>of</w><w>the</w><w>Opera</w></original>
-    <corrected><w><i>Phantom</i></w><w><i>of</i></w><w><i>the</i></w><w><i>Opera</i></w></corrected>
+    <corrected><w><hi>Phantom</hi></w><w><hi>of</hi></w><w><hi>the</hi></w><w><hi>Opera</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -5205,7 +5217,7 @@
   <c>,</c>
   <revision id="359">
     <original><w>Dreamgirls</w></original>
-    <corrected><w><i>Dreamgirls</i></w></corrected>
+    <corrected><w><hi>Dreamgirls</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -5213,7 +5225,7 @@
   <w>og</w>
   <revision id="360">
     <original><w>Sweeney</w><w>Todd</w></original>
-    <corrected><w><i>Sweeney</i></w><w><i>Todd</i></w></corrected>
+    <corrected><w><hi>Sweeney</hi></w><w><hi>Todd</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -5232,7 +5244,7 @@
   <w>á</w>
   <revision id="362">
     <original><w>Les</w><w>Misérables</w></original>
-    <corrected><w><i>Les</i></w><w><i>Misérables</i></w></corrected>
+    <corrected><w><hi>Les</hi></w><w><hi>Misérables</hi></w></corrected>
     <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>

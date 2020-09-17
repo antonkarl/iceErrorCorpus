@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_6-t3.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Á</w>
@@ -166,10 +178,10 @@
   <w>Якýтия</w>
   <c>)</c>
   <c>,</c>
-  <w><i>Respublika</i></w>
-  <w><i>Sakha</i></w>
+  <w><hi>Respublika</hi></w>
+  <w><hi>Sakha</hi></w>
   <c>(</c>
-  <w><i>Jakutija</i></w>
+  <w><hi>Jakutija</hi></w>
   <c>)</c>
   <c>;</c>
   <w>jakútíska</w>
@@ -177,8 +189,8 @@
   <w>Саха</w>
   <w>Республиката</w>
   <c>,</c>
-  <w><i>Sakha</i></w>
-  <w><i>Respublikata</i></w>
+  <w><hi>Sakha</hi></w>
+  <w><hi>Respublikata</hi></w>
   <c>)</c>
   <w>er</w>
   <w>sjálfstjórnarlýðveldi</w>

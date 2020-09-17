@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_275-t6.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Súdan</w>
@@ -19,7 +31,7 @@
   <w>var</w>
   <w>kallað</w>
   <revision id="1">
-    <original><w><i>Franska</i></w><w><i>Súdan</i></w></original>
+    <original><w><hi>Franska</hi></w><w><hi>Súdan</hi></w></original>
     <corrected><w>Franska</w><w>Súdan</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -63,8 +75,8 @@
   <w>úr</w>
   <w>arabísku</w>
   <c>,</c>
-  <w><i>bilâd</i></w>
-  <w><i>as-sûdân</i></w>
+  <w><hi>bilâd</hi></w>
+  <w><hi>as-sûdân</hi></w>
   <c>(</c>
   <c>„</c>
   <w>land</w>

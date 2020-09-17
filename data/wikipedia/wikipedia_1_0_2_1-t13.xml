@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_1-t13.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <revision id="1">
     <original><w>Alerte</w><w>aux</w><w>orkons</w></original>
-    <corrected><w><i>Alerte</i></w><w><i>aux</i></w><w><i>orkons</i></w></corrected>
+    <corrected><w><hi>Alerte</hi></w><w><hi>aux</hi></w><w><hi>orkons</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -289,10 +301,10 @@
   <w>bók</w>
   <w>þrettán</w>
   <c>,</c>
-  <w><i>Le</i></w>
-  <w><i>voyageur</i></w>
-  <w><i>du</i></w>
-  <w><i>Mésozoïque</i></w>
+  <w><hi>Le</hi></w>
+  <w><hi>voyageur</hi></w>
+  <w><hi>du</hi></w>
+  <w><hi>Mésozoïque</hi></w>
   <c>.</c>
 </s>
 <s n="12">

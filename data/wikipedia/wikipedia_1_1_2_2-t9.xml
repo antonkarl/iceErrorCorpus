@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_2-t9.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
-  <w><i>La</i></w>
-  <w><i>Face</i></w>
-  <w><i>cachée</i></w>
-  <w><i>du</i></w>
-  <w><i></i></w>
+  <w><hi>La</hi></w>
+  <w><hi>Face</hi></w>
+  <w><hi>cachée</hi></w>
+  <w><hi>du</hi></w>
+  <w><hi></hi></w>
   <w>er</w>
   <w>52.</w>
   <w>bókin</w>
@@ -69,7 +81,7 @@
   <w>framhald</w>
   <revision id="2">
     <original><w>Alerte</w><w>aux</w><w>orkons</w></original>
-    <corrected><w><i>Alerte</i></w><w><i>aux</i></w><w><i>orkons</i></w></corrected>
+    <corrected><w><hi>Alerte</hi></w><w><hi>aux</hi></w><w><hi>orkons</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -283,7 +295,7 @@
   <w>flótta</w>
   <w>undan</w>
   <revision id="6">
-    <original><w><i>Bronco</i></w></original>
+    <original><w><hi>Bronco</hi></w></original>
     <corrected><w>Bronco</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -342,7 +354,7 @@
   <c>,</c>
   <w>þegar</w>
   <revision id="7">
-    <original><w><i>Bronco</i></w></original>
+    <original><w><hi>Bronco</hi></w></original>
     <corrected><w>Bronco</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -365,7 +377,7 @@
   <w>berjast</w>
   <w>uns</w>
   <revision id="8">
-    <original><w><i>Bronco</i></w></original>
+    <original><w><hi>Bronco</hi></w></original>
     <corrected><w>Bronco</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />

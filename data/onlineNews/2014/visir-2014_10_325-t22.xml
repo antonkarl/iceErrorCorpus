@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>visir-2014_10_325-t22.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Í</w>
@@ -212,7 +224,7 @@
   <c>:</c>
   <revision id="8">
     <original><w>Sounds</w><w>Queer</w></original>
-    <corrected><w><i>Sounds</i></w><w><i>Queer</i></w></corrected>
+    <corrected><w><hi>Sounds</hi></w><w><hi>Queer</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -223,7 +235,7 @@
   <w>Bahl</w>
   <revision id="9">
     <original><w>Sounds</w><w>Queer</w></original>
-    <corrected><w><i>Sounds</i></w><w><i>Queer</i></w></corrected>
+    <corrected><w><hi>Sounds</hi></w><w><hi>Queer</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_425-t20.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="0">
   <revision id="1">
-    <original><w>Tíkallakassi</w><c>(</c><w>finnska</w><c>:</c><w>pajatso</w><w>eða</w><w>jasso</w><c>,</c><w>úr</w><w>þýsku</w><w><i>bajazzo</i></w><c>;</c><w>þangað</w><w>úr</w><w>ítölsku</w><w><i>pagliaccio</i></w><c>,</c><c>„</c><w>trúður</w><c>“</c><c>)</c></original>
+    <original><w>Tíkallakassi</w><c>(</c><w>finnska</w><c>:</c><w>pajatso</w><w>eða</w><w>jasso</w><c>,</c><w>úr</w><w>þýsku</w><w><hi>bajazzo</hi></w><c>;</c><w>þangað</w><w>úr</w><w>ítölsku</w><w><hi>pagliaccio</hi></w><c>,</c><c>„</c><w>trúður</w><c>“</c><c>)</c></original>
     <corrected><w>Tíkallakassi</w></corrected>
       <errors>
         <error xtype="extra-bracket" idx="1-1" eid="0" />
@@ -31,7 +43,7 @@
 <s n="1">
   <revision id="2">
     <original></original>
-    <corrected><w>Á</w><w>finnsku</w><w>kallast</w><w>þeir</w><w><i>pajatso</i></w><w>eða</w><w><i>jasso</i></w><c>,</c><w>sem</w><w>kemur</w><w>frá</w><w>þýska</w><w>orðinu</w><w><i>bajazzo</i></w><w>en</w><w>það</w><w>kemur</w><w>úr</w><w>ítalska</w><w><i>pagliaccio</i></w><w>sem</w><w>þýðir</w><c>„</c><w>trúður</w><c>“</c><c>)</c></corrected>
+    <corrected><w>Á</w><w>finnsku</w><w>kallast</w><w>þeir</w><w><hi>pajatso</hi></w><w>eða</w><w><hi>jasso</hi></w><c>,</c><w>sem</w><w>kemur</w><w>frá</w><w>þýska</w><w>orðinu</w><w><hi>bajazzo</hi></w><w>en</w><w>það</w><w>kemur</w><w>úr</w><w>ítalska</w><w><hi>pagliaccio</hi></w><w>sem</w><w>þýðir</w><c>„</c><w>trúður</w><c>“</c><c>)</c></corrected>
       <errors>
         <error xtype="dep" depId="1-2" eid="0" />
       </errors>

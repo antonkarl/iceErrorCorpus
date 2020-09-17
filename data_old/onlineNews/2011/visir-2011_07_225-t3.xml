@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <revision id="1">
+    <original><w>Fyrsta</w><w>þröskuldinum</w></original>
+    <corrected><w>Fyrstu</w><w>hindruninni</w></corrected>
+      <errors>
+        <error xtype="dep" depId="1-1" eid="0" />
+        <error xtype="wording" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>fyrir</w>
+  <w>eignarhaldi</w>
+  <w>Þjóðverja</w>
+  <w>á</w>
+  <w>kauphöllinni</w>
+  <w>í</w>
+  <w>New</w>
+  <w>York</w>
+  <c>(</c>
+  <w>NYSE</w>
+  <c>)</c>
+  <w>hefur</w>
+  <w>verið</w>
+  <w>rutt</w>
+  <w>úr</w>
+  <w>veginum</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Hluthafar</w>
+  <w>í</w>
+  <w>NYSE</w>
+  <w>Euronext</w>
+  <w>hafa</w>
+  <w>samþykkt</w>
+  <w>að</w>
+  <w>selja</w>
+  <w>meirihlutaeign</w>
+  <w>í</w>
+  <w>kauphöllinni</w>
+  <w>til</w>
+  <w>Deutsche</w>
+  <w>Börse</w>
+  <w>sem</w>
+  <w>hefur</w>
+  <w>höfuðstöðvar</w>
+  <w>í</w>
+  <w>fjármálahverfi</w>
+  <w>Frankfurt</w>
+  <w>í</w>
+  <w>Þýskalandi</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Í</w>
+  <w>frétt</w>
+  <w>um</w>
+  <w>málið</w>
+  <w>á</w>
+  <w>business.dk</w>
+  <w>segir</w>
+  <w>að</w>
+  <w>næsta</w>
+  <w>skref</w>
+  <w>verði</w>
+  <w>að</w>
+  <w>fá</w>
+  <w>samþykki</w>
+  <w>eigenda</w>
+  <w>Deutsche</w>
+  <w>Börse</w>
+  <w>fyrir</w>
+  <w>kaupunum</w>
+  <w>en</w>
+  <w>þeir</w>
+  <w>munu</w>
+  <w>greiða</w>
+  <w>atkvæði</w>
+  <w>um</w>
+  <w>málið</w>
+  <w>þann</w>
+  <w>13. júlí</w>
+  <revision id="2">
+    <original><w>n.k</w></original>
+    <corrected><w>nk</w></corrected>
+      <errors>
+        <error xtype="abbreviation-period" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>NYSE</w>
+  <w>er</w>
+  <w>stærsta</w>
+  <w>kauphöll</w>
+  <revision id="3">
+    <original><w>heimsins</w></original>
+    <corrected><w>heims</w></corrected>
+      <errors>
+        <error xtype="def4ind" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>talið</w>
+  <w>er</w>
+  <w>að</w>
+  <w>meirihlutaeignin</w>
+  <w>muni</w>
+  <w>kosta</w>
+  <w>Deutsche</w>
+  <w>Börse</w>
+  <w>um</w>
+  <w>10</w>
+  <w>milljarða</w>
+  <w>dollara</w>
+  <w>eða</w>
+  <w>um</w>
+  <w>1160</w>
+  <revision id="4">
+    <original><w>milljörðum</w></original>
+    <corrected><w>milljarða</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
+  <w>króna</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Reiknað</w>
+  <w>er</w>
+  <w>með</w>
+  <w>að</w>
+  <w>Duncan</w>
+  <w>Niederauer</w>
+  <revision id="5">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-commas" idx="5-1" eid="0" />
+      </errors>
+  </revision>
+  <w>einn</w>
+  <w>af</w>
+  <w>framkvæmdastjóri</w>
+  <w>NYSE</w>
+  <revision id="6">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="dep" depId="5-1" eid="0" />
+      </errors>
+  </revision>
+  <w>verði</w>
+  <w>næsti</w>
+  <w>forstjóri</w>
+  <w>kauphallarinnar</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

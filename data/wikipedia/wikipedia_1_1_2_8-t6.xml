@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_8-t6.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Víkingaþungarokk</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>Viking</i></w>
-  <w><i>metal</i></w>
+  <w><hi>Viking</hi></w>
+  <w><hi>metal</hi></w>
   <c>)</c>
   <w>er</w>
   <w>ein</w>
@@ -1748,7 +1760,7 @@
   <w>heitir</w>
   <revision id="67">
     <original><w>Baldur</w></original>
-    <corrected><w><i>Baldur</i></w></corrected>
+    <corrected><w><hi>Baldur</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1844,8 +1856,8 @@
         <error xtype="missing-commas" idx="69-1" eid="0" />
       </errors>
   </revision>
-  <w><i>Börn</i></w>
-  <w><i>Loka</i></w>
+  <w><hi>Börn</hi></w>
+  <w><hi>Loka</hi></w>
   <revision id="70">
     <original></original>
     <corrected><c>,</c></corrected>

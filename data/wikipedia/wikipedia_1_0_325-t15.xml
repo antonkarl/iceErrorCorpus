@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_325-t15.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Jómsvíkingar</w>
@@ -76,8 +88,8 @@
   <w>þá</w>
   <w>er</w>
   <revision id="3">
-    <original><w><i>Jómsvíkinga</i></w><w><i>saga</i></w><c>,</c></original>
-    <corrected><w><i>Jómsvíkingasaga</i></w></corrected>
+    <original><w><hi>Jómsvíkinga</hi></w><w><hi>saga</hi></w><c>,</c></original>
+    <corrected><w><hi>Jómsvíkingasaga</hi></w></corrected>
       <errors>
         <error xtype="split-compound" idx="3-1" eid="0" />
         <error xtype="extra-comma" idx="3-2" eid="0" />

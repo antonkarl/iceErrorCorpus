@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>visir-2014_10_225-t4.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Skemmst</w>
@@ -25,7 +37,7 @@
   <w>og</w>
   <revision id="2">
     <original><w>The</w><w>Rock</w></original>
-    <corrected><w><i>The</i></w><w><i>Rock</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Rock</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -179,7 +191,7 @@
   <c>,</c>
   <revision id="13">
     <original><w>The</w><w>Rock</w></original>
-    <corrected><w><i>The</i></w><w><i>Rock</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Rock</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -251,7 +263,7 @@
   <w>líkjast</w>
   <revision id="17">
     <original><w>hasarmyndahetjunniThe</w><w>Rock</w></original>
-    <corrected><w>hasarmyndahetjunni</w><w><i>The</i></w><w><i>Rock</i></w></corrected>
+    <corrected><w>hasarmyndahetjunni</w><w><hi>The</hi></w><w><hi>Rock</hi></w></corrected>
       <errors>
         <error xtype="missing-space" idx="6-1" eid="0"/>
         <error xtype="nonit4it" idx="6-2" eid="0"/>

@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>visir-2014_10_300-t0.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Hægt</w>
@@ -26,7 +38,7 @@
   <w>Fyrirtækið</w>
   <revision id="1">
     <original><w>Orient</w><w>Industryer</w></original>
-    <corrected><w><i>Orient</i></w><w><i>Industryer</i></w><w>er</w></corrected>
+    <corrected><w><hi>Orient</hi></w><w><hi>Industryer</hi></w><w>er</w></corrected>
       <errors>
         <error xtype="nonit4it" idx="1-1" eid="0"/>
         <error xtype="missing-word" idx="1-2" eid="0"/>

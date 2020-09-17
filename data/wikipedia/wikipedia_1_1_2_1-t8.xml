@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_1-t8.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Walter</w>
@@ -37,7 +49,7 @@
   <c>(</c>
   <revision id="1">
     <original><w>Ursprung</w><w>des</w><w>deutschen</w><w>Trauersþiels</w></original>
-    <corrected><w><i>Ursprung</i></w><w><i>des</i></w><w><i>deutschen</i></w><w><i>Trauerspiels</i></w></corrected>
+    <corrected><w><hi>Ursprung</hi></w><w><hi>des</hi></w><w><hi>deutschen</hi></w><w><hi>Trauerspiels</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="1-1" eid="0" />
         <error xtype="letter-rep" idx="1-1" eid="0" />
@@ -128,11 +140,11 @@
         <error xtype="extra-quots" idx="2-1" eid="0" />
       </errors>
   </revision>
-  <w><i>The</i></w>
-  <w><i>Task</i></w>
-  <w><i>of</i></w>
-  <w><i>the</i></w>
-  <w><i>Translator</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Task</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>Translator</hi></w>
   <revision id="3">
     <original><c>“</c></original>
     <corrected></corrected>
@@ -151,16 +163,16 @@
         <error xtype="extra-quots" idx="4-1" eid="0" />
       </errors>
   </revision>
-  <w><i>The</i></w>
-  <w><i>Work</i></w>
-  <w><i>of</i></w>
-  <w><i>Art</i></w>
-  <w><i>in</i></w>
-  <w><i>the</i></w>
-  <w><i>Age</i></w>
-  <w><i>of</i></w>
-  <w><i>Mechanical</i></w>
-  <w><i>Reproduction</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Work</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>Art</hi></w>
+  <w><hi>in</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>Age</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>Mechanical</hi></w>
+  <w><hi>Reproduction</hi></w>
   <revision id="5">
     <original><c>“</c></original>
     <corrected></corrected>
@@ -181,11 +193,11 @@
   <w>þýðingu</w>
   <w>undir</w>
   <w>titlinum</w>
-  <w><i>Listaverkið</i></w>
-  <w><i>á</i></w>
-  <w><i>tímum</i></w>
-  <w><i>fjöldaframleiðslu</i></w>
-  <w><i>sinnar</i></w>
+  <w><hi>Listaverkið</hi></w>
+  <w><hi>á</hi></w>
+  <w><hi>tímum</hi></w>
+  <w><hi>fjöldaframleiðslu</hi></w>
+  <w><hi>sinnar</hi></w>
   <c>.</c>
 </s>
 <s n="6">
@@ -231,13 +243,13 @@
   <w>að</w>
   <w>rita</w>
   <w>verkið</w>
-  <w><i>Das</i></w>
-  <w><i>Passagen-Werk</i></w>
+  <w><hi>Das</hi></w>
+  <w><hi>Passagen-Werk</hi></w>
   <c>(</c>
   <w>e.</w>
-  <w><i>The</i></w>
-  <w><i>Arcades</i></w>
-  <w><i>Project</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Arcades</hi></w>
+  <w><hi>Project</hi></w>
   <c>)</c>
   <w>en</w>
   <w>það</w>
@@ -371,7 +383,7 @@
   <w>áhuga</w>
   <w>á</w>
   <revision id="10">
-    <original><w><i>Les</i></w><w><i>Passages</i></w></original>
+    <original><w><hi>Les</hi></w><w><hi>Passages</hi></w></original>
     <corrected><w>Les</w><w>Passages</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -399,13 +411,13 @@
       </errors>
   </revision>
   <w>að</w>
-  <w><i>Das</i></w>
-  <w><i>Paris</i></w>
-  <w><i>des</i></w>
-  <w><i>Second</i></w>
-  <w><i>Empire</i></w>
-  <w><i>bei</i></w>
-  <w><i>Baudelaire</i></w>
+  <w><hi>Das</hi></w>
+  <w><hi>Paris</hi></w>
+  <w><hi>des</hi></w>
+  <w><hi>Second</hi></w>
+  <w><hi>Empire</hi></w>
+  <w><hi>bei</hi></w>
+  <w><hi>Baudelaire</hi></w>
   <w>og</w>
   <revision id="12">
     <original><w>þá</w></original>
@@ -434,8 +446,8 @@
   <w>geyma</w>
   <w>handrit</w>
   <w>að</w>
-  <w><i>Das</i></w>
-  <w><i>Passagen-Werk</i></w>
+  <w><hi>Das</hi></w>
+  <w><hi>Passagen-Werk</hi></w>
   <c>.</c>
 </s>
 <s n="13">
@@ -529,19 +541,19 @@
   <w>skrifaði</w>
   <w>hann</w>
   <w>ritið</w>
-  <w><i>Über</i></w>
-  <w><i>den</i></w>
-  <w><i>Begriff</i></w>
-  <w><i>der</i></w>
-  <w><i>Geschichte</i></w>
+  <w><hi>Über</hi></w>
+  <w><hi>den</hi></w>
+  <w><hi>Begriff</hi></w>
+  <w><hi>der</hi></w>
+  <w><hi>Geschichte</hi></w>
   <c>(</c>
   <w>e.</w>
-  <w><i>Theses</i></w>
-  <w><i>on</i></w>
-  <w><i>the</i></w>
-  <w><i>Philosophy</i></w>
-  <w><i>of</i></w>
-  <w><i>History</i></w>
+  <w><hi>Theses</hi></w>
+  <w><hi>on</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>Philosophy</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>History</hi></w>
   <c>)</c>
   <c>.</c>
 </s>

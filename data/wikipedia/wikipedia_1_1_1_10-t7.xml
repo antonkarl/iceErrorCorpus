@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_10-t7.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Það</w>
@@ -229,7 +241,7 @@
   <c>,</c>
   <revision id="11">
     <original><w>Paradise</w><w>Island</w><w>Park</w><c>,</c><w>leðurblökuhellir</w></original>
-    <corrected><w><i>Paradise</i></w><w><i>Island</i></w><w>og</w><w><i>Park</i></w><c>.</c><w>Leðurblökuhellir</w><w>er</w></corrected>
+    <corrected><w><hi>Paradise</hi></w><w><hi>Island</hi></w><w>og</w><w><hi>Park</hi></w><c>.</c><w>Leðurblökuhellir</w><w>er</w></corrected>
       <errors>
         <error xtype="nonit4it" idx="58-1" eid="0"/>
         <error xtype="comma4period" idx="58-2" eid="0"/>
@@ -957,14 +969,14 @@
   <c>(</c>
   <w>tagalog</w>
   <c>:</c>
-  <w><i>Lungsod</i></w>
-  <w><i>ng</i></w>
-  <w><i>Dabaw</i></w>
+  <w><hi>Lungsod</hi></w>
+  <w><hi>ng</hi></w>
+  <w><hi>Dabaw</hi></w>
   <c>;</c>
   <w>enska</w>
   <c>:</c>
-  <w><i>Davao</i></w>
-  <w><i>City</i></w>
+  <w><hi>Davao</hi></w>
+  <w><hi>City</hi></w>
   <c>)</c>
   <w>er</w>
   <w>fjórða</w>
@@ -1020,7 +1032,7 @@
   <w>hverfunum</w>
   <revision id="45">
     <original><w>Japantown</w></original>
-    <corrected><w><i>Japantown</i></w></corrected>
+    <corrected><w><hi>Japantown</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -1028,7 +1040,7 @@
   <w>og</w>
   <revision id="46">
     <original><w>Little</w><w>Tokio</w></original>
-    <corrected><w><i>Little</i></w><w><i>Tokio</i></w></corrected>
+    <corrected><w><hi>Little</hi></w><w><hi>Tokio</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -1152,7 +1164,7 @@
   <w>heitið</w>
   <revision id="54">
     <original><w>Nueva</w><w>Guipúzcoa</w></original>
-    <corrected><w><i>Nueva</i></w><w><i>Guipúzcoa</i></w></corrected>
+    <corrected><w><hi>Nueva</hi></w><w><hi>Guipúzcoa</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -1217,7 +1229,7 @@
   <c>(</c>
   <revision id="57">
     <original><w>Chinatown</w></original>
-    <corrected><w><i>Chinatown</i></w></corrected>
+    <corrected><w><hi>Chinatown</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

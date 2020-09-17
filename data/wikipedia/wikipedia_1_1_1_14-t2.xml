@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_14-t2.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <revision id="1">
@@ -80,7 +92,7 @@
   <w>eru</w>
   <revision id="2">
     <original><w>Warcraft</w></original>
-    <corrected><w><i>Warcraft</i></w></corrected>
+    <corrected><w><hi>Warcraft</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -88,7 +100,7 @@
   <w>og</w>
   <revision id="3">
     <original><w>Starcraft</w><w>heimarnir</w></original>
-    <corrected><w><i>Starcraft</i></w><c>-heimarnir</c></corrected>
+    <corrected><w><hi>Starcraft</hi></w><c>-heimarnir</c></corrected>
       <errors>
         <error xtype="nonit4it" idx="29-1" eid="0"/>
         <error xtype="missing-dash" idx="29-2" eid="0"/>
@@ -225,7 +237,7 @@
   <w>í</w>
   <revision id="5">
     <original><w>Harry</w><w>Potter</w><w>bókunum</w></original>
-    <corrected><w><i>Harry</i></w><w><i>Potter</i></w><w>-bókunum</w></corrected>
+    <corrected><w><hi>Harry</hi></w><w><hi>Potter</hi></w><w>-bókunum</w></corrected>
       <errors>
         <error xtype="nonit4it" idx="3-1" eid="0"/>
         <error xtype="missing-dash" idx="3-2" eid="0"/>
@@ -308,7 +320,7 @@
   <w>bókunum</w>
   <revision id="10">
     <original><w>Bicentennial</w><w>Man</w></original>
-    <corrected><w><i>Bicentennial</i></w><w><i>Man</i></w></corrected>
+    <corrected><w><hi>Bicentennial</hi></w><w><hi>Man</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -316,7 +328,7 @@
   <w>og</w>
   <revision id="11">
     <original><w>I</w></original>
-    <corrected><w><i>I</i></w></corrected>
+    <corrected><w><hi>I</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -324,7 +336,7 @@
   <c>,</c>
   <revision id="12">
     <original><w>Robot</w></original>
-    <corrected><w><i>Robot</i></w></corrected>
+    <corrected><w><hi>Robot</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -349,7 +361,7 @@
   <w>í</w>
   <revision id="14">
     <original><w>Snow</w><w>Crash</w></original>
-    <corrected><w><i>Snow</i></w><w><i>Crash</i></w></corrected>
+    <corrected><w><hi>Snow</hi></w><w><hi>Crash</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -357,7 +369,7 @@
   <w>og</w>
   <revision id="15">
     <original><w>The</w><w>Diamond</w><w>Age</w></original>
-    <corrected><w><i>The</i></w><w><i>Diamond</i></w><w><i>Age</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Diamond</hi></w><w><hi>Age</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -482,7 +494,7 @@
   <w>er</w>
   <revision id="22">
     <original><w>Calara</w></original>
-    <corrected><w><i>Calara</i></w></corrected>
+    <corrected><w><hi>Calara</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -499,7 +511,7 @@
   <w>líklega</w>
   <revision id="23">
     <original><w>Star</w><w>Wars</w><w>heimurinn</w></original>
-    <corrected><w><i>Star</i></w><w><i>Wars</i></w><w>-heimurinn</w></corrected>
+    <corrected><w><hi>Star</hi></w><w><hi>Wars</hi></w><w>-heimurinn</w></corrected>
       <errors>
         <error xtype="nonit4it" idx="15-1" eid="0"/>
         <error xtype="missing-dash" idx="15-2" eid="0"/>
@@ -532,7 +544,7 @@
   <w>Forgotten</w>
   <revision id="24">
     <original><w>Realms</w><w>heimur</w><w>Dungeons</w></original>
-    <corrected><w>Realms-heimur</w><w><i>Dungeons</i></w></corrected>
+    <corrected><w>Realms-heimur</w><w><hi>Dungeons</hi></w></corrected>
       <errors>
         <error xtype="missing-dash" idx="22-1" eid="0"/>
         <error xtype="nonit4it" idx="22-2" eid="0"/>
@@ -541,7 +553,7 @@
   <c>&amp;</c>
   <revision id="25">
     <original><w>Dragons</w><w>spilsins</w></original>
-    <corrected><w><i>Dragons</i></w><c>-spilsins</c></corrected>
+    <corrected><w><hi>Dragons</hi></w><c>-spilsins</c></corrected>
       <errors>
         <error xtype="dep" depId="22-2" eid="0"/>
         <error xtype="missing-dash" idx="23-1" eid="0"/>
@@ -552,7 +564,7 @@
   <w>í</w>
   <revision id="26">
     <original><w>Cyberpunk</w></original>
-    <corrected><w><i>Cyberpunk</i></w></corrected>
+    <corrected><w><hi>Cyberpunk</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -560,7 +572,7 @@
   <w>og</w>
   <revision id="27">
     <original><w>Shadowrun</w><w>spilunum</w></original>
-    <corrected><w><i>Shadowrun</i></w><c>-spilunum</c></corrected>
+    <corrected><w><hi>Shadowrun</hi></w><c>-spilunum</c></corrected>
       <errors>
         <error xtype="nonit4it" idx="25-1" eid="0"/>
         <error xtype="missing-dash" idx="25-2" eid="0"/>
@@ -587,7 +599,7 @@
 </s><s n="19">
   <revision id="28">
     <original><w>Star</w><w>Trek</w></original>
-    <corrected><w><i>Star</i></w><w><i>Trek</i></w></corrected>
+    <corrected><w><hi>Star</hi></w><w><hi>Trek</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -595,7 +607,7 @@
   <w>og</w>
   <revision id="29">
     <original><w>Babylon</w><w>5</w></original>
-    <corrected><w><i>Babylon</i></w><w><i>5</i></w></corrected>
+    <corrected><w><hi>Babylon</hi></w><w><hi>5</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

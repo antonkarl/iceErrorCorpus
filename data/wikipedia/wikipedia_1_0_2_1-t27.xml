@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_1-t27.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Haugfé</w>
@@ -336,9 +348,9 @@
   <w>annarri</w>
   <w>útgáfu</w>
   <w>af</w>
-  <w><i>Kuml</i></w>
-  <w><i>og</i></w>
-  <w><i>haugfé</i></w>
+  <w><hi>Kuml</hi></w>
+  <w><hi>og</hi></w>
+  <w><hi>haugfé</hi></w>
   <w>eftir</w>
   <w>Kristján</w>
   <w>Eldjárn</w>
@@ -387,7 +399,7 @@
   <w>af</w>
   <revision id="8">
     <original><w>Kuml</w><w>og</w><w>haugfé</w></original>
-    <corrected><w><i>Kuml</i></w><w><i>og</i></w><w><i>haugfé</i></w></corrected>
+    <corrected><w><hi>Kuml</hi></w><w><hi>og</hi></w><w><hi>haugfé</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>

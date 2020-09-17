@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_6-t0.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Á</w>
@@ -58,7 +70,7 @@
   <w>Sólflúru</w>
   <w>á</w>
   <revision id="4">
-    <original><w><i>The</i></w><w><i>RED</i></w><w><i>LIST</i></w><c>,</c><w>en</w><w>þar</w><w>fara</w></original>
+    <original><w><hi>The</hi></w><w><hi>RED</hi></w><w><hi>LIST</hi></w><c>,</c><w>en</w><w>þar</w><w>fara</w></original>
     <corrected><w>lista</w><w>yfir</w></corrected>
       <errors>
         <error xtype="wording" idx="31-1" eid="0"/>
@@ -87,7 +99,7 @@
   <w>hættu</w>
   <revision id="7">
     <original><w>af</w><w>ofveiði</w></original>
-    <corrected><w>að</w><w>verða</w><w>ofveiddar</w><c>(</c><w>e.</w><w><i>The</i></w><w><i>RED</i></w><w><i>LIST</i></w><c>)</c></corrected>
+    <corrected><w>að</w><w>verða</w><w>ofveiddar</w><c>(</c><w>e.</w><w><hi>The</hi></w><w><hi>RED</hi></w><w><hi>LIST</hi></w><c>)</c></corrected>
       <errors>
         <error xtype="wording" idx="34-1" eid="0"/>
         <error xtype="missing-bracket" idx="34-2" eid="0"/>
@@ -107,8 +119,8 @@
   <c>(</c>
   <w>fræðiheiti</w>
   <c>:</c>
-  <w><i>Solea</i></w>
-  <w><i>solea</i></w>
+  <w><hi>Solea</hi></w>
+  <w><hi>solea</hi></w>
   <c>)</c>
   <w>er</w>
   <w>flatfiskur</w>

@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_425-t4.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Karl</w>
@@ -14,9 +26,9 @@
         <error xtype="extra-colon" idx="1-3" eid="0" />
       </errors>
   </revision>
-  <w><i>Charles</i></w>
-  <w><i>le</i></w>
-  <w><i>Téméraire</i></w>
+  <w><hi>Charles</hi></w>
+  <w><hi>le</hi></w>
+  <w><hi>Téméraire</hi></w>
   <revision id="2">
     <original><c>)</c></original>
     <corrected><w>á</w><w>frönsku</w></corrected>

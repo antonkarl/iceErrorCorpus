@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_3-t11.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Í</w>
@@ -84,7 +96,7 @@
   <w>kölluð</w>
   <revision id="3">
     <original><w>Fingurbjargarleikhúsið</w><w>með</w><w>Stjána</w><w>bláa</w></original>
-    <corrected><w><i>Fingurbjargarleikhúsið</i></w><w><i>með</i></w><w><i>Stjána</i></w><w><i>bláa</i></w></corrected>
+    <corrected><w><hi>Fingurbjargarleikhúsið</hi></w><w><hi>með</hi></w><w><hi>Stjána</hi></w><w><hi>bláa</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -145,13 +157,13 @@
   <w>Gamla</w>
   <w>enska</w>
   <w>orðið</w>
-  <w><i>þȳmel</i></w>
+  <w><hi>þȳmel</hi></w>
   <w>hefur</w>
   <w>orðið</w>
   <w>að</w>
   <w>nútímaenska</w>
   <w>orðinu</w>
-  <w><i>thimble</i></w>
+  <w><hi>thimble</hi></w>
   <c>,</c>
   <w>sem</w>
   <w>haft</w>
@@ -169,7 +181,7 @@
   <w>hinu</w>
   <w>norræna</w>
   <w>orði</w>
-  <w><i>þumall</i></w>
+  <w><hi>þumall</hi></w>
   <c>.</c>
 </s><s n="9">
   <w>Hann</w>
@@ -282,7 +294,7 @@
   <w>tölvuleiknum</w>
   <revision id="8">
     <original><w>Bioshock</w><w>Infinite</w><w>notar</w><w>fingurbjörg</w><w>til</w><w>að</w><w>hylja</w><w>afhöggvinn</w><w>litlafingur</w></original>
-    <corrected><w><i>Bioshock</i></w><w><i>Infinite</i></w><w><i>notar</i></w><w><i>fingurbjörg</i></w><w><i>til</i></w><w><i>að</i></w><w><i>hylja</i></w><w><i>afhöggvinn</i></w><w><i>litlafingur</i></w></corrected>
+    <corrected><w><hi>Bioshock</hi></w><w><hi>Infinite</hi></w><w><hi>notar</hi></w><w><hi>fingurbjörg</hi></w><w><hi>til</hi></w><w><hi>að</hi></w><w><hi>hylja</hi></w><w><hi>afhöggvinn</hi></w><w><hi>litlafingur</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -457,8 +469,8 @@
 </s><s n="19">
   <w>Í</w>
   <w>myndinni</w>
-  <w><i>Batman</i></w>
-  <w><i>Returns</i></w>
+  <w><hi>Batman</hi></w>
+  <w><hi>Returns</hi></w>
   <w>frá</w>
   <w>1992</w>
   <revision id="19">

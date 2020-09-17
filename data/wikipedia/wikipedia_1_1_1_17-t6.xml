@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_17-t6.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Ásamt</w>
@@ -170,7 +182,7 @@
   <w>myndinni</w>
   <revision id="5">
     <original><w>Scott</w><w>Pilgrim</w><w>vs.</w><w>the</w><w>world</w></original>
-    <corrected><w><i>Scott</i></w><w><i>Pilgrim</i></w><w><i>vs.</i></w><w><i>the</i></w><w><i>World</i></w></corrected>
+    <corrected><w><hi>Scott</hi></w><w><hi>Pilgrim</hi></w><w><hi>vs.</hi></w><w><hi>the</hi></w><w><hi>World</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -238,7 +250,7 @@
   <w>notað</w>
   <w>sem</w>
   <revision id="11">
-    <original><w><i>sampl</i></w></original>
+    <original><w><hi>sampl</hi></w></original>
     <corrected><w>hljóðbútur</w></corrected>
       <errors>
         <error xtype="it4nonit" idx="11-1" eid="0"/>
@@ -364,7 +376,7 @@
   <w>myndarinnar</w>
   <revision id="15">
     <original><w>Fight</w><w>Club</w></original>
-    <corrected><w><i>Fight</i></w><w><i>Club</i></w></corrected>
+    <corrected><w><hi>Fight</hi></w><w><hi>Club</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -448,7 +460,7 @@
   <w>tölvuleikinn</w>
   <revision id="17">
     <original><w>Pong</w></original>
-    <corrected><w><i>Pong</i></w></corrected>
+    <corrected><w><hi>Pong</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -523,7 +535,7 @@
   <c>,</c>
   <revision id="18">
     <original><w>Army</w><w>of</w><w>Me</w><c>:</c><w>Remixes</w><w>and</w><w>Covers</w></original>
-    <corrected><w><i>Army</i></w><w><i>of</i></w><w><i>Me</i></w><c>:</c><w><i>Remixes</i></w><w><i>and</i></w><w><i>Covers</i></w></corrected>
+    <corrected><w><hi>Army</hi></w><w><hi>of</hi></w><w><hi>Me</hi></w><c>:</c><w><hi>Remixes</hi></w><w><hi>and</hi></w><w><hi>Covers</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -899,7 +911,7 @@
   <w>þættina</w>
   <revision id="33">
     <original><w>Adventure</w><w>Time</w></original>
-    <corrected><w><i>Adventure</i></w><w><i>Time</i></w></corrected>
+    <corrected><w><hi>Adventure</hi></w><w><hi>Time</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -1042,7 +1054,7 @@
   <c>,</c>
   <revision id="39">
     <original><w>Scott</w><w>Pilgrim</w><w>vs</w><w>the</w><w>World</w><c>:</c><w>The</w><w>Game</w></original>
-    <corrected><w><i>Scott</i></w><w><i>Pilgrim</i></w><w><i>vs.</i></w><w><i>the</i></w><w><i>World</i></w><c><i>:</i></c><w><i>The</i></w><w><i>Game</i></w></corrected>
+    <corrected><w><hi>Scott</hi></w><w><hi>Pilgrim</hi></w><w><hi>vs.</hi></w><w><hi>the</hi></w><w><hi>World</hi></w><c><hi>:</hi></c><w><hi>The</hi></w><w><hi>Game</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -1074,7 +1086,7 @@
   <w>tölvuleikurinn</w>
   <revision id="40">
     <original><w>Scott</w><w>Pilgrim</w><w>vs.</w><w>the</w><w>World</w></original>
-    <corrected><w><i>Scott</i></w><w><i>Pilgrim</i></w><w><i>vs.</i></w><w><i>the</i></w><w><i>World</i></w></corrected>
+    <corrected><w><hi>Scott</hi></w><w><hi>Pilgrim</hi></w><w><hi>vs.</hi></w><w><hi>the</hi></w><w><hi>World</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -1147,7 +1159,7 @@
   <w>er</w>
   <w>bitpopp</w>
   <w>eða</w>
-  <w><i>chip-punk</i></w>
+  <w><hi>chip-punk</hi></w>
   <revision id="43">
     <original><w>hljómsveit</w></original>
     <corrected><c>-hljómsveit</c></corrected>
@@ -1389,7 +1401,7 @@
   <c>,</c>
   <revision id="51">
     <original><w>The</w><w>Garage</w></original>
-    <corrected><w><i>The</i></w><w><i>Garage</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Garage</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -1530,7 +1542,7 @@
   <w>lag</w>
   <w>þeirra</w>
   <revision id="54">
-    <original><w><i>Airbrushed</i></w></original>
+    <original><w><hi>Airbrushed</hi></w></original>
     <corrected><c>„</c><w>Airbrushed</w><c>“</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="40-1" eid="0"/>
@@ -1541,7 +1553,7 @@
   <w>tölvuleiknum</w>
   <revision id="55">
     <original><w>Rock</w><w>Band</w></original>
-    <corrected><w><i>Rock</i></w><w><i>Band</i></w></corrected>
+    <corrected><w><hi>Rock</hi></w><w><hi>Band</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -1571,7 +1583,7 @@
   <w>plötuna</w>
   <revision id="56">
     <original><w>8</w><c>-</c><w>Bit</w><w>Operators</w><c>:</c><w>The</w><w>Music</w><w>of</w><w>Kraftwerk</w></original>
-    <corrected><w><i>8</i></w><c><i>-</i></c><w><i>Bit</i></w><w><i>Operators</i></w><c><i>:</i></c><w><i>The</i></w><w><i>Music</i></w><w><i>of</i></w><w><i>Kraftwerk</i></w></corrected>
+    <corrected><w><hi>8</hi></w><c><hi>-</hi></c><w><hi>Bit</hi></w><w><hi>Operators</hi></w><c><hi>:</hi></c><w><hi>The</hi></w><w><hi>Music</hi></w><w><hi>of</hi></w><w><hi>Kraftwerk</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_15-t7.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Oftast</w>
@@ -590,9 +602,9 @@
   <w>Prinsengracht</w>
   <w>263</w>
   <c>(</c>
-  <w><i>gracht</i></w>
+  <w><hi>gracht</hi></w>
   <w>merkir</w>
-  <w><i>síki</i></w>
+  <w><hi>síki</hi></w>
   <c>)</c>
   <c>.</c>
 </s><s n="38">
@@ -683,7 +695,7 @@
   <c>(</c>
   <revision id="3">
     <original><w>Anne</w><w>Frank</w><w>huis</w></original>
-    <corrected><w>hollenska</w><c>:</c><w><i>Anne</i></w><w><i>Frank</i></w><w><i>huis</i></w></corrected>
+    <corrected><w>hollenska</w><c>:</c><w><hi>Anne</hi></w><w><hi>Frank</hi></w><w><hi>huis</hi></w></corrected>
       <errors>
         <error xtype="missing-word" eid="0"/>
         <error xtype="missing-colon" eid="0"/>

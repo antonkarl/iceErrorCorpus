@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_1-t24.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>La</w>
@@ -9,8 +21,8 @@
   <c>(</c>
   <w>íslenska</w>
   <c>:</c>
-  <w><i>Glæpsamlegt</i></w>
-  <w><i>andlit</i></w>
+  <w><hi>Glæpsamlegt</hi></w>
+  <w><hi>andlit</hi></w>
   <c>)</c>
   <w>er</w>
   <w>áttunda</w>
@@ -283,13 +295,13 @@
   <w>fyrir</w>
   <w>ófarirnar</w>
   <w>í</w>
-  <w><i>Burt</i></w>
-  <w><i>með</i></w>
+  <w><hi>Burt</hi></w>
+  <w><hi>með</hi></w>
   <w>Zharðstjórann</w>
   <c>!</c>
 </s>
 <s n="14">
-  <w><i></i></w>
+  <w><hi></hi></w>
   <c>&quot;</c>
   <w>Eftir</w>
   <w>mikinn</w>
@@ -377,10 +389,10 @@
   <w>fylgir</w>
   <w>bókinni</w>
   <c>,</c>
-  <w><i>Touchez</i></w>
-  <w><i>pas</i></w>
-  <w><i>aux</i></w>
-  <w><i>rouges-gorges</i></w>
+  <w><hi>Touchez</hi></w>
+  <w><hi>pas</hi></w>
+  <w><hi>aux</hi></w>
+  <w><hi>rouges-gorges</hi></w>
   <c>.</c>
 </s>
 <s n="18">

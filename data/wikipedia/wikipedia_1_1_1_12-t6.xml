@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_12-t6.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Gári</w>
@@ -40,8 +52,8 @@
       </errors>
   </revision>
   <c>:</c>
-  <w><i>Melopsittus</i></w>
-  <w><i>Undulatus</i></w>
+  <w><hi>Melopsittus</hi></w>
+  <w><hi>Undulatus</hi></w>
   <c>)</c>
   <w>er</w>
   <w>lítill</w>
@@ -243,7 +255,7 @@
   <w>bókina</w>
   <revision id="11">
     <original><c>„</c><w>Birds</w><w>of</w><w>Australia</w><c>“</c></original>
-    <corrected><w><i>Fuglar</i></w><w><i>Ástralíu</i></w><c>(</c><w>e.</w><w><i>Birds</i></w><w><i>of</i></w><w><i>Australia</i></w><c>)</c></corrected>
+    <corrected><w><hi>Fuglar</hi></w><w><hi>Ástralíu</hi></w><c>(</c><w>e.</w><w><hi>Birds</hi></w><w><hi>of</hi></w><w><hi>Australia</hi></w><c>)</c></corrected>
       <errors>
         <error xtype="extra-quots" idx="11-1" eid="0" />
         <error xtype="missing-words" idx="11-2" eid="0" />
@@ -748,7 +760,7 @@
   <w>kallast</w>
   <revision id="34">
     <original><c>„</c><w>zygodactyl</w><w>toes</w><w>�</w><c>“</c></original>
-    <corrected><w><i>zygodactyl</i></w><w><i>toes</i></w></corrected>
+    <corrected><w><hi>zygodactyl</hi></w><w><hi>toes</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="34-1" eid="0" />
         <error xtype="nonit4it" idx="34-2" eid="0" />

@@ -1,11 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_8-t5.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
-  <w><i>Himnaför</i></w>
-  <w><i>Maríu</i></w>
-  <w><i>mey</i></w>
+  <w><hi>Himnaför</hi></w>
+  <w><hi>Maríu</hi></w>
+  <w><hi>mey</hi></w>
   <w>er</w>
   <w>einnig</w>
   <w>altaristafla</w>

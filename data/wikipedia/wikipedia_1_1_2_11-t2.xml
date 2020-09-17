@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_11-t2.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Rykmý</w>
   <c>(</c>
   <w>fræðiheiti</w>
   <c>:</c>
-  <w><i>Chironomidae</i></w>
+  <w><hi>Chironomidae</hi></w>
   <c>)</c>
   <w>er</w>
   <w>ætt</w>
@@ -369,7 +381,7 @@
   <c>(</c>
   <revision id="9">
     <original><w>Chironomus</w><w>islandicus</w></original>
-    <corrected><w><i>Chironomus</i></w><w><i>islandicus</i></w></corrected>
+    <corrected><w><hi>Chironomus</hi></w><w><hi>islandicus</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -408,7 +420,7 @@
   <c>(</c>
   <revision id="11">
     <original><w>haemoglobin</w></original>
-    <corrected><w><i>haemoglobin</i></w></corrected>
+    <corrected><w><hi>haemoglobin</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>

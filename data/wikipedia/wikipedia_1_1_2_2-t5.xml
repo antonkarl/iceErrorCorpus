@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_2-t5.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Vichy-stjórnin</w>
@@ -202,16 +214,16 @@
   <w>öllu</w>
   <w>Norður- og Vestur-Frakklandi</w>
   <c>(</c>
-  <w><i>one</i></w>
-  <w><i>occupée</i></w>
+  <w><hi>one</hi></w>
+  <w><hi>occupée</hi></w>
   <c>)</c>
   <w>en</w>
   <w>Vichy-stjórnin</w>
   <w>yfir</w>
   <w>Mið- og Suður-Frakklandi</w>
   <c>(</c>
-  <w><i>one</i></w>
-  <w><i>libre</i></w>
+  <w><hi>one</hi></w>
+  <w><hi>libre</hi></w>
   <c>)</c>
   <w>að</w>
   <w>undanskilinni</w>
@@ -296,8 +308,8 @@
   <w>störfuðu</w>
   <w>áfram</w>
   <w>í</w>
-  <w><i>one</i></w>
-  <w><i>libre</i></w>
+  <w><hi>one</hi></w>
+  <w><hi>libre</hi></w>
   <w>voru</w>
   <w>undir</w>
   <w>stjórn</w>
@@ -317,8 +329,8 @@
   <w>þýskra</w>
   <w>hermanna</w>
   <w>í</w>
-  <w><i>one</i></w>
-  <w><i>occupée</i></w>
+  <w><hi>one</hi></w>
+  <w><hi>occupée</hi></w>
   <c>.</c>
 </s>
 <s n="16">
@@ -336,8 +348,8 @@
   <w>raun</w>
   <w>líka</w>
   <w>yfir</w>
-  <w><i>one</i></w>
-  <w><i>libre</i></w>
+  <w><hi>one</hi></w>
+  <w><hi>libre</hi></w>
   <c>.</c>
 </s>
 <s n="17">
@@ -381,7 +393,7 @@
   <c>,</c>
   <revision id="1">
     <original><w>Milices</w></original>
-    <corrected><w><i>milices</i></w></corrected>
+    <corrected><w><hi>milices</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="1-1" eid="0" />
         <error xtype="upper4lower-common" idx="1-1" eid="0" />

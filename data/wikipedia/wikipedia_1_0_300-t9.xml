@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_300-t9.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Jórdanía</w>
@@ -19,7 +31,7 @@
   <c>;</c>
   <w>umritun</w>
   <c>:</c>
-  <w><i>ʼUrdunn</i></w>
+  <w><hi>ʼUrdunn</hi></w>
   <c>)</c>
   <w>er</w>
   <w>land</w>
@@ -200,7 +212,7 @@
   <w>54</w>
   <w>umdæmi</w>
   <c>(</c>
-  <w><i>nawahi</i></w>
+  <w><hi>nawahi</hi></w>
   <c>)</c>
   <c>.</c>
 </s>

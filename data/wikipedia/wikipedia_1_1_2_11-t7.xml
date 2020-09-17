@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_11-t7.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Brasilíutré</w>
@@ -10,8 +22,8 @@
   <c>)</c>
   <c>(</c>
   <w>fræðiheiti</w>
-  <w><i>Caesalpinia</i></w>
-  <w><i>echinata</i></w>
+  <w><hi>Caesalpinia</hi></w>
+  <w><hi>echinata</hi></w>
   <c>)</c>
   <w>er</w>
   <w>trjátegund</w>
@@ -119,7 +131,7 @@
   <w>notuðu</w>
   <w>þeir</w>
   <w>nafnið</w>
-  <w><i>pau-brasil</i></w>
+  <w><hi>pau-brasil</hi></w>
   <w>til</w>
   <w>að</w>
   <w>lýsa</w>
@@ -159,7 +171,7 @@
       </errors>
   </revision>
   <w>nafnið</w>
-  <w><i>Pau-brasil</i></w>
+  <w><hi>Pau-brasil</hi></w>
   <w>verið</w>
   <w>notað</w>
   <w>til</w>
@@ -274,8 +286,8 @@
   <w>notað</w>
   <w>um</w>
   <w>tegundina</w>
-  <w><i>Caesalpinia</i></w>
-  <w><i>echinata</i></w>
+  <w><hi>Caesalpinia</hi></w>
+  <w><hi>echinata</hi></w>
   <revision id="10">
     <original><w>er</w></original>
     <corrected><w>en</w></corrected>
@@ -293,7 +305,7 @@
   <w>og</w>
   <revision id="11">
     <original><w>Caesalpinia</w><w>sappan</w></original>
-    <corrected><w><i>Caesalpinia</i></w><w><i>sappan</i></w></corrected>
+    <corrected><w><hi>Caesalpinia</hi></w><w><hi>sappan</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -309,11 +321,11 @@
   <w>nöfnum</w>
   <w>eins</w>
   <w>og</w>
-  <w><i>ibirapitanga</i></w>
+  <w><hi>ibirapitanga</hi></w>
   <w>og</w>
-  <w><i>pau</i></w>
-  <w><i>de</i></w>
-  <w><i>pernambuco</i></w>
+  <w><hi>pau</hi></w>
+  <w><hi>de</hi></w>
+  <w><hi>pernambuco</hi></w>
   <w>eftir</w>
   <w>brasilíska</w>
   <w>héraðinu</w>
@@ -333,18 +345,18 @@
   <w>aðrar</w>
   <w>tegundir</w>
   <w>en</w>
-  <w><i>Caesalpinia</i></w>
-  <w><i>echinata</i></w>
+  <w><hi>Caesalpinia</hi></w>
+  <w><hi>echinata</hi></w>
   <c>,</c>
   <w>svo</w>
   <w>sem</w>
-  <w><i>Tabebuia</i></w>
-  <w><i>impetiginosa</i></w>
+  <w><hi>Tabebuia</hi></w>
+  <w><hi>impetiginosa</hi></w>
   <w>og</w>
   <w>Massaranduba</w>
   <c>(</c>
-  <w><i>Manilkara</i></w>
-  <w><i>bidentata</i></w>
+  <w><hi>Manilkara</hi></w>
+  <w><hi>bidentata</hi></w>
   <c>)</c>
   <w>og</w>
   <revision id="12">
@@ -354,8 +366,8 @@
         <error xtype="extra-bracket" eid="0" />
       </errors>
   </revision>
-  <w><i>Haematoxylum</i></w>
-  <w><i>brasiletto</i></w>
+  <w><hi>Haematoxylum</hi></w>
+  <w><hi>brasiletto</hi></w>
   <revision id="13">
     <original><c>)</c></original>
     <corrected></corrected>
@@ -840,9 +852,9 @@
   <c>.</c>
 </s>
 <s n="28">
-  <w><i>Tree</i></w>
-  <w><i>of</i></w>
-  <w><i>Music</i></w>
+  <w><hi>Tree</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>Music</hi></w>
   <c>,</c>
   <w>er</w>
   <w>heimildarmynd</w>

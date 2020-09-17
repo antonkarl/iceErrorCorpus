@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_3-t16.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Í</w>
@@ -50,7 +62,7 @@
   <w>Árið 1995</w>
   <w>birti</w>
   <revision id="2">
-    <original><w><i>Helgarpósturinn</i></w></original>
+    <original><w><hi>Helgarpósturinn</hi></w></original>
     <corrected><w>Helgarpósturinn</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -76,7 +88,7 @@
   <w>útvarpsfélagið</w>
   <c>.</c>
 </s><s n="4">
-  <w><i>Sýn</i></w>
+  <w><hi>Sýn</hi></w>
   <w>hóf</w>
   <w>útsendingar</w>
   <w>í</w>
@@ -94,9 +106,9 @@
   <w>nýrra</w>
   <w>útvarpsstöðva</w>
   <c>,</c>
-  <w><i>Stjörnunnar</i></w>
+  <w><hi>Stjörnunnar</hi></w>
   <w>og</w>
-  <w><i>X-ins</i></w>
+  <w><hi>X-ins</hi></w>
   <w>og</w>
   <w>keypti</w>
   <w>tvo</w>
@@ -155,7 +167,7 @@
   <w>að</w>
   <w>útvarpsréttarnefnd</w>
   <w>gæfi</w>
-  <w><i>Sýn</i></w>
+  <w><hi>Sýn</hi></w>
   <w>útsendingaleyfi</w>
   <w>með</w>
   <w>því</w>
@@ -171,7 +183,7 @@
   <c>.</c>
 </s><s n="8">
   <w>Útvarpsstöðin</w>
-  <w><i>Bylgjan</i></w>
+  <w><hi>Bylgjan</hi></w>
   <w>hóf</w>
   <revision id="5">
     <original><w>síðan</w></original>
@@ -195,7 +207,7 @@
   <w>árið</w>
   <w>eftir</w>
   <w>fór</w>
-  <w><i>Ljósvakinn</i></w>
+  <w><hi>Ljósvakinn</hi></w>
   <w>í</w>
   <w>loftið</w>
   <c>.</c>
@@ -237,7 +249,7 @@
       </errors>
   </revision>
   <w>rekstur</w>
-  <w><i>Bylgjunnar</i></w>
+  <w><hi>Bylgjunnar</hi></w>
   <w>árið 1984</w>
   <c>.</c>
 </s><s n="11">
@@ -283,7 +295,7 @@
   <c>.</c>
 </s><s n="13">
   <w>Eigendur</w>
-  <w><i>Stöðvar</i></w>
+  <w><hi>Stöðvar</hi></w>
   <w><i/></w>
   <w>3Z</w>
   <w>voru</w>
@@ -358,7 +370,7 @@
   <w>öll</w>
   <w>hlutabréf</w>
   <w>í</w>
-  <w><i>Stöð</i></w>
+  <w><hi>Stöð</hi></w>
   <w><i/></w>
   <w>3Z</w>
   <w>árið 1997</w>
@@ -528,7 +540,7 @@
   <w>þess</w>
   <w>að</w>
   <w>skuldir</w>
-  <w><i>Stjörnunnar</i></w>
+  <w><hi>Stjörnunnar</hi></w>
   <w>væru</w>
   <w>meiri</w>
   <w>en</w>
@@ -558,7 +570,7 @@
   <w>var</w>
   <revision id="17">
     <original><w>Fjölvarpinu</w></original>
-    <corrected><w><i>Fjölvarpinu</i></w></corrected>
+    <corrected><w><hi>Fjölvarpinu</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -578,13 +590,13 @@
   <w>út</w>
   <w>fyrir</w>
   <w>að</w>
-  <w><i>Stöð</i></w>
+  <w><hi>Stöð</hi></w>
   <w><i/></w>
   <w>2Z</w>
   <w>fengi</w>
   <w>samkeppni</w>
   <w>þegar</w>
-  <w><i>Stöð</i></w>
+  <w><hi>Stöð</hi></w>
   <w><i/></w>
   <w>3Z</w>
   <w>hóf</w>
@@ -656,8 +668,8 @@
       </errors>
   </revision>
   <revision id="20">
-    <original><w><i>stjörnuna</i></w></original>
-    <corrected><w><i>Stjörnuna</i></w><c>,</c></corrected>
+    <original><w><hi>stjörnuna</hi></w></original>
+    <corrected><w><hi>Stjörnuna</hi></w><c>,</c></corrected>
       <errors>
         <error xtype="lower4upper-proper" eid="0"/>
         <error xtype="missing-comma" eid="0"/>
@@ -718,16 +730,16 @@
   <w>skömmu</w>
   <w>áður</w>
   <w>en</w>
-  <w><i>Sýn</i></w>
+  <w><hi>Sýn</hi></w>
   <w>hóf</w>
   <w>útsendingar</w>
   <c>.</c>
 </s><s n="31">
   <w>Sameining</w>
-  <w><i>Stöðvar</i></w>
-  <w><i>2</i></w>
+  <w><hi>Stöðvar</hi></w>
+  <w><hi>2</hi></w>
   <w>og</w>
-  <w><i>Sýnar</i></w>
+  <w><hi>Sýnar</hi></w>
   <w>hafði</w>
   <w>raunar</w>
   <w>staðið</w>
@@ -737,7 +749,7 @@
   <w>en</w>
   <w>eigendur</w>
   <revision id="23">
-    <original><w><i>DV</i></w><w>höfðu</w><w>þá</w><w>sett</w><w>sig</w><w>upp</w><w>á</w><w>móti</w><w>því</w></original>
+    <original><w><hi>DV</hi></w><w>höfðu</w><w>þá</w><w>sett</w><w>sig</w><w>upp</w><w>á</w><w>móti</w><w>því</w></original>
     <corrected><w>DV</w><w>gagnrýndu</w><w>það</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>

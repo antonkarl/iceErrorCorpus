@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_250-t12.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Frá</w>
@@ -386,7 +398,7 @@
   <w>franska</w>
   <c>:</c>
   <revision id="24">
-    <original><w><i>La</i></w><w><i>Réunion</i></w></original>
+    <original><w><hi>La</hi></w><w><hi>Réunion</hi></w></original>
     <corrected><w>La</w><w>Réunion</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -671,7 +683,7 @@
   <w>hverfi</w>
   <c>(</c>
   <revision id="34">
-    <original><w><i>arrondissements</i></w></original>
+    <original><w><hi>arrondissements</hi></w></original>
     <corrected><w>arrondissements</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -836,8 +848,8 @@
   <w>kaupmenn</w>
   <w>kölluðu</w>
   <w>eyjuna</w>
-  <w><i>Dina</i></w>
-  <w><i>Morgabin</i></w>
+  <w><hi>Dina</hi></w>
+  <w><hi>Morgabin</hi></w>
   <w>og</w>
   <revision id="44">
     <original><w>hún</w></original>

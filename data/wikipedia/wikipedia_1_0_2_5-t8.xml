@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_5-t8.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Fornleifarannsóknir</w>
@@ -1100,8 +1112,8 @@
   <w>í</w>
   <w>bókinni</w>
   <w>sinni</w>
-  <w><i>Íslensk</i></w>
-  <w><i>þjóðfræði</i></w>
+  <w><hi>Íslensk</hi></w>
+  <w><hi>þjóðfræði</hi></w>
   <w>á</w>
   <w>bls.</w>
   <w>86</w>
@@ -1439,9 +1451,9 @@
   <w>Jón</w>
   <w>Trausti</w>
   <w>skáldsöguna</w>
-  <w><i>Anna</i></w>
-  <w><i>frá</i></w>
-  <w><i>Stóruborg</i></w>
+  <w><hi>Anna</hi></w>
+  <w><hi>frá</hi></w>
+  <w><hi>Stóruborg</hi></w>
   <w>sem</w>
   <w>kom</w>
   <w>út</w>
@@ -1509,8 +1521,8 @@
         <error xtype="nonword" idx="9-1" eid="0"/>
       </errors>
   </revision>
-  <w><i>Íslensk</i></w>
-  <w><i>þjóðfræði</i></w>
+  <w><hi>Íslensk</hi></w>
+  <w><hi>þjóðfræði</hi></w>
   <w>segir</w>
   <w>Þórður</w>
   <w>Tómasson</w>
@@ -1919,7 +1931,7 @@
   <w>í</w>
   <revision id="56">
     <original><w>Íslensk</w><w>Þjóðfræði</w></original>
-    <corrected><w><i>Íslensk</i></w><w><i>þjóðfræði</i></w></corrected>
+    <corrected><w><hi>Íslensk</hi></w><w><hi>þjóðfræði</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="21-1" eid="0"/>
         <error xtype="upper4lower-common" idx="21-1" eid="0"/>
@@ -2455,9 +2467,9 @@
   </revision>
   <w>í</w>
   <w>ritinu</w>
-  <w><i>Sunnlenskar</i></w>
-  <w><i>byggðir</i></w>
-  <w><i>IV</i></w>
+  <w><hi>Sunnlenskar</hi></w>
+  <w><hi>byggðir</hi></w>
+  <w><hi>IV</hi></w>
   <revision id="73">
     <original/>
     <corrected><c>,</c></corrected>
@@ -2736,7 +2748,7 @@
   <w>ensku</w>
   <revision id="81">
     <original><w>jaw-harp</w></original>
-    <corrected><w><i>jaw-harp</i></w></corrected>
+    <corrected><w><hi>jaw-harp</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -2758,7 +2770,7 @@
   <w>nafnið</w>
   <revision id="83">
     <original><w>jewish-harp</w></original>
-    <corrected><w><i>jewish-harp</i></w></corrected>
+    <corrected><w><hi>jewish-harp</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -3765,9 +3777,9 @@
   <c>.</c>
 </s><s n="134">
   <w>Þegar</w>
-  <w><i>Sunnlenskar</i></w>
-  <w><i>byggðir</i></w>
-  <w><i>IV</i></w>
+  <w><hi>Sunnlenskar</hi></w>
+  <w><hi>byggðir</hi></w>
+  <w><hi>IV</hi></w>
   <w>var</w>
   <w>ritað</w>
   <w>og</w>
@@ -4140,8 +4152,8 @@
   <w>til</w>
   <w>í</w>
   <w>ritinu</w>
-  <w><i>Hlutavelta</i></w>
-  <w><i>tímans</i></w>
+  <w><hi>Hlutavelta</hi></w>
+  <w><hi>tímans</hi></w>
   <c>.</c>
 </s><s n="146">
   <c>(</c>

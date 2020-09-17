@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_3-t9.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Geirfugl</w>
@@ -13,8 +25,8 @@
         <error xtype="missing-colon" eid="0"/>
       </errors>
   </revision>
-  <w><i>Pinguinus</i></w>
-  <w><i>impennis</i></w>
+  <w><hi>Pinguinus</hi></w>
+  <w><hi>impennis</hi></w>
   <c>)</c>
   <w>er</w>
   <w>útdauð</w>
@@ -388,7 +400,7 @@
         <error xtype="upper4lower-noninitial" eid="0"/>
       </errors>
   </revision>
-  <w><i>Geirfuglsmálið</i></w>
+  <w><hi>Geirfuglsmálið</hi></w>
   <revision id="9">
     <original><c>.</c></original>
     <corrected/>

@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_175-t9.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Mól</w>
@@ -59,8 +71,8 @@
   <c>(</c>
   <w>stundum</w>
   <w>einnig</w>
-  <w><i>tala</i></w>
-  <w><i>Loschmidts</i></w>
+  <w><hi>tala</hi></w>
+  <w><hi>Loschmidts</hi></w>
   <c>)</c>
   <c>.</c>
 </s>
@@ -223,10 +235,10 @@
   <w>á</w>
   <w>ensku</w>
   <c>:</c>
-  <w><i>National</i></w>
-  <w><i>Mole</i></w>
-  <w><i>Day</i></w>
-  <w><i>Foundation</i></w>
+  <w><hi>National</hi></w>
+  <w><hi>Mole</hi></w>
+  <w><hi>Day</hi></w>
+  <w><hi>Foundation</hi></w>
   <c>)</c>
   <w>halda</w>
   <w>ráðstefnu</w>

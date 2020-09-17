@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Steven</w>
+  <w>Naismith</w>
+  <w>hefur</w>
+  <w>gengið</w>
+  <w>til</w>
+  <w>liðs</w>
+  <w>við</w>
+  <w>Everton</w>
+  <w>og</w>
+  <w>skrifað</w>
+  <w>undir</w>
+  <w>fjögurra</w>
+  <w>ára</w>
+  <w>samning</w>
+  <w>við</w>
+  <w>félagið</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Hann</w>
+  <w>kemur</w>
+  <w>til</w>
+  <w>liðsins</w>
+  <w>frá</w>
+  <w>Rangers</w>
+  <w>í</w>
+  <w>Skotlandi</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Naismith</w>
+  <w>varð</w>
+  <w>samningslaus</w>
+  <w>þegar</w>
+  <revision id="1">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="1-1" eid="0" />
+        <error xtype="style" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>Rangers</w>
+  <w>var</w>
+  <w>leyst</w>
+  <w>upp</w>
+  <w>og</w>
+  <w>hann</w>
+  <w>neitaði</w>
+  <w>að</w>
+  <w>ganga</w>
+  <w>til</w>
+  <w>liðs</w>
+  <w>við</w>
+  <w>nýtt</w>
+  <revision id="2">
+    <original><w>félags</w></original>
+    <corrected><w>félag</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>var</w>
+  <w>stofnað</w>
+  <w>þess</w>
+  <w>í</w>
+  <w>stað</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Naismith</w>
+  <w>er</w>
+  <w>25</w>
+  <w>ára</w>
+  <w>gamall</w>
+  <w>framherji</w>
+  <w>og</w>
+  <w>var</w>
+  <w>David</w>
+  <w>Moyes</w>
+  <c>,</c>
+  <w>stjóri</w>
+  <w>Everton</w>
+  <c>,</c>
+  <w>hæstánægður</w>
+  <w>með</w>
+  <w>að</w>
+  <w>fá</w>
+  <w>hann</w>
+  <w>til</w>
+  <w>liðs</w>
+  <w>við</w>
+  <w>félagið</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <c>„</c>
+  <w>Hann</w>
+  <w>er</w>
+  <w>reyndur</w>
+  <w>landsliðsmaður</w>
+  <w>sem</w>
+  <w>getur</w>
+  <w>spilað</w>
+  <w>í</w>
+  <w>mörgum</w>
+  <w>leikstöðum</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Hann</w>
+  <w>mun</w>
+  <w>vonandi</w>
+  <revision id="3">
+    <original><w>reynst</w></original>
+    <corrected><w>reynast</w></corrected>
+      <errors>
+        <error xtype="missing-letter" eid="0" />
+      </errors>
+  </revision>
+  <w>okkur</w>
+  <w>mjög</w>
+  <w>vel</w>
+  <c>,</c>
+  <revision id="4">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
+  <w>sagði</w>
+  <w>Moyes</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

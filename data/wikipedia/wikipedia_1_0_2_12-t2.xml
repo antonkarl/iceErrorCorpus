@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_12-t2.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>1808</w>
@@ -105,7 +117,7 @@
   <w>og</w>
   <w>tónlistarhúsið</w>
   <c>(</c>
-  <w><i>Concertgebouw</i></w>
+  <w><hi>Concertgebouw</hi></w>
   <c>)</c>
   <c>.</c>
 </s><s n="7">
@@ -252,7 +264,7 @@
   <c>,</c>
   <w>til</w>
   <w>dæmis</w>
-  <w><i>Næturvaktin</i></w>
+  <w><hi>Næturvaktin</hi></w>
   <w>eftir</w>
   <w>Rembrandt</w>
   <c>.</c>

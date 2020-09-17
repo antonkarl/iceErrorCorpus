@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_425-t23.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Heimska</w>
@@ -22,7 +34,7 @@
   <w>Íslenska</w>
   <w>orðið</w>
   <revision id="1">
-    <original><w><i>heimska</i></w></original>
+    <original><w><hi>heimska</hi></w></original>
     <corrected><c>„</c><w>heimska</w><c>“</c></corrected>
       <errors>
         <error xtype="missing-quots" idx="1-1" eid="0" />
@@ -34,7 +46,7 @@
   <w>skylt</w>
   <w>orðinu</w>
   <revision id="2">
-    <original><w><i>heima</i></w></original>
+    <original><w><hi>heima</hi></w></original>
     <corrected><c>„</c><w>heima</w><c>“</c></corrected>
       <errors>
         <error xtype="missing-quots" idx="2-1" eid="0" />
@@ -91,7 +103,7 @@
   <w>af</w>
   <w>latnesku</w>
   <w>sögninni</w>
-  <w><i>stupere</i></w>
+  <w><hi>stupere</hi></w>
   <w>sem</w>
   <w>höfð</w>
   <w>er</w>
@@ -125,8 +137,8 @@
   <w>Erasmus</w>
   <w>skrifaði</w>
   <w>bókina</w>
-  <w><i>Lof</i></w>
-  <w><i>heimskunnar</i></w>
+  <w><hi>Lof</hi></w>
+  <w><hi>heimskunnar</hi></w>
   <w>á</w>
   <w>sextándu</w>
   <w>öld</w>

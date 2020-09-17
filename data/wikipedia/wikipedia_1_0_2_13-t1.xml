@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_13-t1.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Við</w>
@@ -49,16 +61,16 @@
   <w>og</w>
   <w>ökuþórinn</w>
   <revision id="2">
-    <original><w><i>Eldibrand</i></w></original>
+    <original><w><hi>Eldibrand</hi></w></original>
     <corrected><w>Eldibrand</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
       </errors>
   </revision>
   <w>úr</w>
-  <w><i>Baráttunni</i></w>
-  <w><i>um</i></w>
-  <w><i>arfinn</i></w>
+  <w><hi>Baráttunni</hi></w>
+  <w><hi>um</hi></w>
+  <w><hi>arfinn</hi></w>
   <c>.</c>
 </s><s n="5">
   <w>Hann</w>
@@ -85,7 +97,7 @@
   <w>Brussel</w>
   <w>kemur</w>
   <revision id="3">
-    <original><w><i>Eldibrandur</i></w></original>
+    <original><w><hi>Eldibrandur</hi></w></original>
     <corrected><w>Eldibrandur</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -123,7 +135,7 @@
   <c>.</c>
 </s><s n="9">
   <revision id="4">
-    <original><w><i>Ófeigur</i></w></original>
+    <original><w><hi>Ófeigur</hi></w></original>
     <corrected><w>Ófeigur</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -180,7 +192,7 @@
   <w>í</w>
   <w>hendur</w>
   <revision id="5">
-    <original><w><i>Ófeigs</i></w></original>
+    <original><w><hi>Ófeigs</hi></w></original>
     <corrected><w>Ófeigs</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -193,9 +205,9 @@
   <w>við</w>
   <w>sögu</w>
   <w>í</w>
-  <w><i>Baráttunni</i></w>
-  <w><i>um</i></w>
-  <w><i>arfinn</i></w>
+  <w><hi>Baráttunni</hi></w>
+  <w><hi>um</hi></w>
+  <w><hi>arfinn</hi></w>
   <c>)</c>
   <w>þurfa</w>
   <w>félagarnir</w>
@@ -325,7 +337,7 @@
   <c>.</c>
 </s><s n="18">
   <revision id="9">
-    <original><w><i>Eldibrandur</i></w></original>
+    <original><w><hi>Eldibrandur</hi></w></original>
     <corrected><w>Eldibrandur</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -346,7 +358,7 @@
   <w>í</w>
   <w>höndum</w>
   <revision id="10">
-    <original><w><i>Ófeigs</i></w></original>
+    <original><w><hi>Ófeigs</hi></w></original>
     <corrected><w>Ófeigs</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -394,7 +406,7 @@
   <w>Þeir</w>
   <w>finna</w>
   <revision id="11">
-    <original><w><i>Ófeig</i></w></original>
+    <original><w><hi>Ófeig</hi></w></original>
     <corrected><w>Ófeig</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -406,15 +418,15 @@
   <w>þrjótanna</w>
   <c>.</c>
 </s><s n="21">
-  <w><i>La</i></w>
-  <w><i>corne</i></w>
-  <w><i>de</i></w>
-  <w><i>rhinocéros</i></w>
+  <w><hi>La</hi></w>
+  <w><hi>corne</hi></w>
+  <w><hi>de</hi></w>
+  <w><hi>rhinocéros</hi></w>
   <c>(</c>
   <w>íslenska</w>
   <c>:</c>
-  <w><i>Horn</i></w>
-  <w><i>nashyrningsins</i></w>
+  <w><hi>Horn</hi></w>
+  <w><hi>nashyrningsins</hi></w>
   <c>)</c>
   <w>er</w>
   <w>sjötta</w>
@@ -430,7 +442,7 @@
   <w>það</w>
   <w>sem</w>
   <revision id="12">
-    <original><w><i>Ófeigur</i></w></original>
+    <original><w><hi>Ófeigur</hi></w></original>
     <corrected><w>Ófeigur</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -446,9 +458,9 @@
   <w>upp</w>
   <w>léttþyrluna</w>
   <w>úr</w>
-  <w><i>Baráttunni</i></w>
-  <w><i>um</i></w>
-  <w><i>arfinn</i></w>
+  <w><hi>Baráttunni</hi></w>
+  <w><hi>um</hi></w>
+  <w><hi>arfinn</hi></w>
   <w>og</w>
   <w>sannfærir</w>
   <w>Sval</w>

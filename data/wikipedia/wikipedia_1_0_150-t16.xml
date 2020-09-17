@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_150-t16.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Kenía</w>
@@ -31,9 +43,9 @@
         <error xtype="dep" depId="2-1" eid="0" />
       </errors>
   </revision>
-  <w><i>Republic</i></w>
-  <w><i>of</i></w>
-  <w><i>Kenya</i></w>
+  <w><hi>Republic</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>Kenya</hi></w>
   <revision id="4">
     <original><c>)</c></original>
     <corrected><c>,</c></corrected>

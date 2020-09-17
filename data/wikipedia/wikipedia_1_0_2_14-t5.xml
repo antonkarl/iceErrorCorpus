@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_14-t5.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Ýmsar</w>
@@ -182,17 +194,17 @@
   <w>teiknimyndasagnaflokki</w>
   <c>.</c>
 </s><s n="10">
-  <w><i>Teiknimyndablaðið</i></w>
-  <w><i>Svalur</i></w>
+  <w><hi>Teiknimyndablaðið</hi></w>
+  <w><hi>Svalur</hi></w>
   <c>(</c>
   <w>franska</w>
   <c>:</c>
-  <w><i>Spirou</i></w>
+  <w><hi>Spirou</hi></w>
   <w>eða</w>
-  <w><i>Le</i></w>
-  <w><i>Journal</i></w>
-  <w><i>de</i></w>
-  <w><i>Spirou</i></w>
+  <w><hi>Le</hi></w>
+  <w><hi>Journal</hi></w>
+  <w><hi>de</hi></w>
+  <w><hi>Spirou</hi></w>
   <c>)</c>
   <w>er</w>
   <w>belgískt</w>
@@ -219,13 +231,13 @@
   <c>.</c>
 </s><s n="12">
   <w>Teiknimyndasagnaritin</w>
-  <w><i>Svalur</i></w>
+  <w><hi>Svalur</hi></w>
   <w>og</w>
-  <w><i>Tinni</i></w>
+  <w><hi>Tinni</hi></w>
   <c>(</c>
   <w>franska</w>
   <c>:</c>
-  <w><i>Tintin</i></w>
+  <w><hi>Tintin</hi></w>
   <c>)</c>
   <w>gegndu</w>
   <w>veigamiklu</w>
@@ -250,10 +262,10 @@
   <w>Það</w>
   <w>hlaut</w>
   <w>nafnið</w>
-  <w><i>Le</i></w>
-  <w><i>journal</i></w>
-  <w><i>de</i></w>
-  <w><i>Spirou</i></w>
+  <w><hi>Le</hi></w>
+  <w><hi>journal</hi></w>
+  <w><hi>de</hi></w>
+  <w><hi>Spirou</hi></w>
   <w>og</w>
   <w>fékk</w>
   <w>Dupuis</w>
@@ -277,7 +289,7 @@
   <w>teiknimyndablaðsins</w>
   <w>Svals</w>
   <c>,</c>
-  <w><i>Robbedoes</i></w>
+  <w><hi>Robbedoes</hi></w>
   <c>,</c>
   <w>hóf</w>
   <w>göngu</w>

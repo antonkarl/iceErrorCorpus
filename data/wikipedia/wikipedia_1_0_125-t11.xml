@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_125-t11.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Glerstrendingur</w>
@@ -138,8 +150,8 @@
         <error xtype="missing-word" eid="0" />
       </errors>
   </revision>
-  <w><i>Iceland</i></w>
-  <w><i>spar</i></w>
+  <w><hi>Iceland</hi></w>
+  <w><hi>spar</hi></w>
   <revision id="6">
     <original><c>)</c></original>
     <corrected>,</corrected>

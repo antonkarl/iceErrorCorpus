@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>visir-2014_10_325-t17.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <c>„</c>
@@ -247,7 +259,7 @@
   <w>eigandi</w>
   <revision id="7">
     <original><w>Spark</w><w>Design</w><w>Space</w></original>
-    <corrected><w><i>Spark</i></w><w><i>Design</i></w><w><i>Space</i></w></corrected>
+    <corrected><w><hi>Spark</hi></w><w><hi>Design</hi></w><w><hi>Space</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

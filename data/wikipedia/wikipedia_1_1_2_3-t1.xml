@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_3-t1.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Singapúr</w>
@@ -17,8 +29,8 @@
   <c>,</c>
   <w>malasíska</w>
   <c>:</c>
-  <w><i>Republik</i></w>
-  <w><i>Singapura</i></w>
+  <w><hi>Republik</hi></w>
+  <w><hi>Singapura</hi></w>
   <revision id="1">
     <original><c>;</c><w>tamílska</w><c>:</c><w>ச</w><w>ி</w><w>ங</w><w>்</w><w>கப</w><w>்</w><w>ப</w><w>ூ</w><w>ர</w><w>்</w><w>க</w><w>ு</w><w>ட</w><w>ி</w><w>யரச</w><w>ு</w></original>
     <corrected></corrected>
@@ -62,12 +74,12 @@
   <w>af</w>
   <w>malasíska</w>
   <w>orðinu</w>
-  <w><i>singa</i></w>
+  <w><hi>singa</hi></w>
   <w>sem</w>
   <w>merkir</w>
   <revision id="2">
     <original><c>„</c><w>ljón</w><c>“</c></original>
-    <corrected><w><i>ljón</i></w></corrected>
+    <corrected><w><hi>ljón</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="2-1" eid="0" />
         <error xtype="nonit4it" idx="2-2" eid="0" />
@@ -75,12 +87,12 @@
   </revision>
   <w>og</w>
   <w>sanskrít</w>
-  <w><i>pura</i></w>
+  <w><hi>pura</hi></w>
   <w>sem</w>
   <w>merkir</w>
   <revision id="3">
     <original><c>„</c><w>borg</w><c>“</c></original>
-    <corrected><w><i>borg</i></w></corrected>
+    <corrected><w><hi>borg</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="3-1" eid="0" />
         <error xtype="nonit4it" idx="3-2" eid="0" />

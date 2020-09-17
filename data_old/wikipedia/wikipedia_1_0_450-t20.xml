@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Björn</w>
+  <w>Auðunarson</w>
+  <c>(</c>
+  <w>d.</w>
+  <w>1364</w>
+  <c>)</c>
+  <w>var</w>
+  <w>ábóti</w>
+  <w>í</w>
+  <w>Viðeyjarklaustri</w>
+  <w>frá</w>
+  <w>1352</w>
+  <w>til</w>
+  <w>dauðadags</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Um</w>
+  <w>leið</w>
+  <w>og</w>
+  <w>hann</w>
+  <w>tók</w>
+  <w>við</w>
+  <w>var</w>
+  <revision id="1">
+    <original></original>
+    <corrected><w>regluhaldi</w></corrected>
+      <errors>
+        <error xtype="wording" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>breytt</w>
+  <revision id="2">
+    <original><w>um</w><w>regluhald</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>klaustrinu</w>
+  <w>og</w>
+  <w>Ágústínusarregla</w>
+  <w>sett</w>
+  <w>þar</w>
+  <w>að</w>
+  <w>nýju</w>
+  <w>en</w>
+  <w>þá</w>
+  <w>hafði</w>
+  <w>klaustrið</w>
+  <w>tilheyrt</w>
+  <w>Benediktsreglu</w>
+  <w>í</w>
+  <w>átta</w>
+  <w>ár</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Björn</w>
+  <w>var</w>
+  <w>að</w>
+  <w>líkindum</w>
+  <w>sonur</w>
+  <w>Auðunar</w>
+  <w>Krákssonar</w>
+  <c>,</c>
+  <w>prests</w>
+  <w>í</w>
+  <w>Selárdal</w>
+  <c>,</c>
+  <w>og</w>
+  <w>því</w>
+  <w>af</w>
+  <w>ætt</w>
+  <w>Seldæla</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Lítið</w>
+  <w>er</w>
+  <w>vitað</w>
+  <w>um</w>
+  <w>ábótatíð</w>
+  <w>Björns</w>
+  <w>en</w>
+  <w>hann</w>
+  <w>gegndi</w>
+  <w>embættinu</w>
+  <w>til</w>
+  <w>dauðadags</w>
+  <w>1364</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Þá</w>
+  <w>tók</w>
+  <w>Jón</w>
+  <w>nokkur</w>
+  <w>við</w>
+  <w>ábótadæminu</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

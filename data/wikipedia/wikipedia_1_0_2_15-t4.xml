@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_15-t4.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Gruggsveitum</w>
@@ -92,7 +104,7 @@
   <c>.</c>
 </s><s n="4">
   <w>Velgengni</w>
-  <w><i>Nevermind</i></w>
+  <w><hi>Nevermind</hi></w>
   <w>kom</w>
   <w>tónlistarheiminum</w>
   <w>mjög</w>
@@ -303,7 +315,7 @@
   <w>Pearl</w>
   <w>Jam</w>
   <c>,</c>
-  <w><i>Vs.</i></w>
+  <w><hi>Vs.</hi></w>
   <c>,</c>
   <w>kom</w>
   <w>út</w>
@@ -364,9 +376,9 @@
   <w>hringdi</w>
   <w>blaðamaður</w>
   <w>frá</w>
-  <w><i>New</i></w>
-  <w><i>York</i></w>
-  <w><i>Times</i></w>
+  <w><hi>New</hi></w>
+  <w><hi>York</hi></w>
+  <w><hi>Times</hi></w>
   <w>í</w>
   <w>Sub</w>
   <w>Pop</w>
@@ -395,7 +407,7 @@
   <w>gefið</w>
   <w>út</w>
   <w>plötuna</w>
-  <w><i>Ten</i></w>
+  <w><hi>Ten</hi></w>
   <w>í</w>
   <w>ágúst 1991</w>
   <w>en</w>
@@ -417,7 +429,7 @@
   <w>öðru</w>
   <w>sæti</w>
   <w>á</w>
-  <w><i>Billboard</i></w>
+  <w><hi>Billboard</hi></w>
   <revision id="10">
     <original><w>listanum</w></original>
     <corrected><c>-listanum</c></corrected>
@@ -523,7 +535,7 @@
   <w>í</w>
   <w>fyrsta</w>
   <w>sæti</w>
-  <w><i>Billboard</i></w>
+  <w><hi>Billboard</hi></w>
   <c>-listans</c>
   <c>.</c>
 </s><s n="17">
@@ -593,8 +605,8 @@
   <w>í</w>
   <w>breska</w>
   <w>blaðinu</w>
-  <w><i>Melody</i></w>
-  <w><i>Maker</i></w>
+  <w><hi>Melody</hi></w>
+  <w><hi>Maker</hi></w>
   <c>.</c>
 </s><s n="20">
   <w>Alice</w>
@@ -625,7 +637,7 @@
   <w>eða</w>
   <revision id="14">
     <original><w>grunge</w></original>
-    <corrected><w><i>grunge</i></w></corrected>
+    <corrected><w><hi>grunge</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -757,7 +769,7 @@
   <w>gegn</w>
   <c>.</c>
 </s><s n="26">
-  <w><i>Nevermind</i></w>
+  <w><hi>Nevermind</hi></w>
   <w>var</w>
   <w>fyrsta</w>
   <w>plata</w>
@@ -845,7 +857,7 @@
   <w>gefið</w>
   <w>út</w>
   <w>plötuna</w>
-  <w><i>Bleach</i></w>
+  <w><hi>Bleach</hi></w>
   <w>hjá</w>
   <w>Sub</w>
   <w>Pop</w>
@@ -1360,7 +1372,7 @@
   <w>af</w>
   <w>fyrsta</w>
   <w>sæti</w>
-  <w><i>Billboard</i></w>
+  <w><hi>Billboard</hi></w>
   <revision id="32">
     <original><w>listans</w></original>
     <corrected><c>-listans</c></corrected>
@@ -1403,10 +1415,10 @@
         <error xtype="comma4semicolon" eid="0"/>
       </errors>
   </revision>
-  <w><i>In</i></w>
-  <w><i>Utero</i></w>
+  <w><hi>In</hi></w>
+  <w><hi>Utero</hi></w>
   <w>toppaði</w>
-  <w><i>Billboard</i></w>
+  <w><hi>Billboard</hi></w>
   <c>-listann</c>
   <w>í</w>
   <w>sama</w>
@@ -1420,20 +1432,20 @@
   <w>september 1993</w>
   <c>.</c>
 </s><s n="48">
-  <w><i>Badmotorfinger</i></w>
+  <w><hi>Badmotorfinger</hi></w>
   <w>með</w>
   <w>Soundgarden</w>
   <c>,</c>
-  <w><i>Dirt</i></w>
+  <w><hi>Dirt</hi></w>
   <w>með</w>
   <w>Alice</w>
   <w>in</w>
   <w>Chains</w>
   <w>og</w>
-  <w><i>Temple</i></w>
-  <w><i>of</i></w>
-  <w><i>the</i></w>
-  <w><i>Dog</i></w>
+  <w><hi>Temple</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>Dog</hi></w>
   <w>með</w>
   <w>samnefndri</w>
   <w>hljómsveit</w>
@@ -1573,8 +1585,8 @@
       </errors>
   </revision>
   <w>platan</w>
-  <w><i>My</i></w>
-  <w><i>War</i></w>
+  <w><hi>My</hi></w>
+  <w><hi>War</hi></w>
   <c>(</c>
   <w>1984</w>
   <c>)</c>
@@ -1845,7 +1857,7 @@
   <w>e</w>
   <c>:</c>
   <revision id="47">
-    <original><w><i>Sub</i></w><w><i>Pop</i></w><w><i>Singles</i></w><w><i>Club</i></w></original>
+    <original><w><hi>Sub</hi></w><w><hi>Pop</hi></w><w><hi>Singles</hi></w><w><hi>Club</hi></w></original>
     <corrected><w>Sub</w><w>Pop</w><w>Singles</w><w>Club</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>

@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_6-t7.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Í</w>
@@ -596,7 +608,7 @@
   <w>sem</w>
   <w>merkir</w>
   <revision id="5">
-    <original><w><i>að</i></w><w><i>líða</i></w></original>
+    <original><w><hi>að</hi></w><w><hi>líða</hi></w></original>
     <corrected><c>‚</c><w>að</w><w>líða</w><c>‘</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="1-1" eid="0"/>
@@ -605,7 +617,7 @@
   </revision>
   <w>eða</w>
   <revision id="6">
-    <original><w><i>að</i></w><w><i>þjást</i></w></original>
+    <original><w><hi>að</hi></w><w><hi>þjást</hi></w></original>
     <corrected><c>‚</c><w>að</w><w>þjást</w><c>‘</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="1-1" eid="0"/>
@@ -615,7 +627,7 @@
   <w>á</w>
   <w>hollensku</w>
   <c>(</c>
-  <w><i>lijden</i></w>
+  <w><hi>lijden</hi></w>
   <c>)</c>
   <c>.</c>
 </s><s n="35">
@@ -800,7 +812,7 @@
   <w>talað</w>
   <w>um</w>
   <revision id="8">
-    <original><w><i>Loðvík</i></w><w><i>hin</i></w><w><i>góða</i></w></original>
+    <original><w><hi>Loðvík</hi></w><w><hi>hin</hi></w><w><hi>góða</hi></w></original>
     <corrected><c>‚</c><w>Loðvík</w><w>hinn</w><w>góða</w><c>‘</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="12-1" eid="0"/>
@@ -971,7 +983,7 @@
   <w>sem</w>
   <w>merkir</w>
   <revision id="11">
-    <original><w><i>lyklaborgin</i></w></original>
+    <original><w><hi>lyklaborgin</hi></w></original>
     <corrected><c>‚</c><w>lyklaborgin</w><c>‘</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="3-1" eid="0"/>

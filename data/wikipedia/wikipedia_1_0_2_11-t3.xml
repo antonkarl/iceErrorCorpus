@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_11-t3.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Síðan</w>
@@ -18,7 +30,7 @@
   <w>við</w>
   <revision id="1">
     <original><c>:</c><w>Julie</w></original>
-    <corrected><w><i>Julie</i></w></corrected>
+    <corrected><w><hi>Julie</hi></w></corrected>
       <errors>
         <error xtype="extra-colon" idx="52-1" eid="0"/>
         <error xtype="nonit4it" idx="52-2" eid="0"/>
@@ -27,18 +39,18 @@
   <c>,</c>
   <revision id="2">
     <original><w>Cybill</w></original>
-    <corrected><w><i>Cybill</i></w></corrected>
+    <corrected><w><hi>Cybill</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
   </revision>
   <c>,</c>
-  <w><i>Las</i></w>
-  <w><i>Vegas</i></w>
+  <w><hi>Las</hi></w>
+  <w><hi>Vegas</hi></w>
   <c>,</c>
   <revision id="3">
     <original><w>NCIS</w></original>
-    <corrected><w><i>NCIS</i></w></corrected>
+    <corrected><w><hi>NCIS</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -46,7 +58,7 @@
   <c>,</c>
   <revision id="4">
     <original><w>Boston</w><w>Legal</w></original>
-    <corrected><w><i>Boston</i></w><w><i>Legal</i></w></corrected>
+    <corrected><w><hi>Boston</hi></w><w><hi>Legal</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -54,7 +66,7 @@
   <w>og</w>
   <revision id="5">
     <original><w>Two</w><w>and</w><w>a</w><w>Half</w><w>Men</w></original>
-    <corrected><w><i>Two</i></w><w><i>and</i></w><w><i>a</i></w><w><i>Half</i></w><w><i>Men</i></w></corrected>
+    <corrected><w><hi>Two</hi></w><w><hi>and</hi></w><w><hi>a</hi></w><w><hi>Half</hi></w><w><hi>Men</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -95,7 +107,7 @@
   <w>í</w>
   <revision id="7">
     <original><w>It</w><w>Takes</w><w>a</w><w>Thief</w></original>
-    <corrected><w><i>It</i></w><w><i>Takes</i></w><w><i>a</i></w><w><i>Thief</i></w></corrected>
+    <corrected><w><hi>It</hi></w><w><hi>Takes</hi></w><w><hi>a</hi></w><w><hi>Thief</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -139,7 +151,7 @@
   <w>T.</w>
   <w>Ryan</w>
   <w>í</w>
-  <w><i>Switch</i></w>
+  <w><hi>Switch</hi></w>
   <w>sem</w>
   <w>hann</w>
   <w>lék</w>
@@ -224,17 +236,17 @@
   <w>í</w>
   <revision id="15">
     <original><w>It</w><w>Takes</w><w>a</w><w>Thief</w></original>
-    <corrected><w><i>It</i></w><w><i>Takes</i></w><w><i>a</i></w><w><i>Thief</i></w></corrected>
+    <corrected><w><hi>It</hi></w><w><hi>Takes</hi></w><w><hi>a</hi></w><w><hi>Thief</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
   </revision>
   <c>,</c>
-  <w><i>Switch</i></w>
+  <w><hi>Switch</hi></w>
   <c>,</c>
   <revision id="16">
     <original><w>Hart</w><w>to</w><w>Hart</w></original>
-    <corrected><w><i>Hart</i></w><w><i>to</i></w><w><i>Hart</i></w></corrected>
+    <corrected><w><hi>Hart</hi></w><w><hi>to</hi></w><w><hi>Hart</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -246,7 +258,7 @@
   <w>í</w>
   <revision id="17">
     <original><w>Austin</w><w>Powers</w><w>myndunum</w></original>
-    <corrected><w><i>Austin</i></w><w><i>Powers</i></w><c>-myndunum</c></corrected>
+    <corrected><w><hi>Austin</hi></w><w><hi>Powers</hi></w><c>-myndunum</c></corrected>
       <errors>
         <error xtype="nonit4it" idx="3-1" eid="0"/>
         <error xtype="missing-dash" idx="3-1" eid="0"/>
@@ -264,7 +276,7 @@
   <w>við</w>
   <revision id="18">
     <original><c>:</c><w>White</w><w>Feather</w></original>
-    <corrected><w><i>White</i></w><w><i>Feather</i></w></corrected>
+    <corrected><w><hi>White</hi></w><w><hi>Feather</hi></w></corrected>
       <errors>
         <error xtype="extra-colon" idx="29-1" eid="0"/>
         <error xtype="nonit4it" idx="29-2" eid="0"/>
@@ -273,7 +285,7 @@
   <c>,</c>
   <revision id="19">
     <original><w>The</w><w>Mountain</w></original>
-    <corrected><w><i>The</i></w><w><i>Mountain</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Mountain</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -281,7 +293,7 @@
   <c>,</c>
   <revision id="20">
     <original><w>In</w><w>Love</w><w>and</w><w>War</w></original>
-    <corrected><w><i>In</i></w><w><i>Love</i></w><w><i>and</i></w><w><i>War</i></w></corrected>
+    <corrected><w><hi>In</hi></w><w><hi>Love</hi></w><w><hi>and</hi></w><w><hi>War</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -289,13 +301,13 @@
   <c>,</c>
   <revision id="21">
     <original><w>The</w><w>Pink</w><w>Pather</w></original>
-    <corrected><w><i>The</i></w><w><i>Pink</i></w><w><i>Pather</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Pink</hi></w><w><hi>Pather</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
-  <w><i>Titanic</i></w>
+  <w><hi>Titanic</hi></w>
   <c>.</c>
 </s><s n="8">
   <w>Wagner</w>
@@ -338,7 +350,7 @@
   <w>kvikmyndinni</w>
   <revision id="25">
     <original><w>The</w><w>Happy</w><w>Years</w></original>
-    <corrected><w><i>The</i></w><w><i>Happy</i></w><w><i>Years</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Happy</hi></w><w><hi>Years</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -375,7 +387,7 @@
   <w>í</w>
   <revision id="28">
     <original><w>With</w><w>a</w><w>Song</w><w>in</w><w>My</w><w>Heart</w><w>frá</w></original>
-    <corrected><w><i>With</i></w><w><i>a</i></w><w><i>Song</i></w><w><i>in</i></w><w><i>My</i></w><w><i>Heart</i></w><c>(</c></corrected>
+    <corrected><w><hi>With</hi></w><w><hi>a</hi></w><w><hi>Song</hi></w><w><hi>in</hi></w><w><hi>My</hi></w><w><hi>Heart</hi></w><c>(</c></corrected>
       <errors>
         <error xtype="nonit4it" idx="26-1" eid="0"/>
         <error xtype="extra-word" idx="26-2" eid="0"/>
@@ -545,7 +557,7 @@
   <w>kvikmyndinni</w>
   <revision id="36">
     <original><w>The</w><w>Towering</w><w>Inferno</w></original>
-    <corrected><w><i>The</i></w><w><i>Towering</i></w><w><i>Inferno</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Towering</hi></w><w><hi>Inferno</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -621,7 +633,7 @@
   <w>við</w>
   <revision id="39">
     <original><c>:</c><w>Midway</w></original>
-    <corrected><w><i>Midway</i></w><c>,</c></corrected>
+    <corrected><w><hi>Midway</hi></w><c>,</c></corrected>
       <errors>
         <error xtype="extra-colon" idx="38-1" eid="0"/>
         <error xtype="nonit4it" idx="38-2" eid="0"/>
@@ -640,7 +652,7 @@
   <w>Coburn</w>
   <revision id="40">
     <original><c>,,</c><w>Crazy</w><w>in</w><w>Alabama</w></original>
-    <corrected><c>,</c><w><i>Crazy</i></w><w><i>in</i></w><w><i>Alabama</i></w></corrected>
+    <corrected><c>,</c><w><hi>Crazy</hi></w><w><hi>in</hi></w><w><hi>Alabama</hi></w></corrected>
       <errors>
         <error xtype="double-punctuation" idx="39-1" eid="0"/>
         <error xtype="nonit4it" idx="38-2" eid="0"/>
@@ -649,7 +661,7 @@
   <c>,</c>
   <revision id="41">
     <original><w>Austin</w><w>Powers</w><w>in</w><w>Goldmember</w></original>
-    <corrected><w><i>Austin</i></w><w><i>Powers</i></w><w><i>in</i></w><w><i>Goldmember</i></w></corrected>
+    <corrected><w><hi>Austin</hi></w><w><hi>Powers</hi></w><w><hi>in</hi></w><w><hi>Goldmember</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -657,7 +669,7 @@
   <c>,</c>
   <revision id="42">
     <original><w>Little</w><w>Victim</w></original>
-    <corrected><w><i>Little</i></w><w><i>Victim</i></w></corrected>
+    <corrected><w><hi>Little</hi></w><w><hi>Victim</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -665,7 +677,7 @@
   <w>og</w>
   <revision id="43">
     <original><w>Man</w><w>in</w><w>the</w><w>Chair</w></original>
-    <corrected><w><i>Man</i></w><w><i>in</i></w><w><i>the</i></w><w><i>Chair</i></w></corrected>
+    <corrected><w><hi>Man</hi></w><w><hi>in</hi></w><w><hi>the</hi></w><w><hi>Chair</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -743,14 +755,14 @@
   <w>út</w>
   <w>sjálfsævisögu</w>
   <w>sína</w>
-  <w><i>Pieces</i></w>
-  <w><i>of</i></w>
-  <w><i>My</i></w>
+  <w><hi>Pieces</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>My</hi></w>
   <w>ZHeart</w>
   <c>:</c>
   <w><i/></w>
-  <w><i>A</i></w>
-  <w><i>Life</i></w>
+  <w><hi>A</hi></w>
+  <w><hi>Life</hi></w>
   <w>sem</w>
   <w>var</w>
   <w>skrifuð</w>
@@ -776,7 +788,7 @@
   <w>við</w>
   <revision id="48">
     <original><w>The</w><w>Red</w><w>Skelton</w><w>Show</w></original>
-    <corrected><w><i>The</i></w><w><i>Red</i></w><w><i>Skelton</i></w><w><i>Show</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Red</hi></w><w><hi>Skelton</hi></w><w><hi>Show</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -784,7 +796,7 @@
   <c>,</c>
   <revision id="49">
     <original><w>Colditz</w></original>
-    <corrected><w><i>Colditz</i></w></corrected>
+    <corrected><w><hi>Colditz</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -792,7 +804,7 @@
   <w>og</w>
   <revision id="50">
     <original><w>The</w><w>Streets</w><w>of</w><w>San</w><w>Francisco</w><c>.</c></original>
-    <corrected><w><i>The</i></w><w><i>Streets</i></w><w><i>of</i></w><w><i>San</i></w><w><i>Francisco</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Streets</hi></w><w><hi>of</hi></w><w><hi>San</hi></w><w><hi>Francisco</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -835,7 +847,7 @@
   <w>í</w>
   <revision id="52">
     <original><w>Hart</w><w>to</w><w>Hart</w></original>
-    <corrected><w><i>Hart</i></w><w><i>to</i></w><w><i>Hart</i></w></corrected>
+    <corrected><w><hi>Hart</hi></w><w><hi>to</hi></w><w><hi>Hart</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -904,7 +916,7 @@
   <w>í</w>
   <revision id="56">
     <original><w>smyndinni</w><w>Madame</w><w>Sin</w></original>
-    <corrected><w>kvikmyndinni</w><w><i>Madame</i></w><w><i>Sin</i></w></corrected>
+    <corrected><w>kvikmyndinni</w><w><hi>Madame</hi></w><w><hi>Sin</hi></w></corrected>
       <errors>
         <error xtype="wording" idx="35-1" eid="0"/>
         <error xtype="nonword" idx="35-1" eid="0"/>

@@ -1,0 +1,475 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader/>
+<text><body><p n="1">
+<s n="1">
+  <w>Fyrst</w>
+  <w>í</w>
+  <w>stað</w>
+  <w>átti</w>
+  <w>hann</w>
+  <revision id="1">
+    <original><w>bara</w></original>
+    <corrected><w>einungis</w></corrected>
+      <errors>
+        <error xtype="wording" idx="3-1" eid="0"/>
+        <error xtype="style" idx="3-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>vera</w>
+  <w>gestakennari</w>
+  <w>í</w>
+  <w>Princeton-háskóla</w>
+  <c>.</c>
+</s><s n="2">
+  <w>Hann</w>
+  <w>kenndi</w>
+  <w>þó</w>
+  <revision id="2">
+    <original><w>að</w><w>einhverju</w><w>leyti</w></original>
+    <corrected><w>áfram</w></corrected>
+      <errors>
+      	<error xtype="missing-word" eid="0"/>
+        <error xtype="wording" idx="21-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>við</w>
+  <w>New</w>
+  <w>York-háskóla</w>
+  <revision id="3">
+    <original/>
+    <corrected><w>að</w><w>einhverju</w><w>leyti</w></corrected>
+      <errors>
+        <error xtype="dep" depId="21-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>eftir</w>
+  <w>það</w>
+  <c>.</c>
+</s><s n="3">
+  <w>Morgernstern</w>
+  <w>fæddist</w>
+  <w>árið 1902</w>
+  <w>í</w>
+  <w>Görlitz</w>
+  <w>Þýskalandi</w>
+  <w>og</w>
+  <w>lést</w>
+  <w>árið 1977</w>
+  <w>í</w>
+  <w>Princeton</w>
+  <c>,</c>
+  <w>New</w>
+  <w>Jersey</w>
+  <w>í</w>
+  <w>Bandaríkjunum</w>
+  <c>.</c>
+</s><s n="4">
+  <w>En</w>
+  <w>þegar</w>
+  <w>hann</w>
+  <w>dvaldi</w>
+  <w>við</w>
+  <w>Princeton</w>
+  <w>var</w>
+  <w>hann</w>
+  <w>rekinn</w>
+  <w>frá</w>
+  <w>Vínarháskóla</w>
+  <w>sökum</w>
+  <w>ótækra</w>
+  <w>pólitískra</w>
+  <w>skoðana</w>
+  <revision id="4">
+    <original><c>(</c></original>
+    <corrected><w>en</w></corrected>
+      <errors>
+        <error xtype="extra-bracket" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
+      </errors>
+  </revision>
+  <w>nasistar</w>
+  <w>höfðu</w>
+  <w>þá</w>
+  <w>náð</w>
+  <w>völdum</w>
+  <revision id="5">
+    <original><c>)</c><w>og</w><w>vegna</w></original>
+    <corrected><w>í</w><w>borginni</w><c>.</c><w>Vegna</w></corrected>
+      <errors>
+        <error xtype="extra-bracket" eid="0"/>
+        <error xtype="missing-words" eid="0"/>
+        <error xtype="conjunction4period" eid="0"/>
+      </errors>
+  </revision>
+  <w>seinni</w>
+  <w>heimstyrjaldarinnar</w>
+  <revision id="6">
+    <original><w>þá</w></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-word" idx="6-1" eid="0"/>
+        <error xtype="style" idx="6-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>var</w>
+  <w>honum</w>
+  <w>ráðlagt</w>
+  <w>að</w>
+  <w>dvelja</w>
+  <w>áfram</w>
+  <w>í</w>
+  <w>Bandaríkjunum</w>
+  <revision id="7">
+    <original/>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0"/>
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>hann</w>
+  <w>gerði</w>
+  <c>.</c>
+</s><s n="5">
+  <w>Oskar</w>
+  <w>Morgenstern</w>
+  <w>fæddist</w>
+  <w>í</w>
+  <w>Þýskalandi</w>
+  <w>árið 1902</w>
+  <c>,</c>
+  <w>hann</w>
+  <w>fluttist</w>
+  <revision id="8">
+    <original><w>svo</w></original>
+    <corrected><w>síðar</w></corrected>
+      <errors>
+        <error xtype="wording" idx="1-1" eid="0"/>
+        <error xtype="style" idx="1-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>til</w>
+  <w>Vínarborgar</w>
+  <w>í</w>
+  <w>Austurríki</w>
+  <w>þar</w>
+  <w>sem</w>
+  <w>hann</w>
+  <w>átti</w>
+  <w>eftir</w>
+  <w>að</w>
+  <w>útskrifast</w>
+  <w>með</w>
+  <w>doktorsgráðu</w>
+  <w>í</w>
+  <w>stjórnmálafræði</w>
+  <w>frá</w>
+  <w>Háskólanum</w>
+  <w>í</w>
+  <w>Vínarborg</w>
+  <w>árið 1925</w>
+  <c>.</c>
+</s><s n="6">
+  <w>Þetta</w>
+  <w>er</w>
+  <w>sennilega</w>
+  <w>þekktasta</w>
+  <w>verk</w>
+  <w>Morgenstern</w>
+  <w>þrátt</w>
+  <w>fyrir</w>
+  <w>að</w>
+  <w>hann</w>
+  <w>hafi</w>
+  <w>gefið</w>
+  <w>út</w>
+  <revision id="9">
+    <original><w>þónokkur</w></original>
+    <corrected><w>þó</w><w>nokkur</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0"/>
+      </errors>
+  </revision>
+  <w>önnur</w>
+  <w>rit</w>
+  <w>seinna</w>
+  <w>meir</w>
+  <c>.</c>
+</s><s n="7">
+  <w>Hann</w>
+  <w>starfaði</w>
+  <revision id="10">
+    <original><w>svo</w></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-word" eid="0"/>
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>prófessor</w>
+  <w>við</w>
+  <w>skólann</w>
+  <w>frá</w>
+  <w>1929</w>
+  <w>fram</w>
+  <w>til</w>
+  <w>1938</w>
+  <w>þegar</w>
+  <w>hann</w>
+  <w>fór</w>
+  <w>til</w>
+  <w>Bandaríkjanna</w>
+  <c>.</c>
+</s><s n="8">
+  <revision id="11">
+    <original><w>hann</w></original>
+    <corrected><w>Hann</w></corrected>
+      <errors>
+        <error xtype="lower4upper-initial" eid="0"/>
+      </errors>
+  </revision>
+  <w>gagnrýndi</w>
+  <w>hefðbundnar</w>
+  <w>aðferðir</w>
+  <w>í</w>
+  <w>riti</w>
+  <w>sínu</w>
+  <w><i>On</i></w>
+  <w><i>the</i></w>
+  <w><i>Accuracy</i></w>
+  <w><i>of</i></w>
+  <w><i>Economic</i></w>
+  <w><i>Observations</i></w>
+  <w>árið 1950</w>
+  <c>.</c>
+</s><s n="9">
+  <w>Oskar</w>
+  <w>Morgenstern</w>
+  <c>(</c>
+  <w>fæddur</w>
+  <w>24. janúar 1902</w>
+  <w>í</w>
+  <w>Þýskalandi</w>
+  <c>,</c>
+  <w>dáinn</w>
+  <w>26. júlí 1977</w>
+  <w>í</w>
+  <w>Bandaríkjunum</w>
+  <c>)</c>
+  <w>var</w>
+  <w>austurrísk-bandarískur</w>
+  <w>hagfræðingur</w>
+  <w>sem</w>
+  <w>er</w>
+  <w>helst</w>
+  <w>minnst</w>
+  <w>sem</w>
+  <w>annars</w>
+  <w>af</w>
+  <w>höfundum</w>
+  <w>leikjafræði</w>
+  <c>.</c>
+</s><s n="10">
+  <w>Morgenstern</w>
+  <w>er</w>
+  <w>einnig</w>
+  <w>þekktur</w>
+  <w>fyrir</w>
+  <revision id="12">
+    <original><w>efahygju</w></original>
+    <corrected><w>efahyggju</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="17-1" eid="0"/>
+        <error xtype="nonword" idx="17-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>sína</w>
+  <w>gagnvart</w>
+  <w>hagfræðimælingum</w>
+  <c>.</c>
+</s><s n="11">
+  <w>Oscar</w>
+  <w>Morgenstern</w>
+  <w>lést</w>
+  <revision id="13">
+    <original><w>svo</w></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-word" eid="0"/>
+      </errors>
+  </revision>
+  <w>þann</w>
+  <w>26. júlí</w>
+  <w>í</w>
+  <w>Princeton</w>
+  <c>,</c>
+  <w>New</w>
+  <w>Jersey</w>
+  <w>árið 1970</w>
+  <c>.</c>
+</s><s n="12">
+  <w>Í</w>
+  <w>Princeton</w>
+  <w>kynntist</w>
+  <w>hann</w>
+  <w>John</w>
+  <w>von</w>
+  <w>Neumann</w>
+  <w>og</w>
+  <w>saman</w>
+  <w>rituðu</w>
+  <w>þeir</w>
+  <w>verkið</w>
+  <w><i>Theory</i></w>
+  <w><i>of</i></w>
+  <w><i>Games</i></w>
+  <w><i>and</i></w>
+  <w><i>Economic</i></w>
+  <w><i>Behavior</i></w>
+  <w>sem</w>
+  <revision id="14">
+    <original><w>er</w></original>
+    <corrected><w>átti</w><w>eftir</w><w>að</w><w>verða</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
+  <w>grundvallarverk</w>
+  <w>á</w>
+  <w>sviði</w>
+  <w>leikjafræði</w>
+  <c>.</c>
+</s><s n="13">
+  <revision id="15">
+    <original><w>Þessi</w></original>
+    <corrected><w>Sú</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
+  <w>bók</w>
+  <w>fjallar</w>
+  <w>að</w>
+  <w>langmestu</w>
+  <w>leyti</w>
+  <w>um</w>
+  <w>núllsummuleiki</w>
+  <revision id="16">
+    <original><w>og</w></original>
+    <corrected><c>.</c></corrected>
+      <errors>
+        <error xtype="conjunction4period" eid="0"/>
+      </errors>
+  </revision>
+  <w>Þegar</w>
+  <w>fjallað</w>
+  <w>er</w>
+  <revision id="17">
+    <original><w>þar</w></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-word" eid="0"/>
+      </errors>
+  </revision>
+  <w>um</w>
+  <revision id="18">
+    <original><w>aðra</w></original>
+    <corrected><w>annars</w><w>konar</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
+  <w>leiki</w>
+  <w>er</w>
+  <w>það</w>
+  <w>gert</w>
+  <w>á</w>
+  <revision id="19">
+    <original><w>þan</w></original>
+    <corrected><w>þann</w></corrected>
+      <errors>
+        <error xtype="missing-letter" eid="0"/>
+      </errors>
+  </revision>
+  <w>hátt</w>
+  <w>að</w>
+  <revision id="20">
+    <original><w>breyta</w></original>
+    <corrected/>
+      <errors>
+        <error xtype="wording" idx="14-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>þeim</w>
+  <revision id="21">
+    <original/>
+    <corrected><w>er</w><w>breytt</w></corrected>
+      <errors>
+        <error xtype="dep" depId="14-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>núllsummuleiki</w>
+  <w>með</w>
+  <w>því</w>
+  <w>að</w>
+  <w>búa</w>
+  <w>til</w>
+  <w>einn</w>
+  <w>nýjan</w>
+  <w>þátttakanda</w>
+  <w>sem</w>
+  <w>tapar</w>
+  <w>því</w>
+  <w>sem</w>
+  <w>aðrir</w>
+  <w>græða</w>
+  <w>samanlagt</w>
+  <w>eða</w>
+  <w>öfugt</w>
+  <c>.</c>
+</s><s n="14">
+  <w>Hann</w>
+  <w>gaf</w>
+  <w>út</w>
+  <w>nokkur</w>
+  <w>önnur</w>
+  <w>rit</w>
+  <w>um</w>
+  <w>ævina</w>
+  <w>og</w>
+  <w>starfaði</w>
+  <w>sem</w>
+  <w>prófessor</w>
+  <w>í</w>
+  <w>hagfræði</w>
+  <w>við</w>
+  <w>Princeton-háskóla</w>
+  <revision id="22">
+    <original><w>þar</w></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-word" eid="0"/>
+      </errors>
+  </revision>
+  <w>til</w>
+  <revision id="23">
+    <original><w>1970</w></original>
+    <corrected><w>ársins 1970</w><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-comma" eid="0"/>
+      </errors>
+  </revision>
+  <w>þegar</w>
+  <w>hann</w>
+  <w>lét</w>
+  <w>af</w>
+  <w>störfum</w>
+  <w>vegna</w>
+  <w>aldurs</w>
+  <c>.</c>
+</s></p></body></text>
+</TEI>

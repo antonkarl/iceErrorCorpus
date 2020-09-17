@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_3-t7.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Víkingar</w>
@@ -607,7 +619,7 @@
   <w>í</w>
   <revision id="39">
     <original><w>Evrópukeppni</w><w>félagsliða</w></original>
-    <corrected><w><i>Evrópukeppni</i></w><w><i>félagsliða</i></w></corrected>
+    <corrected><w><hi>Evrópukeppni</hi></w><w><hi>félagsliða</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_250-t7.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Forsetinn</w>
@@ -356,7 +368,7 @@
   <w>stjórnarflokkurinn</w>
   <revision id="11">
     <original><c>,</c><w>CCM</w><c>,</c></original>
-    <corrected><w><i>CCM</i></w></corrected>
+    <corrected><w><hi>CCM</hi></w></corrected>
       <errors>
         <error xtype="extra-commas" idx="51-1" eid="0"/>
         <error xtype="nonit4it" idx="51-2" eid="0"/>
@@ -436,7 +448,7 @@
   <w>jafnaðarstefnu</w>
   <w>með</w>
   <w>hugmyndafræðinni</w>
-  <w><i>Ujamaa</i></w>
+  <w><hi>Ujamaa</hi></w>
   <w>sem</w>
   <w>fól</w>
   <w>meðal</w>
@@ -923,9 +935,9 @@
   <w>steingerðar</w>
   <w>leifar</w>
   <w>eftir</w>
-  <w><i>Paranthropus</i></w>
+  <w><hi>Paranthropus</hi></w>
   <w>og</w>
-  <w><i>Australopithecus</i></w>
+  <w><hi>Australopithecus</hi></w>
   <c>.</c>
 </s><s n="44">
   <w>Æðsta</w>

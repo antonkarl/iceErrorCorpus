@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_6-t13.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Stephenson</w>
@@ -327,9 +339,9 @@
   <w>þar</w>
   <w>á</w>
   <w>meðal</w>
-  <w><i>The</i></w>
-  <w><i>Quiet</i></w>
-  <w><i>Canadian</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Quiet</hi></w>
+  <w><hi>Canadian</hi></w>
   <c>(</c>
   <w>1962</w>
   <c>)</c>
@@ -342,20 +354,20 @@
   <w>íslensku</w>
   <w>undir</w>
   <w>nafninu</w>
-  <w><i>Dularfulli</i></w>
-  <w><i>Kanadamaðurinn</i></w>
+  <w><hi>Dularfulli</hi></w>
+  <w><hi>Kanadamaðurinn</hi></w>
   <c>,</c>
-  <w><i>A</i></w>
-  <w><i>Man</i></w>
-  <w><i>Called</i></w>
-  <w><i>Intrepid</i></w>
+  <w><hi>A</hi></w>
+  <w><hi>Man</hi></w>
+  <w><hi>Called</hi></w>
+  <w><hi>Intrepid</hi></w>
   <c>(</c>
   <w>1976</w>
   <c>)</c>
   <w>og</w>
-  <w><i>The</i></w>
-  <w><i>True</i></w>
-  <w><i>Intrepid</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>True</hi></w>
+  <w><hi>Intrepid</hi></w>
   <c>(</c>
   <w>1998</w>
   <c>)</c>
@@ -523,7 +535,7 @@
   <w>bókinni</w>
   <revision id="2">
     <original><w>A</w><w>Man</w><w>Called</w><w>Intrepid</w></original>
-    <corrected><w><i>A</i></w><w><i>Man</i></w><w><i>Called</i></w><w><i>Intrepid</i></w></corrected>
+    <corrected><w><hi>A</hi></w><w><hi>Man</hi></w><w><hi>Called</hi></w><w><hi>Intrepid</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -717,8 +729,8 @@
   <w>kölluðu</w>
   <w>hann</w>
   <w>oftast</w>
-  <w><i>Little</i></w>
-  <w><i>Bill</i></w>
+  <w><hi>Little</hi></w>
+  <w><hi>Bill</hi></w>
   <w>en</w>
   <w>eftir</w>
   <w>stríð</w>
@@ -735,7 +747,7 @@
   <w>hafi</w>
   <w>borið</w>
   <c>,</c>
-  <w><i>Intrepid</i></w>
+  <w><hi>Intrepid</hi></w>
   <c>,</c>
   <w>og</w>
   <w>einnig</w>
@@ -743,8 +755,8 @@
   <w>hann</w>
   <w>oft</w>
   <w>kallaður</w>
-  <w><i>Þögli</i></w>
-  <w><i>Kanadamaðurinn</i></w>
+  <w><hi>Þögli</hi></w>
+  <w><hi>Kanadamaðurinn</hi></w>
   <c>(</c>
   <w>The</w>
   <w>Quiet</w>
@@ -798,7 +810,7 @@
   <w>Bandaríkjaforseta</w>
   <c>,</c>
   <revision id="5">
-    <original><w><i>Verðleikaorðunni</i></w></original>
+    <original><w><hi>Verðleikaorðunni</hi></w></original>
     <corrected><w>Verðleikaorðuna</w></corrected>
       <errors>
         <error xtype="it4nonit" idx="3-1" eid="0"/>

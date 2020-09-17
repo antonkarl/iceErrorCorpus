@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_10-t5.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Margar</w>
@@ -152,7 +164,7 @@
   <w>við</w>
   <revision id="7">
     <original><w>Forward</w><w>March</w></original>
-    <corrected><w><i>Forward</i></w><w><i>March</i></w></corrected>
+    <corrected><w><hi>Forward</hi></w><w><hi>March</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -163,7 +175,7 @@
   <w>og</w>
   <revision id="8">
     <original><w>Freedom</w><w>Sound</w></original>
-    <corrected><w><i>Freedom</i></w><w><i>Sound</i></w></corrected>
+    <corrected><w><hi>Freedom</hi></w><w><hi>Sound</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -172,7 +184,7 @@
   <w>hljómsveitina</w>
   <revision id="9">
     <original><w>The</w><w>Skatalites</w></original>
-    <corrected><w><i>The</i></w><w><i>Skatalites</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Skatalites</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -478,7 +490,7 @@
   <w>voru</w>
   <revision id="23">
     <original><w>The</w><w>Skadows</w></original>
-    <corrected><w><i>The</i></w><w><i>Skadows</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Skadows</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -487,7 +499,7 @@
   <w>lögin</w>
   <revision id="24">
     <original><w>Stir</w><w>It</w><w>Up</w></original>
-    <corrected><w><i>Stir</i></w><w><i>It</i></w><w><i>Up</i></w></corrected>
+    <corrected><w><hi>Stir</hi></w><w><hi>It</hi></w><w><hi>Up</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -495,7 +507,7 @@
   <w>og</w>
   <revision id="25">
     <original><w>Low</w><w>Rider</w></original>
-    <corrected><w><i>Low</i></w><w><i>Rider</i></w></corrected>
+    <corrected><w><hi>Low</hi></w><w><hi>Rider</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -503,7 +515,7 @@
   <c>,</c>
   <revision id="26">
     <original><w>The</w><w>Hot</w><w>Knives</w></original>
-    <corrected><w><i>The</i></w><w><i>Hot</i></w><w><i>Knives</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Hot</hi></w><w><hi>Knives</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -512,7 +524,7 @@
   <w>lögin</w>
   <revision id="27">
     <original><w>Crying</w></original>
-    <corrected><w><i>Crying</i></w></corrected>
+    <corrected><w><hi>Crying</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -520,7 +532,7 @@
   <w>og</w>
   <revision id="28">
     <original><w>Don't</w><w>Go</w><w>Away</w></original>
-    <corrected><w><i>Don't</i></w><w><i>Go</i></w><w><i>Away</i></w></corrected>
+    <corrected><w><hi>Don't</hi></w><w><hi>Go</hi></w><w><hi>Away</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -529,7 +541,7 @@
   <w>svo</w>
   <revision id="29">
     <original><w>Judge</w><w>Dread</w></original>
-    <corrected><w><i>Judge</i></w><w><i>Dread</i></w></corrected>
+    <corrected><w><hi>Judge</hi></w><w><hi>Dread</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -538,7 +550,7 @@
   <w>lögin</w>
   <revision id="30">
     <original><w>Big</w><w>Six</w></original>
-    <corrected><w><i>Big</i></w><w><i>Six</i></w></corrected>
+    <corrected><w><hi>Big</hi></w><w><hi>Six</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -546,7 +558,7 @@
   <c>,</c>
   <revision id="31">
     <original><w>Undertaker</w></original>
-    <corrected><w><i>Undertaker</i></w></corrected>
+    <corrected><w><hi>Undertaker</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -554,7 +566,7 @@
   <w>og</w>
   <revision id="32">
     <original><w>Skankenstein</w></original>
-    <corrected><w><i>Skankenstein</i></w></corrected>
+    <corrected><w><hi>Skankenstein</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -575,7 +587,7 @@
   <w>og</w>
   <revision id="34">
     <original><w>Rocksteady</w></original>
-    <corrected><w><i>rocksteady-stefnunnar</i></w></corrected>
+    <corrected><w><hi>rocksteady-stefnunnar</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="7-1" eid="0"/>
         <error xtype="missing-dash" idx="7-1" eid="0"/>
@@ -638,7 +650,7 @@
   <w>tíma</w>
   <revision id="39">
     <original><w>Astoria</w></original>
-    <corrected><c>,</c><w><i>Astoria</i></w></corrected>
+    <corrected><c>,</c><w><hi>Astoria</hi></w></corrected>
       <errors>
         <error xtype="missing-comma" idx="65-1" eid="0"/>
         <error xtype="nonit4it" idx="65-2" eid="0"/>
@@ -648,7 +660,7 @@
 </s><s n="23">
   <revision id="40">
     <original><c>„</c><w>Traditional</w><c>“</c></original>
-    <corrected><w><i>Traditional</i></w></corrected>
+    <corrected><w><hi>Traditional</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="19-1" eid="0"/>
         <error xtype="nonit4it" idx="19-1" eid="0"/>
@@ -794,7 +806,7 @@
   <w>kallað</w>
   <revision id="50">
     <original><c>„</c><w>Traditional</w><c>“</c></original>
-    <corrected><w><i>Traditional</i></w></corrected>
+    <corrected><w><hi>Traditional</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="18-1" eid="0"/>
         <error xtype="nonit4it" idx="18-1" eid="0"/>
@@ -810,7 +822,7 @@
   <w>kölluð</w>
   <revision id="51">
     <original><w>2</w></original>
-    <corrected><w><i>2</i></w></corrected>
+    <corrected><w><hi>2</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -818,7 +830,7 @@
   <c>-</c>
   <revision id="52">
     <original><w>Tone</w></original>
-    <corrected><w><i>Tone</i></w></corrected>
+    <corrected><w><hi>Tone</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -1149,7 +1161,7 @@
   <w>skilmála</w>
   <revision id="67">
     <original><w>Berne</w><w>Convention</w><w>for</w><w>the</w><w>Protection</w><w>of</w><w>Literary</w><w>and</w><w>Artistic</w><w>Works</w></original>
-    <corrected><w><i>Berne</i></w><w><i>Convention</i></w><w><i>for</i></w><w><i>the</i></w><w><i>Protection</i></w><w><i>of</i></w><w><i>Literary</i></w><w><i>and</i></w><w><i>Artistic</i></w><w><i>Works</i></w></corrected>
+    <corrected><w><hi>Berne</hi></w><w><hi>Convention</hi></w><w><hi>for</hi></w><w><hi>the</hi></w><w><hi>Protection</hi></w><w><hi>of</hi></w><w><hi>Literary</hi></w><w><hi>and</hi></w><w><hi>Artistic</hi></w><w><hi>Works</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -1193,7 +1205,7 @@
   <w>enska</w>
   <revision id="71">
     <original><w>2</w><w>Tone</w><w>stefna</w></original>
-    <corrected><w><i>2</i></w><w><i>Tone-stefna</i></w></corrected>
+    <corrected><w><hi>2</hi></w><w><hi>Tone-stefna</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -1250,7 +1262,7 @@
   <w>hljómsveitirnar</w>
   <revision id="74">
     <original><w>Laurel</w><w>Aitken</w></original>
-    <corrected><w><i>Laurel</i></w><w><i>Aitken</i></w></corrected>
+    <corrected><w><hi>Laurel</hi></w><w><hi>Aitken</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -1258,7 +1270,7 @@
   <c>,</c>
   <revision id="75">
     <original><w>Potato</w><w>5</w></original>
-    <corrected><w><i>Potato</i></w><w><i>5</i></w></corrected>
+    <corrected><w><hi>Potato</hi></w><w><hi>5</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -1266,7 +1278,7 @@
   <c>,</c>
   <revision id="76">
     <original><w>The</w><w>Deltones</w></original>
-    <corrected><w><i>The</i></w><w><i>Deltones</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Deltones</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -1274,7 +1286,7 @@
   <w>og</w>
   <revision id="77">
     <original><w>The</w><w>Trojans</w></original>
-    <corrected><w><i>The</i></w><w><i>Trojans</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Trojans</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

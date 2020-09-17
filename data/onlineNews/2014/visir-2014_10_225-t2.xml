@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>visir-2014_10_225-t2.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Lögreglumaðurinn</w>
@@ -185,7 +197,7 @@
   <w>en</w>
   <revision id="2">
     <original><w>eyewitness</w><w>búnaður</w></original>
-    <corrected><w><i>eyewitness-búnaður</i></w></corrected>
+    <corrected><w><hi>eyewitness-búnaður</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="3-1" eid="0"/>
         <error xtype="missing-dash" idx="3-1" eid="0"/>
@@ -289,7 +301,7 @@
   <w>svokölluðum</w>
   <revision id="5">
     <original><w>eyewitness</w><w>búnaði</w></original>
-    <corrected><w><i>eyewitness-búnaði</i></w></corrected>
+    <corrected><w><hi>eyewitness-búnaði</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="2-1" eid="0"/>
         <error xtype="missing-dash" idx="2-1" eid="0"/>

@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_450-t24.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Óeirðirnar</w>
@@ -100,10 +112,10 @@
   <w>COBR</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>Cabinet</i></w>
-  <w><i>Office</i></w>
-  <w><i>Briefing</i></w>
-  <w><i>Room</i></w>
+  <w><hi>Cabinet</hi></w>
+  <w><hi>Office</hi></w>
+  <w><hi>Briefing</hi></w>
+  <w><hi>Room</hi></w>
   <c>)</c>
   <c>.</c>
 </s>

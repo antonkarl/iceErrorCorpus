@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_2-t1.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <revision id="1">
@@ -15,7 +27,7 @@
   <w>að</w>
   <revision id="2">
     <original><w>hafi</w><w>sett</w><w>enda</w><w>á</w><w>stefnuna</w><c>,</c><w>þ.</w><w>e.</w></original>
-    <corrected><w><i>The</i></w><w><i>Bay</i></w><w><i>City</i></w><w><i>Rollers</i></w><w>hafi</w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Bay</hi></w><w><hi>City</hi></w><w><hi>Rollers</hi></w><w>hafi</w></corrected>
       <errors>
         <error xtype="dep" depId="95-1" eid="0"/>
         <error xtype="wording" idx="96-1" eid="0"/>
@@ -87,7 +99,7 @@
   <w>efa</w>
   <revision id="10">
     <original><w>Ohio</w><w>express</w></original>
-    <corrected><w><i>Ohio</i></w><w><i>Express</i></w></corrected>
+    <corrected><w><hi>Ohio</hi></w><w><hi>Express</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="104-1" eid="0"/>
         <error xtype="lower4upper-proper" idx="104-1" eid="0"/>
@@ -97,7 +109,7 @@
   <c>,</c>
   <revision id="11">
     <original><w>The</w><w>Archies</w></original>
-    <corrected><w><i>The</i></w><w><i>Archies</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Archies</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -105,7 +117,7 @@
   <c>,</c>
   <revision id="12">
     <original><w>The</w><w>Partridge</w><w>Family</w></original>
-    <corrected><w><i>The</i></w><w><i>Partridge</i></w><w><i>Family</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Partridge</hi></w><w><hi>Family</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -113,7 +125,7 @@
   <w>og</w>
   <revision id="13">
     <original><w>The</w><w>Monkees</w></original>
-    <corrected><w><i>The</i></w><w><i>Monkees</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Monkees</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -392,7 +404,7 @@
   <c>,</c>
   <revision id="31">
     <original><w>The</w><w>Lemon</w><w>Pipers</w></original>
-    <corrected><w><i>The</i></w><w><i>Lemon</i></w><w><i>Pipers</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Lemon</hi></w><w><hi>Pipers</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -468,7 +480,7 @@
   <w>verið</w>
   <revision id="38">
     <original><w>Ohio</w><w>Express</w></original>
-    <corrected><w><i>Ohio</i></w><w><i>Express</i></w></corrected>
+    <corrected><w><hi>Ohio</hi></w><w><hi>Express</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -477,7 +489,7 @@
   <w>slagarann</w>
   <revision id="39">
     <original><c>„</c><w>Yummi</w><w>yummi</w><w>yummi</w><c>“</c></original>
-    <corrected><w><i>Yummi</i></w><w><i>yummi</i></w><w><i>yummi</i></w></corrected>
+    <corrected><w><hi>Yummi</hi></w><w><hi>yummi</hi></w><w><hi>yummi</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="55-1" eid="0"/>
         <error xtype="nonit4it" idx="55-1" eid="0"/>
@@ -487,7 +499,7 @@
   <w>þá</w>
   <revision id="40">
     <original><w>The</w><w>Archies</w></original>
-    <corrected><w><i>The</i></w><w><i>Archies</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Archies</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -499,7 +511,7 @@
   <c>,</c>
   <revision id="41">
     <original><c>„</c><w>Sugar</w></original>
-    <corrected><w><i>Sugar</i></w></corrected>
+    <corrected><w><hi>Sugar</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="57-1" eid="0"/>
         <error xtype="nonit4it" idx="57-1" eid="0"/>
@@ -508,7 +520,7 @@
   <c>,</c>
   <revision id="42">
     <original><w>sugar</w><c>“</c></original>
-    <corrected><w><i>sugar</i></w></corrected>
+    <corrected><w><hi>sugar</hi></w></corrected>
       <errors>
         <error xtype="dep" depId="57-1" eid="0"/>
       </errors>
@@ -543,7 +555,7 @@
   <w>hljómsveit</w>
   <revision id="44">
     <original><w>voru</w><w>The</w><w>Archies</w></original>
-    <corrected><w>var</w><w><i>The</i></w><w><i>Archies</i></w></corrected>
+    <corrected><w>var</w><w><hi>The</hi></w><w><hi>Archies</hi></w></corrected>
       <errors>
         <error xtype="agreement-pred" eid="0"/>
         <error xtype="nonit4it" eid="0"/>
@@ -575,7 +587,7 @@
   <w>að</w>
   <revision id="45">
     <original><w>Lemon</w><w>Pipers</w></original>
-    <corrected><w><i>Lemon</i></w><w><i>Pipers</i></w></corrected>
+    <corrected><w><hi>Lemon</hi></w><w><hi>Pipers</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -640,7 +652,7 @@
   <c>,</c>
   <revision id="47">
     <original><w>dæmi</w><w>um</w><w>það</w><w>eru</w><w>tildæmis</w><w>The</w><w>Banana</w><w>Splits</w></original>
-    <corrected><w>til</w><w>dæmis</w><w>tónlist</w><w><i>The</i></w><w><i>Banana</i></w><w><i>Splits</i></w></corrected>
+    <corrected><w>til</w><w>dæmis</w><w>tónlist</w><w><hi>The</hi></w><w><hi>Banana</hi></w><w><hi>Splits</hi></w></corrected>
       <errors>
         <error xtype="wording" eid="0"/>
         <error xtype="nonit4it" eid="0"/>
@@ -694,7 +706,7 @@
   <w>voru</w>
   <revision id="51">
     <original><w>The</w><w>Archies</w></original>
-    <corrected><w><i>The</i></w><w><i>Archies</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Archies</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -702,7 +714,7 @@
   <c>,</c>
   <revision id="52">
     <original><w>Ohio</w><w>Express</w></original>
-    <corrected><w><i>Ohio</i></w><w><i>Express</i></w></corrected>
+    <corrected><w><hi>Ohio</hi></w><w><hi>Express</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -710,7 +722,7 @@
   <w>og</w>
   <revision id="53">
     <original><w>1910</w><w>Fruitgum</w><w>Company</w></original>
-    <corrected><w><i>1910</i></w><w><i>Fruitgum</i></w><w><i>Company</i></w></corrected>
+    <corrected><w><hi>1910</hi></w><w><hi>Fruitgum</hi></w><w><hi>Company</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -790,7 +802,7 @@
   <w>að</w>
   <revision id="55">
     <original><c>„</c><w>Green</w><w>Tambourine</w><c>“</c></original>
-    <corrected><w><i>Green</i></w><w><i>Tambourine</i></w></corrected>
+    <corrected><w><hi>Green</hi></w><w><hi>Tambourine</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="59-1" eid="0"/>
         <error xtype="nonit4it" idx="59-1" eid="0"/>
@@ -808,10 +820,10 @@
       </errors>
   </revision>
   <w>sem</w>
-  <w><i>Buddah</i></w>
+  <w><hi>Buddah</hi></w>
   <revision id="57">
-    <original><w><i>Record</i></w><w>gáfu</w></original>
-    <corrected><w><i>Records</i></w><w>útgáfufyrirtækið</w><w>gaf</w></corrected>
+    <original><w><hi>Record</hi></w><w>gáfu</w></original>
+    <corrected><w><hi>Records</hi></w><w>útgáfufyrirtækið</w><w>gaf</w></corrected>
       <errors>
         <error xtype="singular4plural" idx="61-1" eid="0"/>
         <error xtype="foreign-error" idx="61-1" eid="0"/>
@@ -1107,7 +1119,7 @@
   <w>hljómsveit</w>
   <revision id="77">
     <original><w>voru</w><w>tildæmis</w><w>The</w><w>Monkees</w></original>
-    <corrected><w>er</w><w>til</w><w>dæmis</w><w><i>The</i></w><w><i>Monkees</i></w></corrected>
+    <corrected><w>er</w><w>til</w><w>dæmis</w><w><hi>The</hi></w><w><hi>Monkees</hi></w></corrected>
       <errors>
         <error xtype="past4pres" eid="0"/>
         <error xtype="merged-words" idx="129-1" eid="0"/>
@@ -1130,7 +1142,7 @@
   <w>sig</w>
   <revision id="78">
     <original><w>Kasenetz-Katz</w></original>
-    <corrected><w><i>Kasenetz-Katz</i></w></corrected>
+    <corrected><w><hi>Kasenetz-Katz</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -1146,7 +1158,7 @@
   <w>slagarinn</w>
   <revision id="79">
     <original><c>„</c><w>A</w><w>Little</w><w>Bit</w><w>Of</w><w>Soul</w></original>
-    <corrected><w><i>A</i></w><w><i>Little</i></w><w><i>Bit</i></w><w><i>Of</i></w><w><i>Soul</i></w></corrected>
+    <corrected><w><hi>A</hi></w><w><hi>Little</hi></w><w><hi>Bit</hi></w><w><hi>Of</hi></w><w><hi>Soul</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="73-1" eid="0"/>
         <error xtype="nonit4it" idx="73-1" eid="0"/>
@@ -1315,7 +1327,7 @@
   <w>verið</w>
   <revision id="86">
     <original><w>Ohio</w><w>Express</w></original>
-    <corrected><w><i>Ohio</i></w><w><i>Express</i></w></corrected>
+    <corrected><w><hi>Ohio</hi></w><w><hi>Express</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -1433,8 +1445,8 @@
 </s><s n="37">
   <w>Hugtakið</w>
   <revision id="94">
-    <original><w><i>tyggigúmmítónlist</i></w></original>
-    <corrected><w><i>tyggjótónlist</i></w></corrected>
+    <original><w><hi>tyggigúmmítónlist</hi></w></original>
+    <corrected><w><hi>tyggjótónlist</hi></w></corrected>
       <errors>
         <error xtype="wording" eid="0"/>
       </errors>
@@ -1994,7 +2006,7 @@
   <w>þegar</w>
   <revision id="125">
     <original><w>The</w><w>Lemon</w><w>Pipers</w></original>
-    <corrected><w><i>The</i></w><w><i>Lemon</i></w><w><i>Pipers</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Lemon</hi></w><w><hi>Pipers</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -2011,7 +2023,7 @@
   <w>sitt</w>
   <revision id="127">
     <original><c>„</c><w>Green</w><w>Tambourine</w><c>“</c></original>
-    <corrected><w><i>Green</i></w><w><i>Tambourine</i></w></corrected>
+    <corrected><w><hi>Green</hi></w><w><hi>Tambourine</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="47-1" eid="0"/>
         <error xtype="nonit4it" idx="47-1" eid="0"/>
@@ -2092,8 +2104,8 @@
   <w>segja</w>
   <w>að</w>
   <w>stofnun</w>
-  <w><i>Buddah</i></w>
-  <w><i>Records</i></w>
+  <w><hi>Buddah</hi></w>
+  <w><hi>Records</hi></w>
   <w>eigi</w>
   <w>heiðurinn</w>
   <revision id="130">
@@ -2111,7 +2123,7 @@
   <w>lags</w>
   <revision id="131">
     <original><w>The</w><w>Lemon</w><w>Pipers</w></original>
-    <corrected><w><i>The</i></w><w><i>Lemon</i></w><w><i>Pipers</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Lemon</hi></w><w><hi>Pipers</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -2170,7 +2182,7 @@
   <w>The</w>
   <revision id="135">
     <original><w>Lemon</w><w>Pipers</w></original>
-    <corrected><w><i>Lemon</i></w><w><i>Pipers</i></w></corrected>
+    <corrected><w><hi>Lemon</hi></w><w><hi>Pipers</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -2182,7 +2194,7 @@
   <w>hljómsveitarinnar</w>
   <revision id="136">
     <original><w>Tony</w><w>And</w><w>The</w><w>Bandits</w></original>
-    <corrected><w><i>Tony</i></w><w><i>And</i></w><w><i>The</i></w><w><i>Bandits</i></w></corrected>
+    <corrected><w><hi>Tony</hi></w><w><hi>And</hi></w><w><hi>The</hi></w><w><hi>Bandits</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

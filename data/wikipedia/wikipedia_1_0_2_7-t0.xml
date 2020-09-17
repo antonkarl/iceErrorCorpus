@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_7-t0.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Dæmi</w>
@@ -173,8 +185,8 @@
   <w>hefur</w>
   <w>spilað</w>
   <w>lagið</w>
-  <w><i>The</i></w>
-  <w><i>Thief</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Thief</hi></w>
   <w>eftir</w>
   <w>Can</w>
   <w>en</w>
@@ -230,8 +242,8 @@
         <error xtype="missing-comma" eid="0"/>
       </errors>
   </revision>
-  <w><i>Tone</i></w>
-  <w><i>Float</i></w>
+  <w><hi>Tone</hi></w>
+  <w><hi>Float</hi></w>
   <c>.</c>
 </s><s n="10">
   <w>Bretar</w>
@@ -250,7 +262,7 @@
   <w>komið</w>
   <w>af</w>
   <w>orðinu</w>
-  <w><i>Sauerkraut</i></w>
+  <w><hi>Sauerkraut</hi></w>
   <c>(</c>
   <w>ísl.</w>
   <w>súrkál</w>
@@ -354,7 +366,7 @@
   <w>krátrokki</w>
   <c>,</c>
   <revision id="7">
-    <original><w><i>krautrock</i></w></original>
+    <original><w><hi>krautrock</hi></w></original>
     <corrected><c>‚</c><w>krautrock</w><c>‘</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="4-1" eid="0"/>
@@ -368,7 +380,7 @@
   <w>af</w>
   <w>þýska</w>
   <w>orðinu</w>
-  <w><i>Kraut</i></w>
+  <w><hi>Kraut</hi></w>
   <w>sem</w>
   <w>þýðir</w>
   <w>kál</w>
@@ -403,8 +415,8 @@
   <w>og</w>
   <w>nær</w>
   <w>nafnið</w>
-  <w><i>Kosmische</i></w>
-  <w><i>Musik</i></w>
+  <w><hi>Kosmische</hi></w>
+  <w><hi>Musik</hi></w>
   <c>,</c>
   <w>sem</w>
   <w>á</w>
@@ -577,14 +589,14 @@
   <w>sér</w>
   <w>á</w>
   <w>plötunni</w>
-  <w><i>Heroes</i></w>
+  <w><hi>Heroes</hi></w>
   <c>.</c>
 </s><s n="27">
   <w>Krátrokk</w>
   <c>(</c>
   <w>e.</w>
   <revision id="12">
-    <original><w><i>Krautrock</i></w></original>
+    <original><w><hi>Krautrock</hi></w></original>
     <corrected><w>Krautrock</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -706,8 +718,8 @@
   <w>tónlistarpressan</w>
   <w>kallaði</w>
   <revision id="14">
-    <original><w><i>motorik</i></w><w>takt</w></original>
-    <corrected><w><i>motorik</i></w><w>-takt</w></corrected>
+    <original><w><hi>motorik</hi></w><w>takt</w></original>
+    <corrected><w><hi>motorik</hi></w><w>-takt</w></corrected>
       <errors>
         <error xtype="missing-dash" eid="0"/>
       </errors>
@@ -724,9 +736,9 @@
   <w>Bowie</w>
   <w>út</w>
   <w>plöturnar</w>
-  <w><i>Low</i></w>
+  <w><hi>Low</hi></w>
   <c>,</c>
-  <w><i>Heroes</i></w>
+  <w><hi>Heroes</hi></w>
   <w>og</w>
   <w>ZLodger</w>
   <w>sem</w>
@@ -842,7 +854,7 @@
   <w>gáfu</w>
   <w>út</w>
   <w>plötuna</w>
-  <w><i>Kraftwerk</i></w>
+  <w><hi>Kraftwerk</hi></w>
   <w>sem</w>
   <w>fékk</w>
   <w>ágæta</w>
@@ -880,12 +892,12 @@
         <error xtype="extra-comma" eid="0"/>
       </errors>
   </revision>
-  <w><i>Sgt.</i></w>
-  <w><i>Peppers</i></w>
-  <w><i>Lonely</i></w>
-  <w><i>Hearts</i></w>
-  <w><i>Club</i></w>
-  <w><i>Band</i></w>
+  <w><hi>Sgt.</hi></w>
+  <w><hi>Peppers</hi></w>
+  <w><hi>Lonely</hi></w>
+  <w><hi>Hearts</hi></w>
+  <w><hi>Club</hi></w>
+  <w><hi>Band</hi></w>
   <revision id="18">
     <original><c>,</c></original>
     <corrected/>
@@ -913,7 +925,7 @@
   <w>þessa</w>
   <w>byltingu</w>
   <revision id="19">
-    <original><w><i>krautrock</i></w></original>
+    <original><w><hi>krautrock</hi></w></original>
     <corrected><c>‚</c><w>krautrock</w><c>‘</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="2-1" eid="0"/>
@@ -1110,13 +1122,13 @@
   <w>Amon</w>
   <w>Düül</w>
   <c>,</c>
-  <w><i>Mama</i></w>
-  <w><i>Düül</i></w>
-  <w><i>und</i></w>
-  <w><i>Ihre</i></w>
-  <w><i>Sauerkrautband</i></w>
-  <w><i>Spielt</i></w>
-  <w><i>auf</i></w>
+  <w><hi>Mama</hi></w>
+  <w><hi>Düül</hi></w>
+  <w><hi>und</hi></w>
+  <w><hi>Ihre</hi></w>
+  <w><hi>Sauerkrautband</hi></w>
+  <w><hi>Spielt</hi></w>
+  <w><hi>auf</hi></w>
   <revision id="23">
     <original/>
     <corrected><c>,</c></corrected>
@@ -1130,7 +1142,7 @@
   <w>þýðir</w>
   <c>„</c>
   <revision id="24">
-    <original><w><i>Mama</i></w><w><i>Düül</i></w><w><i>og</i></w><w><i>hennar</i></w><w><i>súrkálshljómsveit</i></w><w><i>troða</i></w><w><i>upp</i></w></original>
+    <original><w><hi>Mama</hi></w><w><hi>Düül</hi></w><w><hi>og</hi></w><w><hi>hennar</hi></w><w><hi>súrkálshljómsveit</hi></w><w><hi>troða</hi></w><w><hi>upp</hi></w></original>
     <corrected><w>Mama</w><w>Düül</w><w>og</w><w>hennar</w><w>súrkálshljómsveit</w><w>troða</w><w>upp</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -1267,7 +1279,7 @@
   <w>gáfu</w>
   <w>út</w>
   <w>plötuna</w>
-  <w><i>Autobahn</i></w>
+  <w><hi>Autobahn</hi></w>
   <w>árið 1974</w>
   <w>sem</w>
   <w>þeir</w>
@@ -1759,8 +1771,8 @@
   <w>sem</w>
   <w>kallað</w>
   <w>er</w>
-  <w><i>Kosmische</i></w>
-  <w><i>Musik</i></w>
+  <w><hi>Kosmische</hi></w>
+  <w><hi>Musik</hi></w>
   <c>.</c>
 </s></p></body></text>
 </TEI>

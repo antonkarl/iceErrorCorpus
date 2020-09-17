@@ -1,0 +1,390 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader/>
+<text><body><p n="1">
+<s n="1">
+  <w>Ef</w>
+  <revision id="1">
+    <original><w>þú</w></original>
+    <corrected><w>þér</w><c>,</c></corrected>
+      <errors>
+        <error xtype="nominal-inflection" idx="9-1" eid="0"/>
+        <error xtype="missing-commas" idx="9-2" eid="0"/>
+      </errors>
+  </revision>
+  <w>kjósandi</w>
+  <w>góður</w>
+  <revision id="2">
+    <original><w>ert</w></original>
+    <corrected><c>,</c><w>er</w></corrected>
+      <errors>
+        <error xtype="dep" depId="9-2" eid="0"/>
+        <error xtype="dep" depId="9-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>svo</w>
+  <w>í</w>
+  <w>mun</w>
+  <w>um</w>
+  <w>að</w>
+  <w>láta</w>
+  <w>þá</w>
+  <w>tekjuhæstu</w>
+  <w>fá</w>
+  <w>að</w>
+  <w>njóta</w>
+  <w>aukins</w>
+  <w>gróða</w>
+  <w>á</w>
+  <w>kostnað</w>
+  <w>lífsgæða</w>
+  <w>þinna</w>
+  <c>,</c>
+  <w>væri</w>
+  <w>þá</w>
+  <w>ekki</w>
+  <w>auðveldara</w>
+  <w>að</w>
+  <w>finna</w>
+  <w>einhvern</w>
+  <w>ríkan</w>
+  <revision id="3">
+    <original><w>aðilla</w></original>
+    <corrected><w>aðila</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="11-1" eid="0"/>
+        <error xtype="nonword" idx="11-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>lítið</w>
+  <w>þarf</w>
+  <w>að</w>
+  <w>hafa</w>
+  <w>fyrir</w>
+  <w>auð</w>
+  <w>sínum</w>
+  <c>,</c>
+  <revision id="4">
+    <original><w>bannka</w><w>upp</w></original>
+    <corrected><w>banka</w><w>upp</w></corrected>
+      <errors>
+        <error xtype="nn4n" idx="12-1" eid="0"/>
+        <error xtype="nonword" idx="12-1" eid="0"/>
+        <error xtype="split-compound" idx="12-2" eid="0"/>
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>hjá</w>
+  <w>honum</w>
+  <w>og</w>
+  <w>rétta</w>
+  <w>honum</w>
+  <w>þær</w>
+  <w>fáu</w>
+  <w>krónur</w>
+  <w>sem</w>
+  <w>þú</w>
+  <w>átt</w>
+  <w>eftir</w>
+  <w>þegar</w>
+  <w>þú</w>
+  <w>ert</w>
+  <w>búinn</w>
+  <w>að</w>
+  <w>borga</w>
+  <w>þínar</w>
+  <w>þjóðfélagslegu</w>
+  <w>skuldir</w>
+  <w>í</w>
+  <w>stað</w>
+  <w>þess</w>
+  <w>að</w>
+  <w>standa</w>
+  <w>í</w>
+  <w>þessum</w>
+  <w>flókna</w>
+  <w>pólitíska</w>
+  <w>leik</w>
+  <c>.</c>
+</s><s n="2">
+  <w>Núverandi</w>
+  <w>ríkisstjórn</w>
+  <w>ákvað</w>
+  <w>að</w>
+  <w>það</w>
+  <w>væri</w>
+  <w>ekki</w>
+  <revision id="5">
+    <original><w>henntugasta</w></original>
+    <corrected><w>hentugasta</w></corrected>
+      <errors>
+        <error xtype="nn4n" idx="2-1" eid="0"/>
+        <error xtype="nonword" idx="2-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>leiðin</w>
+  <w>og</w>
+  <w>ákváðu</w>
+  <w>því</w>
+  <w>að</w>
+  <w>afnema</w>
+  <w>skattana</w>
+  <w>sem</w>
+  <w>ríkisstjórnin</w>
+  <w>á</w>
+  <w>undan</w>
+  <w>hafði</w>
+  <w>lagt</w>
+  <w>á</w>
+  <w>þá</w>
+  <w>efnamestu</w>
+  <w>og</w>
+  <w>í</w>
+  <w>stað</w>
+  <w>þess</w>
+  <w>leggja</w>
+  <w>fram</w>
+  <w>nýja</w>
+  <w>skattstefnu</w>
+  <w>sem</w>
+  <w>nýtast</w>
+  <w>ætti</w>
+  <w>þjóðinni</w>
+  <w>í</w>
+  <w>heild</w>
+  <w>sem</w>
+  <w>best</w>
+  <revision id="6">
+    <original><c>,</c><w>það</w><w>er</w></original>
+    <corrected><c>.</c><w>Sú</w><w>stefna</w><w>fólst</w><w>í</w><w>því</w></corrected>
+      <errors>
+        <error xtype="comma4period" idx="3-1" eid="0"/>
+        <error xtype="wording" idx="3-2" eid="0"/>
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>auka</w>
+  <revision id="7">
+    <original><w>skattlaggningu</w></original>
+    <corrected><w>skattlagningu</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="4-1" eid="0"/>
+        <error xtype="nonword" idx="4-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>nauðsynjavörur</w>
+  <w>eins</w>
+  <w>og</w>
+  <w>mat</w>
+  <c>,</c>
+  <w>því</w>
+  <w>auðvitað</w>
+  <w>getur</w>
+  <revision id="8">
+    <original><w>engin</w></original>
+    <corrected><w>enginn</w></corrected>
+      <errors>
+        <error xtype="marked4unmarked" eid="0"/>
+      </errors>
+  </revision>
+  <w>komist</w>
+  <w>af</w>
+  <w>án</w>
+  <w>matar</w>
+  <w>og</w>
+  <w>því</w>
+  <w>væri</w>
+  <w>það</w>
+  <w>besta</w>
+  <w>leiðin</w>
+  <w>til</w>
+  <w>að</w>
+  <w>auka</w>
+  <w>tekjur</w>
+  <w>ríkissjóðs</w>
+  <w>til</w>
+  <w>að</w>
+  <w>koma</w>
+  <w>til</w>
+  <w>móts</w>
+  <w>við</w>
+  <w>tekjumissinn</w>
+  <w>af</w>
+  <w>þeirri</w>
+  <revision id="9">
+    <original><w>ólíðræðislegu</w><w>skattalagningu</w></original>
+    <corrected><w>ólýðræðislegu</w><w>skattlagningu</w></corrected>
+      <errors>
+        <error xtype="í4ý" idx="6-1" eid="0"/>
+        <error xtype="extra-letter" idx="6-2" eid="0"/>
+        <error xtype="compound-nonword" idx="6-2" eid="0"/>
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>þeir</w>
+  <w>tekjuhærri</w>
+  <w>þurftu</w>
+  <w>að</w>
+  <w>þola</w>
+  <c>.</c>
+</s><s n="3">
+  <w>Horfandi</w>
+  <w>á</w>
+  <w>þjóðfélagið</w>
+  <w>sem</w>
+  <w>heild</w>
+  <w>og</w>
+  <revision id="10">
+    <original><w>vita</w></original>
+    <corrected><w>vitandi</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
+  <w>það</w>
+  <w>að</w>
+  <w>tekjulágir</w>
+  <w>hópar</w>
+  <w>skuli</w>
+  <w>kjósa</w>
+  <w>þetta</w>
+  <w>yfir</w>
+  <w>sig</w>
+  <w>aftur</w>
+  <w>og</w>
+  <w>aftur</w>
+  <w>vitandi</w>
+  <w>það</w>
+  <w>að</w>
+  <w>hingað</w>
+  <w>til</w>
+  <w>hefur</w>
+  <w>það</w>
+  <w>ekki</w>
+  <w>hjálpað</w>
+  <w>þeim</w>
+  <w>neitt</w>
+  <w>er</w>
+  <revision id="11">
+    <original><w>pínu</w><w>vandræðanleg</w></original>
+    <corrected><w>frekar</w><w>vandræðaleg</w></corrected>
+      <errors>
+        <error xtype="wording" idx="8-1" eid="0"/>
+        <error xtype="extra-letter" idx="8-2" eid="0"/>
+        <error xtype="nonword" idx="8-2" eid="0"/>
+      </errors>
+  </revision>
+  <w>sjón</w>
+  <c>.</c>
+</s><s n="4">
+  <w>Núverandi</w>
+  <w>ríkisstjórn</w>
+  <w>virðist</w>
+  <w>njóta</w>
+  <w>þess</w>
+  <w>að</w>
+  <w>láta</w>
+  <w>fólki</w>
+  <w>líða</w>
+  <w>illa</w>
+  <c>.</c>
+</s><s n="5">
+  <w>Þetta</w>
+  <w>er</w>
+  <w>ekki</w>
+  <w>eitthvað</w>
+  <w>sem</w>
+  <w>er</w>
+  <w>nýtt</w>
+  <w>af</w>
+  <w>nálinni</w>
+  <w>því</w>
+  <w>þetta</w>
+  <w>hefur</w>
+  <w>margsýnt</w>
+  <w>sig</w>
+  <w>fyrir</w>
+  <w>að</w>
+  <w>vera</w>
+  <w>veruleikinn</w>
+  <c>.</c>
+</s><s n="6">
+  <w>Hinir</w>
+  <w>sem</w>
+  <w>minna</w>
+  <w>geta</w>
+  <w>mega</w>
+  <revision id="12">
+    <original><w>bara</w></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-word" eid="0"/>
+      </errors>
+  </revision>
+  <w>eiga</w>
+  <w>sig</w>
+  <c>.</c>
+</s><s n="7">
+  <w>Samstjórn</w>
+  <w>Sjálfstæðisflokks</w>
+  <w>og</w>
+  <w>Framsóknar</w>
+  <w>hefur</w>
+  <w>sýnt</w>
+  <w>það</w>
+  <w>og</w>
+  <w>sannað</w>
+  <w>að</w>
+  <w>þau</w>
+  <w>hugsa</w>
+  <w>aðeins</w>
+  <w>um</w>
+  <w>hag</w>
+  <w>þeirra</w>
+  <w>sem</w>
+  <w>vel</w>
+  <w>stæðir</w>
+  <w>eru</w>
+  <w>og</w>
+  <w>geta</w>
+  <w>haft</w>
+  <w>ítök</w>
+  <w>í</w>
+  <w>fjármálalífinu</w>
+  <c>.</c>
+</s><s n="8">
+  <w>Síðasta</w>
+  <w>ríkisstjórn</w>
+  <w>var</w>
+  <w>litlu</w>
+  <w>skárri</w>
+  <c>,</c>
+  <w>þau</w>
+  <w>höfðu</w>
+  <w>þó</w>
+  <w>það</w>
+  <w>fram</w>
+  <w>yfir</w>
+  <w>þessa</w>
+  <w>stjórn</w>
+  <w>að</w>
+  <w>skattleggja</w>
+  <w>alla</w>
+  <w>umfram</w>
+  <w>það</w>
+  <w>sem</w>
+  <w>eðlilegt</w>
+  <w>getur</w>
+  <w>talist</w>
+  <c>,</c>
+  <w>bæði</w>
+  <w>þá</w>
+  <w>ríku</w>
+  <w>og</w>
+  <w>þá</w>
+  <w>fátæku</w>
+  <c>.</c>
+</s></p></body></text>
+</TEI>

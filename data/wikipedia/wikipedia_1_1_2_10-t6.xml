@@ -1,17 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_10-t6.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Hveðn</w>
   <c>(</c>
   <w>danska</w>
   <c>:</c>
-  <w><i>Hven</i></w>
+  <w><hi>Hven</hi></w>
   <c>,</c>
   <w>sænska</w>
   <c>:</c>
-  <w><i>Ven</i></w>
+  <w><hi>Ven</hi></w>
   <c>)</c>
   <w>er</w>
   <w>sænsk</w>
@@ -453,7 +465,7 @@
   <w>en</w>
   <w>rauf</w>
   <revision id="8">
-    <original><w><i>samt</i></w></original>
+    <original><w><hi>samt</hi></w></original>
     <corrected><w>samt</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />

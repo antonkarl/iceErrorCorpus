@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_500-t16.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Cameron</w>
@@ -29,7 +41,7 @@
 </s><s n="2">
   <revision id="1">
     <original><w>In</w><w>Her</w><w>Shoes</w><c>(</c><w>kvikmynd</w><c>)</c><w>In</w><w>Her</w><w>Shoes</w></original>
-    <corrected><w><i>In</i></w><w><i>Her</i></w><w><i>Shoes</i></w><w>er</w><w>kvikmynd</w><c>.</c><w><i>In</i></w><w><i>Her</i></w><w><i>Shoes</i></w></corrected>
+    <corrected><w><hi>In</hi></w><w><hi>Her</hi></w><w><hi>Shoes</hi></w><w>er</w><w>kvikmynd</w><c>.</c><w><hi>In</hi></w><w><hi>Her</hi></w><w><hi>Shoes</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="1-1" eid="0"/>
         <error xtype="extra-bracket" idx="1-2" eid="0"/>

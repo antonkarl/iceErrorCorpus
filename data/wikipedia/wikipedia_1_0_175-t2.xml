@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_175-t2.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>BACH-mótífið</w>
@@ -12,7 +24,7 @@
   <w>nótunum</w>
   <revision id="1">
     <original><c>"</c><w>B-A-C-H</w><c>"</c></original>
-    <corrected><w><i>B-A-C-H</i></w></corrected>
+    <corrected><w><hi>B-A-C-H</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" eid="0" />
         <error xtype="nonit4it" eid="0" />
@@ -112,10 +124,10 @@
   <w>í</w>
   <w>seinasta</w>
   <w>hluta</w>
-  <i>Die</i>
-  <w><i>Kunst</i></w>
-  <w><i>der</i></w>
-  <w><i>Fuge</i></w>
+  <hi>Die</hi>
+  <w><hi>Kunst</hi></w>
+  <w><hi>der</hi></w>
+  <w><hi>Fuge</hi></w>
   <c>(</c>
   <w>BWV</w>
   <w>1080</w>

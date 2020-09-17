@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_12-t3.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Skyfall</w>
@@ -24,7 +36,7 @@
   <w>af</w>
   <revision id="2">
     <original><w>MGM</w></original>
-    <corrected><w>myndverunum</w><w><i>MGM</i></w></corrected>
+    <corrected><w>myndverunum</w><w><hi>MGM</hi></w></corrected>
       <errors>
         <error xtype="missing-word" idx="2-1" eid="0" />
         <error xtype="nonit4it" idx="2-2" eid="0" />
@@ -33,7 +45,7 @@
   <w>og</w>
   <revision id="3">
     <original><w>Sony</w><w>Pictures</w><w>Entertainment</w></original>
-    <corrected><w><i>Sony</i></w><w><i>Pictures</i></w><w><i>Entertainment</i></w></corrected>
+    <corrected><w><hi>Sony</hi></w><w><hi>Pictures</hi></w><w><hi>Entertainment</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -131,7 +143,7 @@
   <c>(</c>
   <revision id="9">
     <original><w>MI</w><w>6</w></original>
-    <corrected><w>e.</w><w><i>MI</i></w><w><i>6</i></w></corrected>
+    <corrected><w>e.</w><w><hi>MI</hi></w><w><hi>6</hi></w></corrected>
       <errors>
         <error xtype="missing-word" idx="9-1" eid="0" />
         <error xtype="nonit4it" idx="9-2" eid="0" />
@@ -181,7 +193,7 @@
 </s>
 <s n="7">
   <w>Í</w>
-  <w><i>Skyfall</i></w>
+  <w><hi>Skyfall</hi></w>
   <w>snúa</w>
   <w>tvær</w>
   <w>persónur</w>
@@ -212,7 +224,7 @@
   <c>.</c>
 </s>
 <s n="8">
-  <w><i>Skyfall</i></w>
+  <w><hi>Skyfall</hi></w>
   <w>er</w>
   <w>líka</w>
   <w>síðasta</w>
@@ -276,9 +288,9 @@
   <w>myndinni</w>
   <w>eftir</w>
   <w>að</w>
-  <w><i>Quantum</i></w>
-  <w><i>of</i></w>
-  <w><i>Solace</i></w>
+  <w><hi>Quantum</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>Solace</hi></w>
   <w>kom</w>
   <w>út</w>
   <w>árið 2008</w>
@@ -293,7 +305,7 @@
   <w>á</w>
   <revision id="15">
     <original><w>MGM</w></original>
-    <corrected><w><i>MGM</i></w></corrected>
+    <corrected><w><hi>MGM</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -448,7 +460,7 @@
   <c>.</c>
 </s>
 <s n="16">
-  <w><i>Skyfall</i></w>
+  <w><hi>Skyfall</hi></w>
   <w>var</w>
   <w>frumsýnd</w>
   <revision id="26">
@@ -514,7 +526,7 @@
         <error xtype="wording" idx="29-1" eid="0" />
       </errors>
   </revision>
-  <w><i>Skyfall</i></w>
+  <w><hi>Skyfall</hi></w>
   <revision id="30">
     <original><w>var</w></original>
     <corrected><w>kom</w><w>út</w></corrected>
@@ -549,8 +561,8 @@
   <w>Fyrsta</w>
   <w>myndin</w>
   <w>var</w>
-  <w><i>Dr.</i></w>
-  <w><i>No</i></w>
+  <w><hi>Dr.</hi></w>
+  <w><hi>No</hi></w>
   <w>sem</w>
   <w>kom</w>
   <w>út</w>
@@ -558,7 +570,7 @@
   <c>.</c>
 </s>
 <s n="20">
-  <w><i>Skyfall</i></w>
+  <w><hi>Skyfall</hi></w>
   <revision id="33">
     <original><w>var</w><w>vel</w><w>móttekin</w></original>
     <corrected><w>fékk</w><w>góðar</w><w>móttökur</w></corrected>

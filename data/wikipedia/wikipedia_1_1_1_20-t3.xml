@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_20-t3.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Snemma</w>
@@ -332,7 +344,7 @@
   <w>og</w>
   <w>var</w>
   <w>kölluð</w>
-  <w><i>íslenskustuðningur</i></w>
+  <w><hi>íslenskustuðningur</hi></w>
   <w>og</w>
   <w>lagaði</w>
   <w>hluta</w>
@@ -387,10 +399,10 @@
   <w>heitir</w>
   <w>XNU</w>
   <c>(</c>
-  <w><i>X</i></w>
-  <w><i>is</i></w>
-  <w><i>Not</i></w>
-  <w><i>Unix</i></w>
+  <w><hi>X</hi></w>
+  <w><hi>is</hi></w>
+  <w><hi>Not</hi></w>
+  <w><hi>Unix</hi></w>
   <c>)</c>
   <c>.</c>
 </s><s n="12">
@@ -432,7 +444,7 @@
   <w>annað</w>
   <w>hvort</w>
   <revision id="15">
-    <original><c>"</c><w><i>OS</i></w><w><i>ex</i></w></original>
+    <original><c>"</c><w><hi>OS</hi></w><w><hi>ex</hi></w></original>
     <corrected><c>‚</c><w>OS</w><w>ex</w><c>‘</c></corrected>
       <errors>
         <error xtype="wrong-quots" eid="0"/>
@@ -442,7 +454,7 @@
   </revision>
   <w>eða</w>
   <revision id="16">
-    <original><w><i>OS</i></w><w><i>tíu</i></w></original>
+    <original><w><hi>OS</hi></w><w><hi>tíu</hi></w></original>
     <corrected><c>‚</c><w>OS</w><w>tíu</w><c>‘</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="26-1" eid="0"/>
@@ -455,7 +467,7 @@
   <w>oft</w>
   <w>kallað</w>
   <revision id="17">
-    <original><w><i>tían</i></w></original>
+    <original><w><hi>tían</hi></w></original>
     <corrected><c>‚</c><w>tían</w><c>‘</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="27-1" eid="0"/>
@@ -579,7 +591,7 @@
   </revision>
   <w>á</w>
   <revision id="22">
-    <original><w><i>Unix</i>-hliðinni</w></original>
+    <original><w><hi>Unix</hi>-hliðinni</w></original>
     <corrected><w>Unix-hliðinni</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>

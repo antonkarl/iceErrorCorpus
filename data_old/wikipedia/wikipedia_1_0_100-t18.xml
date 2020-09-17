@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <revision id="1">
+    <original><w>Madeiraeyjar</w></original>
+    <corrected><w>Madeira-eyjar</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>eru</w>
+  <w>lítill</w>
+  <w>eyjaklasi</w>
+  <w>undan</w>
+  <w>vesturströnd</w>
+  <w>Norður-Afríku</w>
+  <w>sem</w>
+  <w>tilheyrir</w>
+  <w>Portúgal</w>
+  <w>á</w>
+  <w>milli</w>
+  <w>32</w>
+  <w>º</w>
+  <w>22</w>
+  <c>&apos;</c>
+  <w>20</w>
+  <w>og</w>
+  <w>33</w>
+  <w>º</w>
+  <w>7</w>
+  <c>&apos;</c>
+  <w>50</w>
+  <w>breiddargráðu</w>
+  <w>og</w>
+  <w>16</w>
+  <w>º</w>
+  <w>16</w>
+  <c>&apos;</c>
+  <w>30 V</w>
+  <w>og</w>
+  <w>17</w>
+  <w>º</w>
+  <w>16</w>
+  <c>&apos;</c>
+  <w>39 V</w>
+  <w>lengdargráðu</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <revision id="2">
+    <original><w>Tvær</w></original>
+    <corrected><w>Í</w><w>eyjaklasanum</w><w>eru</w><w>tvær</w></corrected>
+      <errors>
+        <error xtype="dep" depId="3-1" eid="0" />
+      </errors>
+  </revision>
+  <w>byggðar</w>
+  <w>eyjar</w>
+  <revision id="3">
+    <original><w>eru</w><w>í</w><w>eyjaklasanum</w><c>;</c></original>
+    <corrected><c>.</c><w>Stærri</w><w>eyjan</w><c>,</c></corrected>
+      <errors>
+        <error xtype="wording" idx="3-1" eid="0" />
+        <error xtype="extra-semicolon" idx="3-2" eid="0" />
+        <error xtype="missing-period" idx="3-2" eid="0" />
+        <error xtype="dep" depId="5-1" eid="0" />
+        <error xtype="missing-commas" idx="3-3" eid="0" />
+      </errors>
+  </revision>
+  <w>Madeira</w>
+  <revision id="4">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="dep" depId="3-3" eid="0" />
+      </errors>
+  </revision>
+  <w>er</w>
+  <revision id="5">
+    <original><w>stærri</w><w>eyjan</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wording" idx="5-1" eid="0" />
+      </errors>
+  </revision>
+  <w>741 km²</w>
+  <w>og</w>
+  <w>Porto</w>
+  <w>Santo</w>
+  <revision id="6">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>sú</w>
+  <w>minni</w>
+  <c>,</c>
+  <w>aðeins</w>
+  <w>42 km²</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <revision id="7">
+    <original><w>Að</w></original>
+    <corrected><w>Þar</w><w>að</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>auki</w>
+  <w>eru</w>
+  <w>þrjár</w>
+  <w>óbyggðar</w>
+  <w>smáeyjar</w>
+  <w>kallaðar</w>
+  <w>Ilhas</w>
+  <w>Desertas</w>
+  <w>og</w>
+  <w>aðrar</w>
+  <w>þrjár</w>
+  <w>óbyggðar</w>
+  <w>eyjar</w>
+  <c>,</c>
+  <w>kallaðar</w>
+  <w>Selvageneyjar</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>eru</w>
+  <w>nær</w>
+  <w>Kanaríeyjum</w>
+  <w>en</w>
+  <w>Madeira</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Portúgalar</w>
+  <w>uppgötvuðu</w>
+  <w>eyjarnar</w>
+  <w>árið 1418</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Þær</w>
+  <w>eru</w>
+  <w>nú</w>
+  <w>sjálfstjórnarhérað</w>
+  <w>innan</w>
+  <w>Portúgal</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <revision id="8">
+    <original><w>Eyjarnar</w><w>draga</w><w>nafn</w><w>sitt</w><w>af</w><w>lárviðarskógi</w><c>(</c><c>"</c><w>madeira</w><c>"</c></original>
+    <corrected><w><i>Madeira</i></w></corrected>
+      <errors>
+        <error xtype="wording" idx="8-1" eid="0" />
+        <error xtype="extra-bracket" idx="8-2" eid="0" />
+        <error xtype="extra-quots" idx="8-3" eid="0" />
+        <error xtype="nonit4it" idx="8-4" eid="0" />
+        <error xtype="dep" depId="8-3" eid="0" />
+      </errors>
+  </revision>
+  <w>þýðir</w>
+  <c>„</c>
+  <w>viður</w>
+  <c>“</c>
+  <w>á</w>
+  <w>portúgölsku</w>
+  <revision id="9">
+    <original><c>)</c></original>
+    <corrected><w>en</w><w>eyjarnar</w><w>draga</w><w>nafn</w><w>sitt</w><w>af</w><w>lárviðarskógi</w></corrected>
+      <errors>
+        <error xtype="extra-bracket" idx="9-1" eid="0" />
+        <error xtype="missing-conjunction" idx="9-2" eid="0" />
+        <error xtype="dep" depId="8-1" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>er</w>
+  <w>á</w>
+  <w>undanhaldi</w>
+  <w>á</w>
+  <w>suðurhluta</w>
+  <w>Madeira</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>Skógurinn</w>
+  <w>er</w>
+  <w>á</w>
+  <w>heimsminjaskrá</w>
+  <w>UNESCO</w>
+  <c>.</c>
+</s>
+<s n="8">
+  <w>Eyjarnar</w>
+  <w>eru</w>
+  <w>einnig</w>
+  <w>frægar</w>
+  <w>fyrir</w>
+  <w>samnefnt</w>
+  <w>vín</w>
+  <w>sem</w>
+  <w>er</w>
+  <w>styrkt</w>
+  <w>vín</w>
+  <c>,</c>
+  <w>mikið</w>
+  <w>notað</w>
+  <w>í</w>
+  <w>matargerð</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

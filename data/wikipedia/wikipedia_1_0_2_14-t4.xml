@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_14-t4.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Algengustu</w>
@@ -129,8 +141,8 @@
   <w>djassbræðing</w>
   <c>.</c>
 </s><s n="6">
-  <w><i>Heavy</i></w>
-  <w><i>Weather</i></w>
+  <w><hi>Heavy</hi></w>
+  <w><hi>Weather</hi></w>
   <w>er</w>
   <w>mest</w>
   <w>selda</w>
@@ -151,8 +163,8 @@
   <c>.</c>
 </s><s n="8">
   <w>Platan</w>
-  <w><i>Black</i></w>
-  <w><i>Market</i></w>
+  <w><hi>Black</hi></w>
+  <w><hi>Market</hi></w>
   <w>sem</w>
   <w>kom</w>
   <w>út</w>
@@ -520,8 +532,8 @@
   </revision>
   <w>innihélt</w>
   <w>lagið</w>
-  <w><i>Garden</i></w>
-  <w><i>Party</i></w>
+  <w><hi>Garden</hi></w>
+  <w><hi>Party</hi></w>
   <w>sem</w>
   <w>náði</w>
   <w>miklum</w>
@@ -660,18 +672,18 @@
   <w>og</w>
   <w>eru</w>
   <w>plöturnar</w>
-  <w><i>The</i></w>
-  <w><i>Inner</i></w>
-  <w><i>Mounting</i></w>
-  <w><i>Flame</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Inner</hi></w>
+  <w><hi>Mounting</hi></w>
+  <w><hi>Flame</hi></w>
   <w>sem</w>
   <w>kom</w>
   <w>út</w>
   <w>árið 1971</w>
   <w>og</w>
-  <w><i>Birds</i></w>
-  <w><i>of</i></w>
-  <w><i>Fire</i></w>
+  <w><hi>Birds</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>Fire</hi></w>
   <revision id="30">
     <original><w>sem</w><w>kom</w><w>út</w><w>árið 1972</w><w>komar</w></original>
     <corrected><w>frá</w><w>1972</w><w>komnar</w></corrected>
@@ -700,8 +712,8 @@
   <w>við</w>
   <w>upptökur</w>
   <w>á</w>
-  <w><i>Bitches</i></w>
-  <w><i>Brew</i></w>
+  <w><hi>Bitches</hi></w>
+  <w><hi>Brew</hi></w>
   <w>var</w>
   <w>Return</w>
   <w>to</w>
@@ -718,8 +730,8 @@
   <w>kom</w>
   <w>út</w>
   <w>platan</w>
-  <w><i>Heavy</i></w>
-  <w><i>Weather</i></w>
+  <w><hi>Heavy</hi></w>
+  <w><hi>Weather</hi></w>
   <w>sem</w>
   <w>inniheldur</w>
   <w>meðal</w>
@@ -728,7 +740,7 @@
   <w>þekktasta</w>
   <w>lag</w>
   <revision id="31">
-    <original><w><i>Birdland</i></w></original>
+    <original><w><hi>Birdland</hi></w></original>
     <corrected><c>„</c><w>Birdland</w><c>“</c></corrected>
       <errors>
         <error xtype="missing-quots" idx="37-1" eid="0"/>
@@ -740,11 +752,11 @@
   <w>Djassbræðingur</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>jazz</i></w>
-  <w><i>fusion</i></w>
+  <w><hi>jazz</hi></w>
+  <w><hi>fusion</hi></w>
   <w>eða</w>
   <w>bara</w>
-  <w><i>fusion</i></w>
+  <w><hi>fusion</hi></w>
   <c>)</c>
   <w>er</w>
   <w>tónlistarstefna</w>
@@ -859,11 +871,11 @@
   <w>gaf</w>
   <w>út</w>
   <w>plötuna</w>
-  <w><i>Roxy</i></w>
+  <w><hi>Roxy</hi></w>
   <w><i/></w>
   <c>&amp;</c>
   <w><i/></w>
-  <w><i>Elsewhere</i></w>
+  <w><hi>Elsewhere</hi></w>
   <w>árið 1974</w>
   <w>þar</w>
   <w>sem</w>
@@ -1017,17 +1029,17 @@
   <w>eftir</w>
   <w>upptökur</w>
   <w>á</w>
-  <w><i>In</i></w>
-  <w><i>a</i></w>
-  <w><i>Silent</i></w>
-  <w><i>Way</i></w>
+  <w><hi>In</hi></w>
+  <w><hi>a</hi></w>
+  <w><hi>Silent</hi></w>
+  <w><hi>Way</hi></w>
   <w>tók</w>
   <w>Miles</w>
   <w>Davis</w>
   <w>upp</w>
   <w>plötuna</w>
-  <w><i>Bitches</i></w>
-  <w><i>Brew</i></w>
+  <w><hi>Bitches</hi></w>
+  <w><hi>Brew</hi></w>
   <c>.</c>
 </s><s n="33">
   <w>Við</w>
@@ -1124,10 +1136,10 @@
   <c>.</c>
 </s><s n="36">
   <w>Platan</w>
-  <w><i>In</i></w>
-  <w><i>a</i></w>
-  <w><i>Silent</i></w>
-  <w><i>Way</i></w>
+  <w><hi>In</hi></w>
+  <w><hi>a</hi></w>
+  <w><hi>Silent</hi></w>
+  <w><hi>Way</hi></w>
   <w>sem</w>
   <w>kom</w>
   <w>út</w>
@@ -1153,8 +1165,8 @@
   <w>sýrurokk</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>psychedelic</i></w>
-  <w><i>rock</i></w>
+  <w><hi>psychedelic</hi></w>
+  <w><hi>rock</hi></w>
   <c>)</c>
   <w>innblástur</w>
   <c>.</c>
@@ -1180,8 +1192,8 @@
   <c>.</c>
 </s><s n="39">
   <w>Platan</w>
-  <w><i>Believe</i></w>
-  <w><i>It</i></w>
+  <w><hi>Believe</hi></w>
+  <w><hi>It</hi></w>
   <w>með</w>
   <w>Tony</w>
   <w>Williams</w>
@@ -1209,11 +1221,11 @@
   <w>gáfu</w>
   <w>út</w>
   <w>plöturnar</w>
-  <w><i>Unorthodox</i></w>
-  <w><i>Behaviour</i></w>
+  <w><hi>Unorthodox</hi></w>
+  <w><hi>Behaviour</hi></w>
   <w>árið 1976</w>
   <w>og</w>
-  <w><i>Third</i></w>
+  <w><hi>Third</hi></w>
   <w>1970</w>
   <w>og</w>
   <w>sýndu</w>
@@ -1421,8 +1433,8 @@
   <w>djass</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>free</i></w>
-  <w><i>jazz</i></w>
+  <w><hi>free</hi></w>
+  <w><hi>jazz</hi></w>
   <c>)</c>
   <c>.</c>
 </s><s n="47">
@@ -1453,8 +1465,8 @@
   <w>gáfu</w>
   <w>út</w>
   <w>plötuna</w>
-  <w><i>Romantic</i></w>
-  <w><i>Warrior</i></w>
+  <w><hi>Romantic</hi></w>
+  <w><hi>Warrior</hi></w>
   <w>sem</w>
   <w>kom</w>
   <w>út</w>
@@ -1469,8 +1481,8 @@
   <w>Flauelsdjass</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>smooth</i></w>
-  <w><i>jazz</i></w>
+  <w><hi>smooth</hi></w>
+  <w><hi>jazz</hi></w>
   <c>)</c>
   <w>er</w>
   <w>tónlistarstefna</w>
@@ -1637,8 +1649,8 @@
   <w>upp</w>
   <w>frá</w>
   <w>plötunni</w>
-  <w><i>Bitches</i></w>
-  <w><i>Brew</i></w>
+  <w><hi>Bitches</hi></w>
+  <w><hi>Brew</hi></w>
   <w>með</w>
   <w>Miles</w>
   <w>Davis</w>
@@ -1676,8 +1688,8 @@
   <w>gaf</w>
   <w>út</w>
   <w>plötuna</w>
-  <w><i>Enigmatic</i></w>
-  <w><i>Ocean</i></w>
+  <w><hi>Enigmatic</hi></w>
+  <w><hi>Ocean</hi></w>
   <w>árið 1977</w>
   <c>.</c>
 </s><s n="58">
@@ -1687,8 +1699,8 @@
   <w>viðurkennt</w>
   <w>að</w>
   <w>platan</w>
-  <w><i>Bitches</i></w>
-  <w><i>Brew</i></w>
+  <w><hi>Bitches</hi></w>
+  <w><hi>Brew</hi></w>
   <w>sé</w>
   <w>fyrsta</w>
   <w>áhrifamikla</w>

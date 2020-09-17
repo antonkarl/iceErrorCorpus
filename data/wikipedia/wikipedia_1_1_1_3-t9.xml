@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_3-t9.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>John</w>
@@ -206,25 +218,25 @@
   <w>Turings</w>
   <c>,</c>
   <c>„</c>
-  <w><i>Um</i></w>
-  <w><i>reiknanlegar</i></w>
-  <w><i>tölur</i></w>
-  <w><i>með</i></w>
-  <w><i>hagnýtingu</i></w>
-  <w><i>í</i></w>
-  <w><i>Entscheidungsproblem</i></w>
+  <w><hi>Um</hi></w>
+  <w><hi>reiknanlegar</hi></w>
+  <w><hi>tölur</hi></w>
+  <w><hi>með</hi></w>
+  <w><hi>hagnýtingu</hi></w>
+  <w><hi>í</hi></w>
+  <w><hi>Entscheidungsproblem</hi></w>
   <c>“</c>
   <c>(</c>
   <c>„</c>
-  <w><i>On</i></w>
-  <w><i>Computable</i></w>
-  <w><i>Numbers</i></w>
-  <w><i>with</i></w>
-  <w><i>an</i></w>
-  <w><i>Application</i></w>
-  <w><i>to</i></w>
-  <w><i>the</i></w>
-  <w><i>Entscheidungs-problem</i></w>
+  <w><hi>On</hi></w>
+  <w><hi>Computable</hi></w>
+  <w><hi>Numbers</hi></w>
+  <w><hi>with</hi></w>
+  <w><hi>an</hi></w>
+  <w><hi>Application</hi></w>
+  <w><hi>to</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>Entscheidungs-problem</hi></w>
   <c>“</c>
   <w>á</w>
   <w>frummálinu</w>
@@ -306,7 +318,7 @@
   <w>hans</w>
   <w>voru</w>
   <revision id="6">
-    <original><w><i>Neumann</i></w><w><i>Miksa</i></w><c>,</c></original>
+    <original><w><hi>Neumann</hi></w><w><hi>Miksa</hi></w><c>,</c></original>
     <corrected><w>Neumann</w><w>Miksa</w></corrected>
       <errors>
         <error xtype="it4nonit" idx="2-1" eid="0"/>
@@ -323,7 +335,7 @@
   </revision>
   <w>og</w>
   <revision id="8">
-    <original><w><i>Kann</i></w><w><i>Margit</i></w></original>
+    <original><w><hi>Kann</hi></w><w><hi>Margit</hi></w></original>
     <corrected><w>Kann</w><w>Margit</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>

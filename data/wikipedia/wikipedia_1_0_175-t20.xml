@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_175-t20.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Namibía</w>
@@ -694,7 +706,7 @@
   <w>vegum</w>
   <revision id="24">
     <original><w>South</w><w>West</w><w>Africa</w><w>People's</w><w>Organization</w></original>
-    <corrected><w><i>South</i></w><w><i>West</i></w><w><i>Africa</i></w><w><i>People's</i></w><w><i>Organization</i></w></corrected>
+    <corrected><w><hi>South</hi></w><w><hi>West</hi></w><w><hi>Africa</hi></w><w><hi>People's</hi></w><w><hi>Organization</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>

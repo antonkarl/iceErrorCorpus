@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_10-t1.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Grelutóttir</w>
@@ -520,7 +532,7 @@
 </s>
 <s n="21">
   <revision id="9">
-    <original><w><i>Skáli</i></w></original>
+    <original><w><hi>Skáli</hi></w></original>
     <corrected><w>Skáli</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -663,7 +675,7 @@
 </s>
 <s n="28">
   <revision id="11">
-    <original><w><i>Bakhús</i></w></original>
+    <original><w><hi>Bakhús</hi></w></original>
     <corrected><w>Bakhús</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -747,7 +759,7 @@
 </s>
 <s n="32">
   <revision id="14">
-    <original><w><i>Jarðhús</i></w><w><i>1</i></w></original>
+    <original><w><hi>Jarðhús</hi></w><w><hi>1</hi></w></original>
     <corrected><w>Jarðhús</w><w>1</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -896,7 +908,7 @@
 </s>
 <s n="36">
   <revision id="21">
-    <original><w><i>Smiðja</i></w><w><i>1</i></w></original>
+    <original><w><hi>Smiðja</hi></w><w><hi>1</hi></w></original>
     <corrected><w>Smiðja</w><w>1</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -1049,7 +1061,7 @@
 </s>
 <s n="41">
   <revision id="27">
-    <original><w><i>Jarðhús</i></w><w><i>II</i></w></original>
+    <original><w><hi>Jarðhús</hi></w><w><hi>II</hi></w></original>
     <corrected><w>Jarðhús</w><w>II</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -1132,7 +1144,7 @@
 </s>
 <s n="44">
   <revision id="29">
-    <original><w><i>Fyrra</i></w><w><i>byggingarskeið</i></w></original>
+    <original><w><hi>Fyrra</hi></w><w><hi>byggingarskeið</hi></w></original>
     <corrected><w>Fyrra</w><w>byggingarskeið</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -1203,7 +1215,7 @@
 </s>
 <s n="47">
   <revision id="31">
-    <original><w><i>Síðara</i></w><w><i>byggingarskeið</i></w></original>
+    <original><w><hi>Síðara</hi></w><w><hi>byggingarskeið</hi></w></original>
     <corrected><w>Síðara</w><w>byggingarskeið</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -1244,7 +1256,7 @@
 </s>
 <s n="49">
   <revision id="33">
-    <original><w><i>Smiðja</i></w><w><i>2</i></w></original>
+    <original><w><hi>Smiðja</hi></w><w><hi>2</hi></w></original>
     <corrected><w>Smiðja</w><w>2</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />

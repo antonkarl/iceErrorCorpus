@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>visir-2014_10_225-t12.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Á</w>
@@ -169,7 +181,7 @@
   <w>finna</w>
   <revision id="7">
     <original><w>The</w><w>Volcano</w><w>Show</w></original>
-    <corrected><w><i>The</i></w><w><i>Volcano</i></w><w><i>Show</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Volcano</hi></w><w><hi>Show</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -181,7 +193,7 @@
   <w>til</w>
   <revision id="8">
     <original><w>Volcano</w><w>Show</w></original>
-    <corrected><w><i>Volcano</i></w><w><i>Show</i></w></corrected>
+    <corrected><w><hi>Volcano</hi></w><w><hi>Show</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_14-t4.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <revision id="1">
@@ -80,8 +92,8 @@
   <c>:</c>
   <w>Borneó-órangútan</w>
   <c>(</c>
-  <w><i>P.</i></w>
-  <w><i>pygmaeus</i></w>
+  <w><hi>P.</hi></w>
+  <w><hi>pygmaeus</hi></w>
   <c>)</c>
   <w>og</w>
   <w>Súmötru-órangútan</w>
@@ -100,7 +112,7 @@
   <w>órangútan</w>
   <w>þýðir</w>
   <revision id="3">
-    <original><w><i>persóna</i></w><w><i>skógarins</i></w></original>
+    <original><w><hi>persóna</hi></w><w><hi>skógarins</hi></w></original>
     <corrected><c>‚</c><w>persóna</w><w>skógarins</w><c>‘</c></corrected>
       <errors>
         <error xtype="missing-quots" idx="1-1" eid="0"/>
@@ -203,7 +215,7 @@
   <w>ávextir</w>
   <c>.</c>
 </s><s n="13">
-  <w><i>abelii</i></w>
+  <w><hi>abelii</hi></w>
   <c>)</c>
   <c>.</c>
 </s><s n="14">

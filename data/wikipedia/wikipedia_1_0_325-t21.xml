@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_325-t21.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Miklabæjar-Solveig</w>
@@ -484,8 +496,8 @@
   <w>kemur</w>
   <w>fram</w>
   <w>í</w>
-  <w><i>Vatnsfjarðarannál</i></w>
-  <w><i>yngsta</i></w>
+  <w><hi>Vatnsfjarðarannál</hi></w>
+  <w><hi>yngsta</hi></w>
   <c>.</c>
 </s>
 <s n="16">
@@ -922,11 +934,11 @@
   <w>skáld</w>
   <w>orti</w>
   <w>kvæðið</w>
-  <w><i>Hvarf</i></w>
-  <w><i>séra</i></w>
-  <w><i>Odds</i></w>
-  <w><i>á</i></w>
-  <w><i>Miklabæ</i></w>
+  <w><hi>Hvarf</hi></w>
+  <w><hi>séra</hi></w>
+  <w><hi>Odds</hi></w>
+  <w><hi>á</hi></w>
+  <w><hi>Miklabæ</hi></w>
   <w>út</w>
   <w>frá</w>
   <w>þjóðsögunni</w>

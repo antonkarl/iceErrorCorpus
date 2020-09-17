@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_15-t1.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Kjarnapláneturnar</w>
@@ -33,7 +45,7 @@
 </s><s n="2">
   <w>Í</w>
   <w>heimi</w>
-  <w><i>Firefly</i></w>
+  <w><hi>Firefly</hi></w>
   <c>-þáttana</c>
   <w>hafa</w>
   <w>Bandaríkin</w>
@@ -285,7 +297,7 @@
   <c>.</c>
 </s><s n="12">
   <revision id="11">
-    <original><w><i>Heart</i></w><w><i>of</i></w><w><i>Gold</i></w></original>
+    <original><w><hi>Heart</hi></w><w><hi>of</hi></w><w><hi>Gold</hi></w></original>
     <corrected><c>„</c><w>Heart</w><w>of</w><w>Gold</w><c>“</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="32-1" eid="0"/>
@@ -298,7 +310,7 @@
   <w>af</w>
   <revision id="12">
     <original><w>Firefly</w></original>
-    <corrected><w><i>Firefly</i></w></corrected>
+    <corrected><w><hi>Firefly</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -385,7 +397,7 @@
   <c>.</c>
 </s><s n="16">
   <revision id="15">
-    <original><w><i>Serenity</i></w></original>
+    <original><w><hi>Serenity</hi></w></original>
     <corrected><c>„</c><w>Serenity</w><c>“</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="13-1" eid="0"/>
@@ -461,7 +473,7 @@
   <w>Þegar</w>
   <w>vél</w>
   <revision id="17">
-    <original><w><i>Serenity</i></w></original>
+    <original><w><hi>Serenity</hi></w></original>
     <corrected><w>Serenity</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -529,7 +541,7 @@
   <w>fela</w>
   <c>.</c>
 </s><s n="22">
-  <w><i>Firefly</i></w>
+  <w><hi>Firefly</hi></w>
   <w>eru</w>
   <w>bandarískir</w>
   <w>vísindaskáldskapar-vestraþættir</w>
@@ -889,7 +901,7 @@
   <c>.</c>
 </s><s n="41">
   <revision id="25">
-    <original><w><i>The</i></w><w><i>Train</i></w><w><i>Job</i></w></original>
+    <original><w><hi>The</hi></w><w><hi>Train</hi></w><w><hi>Job</hi></w></original>
     <corrected><c>„</c><w>The</w><w>Train</w><w>Job</w><c>“</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="14-1" eid="0"/>
@@ -1084,7 +1096,7 @@
   <c>.</c>
 </s><s n="50">
   <revision id="30">
-    <original><w><i>Trash</i></w></original>
+    <original><w><hi>Trash</hi></w></original>
     <corrected><c>„</c><w>Trash</w><c>“</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="30-1" eid="0"/>
@@ -1104,7 +1116,7 @@
   <w>er</w>
   <w>skipstjóri</w>
   <w>Firefly-skipsins</w>
-  <w><i>Serenity</i></w>
+  <w><hi>Serenity</hi></w>
   <w>og</w>
   <w>áhöfn</w>
   <w>hans</w>

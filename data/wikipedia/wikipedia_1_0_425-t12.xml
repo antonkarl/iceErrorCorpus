@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_425-t12.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Þóra</w>
@@ -132,12 +144,12 @@
   <w>Ævisaga</w>
   <w>Þóru</w>
   <c>,</c>
-  <w><i>Þóra</i></w>
-  <w><i>biskups</i></w>
-  <w><i>og</i></w>
-  <w><i>raunir</i></w>
-  <w><i>íslenskrar</i></w>
-  <w><i>embættismannastéttar</i></w>
+  <w><hi>Þóra</hi></w>
+  <w><hi>biskups</hi></w>
+  <w><hi>og</hi></w>
+  <w><hi>raunir</hi></w>
+  <w><hi>íslenskrar</hi></w>
+  <w><hi>embættismannastéttar</hi></w>
   <w>eftir</w>
   <w>Sigrúnu</w>
   <w>Pálsdóttur</w>

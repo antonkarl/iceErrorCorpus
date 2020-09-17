@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_2-t5.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Í</w>
@@ -54,7 +66,7 @@
   <w>var</w>
   <w>verkefni</w>
   <w>innan</w>
-  <w><i>Grundtvig</i></w>
+  <w><hi>Grundtvig</hi></w>
   <w>fullorðinsfræðsluáætlunar</w>
   <w>Evrópusambandsins</w>
   <w>sem</w>
@@ -65,7 +77,7 @@
 </s><s n="4">
   <revision id="2">
     <original><w>Bibliodrama</w></original>
-    <corrected><w><i>Bibliodrama</i></w><c>(</c><w>ísl.</w><w>sagnaspuni</w><c>)</c></corrected>
+    <corrected><w><hi>Bibliodrama</hi></w><c>(</c><w>ísl.</w><w>sagnaspuni</w><c>)</c></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
         <error xtype="missing-bracket" eid="0"/>
@@ -162,13 +174,13 @@
   <c>,</c>
   <w>sem</w>
   <w>heitir</w>
-  <w><i>biblíódrama</i></w>
+  <w><hi>biblíódrama</hi></w>
   <w>en</w>
   <w>þýtt</w>
   <w>hefur</w>
   <w>verið</w>
   <w>sem</w>
-  <w><i>sagnaspuni</i></w>
+  <w><hi>sagnaspuni</hi></w>
   <w>á</w>
   <w>íslensku</w>
   <c>,</c>
@@ -178,13 +190,13 @@
   <w>millimenningarlegri</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>interculture</i></w>
+  <w><hi>interculture</hi></w>
   <c>)</c>
   <w>og</w>
   <w>þvertrúarlegri</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>interfaith</i></w>
+  <w><hi>interfaith</hi></w>
   <c>)</c>
   <w>kennslu</w>
   <w>með</w>
@@ -212,7 +224,7 @@
   <w>aðferð</w>
   <revision id="4">
     <original><w>biblíódrama</w></original>
-    <corrected><w><i>biblíódrama</i></w></corrected>
+    <corrected><w><hi>biblíódrama</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -220,7 +232,7 @@
   <w>er</w>
   <revision id="5">
     <original><w>biblíólog</w></original>
-    <corrected><w><i>biblíólog</i></w><c>(</c><w>ísl.</w><w>sagnaspunagagnagrunnur</w><c>)</c></corrected>
+    <corrected><w><hi>biblíólog</hi></w><c>(</c><w>ísl.</w><w>sagnaspunagagnagrunnur</w><c>)</c></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
         <error xtype="missing-bracket" eid="0"/>
@@ -348,7 +360,7 @@
   <w>orðsins</w>
   <revision id="9">
     <original><w>bibliodrama</w></original>
-    <corrected><w><i>bibliodrama</i></w></corrected>
+    <corrected><w><hi>bibliodrama</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

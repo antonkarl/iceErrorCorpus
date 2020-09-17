@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_1-t4.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Síðpönk</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>post-punk</i></w>
+  <w><hi>post-punk</hi></w>
   <c>)</c>
   <w>er</w>
   <w>rokktónlistarstefna</w>
@@ -833,8 +845,8 @@
   <w>á</w>
   <w>sviðspersónu</w>
   <w>sinni</w>
-  <w><i>Johnny</i></w>
-  <w><i>Rotten</i></w>
+  <w><hi>Johnny</hi></w>
+  <w><hi>Rotten</hi></w>
   <c>,</c>
   <w>ásamt</w>
   <w>því</w>
@@ -1520,8 +1532,8 @@
   <w>af</w>
   <w>plötu</w>
   <w>þeirra</w>
-  <w><i>Mjötviður</i></w>
-  <w><i>Mær</i></w>
+  <w><hi>Mjötviður</hi></w>
+  <w><hi>Mær</hi></w>
   <c>,</c>
   <w>sem</w>
   <w>kom</w>
@@ -1806,7 +1818,7 @@
   <c>,</c>
   <revision id="49">
     <original><w>Best</w><w>of</w><w>Q</w><w>4U</w></original>
-    <corrected><w><i>Best</i></w><w><i>of</i></w><w><i>Q</i></w><w><i>4U</i></w></corrected>
+    <corrected><w><hi>Best</hi></w><w><hi>of</hi></w><w><hi>Q</hi></w><w><hi>4U</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1851,7 +1863,7 @@
   <w>nefnist</w>
   <revision id="52">
     <original><w>Q</w><w>1</w><w>Deluxe</w><w>Edition</w></original>
-    <corrected><w><i>Q</i></w><w><i>1</i></w><w><i>Deluxe</i></w><w><i>Edition</i></w></corrected>
+    <corrected><w><hi>Q</hi></w><w><hi>1</hi></w><w><hi>Deluxe</hi></w><w><hi>Edition</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1950,9 +1962,9 @@
   <w>Á</w>
   <w>plötu</w>
   <w>sinni</w>
-  <w><i>Hex</i></w>
-  <w><i>Enduction</i></w>
-  <w><i>Hour</i></w>
+  <w><hi>Hex</hi></w>
+  <w><hi>Enduction</hi></w>
+  <w><hi>Hour</hi></w>
   <c>,</c>
   <w>sem</w>
   <w>var</w>
@@ -1969,7 +1981,7 @@
   <w>Fall</w>
   <w>landinu</w>
   <w>lagið</w>
-  <w><i>Iceland</i></w>
+  <w><hi>Iceland</hi></w>
   <c>.</c>
 </s>
 <s n="65">
@@ -2261,7 +2273,7 @@
   <w>svokallaða</w>
   <revision id="69">
     <original><w>No</w><w>Wave</w></original>
-    <corrected><w><i>No</i></w><w><i>Wave</i></w></corrected>
+    <corrected><w><hi>No</hi></w><w><hi>Wave</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>

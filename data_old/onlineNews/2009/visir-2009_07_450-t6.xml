@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Tökur</w>
+  <w>kvikmyndarinnar</w>
+  <w>Bjarnfreðarson</w>
+  <w>standa</w>
+  <w>nú</w>
+  <w>yfir</w>
+  <w>og</w>
+  <w>í</w>
+  <w>gær</w>
+  <w>mátti</w>
+  <w>sjá</w>
+  <w>tökulið</w>
+  <w>festa</w>
+  <w>það</w>
+  <w>á</w>
+  <w>filmu</w>
+  <w>þegar</w>
+  <w>Ólafur</w>
+  <w>Ragnar</w>
+  <w>kemur</w>
+  <w>færandi</w>
+  <w>hendi</w>
+  <w>með</w>
+  <revision id="1">
+    <original><w>kína-mat</w></original>
+    <corrected><w>kínverskan</w><w>mat</w></corrected>
+      <errors>
+        <error xtype="unicelandic" idx="1-1" eid="0" />
+        <error xtype="extra-dash" idx="1-2" eid="0" />
+      </errors>
+  </revision>
+  <w>fyrir</w>
+  <w>hetjurnar</w>
+  <w>sínar</w>
+  <revision id="2">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>FM-hnakkana</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <c>„</c>
+  <w>Ég</w>
+  <w>er</w>
+  <w>að</w>
+  <w>koma</w>
+  <w>með</w>
+  <w>mat</w>
+  <w>handa</w>
+  <w>strákunum</w>
+  <w>á</w>
+  <w>FM</w>
+  <c>,</c>
+  <revision id="2b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
+  <w>segir</w>
+  <w>Pétur</w>
+  <w>Jóhann</w>
+  <w>Sigfússon</w>
+  <w>skemmtikraftur</w>
+  <w>og</w>
+  <w>leikari</w>
+  <w>í</w>
+  <w>hlutverki</w>
+  <w>Ólafs</w>
+  <w>Ragnars</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Heljarinnar</w>
+  <w>mikið</w>
+  <w>tökulið</w>
+  <w>var</w>
+  <w>í</w>
+  <w>gær</w>
+  <w>mætt</w>
+  <w>utan</w>
+  <w>við</w>
+  <w>húsakynni</w>
+  <w>útvarpssviðs</w>
+  <w>365</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Var</w>
+  <w>verið</w>
+  <w>að</w>
+  <w>taka</w>
+  <w>upp</w>
+  <w>atriði</w>
+  <w>fyrir</w>
+  <w>kvikmyndina</w>
+  <w>Bjarnfreðarson</w>
+  <revision id="3">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>byggir</w>
+  <w>á</w>
+  <w>þeim</w>
+  <w>persónum</w>
+  <w>og</w>
+  <w>söguheimi</w>
+  <w>sem</w>
+  <w>landsmenn</w>
+  <w>þekkja</w>
+  <revision id="4">
+    <original><w>frá</w></original>
+    <corrected><w>úr</w></corrected>
+      <errors>
+        <error xtype="wrong-prep" eid="0" />
+      </errors>
+  </revision>
+  <w>sjónvarpsseríunum</w>
+  <w>Nætur</w>
+
+  <revision id="5">
+    <original></original>
+    <corrected><w>Dag</w></corrected>
+      <errors>
+        <error xtype="extra-space" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <revision id="6">
+    <original><w>Dag-og</w><w>Fangavakt</w></original>
+    <corrected><w>og</w><w>Fangavaktin</w></corrected>
+      <errors>
+        <error xtype="extra-dash" idx="6-1" eid="0" />
+        <error xtype="ind4def" idx="6-2" eid="0" />
+      </errors>
+  </revision>
+  <w>Mikil</w>
+  <w>leynd</w>
+  <revision id="7">
+    <original><w>ríkir</w><w>um</w></original>
+    <corrected><w>er</w><w>yfir</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>efni</w>
+  <w>myndarinnar</w>
+  <w>og</w>
+  <w>er</w>
+  <w>leikstjórinn</w>
+  <w>Ragnar</w>
+  <w>Bragason</w>
+  <w>alla</w>
+  <w>jafna</w>
+  <w>afar</w>
+  <w>þögull</w>
+  <w>ef</w>
+  <w>hann</w>
+  <w>er</w>
+  <w>inntur</w>
+  <w>eftir</w>
+  <w>því</w>
+  <w>hvað</w>
+  <w>drífi</w>
+  <w>á</w>
+  <w>daga</w>
+  <w>þeirra</w>
+  <w>Ólafs</w>
+  <w>Ragnars</w>
+  <w>og</w>
+  <w>Georgs</w>
+  <revision id="8">
+    <original><w>Bjarnfreðar-sonar</w></original>
+    <corrected><w>Bjarnfreðarsonar</w></corrected>
+      <errors>
+        <error xtype="extra-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>kvikmyndinni</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>En</w>
+  <w>í</w>
+  <w>gær</w>
+  <w>mátti</w>
+  <w>sjá</w>
+  <w>þegar</w>
+  <w>tökuvélar</w>
+  <w>festu</w>
+  <w>það</w>
+  <w>á</w>
+  <w>filmu</w>
+  <w>þegar</w>
+  <w>Ólafur</w>
+  <w>Ragnar</w>
+  <w>kemur</w>
+  <w>gangandi</w>
+  <w>að</w>
+  <w>útvarpsstöðinni</w>
+  <w>FM</w>
+  <w>með</w>
+  <w>kínverskan</w>
+  <c>„</c>
+  <w>take-away</w>
+  <revision id="8b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
+  <w>mat</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <revision id="9">
+    <original><w>Og</w></original>
+    <corrected><w>Það</w></corrected>
+      <errors>
+        <error xtype="extra-conjunction" idx="9-1" eid="0" />
+        <error xtype="missing-word" idx="9-2" eid="0" />
+      </errors>
+  </revision>
+  <w>ber</w>
+  <w>vel</w>
+  <w>í</w>
+  <w>veiði</w>
+  <w>því</w>
+  <w>það</w>
+  <w>eru</w>
+  <w>einmitt</w>
+  <w>FM-hnakkarnir</w>
+  <w>svokölluðu</w>
+  <c>,</c>
+  <w>útvarpsmennirnir</w>
+  <w>á</w>
+  <w>FM</w>
+  <w>957</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>eru</w>
+  <w>uppspretta</w>
+  <w>hins</w>
+  <w>sérstæða</w>
+  <w>tungutaks</w>
+  <w>sem</w>
+  <w>einkennir</w>
+  <w>Ólaf</w>
+  <w>Ragnar</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>Eða</w>
+  <w>eigum</w>
+  <w>við</w>
+  <w>að</w>
+  <w>ræða</w>
+  <w>það</w>
+  <w>eitthvað</w>
+  <c>?</c>
+</s>
+</p></body></text>
+</TEI>

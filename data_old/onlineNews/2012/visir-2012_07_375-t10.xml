@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Bíó</w>
+  <w>Paradís</w>
+  <w>byrjar</w>
+  <w>að</w>
+  <w>sýna</w>
+  <w>heimildarmyndina</w>
+  <w>Glastonbury</w>
+  <w>The</w>
+  <w>Movie</w>
+  <c>(</c>
+  <w>In</w>
+  <w>Flashback</w>
+  <c>)</c>
+  <w>í</w>
+  <w>kvöld</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Þessi</w>
+  <w>endurútgáfa</w>
+  <w>myndarinnar</w>
+  <w>er</w>
+  <w>splunkuný</w>
+  <revision id="1">
+    <original><c>,</c></original>
+    <corrected><w>og</w></corrected>
+      <errors>
+        <error xtype="comma4conjunction" eid="0" />
+      </errors>
+  </revision>
+  <w>var</w>
+  <w>frumsýnd</w>
+  <w>í</w>
+  <w>London</w>
+  <w>29. júní</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Myndin</w>
+  <w>barst</w>
+  <w>Bíó</w>
+  <w>Paradís</w>
+  <w>með</w>
+  <w>skömmum</w>
+  <w>fyrirvara</w>
+  <w>gegnum</w>
+  <w>einn</w>
+  <revision id="2">
+    <original><w>tökumanna</w><w>myndarinnar</w></original>
+    <corrected><w>tökumann</w><w>hennar</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" idx="2-1" eid="0" />
+        <error xtype="noun4pro" idx="2-2" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>íslenska</w>
+  <w>kvikmyndagerðarmanninn</w>
+  <w>Úlf</w>
+  <w>Hróbjartsson</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>kom</w>
+  <w>á</w>
+  <w>beinu</w>
+  <w>sambandi</w>
+  <w>við</w>
+  <w>framleiðendurna</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Um</w>
+  <w>er</w>
+  <w>að</w>
+  <w>ræða</w>
+  <w>endurgerð</w>
+  <revision id="3">
+    <original><w>á</w><w>myndinni</w></original>
+    <corrected><w>myndar</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>frá</w>
+  <w>árinu 1995</w>
+  <c>,</c>
+  <revision id="4">
+    <original></original>
+    <corrected><w>sem</w></corrected>
+      <errors>
+        <error xtype="missing-conjunction" eid="0" />
+      </errors>
+  </revision>
+  <w>unnin</w>
+  <revision id="5">
+    <original></original>
+    <corrected><w>er</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>úr</w>
+  <w>hrátökum</w>
+  <revision id="6">
+    <original><w>og</w></original>
+    <corrected><w>en</w><w>einnig</w></corrected>
+      <errors>
+        <error xtype="conjunction" idx="6-1" eid="0" />
+        <error xtype="missing-word" idx="6-2" eid="0" />
+      </errors>
+  </revision>
+  <w>tekin</w>
+  <w>upp</w>
+  <w>að</w>
+  <w>nýju</w>
+  <revision id="7">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>hluta</w>
+  <w>til</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Myndin</w>
+  <w>fjallar</w>
+  <w>um</w>
+  <w>tónlistarhátíðina</w>
+  <w>Glastonbury</w>
+  <c>,</c>
+  <revision id="8">
+    <original><w>sem</w><w>er</w><w>ein</w><w>stærsta</w></original>
+    <corrected><w>eina</w><w>stærstu</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>tónlistarhátíð</w>
+  <w>heims</w>
+  <c>,</c>
+  <revision id="9">
+    <original></original>
+    <corrected><w>sem</w><w>fram</w><w>fór</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <w>sumarið</w>
+  <w>1993</w>
+  <revision id="10">
+    <original><w>og</w><w>fram</w></original>
+    <corrected><c>.</c><w>Í</w><w>henni</w></corrected>
+      <errors>
+        <error xtype="conjunction4period" idx="10-1" eid="0" />
+        <error xtype="wording" idx="10-2" eid="0" />
+        <error xtype="missing-word" idx="10-3" eid="0" />
+      </errors>
+  </revision>
+  <w>kemur</w>
+  <revision id="11">
+    <original></original>
+    <corrected><w>fram</w></corrected>
+      <errors>
+        <error xtype="dep" depId="10-2" eid="0" />
+      </errors>
+  </revision>
+  <w>fjöldi</w>
+  <w>listamanna</w>
+  <w>og</w>
+  <w>hljómsveita</w>
+  <c>,</c>
+  <revision id="12">
+    <original><w>þeirra</w></original>
+    <corrected><w>þar</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>meðal</w>
+  <w>Charlie</w>
+  <w>Creed-Miles</w>
+  <w>and</w>
+  <w>Dexter</w>
+  <w>Fletcher</w>
+  <c>,</c>
+  <w>Co-Creators</w>
+  <c>,</c>
+  <w>Lemonheads</w>
+  <c>,</c>
+  <w>Omar</w>
+  <c>,</c>
+  <w>Stereo</w>
+  <w>MCs</w>
+  <c>,</c>
+  <w>Spiritualized</w>
+  <c>,</c>
+  <w>The</w>
+  <w>Verve</w>
+  <c>,</c>
+  <w>Chuck</w>
+  <w>Prophet</w>
+  <c>,</c>
+  <w>McKoy</w>
+  <c>,</c>
+  <w>Porno</w>
+  <w>For</w>
+  <w>Pyros</w>
+  <c>,</c>
+  <w>Ozric</w>
+  <w>Tentacles</w>
+  <c>,</c>
+  <w>Airto</w>
+  <w>Moreira</w>
+  <c>,</c>
+  <w>Back</w>
+  <w>to</w>
+  <w>the</w>
+  <w>Planet</w>
+  <w>og</w>
+  <w>The</w>
+  <w>Orb</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

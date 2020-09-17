@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_125-t7.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="0">
   <revision id="1">
@@ -12,7 +24,7 @@
         <error xtype="extra-colon" eid="0" />
       </errors>
   </revision>
-  <w><i>Cirrostratus</i></w>
+  <w><hi>Cirrostratus</hi></w>
   <revision id="2">
     <original><c>)</c></original>
     <corrected><c>,</c></corrected>

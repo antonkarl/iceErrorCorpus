@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_13-t2.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Þetta</w>
@@ -38,7 +50,7 @@
   <w>þeirra</w>
   <revision id="2">
     <original><w>Diabolus</w><w>in</w><w>Musica</w></original>
-    <corrected><w><i>Diabolus</i></w><w><i>in</i></w><w><i>Musica</i></w></corrected>
+    <corrected><w><hi>Diabolus</hi></w><w><hi>in</hi></w><w><hi>Musica</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -152,7 +164,7 @@
   <c>,</c>
   <revision id="9">
     <original><w>Blind</w></original>
-    <corrected><w><i>Blind</i></w></corrected>
+    <corrected><w><hi>Blind</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -363,7 +375,7 @@
   <w>Bizkit</w>
   <revision id="23">
     <original><w>Chocolate</w><w>Starfish</w><w>and</w><w>the</w><w>Hot</w><w>Dog</w><w>Flavored</w><w>Water</w></original>
-    <corrected><c>,</c><w><i>Chocolate</i></w><w><i>Starfish</i></w><w><i>and</i></w><w><i>the</i></w><w><i>Hot</i></w><w><i>Dog</i></w><w><i>Flavored</i></w><w><i>Water</i></w><c>,</c></corrected>
+    <corrected><c>,</c><w><hi>Chocolate</hi></w><w><hi>Starfish</hi></w><w><hi>and</hi></w><w><hi>the</hi></w><w><hi>Hot</hi></w><w><hi>Dog</hi></w><w><hi>Flavored</hi></w><w><hi>Water</hi></w><c>,</c></corrected>
       <errors>
         <error xtype="missing-commas" eid="0"/>
         <error xtype="nonit4it" eid="0"/>
@@ -447,7 +459,7 @@
   <w>Bizkit</w>
   <revision id="28">
     <original><w>Significant</w><w>Other</w></original>
-    <corrected><c>,</c><w><i>Significant</i></w><w><i>Other</i></w></corrected>
+    <corrected><c>,</c><w><hi>Significant</hi></w><w><hi>Other</hi></w></corrected>
       <errors>
         <error xtype="missing-comma" eid="0"/>
         <error xtype="nonit4it" eid="0"/>
@@ -682,7 +694,7 @@
   <w>plötunni</w>
   <revision id="42">
     <original><w>Follow</w><w>the</w><w>Leader</w></original>
-    <corrected><w><i>Follow</i></w><w><i>the</i></w><w><i>Leader</i></w></corrected>
+    <corrected><w><hi>Follow</hi></w><w><hi>the</hi></w><w><hi>Leader</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -700,7 +712,7 @@
   <w>þeirra</w>
   <revision id="43">
     <original><w>Fallen</w></original>
-    <corrected><c>,</c><w><i>Fallen</i></w><c>,</c></corrected>
+    <corrected><c>,</c><w><hi>Fallen</hi></w><c>,</c></corrected>
       <errors>
         <error xtype="missing-commas" eid="0"/>
         <error xtype="nonit4it" eid="0"/>
@@ -909,7 +921,7 @@
   <w>platan</w>
   <revision id="52">
     <original><w>Roots</w></original>
-    <corrected><w><i>Roots</i></w></corrected>
+    <corrected><w><hi>Roots</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -974,7 +986,7 @@
   <w>park</w>
   <revision id="54">
     <original><c>;</c><w>Hybrid</w><w>Theory</w></original>
-    <corrected><c>:</c><w><i>Hybrid</i></w><w><i>Theory</i></w></corrected>
+    <corrected><c>:</c><w><hi>Hybrid</hi></w><w><hi>Theory</hi></w></corrected>
       <errors>
         <error xtype="semicolon4colon" eid="0"/>
         <error xtype="nonit4it" eid="0"/>

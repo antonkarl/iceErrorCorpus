@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_13-t4.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Kim</w>
@@ -246,18 +258,18 @@
       </errors>
   </revision>
   <c>:</c>
-  <w><i>Leiðtoginn</i></w>
-  <w><i>mikli</i></w>
+  <w><hi>Leiðtoginn</hi></w>
+  <w><hi>mikli</hi></w>
   <c>,</c>
-  <w><i>Marskálkurinn</i></w>
-  <w><i>mikli</i></w>
+  <w><hi>Marskálkurinn</hi></w>
+  <w><hi>mikli</hi></w>
   <c>,</c>
-  <w><i>Hin</i></w>
-  <w><i>mikla</i></w>
-  <w><i>sól</i></w>
+  <w><hi>Hin</hi></w>
+  <w><hi>mikla</hi></w>
+  <w><hi>sól</hi></w>
   <c>,</c>
-  <w><i>Viti</i></w>
-  <w><i>Asíu</i></w>
+  <w><hi>Viti</hi></w>
+  <w><hi>Asíu</hi></w>
   <c>.</c>
 </s><s n="12">
   <w>Stjórn</w>
@@ -393,7 +405,7 @@
   <w>sem</w>
   <w>kallað</w>
   <w>var</w>
-  <w><i>juche</i></w>
+  <w><hi>juche</hi></w>
   <c>,</c>
   <w>varð</w>
   <w>ráðandi</w>

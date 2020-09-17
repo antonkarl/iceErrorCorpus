@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Bílar</w>
+  <w>springa</w>
+  <w>ekki</w>
+  <w>eins</w>
+  <w>og</w>
+  <w>í</w>
+  <w>amerískum</w>
+  <w>bíómyndum</w>
+  <w>þegar</w>
+  <w>það</w>
+  <w>kviknar</w>
+  <w>í</w>
+  <w>þeim</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Þetta</w>
+  <w>segir</w>
+  <w>deildarstjóri</w>
+  <w>hjá</w>
+  <w>Slökkviliðinu</w>
+  <w>en</w>
+  <w>fimm</w>
+  <w>bílar</w>
+  <w>voru</w>
+  <w>inni</w>
+  <w>á</w>
+  <w>bílaverkstæðinu</w>
+  <w>sem</w>
+  <w>brann</w>
+  <w>í</w>
+  <w>Kópavogi</w>
+  <w>í</w>
+  <w>fyrrinótt</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Bílarnir</w>
+  <w>fimm</w>
+  <w>höfðu</w>
+  <w>verið</w>
+  <w>eða</w>
+  <w>voru</w>
+  <w>í</w>
+  <w>viðgerð</w>
+  <w>hjá</w>
+  <revision id="1">
+    <original><w>bílasprautunar</w><w>og</w><w>réttingaverkstæðinu</w></original>
+    <corrected><w>bílasprautunar- og réttingaverkstæðinu</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>einn</w>
+  <w>þeirra</w>
+  <w>var</w>
+  <w>dreginn</w>
+  <w>út</w>
+  <w>á</w>
+  <w>meðan</w>
+  <w>á</w>
+  <w>slökkvistarfi</w>
+  <w>stóð</w>
+  <w>en</w>
+  <w>það</w>
+  <w>var</w>
+  <w>ekki</w>
+  <w>vegna</w>
+  <w>hættu</w>
+  <w>sem</w>
+  <w>stafaði</w>
+  <w>af</w>
+  <w>honum</w>
+  <w>heldur</w>
+  <w>var</w>
+  <w>hann</w>
+  <w>einfaldlega</w>
+  <w>fyrir</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Höskuldur</w>
+  <w>Einarsson</w>
+  <w>deildarstjóri</w>
+  <w>hjá</w>
+  <w>Slökkviliðinu</w>
+  <w>segir</w>
+  <w>bíla</w>
+  <w>ekki</w>
+  <w>skapa</w>
+  <w>jafn</w>
+  <w>mikla</w>
+  <w>sprengihættu</w>
+  <w>og</w>
+  <w>margir</w>
+  <w>halda</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <c>„</c>
+  <w>Það</w>
+  <w>er</w>
+  <w>ekki</w>
+  <w>þannig</w>
+  <revision id="2">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-commas" idx="2-1" eid="0" />
+      </errors>
+  </revision>
+  <w>eins</w>
+  <w>og</w>
+  <w>í</w>
+  <w>amerískum</w>
+  <w>bíómyndum</w>
+  <revision id="3">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="dep" depId="2-1" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>þeir</w>
+  <w>springi</w>
+  <w>í</w>
+  <w>loft</w>
+  <w>upp</w>
+  <revision id="4">
+    <original><c>,</c><w>það</w></original>
+    <corrected><c>.</c><w>Það</w></corrected>
+      <errors>
+        <error xtype="comma4period" eid="0" />
+      </errors>
+  </revision>
+  <w>höfum</w>
+  <w>við</w>
+  <w>aldrei</w>
+  <w>séð</w>
+  <w>á</w>
+  <w>Íslandi</w>
+  <revision id="5">
+    <original><c>,</c><w>bensíntankurinn</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-commas" idx="5-1" eid="0" />
+        <error xtype="wording" idx="5-2" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>þegar</w>
+  <revision id="6">
+    <original><w>hann</w></original>
+    <corrected><w>bensíntankurinn</w></corrected>
+      <errors>
+        <error xtype="extra-word" idx="6-1" eid="0" />
+        <error xtype="dep" depId="5-2" eid="0" />
+      </errors>
+  </revision>
+  <w>lekur</w>
+  <revision id="7">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="5-1" eid="0" />
+      </errors>
+  </revision>
+  <w>veður</w>
+  <w>mikill</w>
+  <w>eldur</w>
+  <revision id="8">
+    <original><c>,</c></original>
+    <corrected><w>en</w></corrected>
+      <errors>
+        <error xtype="comma4conjunction" eid="0" />
+      </errors>
+  </revision>
+  <w>engin</w>
+  <w>sprenging</w>
+  <revision id="9">
+    <original><c>,</c><w>það</w><w>verður</w><w>mikið</w></original>
+    <corrected><c>.</c><w>Mikið</w></corrected>
+      <errors>
+        <error xtype="comma4period" idx="9-1" eid="0" />
+        <error xtype="extra-word" idx="9-2" eid="0" />
+        <error xtype="wording" idx="9-3" eid="0" />
+      </errors>
+  </revision>
+  <w>meiri</w>
+  <w>sprenging</w>
+  <revision id="10">
+    <original></original>
+    <corrected><w>verður</w></corrected>
+      <errors>
+        <error xtype="dep" depId="9-3" eid="0" />
+      </errors>
+  </revision>
+  <w>þegar</w>
+  <w>dekkin</w>
+  <w>springa</w>
+  <revision id="11">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>en</w>
+  <w>það</w>
+  <w>eru</w>
+  <w>ekki</w>
+  <w>miklar</w>
+  <w>hættur</w>
+  <w>af</w>
+  <w>þessum</w>
+  <w>bílum</w>
+  <w>þó</w>
+  <revision id="11b">
+    <original></original>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
+  <w>þeir</w>
+  <w>brenni</w>
+  <c>,</c>
+  <revision id="12">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
+  <w>segir</w>
+  <w>Höskuldur</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Hann</w>
+  <w>segir</w>
+  <w>gaskúta</w>
+  <w>hins</w>
+  <w>vegar</w>
+  <w>mun</w>
+  <w>hættulegri</w>
+  <w>en</w>
+  <w>eins</w>
+  <w>og</w>
+  <w>við</w>
+  <w>sögðum</w>
+  <w>frá</w>
+  <w>í</w>
+  <w>gær</w>
+  <w>geta</w>
+  <w>svokallaðir</w>
+  <w>acetylín</w>
+  <w>kútar</w>
+  <w>kastast</w>
+  <w>hátt</w>
+  <w>í</w>
+  <w>þrjú</w>
+  <w>hundruð</w>
+  <w>metra</w>
+  <w>þegar</w>
+  <w>þeir</w>
+  <w>springa</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>Hann</w>
+  <w>segir</w>
+  <w>litla</w>
+  <w>spreybrúsa</w>
+  <revision id="13">
+    <original></original>
+    <corrected><w>einnig</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>geta</w>
+  <w>virkað</w>
+  <w>eins</w>
+  <w>og</w>
+  <w>byssukúlur</w>
+  <c>.</c>
+</s>
+<s n="8">
+  <c>„</c>
+  <w>Þeir</w>
+  <w>geta</w>
+  <w>farið</w>
+  <w>svona</w>
+  <w>30</w>
+  <w>metra</w>
+  <w>í</w>
+  <w>loft</w>
+  <w>upp</w>
+  <w>ef</w>
+  <w>þeir</w>
+  <w>springa</w>
+  <w>og</w>
+  <w>geta</w>
+  <w>oft</w>
+  <w>slasað</w>
+  <w>fólk</w>
+  <w>ef</w>
+  <revision id="14">
+    <original><w>þeir</w><w>springa</w><c>,</c><w>og</w><w>það</w><w>var</w><w>þannig</w></original>
+    <corrected><w>svo</w><w>ber</w><w>undir</w><c>.</c><w>Þannig</w><w>varð</w></corrected>
+      <errors>
+        <error xtype="wording" idx="14-1" eid="0" />
+        <error xtype="comma4period" idx="14-2" eid="0" />
+        <error xtype="wording" idx="14-3" eid="0" />
+      </errors>
+  </revision>
+  <w>eldur</w>
+  <w>í</w>
+  <w>Varmahlíð</w>
+  <w>í</w>
+  <w>Skagafirði</w>
+  <c>,</c>
+  <w>þar</w>
+  <w>sem</w>
+  <revision id="15">
+    <original><w>það</w><w>var</w><w>svona</w></original>
+    <corrected><w>eins</w><w>konar</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>byssuskothríð</w>
+  <revision id="16">
+    <original><w>sem</w><w>kom</w></original>
+    <corrected><w>varð</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>af</w>
+  <revision id="17">
+    <original><w>svoleiðis</w></original>
+    <corrected><w>þess</w><w>háttar</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>gaskútum</w>
+  <revision id="18">
+    <original><c>,</c><w>þannig</w><w>í</w><w>svona</w><w>eldi</w></original>
+    <corrected><c>.</c><w>Því</w></corrected>
+      <errors>
+        <error xtype="comma4period" idx="18-1" eid="0" />
+        <error xtype="wording" idx="18-2" eid="0" />
+      </errors>
+  </revision>
+  <w>ber</w>
+  <w>ýmislegt</w>
+  <w>að</w>
+  <w>varast</w>
+  <revision id="19">
+    <original></original>
+    <corrected><w>þegar</w><w>eldur</w><w>kviknar</w></corrected>
+      <errors>
+        <error xtype="dep" depId="18-2" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>þetta</w>
+  <w>er</w>
+  <w>eitt</w>
+  <revision id="20">
+    <original><w>af</w><w>því</w></original>
+    <corrected><w>þeirra</w><w>atriða</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <revision id="21">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
+  <w>segir</w>
+  <w>Höskuldur</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

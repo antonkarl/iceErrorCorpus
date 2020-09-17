@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_11-t12.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Hasselt</w>
@@ -222,7 +234,7 @@
   <c>(</c>
   <revision id="6">
     <original><w>Senatus</w><w>PopulusQue</w><w>Hasselsis</w></original>
-    <corrected><w><i>Senatus</i></w><w><i>Populus</i></w><w><i>Que</i></w><w><i>Hasselsis</i></w></corrected>
+    <corrected><w><hi>Senatus</hi></w><w><hi>Populus</hi></w><w><hi>Que</hi></w><w><hi>Hasselsis</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>

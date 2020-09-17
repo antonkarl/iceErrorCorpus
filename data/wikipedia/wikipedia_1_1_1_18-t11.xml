@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_18-t11.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Um</w>
@@ -214,7 +226,7 @@
   <w>fjölmiðlun</w>
   <c>,</c>
   <w>útgáfufélagi</w>
-  <w><i>DV</i></w>
+  <w><hi>DV</hi></w>
   <w>sem</w>
   <w>ákvað</w>
   <revision id="5">
@@ -235,9 +247,9 @@
   <w>á</w>
   <w>borð</w>
   <w>við</w>
-  <w><i>Tímann</i></w>
+  <w><hi>Tímann</hi></w>
   <w>og</w>
-  <w><i>Vikublaðið</i></w>
+  <w><hi>Vikublaðið</hi></w>
   <revision id="6">
     <original><c>(</c></original>
     <corrected><c>,</c></corrected>
@@ -246,7 +258,7 @@
       </errors>
   </revision>
   <w>arftaka</w>
-  <w><i>Þjóðviljans</i></w>
+  <w><hi>Þjóðviljans</hi></w>
   <revision id="7">
     <original><c>)</c></original>
     <corrected><c>,</c></corrected>
@@ -259,7 +271,7 @@
   <w>nýtt</w>
   <w>dagblað</w>
   <c>,</c>
-  <w><i>Dag-Tímann</i></w>
+  <w><hi>Dag-Tímann</hi></w>
   <c>.</c>
 </s><s n="12">
   <w>Á</w>
@@ -451,7 +463,7 @@
   <w>1970</w>
   <c>.</c>
 </s><s n="17">
-  <w><i>Alþýðublaðið</i></w>
+  <w><hi>Alþýðublaðið</hi></w>
   <w>var</w>
   <w>gefið</w>
   <w>út</w>
@@ -501,12 +513,12 @@
   <c>.</c>
 </s><s n="19">
   <w>Vikuritið</w>
-  <w><i>Pressan</i></w>
+  <w><hi>Pressan</hi></w>
   <w>var</w>
   <w>stofnað</w>
   <w>upp</w>
   <w>úr</w>
-  <w><i>Alþýðublaðinu</i></w>
+  <w><hi>Alþýðublaðinu</hi></w>
   <w>árið 1988</w>
   <c>.</c>
 </s><s n="20">
@@ -722,7 +734,7 @@
   <w>rekstur</w>
   <w>blaðsins</w>
   <w>við</w>
-  <w><i>Vísi</i></w>
+  <w><hi>Vísi</hi></w>
   <w>og</w>
   <w>Alþýðublaðsútgáfan</w>
   <w>hf.</w>
@@ -869,14 +881,14 @@
   <w>nýtt</w>
   <w>dagblað</w>
   <c>,</c>
-  <w><i>Dag-Tímann</i></w>
+  <w><hi>Dag-Tímann</hi></w>
   <w>til</w>
   <w>að</w>
   <w>keppa</w>
   <w>við</w>
-  <w><i>Morgunblaðið</i></w>
+  <w><hi>Morgunblaðið</hi></w>
   <w>og</w>
-  <w><i>DV</i></w>
+  <w><hi>DV</hi></w>
   <c>.</c>
 </s><s n="37">
   <w>Hrafn</w>
@@ -891,7 +903,7 @@
   <w>skömmu</w>
   <w>síðar</w>
   <w>ritstjóri</w>
-  <w><i>Mannlífs</i></w>
+  <w><hi>Mannlífs</hi></w>
   <c>.</c>
 </s><s n="38">
   <w>Haustið</w>
@@ -1055,7 +1067,7 @@
   <w>stofnað</w>
   <w>um</w>
   <w>rekstur</w>
-  <w><i>Alþýðublaðsins</i></w>
+  <w><hi>Alþýðublaðsins</hi></w>
   <w>og</w>
   <w>gekk</w>
   <w>það</w>
@@ -1253,7 +1265,7 @@
   <w>nýs</w>
   <w>vikublaðs</w>
   <c>,</c>
-  <w><i>Pressunnar</i></w>
+  <w><hi>Pressunnar</hi></w>
   <c>,</c>
   <w>í</w>
   <w>gegnum</w>
@@ -1311,8 +1323,8 @@
   <w>sama</w>
   <w>tíma</w>
   <c>,</c>
-  <w><i>Örn</i></w>
-  <w><i>elding</i></w>
+  <w><hi>Örn</hi></w>
+  <w><hi>elding</hi></w>
   <revision id="27">
     <original><c>(</c></original>
     <corrected><c>,</c><w>eða</w></corrected>

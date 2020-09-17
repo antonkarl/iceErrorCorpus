@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Alajärvi</w>
+  <w>er</w>
+  <w>bær</w>
+  <w>í</w>
+  <w>Finnlandi</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Þar</w>
+  <w>búa</w>
+  <w>tæplega</w>
+  <w>10.000</w>
+  <w>manns</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Alvar</w>
+  <w>Aalto</w>
+  <w>bjó</w>
+  <w>í</w>
+  <w>Alajärvi</w>
+  <w>sem</w>
+  <w>ungur</w>
+  <w>maður</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Fyrsta</w>
+  <w>húsið</w>
+  <w>sem</w>
+  <w>Aalto</w>
+  <w>teiknaði</w>
+  <w>var</w>
+  <w>byggt</w>
+  <revision id="1">
+    <original><w>hér</w></original>
+    <corrected><w>þar</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

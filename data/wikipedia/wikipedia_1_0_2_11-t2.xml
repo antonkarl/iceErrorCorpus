@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_11-t2.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Hún</w>
@@ -279,7 +291,7 @@
   <c>„</c>
   <c>...</c>
   <revision id="13">
-    <original><w><i>feldi</i></w><w><i>blót</i></w><w><i>og</i></w><w><i>blótdrykkjur</i></w><w><i>og</i></w><w><i>lét</i></w><w><i>í</i></w><w><i>stað</i></w><w><i>koma</i></w><w><i>í</i></w><w><i>vild</i></w><w><i>við</i></w><w><i>lýðinn</i></w><w><i>hátíðardrykkjur</i></w><w><i>jól</i></w><w><i>og</i></w><w><i>páskar</i></w></original>
+    <original><w><hi>feldi</hi></w><w><hi>blót</hi></w><w><hi>og</hi></w><w><hi>blótdrykkjur</hi></w><w><hi>og</hi></w><w><hi>lét</hi></w><w><hi>í</hi></w><w><hi>stað</hi></w><w><hi>koma</hi></w><w><hi>í</hi></w><w><hi>vild</hi></w><w><hi>við</hi></w><w><hi>lýðinn</hi></w><w><hi>hátíðardrykkjur</hi></w><w><hi>jól</hi></w><w><hi>og</hi></w><w><hi>páskar</hi></w></original>
     <corrected><w>feldi</w><w>blót</w><w>og</w><w>blótdrykkjur</w><w>og</w><w>lét</w><w>í</w><w>stað</w><w>koma</w><w>í</w><w>vild</w><w>við</w><w>lýðinn</w><w>hátíðardrykkjur</w><w>jól</w><w>og</w><w>páskar</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -287,7 +299,7 @@
   </revision>
   <c>,</c>
   <revision id="14">
-    <original><w><i>Jónsmessu</i></w><w><i>munngát</i></w><w><i>og</i></w><w><i>haustöl</i></w><w><i>að</i></w><w><i>Mikjálsmessu</i></w></original>
+    <original><w><hi>Jónsmessu</hi></w><w><hi>munngát</hi></w><w><hi>og</hi></w><w><hi>haustöl</hi></w><w><hi>að</hi></w><w><hi>Mikjálsmessu</hi></w></original>
     <corrected><w>Jónsmessu</w><w>munngát</w><w>og</w><w>haustöl</w><w>að</w><w>Mikjálsmessu</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>

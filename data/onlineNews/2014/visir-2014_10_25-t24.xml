@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>visir-2014_10_25-t24.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <c>„</c>
@@ -132,7 +144,7 @@
   <c>„</c>
   <revision id="1">
     <original><w>Meadow</w></original>
-    <corrected><w><i>Meadow</i></w></corrected>
+    <corrected><w><hi>Meadow</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -308,7 +320,7 @@
   <c>,</c>
   <revision id="3">
     <original><w>Meadow</w></original>
-    <corrected><w><i>Meadow</i></w></corrected>
+    <corrected><w><hi>Meadow</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -336,7 +348,7 @@
   <w>sýningunni</w>
   <revision id="4">
     <original><w>Emotional</w></original>
-    <corrected><w><i>Emotional</i></w></corrected>
+    <corrected><w><hi>Emotional</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -414,7 +426,7 @@
   <w>Sýningin</w>
   <revision id="5">
     <original><w>Emotional</w></original>
-    <corrected><w><i>Emotional</i></w></corrected>
+    <corrected><w><hi>Emotional</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -426,7 +438,7 @@
   <c>,</c>
   <revision id="6">
     <original><w>Meadow</w></original>
-    <corrected><w><i>Meadow</i></w></corrected>
+    <corrected><w><hi>Meadow</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -434,7 +446,7 @@
   <w>og</w>
   <revision id="7">
     <original><w>EMO</w><w>1994</w></original>
-    <corrected><w><i>EMO</i></w><w><i>1994</i></w></corrected>
+    <corrected><w><hi>EMO</hi></w><w><hi>1994</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

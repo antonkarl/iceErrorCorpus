@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_9-t3.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Pólýfónkórinn</w>
@@ -62,7 +74,7 @@
   <c>(</c>
   <revision id="1">
     <original><w>a</w><w>cappella</w></original>
-    <corrected><w><i>a</i></w><w><i>cappella</i></w></corrected>
+    <corrected><w><hi>a</hi></w><w><hi>cappella</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -142,7 +154,7 @@
   <w>útgáfu</w>
   <w>plötunnar</w>
   <w>í</w>
-  <w><i>Tímanum</i></w>
+  <w><hi>Tímanum</hi></w>
   <revision id="3">
     <original><w>1973</w></original>
     <corrected><w>árið 1973</w></corrected>

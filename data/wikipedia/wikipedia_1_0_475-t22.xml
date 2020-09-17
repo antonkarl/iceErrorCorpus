@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_475-t22.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Hertogenbosch</w>
@@ -21,11 +33,11 @@
         <error xtype="missing-word" idx="2-2" eid="0"/>
       </errors>
   </revision>
-  <w><i>'s-Hertogenbosch</i></w>
+  <w><hi>'s-Hertogenbosch</hi></w>
   <w>eða</w>
   <w>bara</w>
-  <w><i>Den</i></w>
-  <w><i>Bosch</i></w>
+  <w><hi>Den</hi></w>
+  <w><hi>Bosch</hi></w>
   <revision id="3">
     <original><c>)</c></original>
     <corrected><c>,</c></corrected>
@@ -121,7 +133,7 @@
 </s><s n="6">
   <revision id="7">
     <original><w>Jazz</w><w>in</w><w>Duketown</w></original>
-    <corrected><w><i>Jazz</i></w><w><i>in</i></w><w><i>Duketown</i></w></corrected>
+    <corrected><w><hi>Jazz</hi></w><w><hi>in</hi></w><w><hi>Duketown</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -238,7 +250,7 @@
   <w>heitir</w>
   <revision id="8">
     <original><w>Herzogenbusch</w></original>
-    <corrected><w><i>Herzogenbusch</i></w></corrected>
+    <corrected><w><hi>Herzogenbusch</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -248,7 +260,7 @@
   <w>og</w>
   <revision id="9">
     <original><w>Bois-le-Duc</w></original>
-    <corrected><w><i>Bois-le-Duc</i></w></corrected>
+    <corrected><w><hi>Bois-le-Duc</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -309,7 +321,7 @@
   </revision>
   <w>sem</w>
   <w>kallast</w>
-  <w><i>Gerritje</i></w>
+  <w><hi>Gerritje</hi></w>
   <c>.</c>
 </s><s n="17">
   <w>Þekktasti</w>
@@ -383,8 +395,8 @@
   <w>og</w>
   <w>merkir</w>
   <revision id="11">
-    <original><w><i>skógur</i></w><w><i>hertogans</i></w><c>(</c><w>bosch</w><c>=</c><w><i>skógur</i></w></original>
-    <corrected><c>„</c><w>skógur</w><w>hertogans</w><c>“</c><c>,</c><w>þar</w><w>sem</w><w><i>bosch</i></w><w>merkir</w><c>„</c><w>skógur</w><c>“</c></corrected>
+    <original><w><hi>skógur</hi></w><w><hi>hertogans</hi></w><c>(</c><w>bosch</w><c>=</c><w><hi>skógur</hi></w></original>
+    <corrected><c>„</c><w>skógur</w><w>hertogans</w><c>“</c><c>,</c><w>þar</w><w>sem</w><w><hi>bosch</hi></w><w>merkir</w><c>„</c><w>skógur</w><c>“</c></corrected>
       <errors>
         <error xtype="missing-quots" idx="14-1" eid="0"/>
         <error xtype="it4nonit" idx="14-2" eid="0"/>
@@ -398,7 +410,7 @@
   </revision>
   <w>eða</w>
   <revision id="12">
-    <original><w><i>buskur</i></w><c>)</c></original>
+    <original><w><hi>buskur</hi></w><c>)</c></original>
     <corrected><c>„</c><w>buskur</w><c>“</c></corrected>
       <errors>
         <error xtype="missing-quots" idx="15-1" eid="0"/>
@@ -433,7 +445,7 @@
   <w>alþýðuheitinu</w>
   <revision id="13">
     <original><w>Den</w><w>Bosch</w></original>
-    <corrected><w><i>Den</i></w><w><i>Bosch</i></w></corrected>
+    <corrected><w><hi>Den</hi></w><w><hi>Bosch</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -442,7 +454,7 @@
   <w>sem</w>
   <w>merkir</w>
   <revision id="14">
-    <original><w><i>skógurinn</i></w></original>
+    <original><w><hi>skógurinn</hi></w></original>
     <corrected><c>„</c><w>skógurinn</w><c>“</c></corrected>
       <errors>
         <error xtype="missing-quots" idx="20-1" eid="0"/>
@@ -720,7 +732,7 @@
   <w>þar</w>
   <w>heitir</w>
   <w>hátíðin</w>
-  <w><i>Oeteldonk</i></w>
+  <w><hi>Oeteldonk</hi></w>
   <c>.</c>
 </s><s n="39">
   <w>Fáni</w>
@@ -923,7 +935,7 @@
   <w>stafsetning</w>
   <revision id="27">
     <original><w>er's-Hertogenbosch</w></original>
-    <corrected><w>er</w><w><i>'s-Hertogenbosch</i></w></corrected>
+    <corrected><w>er</w><w><hi>'s-Hertogenbosch</hi></w></corrected>
       <errors>
         <error xtype="missing-space" idx="16-1" eid="0"/>
         <error xtype="nonit4it" idx="16-2" eid="0"/>

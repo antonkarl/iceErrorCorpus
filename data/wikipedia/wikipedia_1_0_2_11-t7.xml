@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_11-t7.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Papparapapp</w>
@@ -50,7 +62,7 @@
   <w>í</w>
   <w>hendur</w>
   <revision id="2">
-    <original><w><i>Nóa</i></w></original>
+    <original><w><hi>Nóa</hi></w></original>
     <corrected><w>Nóa</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -68,9 +80,9 @@
   </revision>
   <c>.</c>
 </s><s n="3">
-  <w><i>Svaðilför</i></w>
-  <w><i>til</i></w>
-  <w><i>Sveppaborgar</i></w>
+  <w><hi>Svaðilför</hi></w>
+  <w><hi>til</hi></w>
+  <w><hi>Sveppaborgar</hi></w>
   <w>var</w>
   <w>gefin</w>
   <w>út</w>
@@ -109,15 +121,15 @@
   <w>tvær</w>
   <w>sögur</w>
   <c>:</c>
-  <w><i>Apana</i></w>
-  <w><i>hans</i></w>
-  <w><i>Nóa</i></w>
+  <w><hi>Apana</hi></w>
+  <w><hi>hans</hi></w>
+  <w><hi>Nóa</hi></w>
   <c>(</c>
   <w>franska</w>
   <c>:</c>
-  <w><i>Bravo</i></w>
-  <w><i>les</i></w>
-  <w><i>Brothers</i></w>
+  <w><hi>Bravo</hi></w>
+  <w><hi>les</hi></w>
+  <w><hi>Brothers</hi></w>
   <c>)</c>
   <c>(</c>
   <w>22</w>
@@ -219,7 +231,7 @@
   <c>.</c>
 </s><s n="10">
   <revision id="6">
-    <original><w><i>Ottó</i></w><w><i>Papparapapp</i></w></original>
+    <original><w><hi>Ottó</hi></w><w><hi>Papparapapp</hi></w></original>
     <corrected><w>Ottó</w><w>Papparapapp</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -259,7 +271,7 @@
 </s><s n="12">
   <revision id="7">
     <original><w>Svaðilför</w><w>til</w><w>Sveppaborgar</w></original>
-    <corrected><w><i>Svaðilför</i></w><w><i>til</i></w><w><i>Sveppaborgar</i></w></corrected>
+    <corrected><w><hi>Svaðilför</hi></w><w><hi>til</hi></w><w><hi>Sveppaborgar</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -267,9 +279,9 @@
   <c>(</c>
   <w>franska</w>
   <c>:</c>
-  <w><i>Panade</i></w>
-  <w><i>à</i></w>
-  <w><i>Champignac</i></w>
+  <w><hi>Panade</hi></w>
+  <w><hi>à</hi></w>
+  <w><hi>Champignac</hi></w>
   <c>)</c>
   <w>eftir</w>
   <w>Franquin</w>
@@ -286,7 +298,7 @@
 </s><s n="13">
   <w>Athafnamaðurinn</w>
   <revision id="8">
-    <original><w><i>herra</i></w><w><i>Seðlan</i></w></original>
+    <original><w><hi>herra</hi></w><w><hi>Seðlan</hi></w></original>
     <corrected><w>herra</w><w>Seðlan</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -375,15 +387,15 @@
   <w>fyrir</w>
   <w>í</w>
   <w>lok</w>
-  <w><i>Með</i></w>
-  <w><i>kveðju</i></w>
-  <w><i>frá</i></w>
+  <w><hi>Með</hi></w>
+  <w><hi>kveðju</hi></w>
+  <w><hi>frá</hi></w>
   <w><i/></w>
   <c>.</c>
 </s><s n="16">
-  <w><i>Aparnir</i></w>
-  <w><i>hans</i></w>
-  <w><i>Nóa</i></w>
+  <w><hi>Aparnir</hi></w>
+  <w><hi>hans</hi></w>
+  <w><hi>Nóa</hi></w>
   <w>gerist</w>
   <w>að</w>
   <w>mestu</w>

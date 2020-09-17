@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_18-t3.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Ferðin</w>
@@ -215,13 +227,13 @@
   <w>skil</w>
   <w>með</w>
   <w>bókinni</w>
-  <w><i>Um</i></w>
-  <w><i>uppruna</i></w>
-  <w><i>tegundanna</i></w>
+  <w><hi>Um</hi></w>
+  <w><hi>uppruna</hi></w>
+  <w><hi>tegundanna</hi></w>
   <c>(</c>
   <revision id="8">
     <original><w>On</w><w>the</w><w>Origin</w><w>of</w><w>Species</w></original>
-    <corrected><w><i>On</i></w><w><i>the</i></w><w><i>Origin</i></w><w><i>of</i></w><w><i>Species</i></w></corrected>
+    <corrected><w><hi>On</hi></w><w><hi>the</hi></w><w><hi>Origin</hi></w><w><hi>of</hi></w><w><hi>Species</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -361,12 +373,12 @@
         <error xtype="missing-words" eid="0"/>
       </errors>
   </revision>
-  <w><i>Um</i></w>
-  <w><i>látbrigði</i></w>
-  <w><i>tilfinninga</i></w>
-  <w><i>manna</i></w>
-  <w><i>og</i></w>
-  <w><i>dýra</i></w>
+  <w><hi>Um</hi></w>
+  <w><hi>látbrigði</hi></w>
+  <w><hi>tilfinninga</hi></w>
+  <w><hi>manna</hi></w>
+  <w><hi>og</hi></w>
+  <w><hi>dýra</hi></w>
   <revision id="11">
     <original><w>sagði</w><w>síðan</w></original>
     <corrected><w>kom</w><w>fram</w></corrected>
@@ -578,8 +590,8 @@
   <w>Það</w>
   <w>voru</w>
   <w>verkin</w>
-  <w><i>Afkoma</i></w>
-  <w><i>mannsins</i></w>
+  <w><hi>Afkoma</hi></w>
+  <w><hi>mannsins</hi></w>
   <w>sem</w>
   <w>fjallaði</w>
   <w>um</w>

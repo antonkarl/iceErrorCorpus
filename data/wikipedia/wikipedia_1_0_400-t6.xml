@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_400-t6.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Háskólinn</w>
@@ -9,8 +21,8 @@
   <c>(</c>
   <w>þýska</w>
   <c>:</c>
-  <w><i>Universität</i></w>
-  <w><i>Basel</i></w>
+  <w><hi>Universität</hi></w>
+  <w><hi>Basel</hi></w>
   <c>)</c>
   <w>er</w>
   <w>opinber</w>

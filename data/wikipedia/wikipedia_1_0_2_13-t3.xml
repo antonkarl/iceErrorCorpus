@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_13-t3.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Fyrsta</w>
@@ -11,7 +23,7 @@
   <w>í</w>
   <revision id="1">
     <original><w>Taxi</w><w>Killer</w></original>
-    <corrected><w><i>Taxi</i></w><w><i>Killer</i></w></corrected>
+    <corrected><w><hi>Taxi</hi></w><w><hi>Killer</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -34,34 +46,34 @@
   <w>á</w>
   <w>borð</w>
   <w>við</w>
-  <w><i>Straight</i></w>
-  <w><i>Talk</i></w>
+  <w><hi>Straight</hi></w>
+  <w><hi>Talk</hi></w>
   <c>,</c>
   <revision id="3">
     <original><w>The</w><w>Fugitive</w></original>
-    <corrected><w><i>The</i></w><w><i>Fugitive</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Fugitive</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
   </revision>
   <c>,</c>
-  <w><i>Best</i></w>
-  <w><i>in</i></w>
-  <w><i>Show</i></w>
+  <w><hi>Best</hi></w>
+  <w><hi>in</hi></w>
+  <w><hi>Show</hi></w>
   <c>,</c>
   <revision id="4">
     <original><w>Collateral</w><w>Damage</w></original>
-    <corrected><w><i>Collateral</i></w><w><i>Damage</i></w></corrected>
+    <corrected><w><hi>Collateral</hi></w><w><hi>Damage</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
   </revision>
   <c>,</c>
-  <w><i>Sleepover</i></w>
+  <w><hi>Sleepover</hi></w>
   <c>,</c>
   <revision id="5">
     <original><w>The</w><w>40</w><w>Year</w><w>Old</w><w>Virgin</w><c>,</c></original>
-    <corrected><w><i>The</i></w><w><i>40</i></w><w><i>Year</i></w><w><i>Old</i></w><w><i>Virgin</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>40</hi></w><w><hi>Year</hi></w><w><hi>Old</hi></w><w><hi>Virgin</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="38-1" eid="0"/>
         <error xtype="extra-comma" idx="38-2" eid="0"/>
@@ -70,18 +82,18 @@
   <c>,</c>
   <revision id="6">
     <original><w>Alvin</w><w>and</w><w>the</w><w>Chipmunks</w></original>
-    <corrected><w><i>Alvin</i></w><w><i>and</i></w><w><i>the</i></w><w><i>Chipmunks</i></w></corrected>
+    <corrected><w><hi>Alvin</hi></w><w><hi>and</hi></w><w><hi>the</hi></w><w><hi>Chipmunks</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
   </revision>
   <c>,</c>
-  <w><i>Tru</i></w>
-  <w><i>Love</i></w>
+  <w><hi>Tru</hi></w>
+  <w><hi>Love</hi></w>
   <w>og</w>
   <revision id="7">
     <original><w>Shrek</w><w>Forever</w><w>After</w></original>
-    <corrected><w><i>Shrek</i></w><w><i>Forever</i></w><w><i>After</i></w></corrected>
+    <corrected><w><hi>Shrek</hi></w><w><hi>Forever</hi></w><w><hi>After</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -106,7 +118,7 @@
   <w>í</w>
   <revision id="8">
     <original><w>The</w><w>L</w><w>Word</w></original>
-    <corrected><w><i>The</i></w><w><i>L</i></w><w><i>Word</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>L</hi></w><w><hi>Word</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -114,7 +126,7 @@
   <c>,</c>
   <revision id="9">
     <original><w>Criminal</w><w>Minds</w></original>
-    <corrected><w><i>Criminal</i></w><w><i>Minds</i></w></corrected>
+    <corrected><w><hi>Criminal</hi></w><w><hi>Minds</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -122,7 +134,7 @@
   <w>og</w>
   <revision id="10">
     <original><w>Two</w><w>and</w><w>a</w><w>Half</w><w>Men</w></original>
-    <corrected><w><i>Two</i></w><w><i>and</i></w><w><i>a</i></w><w><i>Half</i></w><w><i>Men</i></w></corrected>
+    <corrected><w><hi>Two</hi></w><w><hi>and</hi></w><w><hi>a</hi></w><w><hi>Half</hi></w><w><hi>Men</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -135,12 +147,12 @@
   <w>lék</w>
   <w>í</w>
   <w>verðlaunaleikritinu</w>
-  <w><i>Oh</i></w>
+  <w><hi>Oh</hi></w>
   <w>ZSister</w>
   <c>,</c>
   <w><i/></w>
-  <w><i>My</i></w>
-  <w><i>Sister</i></w>
+  <w><hi>My</hi></w>
+  <w><hi>Sister</hi></w>
   <c>.</c>
 </s><s n="5">
   <w>Lynch</w>
@@ -149,7 +161,7 @@
   <w>sinn</w>
   <w>hjá</w>
   <revision id="11">
-    <original><w><i>Steppenwolf</i></w><w><i>Theatre</i></w><w><i>Company</i></w></original>
+    <original><w><hi>Steppenwolf</hi></w><w><hi>Theatre</hi></w><w><hi>Company</hi></w></original>
     <corrected><w>Steppenwolf</w><w>Theatre</w><w>Company</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -158,7 +170,7 @@
   <w>og</w>
   <w>grínfarandleikhópnum</w>
   <revision id="12">
-    <original><w><i>The</i></w><w><i>Second</i></w><w><i>City</i></w></original>
+    <original><w><hi>The</hi></w><w><hi>Second</hi></w><w><hi>City</hi></w></original>
     <corrected><w>The</w><w>Second</w><w>City</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -191,13 +203,13 @@
   </revision>
   <w>í</w>
   <w>sjónvarpsmyndinni</w>
-  <w><i>In</i></w>
-  <w><i>the</i></w>
-  <w><i>Best</i></w>
-  <w><i>Interest</i></w>
-  <w><i>of</i></w>
-  <w><i>the</i></w>
-  <w><i>Children</i></w>
+  <w><hi>In</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>Best</hi></w>
+  <w><hi>Interest</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>Children</hi></w>
   <revision id="14">
     <original/>
     <corrected><w>árið 1992</w></corrected>
@@ -218,7 +230,7 @@
   <w>kynnir</w>
   <w>á</w>
   <revision id="16">
-    <original><w><i>Do</i></w><w><i>Something</i></w><w>verðlaunahátíðinni</w></original>
+    <original><w><hi>Do</hi></w><w><hi>Something</hi></w><w>verðlaunahátíðinni</w></original>
     <corrected><w>Do</w><w>Something-verðlaunahátíðinni</w></corrected>
       <errors>
         <error xtype="it4nonit" idx="10-1" eid="0"/>
@@ -286,8 +298,8 @@
   <w>skrifaði</w>
   <w>ævisögu</w>
   <w>sína</w>
-  <w><i>Happy</i></w>
-  <w><i>Accidents</i></w>
+  <w><hi>Happy</hi></w>
+  <w><hi>Accidents</hi></w>
   <w>sem</w>
   <w>var</w>
   <w>gefin</w>
@@ -296,7 +308,7 @@
   <w>2011</w>
   <w>af</w>
   <revision id="20">
-    <original><w><i>Hyperion</i></w><w><i>Voice</i></w></original>
+    <original><w><hi>Hyperion</hi></w><w><hi>Voice</hi></w></original>
     <corrected><w>Hyperion</w><w>Voice</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -322,11 +334,11 @@
   <w>Carol</w>
   <w>Brady</w>
   <w>í</w>
-  <w><i>The</i></w>
-  <w><i>Real</i></w>
-  <w><i>Live</i></w>
-  <w><i>Brady</i></w>
-  <w><i>Bunch</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Real</hi></w>
+  <w><hi>Live</hi></w>
+  <w><hi>Brady</hi></w>
+  <w><hi>Bunch</hi></w>
   <c>.</c>
 </s><s n="11">
   <w>Lynch</w>
@@ -342,17 +354,17 @@
   <w>við</w>
   <revision id="21">
     <original><w>Party</w><w>of</w><w>Five</w></original>
-    <corrected><w><i>Party</i></w><w><i>of</i></w><w><i>Five</i></w></corrected>
+    <corrected><w><hi>Party</hi></w><w><hi>of</hi></w><w><hi>Five</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
   </revision>
   <c>,</c>
-  <w><i>NewsRadio</i></w>
+  <w><hi>NewsRadio</hi></w>
   <c>,</c>
   <revision id="22">
     <original><w>3rd</w><w>Rock</w><w>from</w><w>the</w><w>Sun</w></original>
-    <corrected><w><i>3rd</i></w><w><i>Rock</i></w><w><i>from</i></w><w><i>the</i></w><w><i>Sun</i></w></corrected>
+    <corrected><w><hi>3rd</hi></w><w><hi>Rock</hi></w><w><hi>from</hi></w><w><hi>the</hi></w><w><hi>Sun</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -360,7 +372,7 @@
   <c>,</c>
   <revision id="23">
     <original><w>Frasier</w></original>
-    <corrected><w><i>Frasier</i></w></corrected>
+    <corrected><w><hi>Frasier</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -368,7 +380,7 @@
   <c>,</c>
   <revision id="24">
     <original><w>JAG</w></original>
-    <corrected><w><i>JAG</i></w></corrected>
+    <corrected><w><hi>JAG</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -376,7 +388,7 @@
   <c>,</c>
   <revision id="25">
     <original><w>Gilmore</w><w>Girls</w></original>
-    <corrected><w><i>Gilmore</i></w><w><i>Girls</i></w></corrected>
+    <corrected><w><hi>Gilmore</hi></w><w><hi>Girls</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -384,7 +396,7 @@
   <c>,</c>
   <revision id="26">
     <original><w>The</w><w>West</w><w>Wing</w></original>
-    <corrected><w><i>The</i></w><w><i>West</i></w><w><i>Wing</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>West</hi></w><w><hi>Wing</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -392,7 +404,7 @@
   <c>,</c>
   <revision id="27">
     <original><w>Boston</w><w>Public</w></original>
-    <corrected><w><i>Boston</i></w><w><i>Public</i></w></corrected>
+    <corrected><w><hi>Boston</hi></w><w><hi>Public</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -400,7 +412,7 @@
   <c>,</c>
   <revision id="28">
     <original><w>Friends</w></original>
-    <corrected><w><i>Friends</i></w></corrected>
+    <corrected><w><hi>Friends</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -408,7 +420,7 @@
   <c>,</c>
   <revision id="29">
     <original><w>Monk</w><c>,,</c><w>Weeds</w></original>
-    <corrected><w><i>Monk</i></w><c>,</c><w><i>Weeds</i></w></corrected>
+    <corrected><w><hi>Monk</hi></w><c>,</c><w><hi>Weeds</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -416,7 +428,7 @@
   <w>og</w>
   <revision id="30">
     <original><w>Desperate</w><w>Housewives</w></original>
-    <corrected><w><i>Desperate</i></w><w><i>Housewives</i></w></corrected>
+    <corrected><w><hi>Desperate</hi></w><w><hi>Housewives</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -440,7 +452,7 @@
   <w>söngþættinum</w>
   <revision id="32">
     <original><w>Glee</w></original>
-    <corrected><w><i>Glee</i></w></corrected>
+    <corrected><w><hi>Glee</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -469,7 +481,7 @@
   <w>í</w>
   <revision id="33">
     <original><w>Glee</w></original>
-    <corrected><w><i>Glee</i></w></corrected>
+    <corrected><w><hi>Glee</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -477,7 +489,7 @@
   <c>,</c>
   <revision id="34">
     <original><w>Two</w><w>and</w><w>a</w><w>Half</w><w>Men</w></original>
-    <corrected><w><i>Two</i></w><w><i>and</i></w><w>Za</w><w><i>Half</i></w><w><i>Men</i></w></corrected>
+    <corrected><w><hi>Two</hi></w><w><hi>and</hi></w><w>Za</w><w><hi>Half</hi></w><w><hi>Men</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -485,7 +497,7 @@
   <c>,</c>
   <revision id="35">
     <original><w>Criminal</w><w>Minds</w></original>
-    <corrected><w><i>Criminal</i></w><w><i>Minds</i></w></corrected>
+    <corrected><w><hi>Criminal</hi></w><w><hi>Minds</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -493,7 +505,7 @@
   <w>og</w>
   <revision id="36">
     <original><w>The</w><w>L</w><w>Word</w></original>
-    <corrected><w><i>The</i></w><w><i>L</i></w><w><i>Word</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>L</hi></w><w><hi>Word</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -516,7 +528,7 @@
   <w>leiklist</w>
   <w>frá</w>
   <revision id="38">
-    <original><w><i>Ríkisháskólanum</i></w><w><i>í</i></w><w><i>Illinois</i></w></original>
+    <original><w><hi>Ríkisháskólanum</hi></w><w><hi>í</hi></w><w><hi>Illinois</hi></w></original>
     <corrected><w>ríkisháskólanum</w><w>í</w><w>Illinois</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>

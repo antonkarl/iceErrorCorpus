@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_3-t5.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Björn</w>
@@ -181,7 +193,7 @@
   <w>hans</w>
   <revision id="5">
     <original><w>Hafskip</w><w>í</w><w>skotlínu</w><c>,</c></original>
-    <corrected><w><i>Hafskip</i></w><w><i>í</i></w><w><i>skotlínu</i></w></corrected>
+    <corrected><w><hi>Hafskip</hi></w><w><hi>í</hi></w><w><hi>skotlínu</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="5-1" eid="0" />
         <error xtype="extra-comma" idx="5-2" eid="0" />
@@ -218,7 +230,7 @@
   <w>eru</w>
   <revision id="7">
     <original><c>„</c><w>Áhrif</w><w>veðurfars</w><w>á</w><w>sjávarútveg</w><w>og</w><w>landbúnað</w><w>á</w><w>fyrri</w><w>öldum</w><c>“</c></original>
-    <corrected><w><i>Áhrif</i></w><w><i>veðurfars</i></w><w><i>á</i></w><w><i>sjávarútveg</i></w><w><i>og</i></w><w><i>landbúnað</i></w><w><i>á</i></w><w><i>fyrri</i></w><w><i>öldum</i></w></corrected>
+    <corrected><w><hi>Áhrif</hi></w><w><hi>veðurfars</hi></w><w><hi>á</hi></w><w><hi>sjávarútveg</hi></w><w><hi>og</hi></w><w><hi>landbúnað</hi></w><w><hi>á</hi></w><w><hi>fyrri</hi></w><w><hi>öldum</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="7-1" eid="0" />
         <error xtype="nonit4it" idx="7-2" eid="0" />
@@ -230,7 +242,7 @@
   <w>í</w>
   <revision id="8">
     <original><c>"</c><w>Sögnum</w><c>.</c><w>Tímariti</w><w>um</w><w>söguleg</w><w>efni</w><c>"</c></original>
-    <corrected><w><i>Sögnum</i></w><c>–</c><w><i>Tímariti</i></w><w><i>um</i></w><w><i>söguleg</i></w><w><i>efni</i></w></corrected>
+    <corrected><w><hi>Sögnum</hi></w><c>–</c><w><hi>Tímariti</hi></w><w><hi>um</hi></w><w><hi>söguleg</hi></w><w><hi>efni</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="8-1" eid="0" />
         <error xtype="period4dash" idx="8-2" eid="0" />
@@ -241,7 +253,7 @@
   <c>;</c>
   <revision id="9">
     <original><c>„</c><w>Pólitískar</w><w>afleiðingar</w><w>Hafskipsmálsins</w><c>“</c></original>
-    <corrected><w><i>Pólitískar</i></w><w><i>afleiðingar</i></w><w><i>Hafskipsmálsins</i></w></corrected>
+    <corrected><w><hi>Pólitískar</hi></w><w><hi>afleiðingar</hi></w><w><hi>Hafskipsmálsins</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="9-1" eid="0" />
         <error xtype="nonit4it" idx="9-2" eid="0" />
@@ -254,7 +266,7 @@
   <w>hefti</w>
   <revision id="10">
     <original><c>"</c><w>Þjóðmála</w><c>"</c></original>
-    <corrected><w><i>Þjóðmála</i></w></corrected>
+    <corrected><w><hi>Þjóðmála</hi></w></corrected>
       <errors>
          <error xtype="extra-quots" idx="10-1" eid="0" />
         <error xtype="nonit4it" idx="10-2" eid="0" />
@@ -264,7 +276,7 @@
   <c>;</c>
   <revision id="11">
     <original><c>„</c><w>Björgunarmönnum</w><w>refsað</w><c>.</c><w>Rannsóknarnefnd</w><w>Alþingis</w><w>í</w><w>Hafskipsmálinu</w><c>“</c></original>
-    <corrected><w><i>Björgunarmönnum</i></w><w><i>refsað</i></w><c>,</c><w><i>Rannsóknarnefnd</i></w><w><i>Alþingis</i></w><w><i>í</i></w><w><i>Hafskipsmálinu</i></w></corrected>
+    <corrected><w><hi>Björgunarmönnum</hi></w><w><hi>refsað</hi></w><c>,</c><w><hi>Rannsóknarnefnd</hi></w><w><hi>Alþingis</hi></w><w><hi>í</hi></w><w><hi>Hafskipsmálinu</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="11-1" eid="0" />
         <error xtype="nonit4it" idx="11-2" eid="0" />
@@ -275,7 +287,7 @@
   <w>sem</w>
   <w>birtist</w>
   <w>í</w>
-  <w><i>Morgunblaðinu</i></w>
+  <w><hi>Morgunblaðinu</hi></w>
   <w>11. október 2009</w>
   <w>og</w>
   <w>byggði</w>
@@ -286,7 +298,7 @@
   <c>;</c>
   <revision id="12">
     <original><c>„</c><w>Aðdragandinn</w><w>að</w><w>falli</w><w>Straums</w><w>Burðaráss</w><c>“</c></original>
-    <corrected><w><i>Aðdragandinn</i></w><w><i>að</i></w><w><i>falli</i></w><w><i>Straums</i></w><w><i>Burðaráss</i></w></corrected>
+    <corrected><w><hi>Aðdragandinn</hi></w><w><hi>að</hi></w><w><hi>falli</hi></w><w><hi>Straums</hi></w><w><hi>Burðaráss</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="12-1" eid="0" />
         <error xtype="nonit4it" idx="12-2" eid="0" />
@@ -304,7 +316,7 @@
   <c>;</c>
   <revision id="13">
     <original><c>„</c><w>Aðdragandi</w><w>falls</w><w>Landsbanka</w><w>Íslands</w><w>hf.</w><c>“</c><w>Greinargerð</w><w>frá</w><w>ágústmánuði</w><w>2010</w></original>
-    <corrected><w><i>Aðdragandi</i></w><w><i>falls</i></w><w><i>Landsbanka</i></w><w><i>Íslands</i></w><w><i>hf.</i></w><w><i>Greinargerð</i></w><w><i>frá</i></w><w><i>ágústmánuði</i></w><w><i>2010</i></w></corrected>
+    <corrected><w><hi>Aðdragandi</hi></w><w><hi>falls</hi></w><w><hi>Landsbanka</hi></w><w><hi>Íslands</hi></w><w><hi>hf.</hi></w><w><hi>Greinargerð</hi></w><w><hi>frá</hi></w><w><hi>ágústmánuði</hi></w><w><hi>2010</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="13-1" eid="0" />
         <error xtype="nonit4it" idx="13-2" eid="0" />
@@ -317,7 +329,7 @@
   <c>;</c>
   <revision id="14">
     <original><c>„</c><w>Sagan</w><w>af</w><w>einkavæðingu</w><w>Búnaðarbankans</w><c>“</c></original>
-    <corrected><w><i>Sagan</i></w><w><i>af</i></w><w><i>einkavæðingu</i></w><w><i>Búnaðarbankans</i></w></corrected>
+    <corrected><w><hi>Sagan</hi></w><w><hi>af</hi></w><w><hi>einkavæðingu</hi></w><w><hi>Búnaðarbankans</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="14-1" eid="0" />
         <error xtype="nonit4it" idx="14-2" eid="0" />
@@ -330,12 +342,12 @@
   <w>2.</w>
   <w>hefti</w>
   <w>tímaritsins</w>
-  <w><i>Sögu</i></w>
+  <w><hi>Sögu</hi></w>
   <w>árið 2011</w>
   <c>;</c>
   <revision id="15">
     <original><c>„</c><w>Skáldkonan</w><w>frá</w><w>Sveinatungu</w><c>“</c></original>
-    <corrected><w><i>Skáldkonan</i></w><w><i>frá</i></w><w><i>Sveinatungu</i></w></corrected>
+    <corrected><w><hi>Skáldkonan</hi></w><w><hi>frá</hi></w><w><hi>Sveinatungu</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="15-1" eid="0" />
         <error xtype="nonit4it" idx="15-2" eid="0" />
@@ -344,7 +356,7 @@
   <w>sem</w>
   <w>birtist</w>
   <w>í</w>
-  <w><i>Borgfirðingabók</i></w>
+  <w><hi>Borgfirðingabók</hi></w>
   <w>2012</w>
   <c>.</c>
 </s>
@@ -650,7 +662,7 @@
   <c>,</c>
   <revision id="21">
     <original><w>WOSM</w></original>
-    <corrected><w><i>WOSM</i></w></corrected>
+    <corrected><w><hi>WOSM</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -670,7 +682,7 @@
   <w>vegum</w>
   <revision id="22">
     <original><w>Boy</w><w>Scouts</w><w>of</w><w>America</w></original>
-    <corrected><w><i>Boy</i></w><w><i>Scouts</i></w><w><i>of</i></w><w><i>America</i></w></corrected>
+    <corrected><w><hi>Boy</hi></w><w><hi>Scouts</hi></w><w><hi>of</hi></w><w><hi>America</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>

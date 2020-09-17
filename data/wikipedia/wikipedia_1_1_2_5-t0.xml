@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_5-t0.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Rapprokk</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>rap</i></w>
-  <w><i>rock</i></w>
+  <w><hi>rap</hi></w>
+  <w><hi>rock</hi></w>
   <c>)</c>
   <w>er</w>
   <w>tónlistarstefna</w>
@@ -153,7 +165,7 @@
   <c>,</c>
   <revision id="14">
     <original><w>nu-metal</w></original>
-    <corrected><w>einnig</w><w>skilgreina</w><w>blönduðu</w><w>stefnurnar</w><w>nýþungarokk</w><c>(</c><w><i>nu-metal</i></w><c>)</c></corrected>
+    <corrected><w>einnig</w><w>skilgreina</w><w>blönduðu</w><w>stefnurnar</w><w>nýþungarokk</w><c>(</c><w><hi>nu-metal</hi></w><c>)</c></corrected>
       <errors>
         <error xtype="dep" depId="13-1" eid="0" />
       </errors>
@@ -162,7 +174,7 @@
   <w>rappkjarna</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>rapcore</i></w>
+  <w><hi>rapcore</hi></w>
   <c>)</c>
   <c>.</c>
 </s>
@@ -276,7 +288,7 @@
 <s n="7">
   <revision id="25">
     <original><w>Auk</w><w>þess</w><w>sérðu</w><w>oft</w><w>eletrónískan</w><c>„</c><w>sampling</w><c>“</c><c>-</c><w>búnað</w></original>
-    <corrected><w>Oft</w><w>nota</w><w>hljómsveitir</w><w>rafknúinn</w><w>hljóðsmölunarbúnað</w><c>(</c><w>e.</w><w><i>sampling</i></w><c>)</c></corrected>
+    <corrected><w>Oft</w><w>nota</w><w>hljómsveitir</w><w>rafknúinn</w><w>hljóðsmölunarbúnað</w><c>(</c><w>e.</w><w><hi>sampling</hi></w><c>)</c></corrected>
       <errors>
         <error xtype="wording" eid="0" />
       </errors>
@@ -284,7 +296,7 @@
   <c>,</c>
   <revision id="26">
     <original><c>„</c><w>scratch</w><w>pads</w><c>“</c></original>
-    <corrected><w>spjaldtölvur</w><w>með</w><w>plötusnúðaforritum</w><c>(</c><w>e.</w><w><i>scratch</i></w><w><i>pads</i></w><c>)</c></corrected>
+    <corrected><w>spjaldtölvur</w><w>með</w><w>plötusnúðaforritum</w><c>(</c><w>e.</w><w><hi>scratch</hi></w><w><hi>pads</hi></w><c>)</c></corrected>
       <errors>
         <error xtype="missing-words" eid="0" />
         <error xtype="extra-quots" idx="26-1" eid="0" />
@@ -381,7 +393,7 @@
   <w>Rappkjarni</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>rapcore</i></w>
+  <w><hi>rapcore</hi></w>
   <c>)</c>
   <w>er</w>
   <revision id="35">
@@ -609,7 +621,7 @@
   <w>endurgerð</w>
   <revision id="53">
     <original><w>af</w><w>smelli</w><c>(</c><w>e.</w><w>hit</w><w>song</w><c>)</c><w>hljómsveitarinnar</w><c>„</c><w>Walk</w><w>This</w><w>Way</w><c>“</c></original>
-    <corrected><w>á</w><w>smellinum</w><w><i>Walk</i></w><w><i>This</i></w><w><i>Way</i></w><w>með</w><w>rokkhljómsveitinni</w><w>Aerosmith</w><w>árið 1986</w><c>,</c><w>í</w><w>samstarfi</w><w>við</w><w>Run-DMC</w><c>,</c><w>eina</w><w>af</w><w>stærstu</w><w>rapphljómsveitum</w><w>áratugarins</w></corrected>
+    <corrected><w>á</w><w>smellinum</w><w><hi>Walk</hi></w><w><hi>This</hi></w><w><hi>Way</hi></w><w>með</w><w>rokkhljómsveitinni</w><w>Aerosmith</w><w>árið 1986</w><c>,</c><w>í</w><w>samstarfi</w><w>við</w><w>Run-DMC</w><c>,</c><w>eina</w><w>af</w><w>stærstu</w><w>rapphljómsveitum</w><w>áratugarins</w></corrected>
       <errors>
         <error xtype="dep" depId="51-1" eid="0" />
       </errors>
@@ -834,7 +846,7 @@
   <w>og</w>
   <revision id="77">
     <original><c>„</c><w>Walk</w><w>This</w><w>Way</w><c>“</c></original>
-    <corrected><w><i>Walk</i></w><w><i>This</i></w><w><i>Way</i></w></corrected>
+    <corrected><w><hi>Walk</hi></w><w><hi>This</hi></w><w><hi>Way</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="77-1" eid="0" />
         <error xtype="nonit4it" idx="77-1" eid="0" />
@@ -880,11 +892,11 @@
   </revision>
   <w>út</w>
   <w>plötuna</w>
-  <w><i>Licensed</i></w>
-  <w><i>to</i></w>
+  <w><hi>Licensed</hi></w>
+  <w><hi>to</hi></w>
   <revision id="82">
-    <original><w><i>ill</i></w><c>,</c><w>meiriháttar</w><w>partýplötu</w></original>
-    <corrected><w><i>Ill</i></w><c>.</c><w>Hún</w><w>var</w><w>meiri</w><w>háttar</w><w>stuðplata</w></corrected>
+    <original><w><hi>ill</hi></w><c>,</c><w>meiriháttar</w><w>partýplötu</w></original>
+    <corrected><w><hi>Ill</hi></w><c>.</c><w>Hún</w><w>var</w><w>meiri</w><w>háttar</w><w>stuðplata</w></corrected>
       <errors>
         <error xtype="lower4upper-proper" idx="82-1" eid="0" />
         <error xtype="foreign-error" idx="82-1" eid="0" />
@@ -924,16 +936,16 @@
         <error xtype="wording" idx="85-1" eid="0" />
       </errors>
   </revision>
-  <w><i>It</i></w>
-  <w><i>Takes</i></w>
-  <w><i>a</i></w>
-  <w><i>Nation</i></w>
-  <w><i>of</i></w>
-  <w><i>Millions</i></w>
-  <w><i>to</i></w>
-  <w><i>Hold</i></w>
-  <w><i>Us</i></w>
-  <w><i>Back</i></w>
+  <w><hi>It</hi></w>
+  <w><hi>Takes</hi></w>
+  <w><hi>a</hi></w>
+  <w><hi>Nation</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>Millions</hi></w>
+  <w><hi>to</hi></w>
+  <w><hi>Hold</hi></w>
+  <w><hi>Us</hi></w>
+  <w><hi>Back</hi></w>
   <revision id="86">
     <original></original>
     <corrected><w>með</w><w>Public</w><w>Enemy</w><c>.</c><w>Í</w><w>einu</w><w>laginu</w><w>notuðu</w><w>Public</w><w>Enemy</w></corrected>
@@ -1273,9 +1285,9 @@
       </errors>
   </revision>
   <w>þeirra</w>
-  <w><i>Licensed</i></w>
-  <w><i>to</i></w>
-  <w><i>ill</i></w>
+  <w><hi>Licensed</hi></w>
+  <w><hi>to</hi></w>
+  <w><hi>ill</hi></w>
   <revision id="115">
     <original><w>og</w><w>ákváð</w><w>gamla</w><w>pönktríóið</w></original>
     <corrected><c>.</c><w>Tríóið</w><c>,</c><w>sem</w><w>upphaflega</w><w>spilaði</w><w>pönk</w><c>,</c><w>ákvað</w></corrected>
@@ -1312,9 +1324,9 @@
         <error xtype="wording" idx="118-1" eid="0" />
       </errors>
   </revision>
-  <w><i>Check</i></w>
-  <w><i>Your</i></w>
-  <w><i>Head</i></w>
+  <w><hi>Check</hi></w>
+  <w><hi>Your</hi></w>
+  <w><hi>Head</hi></w>
   <revision id="119">
     <original><c>(</c><w>1992</w><c>)</c></original>
     <corrected></corrected>
@@ -1509,8 +1521,8 @@
         <error xtype="wording" idx="137-1" eid="0" />
       </errors>
   </revision>
-  <w><i>Significant</i></w>
-  <w><i>Other</i></w>
+  <w><hi>Significant</hi></w>
+  <w><hi>Other</hi></w>
   <revision id="138">
     <original></original>
     <corrected><c>,</c></corrected>
@@ -1618,8 +1630,8 @@
 <s n="29">
   <w>Eftir</w>
   <w>vinsældir</w>
-  <w><i>Significant</i></w>
-  <w><i>Other</i></w>
+  <w><hi>Significant</hi></w>
+  <w><hi>Other</hi></w>
   <w>áttu</w>
   <w>rapprokkhljómsveitir</w>
   <w>mun</w>
@@ -1716,8 +1728,8 @@
   <c>,</c>
   <w>út</w>
   <w>plötuna</w>
-  <w><i>Hybrid</i></w>
-  <w><i>Theory</i></w>
+  <w><hi>Hybrid</hi></w>
+  <w><hi>Theory</hi></w>
   <w>sem</w>
   <w>naut</w>
   <revision id="156">
@@ -1750,7 +1762,7 @@
   </revision>
   <w>með</w>
   <revision id="159">
-    <original><w>að</w><w>toppa</w><w>vinsældir</w><w><i>Significant</i></w><w><i>other</i></w><w>á</w><w>nýrri</w><w>plötum</w><w>hljómsveitarinnar</w><c>,</c><w>og</w></original>
+    <original><w>að</w><w>toppa</w><w>vinsældir</w><w><hi>Significant</hi></w><w><hi>other</hi></w><w>á</w><w>nýrri</w><w>plötum</w><w>hljómsveitarinnar</w><c>,</c><w>og</w></original>
     <corrected><w>útgáfu</w><w>nýju</w><w>platna</w><w>sinna</w><c>.</c><w>Þeir</w><w>þurftu</w><w>líka</w><w>að</w><w>keppa</w><w>við</w></corrected>
       <errors>
         <error xtype="wording" eid="0" />
@@ -1818,8 +1830,8 @@
   <w>Jay-Z</w>
   <w>á</w>
   <w>plötunni</w>
-  <w><i>Collision</i></w>
-  <w><i>Course</i></w>
+  <w><hi>Collision</hi></w>
+  <w><hi>Course</hi></w>
   <w>sem</w>
   <w>kom</w>
   <w>út</w>

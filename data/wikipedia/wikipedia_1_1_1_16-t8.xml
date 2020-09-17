@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_16-t8.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Skjaldarmerki</w>
@@ -338,7 +350,7 @@
   <w>sem</w>
   <w>merkir</w>
   <revision id="9">
-    <original><w><i>eikartré</i></w></original>
+    <original><w><hi>eikartré</hi></w></original>
     <corrected><c>‚</c><w>eikartré</w><c>‘</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="7-1" eid="0"/>
@@ -926,7 +938,7 @@
   <w>orðunum</w>
   <revision id="24">
     <original><w>Deor</w></original>
-    <corrected><c>‚</c><w><i>deor</i></w><c>‘</c></corrected>
+    <corrected><c>‚</c><w><hi>deor</hi></w><c>‘</c></corrected>
       <errors>
         <error xtype="missing-quots" idx="2-1" eid="0"/>
         <error xtype="upper4lower-common" idx="2-1" eid="0"/>
@@ -937,7 +949,7 @@
   <w>sem</w>
   <w>merkir</w>
   <revision id="25">
-    <original><w><i>rádýr</i></w></original>
+    <original><w><hi>rádýr</hi></w></original>
     <corrected><c>‚</c><w>rádýr</w><c>‘</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="3-1" eid="0"/>
@@ -946,7 +958,7 @@
   </revision>
   <c>(</c>
   <w>sbr.</w>
-  <w><i>deer</i></w>
+  <w><hi>deer</hi></w>
   <w>á</w>
   <w>nútímaensku</w>
   <c>)</c>
@@ -959,7 +971,7 @@
         <error xtype="missing-quots" idx="4-1" eid="0"/>
       </errors>
   </revision>
-  <w><i>by</i></w>
+  <w><hi>by</hi></w>
   <revision id="27">
     <original/>
     <corrected><c>‘</c></corrected>
@@ -971,7 +983,7 @@
   <w>sem</w>
   <w>merkir</w>
   <revision id="28">
-    <original><w><i>bær</i></w></original>
+    <original><w><hi>bær</hi></w></original>
     <corrected><c>‚</c><w>bær</w><c>‘</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="6-1" eid="0"/>

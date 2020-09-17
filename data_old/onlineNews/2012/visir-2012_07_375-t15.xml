@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Heilbrigðisyfirvöld</w>
+  <w>í</w>
+  <w>Kambódíu</w>
+  <revision id="1">
+    <original><w>eru</w><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="cont4simple" eid="0" />
+      </errors>
+  </revision>
+  <w>leita</w>
+  <revision id="2">
+    <original><w>að</w><w>orsökum</w></original>
+    <corrected><w>orsaka</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>óþekkts</w>
+  <w>sjúkdóms</w>
+  <w>sem</w>
+  <w>hefur</w>
+  <w>orðið</w>
+  <w>meira</w>
+  <w>en</w>
+  <w>60</w>
+  <w>börnum</w>
+  <w>að</w>
+  <w>bana</w>
+  <w>á</w>
+  <w>síðustu</w>
+  <w>þremur</w>
+  <w>mánuðum</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Alþjóða</w>
+  <w>heilbrigðismálastofnunin</w>
+  <w>greindi</w>
+  <w>frá</w>
+  <w>þessu</w>
+  <w>í</w>
+  <w>morgun</w>
+  <c>,</c>
+  <revision id="3">
+    <original><w>samkvæmt</w><w>frásögn</w></original>
+    <corrected><w>að</w><w>sögn</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>AP</w>
+  <w>fréttastofunnar</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <revision id="4">
+    <original><w>AP</w><w>fréttastofan</w></original>
+    <corrected><w>Fréttastofan</w></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
+  <w>segir</w>
+  <revision id="5">
+    <original><w>líka</w><w>að</w><w>það</w><w>séu</w></original>
+    <corrected><w>jafnframt</w></corrected>
+      <errors>
+        <error xtype="wording" idx="5-1" eid="0" />
+        <error xtype="extra-words" idx="5-2" eid="0" />
+      </errors>
+  </revision>
+  <w>engin</w>
+  <w>ummerki</w>
+  <revision id="6">
+    <original><w>þess</w></original>
+    <corrected><w>benda</w><w>til</w><w>þess</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>sjúkdómurinn</w>
+  <w>berist</w>
+  <revision id="7">
+    <original><w>á</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
+  <w>milli</w>
+  <w>manna</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Aphaluck</w>
+  <w>Bhatiasevi</w>
+  <revision id="8">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-commas" idx="8-1" eid="0" />
+      </errors>
+  </revision>
+  <w>talsmaður</w>
+  <w>Alþjóðaheilbrigðismálastofnunarinnar</w>
+  <revision id="9">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="8-1" eid="0" />
+      </errors>
+  </revision>
+  <w>segir</w>
+  <w>að</w>
+  <w>heilbrigðisstarfsmenn</w>
+  <revision id="10">
+    <original><w>séu</w><w>að</w><w>skoða</w></original>
+    <corrected><w>skoði</w></corrected>
+      <errors>
+        <error xtype="cont4simple" eid="0" />
+      </errors>
+  </revision>
+  <w>hvort</w>
+  <w>um</w>
+  <w>sé</w>
+  <w>að</w>
+  <w>ræða</w>
+  <w>einn</w>
+  <w>sjúkdóm</w>
+  <w>eða</w>
+  <w>samansafn</w>
+  <revision id="11">
+    <original><w>af</w><w>mörgum</w><w>sjúkdómum</w></original>
+    <corrected><w>margra</w><w>sjúkdóma</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Börnin</w>
+  <w>sem</w>
+  <w>létust</w>
+  <w>voru</w>
+  <w>yngri</w>
+  <w>en</w>
+  <w>tíu</w>
+  <w>ára</w>
+  <w>og</w>
+  <w>fengu</w>
+  <w>upphaflega</w>
+  <revision id="12">
+    <original><w>mkinn</w></original>
+    <corrected><w>mikinn</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="12-1" eid="0" />
+        <error xtype="nonword" idx="12-1" eid="0" />
+      </errors>
+  </revision>
+  <w>hita</w>
+  <revision id="13">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>en</w>
+  <w>á</w>
+  <w>eftir</w>
+  <w>fylgdu</w>
+  <w>ýmis</w>
+  <w>einkenni</w>
+  <w>taugasjúkdóma</w>
+  <w>og</w>
+  <w>öndunarerfiðleikar</w>
+  <revision id="14">
+    <original><c>.</c><w>Þau</w></original>
+    <corrected><w>en</w><w>þau</w></corrected>
+      <errors>
+        <error xtype="period4conjunction" eid="0" />
+      </errors>
+  </revision>
+  <w>einkenni</w>
+  <w>versnuðu</w>
+  <w>fljótlega</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Sjúkdómseinkennin</w>
+  <w>hafa</w>
+  <w>fundist</w>
+  <w>í</w>
+  <w>börnum</w>
+  <w>í</w>
+  <w>fjórtán</w>
+  <w>héruðum</w>
+  <w>í</w>
+  <w>suðurhluta</w>
+  <w>Kambódíu</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

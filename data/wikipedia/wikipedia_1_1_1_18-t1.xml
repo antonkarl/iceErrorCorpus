@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_18-t1.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Bæði</w>
@@ -125,7 +137,7 @@
   <w>inn</w>
   <c>“</c>
   <c>(</c>
-  <w><i>entoprocta</i></w>
+  <w><hi>entoprocta</hi></w>
   <c>)</c>
   <w>og</w>
   <c>„</c>
@@ -133,7 +145,7 @@
   <w>út</w>
   <c>“</c>
   <c>(</c>
-  <w><i>ectoprocta</i></w>
+  <w><hi>ectoprocta</hi></w>
   <c>)</c>
   <c>.</c>
 </s><s n="8">
@@ -216,7 +228,7 @@
   <w>heyra</w>
   <w>undir</w>
   <w>yfirfylkinguna</w>
-  <w><i>trochozoa</i></w>
+  <w><hi>trochozoa</hi></w>
   <w>sem</w>
   <w>inniheldur</w>
   <w>m.a.</w>
@@ -314,7 +326,7 @@
 </s><s n="14">
   <w>Mosadýr</w>
   <c>(</c>
-  <w><i>ectoprocta</i></w>
+  <w><hi>ectoprocta</hi></w>
   <c>)</c>
   <w>líkjast</w>
   <w>stilkormum</w>
@@ -335,7 +347,7 @@
   <c>(</c>
   <w>fræðiheiti</w>
   <c>:</c>
-  <w><i>entoprocta</i></w>
+  <w><hi>entoprocta</hi></w>
   <c>)</c>
   <w>eru</w>
   <w>fylking</w>

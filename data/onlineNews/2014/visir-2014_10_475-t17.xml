@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>visir-2014_10_475-t17.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Í</w>
@@ -661,7 +673,7 @@
   <w>af</w>
   <revision id="17">
     <original><w>Áfram</w><w>í</w><w>fremstu</w><w>röð</w><c>-</c></original>
-    <corrected><w><i>Áfram</i></w><w><i>í</i></w><w><i>fremstu</i></w><w><i>röð</i></w></corrected>
+    <corrected><w><hi>Áfram</hi></w><w><hi>í</hi></w><w><hi>fremstu</hi></w><w><hi>röð</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>

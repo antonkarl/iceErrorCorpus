@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_20-t5.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Versta</w>
@@ -336,11 +348,11 @@
   <w>við</w>
   <w>enska</w>
   <w>heitið</w>
-  <w><i>chicken</i></w>
-  <w><i>game</i></w>
+  <w><hi>chicken</hi></w>
+  <w><hi>game</hi></w>
   <w>eða</w>
   <w>einfaldlega</w>
-  <w><i>chicken</i></w>
+  <w><hi>chicken</hi></w>
   <c>.</c>
 </s><s n="13">
   <w>Ökumennirnir</w>

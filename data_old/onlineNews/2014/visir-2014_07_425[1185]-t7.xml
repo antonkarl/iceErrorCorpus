@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Ellefu</w>
+  <w>manns</w>
+  <w>eru</w>
+  <w>látnir</w>
+  <w>eftir</w>
+  <w>að</w>
+  <w>flugvél</w>
+  <w>félags</w>
+  <w>fallhlífastökkvara</w>
+  <w>hrapaði</w>
+  <w>nálægt</w>
+  <w>borginni</w>
+  <w>Czestochowa</w>
+  <w>sunnarlega</w>
+  <w>í</w>
+  <w>Póllandi</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>BBC</w>
+  <w>greinir</w>
+  <w>frá</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Aðeins</w>
+  <w>einn</w>
+  <revision id="1">
+    <original><w>farþegana</w></original>
+    <corrected><w>farþeganna</w></corrected>
+      <errors>
+        <error xtype="n4nn" eid="0" />
+      </errors>
+  </revision>
+  <w>um</w>
+  <w>borð</w>
+  <w>lifði</w>
+  <w>slysið</w>
+  <w>af</w>
+  <w>en</w>
+  <w>það</w>
+  <w>voru</w>
+  <w>íbúar</w>
+  <w>við</w>
+  <w>slysstað</w>
+  <w>sem</w>
+  <w>drógu</w>
+  <w>manninn</w>
+  <w>úr</w>
+  <revision id="2">
+    <original><w>brennandi</w></original>
+    <corrected><w>logandi</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>flakinu</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Vélin</w>
+  <w>hrapaði</w>
+  <w>skömmu</w>
+  <w>eftir</w>
+  <w>flugtak</w>
+  <w>en</w>
+  <w>orsakir</w>
+  <w>slysins</w>
+  <w>eru</w>
+  <w>ókunnar</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Sjónarvottar</w>
+  <w>segja</w>
+  <w>að</w>
+  <w>óeðlileg</w>
+  <w>hljóð</w>
+  <w>hafi</w>
+  <w>borist</w>
+  <w>frá</w>
+  <w>hreyfli</w>
+  <w>vélarinnar</w>
+  <w>og</w>
+  <revision id="3">
+    <original><w>hún</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wording" idx="3-1" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>kjölfarið</w>
+  <revision id="4">
+    <original></original>
+    <corrected><w>hafi</w><w>hún</w></corrected>
+      <errors>
+        <error xtype="dep" depId="3-1" eid="0" />
+      </errors>
+  </revision>
+  <w>misst</w>
+  <w>hæð</w>
+  <w>og</w>
+  <w>hrapað</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Rannsókn</w>
+  <w>á</w>
+  <w>tildrögum</w>
+  <revision id="5">
+    <original><w>slysins</w></original>
+    <corrected><w>slyssins</w></corrected>
+      <errors>
+        <error xtype="missing-letter" eid="0" />
+      </errors>
+  </revision>
+  <w>er</w>
+  <w>hafin</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_300-t16.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Teknetín</w>
@@ -74,7 +86,7 @@
   <w>af</w>
   <w>gríska</w>
   <w>orðinu</w>
-  <w><i>τεχνητος</i></w>
+  <w><hi>τεχνητος</hi></w>
   <c>,</c>
   <w>sem</w>
   <revision id="2">
@@ -87,7 +99,7 @@
   </revision>
   <w>þýðir</w>
   <revision id="3">
-    <original><w><i>tilbúið</i></w></original>
+    <original><w><hi>tilbúið</hi></w></original>
     <corrected><c>‚</c><w>tilbúið</w><c>‘</c></corrected>
       <errors>
         <error xtype="missing-comma" eid="0" />
@@ -96,7 +108,7 @@
   </revision>
   <w>eða</w>
   <revision id="4">
-    <original><w><i>framleitt</i></w></original>
+    <original><w><hi>framleitt</hi></w></original>
     <corrected><c>‚</c><w>framleitt</w><c>‘</c></corrected>
       <errors>
         <error xtype="missing-comma" eid="0" />
@@ -410,8 +422,8 @@
   <w>systurkjarni</w>
   <c>,</c>
   <revision id="9">
-    <original><c>‚</c><w><i>metastable</i></w><c>'</c></original>
-    <corrected><w><i>metastable</i></w></corrected>
+    <original><c>‚</c><w><hi>metastable</hi></w><c>'</c></original>
+    <corrected><w><hi>metastable</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" eid="0" />
       </errors>

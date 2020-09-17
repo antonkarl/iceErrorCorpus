@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_275-t15.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>John</w>
@@ -24,8 +36,8 @@
   <w>þekktastur</w>
   <w>fyrir</w>
   <w>skáldsöguna</w>
-  <w><i>Þrúgur</i></w>
-  <w><i>reiðinnar</i></w>
+  <w><hi>Þrúgur</hi></w>
+  <w><hi>reiðinnar</hi></w>
   <c>(</c>
   <w>1939</w>
   <c>)</c>
@@ -51,15 +63,15 @@
   <w>eftir</w>
   <w>hann</w>
   <w>eru</w>
-  <w><i>Mýs</i></w>
-  <w><i>og</i></w>
-  <w><i>menn</i></w>
+  <w><hi>Mýs</hi></w>
+  <w><hi>og</hi></w>
+  <w><hi>menn</hi></w>
   <c>(</c>
   <w>1937</w>
   <c>)</c>
   <w>og</w>
-  <w><i>Austan</i></w>
-  <w><i>Eden</i></w>
+  <w><hi>Austan</hi></w>
+  <w><hi>Eden</hi></w>
   <c>(</c>
   <w>1952</w>
   <c>)</c>
@@ -372,9 +384,9 @@
   <w>hans</w>
   <c>,</c>
   <w>þ.á.m.</w>
-  <w><i>Mýs</i></w>
-  <w><i>og</i></w>
-  <w><i>menn</i></w>
+  <w><hi>Mýs</hi></w>
+  <w><hi>og</hi></w>
+  <w><hi>menn</hi></w>
   <c>.</c>
 </s>
 <s n="24">
@@ -575,8 +587,8 @@
   <w>Árið 1935</w>
   <w>kom</w>
   <w>út</w>
-  <w><i>Tortilla</i></w>
-  <w><i>Flat</i></w>
+  <w><hi>Tortilla</hi></w>
+  <w><hi>Flat</hi></w>
   <c>,</c>
   <w>fyrsta</w>
   <revision id="9">
@@ -644,13 +656,13 @@
 </s>
 <s n="34">
   <w>Bókin</w>
-  <w><i>The</i></w>
-  <w><i>Log</i></w>
-  <w><i>from</i></w>
-  <w><i>the</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Log</hi></w>
+  <w><hi>from</hi></w>
+  <w><hi>the</hi></w>
   <w>ZSeaz</w>
-  <w><i>of</i></w>
-  <w><i>Cortez</i></w>
+  <w><hi>of</hi></w>
+  <w><hi>Cortez</hi></w>
   <w>er</w>
   <w>byggð</w>
   <w>á</w>
@@ -868,9 +880,9 @@
   <w>þeirra</w>
   <w>í</w>
   <w>bókinni</w>
-  <w><i>A</i></w>
-  <w><i>Russian</i></w>
-  <w><i>Journal</i></w>
+  <w><hi>A</hi></w>
+  <w><hi>Russian</hi></w>
+  <w><hi>Journal</hi></w>
   <w>sem</w>
   <w>var</w>
   <w>myndskreytt</w>
@@ -1226,9 +1238,9 @@
   <w>John</w>
   <w>Steinbeck</w>
   <w>hét</w>
-  <w><i>Cup</i></w>
-  <w><i>of</i></w>
-  <w><i>Gold</i></w>
+  <w><hi>Cup</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>Gold</hi></w>
   <w>og</w>
   <w>var</w>
   <w>gefin</w>
@@ -1297,9 +1309,9 @@
 </s>
 <s n="62">
   <w>Eftir</w>
-  <w><i>Cup</i></w>
-  <w><i>of</i></w>
-  <w><i>Gold</i></w>
+  <w><hi>Cup</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>Gold</hi></w>
   <w>skrifaði</w>
   <w>Steinbeck</w>
   <w>þrjú</w>
@@ -1315,14 +1327,14 @@
 <s n="63">
   <revision id="27">
     <original><w>The</w></original>
-    <corrected><w><i>The</i></w></corrected>
+    <corrected><w><hi>The</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
   </revision>
-  <w><i>Pastures</i></w>
-  <w><i>of</i></w>
-  <w><i>Heaven</i></w>
+  <w><hi>Pastures</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>Heaven</hi></w>
   <c>,</c>
   <w>gefin</w>
   <w>út</w>
@@ -1365,9 +1377,9 @@
   <w>gaf</w>
   <w>Steinbeck</w>
   <w>út</w>
-  <w><i>The</i></w>
-  <w><i>Red</i></w>
-  <w><i>Pony</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Red</hi></w>
+  <w><hi>Pony</hi></w>
   <c>,</c>
   <w>100</w>
   <w>blaðsíðna</w>
@@ -1397,10 +1409,10 @@
         <error xtype="missing-commas" idx="30-1" eid="0" />
       </errors>
   </revision>
-  <w><i>To</i></w>
-  <w><i>a</i></w>
-  <w><i>God</i></w>
-  <w><i>Unknown</i></w>
+  <w><hi>To</hi></w>
+  <w><hi>a</hi></w>
+  <w><hi>God</hi></w>
+  <w><hi>Unknown</hi></w>
   <revision id="31">
     <original></original>
     <corrected><c>,</c></corrected>
@@ -1448,8 +1460,8 @@
   <w>almenna</w>
   <w>hylli</w>
   <w>fyrir</w>
-  <w><i>Tortilla</i></w>
-  <w><i>Flat</i></w>
+  <w><hi>Tortilla</hi></w>
+  <w><hi>Flat</hi></w>
   <c>(</c>
   <w>1935</w>
   <c>)</c>
@@ -1599,16 +1611,16 @@
   <c>.</c>
 </s>
 <s n="72">
-  <w><i>In</i></w>
-  <w><i>Dubious</i></w>
-  <w><i>Battle</i></w>
+  <w><hi>In</hi></w>
+  <w><hi>Dubious</hi></w>
+  <w><hi>Battle</hi></w>
   <c>,</c>
-  <w><i>Mýs</i></w>
-  <w><i>og</i></w>
-  <w><i>menn</i></w>
+  <w><hi>Mýs</hi></w>
+  <w><hi>og</hi></w>
+  <w><hi>menn</hi></w>
   <w>og</w>
-  <w><i>Þrúgur</i></w>
-  <w><i>reiðinnar</i></w>
+  <w><hi>Þrúgur</hi></w>
+  <w><hi>reiðinnar</hi></w>
   <w>eru</w>
   <w>dæmi</w>
   <w>um</w>
@@ -1626,21 +1638,21 @@
   <c>.</c>
 </s>
 <s n="73">
-  <w><i>Mýs</i></w>
-  <w><i>og</i></w>
-  <w><i>menn</i></w>
+  <w><hi>Mýs</hi></w>
+  <w><hi>og</hi></w>
+  <w><hi>menn</hi></w>
   <w>og</w>
-  <w><i>Þrúgur</i></w>
-  <w><i>reiðinnar</i></w>
+  <w><hi>Þrúgur</hi></w>
+  <w><hi>reiðinnar</hi></w>
   <w>nutu</w>
   <w>mikilla</w>
   <w>vinsælda</w>
   <c>.</c>
 </s>
 <s n="74">
-  <w><i>Mýs</i></w>
-  <w><i>og</i></w>
-  <w><i>menn</i></w>
+  <w><hi>Mýs</hi></w>
+  <w><hi>og</hi></w>
+  <w><hi>menn</hi></w>
   <w>var</w>
   <w>sett</w>
   <w>á</w>
@@ -1751,15 +1763,15 @@
   <w>önnur</w>
   <w>leikverk</w>
   <c>,</c>
-  <w><i>The</i></w>
-  <w><i>Moon</i></w>
-  <w><i>is</i></w>
-  <w><i>Down</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Moon</hi></w>
+  <w><hi>is</hi></w>
+  <w><hi>Down</hi></w>
   <w>og</w>
-  <w><i>Burning</i></w>
+  <w><hi>Burning</hi></w>
   <revision id="40">
-    <original><w><i>bright</i></w></original>
-    <corrected><w><i>Bright</i></w></corrected>
+    <original><w><hi>bright</hi></w></original>
+    <corrected><w><hi>Bright</hi></w></corrected>
       <errors>
         <error xtype="lower4upper-proper" eid="0" />
       </errors>
@@ -1771,9 +1783,9 @@
   <w>var</w>
   <w>gerð</w>
   <w>eftir</w>
-  <w><i>Mýs</i></w>
-  <w><i>og</i></w>
-  <w><i>menn</i></w>
+  <w><hi>Mýs</hi></w>
+  <w><hi>og</hi></w>
+  <w><hi>menn</hi></w>
   <w>tveimur</w>
   <w>árum</w>
   <w>eftir</w>
@@ -1805,8 +1817,8 @@
   <w>vinsældunum</w>
   <w>eftir</w>
   <w>með</w>
-  <w><i>Þrúgur</i></w>
-  <w><i>reiðinnar</i></w>
+  <w><hi>Þrúgur</hi></w>
+  <w><hi>reiðinnar</hi></w>
   <w>árið 1939</w>
   <w>en</w>
   <w>hún</w>

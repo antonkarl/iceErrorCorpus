@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_6-t6.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Frá</w>
@@ -71,11 +83,11 @@
 </s><s n="3">
   <w>Í</w>
   <w>bókinni</w>
-  <w><i>Pythagorean</i></w>
-  <w><i>Triangles</i></w>
+  <w><hi>Pythagorean</hi></w>
+  <w><hi>Triangles</hi></w>
   <c>(</c>
-  <w><i>Trójkaty</i></w>
-  <w><i>pitagorejskie</i></w>
+  <w><hi>Trójkaty</hi></w>
+  <w><hi>pitagorejskie</hi></w>
   <c>)</c>
   <w>sýndi</w>
   <w>Waclaw</w>
@@ -261,22 +273,22 @@
   <w>er</w>
   <w>talað</w>
   <w>um</w>
-  <w><i>pýþagórískar</i></w>
-  <w><i>þrenndir</i></w>
+  <w><hi>pýþagórískar</hi></w>
+  <w><hi>þrenndir</hi></w>
   <c>(</c>
-  <w><i>a</i></w>
+  <w><hi>a</hi></w>
   <c>,</c>
-  <w><i>b</i></w>
+  <w><hi>b</hi></w>
   <c>,</c>
-  <w><i>c</i></w>
+  <w><hi>c</hi></w>
   <c>)</c>
   <w>þar</w>
   <w>sem</w>
-  <w><i>a</i></w>
+  <w><hi>a</hi></w>
   <c>,</c>
-  <w><i>b</i></w>
+  <w><hi>b</hi></w>
   <w>og</w>
-  <w><i>c</i></w>
+  <w><hi>c</hi></w>
   <w>eru</w>
   <w>jákvæðar</w>
   <w>heiltölur</w>
@@ -290,11 +302,11 @@
   <w>sem</w>
   <w>uppfylla</w>
   <w>skilyrðið</w>
-  <w><i>a</i></w>
+  <w><hi>a</hi></w>
   <c>+</c>
-  <w><i>b</i></w>
+  <w><hi>b</hi></w>
   <c>=</c>
-  <w><i>c</i></w>
+  <w><hi>c</hi></w>
   <c>.</c>
 </s><s n="10">
   <w>Til</w>

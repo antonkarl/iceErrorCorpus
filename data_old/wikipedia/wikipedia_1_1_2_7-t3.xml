@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w><i>Nora</i></w>
+  <w><i>Brockstedt</i></w>
+  <w><i>og</i></w>
+  <w><i>Monn</i></w>
+  <w><i>Keys</i></w>
+  <w><i>-</i></w>
+  <w><i>Það</i></w>
+  <w><i>er</i></w>
+  <w><i>lítið</i></w>
+  <w><i>hús</i></w>
+  <w>er</w>
+  <w>78</w>
+  <c>-</c>
+  <w>snúninga</w>
+  <w>hljómplata</w>
+  <w>gefin</w>
+  <w>út</w>
+  <w>af</w>
+  <w>Íslenzkum</w>
+  <w>tónum</w>
+  <w>árið 1955</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Á</w>
+  <w>henni</w>
+  <w>syngur</w>
+  <w>Nora</w>
+  <w>Brockstedt</w>
+  <w>tvö</w>
+  <w>lög</w>
+  <w>með</w>
+  <w>norsku</w>
+  <w>hljómsveitinni</w>
+  <w>Monn</w>
+  <w>Keys</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Annað</w>
+  <w>lagið</w>
+  <revision id="1">
+    <original><w>er</w><w><i>Svo</i></w><w><i>ung</i></w><w><i>og</i></w><w><i>blíð</i></w><w>sem</w></original>
+    <corrected><c>,</c><c>„</c><w>Svo</w><w>ung</w><w>og</w><w>blíð</w><c>“</c><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-commas" idx="1-1" eid="0" />
+        <error xtype="missing-quots" idx="1-2" eid="0" />
+        <error xtype="it4nonit" idx="1-3" eid="0" />
+      </errors>
+  </revision>
+  <w>átti</w>
+  <w>eftir</w>
+  <w>að</w>
+  <w>slá</w>
+  <w>rækilega</w>
+  <w>í</w>
+  <w>gegn</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Platan</w>
+  <w>er</w>
+  <w>hljóðrituð</w>
+  <w>í</w>
+  <w>Noregi</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Norska</w>
+  <w>hljómsveitin</w>
+  <revision id="2">
+    <original><c>„</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-quots" idx="2-1" eid="0" />
+      </errors>
+  </revision>
+  <w>Monn</w>
+  <w>Keys</w>
+  <revision id="3">
+    <original><c>“</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="2-1" eid="0" />
+      </errors>
+  </revision>
+  <w>samanstóð</w>
+  <w>árið 1955</w>
+  <w>af</w>
+  <w>Noru</w>
+  <w>sjálfri</w>
+  <c>,</c>
+  <w>hljómsveitarstjóranum</w>
+  <w>Egil</w>
+  <w>Monn-Iversen</w>
+  <c>,</c>
+  <w>Sølvi</w>
+  <w>Wang</w>
+  <c>,</c>
+  <w>Frederick</w>
+  <w>Conradi</w>
+  <c>,</c>
+  <w>Arne</w>
+  <w>Bendiksen</w>
+  <c>,</c>
+  <w>Per</w>
+  <w>Asplin</w>
+  <w>og</w>
+  <w>Oddvar</w>
+  <w>Sanne</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Hljómsveitin</w>
+  <w>starfaði</w>
+  <w>í</w>
+  <w>einni</w>
+  <w>eða</w>
+  <w>annarri</w>
+  <w>mynd</w>
+  <w>frá</w>
+  <w>1948</w>
+  <c>–</c>
+  <w>1964</w>
+  <w>og</w>
+  <w>Nora</w>
+  <w>var</w>
+  <w>í</w>
+  <w>henni</w>
+  <w>allt</w>
+  <w>til</w>
+  <w>ársins 1956</w>
+  <c>,</c>
+  <w>er</w>
+  <w>hún</w>
+  <w>tók</w>
+  <w>að</w>
+  <w>einbeita</w>
+  <w>sér</w>
+  <w>að</w>
+  <w>eigin</w>
+  <w>ferli</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>Hljómsveitin</w>
+  <w>náði</w>
+  <w>miklum</w>
+  <w>vinsældum</w>
+  <w>á</w>
+  <revision id="4">
+    <original><w>Norðurlöndunum</w></original>
+    <corrected><w>Norðurlöndum</w></corrected>
+      <errors>
+        <error xtype="def4ind" eid="0" />
+      </errors>
+  </revision>
+  <w>enda</w>
+  <w>voru</w>
+  <w>fjölhæfir</w>
+  <w>listamenn</w>
+  <w>og</w>
+  <w>skemmtikraftar</w>
+  <revision id="5">
+    <original></original>
+    <corrected><w>þar</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <revision id="6">
+    <original><w>ferðinni</w></original>
+    <corrected><w>ferð</w></corrected>
+      <errors>
+        <error xtype="def4ind" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="8">
+  <w>Þau</w>
+  <w>héldu</w>
+  <w>úti</w>
+  <w>eigin</w>
+  <w>revíu-sýningu</w>
+  <w>og</w>
+  <w>spiluðu</w>
+  <w>töluvert</w>
+  <w>inn</w>
+  <w>á</w>
+  <w>plötur</w>
+  <c>.</c>
+</s>
+<s n="9">
+  <w>Þau</w>
+  <w>komu</w>
+  <w>einnig</w>
+  <w>fram</w>
+  <w>í</w>
+  <w>útvarpi</w>
+  <c>,</c>
+  <w>sjónvarpi</w>
+  <w>og</w>
+  <w>í</w>
+  <w>kvikmyndum</w>
+  <c>.</c>
+</s>
+<s n="10">
+  <w>Monn</w>
+  <w>Keys</w>
+  <w>komu</w>
+  <w>til</w>
+  <w>Íslands</w>
+  <w>árið 1954</w>
+  <w>á</w>
+  <w>vegum</w>
+  <w>Tage</w>
+  <w>Ammendrup</w>
+  <w>og</w>
+  <w>voru</w>
+  <w>með</w>
+  <w>nokkrar</w>
+  <w>skemmtanir</w>
+  <w>í</w>
+  <revision id="7">
+    <original><w>Austubæjarbíói</w></original>
+    <corrected><w>Austurbæjarbíói</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="7-1" eid="0" />
+        <error xtype="name-error" idx="7-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="11">
+  <w>Góður</w>
+  <w>rómur</w>
+  <w>varð</w>
+  <w>gerður</w>
+  <w>að</w>
+  <w>þessum</w>
+  <w>skemmtunum</w>
+  <w>enda</w>
+  <w>voru</w>
+  <w>þær</w>
+  <w>fjölbreyttar</w>
+  <c>.</c>
+</s>
+<s n="12">
+  <w>Flutt</w>
+  <w>voru</w>
+  <w>gamanmál</w>
+  <c>,</c>
+  <w>amerísk</w>
+  <w>og</w>
+  <w>norræn</w>
+  <w>dægurlög</w>
+  <w>sungin</w>
+  <w>og</w>
+  <w>sungið</w>
+  <w>á</w>
+  <w>íslensku</w>
+  <w>svo</w>
+  <w>nefnd</w>
+  <w>séu</w>
+  <w>dæmi</w>
+  <c>.</c>
+</s>
+<s n="13">
+  <revision id="8">
+    <original><w><i>Gilly</i></w></original>
+    <corrected><c>„</c><w>Gilly</w></corrected>
+      <errors>
+        <error xtype="missing-quots" idx="8-1" eid="0" />
+        <error xtype="it4nonit" idx="8-2" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <revision id="9">
+    <original><w><i>Gilly</i></w></original>
+    <corrected><w>Gilly</w></corrected>
+      <errors>
+        <error xtype="dep" depId="8-2" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <revision id="10">
+    <original><w><i>Ossenfeffer</i></w></original>
+    <corrected><w>Ossenfeffer</w></corrected>
+      <errors>
+        <error xtype="dep" depId="8-2" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <revision id="11">
+    <original><w><i>Katzenellen</i></w><w><i>Bogen</i></w><w><i>by</i></w><w><i>the</i></w><w><i>Sea</i></w></original>
+    <corrected><w>Katzenellen</w><w>Bogen</w><w>by</w><w>the</w><w>Sea</w><c>“</c></corrected>
+      <errors>
+        <error xtype="dep" depId="8-2" eid="0" />
+        <error xtype="dep" depId="8-1" eid="0" />
+      </errors>
+  </revision>
+  <w>hét</w>
+  <w>lag</w>
+  <w>Hoffmann</w>
+  <w>og</w>
+  <w>Manning</w>
+  <w>sem</w>
+  <w>Þorsteinn</w>
+  <w>Sveinsson</w>
+  <w>sneri</w>
+  <w>yfir</w>
+  <w>á</w>
+  <w>íslensku</w>
+  <w>og</w>
+  <w>skírði</w>
+  <revision id="12">
+    <original><w><i>Svo</i></w><w><i>ung</i></w><w><i>og</i></w><w><i>blíð</i></w></original>
+    <corrected><c>„</c><w>Svo</w><w>ung</w><w>og</w><w>blíð</w><c>“</c></corrected>
+      <errors>
+        <error xtype="missing-quots" idx="12-1" eid="0" />
+        <error xtype="it4nonit" idx="12-2" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="14">
+  <w>Síðan</w>
+  <w>hefur</w>
+  <w>lagið</w>
+  <w>verið</w>
+  <w>betur</w>
+  <w>þekkt</w>
+  <w>undir</w>
+  <w>heitinu</w>
+  <revision id="13">
+    <original><w><i>Það</i></w><w><i>er</i></w><w><i>lítið</i></w><w><i>hús</i></w></original>
+    <corrected><c>„</c><w>Það</w><w>er</w><w>lítið</w><w>hús</w></corrected>
+      <errors>
+        <error xtype="missing-quots" idx="13-1" eid="0" />
+        <error xtype="it4nonit" idx="13-2" eid="0" />
+      </errors>
+  </revision>
+  <c>(</c>
+  <revision id="14">
+    <original><w><i>út</i></w><w><i>við</i></w><w><i>lygnan</i></w><w><i>straum</i></w></original>
+    <corrected><w>út</w><w>við</w><w>lygnan</w><w>straum</w></corrected>
+      <errors>
+        <error xtype="it4nonit" eid="0" />
+      </errors>
+  </revision>
+  <c>)</c>
+  <revision id="15">
+    <original></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="dep" depId="13-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+  <w>Lagið</w>
+  <w>sem</w>
+  <w>Nora</w>
+  <w>Brockstedt</w>
+  <w>og</w>
+  <w>Monn</w>
+  <w>Keys</w>
+  <w>sungu</w>
+  <w>inn</w>
+  <w>á</w>
+  <w>þessa</w>
+  <w>plötu</w>
+  <w>árið 1955</w>
+  <w>fyrir</w>
+  <w>Íslenzka</w>
+  <w>tóna</w>
+  <w>sló</w>
+  <w>strax</w>
+  <w>í</w>
+  <w>gegn</w>
+  <c>.</c>
+</s>
+<s n="15">
+  <w>Grípandi</w>
+  <w>lagið</w>
+  <c>,</c>
+  <w>tær</w>
+  <w>rödd</w>
+  <w>Noru</w>
+  <w>og</w>
+  <w>hreimur</w>
+  <w>söngvaranna</w>
+  <w>hittu</w>
+  <w>beint</w>
+  <w>í</w>
+  <w>mark</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

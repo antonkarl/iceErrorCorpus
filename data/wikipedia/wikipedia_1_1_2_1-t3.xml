@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_1-t3.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <revision id="1">
@@ -14,7 +26,7 @@
   <c>(</c>
   <w>enska</w>
   <c>:</c>
-  <w><i>rave</i></w>
+  <w><hi>rave</hi></w>
   <c>)</c>
   <revision id="2">
     <original><w>er</w><w>tónlistarpartýi</w><c>,</c></original>
@@ -94,7 +106,7 @@
   <w>eins</w>
   <w>og</w>
   <revision id="9">
-    <original><w><i>house</i></w></original>
+    <original><w><hi>house</hi></w></original>
     <corrected><w>hústónlist</w></corrected>
       <errors>
         <error xtype="it4nonit" idx="9-1" eid="0" />
@@ -103,7 +115,7 @@
   </revision>
   <c>,</c>
   <revision id="10">
-    <original><w><i>trans</i></w></original>
+    <original><w><hi>trans</hi></w></original>
     <corrected><w>trans</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -112,23 +124,23 @@
   <c>,</c>
   <w>teknó</w>
   <c>,</c>
-  <w><i>jungle</i></w>
+  <w><hi>jungle</hi></w>
   <c>,</c>
   <revision id="11">
-    <original><w><i>beakbeat</i></w></original>
-    <corrected><w><i>breakbeat</i></w></corrected>
+    <original><w><hi>beakbeat</hi></w></original>
+    <corrected><w><hi>breakbeat</hi></w></corrected>
       <errors>
         <error xtype="foreign-error" idx="11-1" eid="0" />
         <error xtype="missing-letter" idx="11-1" eid="0" />
       </errors>
   </revision>
   <c>,</c>
-  <w><i>liquid</i></w>
-  <w><i>funk</i></w>
+  <w><hi>liquid</hi></w>
+  <w><hi>funk</hi></w>
   <c>,</c>
   <revision id="12">
     <original><w>trommur</w><w>og</w><w>bassi</w></original>
-    <corrected><w><i>drum-and-bass</i></w></corrected>
+    <corrected><w><hi>drum-and-bass</hi></w></corrected>
       <errors>
         <error xtype="wording" idx="12-1" eid="0" />
         <error xtype="nonit4it" idx="12-1" eid="0" />
@@ -359,7 +371,7 @@
   <w>orðtakið</w>
   <revision id="26">
     <original><c>„</c><w>Rave</w><c>“</c></original>
-    <corrected><c>‚</c><w><i>rave</i></w><c>‘</c></corrected>
+    <corrected><c>‚</c><w><hi>rave</hi></w><c>‘</c></corrected>
       <errors>
         <error xtype="wrong-quots" idx="26-1" eid="0" />
         <error xtype="nonit4it" idx="26-1" eid="0" />
@@ -423,7 +435,7 @@
   <w>Orðið</w>
   <revision id="29">
     <original><c>„</c><w>Rave</w><c>“</c></original>
-    <corrected><c>‚</c><w><i>rave</i></w><c>‘</c></corrected>
+    <corrected><c>‚</c><w><hi>rave</hi></w><c>‘</c></corrected>
       <errors>
         <error xtype="wrong-quots" idx="29-1" eid="0" />
         <error xtype="nonit4it" idx="29-1" eid="0" />
@@ -496,7 +508,7 @@
   <w>Marriott</w>
   <w>úr</w>
   <revision id="33">
-    <original><w><i>The</i></w><w><i>Small</i></w><w><i>Faces</i></w></original>
+    <original><w><hi>The</hi></w><w><hi>Small</hi></w><w><hi>Faces</hi></w></original>
     <corrected><w>The</w><w>Small</w><w>Faces</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -507,7 +519,7 @@
   <w>Moon</w>
   <w>úr</w>
   <revision id="34">
-    <original><w><i>The</i></w><w><i>Who</i></w></original>
+    <original><w><hi>The</hi></w><w><hi>Who</hi></w></original>
     <corrected><w>The</w><w>Who</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -551,7 +563,7 @@
   <w>orðið</w>
   <revision id="37">
     <original><c>„</c><w>rave</w><c>“</c></original>
-    <corrected><c>‚</c><w><i>rave</i></w><c>‘</c></corrected>
+    <corrected><c>‚</c><w><hi>rave</hi></w><c>‘</c></corrected>
       <errors>
         <error xtype="wrong-quots" idx="37-1" eid="0" />
         <error xtype="nonit4it" idx="37-1" eid="0" />
@@ -600,10 +612,10 @@
   <w>gáfu</w>
   <w>út</w>
   <w>plötuna</w>
-  <w><i>Having</i></w>
-  <w><i>a</i></w>
-  <w><i>Rave</i></w>
-  <w><i>Up</i></w>
+  <w><hi>Having</hi></w>
+  <w><hi>a</hi></w>
+  <w><hi>Rave</hi></w>
+  <w><hi>Up</hi></w>
   <w>í</w>
   <w>Bandaríkjunum</w>
   <revision id="41">
@@ -709,7 +721,7 @@
   <w>28. janúar 1967</w>
   <w>í</w>
   <revision id="45">
-    <original><w><i>Roundhouse-húsinu</i></w></original>
+    <original><w><hi>Roundhouse-húsinu</hi></w></original>
     <corrected><w>Roundhouse-húsinu</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -770,7 +782,7 @@
   </revision>
   <w>goðsagnakennda</w>
   <revision id="48">
-    <original><w><i>Carnival</i></w><w><i>of</i></w><w><i>Light</i></w></original>
+    <original><w><hi>Carnival</hi></w><w><hi>of</hi></w><w><hi>Light</hi></w></original>
     <corrected><c>„</c><w>Carnival</w><w>of</w><w>Light</w><c>“</c><c>-</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="48-1" eid="0" />
@@ -793,7 +805,7 @@
   <w>orðið</w>
   <revision id="49">
     <original><c>„</c><w>rave</w><c>“</c></original>
-    <corrected><c>‚</c><w><i>rave</i></w><c>‘</c></corrected>
+    <corrected><c>‚</c><w><hi>rave</hi></w><c>‘</c></corrected>
       <errors>
         <error xtype="wrong-quots" idx="49-1" eid="0" />
         <error xtype="nonit4it" idx="49-1" eid="0" />
@@ -840,7 +852,7 @@
   <w>orðið</w>
   <revision id="52">
     <original><c>„</c><w>reif</w><c>“</c></original>
-    <corrected><c>‚</c><w><i>rave</i></w><c>‘</c></corrected>
+    <corrected><c>‚</c><w><hi>rave</hi></w><c>‘</c></corrected>
       <errors>
         <error xtype="wrong-quots" idx="52-1" eid="0" />
         <error xtype="nonit4it" idx="52-1" eid="0" />
@@ -1573,7 +1585,7 @@
   <c>,</c>
   <revision id="81">
     <original><w>breakbeat</w></original>
-    <corrected><w><i>breakbeat</i></w></corrected>
+    <corrected><w><hi>breakbeat</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1581,7 +1593,7 @@
   <c>,</c>
   <revision id="82">
     <original><w>drum</w></original>
-    <corrected><w><i>drum</i></w><c>-</c></corrected>
+    <corrected><w><hi>drum</hi></w><c>-</c></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
         <error xtype="missing-dash" eid="0" />
@@ -1590,7 +1602,7 @@
   <c>&amp;</c>
   <revision id="83">
     <original><w>bass</w></original>
-    <corrected><c>-</c><w><i>bass</i></w></corrected>
+    <corrected><c>-</c><w><hi>bass</hi></w></corrected>
       <errors>
         <error xtype="missing-dash" eid="0" />
         <error xtype="nonit4it" idx="29-1" eid="0" />
@@ -1635,7 +1647,7 @@
   <w>verður</w>
   <revision id="86">
     <original><w>rave</w></original>
-    <corrected><c>‚</c><w><i>rave</i></w><c>‘</c></corrected>
+    <corrected><c>‚</c><w><hi>rave</hi></w><c>‘</c></corrected>
       <errors>
         <error xtype="missing-quots" idx="86-1" eid="0" />
         <error xtype="nonit4it" idx="86-1" eid="0" />
@@ -1654,7 +1666,7 @@
 <s n="47">
   <revision id="87">
     <original><w>Menningin</w></original>
-    <corrected><c>‚</c><w><i>Rave</i></w><c>‘</c></corrected>
+    <corrected><c>‚</c><w><hi>Rave</hi></w><c>‘</c></corrected>
       <errors>
         <error xtype="wording" idx="87-1" eid="0" />
         <error xtype="missing-quots" idx="87-1" eid="0" />

@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>visir-2014_10_200-t5.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Það</w>
@@ -228,7 +240,7 @@
   <w>Hollandi</w>
   <revision id="3">
     <original/>
-    <corrected><c>(</c><w>e.</w><w><i>The</i></w><w><i>Hague</i></w><w><i>University</i></w><c>)</c></corrected>
+    <corrected><c>(</c><w>e.</w><w><hi>The</hi></w><w><hi>Hague</hi></w><w><hi>University</hi></w><c>)</c></corrected>
       <errors>
         <error xtype="missing-bracket" idx="2-1" eid="0"/>
         <error xtype="missing-word" idx="2-2" eid="0"/>

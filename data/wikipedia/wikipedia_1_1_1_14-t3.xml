@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_14-t3.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Til</w>
@@ -216,7 +228,7 @@
   <w>heitið</w>
   <revision id="2">
     <original><w>meringue</w></original>
-    <corrected><w><i>meringue</i></w></corrected>
+    <corrected><w><hi>meringue</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

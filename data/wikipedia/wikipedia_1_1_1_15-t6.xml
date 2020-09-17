@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_15-t6.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Diane</w>
@@ -75,7 +87,7 @@
   <w>og</w>
   <revision id="5">
     <original><w>Esquire</w></original>
-    <corrected><w><i>Esquire</i></w></corrected>
+    <corrected><w><hi>Esquire</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -83,7 +95,7 @@
   <c>,</c>
   <revision id="6">
     <original><w>Harpers</w><w>Bazaar</w></original>
-    <corrected><w><i>Harper‘s</i></w><w><i>Bazaar</i></w></corrected>
+    <corrected><w><hi>Harper‘s</hi></w><w><hi>Bazaar</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -91,7 +103,7 @@
   <w>og</w>
   <revision id="7">
     <original><w>The</w><w>Sunday</w><w>Times</w></original>
-    <corrected><w><i>The</i></w><w><i>Sunday</i></w><w><i>Times</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Sunday</hi></w><w><hi>Times</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -175,7 +187,7 @@
   <w>fyrir</w>
   <revision id="13">
     <original><w>Glamour</w></original>
-    <corrected><w><i>Glamour</i></w></corrected>
+    <corrected><w><hi>Glamour</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -183,7 +195,7 @@
   <c>,</c>
   <revision id="14">
     <original><w>Seventeen</w></original>
-    <corrected><w><i>Seventeen</i></w></corrected>
+    <corrected><w><hi>Seventeen</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -191,7 +203,7 @@
   <c>,</c>
   <revision id="15">
     <original><w>Vogue</w></original>
-    <corrected><w><i>Vogue</i></w></corrected>
+    <corrected><w><hi>Vogue</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -199,7 +211,7 @@
   <c>,</c>
   <revision id="16">
     <original><w>Haper‘s</w><w>Bazaar</w><c>,</c></original>
-    <corrected><w><i>Harper‘s</i></w><w><i>Bazaar</i></w></corrected>
+    <corrected><w><hi>Harper‘s</hi></w><w><hi>Bazaar</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="36-1" eid="0"/>
         <error xtype="foreign-error" idx="36-1" eid="0"/>
@@ -864,7 +876,7 @@
   <w>bíómyndin</w>
   <revision id="52">
     <original><w>Fur</w></original>
-    <corrected><w><i>Fur</i></w></corrected>
+    <corrected><w><hi>Fur</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

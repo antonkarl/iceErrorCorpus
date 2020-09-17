@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_3-t8.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <revision id="1">
@@ -41,7 +53,7 @@
   <w>heiti</w>
   <w>yfir</w>
   <revision id="3">
-    <original><w><i>skóg</i></w></original>
+    <original><w><hi>skóg</hi></w></original>
     <corrected><w>skóg</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>

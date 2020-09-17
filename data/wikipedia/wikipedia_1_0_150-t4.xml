@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_150-t4.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Ský</w>
@@ -315,7 +327,7 @@
   <w>í</w>
   <w>kringum</w>
   <revision id="12">
-    <original><w><i>þéttimiðju</i></w></original>
+    <original><w><hi>þéttimiðju</hi></w></original>
     <corrected><w>svokallaða</w><w>þéttimiðju</w></corrected>
       <errors>
         <error xtype="it4nonit" idx="12-1" eid="0" />

@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_12-t3.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Rúrí</w>
@@ -150,7 +162,7 @@
   <c>.</c>
 </s><s n="6">
   <w><i/></w>
-  <w><i>–</i></w>
+  <w><hi>–</hi></w>
   <w>ZHvenær</w>
   <c>?</c>
 </s><s n="7">
@@ -251,7 +263,7 @@
   <w>nafnið</w>
   <revision id="6">
     <original><w>Tileinkun</w><w>II</w></original>
-    <corrected><w><i>Tileinkun</i></w><w><i>II</i></w></corrected>
+    <corrected><w><hi>Tileinkun</hi></w><w><hi>II</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -301,7 +313,7 @@
   <w>innsetningar</w>
   <w>eins</w>
   <w>og</w>
-  <w><i>Glerregn</i></w>
+  <w><hi>Glerregn</hi></w>
   <w>sem</w>
   <w>sýnt</w>
   <w>var</w>
@@ -332,7 +344,7 @@
   <w>var</w>
   <revision id="9">
     <original><w>Gullinn</w><w>bíll</w></original>
-    <corrected><w><i>Gullinn</i></w><w><i>bíll</i></w></corrected>
+    <corrected><w><hi>Gullinn</hi></w><w><hi>bíll</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -597,7 +609,7 @@
   <w>sitt</w>
   <revision id="21">
     <original><w>Archive</w><c>-</c><w>endangerded</w><w>waters</w></original>
-    <corrected><w><i>Archive</i></w><w><i>-</i></w><w><i>endangered</i></w><w><i>waters</i></w></corrected>
+    <corrected><w><hi>Archive</hi></w><w><hi>-</hi></w><w><hi>endangered</hi></w><w><hi>waters</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -943,13 +955,13 @@
   <w>útilistaverk</w>
   <w>eins</w>
   <w>og</w>
-  <w><i>Regnbogann</i></w>
+  <w><hi>Regnbogann</hi></w>
   <w>við</w>
   <w>flugvöllinn</w>
   <w>í</w>
   <w>Keflavík</w>
   <w>og</w>
-  <w><i>Fyssu</i></w>
+  <w><hi>Fyssu</hi></w>
   <w>í</w>
   <w>Grasagarðinum</w>
   <w>í</w>

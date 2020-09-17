@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_8-t4.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Ólafur</w>
@@ -14,11 +26,11 @@
   <w>í</w>
   <w>danska</w>
   <w>tímaritinu</w>
-  <w><i>Nyt</i></w>
-  <w><i>Tidsskrift</i></w>
-  <w><i>for</i></w>
-  <w><i>Matematik</i></w>
-  <w><i>B</i></w>
+  <w><hi>Nyt</hi></w>
+  <w><hi>Tidsskrift</hi></w>
+  <w><hi>for</hi></w>
+  <w><hi>Matematik</hi></w>
+  <w><hi>B</hi></w>
   <c>.</c>
 </s><s n="2">
   <w>Næstu</w>
@@ -35,7 +47,7 @@
   <w>ritaði</w>
   <w>fyrstu</w>
   <w>útgáfu</w>
-  <w><i>Reikningsbókar</i></w>
+  <w><hi>Reikningsbókar</hi></w>
   <w>sinnar</w>
   <w>sem</w>
   <w>gefin</w>
@@ -112,7 +124,7 @@
   <w>aðra</w>
   <w>útgáfu</w>
   <w>af</w>
-  <w><i>Reikningsbók</i></w>
+  <w><hi>Reikningsbók</hi></w>
   <w>sinni</w>
   <w>með</w>
   <w>þarfir</w>
@@ -236,24 +248,24 @@
 </s><s n="14">
   <w>Ritgerðina</w>
   <c>,</c>
-  <w><i>Nogle</i></w>
-  <w><i>Bemærkninger</i></w>
-  <w><i>om</i></w>
-  <w><i>algebraiske</i></w>
-  <w><i>Flader</i></w>
-  <w><i>der</i></w>
-  <w><i>kunne</i></w>
+  <w><hi>Nogle</hi></w>
+  <w><hi>Bemærkninger</hi></w>
+  <w><hi>om</hi></w>
+  <w><hi>algebraiske</hi></w>
+  <w><hi>Flader</hi></w>
+  <w><hi>der</hi></w>
+  <w><hi>kunne</hi></w>
   <w>Zbringesz</w>
-  <w><i>til</i></w>
-  <w><i>at</i></w>
-  <w><i>svare</i></w>
-  <w><i>entydigt</i></w>
-  <w><i>til</i></w>
-  <w><i>en</i></w>
-  <w><i>Plan</i></w>
-  <w><i>Punkt</i></w>
-  <w><i>for</i></w>
-  <w><i>Punkt</i></w>
+  <w><hi>til</hi></w>
+  <w><hi>at</hi></w>
+  <w><hi>svare</hi></w>
+  <w><hi>entydigt</hi></w>
+  <w><hi>til</hi></w>
+  <w><hi>en</hi></w>
+  <w><hi>Plan</hi></w>
+  <w><hi>Punkt</hi></w>
+  <w><hi>for</hi></w>
+  <w><hi>Punkt</hi></w>
   <revision id="3">
     <original/>
     <corrected><c>,</c></corrected>

@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_100-t13.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="0">
   <revision id="1">
@@ -37,7 +49,7 @@
 <s n="1">
   <revision id="2">
     <original></original>
-    <corrected><w>Á</w><w>arabísku</w><w>er</w><w>nafn</w><w>þess</w><w>موريتانيا</w><w>‎</w><w><i>Mūrītānyā</i></w><c>;</c><w>berbísku</w><w><i>Muritanya</i></w><w>eða</w><w><i>Agawej</i></w><c>;</c><w>á</w><w>wolof</w><w><i>Gànnaar</i></w><c>;</c><w>á</w><w>soninke</w><w><i>Murutaane</i></w><c>;</c><w>og</w><w>pulaar</w><w><i>Moritani</i></w><c>)</c></corrected>
+    <corrected><w>Á</w><w>arabísku</w><w>er</w><w>nafn</w><w>þess</w><w>موريتانيا</w><w>‎</w><w><hi>Mūrītānyā</hi></w><c>;</c><w>berbísku</w><w><hi>Muritanya</hi></w><w>eða</w><w><hi>Agawej</hi></w><c>;</c><w>á</w><w>wolof</w><w><hi>Gànnaar</hi></w><c>;</c><w>á</w><w>soninke</w><w><hi>Murutaane</hi></w><c>;</c><w>og</w><w>pulaar</w><w><hi>Moritani</hi></w><c>)</c></corrected>
       <errors>
         <error xtype="dep" depId="1-2" eid="0" />
       </errors>

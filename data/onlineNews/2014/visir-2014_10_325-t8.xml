@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>visir-2014_10_325-t8.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Lög</w>
@@ -16,7 +28,7 @@
   <w>tímaritið</w>
   <revision id="1">
     <original><w>Marie</w><w>Claire</w></original>
-    <corrected><w><i>Marie</i></w><w><i>Claire</i></w></corrected>
+    <corrected><w><hi>Marie</hi></w><w><hi>Claire</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>

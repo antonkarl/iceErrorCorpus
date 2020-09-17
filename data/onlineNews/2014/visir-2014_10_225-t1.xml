@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>visir-2014_10_225-t1.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Á</w>
@@ -75,7 +87,7 @@
   <w>í</w>
   <revision id="1">
     <original><c>.</c><w>is</w></original>
-    <corrected><w><i>.is</i></w></corrected>
+    <corrected><w><hi>.is</hi></w></corrected>
       <errors>
         <error xtype="extra-space" idx="14-1" eid="0"/>
         <error xtype="nonit4it" idx="14-1" eid="0"/>
@@ -230,7 +242,7 @@
   <w>landslénið</w>
   <revision id="9">
     <original><c>.</c><w>is</w><c>.</c></original>
-    <corrected><w><i>.is.</i></w></corrected>
+    <corrected><w><hi>.is.</hi></w></corrected>
       <errors>
         <error xtype="extra-space" idx="9-1" eid="0"/>
         <error xtype="nonit4it" idx="9-1" eid="0"/>
@@ -248,7 +260,7 @@
   <w>að</w>
   <revision id="10">
     <original><c>.</c><w>is</w></original>
-    <corrected><w><i>.is</i></w></corrected>
+    <corrected><w><hi>.is</hi></w></corrected>
       <errors>
         <error xtype="extra-space" idx="10-1" eid="0"/>
         <error xtype="nonit4it" idx="10-1" eid="0"/>
@@ -340,7 +352,7 @@
   <w>lénin</w>
   <revision id="15">
     <original><w>khilafah</w><c>.</c><w>is</w></original>
-    <corrected><w><i>khilafah.is</i></w></corrected>
+    <corrected><w><hi>khilafah.is</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="5-1" eid="0"/>
         <error xtype="extra-space" idx="5-1" eid="0"/>
@@ -349,7 +361,7 @@
   <w>og</w>
   <revision id="16">
     <original><w>Kilafah</w><c>.</c><w>is</w></original>
-    <corrected><w><i>Kilafah.is</i></w></corrected>
+    <corrected><w><hi>Kilafah.is</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="6-1" eid="0"/>
         <error xtype="extra-space" idx="6-1" eid="0"/>
@@ -366,7 +378,7 @@
   <w>eða</w>
   <revision id="17">
     <original><w>Islamic</w><w>State</w></original>
-    <corrected><w><i>Islamic</i></w><w><i>State</i></w></corrected>
+    <corrected><w><hi>Islamic</hi></w><w><hi>State</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

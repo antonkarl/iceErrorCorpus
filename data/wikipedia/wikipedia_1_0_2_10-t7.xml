@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_10-t7.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Burn</w>
@@ -128,8 +140,8 @@
   <w>7. nóvember 2012</w>
   <c>,</c>
   <w>tilkynnti</w>
-  <w><i>USA</i></w>
-  <w><i>sjónvarpsstöðin</i></w>
+  <w><hi>USA</hi></w>
+  <w><hi>sjónvarpsstöðin</hi></w>
   <w>að</w>
   <revision id="4">
     <original></original>
@@ -195,9 +207,9 @@
   <w>leikmynd</w>
   <w>í</w>
   <w>gamla</w>
-  <w><i>Coconut</i></w>
-  <w><i>Grove</i></w>
-  <w><i>ráðstefnuhúsinu</i></w>
+  <w><hi>Coconut</hi></w>
+  <w><hi>Grove</hi></w>
+  <w><hi>ráðstefnuhúsinu</hi></w>
   <w>í</w>
   <revision id="8">
     <original><w>Coconut</w><w>Grove</w><w>hverfinu</w></original>
@@ -280,7 +292,7 @@
   <w>þá</w>
   <w>sem</w>
   <revision id="11">
-    <original><w><i>brenndu</i></w></original>
+    <original><w><hi>brenndu</hi></w></original>
     <corrected><c>„</c><w>brenndu</w><c>“</c></corrected>
       <errors>
         <error xtype="missing-qutos" idx="11-1" eid="0" />
@@ -325,8 +337,8 @@
   <w>hann</w>
   <w>hættir</w>
   <w>sem</w>
-  <w><i>Navy</i></w>
-  <w><i>Seal</i></w>
+  <w><hi>Navy</hi></w>
+  <w><hi>Seal</hi></w>
   <w>og</w>
   <w>sest</w>
   <w>að</w>
@@ -357,8 +369,8 @@
   <w>sjö</w>
   <w>þáttaraðirnar</w>
   <w>af</w>
-  <w><i>Burn</i></w>
-  <w><i>Notice</i></w>
+  <w><hi>Burn</hi></w>
+  <w><hi>Notice</hi></w>
   <w>hafa</w>
   <w>verið</w>
   <w>gefnar</w>

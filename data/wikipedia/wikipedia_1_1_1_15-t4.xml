@@ -1,13 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_15-t4.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Nafnið</w>
   <w>var</w>
   <w>fyrst</w>
   <w>skráð</w>
-  <w><i>kanguru</i></w>
+  <w><hi>kanguru</hi></w>
   <revision id="1">
     <original><w>12 júlí</w></original>
     <corrected><w>12. júlí</w></corrected>
@@ -39,7 +51,7 @@
   <w>sem</w>
   <w>HMS</w>
   <revision id="2">
-    <original><w><i>Endeavour</i></w></original>
+    <original><w><hi>Endeavour</hi></w></original>
     <corrected><w>Endeavour</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -197,7 +209,7 @@
   <w>dregið</w>
   <w>af</w>
   <w>ensku</w>
-  <w><i>kangaroo</i></w>
+  <w><hi>kangaroo</hi></w>
   <w>sem</w>
   <w>aftur</w>
   <w>kemur</w>
@@ -210,7 +222,7 @@
         <error xtype="missing-dash" eid="0"/>
       </errors>
   </revision>
-  <w><i>gangurru</i></w>
+  <w><hi>gangurru</hi></w>
   <c>,</c>
   <w>sem</w>
   <w>vísar</w>
@@ -371,7 +383,7 @@
   <w>sem</w>
   <w>tilheyra</w>
   <w>ættinni</w>
-  <w><i>Macropodidae</i></w>
+  <w><hi>Macropodidae</hi></w>
   <w>en</w>
   <w>til</w>
   <w>hennar</w>

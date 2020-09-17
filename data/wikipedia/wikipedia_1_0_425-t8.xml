@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_425-t8.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Ferill</w>
@@ -29,7 +41,7 @@
   <w>að</w>
   <w>vera</w>
   <revision id="2">
-    <original><w><i>bein</i></w></original>
+    <original><w><hi>bein</hi></w></original>
     <corrected><c>„</c><w>bein</w><c>“</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="2-1" eid="0" />
@@ -44,7 +56,7 @@
   <w>getur</w>
   <w>verið</w>
   <revision id="3">
-    <original><w><i>opinn</i></w></original>
+    <original><w><hi>opinn</hi></w></original>
     <corrected><c>„</c><w>opinn</w><c>“</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="3-1" eid="0" />
@@ -58,7 +70,7 @@
   <w>upphafs- og endapunkt</w>
   <w>eða</w>
   <revision id="4">
-    <original><w><i>lokaður</i></w></original>
+    <original><w><hi>lokaður</hi></w></original>
     <corrected><c>„</c><w>lokaður</w><c>“</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="4-1" eid="0" />

@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_1-t23.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Alberta</w>
@@ -615,7 +627,7 @@
   <w>Flokkurinn</w>
   <revision id="21">
     <original><w>Social</w><w>Credit</w><w>Party</w></original>
-    <corrected><w><i>Social</i></w><w><i>Credit</i></w><w><i>Party</i></w></corrected>
+    <corrected><w><hi>Social</hi></w><w><hi>Credit</hi></w><w><hi>Party</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -644,7 +656,7 @@
   <c>(</c>
   <revision id="22">
     <original><w>Progressive</w><w>Conservative</w><w>Party</w></original>
-    <corrected><w>e.</w><w><i>Progressive</i></w><w><i>Conservative</i></w><w><i>Party</i></w></corrected>
+    <corrected><w>e.</w><w><hi>Progressive</hi></w><w><hi>Conservative</hi></w><w><hi>Party</hi></w></corrected>
       <errors>
         <error xtype="missing-word" idx="22-1" eid="0" />
         <error xtype="nonit4it" idx="22-2" eid="0" />
@@ -664,7 +676,7 @@
   <w>af</w>
   <revision id="23">
     <original><w>Alberta</w><w>New</w><w>Democratic</w><w>Party</w></original>
-    <corrected><w><i>Alberta</i></w><w><i>New</i></w><w><i>Democratic</i></w><w><i>Party</i></w></corrected>
+    <corrected><w><hi>Alberta</hi></w><w><hi>New</hi></w><w><hi>Democratic</hi></w><w><hi>Party</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -799,8 +811,8 @@
   <w>er</w>
   <w>árlega</w>
   <w>hátíðin</w>
-  <w><i>the</i></w>
-  <w><i>Stampede</i></w>
+  <w><hi>the</hi></w>
+  <w><hi>Stampede</hi></w>
   <w>þar</w>
   <w>sem</w>
   <revision id="28">
@@ -827,10 +839,10 @@
   <w>Banff</w>
   <w>er</w>
   <w>árlega</w>
-  <w><i>Banff</i></w>
-  <w><i>Mountain</i></w>
-  <w><i>Film</i></w>
-  <w><i>Festival</i></w>
+  <w><hi>Banff</hi></w>
+  <w><hi>Mountain</hi></w>
+  <w><hi>Film</hi></w>
+  <w><hi>Festival</hi></w>
   <c>.</c>
 </s>
 <s n="41">

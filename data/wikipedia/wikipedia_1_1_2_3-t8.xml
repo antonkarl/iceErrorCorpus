@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_3-t8.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <revision id="1">
     <original><w>DRM</w></original>
-    <corrected><w><i>DRM</i></w></corrected>
+    <corrected><w><hi>DRM</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -13,9 +25,9 @@
   <w>er</w>
   <w>skammstöfun</w>
   <w>á</w>
-  <w><i>Digital</i></w>
-  <w><i>Rights</i></w>
-  <w><i>Management</i></w>
+  <w><hi>Digital</hi></w>
+  <w><hi>Rights</hi></w>
+  <w><hi>Management</hi></w>
   <revision id="2">
     <original></original>
     <corrected><w>sem</w></corrected>
@@ -58,7 +70,7 @@
 <s n="2">
   <revision id="3">
     <original><w>DRM</w></original>
-    <corrected><w><i>DRM</i></w></corrected>
+    <corrected><w><hi>DRM</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -117,7 +129,7 @@
   <w>nota</w>
   <revision id="4">
     <original><w>DRM</w></original>
-    <corrected><w><i>DRM</i></w></corrected>
+    <corrected><w><hi>DRM</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -132,7 +144,7 @@
   <w>kallast</w>
   <revision id="5">
     <original><w>Digital</w><w>Millennium</w><w>Copyright</w><w>Act</w></original>
-    <corrected><w><i>Digital</i></w><w><i>Millennium</i></w><w><i>Copyright</i></w><w><i>Act</i></w></corrected>
+    <corrected><w><hi>Digital</hi></w><w><hi>Millennium</hi></w><w><hi>Copyright</hi></w><w><hi>Act</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -140,7 +152,7 @@
   <c>(</c>
   <revision id="6">
     <original><w>DMCA</w></original>
-    <corrected><w><i>DMCA</i></w></corrected>
+    <corrected><w><hi>DMCA</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -187,7 +199,7 @@
 <s n="5">
   <revision id="9">
     <original><w>DRM</w></original>
-    <corrected><w><i>DRM-tæknin</i></w></corrected>
+    <corrected><w><hi>DRM-tæknin</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="9-1" eid="0" />
         <error xtype="wording" idx="9-1" eid="0" />
@@ -234,7 +246,7 @@
   <w>að</w>
   <revision id="11">
     <original><w>DRM</w></original>
-    <corrected><w><i>DRM</i></w></corrected>
+    <corrected><w><hi>DRM</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -253,7 +265,7 @@
   <w>efnis</w>
   <revision id="12">
     <original><w>og</w><w>DRM</w></original>
-    <corrected><c>.</c><w><i>DRM</i></w></corrected>
+    <corrected><c>.</c><w><hi>DRM</hi></w></corrected>
       <errors>
         <error xtype="conjunction4period" idx="12-1" eid="0" />
         <error xtype="nonit4it" idx="12-2" eid="0" />
@@ -294,7 +306,7 @@
 <s n="6">
   <revision id="14">
     <original><w>DRM-læsing</w></original>
-    <corrected><w><i>DRM-læsing</i></w></corrected>
+    <corrected><w><hi>DRM-læsing</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -348,7 +360,7 @@
   <w>hugbúnaðarstofnunin</w>
   <revision id="16">
     <original><w>Free</w><w>Software</w><w>Foundation</w></original>
-    <corrected><w><i>Free</i></w><w><i>Software</i></w><w><i>Foundation</i></w></corrected>
+    <corrected><w><hi>Free</hi></w><w><hi>Software</hi></w><w><hi>Foundation</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -365,7 +377,7 @@
   <w>baráttuherferðinni</w>
   <revision id="17">
     <original><w>Defective</w><w>by</w><w>Design</w><w>campaign</w></original>
-    <corrected><w><i>Defective</i></w><w><i>by</i></w><w><i>Design</i></w></corrected>
+    <corrected><w><hi>Defective</hi></w><w><hi>by</hi></w><w><hi>Design</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="17-1" eid="0" />
         <error xtype="extra-word" idx="17-2" eid="0" />
@@ -394,7 +406,7 @@
   <w>á</w>
   <revision id="18">
     <original><w>notkung</w><w>og</w><w>DRM</w></original>
-    <corrected><w>notkun</w><c>.</c><w><i>DRM</i></w></corrected>
+    <corrected><w>notkun</w><c>.</c><w><hi>DRM</hi></w></corrected>
       <errors>
         <error xtype="extra-letter" idx="18-1" eid="0" />
         <error xtype="nonword" idx="18-1" eid="0" />
@@ -407,7 +419,7 @@
   <w>fyrir</w>
   <revision id="19">
     <original><c>„</c><w>digital</w><w>restrictions</w><w>management</w><c>“</c></original>
-    <corrected><w><i>digital</i></w><w><i>restrictions</i></w><w><i>management</i></w></corrected>
+    <corrected><w><hi>digital</hi></w><w><hi>restrictions</hi></w><w><hi>management</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="19-1" eid="0" />
         <error xtype="nonit4it" idx="19-2" eid="0" />
@@ -460,7 +472,7 @@
   <w>Stofnanirnar</w>
   <revision id="23">
     <original><w>The</w><w>Electronic</w><w>Frontier</w><w>Foundation</w></original>
-    <corrected><w><i>The</i></w><w><i>Electronic</i></w><w><i>Frontier</i></w><w><i>Foundation</i></w><w><i></i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Electronic</hi></w><w><hi>Frontier</hi></w><w><hi>Foundation</hi></w><w><hi></hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -471,7 +483,7 @@
   <w>og</w>
   <revision id="25">
     <original><w>FSF</w></original>
-    <corrected><w><i>FSF</i></w></corrected>
+    <corrected><w><hi>FSF</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>

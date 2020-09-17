@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_15-t2.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>1981</w>
@@ -269,8 +281,8 @@
   <w>sýninguna</w>
   <w>í</w>
   <revision id="5">
-    <original><w><i>Morgunnblaðið</i></w></original>
-    <corrected><w><i>Morgunblaðið</i></w></corrected>
+    <original><w><hi>Morgunnblaðið</hi></w></original>
+    <corrected><w><hi>Morgunblaðið</hi></w></corrected>
       <errors>
         <error xtype="nonword" eid="0"/>
       </errors>

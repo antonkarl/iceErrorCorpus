@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <revision id="1">
+    <original><w>Framtíð</w></original>
+    <corrected><w>Talsverð</w><w>óvissa</w><w>ríkir</w><w>nú</w><w>um</w><w>framtíð</w></corrected>
+      <errors>
+        <error xtype="wording" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>Bella</w>
+  <w>Center</w>
+  <w>hinnar</w>
+  <w>þekktu</w>
+  <revision id="1b">
+    <original><w>hótel-og</w><w>ráðstefnuhallar</w></original>
+    <corrected><w>hótel- og ráðstefnuhallar</w></corrected>
+      <errors>
+        <error xtype="missing-space" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>Kaupmannahöfn</w>
+  <revision id="2">
+    <original><w>er</w><w>nú</w><w>í</w><w>töluverðri</w><w>óvissu</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="1-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="1">
+  <w>Ástæðan</w>
+  <w>er</w>
+  <w>sú</w>
+  <w>að</w>
+  <w>stór</w>
+  <w>hluti</w>
+  <w>eigenda</w>
+  <w>hennar</w>
+  <w>er</w>
+  <w>orðinn</w>
+  <w>gjaldþrota</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Þetta</w>
+  <w>gerðist</w>
+  <w>í</w>
+  <w>framhaldi</w>
+  <w>af</w>
+  <w>því</w>
+  <w>að</w>
+  <w>Fjordbank</w>
+  <w>Mors</w>
+  <w>bankinn</w>
+  <w>varð</w>
+  <w>gjaldþrota</w>
+  <w>sem</w>
+  <w>og</w>
+  <w>fjárfestingarfélagið</w>
+  <w>Fagbyg</w>
+  <w>auk</w>
+  <w>fleiri</w>
+  <w>aðila</w>
+  <w>sem</w>
+  <w>áttu</w>
+  <w>hlut</w>
+  <w>í</w>
+  <w>höllinni</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Við</w>
+  <w>þessi</w>
+  <w>gjaldþrot</w>
+  <w>er</w>
+  <w>helmingurinn</w>
+  <w>af</w>
+  <w>öllu</w>
+  <w>hlutafé</w>
+  <w>í</w>
+  <w>Bella</w>
+  <w>Center</w>
+  <w>kominn</w>
+  <w>í</w>
+  <w>umsjón</w>
+  <w>þrotabúa</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Fjallað</w>
+  <w>er</w>
+  <w>um</w>
+  <w>málið</w>
+  <w>á</w>
+  <w>vefsíðu</w>
+  <revision id="3">
+    <original><w>börsen</w></original>
+    <corrected><w>Börsen</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
+  <w>en</w>
+  <w>þar</w>
+  <w>segir</w>
+  <w>að</w>
+  <w>verið</w>
+  <w>sé</w>
+  <w>að</w>
+  <w>leita</w>
+  <w>að</w>
+  <w>öðrum</w>
+  <w>fjárfestum</w>
+  <w>til</w>
+  <w>að</w>
+  <w>kaupa</w>
+  <w>þau</w>
+  <w>hlutabréf</w>
+  <w>sem</w>
+  <w>eru</w>
+  <w>í</w>
+  <w>þrotabúunum</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Vonast</w>
+  <w>er</w>
+  <w>til</w>
+  <w>að</w>
+  <w>fjárfestingarsjóður</w>
+  <w>komi</w>
+  <w>að</w>
+  <w>eignarhaldinu</w>
+  <w>og</w>
+  <w>kaupi</w>
+  <w>þá</w>
+  <w>hluti</w>
+  <w>sem</w>
+  <w>nú</w>
+  <w>eru</w>
+  <w>í</w>
+  <w>þrotabúunum</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Fram</w>
+  <w>kemur</w>
+  <w>að</w>
+  <w>Fagbyg</w>
+  <w>átti</w>
+  <w>21%</w>
+  <w>hlut</w>
+  <w>í</w>
+  <w>Bella</w>
+  <w>Center</w>
+  <w>og</w>
+  <w>Fjordbank</w>
+  <w>Mors</w>
+  <w>átti</w>
+  <w>rúm</w>
+  <w>14%</w>
+  <w>en</w>
+  <w>sá</w>
+  <revision id="4">
+    <original><w>hlut</w></original>
+    <corrected><w>hlutur</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
+  <w>er</w>
+  <w>raunar</w>
+  <w>kominn</w>
+  <w>í</w>
+  <w>hendur</w>
+  <w>danska</w>
+  <w>ríkisins</w>
+  <w>eftir</w>
+  <w>gjaldþrot</w>
+  <w>bankans</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

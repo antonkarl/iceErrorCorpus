@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_375-t20.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Fordómur</w>
@@ -117,7 +129,7 @@
   <c>:</c>
   <revision id="8">
     <original><w>praejudicium</w><c>,,</c><w>fyrirfram</w></original>
-    <corrected><w><i>praejudicium</i></w><c>,</c><w>ísl.</w><c>:</c><w>fyrir</w><w>fram</w></corrected>
+    <corrected><w><hi>praejudicium</hi></w><c>,</c><w>ísl.</w><c>:</c><w>fyrir</w><w>fram</w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
         <error xtype="extra-comma" eid="0" />

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Alþjóða</w>
+  <w>Ólympíunefndin</w>
+  <w>ákvað</w>
+  <w>í</w>
+  <w>dag</w>
+  <w>að</w>
+  <w>Vetrarólympíuleikarnir</w>
+  <w>árið 2018</w>
+  <w>skyldu</w>
+  <w>haldnir</w>
+  <w>í</w>
+  <revision id="1">
+    <original><w>suður-kóresku</w></original>
+    <corrected><w>suðurkóresku</w></corrected>
+      <errors>
+        <error xtype="extra-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>borginni</w>
+  <w>Pyeongchang</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Alþjóða</w>
+  <w>Ólympíunefndin</w>
+  <w>kaus</w>
+  <w>á</w>
+  <w>milli</w>
+  <w>München</w>
+  <w>í</w>
+  <w>Þýskalandi</w>
+  <c>,</c>
+  <w>Pyeongchang</w>
+  <w>í</w>
+  <revision id="2">
+    <original><w>Suður</w><w>Kóreu</w></original>
+    <corrected><w>Suður-Kóreu</w></corrected>
+      <errors>
+        <error xtype="split-word" idx="2-1" eid="0" />
+        <error xtype="missing-dash" idx="2-1" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>Annency</w>
+  <w>í</w>
+  <w>Frakklandi</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <revision id="3">
+    <original><w>Fyrirfram</w></original>
+    <corrected><w>Upphaflega</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>var</w>
+  <w>talið</w>
+  <w>líklegast</w>
+  <w>að</w>
+  <w>Pyeongchang</w>
+  <w>myndi</w>
+  <w>hljóta</w>
+  <revision id="4">
+    <original><w>yfirburðarkosningu</w></original>
+    <corrected><w>yfirburðakosningu</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="4-1" eid="0" />
+        <error xtype="compound-nonword" idx="4-1" eid="0" />
+      </errors>
+  </revision>
+  <w>vegna</w>
+  <w>þess</w>
+  <w>að</w>
+  <w>borgin</w>
+  <w>hefur</w>
+  <w>tvívegis</w>
+  <w>sóst</w>
+  <w>eftir</w>
+  <w>að</w>
+  <w>halda</w>
+  <w>keppnina</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Pyeongchang</w>
+  <w>reyndi</w>
+  <w>að</w>
+  <w>halda</w>
+  <w>keppnina</w>
+  <w>árið 2010</w>
+  <w>og</w>
+  <w>2014</w>
+  <w>en</w>
+  <w>beið</w>
+  <w>lægri</w>
+  <w>hlut</w>
+  <w>í</w>
+  <w>bæði</w>
+  <w>skiptin</w>
+  <w>með</w>
+  <w>örfáum</w>
+  <w>atkvæðum</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <revision id="5">
+    <original><w>Pyeongchang</w></original>
+    <corrected><w>Nú</w></corrected>
+      <errors>
+        <error xtype="wording" idx="5-1" eid="0" />
+      </errors>
+  </revision>
+  <w>fékk</w>
+  <revision id="6">
+    <original></original>
+    <corrected><w>Pyeongchang</w></corrected>
+      <errors>
+        <error xtype="dep" depId="5-1" eid="0" />
+      </errors>
+  </revision>
+  <w>meira</w>
+  <w>en</w>
+  <w>helming</w>
+  <w>allra</w>
+  <w>greiddra</w>
+  <w>atkvæða</w>
+  <w>og</w>
+  <w>því</w>
+  <w>var</w>
+  <w>hægt</w>
+  <w>að</w>
+  <w>klára</w>
+  <w>kosninguna</w>
+  <w>í</w>
+  <w>fyrstu</w>
+  <w>umferð</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Ef</w>
+  <w>Munchen</w>
+  <w>hefði</w>
+  <w>hlotið</w>
+  <w>kosningu</w>
+  <w>hefði</w>
+  <w>borgin</w>
+  <w>orðið</w>
+  <w>sú</w>
+  <w>fyrsta</w>
+  <w>til</w>
+  <w>að</w>
+  <w>halda</w>
+  <w>bæði</w>
+  <revision id="7">
+    <original><w>sumar</w><w>og</w><w>vetrarólympíuleika</w></original>
+    <corrected><w>Sumar- og Vetrarólympíuleika</w></corrected>
+      <errors>
+        <error xtype="missing-dash" idx="7-1" eid="0" />
+        <error xtype="lower4upper-proper" idx="7-1" eid="0" />
+      </errors>
+  </revision>
+  <w>en</w>
+  <w>sumarleikarnir</w>
+  <w>fóru</w>
+  <w>fram</w>
+  <w>þar</w>
+  <w>árið 1972</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>Vetrarólympíuleikarnir</w>
+  <w>hafa</w>
+  <w>aldrei</w>
+  <w>farið</w>
+  <w>fram</w>
+  <w>í</w>
+  <w>Suður-Kóreu</w>
+  <w>en</w>
+  <w>23</w>
+  <w>ár</w>
+  <w>eru</w>
+  <w>síðan</w>
+  <w>landið</w>
+  <w>hélt</w>
+  <revision id="8">
+    <original><w>sumarólympíuleikana</w></original>
+    <corrected><w>Sumarólympíuleikana</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>höfuðborginni</w>
+  <w>Seoul</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

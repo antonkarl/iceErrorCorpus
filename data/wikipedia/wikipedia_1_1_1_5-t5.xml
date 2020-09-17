@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_5-t5.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <revision id="1">
@@ -410,7 +422,7 @@
   </revision>
   <w>heitir</w>
   <w>snjóhús</w>
-  <w><i>iglu</i></w>
+  <w><hi>iglu</hi></w>
   <w>en</w>
   <w>þetta</w>
   <w>orð</w>
@@ -420,13 +432,13 @@
   <w>rekja</w>
   <w>til</w>
   <w>orðsins</w>
-  <w><i>igdlu</i></w>
+  <w><hi>igdlu</hi></w>
   <c>,</c>
   <w>sem</w>
   <w>þýðir</w>
   <revision id="31">
     <original><c>„</c><w>hús</w><c>“</c></original>
-    <corrected><w><i>hús</i></w></corrected>
+    <corrected><w><hi>hús</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="2-1" eid="0"/>
         <error xtype="nonit4it" idx="2-1" eid="0"/>

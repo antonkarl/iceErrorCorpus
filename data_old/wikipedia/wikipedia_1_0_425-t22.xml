@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Umboðsmaður</w>
+  <w>er</w>
+  <w>milligöngumaður</w>
+  <w>sem</w>
+  <w>hefur</w>
+  <w>verið</w>
+  <w>falið</w>
+  <w>það</w>
+  <w>hlutverk</w>
+  <w>að</w>
+  <w>gæta</w>
+  <w>hagsmuna</w>
+  <w>almennra</w>
+  <w>borgara</w>
+  <w>gagnvart</w>
+  <w>stjórnvöldum</w>
+  <w>eða</w>
+  <w>öðrum</w>
+  <w>hópum</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Yfirleitt</w>
+  <w>er</w>
+  <w>umboðsmaður</w>
+  <w>opinber</w>
+  <w>starfsmaður</w>
+  <w>ráðinn</w>
+  <w>til</w>
+  <w>starfa</w>
+  <w>ríkisstjórnar</w>
+  <w>eða</w>
+  <w>þings</w>
+  <w>sem</w>
+  <w>tekur</w>
+  <w>á</w>
+  <w>móti</w>
+  <w>kvörtunum</w>
+  <w>sem</w>
+  <w>almenningur</w>
+  <w>hefur</w>
+  <w>lagt</w>
+  <w>fram</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Umboðsmaður</w>
+  <w>má</w>
+  <w>reyna</w>
+  <w>að</w>
+  <w>finna</w>
+  <w>lausn</w>
+  <w>á</w>
+  <w>kvörtun</w>
+  <revision id="1">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>gerir</w>
+  <w>báðum</w>
+  <w>hópum</w>
+  <w>til</w>
+  <w>geðs</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Á</w>
+  <w>Íslandi</w>
+  <w>er</w>
+  <w>ráðinn</w>
+  <w>til</w>
+  <w>starfs</w>
+  <w>umboðsmaður</w>
+  <w>Alþingis</w>
+  <w>sem</w>
+  <w>gætir</w>
+  <w>þess</w>
+  <w>að</w>
+  <w>réttindi</w>
+  <w>borgaranna</w>
+  <w>gagnvart</w>
+  <w>stjórnsýslunni</w>
+  <w>séu</w>
+  <w>virt</w>
+  <w>og</w>
+  <w>að</w>
+  <w>jafnræðisreglan</w>
+  <w>sé</w>
+  <w>höfð</w>
+  <w>í</w>
+  <w>heiðri</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Í</w>
+  <w>öðrum</w>
+  <w>löndum</w>
+  <w>starfa</w>
+  <w>umboðsmenn</w>
+  <w>í</w>
+  <w>svipuðum</w>
+  <w>hlutverkum</w>
+  <w>hjá</w>
+  <w>ríkisstjórnum</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Á</w>
+  <w>mörgum</w>
+  <w>tungumálum</w>
+  <w>er</w>
+  <w>orðið</w>
+  <w><i>ombudsman</i></w>
+  <w>notað</w>
+  <w>sem</w>
+  <w>á</w>
+  <w>rætur</w>
+  <w>að</w>
+  <w>rekja</w>
+  <w>til</w>
+  <w>dönsku</w>
+  <c>,</c>
+  <w>norsku</w>
+  <w>og</w>
+  <w>sænsku</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>á</w>
+  <w>sjálft</w>
+  <w>rætur</w>
+  <w>að</w>
+  <w>rekja</w>
+  <w>til</w>
+  <w>fornnorræna</w>
+  <w>orðsins</w>
+  <w><i>umboðsmaðr</i></w>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>Á</w>
+  <w>íslensku</w>
+  <w>getur</w>
+  <w>orðið</w>
+  <revision id="2">
+    <original><w>á</w></original>
+    <corrected><w>einfaldlega</w></corrected>
+      <errors>
+        <error xtype="wording" idx="2-1" eid="0" />
+        <error xtype="verb-inflection" idx="2-1" eid="0" />
+        <error xtype="dep" depId="4-1" eid="0" />
+      </errors>
+  </revision>
+  <w>líka</w>
+  <revision id="3">
+    <original></original>
+    <corrected><w>átt</w></corrected>
+      <errors>
+        <error xtype="dep" depId="2-1" eid="0" />
+      </errors>
+  </revision>
+  <w>við</w>
+  <revision id="4">
+    <original><w>einfaldlega</w></original>
+    <corrected><w>um</w></corrected>
+      <errors>
+        <error xtype="wording" idx="4-1" eid="0" />
+        <error xtype="missing-word" idx="4-2" eid="0" />
+      </errors>
+  </revision>
+  <c>„</c>
+  <w>aðila</w>
+  <c>“</c>
+  <w>eða</w>
+  <c>„</c>
+  <w>stjóra</w>
+  <c>“</c>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_9-t0.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Norilsk-Talnakh</w>
@@ -73,11 +85,11 @@
   <c>(</c>
   <w>rússneska</w>
   <c>:</c>
-  <w><i>Сибирские</i></w>
-  <w><i>траппы</i></w>
+  <w><hi>Сибирские</hi></w>
+  <w><hi>траппы</hi></w>
   <c>,</c>
-  <w><i>Sibirskije</i></w>
-  <w><i>trappy</i></w>
+  <w><hi>Sibirskije</hi></w>
+  <w><hi>trappy</hi></w>
   <c>)</c>
   <w>er</w>
   <w>stórt</w>

@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_5-t4.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Tilkynnt</w>
@@ -43,7 +55,7 @@
   <w>Cooks</w>
   <w>var</w>
   <w>í</w>
-  <w><i>Laserhawk</i></w>
+  <w><hi>Laserhawk</hi></w>
   <w>árið 1997</w>
   <c>.</c>
 </s><s n="4">
@@ -70,7 +82,7 @@
   <w>í</w>
   <revision id="2">
     <original><w>Criminal</w><w>Minds</w></original>
-    <corrected><w><i>Criminal</i></w><w><i>Minds</i></w></corrected>
+    <corrected><w><hi>Criminal</hi></w><w><hi>Minds</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -78,7 +90,7 @@
   <c>,</c>
   <revision id="3">
     <original><w>Higher</w><w>Ground</w></original>
-    <corrected><w><i>Higher</i></w><w><i>Ground</i></w></corrected>
+    <corrected><w><hi>Higher</hi></w><w><hi>Ground</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -86,7 +98,7 @@
   <w>og</w>
   <revision id="4">
     <original><w>Tru</w><w>Calling</w></original>
-    <corrected><w><i>Tru</i></w><w><i>Calling</i></w></corrected>
+    <corrected><w><hi>Tru</hi></w><w><hi>Calling</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -127,7 +139,7 @@
   <w>þætti</w>
   <revision id="7">
     <original><w>Paget</w><w>Brewster</w></original>
-    <corrected><w><i>Paget</i></w><w><i>Brewster</i></w></corrected>
+    <corrected><w><hi>Paget</hi></w><w><hi>Brewster</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -148,16 +160,16 @@
   <w>á</w>
   <w>borð</w>
   <w>við</w>
-  <w><i>Out</i></w>
-  <w><i>Cold</i></w>
+  <w><hi>Out</hi></w>
+  <w><hi>Cold</hi></w>
   <c>,</c>
-  <w><i>Final</i></w>
-  <w><i>Destination</i></w>
+  <w><hi>Final</hi></w>
+  <w><hi>Destination</hi></w>
   <w><i/></w>
   <w>2Z</w>
   <w>og</w>
-  <w><i>Mother's</i></w>
-  <w><i>Day</i></w>
+  <w><hi>Mother's</hi></w>
+  <w><hi>Day</hi></w>
   <c>.</c>
 </s><s n="8">
   <w>Árið 2000</w>
@@ -172,7 +184,7 @@
   <w>kallaðist</w>
   <revision id="8">
     <original><w>Higher</w><w>Ground</w></original>
-    <corrected><w><i>Higher</i></w><w><i>Ground</i></w></corrected>
+    <corrected><w><hi>Higher</hi></w><w><hi>Ground</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -198,7 +210,7 @@
   <w>í</w>
   <revision id="9">
     <original><w>Criminal</w><w>Minds</w></original>
-    <corrected><w><i>Criminal</i></w><w><i>Minds</i></w></corrected>
+    <corrected><w><hi>Criminal</hi></w><w><hi>Minds</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -206,7 +218,7 @@
   <w>sem</w>
   <w>Jennifer</w>
   <revision id="10">
-    <original><w><i>JJ</i></w></original>
+    <original><w><hi>JJ</hi></w></original>
     <corrected><c>„</c><w>JJ</w><c>“</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="10-1" eid="0"/>
@@ -249,16 +261,16 @@
   <w>á</w>
   <w>borð</w>
   <w>við</w>
-  <w><i>Goosebumps</i></w>
+  <w><hi>Goosebumps</hi></w>
   <w>og</w>
-  <w><i>PSI</i></w>
+  <w><hi>PSI</hi></w>
   <w>ZFactor</w>
   <c>:</c>
   <w><i/></w>
-  <w><i>Chronicles</i></w>
-  <w><i>of</i></w>
-  <w><i>the</i></w>
-  <w><i>Paranormal</i></w>
+  <w><hi>Chronicles</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>Paranormal</hi></w>
   <c>.</c>
 </s><s n="13">
   <w>Síðan</w>
@@ -269,7 +281,7 @@
   <w>í</w>
   <revision id="11">
     <original><w>Tru</w><w>Calling</w></original>
-    <corrected><w><i>Tru</i></w><w><i>Calling</i></w></corrected>
+    <corrected><w><hi>Tru</hi></w><w><hi>Calling</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -290,7 +302,7 @@
   <w>er</w>
   <w>meðlimur</w>
   <revision id="12">
-    <original><w><i>Kirkju</i></w><w><i>Jesú</i></w><w><i>Krists</i></w><w><i>hinna</i></w><w><i>síðari</i></w><w><i>daga</i></w><w><i>heilögu</i></w></original>
+    <original><w><hi>Kirkju</hi></w><w><hi>Jesú</hi></w><w><hi>Krists</hi></w><w><hi>hinna</hi></w><w><hi>síðari</hi></w><w><hi>daga</hi></w><w><hi>heilögu</hi></w></original>
     <corrected><w>Kirkju</w><w>Jesú</w><w>Krists</w><w>hinna</w><w>síðari</w><w>daga</w><w>heilögu</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -337,8 +349,8 @@
   <w>seríu</w>
   <w>6</w>
   <w>af</w>
-  <w><i>Criminal</i></w>
-  <w><i>Minds</i></w>
+  <w><hi>Criminal</hi></w>
+  <w><hi>Minds</hi></w>
   <c>,</c>
   <w>en</w>
   <w>hún</w>
@@ -401,7 +413,7 @@
   <w>í</w>
   <revision id="17">
     <original><w>The</w><w>Virgin</w><w>Suicides</w></original>
-    <corrected><w><i>The</i></w><w><i>Virgin</i></w><w><i>Suicides</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Virgin</hi></w><w><hi>Suicides</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Einar</w>
+  <w>Ágúst</w>
+  <c>&amp;</c>
+  <w>Telma</w>
+  <revision id="1">
+    <original><c>(</c></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="bracket4comma" eid="0" />
+      </errors>
+  </revision>
+  <w>eða</w>
+  <w><i>August</i></w>
+  <w><i><c>&amp;</c></i></w>
+  <w><i>Telma</i></w>
+  <w>var</w>
+  <w>íslensk</w>
+  <w>hljómsveit</w>
+  <w>sem</w>
+  <w>var</w>
+  <w>stofnuð</w>
+  <w>árið 2000</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Söngvarar</w>
+  <revision id="4">
+    <original></original>
+    <corrected><w>hennar</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>eru</w>
+  <w>Einar</w>
+  <w>Ágúst</w>
+  <w>Víðisson</w>
+  <w>og</w>
+  <w>Telma</w>
+  <w>Ágústsdóttir</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Hljómsveitin</w>
+  <w>keppti</w>
+  <w>fyrir</w>
+  <w>hönd</w>
+  <w>Íslands</w>
+  <w>í</w>
+  <w>Söngvakeppni</w>
+  <w>evrópskra</w>
+  <w>sjónvarpsstöðva</w>
+  <revision id="5">
+    <original><w>2000</w></original>
+    <corrected><w>árið 2000</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>með</w>
+  <w>laginu</w>
+  <c>„</c>
+  <w>Tell</w>
+  <w>Me</w>
+  <c>!</c>
+  <c>“</c>
+</s>
+<s n="4">
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Þau</w>
+  <revision id="6">
+    <original><w>náðu</w></original>
+    <corrected><w>höfnuðu</w><w>í</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>12.</w>
+  <w>sæti</w>
+  <w>af</w>
+  <w>24</w>
+  <c>,</c>
+  <w>með</w>
+  <w>45</w>
+  <w>stig</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

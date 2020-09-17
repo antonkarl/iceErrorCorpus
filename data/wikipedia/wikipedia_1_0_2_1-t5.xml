@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_1-t5.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Jean</w>
@@ -153,10 +165,10 @@
         <error xtype="missing-word" eid="0" />
       </errors>
   </revision>
-  <w><i>Independent</i></w>
-  <w><i>Police</i></w>
-  <w><i>Complaints</i></w>
-  <w><i>Commission</i></w>
+  <w><hi>Independent</hi></w>
+  <w><hi>Police</hi></w>
+  <w><hi>Complaints</hi></w>
+  <w><hi>Commission</hi></w>
   <c>)</c>
   <w>var</w>
   <w>lekið</w>

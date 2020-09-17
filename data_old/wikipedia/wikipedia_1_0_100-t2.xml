@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>10. maí</w>
+  <w>er</w>
+  <w>130.</w>
+  <w>dagur</w>
+  <w>ársins</w>
+  <revision id="1">
+    <original><c>(</c></original>
+    <corrected><c>,</c><w>eða</w><w>sá</w></corrected>
+      <errors>
+        <error xtype="comma4bracket" eid="0" />
+      </errors>
+  </revision>
+  <w>131.</w>
+  <w>á</w>
+  <w>hlaupári</w>
+  <revision id="2">
+    <original><c>)</c></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="comma4bracket" eid="0" />
+      </errors>
+  </revision>
+  <w>samkvæmt</w>
+  <w>gregoríska</w>
+  <w>tímatalinu</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <revision id="3">
+    <original></original>
+    <corrected><w>Þá</w><w>eru</w></corrected>
+      <errors>
+        <error xtype="wording" idx="3-1" eid="0" />
+      </errors>
+  </revision>
+  <w>235</w>
+  <w>dagar</w>
+  <revision id="4">
+    <original><w>eru</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="3-1" eid="0" />
+      </errors>
+  </revision>
+  <w>eftir</w>
+  <w>af</w>
+  <w>árinu</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <revision id="5">
+    <original><w>Eldaskildagi</w></original>
+    <corrected><w>Þennan</w><w>dag</w></corrected>
+      <errors>
+        <error xtype="wording" idx="5-1" eid="0" />
+      </errors>
+  </revision>
+  <w>er</w>
+  <revision id="6">
+    <original><w>þennan</w><w>dag</w></original>
+    <corrected><w>eldaskildagi</w></corrected>
+      <errors>
+        <error xtype="dep" depId="5-1" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>Íslandi</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

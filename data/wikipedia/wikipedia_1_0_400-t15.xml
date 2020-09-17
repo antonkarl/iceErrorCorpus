@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_400-t15.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Bollakökur</w>
@@ -165,7 +177,7 @@
 </s>
 <s n="4">
   <w>Heitið</w>
-  <w><i>cupcake</i></w>
+  <w><hi>cupcake</hi></w>
   <w>finnst</w>
   <w>þó</w>
   <w>ekki</w>
@@ -239,7 +251,7 @@
   <w>Bandaríkjunum</w>
   <w>táknar</w>
   <w>heitið</w>
-  <w><i>cupcake</i></w>
+  <w><hi>cupcake</hi></w>
   <w>í</w>
   <w>víðustu</w>
   <w>merkingu</w>
@@ -255,8 +267,8 @@
 </s>
 <s n="6">
   <w>Enskar</w>
-  <w><i>fairy</i></w>
-  <w><i>cakes</i></w>
+  <w><hi>fairy</hi></w>
+  <w><hi>cakes</hi></w>
   <w>eða</w>
   <w>álfakökur</w>
   <w>eru</w>
@@ -448,9 +460,9 @@
   <w>tengd</w>
   <w>við</w>
   <w>sjónvarpsþáttinn</w>
-  <w><i>Beðmál</i></w>
-  <w><i>í</i></w>
-  <w><i>borginni</i></w>
+  <w><hi>Beðmál</hi></w>
+  <w><hi>í</hi></w>
+  <w><hi>borginni</hi></w>
   <revision id="15">
     <original><c>,</c></original>
     <corrected></corrected>

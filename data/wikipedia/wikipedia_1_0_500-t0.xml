@@ -1,11 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_500-t0.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <revision id="1">
     <original><w>Charlie's</w><w>Angels</w><c>:</c><w>Full</w><w>Throttle</w></original>
-    <corrected><w><i>Charlie's</i></w><w><i>Angels</i></w><w><i/></w><c>:</c><w><i/></w><w><i>Full</i></w><w><i>Throttle</i></w></corrected>
+    <corrected><w><hi>Charlie's</hi></w><w><hi>Angels</hi></w><w><i/></w><c>:</c><w><i/></w><w><hi>Full</hi></w><w><hi>Throttle</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -39,7 +51,7 @@
   <w>myndinni</w>
   <revision id="4">
     <original><w>Charlie's</w><w>Angels</w></original>
-    <corrected><w><i>Charlie's</i></w><w><i>Angels</i></w></corrected>
+    <corrected><w><hi>Charlie's</hi></w><w><hi>Angels</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_5-t0.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Í</w>
@@ -87,13 +99,13 @@
   <w>taka</w>
   <w>lagið</w>
   <w>þeirra</w>
-  <w><i>I</i></w>
-  <w><i>just</i></w>
-  <w><i>can't</i></w>
-  <w><i>get</i></w>
+  <w><hi>I</hi></w>
+  <w><hi>just</hi></w>
+  <w><hi>can't</hi></w>
+  <w><hi>get</hi></w>
   <revision id="6">
-    <original><w><i>enaugh</i></w></original>
-    <corrected><w><i>Enough</i></w></corrected>
+    <original><w><hi>enaugh</hi></w></original>
+    <corrected><w><hi>Enough</hi></w></corrected>
       <errors>
         <error xtype="lower4upper-proper" idx="66-1" eid="0"/>
         <error xtype="foreign-error" idx="66-1" eid="0"/>
@@ -290,16 +302,16 @@
       </errors>
   </revision>
   <w>sinni</w>
-  <w><i>No.</i></w>
-  <w><i>1</i></w>
-  <w><i>In</i></w>
-  <w><i>Heaven</i></w>
+  <w><hi>No.</hi></w>
+  <w><hi>1</hi></w>
+  <w><hi>In</hi></w>
+  <w><hi>Heaven</hi></w>
   <c>.</c>
 </s><s n="9">
   <w>Lagið</w>
-  <w><i>Are</i></w>
-  <w><i>Friends</i></w>
-  <w><i>Electric</i></w>
+  <w><hi>Are</hi></w>
+  <w><hi>Friends</hi></w>
+  <w><hi>Electric</hi></w>
   <w>varð</w>
   <w>mjög</w>
   <w>vinsælt</w>
@@ -1580,7 +1592,7 @@
   <c>)</c>
   <w>eða</w>
   <revision id="100">
-    <original><w><i>svuntupopp</i></w></original>
+    <original><w><hi>svuntupopp</hi></w></original>
     <corrected><w>svuntupopp</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>

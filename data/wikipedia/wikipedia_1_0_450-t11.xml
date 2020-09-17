@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_450-t11.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Susanna</w>
@@ -84,8 +96,8 @@
   <w>sinn</w>
   <w>í</w>
   <w>sjónvarpsþættinum</w>
-  <w><i>Silk</i></w>
-  <w><i>Stalkings</i></w>
+  <w><hi>Silk</hi></w>
+  <w><hi>Stalkings</hi></w>
   <w>frá</w>
   <w>árinu 1991</w>
   <c>.</c>

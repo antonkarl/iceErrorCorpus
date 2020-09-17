@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_10-t5.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Reiðhjól</w>
@@ -250,7 +262,7 @@
   <w>reiðhjólum</w>
   <c>,</c>
   <w>kölluð</w>
-  <w><i>pedelecs</i></w>
+  <w><hi>pedelecs</hi></w>
   <w>á</w>
   <w>ensku</w>
   <c>,</c>
@@ -414,7 +426,7 @@
         <error xtype="missing-word" eid="0" />
       </errors>
   </revision>
-  <w><i>Laufmaschine</i></w>
+  <w><hi>Laufmaschine</hi></w>
   <c>)</c>
   <c>.</c>
 </s>
@@ -864,9 +876,9 @@
   <w>hjól</w>
   <w>voru</w>
   <w>kölluð</w>
-  <w><i>veltipétur</i></w>
+  <w><hi>veltipétur</hi></w>
   <w>eða</w>
-  <w><i>Velociped</i></w>
+  <w><hi>Velociped</hi></w>
   <revision id="12">
     <original><c>.</c><w>Og</w></original>
     <corrected><w>og</w></corrected>
@@ -890,7 +902,7 @@
         <error xtype="dep" depId="13-1" eid="0" />
       </errors>
   </revision>
-  <w><i>hraðfóti</i></w>
+  <w><hi>hraðfóti</hi></w>
   <c>.</c>
 </s>
 <s n="37">

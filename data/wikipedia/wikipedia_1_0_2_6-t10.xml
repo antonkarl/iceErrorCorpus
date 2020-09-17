@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_6-t10.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Blágóman</w>
@@ -323,8 +335,8 @@
   <w>Blágóma</w>
   <c>(</c>
   <w>fræðiheiti</w>
-  <w><i>Anarhichas</i></w>
-  <w><i>denticulatus</i></w>
+  <w><hi>Anarhichas</hi></w>
+  <w><hi>denticulatus</hi></w>
   <c>)</c>
   <w>er</w>
   <w>steinbítstegund</w>

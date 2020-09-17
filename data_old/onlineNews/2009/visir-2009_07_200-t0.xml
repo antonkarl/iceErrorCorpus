@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Ragnheiður</w>
+  <w>Ríkharðsdóttir</w>
+  <revision id="1">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-commas" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>þingmaður</w>
+  <w>Sjálfstæðisflokksins</w>
+  <revision id="2">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>greiddi</w>
+  <w>atkvæði</w>
+  <w>með</w>
+  <w>tillögu</w>
+  <w>um</w>
+  <w>aðildarumsókn</w>
+  <w>að</w>
+  <w>ESB</w>
+  <w>rétt</w>
+  <w>í</w>
+  <w>þessu</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Hingað</w>
+  <w>til</w>
+  <w>er</w>
+  <w>Ragnheiður</w>
+  <w>fyrst</w>
+  <revision id="3">
+    <original><w>sjálfstæðismanna</w></original>
+    <corrected><w>Sjálfstæðismanna</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>þingi</w>
+  <w>til</w>
+  <w>að</w>
+  <w>greiða</w>
+  <w>atkvæði</w>
+  <w>með</w>
+  <w>tillögunni</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Siv</w>
+  <w>Friðleifsdóttir</w>
+  <revision id="4">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-commas" idx="4-1" eid="0" />
+      </errors>
+  </revision>
+  <w>þingmaður</w>
+  <w>Framsóknar</w>
+  <revision id="5">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="4-1" eid="0" />
+      </errors>
+  </revision>
+  <w>hefur</w>
+  <w>einnig</w>
+  <w>greitt</w>
+  <w>atkvæði</w>
+  <w>með</w>
+  <w>tillögunni</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Margrét</w>
+  <w>Tryggvadóttir</w>
+  <revision id="6">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-commas" idx="6-1" eid="0" />
+      </errors>
+  </revision>
+  <w>þingmaður</w>
+  <w>Borgarahreyfingarinnar</w>
+  <revision id="7">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="6-1" eid="0" />
+      </errors>
+  </revision>
+  <w>er</w>
+  <w>sú</w>
+  <w>fyrsta</w>
+  <w>til</w>
+  <w>þess</w>
+  <w>að</w>
+  <w>sitja</w>
+  <w>hjá</w>
+  <w>í</w>
+  <w>atkvæðagreiðslunni</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

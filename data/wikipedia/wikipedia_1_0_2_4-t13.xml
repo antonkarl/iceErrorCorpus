@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_4-t13.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Hann</w>
@@ -283,7 +295,7 @@
   <c>,</c>
   <revision id="3">
     <original><w>Monumento</w><w>dei</w><w>Quattro</w><w>Mori</w></original>
-    <corrected><w><i>Monumento</i></w><w><i>dei</i></w><w><i>Quattro</i></w><w><i>Mori</i></w></corrected>
+    <corrected><w><hi>Monumento</hi></w><w><hi>dei</hi></w><w><hi>Quattro</hi></w><w><hi>Mori</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

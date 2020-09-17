@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_1-t9.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Cavern</w>
@@ -147,7 +159,7 @@
   <w>spila</w>
   <w>lagið</w>
   <revision id="3">
-    <original><w><i>Don‘t</i></w><w><i>Be</i></w><w><i>Cruel</i></w></original>
+    <original><w><hi>Don‘t</hi></w><w><hi>Be</hi></w><w><hi>Cruel</hi></w></original>
     <corrected><c>„</c><w>Don‘t</w><w>Be</w><w>Cruel</w><c>“</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="3-1" eid="0" />

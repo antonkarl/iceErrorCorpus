@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_250-t19.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Rúanda</w>
@@ -99,10 +111,10 @@
         <error xtype="missing-conjunction" idx="6-2" eid="0"/>
       </errors>
   </revision>
-  <w><i>pays</i></w>
-  <w><i>des</i></w>
-  <w><i>mille</i></w>
-  <w><i>collines</i></w>
+  <w><hi>pays</hi></w>
+  <w><hi>des</hi></w>
+  <w><hi>mille</hi></w>
+  <w><hi>collines</hi></w>
   <revision id="8">
     <original><c>)</c><c>.</c><w>Það</w></original>
     <corrected><w>en</w><w>það</w></corrected>
@@ -177,17 +189,17 @@
   </revision>
   <w>kölluð</w>
   <revision id="15">
-    <original><w><i>Hutu</i></w></original>
-    <corrected><w>var</w><w><i>hutu</i></w></corrected>
+    <original><w><hi>Hutu</hi></w></original>
+    <corrected><w>var</w><w><hi>hutu</hi></w></corrected>
       <errors>
         <error xtype="dep" depId="33-1" eid="0"/>
       </errors>
   </revision>
-  <w><i>power</i></w>
+  <w><hi>power</hi></w>
   <w>eða</w>
   <revision id="16">
-    <original><w><i>Kraftur</i></w><w><i>Hútú</i></w></original>
-    <corrected><w><i>kraftur</i></w><w><i>hútú</i></w></corrected>
+    <original><w><hi>Kraftur</hi></w><w><hi>Hútú</hi></w></original>
+    <corrected><w><hi>kraftur</hi></w><w><hi>hútú</hi></w></corrected>
       <errors>
         <error xtype="upper4lower-common" eid="0"/>
       </errors>

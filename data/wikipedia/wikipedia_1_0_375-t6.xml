@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_375-t6.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Timbuktu</w>
@@ -94,7 +106,7 @@
   <w>hann</w>
   <w>hljómsveitina</w>
   <revision id="4">
-    <original><w><i>Excel</i></w></original>
+    <original><w><hi>Excel</hi></w></original>
     <corrected><w>Excel</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -107,12 +119,12 @@
   <w>gaf</w>
   <w>út</w>
   <w>plötuna</w>
-  <w><i>Bright</i></w>
+  <w><hi>Bright</hi></w>
   <w>ZLights</w>
   <c>,</c>
-  <w><i></i></w>
-  <w><i>Big</i></w>
-  <w><i>City</i></w>
+  <w><hi></hi></w>
+  <w><hi>Big</hi></w>
+  <w><hi>City</hi></w>
   <w>árið 1999</w>
   <c>.</c>
 </s>
@@ -133,8 +145,8 @@
   </revision>
   <w>sína</w>
   <c>:</c>
-  <w><i>The</i></w>
-  <w><i>Conspiracy</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Conspiracy</hi></w>
   <c>.</c>
 </s>
 <s n="7">
@@ -146,10 +158,10 @@
   <w>kom</w>
   <w>út</w>
   <w>platan</w>
-  <w><i>The</i></w>
-  <w><i>Botten</i></w>
-  <w><i>is</i></w>
-  <w><i>Nådd</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Botten</hi></w>
+  <w><hi>is</hi></w>
+  <w><hi>Nådd</hi></w>
   <c>.</c>
 </s>
 <s n="8">
@@ -203,14 +215,14 @@
   <w>tónlist</w>
   <w>fyrir</w>
   <w>sjónvarpsþáttinn</w>
-  <w><i>Kniven</i></w>
-  <w><i>i</i></w>
-  <w><i>hjärtat</i></w>
+  <w><hi>Kniven</hi></w>
+  <w><hi>i</hi></w>
+  <w><hi>hjärtat</hi></w>
   <w>og</w>
   <w>lék</w>
   <w>í</w>
   <w>kvikmyndinni</w>
-  <w><i>Babylonsjukan</i></w>
+  <w><hi>Babylonsjukan</hi></w>
   <c>.</c>
 </s>
 <s n="11">
@@ -229,14 +241,14 @@
   <w>árið 2005</w>
   <w>kom</w>
   <w>platan</w>
-  <w><i>Alla</i></w>
-  <w><i>vill</i></w>
-  <w><i>till</i></w>
-  <w><i>himmelen</i></w>
-  <w><i>men</i></w>
-  <w><i>ingen</i></w>
-  <w><i>vill</i></w>
-  <w><i>dö</i></w>
+  <w><hi>Alla</hi></w>
+  <w><hi>vill</hi></w>
+  <w><hi>till</hi></w>
+  <w><hi>himmelen</hi></w>
+  <w><hi>men</hi></w>
+  <w><hi>ingen</hi></w>
+  <w><hi>vill</hi></w>
+  <w><hi>dö</hi></w>
   <c>(</c>
   <revision id="8">
     <original><c>„</c></original>
@@ -281,16 +293,16 @@
   <w>Timbuktu</w>
   <w>út</w>
   <w>plötuna</w>
-  <w><i>En</i></w>
-  <w><i>High</i></w>
-  <w><i></i></w>
+  <w><hi>En</hi></w>
+  <w><hi>High</hi></w>
+  <w><hi></hi></w>
   <w>5Z</w>
-  <w><i></i></w>
+  <w><hi></hi></w>
   <c>&amp;</c>
-  <w><i></i></w>
-  <w><i></i></w>
+  <w><hi></hi></w>
+  <w><hi></hi></w>
   <w>1Z</w>
-  <w><i>Falafel</i></w>
+  <w><hi>Falafel</hi></w>
   <c>.</c>
 </s>
 <s n="13">
@@ -311,17 +323,17 @@
         <error xtype="extra-colon" eid="0" />
       </errors>
   </revision>
-  <w><i>Domz</i></w>
-  <w><i>hinner</i></w>
-  <w><i>aldrig</i></w>
-  <w><i>ifatt</i></w>
+  <w><hi>Domz</hi></w>
+  <w><hi>hinner</hi></w>
+  <w><hi>aldrig</hi></w>
+  <w><hi>ifatt</hi></w>
   <c>.</c>
 </s>
 <s n="14">
   <w>Þann</w>
   <w>8. júní 2011</w>
   <w>kom</w>
-  <w><i>Sagolandet</i></w>
+  <w><hi>Sagolandet</hi></w>
   <c>(</c>
   <revision id="11">
     <original><c>„</c></original>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Being</w>
+  <w>John</w>
+  <w>Malkovich</w>
+  <w>er</w>
+  <w>bandarísk</w>
+  <w>svört</w>
+  <revision id="1">
+    <original><w>komedía</w></original>
+    <corrected><w>kómedía</w></corrected>
+      <errors>
+        <error xtype="missing-accent" idx="1-1" eid="0" />
+        <error xtype="nonword" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>frá</w>
+  <w>árinu 1999</w>
+  <w>sem</w>
+  <w>Spike</w>
+  <w>Jonze</w>
+  <w>leikstýrði</w>
+  <w>og</w>
+  <w>Charlie</w>
+  <w>Kaufman</w>
+  <w>skrifaði</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>John</w>
+  <w>Cusack</w>
+  <c>,</c>
+  <w>Cameron</w>
+  <w>Diaz</w>
+  <c>,</c>
+  <w>Catherine</w>
+  <w>Keener</w>
+  <w>og</w>
+  <w>John</w>
+  <w>Malkovich</w>
+  <w>fara</w>
+  <w>með</w>
+  <w>aðalhlutverk</w>
+  <revision id="2">
+    <original><w>sem</w></original>
+    <corrected><c>.</c><w>Myndin</w></corrected>
+      <errors>
+        <error xtype="conjunction4period" eid="0" />
+      </errors>
+  </revision>
+  <w>fjallar</w>
+  <w>um</w>
+  <w>Craig</w>
+  <w>Schwartz</w>
+  <w>leikbrúðustjórnanda</w>
+  <w>sem</w>
+  <w>finnur</w>
+  <w>gátt</w>
+  <w>sem</w>
+  <w>leiðir</w>
+  <w>í</w>
+  <w>huga</w>
+  <w>John</w>
+  <w>Malkovich</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

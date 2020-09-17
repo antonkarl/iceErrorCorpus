@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader/>
+<text><body><p n="1">
+<s n="1">
+  <w>Halla</w>
+  <w>Margrét</w>
+  <w>Árnadóttir</w>
+  <revision id="1">
+    <original><c>(</c></original>
+    <corrected><c>,</c><w>sem</w></corrected>
+      <errors>
+        <error xtype="bracket4comma" idx="1-1" eid="0"/>
+        <error xtype="missing-conjunction" idx="1-2" eid="0"/>
+      </errors>
+  </revision>
+  <w>fædd</w>
+  <revision id="2">
+    <original/>
+    <corrected><w>er</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
+  <w>1964</w>
+  <revision id="3">
+    <original><c>)</c></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="bracket4comma" eid="0"/>
+      </errors>
+  </revision>
+  <w>er</w>
+  <w>íslensk</w>
+  <w>söngkona</w>
+  <c>.</c>
+</s><s n="2">
+  <w>Hún</w>
+  <w>keppti</w>
+  <w>fyrir</w>
+  <w>hönd</w>
+  <w>Íslands</w>
+  <w>í</w>
+  <w>Söngvakeppni</w>
+  <w>evrópskra</w>
+  <w>sjónvarpsstöðva</w>
+  <revision id="4">
+    <original><w>1987</w></original>
+    <corrected><w>árið 1987</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
+  <w>með</w>
+  <w>laginu</w>
+  <revision id="5">
+    <original><c>„</c><w>Hægt</w><w>og</w><w>hljótt</w><c>“</c></original>
+    <corrected><w><i>Hægt</i></w><w><i>og</i></w><w><i>hljótt</i></w></corrected>
+      <errors>
+        <error xtype="extra-quots" idx="5-1" eid="0"/>
+        <error xtype="nonit4it" idx="5-2" eid="0"/>
+        <error xtype="dep" depId="5-1" eid="0"/>
+      </errors>
+  </revision>
+  <c>.</c>
+</s><s n="3">
+  <w>Hún</w>
+  <w>varð</w>
+  <w>í</w>
+  <w>sextánda</w>
+  <w>sæti</w>
+  <w>af</w>
+  <w>22</w>
+  <w>og</w>
+  <w>hlaut</w>
+  <w>28</w>
+  <w>stig</w>
+  <c>.</c>
+</s></p></body></text>
+</TEI>

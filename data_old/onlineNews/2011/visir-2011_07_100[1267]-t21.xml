@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Þrír</w>
+  <w>voru</w>
+  <w>fluttir</w>
+  <w>á</w>
+  <w>slysadeild</w>
+  <w>eftir</w>
+  <w>áreksturinn</w>
+  <w>sem</w>
+  <w>varð</w>
+  <w>á</w>
+  <w>Suðurlandsvegi</w>
+  <w>við</w>
+  <w>afleggjarann</w>
+  <w>að</w>
+  <w>Hafravatni</w>
+  <w>rétt</w>
+  <w>eftir</w>
+  <w>klukkan tvö</w>
+  <w>í</w>
+  <w>dag</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Óljóst</w>
+  <w>er</w>
+  <w>um</w>
+  <w>líðan</w>
+  <w>fólksins</w>
+  <w>en</w>
+  <w>það</w>
+  <w>hafði</w>
+  <w>allt</w>
+  <w>náð</w>
+  <w>að</w>
+  <w>koma</w>
+  <w>sér</w>
+  <w>út</w>
+  <w>úr</w>
+  <w>bílunum</w>
+  <w>þegar</w>
+  <w>sjúkralið</w>
+  <w>bar</w>
+  <w>að</w>
+  <w>garði</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Slysið</w>
+  <w>varð</w>
+  <w>með</w>
+  <w>þeim</w>
+  <w>hætti</w>
+  <w>að</w>
+  <w>jeppi</w>
+  <w>og</w>
+  <w>jepplingur</w>
+  <w>skullu</w>
+  <w>saman</w>
+  <w>og</w>
+  <revision id="1">
+    <original><w>valt</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wording" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>önnur</w>
+  <w>bifreiðin</w>
+  <revision id="2">
+    <original></original>
+    <corrected><w>valt</w></corrected>
+      <errors>
+        <error xtype="dep" depId="1-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

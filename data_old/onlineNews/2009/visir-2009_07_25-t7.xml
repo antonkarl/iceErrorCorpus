@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <c>„</c>
+  <w>Ég</w>
+  <w>þekkti</w>
+  <w>Michael</w>
+  <w>og</w>
+  <w>hann</w>
+  <w>var</w>
+  <w>sannur</w>
+  <w>tónlistarsnillingur</w>
+  <w>með</w>
+  <w>hjarta</w>
+  <revision id="1">
+    <original><w>engils</w></original>
+    <corrected><w>úr</w><w>gulli</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Við</w>
+  <w>söknum</w>
+  <w>hans</w>
+  <w>öll</w>
+  <w>og</w>
+  <w>fráfall</w>
+  <w>hans</w>
+  <w>ætti</w>
+  <w>að</w>
+  <w>minna</w>
+  <w>okkur</w>
+  <w>á</w>
+  <w>að</w>
+  <revision id="2">
+    <original><w>upplifa</w><w>alla</w><w>daga</w></original>
+    <corrected><w>lifa</w><w>hvern</w><w>dag</w></corrected>
+      <errors>
+        <error xtype="wording" idx="2-1" eid="0" />
+      </errors>
+  </revision>
+  <w>líkt</w>
+  <w>og</w>
+  <revision id="3">
+    <original><w>þeir</w><w>væru</w></original>
+    <corrected><w>hann</w><w>sé</w></corrected>
+      <errors>
+        <error xtype="dep" depId="2-1" eid="0" />
+      </errors>
+  </revision>
+  <w>okkar</w>
+  <revision id="4">
+    <original><w>síðustu</w></original>
+    <corrected><w>síðasti</w></corrected>
+      <errors>
+        <error xtype="dep" depId="2-1" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <revision id="4b">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
+  <w>segir</w>
+  <w>söngkonan</w>
+  <w>Dolly</w>
+  <w>Parton</w>
+  <w>meðal</w>
+  <w>annars</w>
+  <w>í</w>
+  <w>meðfylgjandi</w>
+  <w>myndbandi</w>
+  <w>þar</w>
+  <w>sem</w>
+  <w>hún</w>
+  <w>minnist</w>
+  <w>Michael</w>
+  <w>Jackson</w>
+  <w>sem</w>
+  <w>féll</w>
+  <w>frá</w>
+  <w>25. júní</w>
+  <w>síðastliðinn</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Sjá</w>
+  <w>myndbandið</w>
+  <w>hér</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

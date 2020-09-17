@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_7-t1.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Burstaormar</w>
@@ -16,7 +28,7 @@
   <c>(</c>
   <w>fræðiheiti</w>
   <c>:</c>
-  <w><i>Polychaeta</i></w>
+  <w><hi>Polychaeta</hi></w>
   <c>)</c>
   <w>eru</w>
   <w>hryggleysingjar</w>
@@ -110,12 +122,12 @@
   <w>eru</w>
   <w>ánamaðkar</w>
   <c>(</c>
-  <w><i>Oligochaeta</i></w>
+  <w><hi>Oligochaeta</hi></w>
   <c>)</c>
   <w>og</w>
   <w>iglur</w>
   <c>(</c>
-  <w><i>Hirudinea</i></w>
+  <w><hi>Hirudinea</hi></w>
   <c>)</c>
   <c>.</c>
 </s>
@@ -902,7 +914,7 @@
 <s n="34">
   <w>Hreisturbakur</w>
   <c>(</c>
-  <w><i>Polynoinae</i></w>
+  <w><hi>Polynoinae</hi></w>
   <c>)</c>
   <w>er</w>
   <w>ein</w>
@@ -1165,8 +1177,8 @@
 <s n="45">
   <w>Snúðormar</w>
   <c>(</c>
-  <w><i>Spirorbis</i></w>
-  <w><i>spp</i></w>
+  <w><hi>Spirorbis</hi></w>
+  <w><hi>spp</hi></w>
   <c>)</c>
   <w>eru</w>
   <w>frekar</w>

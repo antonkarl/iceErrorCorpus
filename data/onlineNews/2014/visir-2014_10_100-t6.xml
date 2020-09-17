@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>visir-2014_10_100-t6.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Næring</w>
@@ -100,8 +112,8 @@
         <error xtype="missing-dash" eid="0"/>
       </errors>
   </revision>
-  <w><i>Health</i></w>
-  <w><i>Goth</i></w>
+  <w><hi>Health</hi></w>
+  <w><hi>Goth</hi></w>
   <w>var</w>
   <w>stofnuð</w>
   <c>.</c>
@@ -262,7 +274,7 @@
   <w>Undanfarið</w>
   <w>hefur</w>
   <w>kassamerkingin</w>
-  <w><i>healthgoth</i></w>
+  <w><hi>healthgoth</hi></w>
   <w>náð</w>
   <w>vinsældum</w>
   <w>á</w>
@@ -653,7 +665,7 @@
 </s><s n="28">
   <w>Á</w>
   <w>síðunni</w>
-  <w><i>deadworldwide</i></w>
+  <w><hi>deadworldwide</hi></w>
   <w>útskýrir</w>
   <w>Caitlin</w>
   <w>Mary</w>

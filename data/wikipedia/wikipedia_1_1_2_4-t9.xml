@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_4-t9.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Eggert</w>
@@ -262,10 +274,10 @@
   <w>myndskreytti</w>
   <w>hann</w>
   <w>bókina</w>
-  <w><i>Íslensk</i></w>
-  <w><i>flóra</i></w>
-  <w><i>með</i></w>
-  <w><i>litmyndum</i></w>
+  <w><hi>Íslensk</hi></w>
+  <w><hi>flóra</hi></w>
+  <w><hi>með</hi></w>
+  <w><hi>litmyndum</hi></w>
   <w>eftir</w>
   <w>Ágúst</w>
   <w>H.</w>
@@ -652,7 +664,7 @@
   <w>nafninu</w>
   <revision id="7">
     <original><w>Flora</w><w>Islandica</w></original>
-    <corrected><w><i>Flora</i></w><w><i>Islandica</i></w></corrected>
+    <corrected><w><hi>Flora</hi></w><w><hi>Islandica</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -660,7 +672,7 @@
   <w>eða</w>
   <revision id="8">
     <original><w>Flóra</w><w>Íslands</w></original>
-    <corrected><w><i>Flóra</i></w><w><i>Íslands</i></w></corrected>
+    <corrected><w><hi>Flóra</hi></w><w><hi>Íslands</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>

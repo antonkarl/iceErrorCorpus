@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_10-t0.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Dauðarokk</w>
@@ -16,7 +28,7 @@
   <w>frá</w>
   <revision id="1">
     <original><w>bylturokki</w></original>
-    <corrected><w><i>þrassi</i></w><c>(</c><w>e.</w><w>Thrash</w><w>metal</w><c>)</c></corrected>
+    <corrected><w><hi>þrassi</hi></w><c>(</c><w>e.</w><w>Thrash</w><w>metal</w><c>)</c></corrected>
       <errors>
         <error xtype="wording" idx="1-1" eid="0" />
         <error xtype="nonit4it" idx="1-1" eid="0" />
@@ -90,8 +102,8 @@
   <w>tóna</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>Tremolo</i></w>
-  <w><i>picking</i></w>
+  <w><hi>Tremolo</hi></w>
+  <w><hi>picking</hi></w>
   <c>)</c>
   <c>,</c>
   <w>djúpum</w>
@@ -296,7 +308,7 @@
   <w>segja</w>
   <revision id="13">
     <original><w>Welcome</w><w>to</w><w>Hell</w></original>
-    <corrected><w><i>Welcome</i></w><w><i>to</i></w><w><i>Hell</i></w></corrected>
+    <corrected><w><hi>Welcome</hi></w><w><hi>to</hi></w><w><hi>Hell</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -307,7 +319,7 @@
   <w>og</w>
   <revision id="14">
     <original><w>black</w><w>Metal</w></original>
-    <corrected><w><i>Black</i></w><w><i>Metal</i></w></corrected>
+    <corrected><w><hi>Black</hi></w><w><hi>Metal</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -487,7 +499,7 @@
   <c>,</c>
   <revision id="22">
     <original><w>Reign</w><w>in</w><w>Blood</w></original>
-    <corrected><w><i>Reign</i></w><w><i>in</i></w><w><i>Blood</i></w></corrected>
+    <corrected><w><hi>Reign</hi></w><w><hi>in</hi></w><w><hi>Blood</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -610,7 +622,7 @@
   <w>nafnið</w>
   <revision id="29">
     <original><w>Death</w><w>metal</w></original>
-    <corrected><w><i>Death</i></w><w><i>metal</i></w></corrected>
+    <corrected><w><hi>Death</hi></w><w><hi>metal</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -640,7 +652,7 @@
   <c>,</c>
   <revision id="31">
     <original><w>Seven</w><w>Churches</w></original>
-    <corrected><w><i>Seven</i></w><w><i>Churches</i></w></corrected>
+    <corrected><w><hi>Seven</hi></w><w><hi>Churches</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -791,7 +803,7 @@
   <c>,</c>
   <revision id="41">
     <original><w>Scream</w><w>Bloody</w><w>Gore</w></original>
-    <corrected><w><i>Scream</i></w><w><i>Bloody</i></w><w><i>Gore</i></w></corrected>
+    <corrected><w><hi>Scream</hi></w><w><hi>Bloody</hi></w><w><hi>Gore</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Sir</w>
+  <w>Alex</w>
+  <w>Ferguson</w>
+  <c>,</c>
+  <w>stjóri</w>
+  <w>Manchester</w>
+  <w>United</w>
+  <c>,</c>
+  <w>viðurkennir</w>
+  <w>að</w>
+  <w>enn</w>
+  <w>sé</w>
+  <w>óvíst</w>
+  <w>hvenær</w>
+  <w>Darren</w>
+  <w>Fletcher</w>
+  <w>geti</w>
+  <w>byrjað</w>
+  <w>að</w>
+  <w>spila</w>
+  <w>með</w>
+  <w>liðinu</w>
+  <w>á</w>
+  <w>nýjan</w>
+  <w>leik</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Fletcher</w>
+  <w>hefur</w>
+  <w>ekkert</w>
+  <w>spilað</w>
+  <w>síðan</w>
+  <w>í</w>
+  <w>nóvember</w>
+  <w>á</w>
+  <w>síðasta</w>
+  <w>ári</w>
+  <w>þar</w>
+  <w>sem</w>
+  <w>hann</w>
+  <w>er</w>
+  <w>að</w>
+  <w>glíma</w>
+  <w>við</w>
+  <w>sáraristilbólgu</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Ferguson</w>
+  <w>er</w>
+  <w>ekki</w>
+  <w>viss</w>
+  <w>um</w>
+  <w>hvort</w>
+  <revision id="0">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="0-1" eid="0"/>
+        <error xtype="style" idx="0-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>Fletcher</w>
+  <w>muni</w>
+  <w>nokkru</w>
+  <w>sinni</w>
+  <w>ná</w>
+  <w>fullri</w>
+  <w>heilsu</w>
+  <w>á</w>
+  <w>nýjan</w>
+  <w>leik</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <c>„</c>
+  <w>Við</w>
+  <w>verðum</w>
+  <w>að</w>
+  <w>bíða</w>
+  <w>og</w>
+  <w>sjá</w>
+  <w>til</w>
+  <w>en</w>
+  <w>drengurinn</w>
+  <w>er</w>
+  <w>að</w>
+  <w>leggja</w>
+  <w>mjög</w>
+  <w>hart</w>
+  <w>að</w>
+  <w>sér</w>
+  <w>til</w>
+  <w>að</w>
+  <w>ná</w>
+  <w>fyrri</w>
+  <w>styrk</w>
+  <c>,</c>
+  <revision id="1">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
+  <w>sagði</w>
+  <w>Ferguson</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <c>„</c>
+  <w>Það</w>
+  <w>verður</w>
+  <w>ekki</w>
+  <w>auðvelt</w>
+  <w>en</w>
+  <w>við</w>
+  <w>munum</w>
+  <w>styðja</w>
+  <w>hann</w>
+  <w>eins</w>
+  <w>lengi</w>
+  <w>og</w>
+  <w>þarf</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Darren</w>
+  <w>er</w>
+  <w>frábær</w>
+  <w>drengur</w>
+  <w>og</w>
+  <w>við</w>
+  <w>vonum</w>
+  <w>öll</w>
+  <w>að</w>
+  <w>hann</w>
+  <w>geti</w>
+  <w>snúið</w>
+  <w>til</w>
+  <w>baka</w>
+  <c>.</c>
+  <revision id="2">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
+</s>
+<s n="7">
+  <w>Fletcher</w>
+  <w>tók</w>
+  <w>að</w>
+  <w>sér</w>
+  <w>þjálfunarstörf</w>
+  <w>hjá</w>
+  <w>United</w>
+  <w>á</w>
+  <revision id="3">
+    <original><w>síðari</w></original>
+    <corrected><w>seinni</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>hluta</w>
+  <revision id="4">
+    <original><w>tímabilsins</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wording" idx="4-1" eid="0" />
+        <error xtype="def4ind" idx="4-1" eid="0" />
+      </errors>
+  </revision>
+  <w>síðasta</w>
+  <revision id="5">
+    <original></original>
+    <corrected><w>tímabils</w></corrected>
+      <errors>
+        <error xtype="dep" depId="4-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

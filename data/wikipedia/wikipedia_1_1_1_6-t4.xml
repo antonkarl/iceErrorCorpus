@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_6-t4.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Johannes</w>
@@ -32,9 +44,9 @@
   <c>.</c>
 </s><s n="2">
   <w>Bókin</w>
-  <w><i>Náttúrufræði</i></w>
-  <w><i>handa</i></w>
-  <w><i>barnaskólum</i></w>
+  <w><hi>Náttúrufræði</hi></w>
+  <w><hi>handa</hi></w>
+  <w><hi>barnaskólum</hi></w>
   <w>var</w>
   <w>áratugum</w>
   <w>saman</w>
@@ -108,10 +120,10 @@
   <w>Á</w>
   <w>eftir</w>
   <w>fylgdu</w>
-  <w><i>Spendýrin</i></w>
+  <w><hi>Spendýrin</hi></w>
   <w>árið 1932</w>
   <w>og</w>
-  <w><i>Fuglarnir</i></w>
+  <w><hi>Fuglarnir</hi></w>
   <w>1936</w>
   <c>.</c>
 </s><s n="7">
@@ -157,7 +169,7 @@
   <w>sína</w>
   <w>í</w>
   <w>bókinni</w>
-  <w><i>Fiskarnir</i></w>
+  <w><hi>Fiskarnir</hi></w>
   <w>sem</w>
   <w>kom</w>
   <w>út</w>
@@ -200,22 +212,22 @@
   <w>eftir</w>
   <w>hann</w>
   <w>eru</w>
-  <w><i>Dýrafræði</i></w>
-  <w><i>handa</i></w>
-  <w><i>gagnfræðaskólum</i></w>
+  <w><hi>Dýrafræði</hi></w>
+  <w><hi>handa</hi></w>
+  <w><hi>gagnfræðaskólum</hi></w>
   <w>og</w>
-  <w><i>Landafræði</i></w>
-  <w><i>handa</i></w>
-  <w><i>gagnfræðaskólum</i></w>
+  <w><hi>Landafræði</hi></w>
+  <w><hi>handa</hi></w>
+  <w><hi>gagnfræðaskólum</hi></w>
   <w>auk</w>
   <w>þess</w>
   <w>sem</w>
   <w>hann</w>
   <w>skrifaði</w>
   <w>kennslubókina</w>
-  <w><i>Sjór</i></w>
-  <w><i>og</i></w>
-  <w><i>loft</i></w>
+  <w><hi>Sjór</hi></w>
+  <w><hi>og</hi></w>
+  <w><hi>loft</hi></w>
   <w>sem</w>
   <w>kennd</w>
   <w>var</w>

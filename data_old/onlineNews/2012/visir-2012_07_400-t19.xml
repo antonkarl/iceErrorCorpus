@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="0">
+  <revision id="1">
+    <original><w>Suður</w><w>Kóreumenn</w></original>
+    <corrected><w>Suður-Kóreumenn</w></corrected>
+      <errors>
+        <error xtype="split-word" idx="1-1" eid="0" />
+        <error xtype="missing-dash" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>hyggjast</w>
+  <w>taka</w>
+  <w>upp</w>
+  <w>vísindaveiðar</w>
+  <w>á</w>
+  <w>hrefnum</w>
+  <w>undan</w>
+  <w>ströndum</w>
+  <w>landsins</w>
+  <w>á</w>
+  <w>svipuðum</w>
+  <revision id="2">
+    <original><w>grunni</w></original>
+    <corrected><w>grundvelli</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>Japanir</w>
+  <w>stunda</w>
+  <revision id="3">
+    <original><w>sína</w></original>
+    <corrected><w>sínar</w></corrected>
+      <errors>
+        <error xtype="agreement-concord" eid="0" />
+      </errors>
+  </revision>
+  <w>vísindaveiðar</w>
+  <w>á</w>
+  <w>hvölum</w>
+  <c>.</c>
+</s>
+<s n="1">
+  <w>Ekki</w>
+  <w>liggur</w>
+  <w>ljóst</w>
+  <w>fyrir</w>
+  <w>hve</w>
+  <w>margar</w>
+  <w>hrefnur</w>
+  <revision id="4">
+    <original><w>Suður</w><w>Kóreumenn</w></original>
+    <corrected><w>Suður-Kóreumenn</w></corrected>
+      <errors>
+        <error xtype="split-word" idx="4-1" eid="0" />
+        <error xtype="missing-dash" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>ætla</w>
+  <w>sér</w>
+  <w>að</w>
+  <w>veiða</w>
+  <w>á</w>
+  <w>hverju</w>
+  <w>ári</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Þetta</w>
+  <revision id="5">
+    <original><w>hefrur</w></original>
+    <corrected><w>hefur</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="5-1" eid="0" />
+        <error xtype="nonword" idx="5-1" eid="0" />
+      </errors>
+  </revision>
+  <w>vakið</w>
+  <w>hörð</w>
+  <w>viðbrögð</w>
+  <w>og</w>
+  <w>mótmæli</w>
+  <revision id="6">
+    <original><w>frá</w></original>
+    <corrected><w>hjá</w></corrected>
+      <errors>
+        <error xtype="wrong-prep" eid="0" />
+      </errors>
+  </revision>
+  <w>ýmsum</w>
+  <w>hvalafriðunarsamtökum</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Sendinefnd</w>
+  <revision id="7">
+    <original><w>Suður</w><w>Kóreu</w></original>
+    <corrected><w>Suður-Kóreu</w><w>segir</w><w>hins</w><w>vegar</w></corrected>
+      <errors>
+        <error xtype="split-word" idx="7-1" eid="0" />
+        <error xtype="missing-dash" idx="7-1" eid="0" />
+        <error xtype="wording" idx="7-2" eid="0" />
+        <error xtype="merged-words" idx="7-2" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>fundi</w>
+  <w>Alþjóðahvalveiðiráðsins</w>
+  <revision id="8">
+    <original><w>segir</w><w>hinsvegar</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="7-2" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>veiðarnar</w>
+  <w>séu</w>
+  <w>nauðsynlegar</w>
+  <w>til</w>
+  <w>að</w>
+  <w>kanna</w>
+  <w>umfang</w>
+  <w>og</w>
+  <w>viðkomu</w>
+  <w>hrefnustofnsins</w>
+  <w>undan</w>
+  <w>ströndum</w>
+  <w>landsins</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

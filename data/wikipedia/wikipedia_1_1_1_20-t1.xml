@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_20-t1.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Daniel</w>
@@ -513,7 +525,7 @@
   </revision>
   <c>„</c>
   <revision id="9">
-    <original><c><i>...</i></c><w><i>skorið</i></w><w><i>hefur</i></w><w><i>verið</i></w><w><i>gróp</i></w><w><i>í</i></w><w><i>stofn</i></w><w><i>og</i></w><w><i>þvertré</i></w><c><i>,</i></c><w><i>hálft</i></w><w><i>í</i></w><w><i>hálft</i></w><c><i>,</i></c><w><i>og</i></w><w><i>smellt</i></w><w><i>saman</i></w><c><i>...</i></c><w><i>engir</i></w><w><i>slíkir</i></w><w><i>krossar</i></w><w><i>eru</i></w><w><i>áður</i></w><w><i>kunnir</i></w><w><i>hér</i></w><w><i>á</i></w><w><i>landi</i></w></original>
+    <original><c><hi>...</hi></c><w><hi>skorið</hi></w><w><hi>hefur</hi></w><w><hi>verið</hi></w><w><hi>gróp</hi></w><w><hi>í</hi></w><w><hi>stofn</hi></w><w><hi>og</hi></w><w><hi>þvertré</hi></w><c><hi>,</hi></c><w><hi>hálft</hi></w><w><hi>í</hi></w><w><hi>hálft</hi></w><c><hi>,</hi></c><w><hi>og</hi></w><w><hi>smellt</hi></w><w><hi>saman</hi></w><c><hi>...</hi></c><w><hi>engir</hi></w><w><hi>slíkir</hi></w><w><hi>krossar</hi></w><w><hi>eru</hi></w><w><hi>áður</hi></w><w><hi>kunnir</hi></w><w><hi>hér</hi></w><w><hi>á</hi></w><w><hi>landi</hi></w></original>
     <corrected><w>skorið</w><w>hefur</w><w>verið</w><w>gróp</w><w>í</w><w>stofn</w><w>og</w><w>þvertré</w><c>,</c><w>hálft</w><w>í</w><w>hálft</w><c>,</c><w>og</w><w>smellt</w><w>saman</w><c>...</c><w>engir</w><w>slíkir</w><w>krossar</w><w>eru</w><w>áður</w><w>kunnir</w><w>hér</w><w>á</w><w>landi</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -620,10 +632,10 @@
   <w>var</w>
   <w>birt</w>
   <w>í</w>
-  <w><i>Árbók</i></w>
-  <w><i>Hins</i></w>
-  <w><i>íslenska</i></w>
-  <w><i>fornleifafélags</i></w>
+  <w><hi>Árbók</hi></w>
+  <w><hi>Hins</hi></w>
+  <w><hi>íslenska</hi></w>
+  <w><hi>fornleifafélags</hi></w>
   <c>.</c>
 </s><s n="28">
   <w>Hann</w>

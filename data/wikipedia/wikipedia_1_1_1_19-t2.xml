@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_19-t2.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Hún</w>
@@ -250,7 +262,7 @@
   <w>hennar</w>
   <revision id="14">
     <original><w>Landslagsmynd</w></original>
-    <corrected><c>,</c><w><i>Landslagsmynd</i></w><c>,</c></corrected>
+    <corrected><c>,</c><w><hi>Landslagsmynd</hi></w><c>,</c></corrected>
       <errors>
         <error xtype="missing-commas" eid="0"/>
         <error xtype="nonit4it" eid="0"/>
@@ -413,7 +425,7 @@
   <w>kallaðist</w>
   <revision id="22">
     <original><w>Myndheimur</w></original>
-    <corrected><w><i>Myndheimur</i></w></corrected>
+    <corrected><w><hi>Myndheimur</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

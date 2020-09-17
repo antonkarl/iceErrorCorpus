@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_15-t2.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Höfundur</w>
@@ -68,14 +80,14 @@
 </s><s n="6">
   <w>Titilsagan</w>
   <c>,</c>
-  <w><i>Gormahreiðrið</i></w>
+  <w><hi>Gormahreiðrið</hi></w>
   <c>,</c>
   <w>birtist</w>
   <w>í</w>
   <w>tímaritinu</w>
   <revision id="1">
     <original><w>Sval</w></original>
-    <corrected><w><i>Sval</i></w></corrected>
+    <corrected><w><hi>Sval</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -167,7 +179,7 @@
   <w>flokki</w>
   <w>glæpaforingjans</w>
   <revision id="3">
-    <original><w><i>Caspianos</i></w></original>
+    <original><w><hi>Caspianos</hi></w></original>
     <corrected><w>Caspianos</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -230,14 +242,14 @@
   <w>saga</w>
   <w>bókarinnar</w>
   <c>,</c>
-  <w><i>Bófaslagur</i></w>
+  <w><hi>Bófaslagur</hi></w>
   <c>(</c>
   <w>franska</w>
   <c>:</c>
-  <w><i>La</i></w>
-  <w><i>foire</i></w>
-  <w><i>aux</i></w>
-  <w><i>gangsters</i></w>
+  <w><hi>La</hi></w>
+  <w><hi>foire</hi></w>
+  <w><hi>aux</hi></w>
+  <w><hi>gangsters</hi></w>
   <c>)</c>
   <w>birtist</w>
   <w>fyrst</w>
@@ -274,14 +286,14 @@
   <w>ritröðinni</w>
   <c>.</c>
 </s><s n="16">
-  <w><i>Gormahreiðrið</i></w>
+  <w><hi>Gormahreiðrið</hi></w>
   <c>(</c>
   <w>franska</w>
   <c>:</c>
-  <w><i>Le</i></w>
-  <w><i>nid</i></w>
-  <w><i>des</i></w>
-  <w><i>marsupilamis</i></w>
+  <w><hi>Le</hi></w>
+  <w><hi>nid</hi></w>
+  <w><hi>des</hi></w>
+  <w><hi>marsupilamis</hi></w>
   <c>)</c>
   <w>er</w>
   <w>tólfta</w>
@@ -321,7 +333,7 @@
   <w>lífvörð</w>
   <w>auðkýfingsins</w>
   <revision id="6">
-    <original><w><i>Johns</i></w><w><i>P.</i></w><w><i>Nut</i></w></original>
+    <original><w><hi>Johns</hi></w><w><hi>P.</hi></w><w><hi>Nut</hi></w></original>
     <corrected><w>Johns</w><w>P.</w><w>Nut</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -392,7 +404,7 @@
   <w>sonur</w>
   <w>milljónamæringsins</w>
   <revision id="7">
-    <original><w><i>Honeysuckle</i></w></original>
+    <original><w><hi>Honeysuckle</hi></w></original>
     <corrected><w>Honeysuckle</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -410,7 +422,7 @@
   <w>Torkennilegur</w>
   <w>Japani</w>
   <revision id="8">
-    <original><w><i>Soto</i></w><w><i>Kiki</i></w></original>
+    <original><w><hi>Soto</hi></w><w><hi>Kiki</hi></w></original>
     <corrected><c>,</c><w>Soto</w><w>Kiki</w><c>,</c></corrected>
       <errors>
         <error xtype="missing-commas" eid="0"/>

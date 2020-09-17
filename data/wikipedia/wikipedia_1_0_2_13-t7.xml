@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_13-t7.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Árið 1991</w>
@@ -18,7 +30,7 @@
   <w>í</w>
   <revision id="2">
     <original><w>I'll</w><w>Fly</w><w>Away</w></original>
-    <corrected><w><i>I'll</i></w><w><i>Fly</i></w><w><i>Away</i></w></corrected>
+    <corrected><w><hi>I'll</hi></w><w><hi>Fly</hi></w><w><hi>Away</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -44,19 +56,19 @@
   <w>á</w>
   <w>borð</w>
   <w>við</w>
-  <w><i>Macbeth</i></w>
+  <w><hi>Macbeth</hi></w>
   <c>,</c>
-  <w><i>The</i></w>
-  <w><i>Illusion</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Illusion</hi></w>
   <c>,</c>
-  <w><i>Jar</i></w>
-  <w><i>the</i></w>
-  <w><i>Floor</i></w>
+  <w><hi>Jar</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>Floor</hi></w>
   <w>og</w>
-  <w><i>As</i></w>
-  <w><i>You</i></w>
-  <w><i>Like</i></w>
-  <w><i>It</i></w>
+  <w><hi>As</hi></w>
+  <w><hi>You</hi></w>
+  <w><hi>Like</hi></w>
+  <w><hi>It</hi></w>
   <revision id="3">
     <original/>
     <corrected><c>.</c></corrected>
@@ -76,7 +88,7 @@
       </errors>
   </revision>
   <w>í</w>
-  <w><i>Nurse</i></w>
+  <w><hi>Nurse</hi></w>
   <revision id="5">
     <original/>
     <corrected><w>árið 1980</w></corrected>
@@ -114,7 +126,7 @@
   <w>í</w>
   <revision id="7">
     <original><w>I'll</w><w>Fly</w><w>Away</w></original>
-    <corrected><w><i>I'll</i></w><w><i>Fly</i></w><w><i>Away</i></w></corrected>
+    <corrected><w><hi>I'll</hi></w><w><hi>Fly</hi></w><w><hi>Away</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -122,7 +134,7 @@
   <c>,</c>
   <revision id="8">
     <original><w>The</w><w>Unit</w></original>
-    <corrected><w><i>The</i></w><w><i>Unit</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Unit</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -130,7 +142,7 @@
   <w>og</w>
   <revision id="9">
     <original><w>The</w><w>Negotiator</w></original>
-    <corrected><w><i>The</i></w><w><i>Negotiator</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Negotiator</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -152,7 +164,7 @@
   <w>í</w>
   <revision id="11">
     <original><w>Lean</w><w>on</w><w>Me</w></original>
-    <corrected><w><i>Lean</i></w><w><i>on</i></w><w><i>Me</i></w></corrected>
+    <corrected><w><hi>Lean</hi></w><w><hi>on</hi></w><w><hi>Me</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -169,15 +181,15 @@
   <w>á</w>
   <w>borð</w>
   <w>við</w>
-  <w><i>Clockers</i></w>
+  <w><hi>Clockers</hi></w>
   <c>,</c>
-  <w><i>Courage</i></w>
-  <w><i>Under</i></w>
-  <w><i>Fire</i></w>
+  <w><hi>Courage</hi></w>
+  <w><hi>Under</hi></w>
+  <w><hi>Fire</hi></w>
   <w>og</w>
   <revision id="12">
     <original><w>The</w><w>Negotiator</w></original>
-    <corrected><w><i>The</i></w><w><i>Negotiator</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Negotiator</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -191,12 +203,12 @@
   <w>leikrit</w>
   <w>byggt</w>
   <w>á</w>
-  <w><i>The</i></w>
-  <w><i>Seagull</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Seagull</hi></w>
   <w>og</w>
-  <w><i>The</i></w>
-  <w><i>Cherry</i></w>
-  <w><i>Orchard</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Cherry</hi></w>
+  <w><hi>Orchard</hi></w>
   <w>eftir</w>
   <w>Anton</w>
   <w>Chekhov</w>
@@ -214,14 +226,14 @@
   <w>Júlíu</w>
   <w>í</w>
   <revision id="13">
-    <original><w><i>Rómeo</i></w></original>
-    <corrected><w><i>Rómeó</i></w></corrected>
+    <original><w><hi>Rómeo</hi></w></original>
+    <corrected><w><hi>Rómeó</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
   </revision>
-  <w><i>og</i></w>
-  <w><i>Júlíu</i></w>
+  <w><hi>og</hi></w>
+  <w><hi>Júlíu</hi></w>
   <w>eftir</w>
   <w>William</w>
   <w>Shakespeare</w>
@@ -235,7 +247,7 @@
   <w>í</w>
   <revision id="14">
     <original><w>The</w><w>Unit</w></original>
-    <corrected><w><i>The</i></w><w><i>Unit</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Unit</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -260,7 +272,7 @@
   <w>nám</w>
   <w>við</w>
   <revision id="16">
-    <original><w><i>Southern</i></w><w><i>Methodist</i></w><w><i>háskólann</i></w></original>
+    <original><w><hi>Southern</hi></w><w><hi>Methodist</hi></w><w><hi>háskólann</hi></w></original>
     <corrected><w>Southern</w><w>Methodist-háskólann</w></corrected>
       <errors>
         <error xtype="it4nonit" idx="6-1" eid="0"/>
@@ -287,18 +299,18 @@
   <w>á</w>
   <w>borð</w>
   <w>við</w>
-  <w><i>American</i></w>
-  <w><i>Playhouse</i></w>
+  <w><hi>American</hi></w>
+  <w><hi>Playhouse</hi></w>
   <c>,</c>
-  <w><i>Law</i></w>
+  <w><hi>Law</hi></w>
   <w><i/></w>
   <c>&amp;</c>
   <w><i/></w>
-  <w><i>Order</i></w>
+  <w><hi>Order</hi></w>
   <w>og</w>
   <revision id="17">
     <original><w>Grey's</w><w>Anatomy</w></original>
-    <corrected><w><i>Grey's</i></w><w><i>Anatomy</i></w></corrected>
+    <corrected><w><hi>Grey's</hi></w><w><hi>Anatomy</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -326,12 +338,12 @@
 </s><s n="11">
   <w>Taylor</w>
   <w>er</w>
-  <w><i>Distinguished</i></w>
-  <w><i>Artistic</i></w>
-  <w><i>Associate</i></w>
+  <w><hi>Distinguished</hi></w>
+  <w><hi>Artistic</hi></w>
+  <w><hi>Associate</hi></w>
   <w>hjá</w>
   <revision id="18">
-    <original><w><i>Goodman</i></w><w><i>Theater</i></w></original>
+    <original><w><hi>Goodman</hi></w><w><hi>Theater</hi></w></original>
     <corrected><w>Goodman</w><w>Theater</w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
@@ -348,16 +360,16 @@
   <w>á</w>
   <w>borð</w>
   <w>við</w>
-  <w><i>Crowns</i></w>
+  <w><hi>Crowns</hi></w>
   <c>,</c>
-  <w><i>A</i></w>
-  <w><i>Night</i></w>
-  <w><i>in</i></w>
-  <w><i>Tunisia</i></w>
+  <w><hi>A</hi></w>
+  <w><hi>Night</hi></w>
+  <w><hi>in</hi></w>
+  <w><hi>Tunisia</hi></w>
   <c>,</c>
-  <w><i>Oo-Bla-Dee</i></w>
+  <w><hi>Oo-Bla-Dee</hi></w>
   <w>og</w>
-  <w><i>Mudtracks</i></w>
+  <w><hi>Mudtracks</hi></w>
   <c>.</c>
 </s></p></body></text>
 </TEI>

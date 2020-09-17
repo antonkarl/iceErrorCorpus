@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_4-t3.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <revision id="1">
@@ -88,7 +100,7 @@
   <w>í</w>
   <revision id="6">
     <original><w>Strings</w></original>
-    <corrected><w><i>Strings</i></w></corrected>
+    <corrected><w><hi>Strings</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -104,7 +116,7 @@
   <w>vísindaskáldaskaparþættinum</w>
   <revision id="7">
     <original><w>Eureka</w></original>
-    <corrected><w><i>Eureka</i></w></corrected>
+    <corrected><w><hi>Eureka</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -136,8 +148,8 @@
   <w>gerði</w>
   <w>samning</w>
   <w>við</w>
-  <w><i>The</i></w>
-  <w><i>Guild</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Guild</hi></w>
   <c>.</c>
 </s><s n="7">
   <w>Þátturinn</w>
@@ -150,7 +162,7 @@
   <w>borð</w>
   <w>við</w>
   <revision id="8">
-    <original><w><i>Greenlight</i></w><w><i>verðlaunin</i></w></original>
+    <original><w><hi>Greenlight</hi></w><w><hi>verðlaunin</hi></w></original>
     <corrected><w>Greenlight-verðlaunin</w></corrected>
       <errors>
         <error xtype="it4nonit" idx="15-1" eid="0"/>
@@ -170,7 +182,7 @@
   <w>seríuna</w>
   <w>á</w>
   <revision id="10">
-    <original><w><i>South</i></w><w><i>by</i></w><w><i>Southwest</i></w><w>hátíðinni</w></original>
+    <original><w><hi>South</hi></w><w><hi>by</hi></w><w><hi>Southwest</hi></w><w>hátíðinni</w></original>
     <corrected><w>South</w><w>by</w><w>Southwest-hátíðinni</w></corrected>
       <errors>
         <error xtype="it4nonit" idx="17-1" eid="0"/>
@@ -202,7 +214,7 @@
   <c>,</c>
   <w>og</w>
   <revision id="13">
-    <original><w>2009</w><w><i>Streamy</i></w><w><i>verðlaunin</i></w></original>
+    <original><w>2009</w><w><hi>Streamy</hi></w><w><hi>verðlaunin</hi></w></original>
     <corrected><w>árið 2009</w><w>hlaut</w><w>þátturinn</w><w>Streamy-verðlaunin</w></corrected>
       <errors>
         <error xtype="missing-words" eid="0"/>
@@ -276,17 +288,17 @@
   <w>á</w>
   <w>borð</w>
   <w>við</w>
-  <w><i>The</i></w>
-  <w><i>Flog</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Flog</hi></w>
   <c>,</c>
-  <w><i>Vaginal</i></w>
-  <w><i>Fantasy</i></w>
+  <w><hi>Vaginal</hi></w>
+  <w><hi>Fantasy</hi></w>
   <c>,</c>
-  <w><i>Felicia's</i></w>
-  <w><i>Ark</i></w>
+  <w><hi>Felicia's</hi></w>
+  <w><hi>Ark</hi></w>
   <c>,</c>
   <w>og</w>
-  <w><i>Co-Optitude</i></w>
+  <w><hi>Co-Optitude</hi></w>
   <w>á</w>
   <w>rásinni</w>
   <c>.</c>
@@ -304,7 +316,7 @@
   <w>við</w>
   <revision id="19">
     <original><w>Delusional</w></original>
-    <corrected><w><i>Delusional</i></w></corrected>
+    <corrected><w><hi>Delusional</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -312,7 +324,7 @@
   <c>,</c>
   <revision id="20">
     <original><w>The</w><w>Mortician´s</w><w>Hobby</w></original>
-    <corrected><w><i>The</i></w><w><i>Mortician´s</i></w><w><i>Hobby</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Mortician´s</hi></w><w><hi>Hobby</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -320,7 +332,7 @@
   <c>,</c>
   <revision id="21">
     <original><w>God´s</w><w>Waiting</w><w>List</w></original>
-    <corrected><w><i>God´s</i></w><w><i>Waiting</i></w><w><i>List</i></w></corrected>
+    <corrected><w><hi>God´s</hi></w><w><hi>Waiting</hi></w><w><hi>List</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -328,7 +340,7 @@
   <w>og</w>
   <revision id="22">
     <original><w>Loki</w><w>and</w><w>Sageking</w><w>Go</w><w>to</w><w>GenCon</w></original>
-    <corrected><w><i>Loki</i></w><w><i>and</i></w><w><i>Sageking</i></w><w><i>Go</i></w><w><i>to</i></w><w><i>GenCon</i></w></corrected>
+    <corrected><w><hi>Loki</hi></w><w><hi>and</hi></w><w><hi>Sageking</hi></w><w><hi>Go</hi></w><w><hi>to</hi></w><w><hi>GenCon</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -340,8 +352,8 @@
   <w>yfir</w>
   <w>framleiðslu</w>
   <w>á</w>
-  <w><i>The</i></w>
-  <w><i>Guild</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Guild</hi></w>
   <w>þættinum</w>
   <w>fyrir</w>
   <w>sjöttu</w>
@@ -364,18 +376,18 @@
   <w>á</w>
   <w>borð</w>
   <w>við</w>
-  <w><i>Dr.</i></w>
-  <w><i>Horrible´s</i></w>
-  <w><i>Sing-Along</i></w>
+  <w><hi>Dr.</hi></w>
+  <w><hi>Horrible´s</hi></w>
+  <w><hi>Sing-Along</hi></w>
   <w>ZBlog</w>
   <c>,</c>
-  <w><i>MyMusic</i></w>
+  <w><hi>MyMusic</hi></w>
   <c>,</c>
-  <w><i>Husbands</i></w>
+  <w><hi>Husbands</hi></w>
   <w>og</w>
-  <w><i>My</i></w>
-  <w><i>Gimpy</i></w>
-  <w><i>Life</i></w>
+  <w><hi>My</hi></w>
+  <w><hi>Gimpy</hi></w>
+  <w><hi>Life</hi></w>
   <c>.</c>
 </s><s n="13">
   <w>Samningurinn</w>
@@ -430,8 +442,8 @@
       </errors>
   </revision>
   <w>netseríuna</w>
-  <w><i>The</i></w>
-  <w><i>Guild</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Guild</hi></w>
   <revision id="26">
     <original><w>er</w></original>
     <corrected><w>eru</w></corrected>
@@ -479,7 +491,7 @@
   <w>í</w>
   <revision id="28">
     <original><w>Supernatural</w></original>
-    <corrected><w><i>Supernatural</i></w></corrected>
+    <corrected><w><hi>Supernatural</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -487,7 +499,7 @@
   <c>,</c>
   <revision id="29">
     <original><w>Eureka</w></original>
-    <corrected><w><i>Eureka</i></w></corrected>
+    <corrected><w><hi>Eureka</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -495,7 +507,7 @@
   <w>og</w>
   <revision id="30">
     <original><w>The</w><w>Guild</w></original>
-    <corrected><w><i>The</i></w><w><i>Guild</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Guild</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -507,7 +519,7 @@
   <w>höfundurinn</w>
   <revision id="31">
     <original><w>að</w><w>netseríunni</w><w>The</w><w>Guild</w></original>
-    <corrected><w>á</w><w>bakvið</w><w>netseríuna</w><w><i>The</i></w><w><i>Guild</i></w></corrected>
+    <corrected><w>á</w><w>bakvið</w><w>netseríuna</w><w><hi>The</hi></w><w><hi>Guild</hi></w></corrected>
       <errors>
         <error xtype="wording" eid="0"/>
         <error xtype="mnonit4it" eid="0"/>
@@ -541,11 +553,11 @@
       </errors>
   </revision>
   <c>,</c>
-  <w><i>Geek</i></w>
+  <w><hi>Geek</hi></w>
   <w><i/></w>
   <c>&amp;</c>
   <w><i/></w>
-  <w><i>Sundry</i></w>
+  <w><hi>Sundry</hi></w>
   <c>.</c>
 </s><s n="19">
   <revision id="33">
@@ -572,7 +584,7 @@
   <w>í</w>
   <revision id="35">
     <original><w>Supernatural</w></original>
-    <corrected><w><i>Supernatural</i></w></corrected>
+    <corrected><w><hi>Supernatural</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -594,7 +606,7 @@
   <w>við</w>
   <revision id="36">
     <original><w>Vampírubanann</w><w>Buffy</w></original>
-    <corrected><w><i>Vampírubanann</i></w><w><i>Buffy</i></w></corrected>
+    <corrected><w><hi>Vampírubanann</hi></w><w><hi>Buffy</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -602,7 +614,7 @@
   <c>,</c>
   <revision id="37">
     <original><w>Monk</w></original>
-    <corrected><w><i>Monk</i></w></corrected>
+    <corrected><w><hi>Monk</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -610,7 +622,7 @@
   <c>,</c>
   <revision id="38">
     <original><w>House</w></original>
-    <corrected><w><i>House</i></w></corrected>
+    <corrected><w><hi>House</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -618,7 +630,7 @@
   <c>,</c>
   <revision id="39">
     <original><w>Lie</w><w>to</w><w>Me</w></original>
-    <corrected><w><i>Lie</i></w><w><i>to</i></w><w><i>Me</i></w></corrected>
+    <corrected><w><hi>Lie</hi></w><w><hi>to</hi></w><w><hi>Me</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -626,7 +638,7 @@
   <w>og</w>
   <revision id="40">
     <original><w>Dollhouse</w></original>
-    <corrected><w><i>Dollhouse</i></w></corrected>
+    <corrected><w><hi>Dollhouse</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -646,10 +658,10 @@
   <w>skáta</w>
   <w>í</w>
   <w>leikritinu</w>
-  <w><i>To</i></w>
-  <w><i>Kill</i></w>
-  <w><i>a</i></w>
-  <w><i>Mockingbird</i></w>
+  <w><hi>To</hi></w>
+  <w><hi>Kill</hi></w>
+  <w><hi>a</hi></w>
+  <w><hi>Mockingbird</hi></w>
   <c>.</c>
 </s><s n="22">
   <w>Fyrsta</w>
@@ -659,7 +671,7 @@
   <w>árið 2001</w>
   <w>í</w>
   <w>sjónvarpsþættinum</w>
-  <w><i>Emeril</i></w>
+  <w><hi>Emeril</hi></w>
   <c>.</c>
 </s></p></body></text>
 </TEI>

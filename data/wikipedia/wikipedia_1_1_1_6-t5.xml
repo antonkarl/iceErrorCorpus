@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_6-t5.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Húsið</w>
@@ -165,8 +177,8 @@
   <w>húsið</w>
   <w>skyldi</w>
   <w>heita</w>
-  <w><i>Minni</i></w>
-  <w><i>Elísabetar</i></w>
+  <w><hi>Minni</hi></w>
+  <w><hi>Elísabetar</hi></w>
   <revision id="5">
     <original><c>,</c></original>
     <corrected/>
@@ -186,7 +198,7 @@
   <w>nafn</w>
   <w>þess</w>
   <w>nú</w>
-  <w><i>Elísabetarhús</i></w>
+  <w><hi>Elísabetarhús</hi></w>
   <c>.</c>
 </s><s n="11">
   <w>Síðar</w>
@@ -574,11 +586,11 @@
         <error xtype="colon4period" idx="1-2" eid="0"/>
       </errors>
   </revision>
-  <w><i>Schola</i></w>
-  <w><i>Reykjavicensis</i></w>
+  <w><hi>Schola</hi></w>
+  <w><hi>Reykjavicensis</hi></w>
   <w>eða</w>
-  <w><i>Schola</i></w>
-  <w><i>Reykjavicana</i></w>
+  <w><hi>Schola</hi></w>
+  <w><hi>Reykjavicana</hi></w>
   <c>)</c>
   <w>er</w>
   <w>framhaldsskóli</w>
@@ -1092,7 +1104,7 @@
   <w>Þar</w>
   <w>er</w>
   <w>veitingasalan</w>
-  <w><i>Kakóland</i></w>
+  <w><hi>Kakóland</hi></w>
   <c>.</c>
 </s><s n="45">
   <w>Latínukennsla</w>
@@ -1147,12 +1159,12 @@
   <w>elsta</w>
   <w>nemendafélag</w>
   <w>landsins</w>
-  <w><i>Framtíðin</i></w>
+  <w><hi>Framtíðin</hi></w>
   <w>og</w>
-  <w><i>Skólafélag</i></w>
-  <w><i>Menntaskólans</i></w>
-  <w><i>í</i></w>
-  <w><i>Reykjavík</i></w>
+  <w><hi>Skólafélag</hi></w>
+  <w><hi>Menntaskólans</hi></w>
+  <w><hi>í</hi></w>
+  <w><hi>Reykjavík</hi></w>
   <c>.</c>
 </s><s n="48">
   <w>Úr</w>
@@ -1688,8 +1700,8 @@
   <w>var</w>
   <w>að</w>
   <w>byggja</w>
-  <w><i>Casa</i></w>
-  <w><i>Christi</i></w>
+  <w><hi>Casa</hi></w>
+  <w><hi>Christi</hi></w>
   <c>(</c>
   <revision id="63">
     <original><w>latína</w><c>:</c></original>
@@ -1825,8 +1837,8 @@
         <error xtype="missing-word" eid="0"/>
       </errors>
   </revision>
-  <w><i>Villa</i></w>
-  <w><i>nova</i></w>
+  <w><hi>Villa</hi></w>
+  <w><hi>nova</hi></w>
   <c>(</c>
   <revision id="69">
     <original><w>latína</w><c>:</c></original>
@@ -1836,8 +1848,8 @@
         <error xtype="colon4period" idx="82-2" eid="0"/>
       </errors>
   </revision>
-  <w><i>Nýja</i></w>
-  <w><i>setur</i></w>
+  <w><hi>Nýja</hi></w>
+  <w><hi>setur</hi></w>
   <c>)</c>
   <w>var</w>
   <w>byggt</w>
@@ -1873,8 +1885,8 @@
   <w>Framkvæmdir</w>
   <w>hófust</w>
   <w>í</w>
-  <w><i>Casa</i></w>
-  <w><i>nova</i></w>
+  <w><hi>Casa</hi></w>
+  <w><hi>nova</hi></w>
   <c>(</c>
   <revision id="70">
     <original><w>latína</w><c>:</c></original>
@@ -1884,8 +1896,8 @@
         <error xtype="colon4period" idx="79-2" eid="0"/>
       </errors>
   </revision>
-  <w><i>Nýja</i></w>
-  <w><i>hús</i></w>
+  <w><hi>Nýja</hi></w>
+  <w><hi>hús</hi></w>
   <c>)</c>
   <w>í</w>
   <w>júlí 1963</w>
@@ -2283,8 +2295,8 @@
   <w>það</w>
   <w>er</w>
   <w>tengt</w>
-  <w><i>Casa</i></w>
-  <w><i>Nova</i></w>
+  <w><hi>Casa</hi></w>
+  <w><hi>Nova</hi></w>
   <w>með</w>
   <w>tengibyggingu</w>
   <w>sem</w>

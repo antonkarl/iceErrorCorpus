@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_275-t13.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Arabíuskaginn</w>
@@ -98,8 +110,8 @@
   <w>einnig</w>
   <w>á</w>
   <w>Arabíuskaganum</w>
-  <w><i>að</i></w>
-  <w><i>hluta</i></w>
+  <w><hi>að</hi></w>
+  <w><hi>hluta</hi></w>
   <c>.</c>
 </s>
 <s n="5">

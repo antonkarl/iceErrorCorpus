@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_375-t10.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Hann</w>
@@ -591,8 +603,8 @@
         <error xtype="nonword" idx="33-1" eid="0"/>
       </errors>
   </revision>
-  <w><i>Big</i></w>
-  <w><i>Bang</i></w>
+  <w><hi>Big</hi></w>
+  <w><hi>Bang</hi></w>
   <w><i/></w>
   <c>(</c>
   <w>Time</w>
@@ -727,7 +739,7 @@
   <w>varð</w>
   <revision id="31">
     <original><w>Stephanie</w></original>
-    <corrected><w><i>Stephanie</i></w></corrected>
+    <corrected><w><hi>Stephanie</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -738,7 +750,7 @@
   <w>varð</w>
   <revision id="32">
     <original><w>Pixel</w></original>
-    <corrected><w><i>Pixel</i></w></corrected>
+    <corrected><w><hi>Pixel</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -749,7 +761,7 @@
   <w>varð</w>
   <revision id="33">
     <original><w>Robbie</w><w>Rotten</w></original>
-    <corrected><w><i>Robbie</i></w><w><i>Rotten</i></w></corrected>
+    <corrected><w><hi>Robbie</hi></w><w><hi>Rotten</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -759,7 +771,7 @@
   <w>varð</w>
   <revision id="34">
     <original><w>Sportacus</w></original>
-    <corrected><w><i>Sportacus</i></w></corrected>
+    <corrected><w><hi>Sportacus</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -848,7 +860,7 @@
   <c>.</c>
 </s><s n="33">
   <revision id="41">
-    <original><w><i>Solla</i></w></original>
+    <original><w><hi>Solla</hi></w></original>
     <corrected><w>Solla</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -933,7 +945,7 @@
   <c>.</c>
 </s><s n="36">
   <revision id="45">
-    <original><w><i>Glanni</i></w></original>
+    <original><w><hi>Glanni</hi></w></original>
     <corrected><w>Glanni</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -948,7 +960,7 @@
   <c>.</c>
 </s><s n="37">
   <revision id="46">
-    <original><w><i>Íþróttaálfurinn</i></w></original>
+    <original><w><hi>Íþróttaálfurinn</hi></w></original>
     <corrected><w>Íþróttaálfurinn</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -1068,9 +1080,9 @@
   <w>framhald</w>
   <w>bókarinnar</w>
   <c>,</c>
-  <w><i>Latibær</i></w>
-  <w><i>á</i></w>
-  <w><i>Ólympíuleikunum</i></w>
+  <w><hi>Latibær</hi></w>
+  <w><hi>á</hi></w>
+  <w><hi>Ólympíuleikunum</hi></w>
   <c>.</c>
 </s><s n="44">
   <w>Solla</w>
@@ -1246,8 +1258,8 @@
         <error xtype="compound-split" eid="0"/>
       </errors>
   </revision>
-  <w><i>Áfram</i></w>
-  <w><i>Latibær</i></w>
+  <w><hi>Áfram</hi></w>
+  <w><hi>Latibær</hi></w>
   <c>.</c>
 </s><s n="51">
   <w>Á</w>
@@ -1679,7 +1691,7 @@
   <w>vörumerkinu</w>
   <revision id="82">
     <original><w>Great</w><w>Stuff</w></original>
-    <corrected><w><i>Great</i></w><w><i>Stuff</i></w></corrected>
+    <corrected><w><hi>Great</hi></w><w><hi>Stuff</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

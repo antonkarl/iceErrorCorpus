@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>visir-2014_10_300-t24.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Skóli</w>
@@ -58,7 +70,7 @@
   <w>þættinum</w>
   <revision id="1">
     <original><c>„</c><w>Um</w><w>land</w><w>allt</w><c>“</c></original>
-    <corrected><w><i>Um</i></w><w><i>land</i></w><w><i>allt</i></w></corrected>
+    <corrected><w><hi>Um</hi></w><w><hi>land</hi></w><w><hi>allt</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="5-1" eid="0"/>
         <error xtype="nonit4it" idx="5-2" eid="0"/>

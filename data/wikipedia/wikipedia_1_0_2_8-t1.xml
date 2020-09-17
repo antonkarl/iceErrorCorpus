@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_8-t1.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Önnur</w>
@@ -60,13 +72,13 @@
   <w>sem</w>
   <w>rekur</w>
   <w>hreingerningafyrirtækið</w>
-  <w><i>Sophie's</i></w>
-  <w><i>Choice</i></w>
+  <w><hi>Sophie's</hi></w>
+  <w><hi>Choice</hi></w>
   <c>.</c>
 </s><s n="2">
   <revision id="6">
     <original><w>Television</w></original>
-    <corrected><w><i>Television</i></w></corrected>
+    <corrected><w><hi>Television</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -172,7 +184,7 @@
   <w>fyrir</w>
   <revision id="9">
     <original><w>Warner</w><w>Bros</w></original>
-    <corrected><w><i>Warner</i></w><w><i>Bros</i></w></corrected>
+    <corrected><w><hi>Warner</hi></w><w><hi>Bros</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -237,17 +249,17 @@
   <w>Þættirnir</w>
   <w>unnu</w>
   <w>verðlaunin</w>
-  <w><i>Uppáhalds</i></w>
-  <w><i>nýi</i></w>
-  <w><i>sjónvarps-gaman-þátturinn</i></w>
+  <w><hi>Uppáhalds</hi></w>
+  <w><hi>nýi</hi></w>
+  <w><hi>sjónvarps-gaman-þátturinn</hi></w>
   <w>á</w>
   <w>38.</w>
   <w>áhorfendaverðlaununum</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>People's</i></w>
-  <w><i>Choice</i></w>
-  <w><i>Awards</i></w>
+  <w><hi>People's</hi></w>
+  <w><hi>Choice</hi></w>
+  <w><hi>Awards</hi></w>
   <c>)</c>
   <w>Þann</w>
   <w>14. mars 2012</w>
@@ -263,8 +275,8 @@
   <w>af</w>
   <w><i/></w>
   <w>2Z</w>
-  <w><i>Broke</i></w>
-  <w><i>Girls</i></w>
+  <w><hi>Broke</hi></w>
+  <w><hi>Girls</hi></w>
   <w>sem</w>
   <w>verður</w>
   <w>sýnd</w>

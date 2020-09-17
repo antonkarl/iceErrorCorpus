@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_12-t7.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Medea</w>
@@ -129,7 +141,7 @@
   <w>óperunni</w>
   <revision id="2">
     <original><w>Ráðskonuríki</w></original>
-    <corrected><w><i>Ráðskonuríki</i></w></corrected>
+    <corrected><w><hi>Ráðskonuríki</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -192,7 +204,7 @@
   <w>í</w>
   <revision id="3">
     <original><w>La</w><w>Bohéme</w></original>
-    <corrected><w><i>La</i></w><w><i>Bohéme</i></w></corrected>
+    <corrected><w><hi>La</hi></w><w><hi>Bohéme</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -330,7 +342,7 @@
   <w>á</w>
   <revision id="5">
     <original><w>Brúðkaupi</w><w>Fígarós</w></original>
-    <corrected><w><i>Brúðkaupi</i></w><w><i>Fígarós</i></w></corrected>
+    <corrected><w><hi>Brúðkaupi</hi></w><w><hi>Fígarós</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -397,7 +409,7 @@
   <w>á</w>
   <revision id="8">
     <original><w>La</w><w>Bohéme</w></original>
-    <corrected><w><i>La</i></w><w><i>Bohéme</i></w></corrected>
+    <corrected><w><hi>La</hi></w><w><hi>Bohéme</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_1-t22.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Handknattleiksárið</w>
@@ -311,7 +323,7 @@
 </s>
 <s n="16">
   <revision id="11">
-    <original><c>"</c><w><i>Úrslitakeppni</i></w><w><i>um</i></w><w><i>sæti</i></w><w><i>í</i></w><w><i>2</i></w><w><i>deild</i></w><c>"</c></original>
+    <original><c>"</c><w><hi>Úrslitakeppni</hi></w><w><hi>um</hi></w><w><hi>sæti</hi></w><w><hi>í</hi></w><w><hi>2</hi></w><w><hi>deild</hi></w><c>"</c></original>
     <corrected><w>Úrslitakeppni</w><w>var</w><w>um</w><w>sæti</w><w>í</w><w>annarri</w><w>deild</w></corrected>
       <errors>
         <error xtype="extra-quots" idx="11-1" eid="0" />
@@ -375,7 +387,7 @@
 </s>
 <s n="19">
   <revision id="17">
-    <original><c>"</c><w><i>1</i></w><w><i>umferð</i></w><c>"</c></original>
+    <original><c>"</c><w><hi>1</hi></w><w><hi>umferð</hi></w><c>"</c></original>
     <corrected><w>Fyrsta</w><w>umferð</w><w>karla</w><w>var</w><w>leikin</w></corrected>
       <errors>
         <error xtype="extra-quots" idx="17-1" eid="0" />

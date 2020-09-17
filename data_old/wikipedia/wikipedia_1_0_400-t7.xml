@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Háskólinn</w>
+  <w>í</w>
+  <w>Zürich</w>
+  <c>(</c>
+  <w>þýska</w>
+  <c>:</c>
+  <revision id="1">
+    <original><w>Universität</w><w>Zürich</w></original>
+    <corrected><w><i>Universität</i></w><w><i>ürich</i></w></corrected>
+      <errors>
+        <error xtype="nonit4it" eid="0" />
+      </errors>
+  </revision>
+  <c>)</c>
+  <c>,</c>
+  <w>oft</w>
+  <w>nefndur</w>
+  <w>UZH</w>
+  <c>,</c>
+  <w>er</w>
+  <revision id="2">
+    <original><w>rannsóknaháskóli</w></original>
+    <corrected><w>rannsóknarháskóli</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="2-1" eid="0" />
+        <error xtype="compound-collocation" idx="2-1" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>Zürich</w>
+  <w>í</w>
+  <w>Sviss</w>
+  <w>og</w>
+  <w>stærsti</w>
+  <w>háskóli</w>
+  <w>landsins</w>
+  <w>með</w>
+  <w>yfir</w>
+  <w>25 þúsund</w>
+  <w>nemendur</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Skólinn</w>
+  <w>var</w>
+  <w>stofnaður</w>
+  <w>árið 1833</w>
+  <w>með</w>
+  <w>sameiningu</w>
+  <w>guðfræði-, laga- og læknaskóla</w>
+  <w>en</w>
+  <w>um</w>
+  <w>leið</w>
+  <w>var</w>
+  <w>stofnuð</w>
+  <w>heimspekideild</w>
+  <w>við</w>
+  <w>skólann</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Í</w>
+  <w>dag</w>
+  <w>eru</w>
+  <w>deildir</w>
+  <w>skólans</w>
+  <w>flokkaðar</w>
+  <w>í</w>
+  <w>hugvísindasvið</w>
+  <c>,</c>
+  <w>hagfræðisvið</w>
+  <c>,</c>
+  <w>náttúruvísindasvið</w>
+  <c>,</c>
+  <w>læknaskóla</w>
+  <c>,</c>
+  <w>lagaskóla</w>
+  <c>,</c>
+  <w>guðfræðiskóla</w>
+  <w>og</w>
+  <w>dýralækningaskóla</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Á</w>
+  <w>fjórða</w>
+  <w>þúsund</w>
+  <w>kennarar</w>
+  <w>og</w>
+  <w>sérfræðingar</w>
+  <w>starfa</w>
+  <w>við</w>
+  <w>skólann</w>
+  <w>og</w>
+  <w>á</w>
+  <w>nítjánda</w>
+  <w>þúsund</w>
+  <revision id="3">
+    <original><w>nemendur</w></original>
+    <corrected><w>nemenda</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
+  <w>stunda</w>
+  <w>þar</w>
+  <w>nám</w>
+  <c>,</c>
+  <w>þar</w>
+  <w>af</w>
+  <w>rúmlega</w>
+  <w>sex þúsund</w>
+  <w>framhaldsnemar</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

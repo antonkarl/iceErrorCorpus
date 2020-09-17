@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_18-t13.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Alda</w>
@@ -101,7 +113,7 @@
   <w>við</w>
   <revision id="7">
     <original><w>ER</w></original>
-    <corrected><w><i>ER</i></w></corrected>
+    <corrected><w><hi>ER</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -109,7 +121,7 @@
   <c>,</c>
   <revision id="8">
     <original><w>30</w><w>Rock</w></original>
-    <corrected><w><i>30</i></w><w><i>Rock</i></w></corrected>
+    <corrected><w><hi>30</hi></w><w><hi>Rock</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -117,7 +129,7 @@
   <w>og</w>
   <revision id="9">
     <original><w>The</w><w>Big</w><w>C.</w></original>
-    <corrected><w><i>The</i></w><w><i>Big</i></w><w><i>C</i></w><c>.</c></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Big</hi></w><w><hi>C</hi></w><c>.</c></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -129,9 +141,9 @@
   <w>var</w>
   <w>árið 1963</w>
   <w>í</w>
-  <w><i>Gone</i></w>
-  <w><i>Are</i></w>
-  <w><i>the</i></w>
+  <w><hi>Gone</hi></w>
+  <w><hi>Are</hi></w>
+  <w><hi>the</hi></w>
   <w>ZDays</w>
   <c>!</c>
 </s><s n="6">
@@ -144,30 +156,30 @@
   <w>á</w>
   <w>borð</w>
   <w>við</w>
-  <w><i>The</i></w>
-  <w><i>Nurses</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Nurses</hi></w>
   <c>,</c>
-  <w><i>East</i></w>
+  <w><hi>East</hi></w>
   <w>ZSide</w>
   <c>/</c>
   <w>WestZ</w>
-  <w><i>Side</i></w>
+  <w><hi>Side</hi></w>
   <c>,</c>
-  <w><i>Coronet</i></w>
-  <w><i>Blue</i></w>
+  <w><hi>Coronet</hi></w>
+  <w><hi>Blue</hi></w>
   <w>og</w>
   <w>í</w>
   <w>sjónvarpsmyndunum</w>
-  <w><i>Story</i></w>
-  <w><i>Theatre</i></w>
+  <w><hi>Story</hi></w>
+  <w><hi>Theatre</hi></w>
   <c>,</c>
-  <w><i>The</i></w>
-  <w><i>Glass</i></w>
-  <w><i>House</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Glass</hi></w>
+  <w><hi>House</hi></w>
   <w>og</w>
-  <w><i>Isn´t</i></w>
-  <w><i>It</i></w>
-  <w><i>Shocking</i></w>
+  <w><hi>Isn´t</hi></w>
+  <w><hi>It</hi></w>
+  <w><hi>Shocking</hi></w>
   <c>.</c>
 </s><s n="7">
   <w>Alda</w>
@@ -177,7 +189,7 @@
   <w>hljóðbókina</w>
   <revision id="10">
     <original><w>World</w><w>War</w></original>
-    <corrected><w><i>World</i></w><w><i>War</i></w></corrected>
+    <corrected><w><hi>World</hi></w><w><hi>War</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -200,12 +212,12 @@
   <w>hann</w>
   <w>svo</w>
   <w>kvikmyndunum</w>
-  <w><i>The</i></w>
-  <w><i>Four</i></w>
-  <w><i>Seasons</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Four</hi></w>
+  <w><hi>Seasons</hi></w>
   <w>og</w>
-  <w><i>Betsy´s</i></w>
-  <w><i>Wedding</i></w>
+  <w><hi>Betsy´s</hi></w>
+  <w><hi>Wedding</hi></w>
   <c>.</c>
 </s><s n="9">
   <w>Alda</w>
@@ -218,8 +230,8 @@
   <w>áratuginn</w>
   <w>sem</w>
   <w>meðlimur</w>
-  <w><i>Compass</i></w>
-  <w><i>Players</i></w>
+  <w><hi>Compass</hi></w>
+  <w><hi>Players</hi></w>
   <w>leikhússins</w>
   <c>.</c>
 </s><s n="10">
@@ -318,7 +330,7 @@
   <w>í</w>
   <revision id="15">
     <original><w>MASH</w></original>
-    <corrected><w><i>MASH</i></w></corrected>
+    <corrected><w><hi>MASH</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -326,7 +338,7 @@
   <w>og</w>
   <revision id="16">
     <original><w>The</w><w>West</w><w>Wing</w></original>
-    <corrected><w><i>The</i></w><w><i>West</i></w><w><i>Wing</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>West</hi></w><w><hi>Wing</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -354,9 +366,9 @@
         <error xtype="pres4past" eid="0"/>
       </errors>
   </revision>
-  <w><i>Only</i></w>
-  <w><i>in</i></w>
-  <w><i>America</i></w>
+  <w><hi>Only</hi></w>
+  <w><hi>in</hi></w>
+  <w><hi>America</hi></w>
   <c>.</c>
 </s><s n="14">
   <w>Árið 2005</w>
@@ -364,18 +376,18 @@
   <w>Alda</w>
   <w>út</w>
   <w>ævisöguna</w>
-  <w><i>Never</i></w>
-  <w><i>Have</i></w>
-  <w><i>Your</i></w>
-  <w><i>Dog</i></w>
+  <w><hi>Never</hi></w>
+  <w><hi>Have</hi></w>
+  <w><hi>Your</hi></w>
+  <w><hi>Dog</hi></w>
   <w>ZStuffed</w>
   <c>:</c>
   <w><i/></w>
-  <w><i>and</i></w>
-  <w><i>Other</i></w>
-  <w><i>Things</i></w>
-  <w><i>I've</i></w>
-  <w><i>Learned</i></w>
+  <w><hi>and</hi></w>
+  <w><hi>Other</hi></w>
+  <w><hi>Things</hi></w>
+  <w><hi>I've</hi></w>
+  <w><hi>Learned</hi></w>
   <c>.</c>
 </s><s n="15">
   <w>Frá</w>
@@ -398,7 +410,7 @@
   <w>læknaherþættinum</w>
   <revision id="20">
     <original><w>MASH</w></original>
-    <corrected><w><i>MASH</i></w></corrected>
+    <corrected><w><hi>MASH</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -410,9 +422,9 @@
   <w>Alda</w>
   <w>var</w>
   <w>þátturinn</w>
-  <w><i>We´ll</i></w>
-  <w><i>Get</i></w>
-  <w><i>By</i></w>
+  <w><hi>We´ll</hi></w>
+  <w><hi>Get</hi></w>
+  <w><hi>By</hi></w>
   <w>árið 1975</w>
   <c>.</c>
 </s><s n="17">
@@ -422,10 +434,10 @@
   <w>var</w>
   <w>árið 1958</w>
   <w>í</w>
-  <w><i>The</i></w>
-  <w><i>Phil</i></w>
-  <w><i>Silvers</i></w>
-  <w><i>Show</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Phil</hi></w>
+  <w><hi>Silvers</hi></w>
+  <w><hi>Show</hi></w>
   <c>.</c>
 </s><s n="18">
   <w>Hefur</w>
@@ -441,26 +453,26 @@
   <w>á</w>
   <w>borð</w>
   <w>við</w>
-  <w><i>Fair</i></w>
-  <w><i>Game</i></w>
-  <w><i>for</i></w>
-  <w><i>Lovers</i></w>
+  <w><hi>Fair</hi></w>
+  <w><hi>Game</hi></w>
+  <w><hi>for</hi></w>
+  <w><hi>Lovers</hi></w>
   <c>,</c>
-  <w><i>The</i></w>
-  <w><i>Apple</i></w>
-  <w><i>Tree</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Apple</hi></w>
+  <w><hi>Tree</hi></w>
   <c>,</c>
-  <w><i>QED</i></w>
+  <w><hi>QED</hi></w>
   <c>,</c>
-  <w><i>Glengarry</i></w>
-  <w><i>Glen</i></w>
-  <w><i>Ross</i></w>
+  <w><hi>Glengarry</hi></w>
+  <w><hi>Glen</hi></w>
+  <w><hi>Ross</hi></w>
   <w>og</w>
-  <w><i>A</i></w>
-  <w><i>Whisper</i></w>
-  <w><i>in</i></w>
-  <w><i>God´s</i></w>
-  <w><i>Ear</i></w>
+  <w><hi>A</hi></w>
+  <w><hi>Whisper</hi></w>
+  <w><hi>in</hi></w>
+  <w><hi>God´s</hi></w>
+  <w><hi>Ear</hi></w>
   <c>.</c>
 </s><s n="19">
   <w>Eftir</w>
@@ -536,13 +548,13 @@
   <w>út</w>
   <w>aðra</w>
   <w>ævisögu</w>
-  <w><i>Things</i></w>
-  <w><i>I</i></w>
-  <w><i>Overheard</i></w>
-  <w><i>While</i></w>
-  <w><i>Talking</i></w>
-  <w><i>to</i></w>
-  <w><i>Myself</i></w>
+  <w><hi>Things</hi></w>
+  <w><hi>I</hi></w>
+  <w><hi>Overheard</hi></w>
+  <w><hi>While</hi></w>
+  <w><hi>Talking</hi></w>
+  <w><hi>to</hi></w>
+  <w><hi>Myself</hi></w>
   <c>.</c>
 </s><s n="22">
   <w>Frá</w>
@@ -555,7 +567,7 @@
   <w>þætti</w>
   <revision id="26">
     <original><w>að</w><w>læknahersþættinum</w><w>MASH</w></original>
-    <corrected><w>af</w><w>læknaherþættinum</w><w><i>MASH</i></w></corrected>
+    <corrected><w>af</w><w>læknaherþættinum</w><w><hi>MASH</hi></w></corrected>
       <errors>
         <error xtype="að4af" eid="0"/>
         <error xtype="compound-collocation" eid="0"/>
@@ -576,24 +588,24 @@
   <w>á</w>
   <w>borð</w>
   <w>við</w>
-  <w><i>Jenny</i></w>
+  <w><hi>Jenny</hi></w>
   <c>,</c>
-  <w><i>Same</i></w>
-  <w><i>Time</i></w>
-  <w><i>Next</i></w>
-  <w><i>Year</i></w>
+  <w><hi>Same</hi></w>
+  <w><hi>Time</hi></w>
+  <w><hi>Next</hi></w>
+  <w><hi>Year</hi></w>
   <c>,</c>
-  <w><i>The</i></w>
-  <w><i>Four</i></w>
-  <w><i>Seasons</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Four</hi></w>
+  <w><hi>Seasons</hi></w>
   <c>,</c>
-  <w><i>Manhattan</i></w>
-  <w><i>Murder</i></w>
-  <w><i>Mystery</i></w>
+  <w><hi>Manhattan</hi></w>
+  <w><hi>Murder</hi></w>
+  <w><hi>Mystery</hi></w>
   <c>,</c>
   <revision id="27">
     <original><w>Everyone</w><w>Says</w><w>I</w><w>Love</w><w>You</w></original>
-    <corrected><w><i>Everyone</i></w><w><i>Says</i></w><w><i>I</i></w><w><i>Love</i></w><w><i>You</i></w></corrected>
+    <corrected><w><hi>Everyone</hi></w><w><hi>Says</hi></w><w><hi>I</hi></w><w><hi>Love</hi></w><w><hi>You</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -601,7 +613,7 @@
   <c>,</c>
   <revision id="28">
     <original><w>What</w><w>Women</w><w>Want</w></original>
-    <corrected><w><i>What</i></w><w><i>Women</i></w><w><i>Want</i></w></corrected>
+    <corrected><w><hi>What</hi></w><w><hi>Women</hi></w><w><hi>Want</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -609,15 +621,15 @@
   <c>,</c>
   <revision id="29">
     <original><w>The</w><w>Aviator</w></original>
-    <corrected><w><i>The</i></w><w><i>Aviator</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Aviator</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
-  <w><i>Flash</i></w>
-  <w><i>of</i></w>
-  <w><i>Genius</i></w>
+  <w><hi>Flash</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>Genius</hi></w>
   <c>.</c>
 </s><s n="24">
   <revision id="30">
@@ -645,11 +657,11 @@
   <w>er</w>
   <w>meðlimur</w>
   <w>ráðgjafaráðs</w>
-  <w><i>The</i></w>
-  <w><i>Center</i></w>
-  <w><i>for</i></w>
-  <w><i>Communicating</i></w>
-  <w><i>Science</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Center</hi></w>
+  <w><hi>for</hi></w>
+  <w><hi>Communicating</hi></w>
+  <w><hi>Science</hi></w>
   <c>.</c>
 </s><s n="25">
   <w>Fyrsta</w>
@@ -659,9 +671,9 @@
   <w>sjónvarpsmyndin</w>
   <w><i/></w>
   <w>6Z</w>
-  <w><i>Rms</i></w>
-  <w><i>Riv</i></w>
-  <w><i>Vu</i></w>
+  <w><hi>Rms</hi></w>
+  <w><hi>Riv</hi></w>
+  <w><hi>Vu</hi></w>
   <w>árið 1974</w>
   <c>.</c>
 </s><s n="26">
@@ -670,16 +682,16 @@
   <w>handritið</w>
   <w>að</w>
   <w>kvikmyndunum</w>
-  <w><i>The</i></w>
-  <w><i>Four</i></w>
-  <w><i>Seasons</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Four</hi></w>
+  <w><hi>Seasons</hi></w>
   <c>,</c>
-  <w><i>A</i></w>
-  <w><i>New</i></w>
-  <w><i>Life</i></w>
+  <w><hi>A</hi></w>
+  <w><hi>New</hi></w>
+  <w><hi>Life</hi></w>
   <w>og</w>
-  <w><i>Betsy´s</i></w>
-  <w><i>Wedding</i></w>
+  <w><hi>Betsy´s</hi></w>
+  <w><hi>Wedding</hi></w>
   <c>.</c>
 </s><s n="27">
   <w>Árið 1972</w>
@@ -695,7 +707,7 @@
   <w>læknaherþættinum</w>
   <revision id="32">
     <original><w>MASH</w></original>
-    <corrected><w><i>MASH</i></w></corrected>
+    <corrected><w><hi>MASH</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -763,7 +775,7 @@
   <w>í</w>
   <revision id="36">
     <original><w>The</w><w>West</w><w>Wing</w></original>
-    <corrected><w><i>The</i></w><w><i>West</i></w><w><i>Wing</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>West</hi></w><w><hi>Wing</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

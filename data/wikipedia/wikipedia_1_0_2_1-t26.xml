@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_1-t26.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Sebastian</w>
@@ -21,7 +33,7 @@
   <w>í</w>
   <revision id="1">
     <original><w>General</w><w>Hospital</w></original>
-    <corrected><w><i>General</i></w><w><i>Hospital</i></w></corrected>
+    <corrected><w><hi>General</hi></w><w><hi>Hospital</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -29,7 +41,7 @@
   <c>,</c>
   <revision id="2">
     <original><w>Fringe</w></original>
-    <corrected><w><i>Fringe</i></w></corrected>
+    <corrected><w><hi>Fringe</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -37,7 +49,7 @@
   <w>og</w>
   <revision id="3">
     <original><w>Supernatural</w></original>
-    <corrected><w><i>Supernatural</i></w></corrected>
+    <corrected><w><hi>Supernatural</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -65,11 +77,11 @@
   <w>við</w>
   <w>hinn</w>
   <w>virta</w>
-  <w><i>Conservatoire</i></w>
-  <w><i>National</i></w>
-  <w><i>Superieur</i></w>
-  <w><i>d'Art</i></w>
-  <w><i>Dramatique</i></w>
+  <w><hi>Conservatoire</hi></w>
+  <w><hi>National</hi></w>
+  <w><hi>Superieur</hi></w>
+  <w><hi>d'Art</hi></w>
+  <w><hi>Dramatique</hi></w>
   <w>skóla</w>
   <w>í</w>
   <w>París</w>
@@ -145,18 +157,18 @@
   <w>á</w>
   <w>borð</w>
   <w>við</w>
-  <w><i>Salome</i></w>
+  <w><hi>Salome</hi></w>
   <w>með</w>
   <w>Al</w>
   <w>Pacino</w>
   <c>,</c>
-  <w><i>Macbeth</i></w>
+  <w><hi>Macbeth</hi></w>
   <c>,</c>
-  <w><i>The</i></w>
-  <w><i>Green</i></w>
-  <w><i>Bird</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Green</hi></w>
+  <w><hi>Bird</hi></w>
   <w>og</w>
-  <w><i>Trainspotting</i></w>
+  <w><hi>Trainspotting</hi></w>
   <c>.</c>
 </s>
 <s n="8">
@@ -165,8 +177,8 @@
   <w>Roché</w>
   <w>var</w>
   <w>í</w>
-  <w><i>American</i></w>
-  <w><i>Masters</i></w>
+  <w><hi>American</hi></w>
+  <w><hi>Masters</hi></w>
   <w>og</w>
   <w>kom</w>
   <w>hann</w>
@@ -181,18 +193,18 @@
   <w>við</w>
   <w>Counterstrike</w>
   <c>,</c>
-  <w><i>The</i></w>
-  <w><i>Hitchhiker</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Hitchhiker</hi></w>
   <c>,</c>
-  <w><i>Runaway</i></w>
-  <w><i>Bay</i></w>
+  <w><hi>Runaway</hi></w>
+  <w><hi>Bay</hi></w>
   <c>,</c>
-  <w><i>South</i></w>
-  <w><i>Beach</i></w>
+  <w><hi>South</hi></w>
+  <w><hi>Beach</hi></w>
   <w>og</w>
-  <w><i>New</i></w>
-  <w><i>York</i></w>
-  <w><i>Undercover</i></w>
+  <w><hi>New</hi></w>
+  <w><hi>York</hi></w>
+  <w><hi>Undercover</hi></w>
   <c>.</c>
 </s>
 <s n="9">
@@ -202,7 +214,7 @@
   <w>boðið</w>
   <w>gestahlutverk</w>
   <w>í</w>
-  <w><i>Roar</i></w>
+  <w><hi>Roar</hi></w>
   <w>sem</w>
   <w>Longinus</w>
   <c>,</c>
@@ -231,7 +243,7 @@
   <w>við</w>
   <revision id="6">
     <original><w>Odyssey</w><w>5</w></original>
-    <corrected><w><i>Odyssey</i></w><w><i></i></w><w><i>5</i></w></corrected>
+    <corrected><w><hi>Odyssey</hi></w><w><hi></hi></w><w><hi>5</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -239,7 +251,7 @@
   <c>,</c>
   <revision id="7">
     <original><w>24</w></original>
-    <corrected><w><i>24</i></w></corrected>
+    <corrected><w><hi>24</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -247,7 +259,7 @@
   <c>,</c>
   <revision id="8">
     <original><w>Fringe</w></original>
-    <corrected><w><i>Fringe</i></w></corrected>
+    <corrected><w><hi>Fringe</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -255,7 +267,7 @@
   <c>,</c>
   <revision id="9">
     <original><w>Supernatural</w></original>
-    <corrected><w><i>Supernatural</i></w></corrected>
+    <corrected><w><hi>Supernatural</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -263,7 +275,7 @@
   <w>og</w>
   <revision id="10">
     <original><w>Criminal</w><w>Minds</w></original>
-    <corrected><w><i>Criminal</i></w><w><i>Minds</i></w></corrected>
+    <corrected><w><hi>Criminal</hi></w><w><hi>Minds</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -280,7 +292,7 @@
   <w>sápuóperunni</w>
   <revision id="11">
     <original><w>General</w><w>Hospital</w></original>
-    <corrected><w><i>General</i></w><w><i>Hospital</i></w></corrected>
+    <corrected><w><hi>General</hi></w><w><hi>Hospital</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -303,9 +315,9 @@
   <w>var</w>
   <w>árið 1988</w>
   <w>í</w>
-  <w><i>Adieu</i></w>
-  <w><i>je</i></w>
-  <w><i>t'aime</i></w>
+  <w><hi>Adieu</hi></w>
+  <w><hi>je</hi></w>
+  <w><hi>t'aime</hi></w>
   <c>.</c>
 </s>
 <s n="13">
@@ -319,23 +331,23 @@
   <w>á</w>
   <w>borð</w>
   <w>við</w>
-  <w><i>The</i></w>
-  <w><i>Last</i></w>
-  <w><i>of</i></w>
-  <w><i>the</i></w>
-  <w><i>Mohicans</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Last</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>Mohicans</hi></w>
   <c>,</c>
-  <w><i>The</i></w>
-  <w><i>Peacemaker</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Peacemaker</hi></w>
   <c>,</c>
-  <w><i>Seagull</i></w>
+  <w><hi>Seagull</hi></w>
   <c>,</c>
-  <w><i>Beowulf</i></w>
+  <w><hi>Beowulf</hi></w>
   <w>og</w>
-  <w><i>The</i></w>
-  <w><i>Adventures</i></w>
-  <w><i>of</i></w>
-  <w><i>Tintin</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Adventures</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>Tintin</hi></w>
   <c>.</c>
 </s>
 </p></body></text>

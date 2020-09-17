@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_500-t10.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Hluti</w>
@@ -198,8 +210,8 @@
   <c>.</c>
 </s><s n="5">
   <w>Orðið</w>
-  <w><i>pop</i></w>
-  <w><i>music</i></w>
+  <w><hi>pop</hi></w>
+  <w><hi>music</hi></w>
   <w>virðist</w>
   <w>hafa</w>
   <w>þróast</w>
@@ -209,15 +221,15 @@
   <w>popplist</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>pop</i></w>
-  <w><i>art</i></w>
+  <w><hi>pop</hi></w>
+  <w><hi>art</hi></w>
   <c>)</c>
   <w>og</w>
   <w>poppmenningu</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>pop</i></w>
-  <w><i>culture</i></w>
+  <w><hi>pop</hi></w>
+  <w><hi>culture</hi></w>
   <c>)</c>
   <w>sem</w>
   <w>skömmu</w>
@@ -286,8 +298,8 @@
   <w>brimbrettapopp</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>surf</i></w>
-  <w><i>pop</i></w>
+  <w><hi>surf</hi></w>
+  <w><hi>pop</hi></w>
   <c>)</c>
   <revision id="16">
     <original/>
@@ -342,21 +354,21 @@
         <error xtype="missing-word" eid="0"/>
       </errors>
   </revision>
-  <w><i>Rokksaga</i></w>
+  <w><hi>Rokksaga</hi></w>
   <revision id="22">
-    <original><w><i>Íslands-frá</i></w></original>
-    <corrected><w><i>Íslands</i></w><c><i>–</i></c><w><i>frá</i></w></corrected>
+    <original><w><hi>Íslands-frá</hi></w></original>
+    <corrected><w><hi>Íslands</hi></w><c><hi>–</hi></c><w><hi>frá</hi></w></corrected>
       <errors>
         <error xtype="missing-space" eid="0"/>
       </errors>
   </revision>
-  <w><i>Sigga</i></w>
-  <w><i>Johnnie</i></w>
-  <w><i>til</i></w>
-  <w><i>Sykurmolanna</i></w>
-  <w><i>1955</i></w>
+  <w><hi>Sigga</hi></w>
+  <w><hi>Johnnie</hi></w>
+  <w><hi>til</hi></w>
+  <w><hi>Sykurmolanna</hi></w>
+  <w><hi>1955</hi></w>
   <c>-</c>
-  <w><i>1990</i></w>
+  <w><hi>1990</hi></w>
   <w>eftir</w>
   <w>Gest</w>
   <w>Guðmundsson</w>
@@ -364,18 +376,18 @@
   <w>og</w>
   <w>hins</w>
   <w>vegar</w>
-  <w><i>Eru</i></w>
-  <w><i>ekki</i></w>
-  <w><i>allir</i></w>
-  <w><i>í</i></w>
-  <w><i>stuði</i></w>
+  <w><hi>Eru</hi></w>
+  <w><hi>ekki</hi></w>
+  <w><hi>allir</hi></w>
+  <w><hi>í</hi></w>
+  <w><hi>stuði</hi></w>
   <c>?</c>
-  <w><i>–Rokk</i></w>
-  <w><i>á</i></w>
-  <w><i>Íslandi</i></w>
-  <w><i>á</i></w>
-  <w><i>síðustu</i></w>
-  <w><i>öld</i></w>
+  <w><hi>–Rokk</hi></w>
+  <w><hi>á</hi></w>
+  <w><hi>Íslandi</hi></w>
+  <w><hi>á</hi></w>
+  <w><hi>síðustu</hi></w>
+  <w><hi>öld</hi></w>
   <w>eftir</w>
   <w>tónlistarmanninn</w>
   <c>,</c>
@@ -573,11 +585,11 @@
   <w>er</w>
   <w>það</w>
   <w>kallað</w>
-  <w><i>pure</i></w>
-  <w><i>pop</i></w>
+  <w><hi>pure</hi></w>
+  <w><hi>pop</hi></w>
   <w>eða</w>
-  <w><i>power</i></w>
-  <w><i>pop</i></w>
+  <w><hi>power</hi></w>
+  <w><hi>pop</hi></w>
   <c>.</c>
 </s><s n="16">
   <w>Þáttur</w>
@@ -618,8 +630,8 @@
   <c>.</c>
 </s><s n="18">
   <w>Í</w>
-  <w><i>Rokksögu</i></w>
-  <w><i>Íslands</i></w>
+  <w><hi>Rokksögu</hi></w>
+  <w><hi>Íslands</hi></w>
   <w>er</w>
   <w>gerð</w>
   <w>tilraun</w>
@@ -794,8 +806,8 @@
         <error xtype="wording" idx="1-2" eid="0"/>
       </errors>
   </revision>
-  <w><i>pop</i></w>
-  <w><i>music</i></w>
+  <w><hi>pop</hi></w>
+  <w><hi>music</hi></w>
   <c>,</c>
   <revision id="39">
     <original/>
@@ -806,8 +818,8 @@
   </revision>
   <w>stytting</w>
   <w>úr</w>
-  <w><i>popular</i></w>
-  <w><i>music</i></w>
+  <w><hi>popular</hi></w>
+  <w><hi>music</hi></w>
   <revision id="40">
     <original><c>)</c></original>
     <corrected><c>,</c></corrected>
@@ -831,9 +843,9 @@
   <w>Myndir</w>
   <w>eins</w>
   <w>og</w>
-  <w><i>Saturday</i></w>
-  <w><i>Night</i></w>
-  <w><i>Live</i></w>
+  <w><hi>Saturday</hi></w>
+  <w><hi>Night</hi></w>
+  <w><hi>Live</hi></w>
   <w>gerðu</w>
   <w>þessa</w>
   <w>tónlist</w>
@@ -908,8 +920,8 @@
   <w>Tiger</w>
   <c>“</c>
   <w>úr</w>
-  <w><i>Rocky</i></w>
-  <w><i>III</i></w>
+  <w><hi>Rocky</hi></w>
+  <w><hi>III</hi></w>
   <c>(</c>
   <w>1982</w>
   <c>)</c>
@@ -924,7 +936,7 @@
   <w>Feeling</w>
   <c>“</c>
   <w>úr</w>
-  <w><i>Flashdance</i></w>
+  <w><hi>Flashdance</hi></w>
   <c>(</c>
   <w>1983</w>
   <c>)</c>
@@ -1603,7 +1615,7 @@
   <w>laginu</w>
   <revision id="77">
     <original><c>„</c><w>Rock</w><w>Around</w><w>the</w><w>Clock</w><c>“</c></original>
-    <corrected><w><i>Rock</i></w><w><i>Around</i></w><w><i>the</i></w><w><i>Clock</i></w></corrected>
+    <corrected><w><hi>Rock</hi></w><w><hi>Around</hi></w><w><hi>the</hi></w><w><hi>Clock</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="39-1" eid="0"/>
         <error xtype="nonit4it" idx="39-2" eid="0"/>
@@ -1874,7 +1886,7 @@
   <w>Boys</w>
   <revision id="90">
     <original><c>-</c><c>„</c><w>Surfin'USA</w><c>“</c></original>
-    <corrected><c>—</c><w><i>Surfin'USA</i></w></corrected>
+    <corrected><c>—</c><w><hi>Surfin'USA</hi></w></corrected>
       <errors>
         <error xtype="wrong-dash" idx="60-1" eid="0"/>
         <error xtype="extra-quots" idx="60-2" eid="0"/>
@@ -1887,7 +1899,7 @@
   <w>og</w>
   <revision id="91">
     <original><c>„</c><w>Good</w><w>Vibrations</w><c>“</c></original>
-    <corrected><w><i>Good</i></w><w><i>Vibrations</i></w></corrected>
+    <corrected><w><hi>Good</hi></w><w><hi>Vibrations</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="61-1" eid="0"/>
         <error xtype="nonit4it" idx="61-2" eid="0"/>
@@ -2149,7 +2161,7 @@
   <w>lögin</w>
   <revision id="105">
     <original><c>„</c><w>Do</w><w>They</w><w>Know</w><w>It's</w><w>Christmas</w></original>
-    <corrected><w><i>Do</i></w><w><i>They</i></w><w><i>Know</i></w><w><i>It's</i></w><w><i>Christmas</i></w></corrected>
+    <corrected><w><hi>Do</hi></w><w><hi>They</hi></w><w><hi>Know</hi></w><w><hi>It's</hi></w><w><hi>Christmas</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="86-1" eid="0"/>
         <error xtype="nonit4it" idx="86-2" eid="0"/>
@@ -2166,7 +2178,7 @@
   <w>og</w>
   <revision id="107">
     <original><c>„</c><w>We</w><w>Are</w><w>the</w><w>World</w><c>“</c></original>
-    <corrected><w><i>We</i></w><w><i>Are</i></w><w><i>the</i></w><w><i>World</i></w></corrected>
+    <corrected><w><hi>We</hi></w><w><hi>Are</hi></w><w><hi>the</hi></w><w><hi>World</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="89-1" eid="0"/>
         <error xtype="nonit4it" idx="89-2" eid="0"/>

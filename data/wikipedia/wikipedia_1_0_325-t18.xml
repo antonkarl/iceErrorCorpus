@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_325-t18.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Virki</w>
@@ -11,7 +23,7 @@
   <w>víetnamska</w>
   <c>:</c>
   <revision id="1">
-    <original><c>"</c><w><i>Thành</i></w><w><i>nhà</i></w><w><i>Hồ</i></w><c>"</c></original>
+    <original><c>"</c><w><hi>Thành</hi></w><w><hi>nhà</hi></w><w><hi>Hồ</hi></w><c>"</c></original>
     <corrected><w>Thành</w><w>nhà</w><w>Hồ</w></corrected>
       <errors>
         <error xtype="extra-quots" idx="1-1" eid="0" />
@@ -22,7 +34,7 @@
   <c>;</c>
   <w>einnig</w>
   <revision id="2">
-    <original><c>"</c><w><i>Tây</i></w><w><i>Đô</i></w><w><i>höllin</i></w><c>"</c></original>
+    <original><c>"</c><w><hi>Tây</hi></w><w><hi>Đô</hi></w><w><hi>höllin</hi></w><c>"</c></original>
     <corrected><w>Tây</w><w>Đô</w><w>höllin</w></corrected>
       <errors>
         <error xtype="extra-quots" idx="2-1" eid="0" />
@@ -32,7 +44,7 @@
   </revision>
   <w>eða</w>
   <revision id="3">
-    <original><c>"</c><w><i>Tây</i></w>><w><i>Giai</i></w><w><i>höllin</i></w><c>"</c></original>
+    <original><c>"</c><w><hi>Tây</hi></w>><w><hi>Giai</hi></w><w><hi>höllin</hi></w><c>"</c></original>
     <corrected><w>Tây</w><w>Giai</w><w>höllin</w></corrected>
       <errors>
         <error xtype="extra-quots" idx="3-1" eid="0" />

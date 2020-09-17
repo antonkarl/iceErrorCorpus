@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Rannsókn</w>
+  <w>er</w>
+  <w>nú</w>
+  <w>hafin</w>
+  <w>á</w>
+  <w>því</w>
+  <w>hvernig</w>
+  <w>það</w>
+  <w>gat</w>
+  <w>gerst</w>
+  <w>að</w>
+  <w>hjúkrunarfræðingur</w>
+  <w>á</w>
+  <w>Spáni</w>
+  <w>smitaðist</w>
+  <w>af</w>
+  <revision id="1">
+    <original><w>Ebólu</w></original>
+    <corrected><w>ebólu</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Hún</w>
+  <w>er</w>
+  <w>fyrsti</w>
+  <w>sjúklingurinn</w>
+  <w>sem</w>
+  <w>smitast</w>
+  <w>af</w>
+  <w>hinum</w>
+  <w>banvæna</w>
+  <w>sjúkdómi</w>
+  <w>utan</w>
+  <w>Vestur-Afríku</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Konan</w>
+  <w>hafði</w>
+  <w>annast</w>
+  <w>tvo</w>
+  <w>spænska</w>
+  <w>trúboða</w>
+  <w>sem</w>
+  <w>voru</w>
+  <w>fluttir</w>
+  <w>með</w>
+  <w>sjúkraflugi</w>
+  <w>frá</w>
+  <w>Afríku</w>
+  <w>til</w>
+  <w>höfuðborgarinnar</w>
+  <w>Madríd</w>
+  <w>þar</w>
+  <w>sem</w>
+  <w>þeir</w>
+  <w>fengu</w>
+  <w>bestu</w>
+  <w>mögulegu</w>
+  <revision id="2">
+    <original><w>ummönunun</w></original>
+    <corrected><w>umönnun</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="2-1" eid="0" />
+        <error xtype="nonword" idx="2-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Þrátt</w>
+  <w>fyrir</w>
+  <w>það</w>
+  <w>tókst</w>
+  <w>ekki</w>
+  <w>að</w>
+  <w>bjarga</w>
+  <w>lífi</w>
+  <w>þeirra</w>
+  <w>og</w>
+  <w>nú</w>
+  <w>er</w>
+  <w>komið</w>
+  <w>í</w>
+  <w>ljós</w>
+  <w>að</w>
+  <w>hjúkrunarfræðingurinn</w>
+  <w>hefur</w>
+  <w>smitast</w>
+  <w>af</w>
+  <w>þeim</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Ástand</w>
+  <w>konunnar</w>
+  <w>er</w>
+  <w>sagt</w>
+  <w>í</w>
+  <w>jafnvægi</w>
+  <w>og</w>
+  <revision id="2b">
+    <original><w>náið</w><w>er</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="v3" idx="2b-1" eid="0" />
+      </errors>
+  </revision>
+  <w>fylgst</w>
+  <revision id="2c">
+    <original><w>er</w><w>náið</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="2b-1" eid="0" />
+      </errors>
+  </revision>
+  <w>með</w>
+  <revision id="3">
+    <original><w>vinnufélögumum</w></original>
+    <corrected><w>vinnufélögum</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="3-1" eid="0" />
+        <error xtype="extra-letter" idx="3-1" eid="0" />
+        <error xtype="nonword" idx="3-1" eid="0" />
+      </errors>
+  </revision>
+  <w>þeirra</w>
+  <c>,</c>
+  <w>skyldu</w>
+  <w>fleiri</w>
+  <w>hafa</w>
+  <w>smitast</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Um</w>
+  <w>3400</w>
+  <w>manns</w>
+  <w>hafa</w>
+  <w>nú</w>
+  <w>látist</w>
+  <w>eftir</w>
+  <w>að</w>
+  <w>ebólufaraldurinn</w>
+  <w>braust</w>
+  <w>út</w>
+  <w>fyrir</w>
+  <w>nokkrum</w>
+  <w>mánuðum</w>
+  <w>og</w>
+  <w>er</w>
+  <w>ástandið</w>
+  <w>langverst</w>
+  <w>í</w>
+  <w>Líberíu</w>
+  <c>,</c>
+  <w>Síerra</w>
+  <w>Leóne</w>
+  <w>og</w>
+  <w>Gíneu</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>Norsk</w>
+  <w>hjúkrunarkona</w>
+  <w>smitaðist</w>
+  <w>í</w>
+  <w>Afríku</w>
+  <w>á</w>
+  <w>dögunum</w>
+  <w>og</w>
+  <w>er</w>
+  <w>verið</w>
+  <w>að</w>
+  <w>flytja</w>
+  <w>hana</w>
+  <w>heim</w>
+  <w>til</w>
+  <w>Noregs</w>
+  <w>en</w>
+  <w>hún</w>
+  <w>er</w>
+  <w>fyrsti</w>
+  <w>Norðurlandabúinn</w>
+  <w>sem</w>
+  <w>smitast</w>
+  <c>.</c>
+</s>
+<s n="8">
+  <w>Búist</w>
+  <w>er</w>
+  <w>við</w>
+  <w>að</w>
+  <w>lent</w>
+  <w>verði</w>
+  <w>með</w>
+  <w>konuna</w>
+  <w>í</w>
+  <w>Osló</w>
+  <w>um</w>
+  <w>hádegisbil</w>
+  <w>í</w>
+  <w>dag</w>
+  <c>.</c>
+</s>
+<s n="9">
+  <w>Obama</w>
+  <w>Bandaríkjaforseti</w>
+  <w>tilkynnti</w>
+  <w>síðan</w>
+  <w>um</w>
+  <w>það</w>
+  <w>í</w>
+  <w>gærkvöldi</w>
+  <w>að</w>
+  <w>hert</w>
+  <w>verði</w>
+  <w>á</w>
+  <w>öryggisgæslu</w>
+  <w>á</w>
+  <w>flugvöllum</w>
+  <w>í</w>
+  <w>Bandaríkjunum</w>
+  <w>til</w>
+  <w>þess</w>
+  <w>að</w>
+  <w>reyna</w>
+  <w>að</w>
+  <w>koma</w>
+  <w>í</w>
+  <w>veg</w>
+  <w>fyrir</w>
+  <w>að</w>
+  <w>Ebólusmitað</w>
+  <w>fólk</w>
+  <w>komi</w>
+  <w>inn</w>
+  <w>í</w>
+  <w>landið</w>
+  <w>en</w>
+  <w>á</w>
+  <w>dögunum</w>
+  <w>uppgötvaðist</w>
+  <w>að</w>
+  <w>maður</w>
+  <w>sem</w>
+  <w>ferðast</w>
+  <w>hafði</w>
+  <w>frá</w>
+  <w>Líberíu</w>
+  <w>til</w>
+  <w>Dallas</w>
+  <w>reyndist</w>
+  <w>smitaður</w>
+  <w>af</w>
+  <w>sjúkdómnum</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

@@ -1,18 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_7-t3.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
-  <w><i>Nora</i></w>
-  <w><i>Brockstedt</i></w>
-  <w><i>og</i></w>
-  <w><i>Monn</i></w>
-  <w><i>Keys</i></w>
-  <w><i>-</i></w>
-  <w><i>Það</i></w>
-  <w><i>er</i></w>
-  <w><i>lítið</i></w>
-  <w><i>hús</i></w>
+  <w><hi>Nora</hi></w>
+  <w><hi>Brockstedt</hi></w>
+  <w><hi>og</hi></w>
+  <w><hi>Monn</hi></w>
+  <w><hi>Keys</hi></w>
+  <w><hi>-</hi></w>
+  <w><hi>Það</hi></w>
+  <w><hi>er</hi></w>
+  <w><hi>lítið</hi></w>
+  <w><hi>hús</hi></w>
   <w>er</w>
   <w>78</w>
   <c>-</c>
@@ -45,7 +57,7 @@
   <w>Annað</w>
   <w>lagið</w>
   <revision id="1">
-    <original><w>er</w><w><i>Svo</i></w><w><i>ung</i></w><w><i>og</i></w><w><i>blíð</i></w><w>sem</w></original>
+    <original><w>er</w><w><hi>Svo</hi></w><w><hi>ung</hi></w><w><hi>og</hi></w><w><hi>blíð</hi></w><w>sem</w></original>
     <corrected><c>,</c><c>„</c><w>Svo</w><w>ung</w><w>og</w><w>blíð</w><c>“</c><c>,</c></corrected>
       <errors>
         <error xtype="missing-commas" idx="1-1" eid="0" />
@@ -274,7 +286,7 @@
 </s>
 <s n="13">
   <revision id="8">
-    <original><w><i>Gilly</i></w></original>
+    <original><w><hi>Gilly</hi></w></original>
     <corrected><c>„</c><w>Gilly</w></corrected>
       <errors>
         <error xtype="missing-quots" idx="8-1" eid="0" />
@@ -283,7 +295,7 @@
   </revision>
   <c>,</c>
   <revision id="9">
-    <original><w><i>Gilly</i></w></original>
+    <original><w><hi>Gilly</hi></w></original>
     <corrected><w>Gilly</w></corrected>
       <errors>
         <error xtype="dep" depId="8-2" eid="0" />
@@ -291,7 +303,7 @@
   </revision>
   <c>,</c>
   <revision id="10">
-    <original><w><i>Ossenfeffer</i></w></original>
+    <original><w><hi>Ossenfeffer</hi></w></original>
     <corrected><w>Ossenfeffer</w></corrected>
       <errors>
         <error xtype="dep" depId="8-2" eid="0" />
@@ -299,7 +311,7 @@
   </revision>
   <c>,</c>
   <revision id="11">
-    <original><w><i>Katzenellen</i></w><w><i>Bogen</i></w><w><i>by</i></w><w><i>the</i></w><w><i>Sea</i></w></original>
+    <original><w><hi>Katzenellen</hi></w><w><hi>Bogen</hi></w><w><hi>by</hi></w><w><hi>the</hi></w><w><hi>Sea</hi></w></original>
     <corrected><w>Katzenellen</w><w>Bogen</w><w>by</w><w>the</w><w>Sea</w><c>“</c></corrected>
       <errors>
         <error xtype="dep" depId="8-2" eid="0" />
@@ -321,7 +333,7 @@
   <w>og</w>
   <w>skírði</w>
   <revision id="12">
-    <original><w><i>Svo</i></w><w><i>ung</i></w><w><i>og</i></w><w><i>blíð</i></w></original>
+    <original><w><hi>Svo</hi></w><w><hi>ung</hi></w><w><hi>og</hi></w><w><hi>blíð</hi></w></original>
     <corrected><c>„</c><w>Svo</w><w>ung</w><w>og</w><w>blíð</w><c>“</c></corrected>
       <errors>
         <error xtype="missing-quots" idx="12-1" eid="0" />
@@ -340,7 +352,7 @@
   <w>undir</w>
   <w>heitinu</w>
   <revision id="13">
-    <original><w><i>Það</i></w><w><i>er</i></w><w><i>lítið</i></w><w><i>hús</i></w></original>
+    <original><w><hi>Það</hi></w><w><hi>er</hi></w><w><hi>lítið</hi></w><w><hi>hús</hi></w></original>
     <corrected><c>„</c><w>Það</w><w>er</w><w>lítið</w><w>hús</w></corrected>
       <errors>
         <error xtype="missing-quots" idx="13-1" eid="0" />
@@ -349,7 +361,7 @@
   </revision>
   <c>(</c>
   <revision id="14">
-    <original><w><i>út</i></w><w><i>við</i></w><w><i>lygnan</i></w><w><i>straum</i></w></original>
+    <original><w><hi>út</hi></w><w><hi>við</hi></w><w><hi>lygnan</hi></w><w><hi>straum</hi></w></original>
     <corrected><w>út</w><w>við</w><w>lygnan</w><w>straum</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />

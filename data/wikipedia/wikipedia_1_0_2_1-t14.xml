@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_1-t14.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Rúanda</w>
@@ -47,10 +59,10 @@
   <w>landið</w>
   <c>“</c>
   <c>(</c>
-  <w><i>pays</i></w>
-  <w><i>des</i></w>
-  <w><i>mille</i></w>
-  <w><i>collines</i></w>
+  <w><hi>pays</hi></w>
+  <w><hi>des</hi></w>
+  <w><hi>mille</hi></w>
+  <w><hi>collines</hi></w>
   <c>)</c>
   <c>.</c>
 </s>
@@ -351,11 +363,11 @@
   <w>sem</w>
   <w>var</w>
   <w>kölluð</w>
-  <w><i>Hutu</i></w>
-  <w><i>power</i></w>
+  <w><hi>Hutu</hi></w>
+  <w><hi>power</hi></w>
   <w>eða</w>
-  <w><i>Kraftur</i></w>
-  <w><i>Hútú</i></w>
+  <w><hi>Kraftur</hi></w>
+  <w><hi>Hútú</hi></w>
   <revision id="18">
     <original><w>var</w></original>
     <corrected><w>hafði</w></corrected>

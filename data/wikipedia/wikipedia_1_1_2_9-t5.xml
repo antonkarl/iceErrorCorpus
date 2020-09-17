@@ -1,15 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_9-t5.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>LDN</w>
   <c>(</c>
   <w>skammstöfun</w>
   <w>á</w>
-  <w><i>Low</i></w>
-  <w><i>dose</i></w>
-  <w><i>naltrexone</i></w>
+  <w><hi>Low</hi></w>
+  <w><hi>dose</hi></w>
+  <w><hi>naltrexone</hi></w>
   <c>)</c>
   <w>er</w>
   <w>heiti</w>
@@ -56,8 +68,8 @@
   <c>,</c>
   <w>ME</w>
   <c>(</c>
-  <w><i>Mylgic</i></w>
-  <w><i>Encephalomyelitis</i></w>
+  <w><hi>Mylgic</hi></w>
+  <w><hi>Encephalomyelitis</hi></w>
   <revision id="4">
     <original></original>
     <corrected><c>,</c></corrected>
@@ -68,7 +80,7 @@
   <w>áður</w>
   <w>kallað</w>
   <revision id="5">
-    <original><w><i>síþreyta</i></w></original>
+    <original><w><hi>síþreyta</hi></w></original>
     <corrected><w>síþreyta</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -600,8 +612,8 @@
   </revision>
 </s>
 <s n="18">
-  <w><i>Rauðir</i></w>
-  <w><i>úlfar</i></w>
+  <w><hi>Rauðir</hi></w>
+  <w><hi>úlfar</hi></w>
   <c>)</c>
   <c>,</c>
   <revision id="18">
@@ -1074,11 +1086,11 @@
   <w>sambærileg</w>
   <w>frumrannsókn</w>
   <w>við</w>
-  <w><i>Penn</i></w>
-  <w><i>State</i></w>
-  <w><i>College</i></w>
-  <w><i>of</i></w>
-  <w><i>Medicine</i></w>
+  <w><hi>Penn</hi></w>
+  <w><hi>State</hi></w>
+  <w><hi>College</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>Medicine</hi></w>
   <w>til</w>
   <w>að</w>
   <w>meta</w>
@@ -1140,9 +1152,9 @@
   <w>vikur</w>
   <w>í</w>
   <w>svokallaðri</w>
-  <w><i>open</i></w>
-  <w><i>lable</i></w>
-  <w><i>treatment</i></w>
+  <w><hi>open</hi></w>
+  <w><hi>lable</hi></w>
+  <w><hi>treatment</hi></w>
   <w>þar</w>
   <w>sem</w>
   <w>sjúklingar</w>
@@ -1819,13 +1831,13 @@
   <w>var</w>
   <w>birt</w>
   <w>í</w>
-  <w><i>The</i></w>
-  <w><i>Journal</i></w>
-  <w><i>of</i></w>
-  <w><i>AIDS</i></w>
-  <w><i>and</i></w>
-  <w><i>HIV</i></w>
-  <w><i>Research</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Journal</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>AIDS</hi></w>
+  <w><hi>and</hi></w>
+  <w><hi>HIV</hi></w>
+  <w><hi>Research</hi></w>
   <c>.</c>
 </s>
 <s n="46">
@@ -2033,7 +2045,7 @@
   <w>lyfinu</w>
   <revision id="81">
     <original><w>Oxytrex</w></original>
-    <corrected><w><i>Oxytrex</i></w></corrected>
+    <corrected><w><hi>Oxytrex</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -2045,7 +2057,7 @@
   <w>af</w>
   <revision id="82">
     <original><w>Oxycodone</w></original>
-    <corrected><w><i>Oxycodone</i></w></corrected>
+    <corrected><w><hi>Oxycodone</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -2053,7 +2065,7 @@
   <w>og</w>
   <revision id="83">
     <original><w>Ultra-low-dose</w><w>naltrexone</w></original>
-    <corrected><w><i>Ultra-low-dose</i></w><w><i>naltrexone</i></w></corrected>
+    <corrected><w><hi>Ultra-low-dose</hi></w><w><hi>naltrexone</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -2548,17 +2560,17 @@
   <w>ítrekar</w>
   <revision id="98">
     <original><w>The</w></original>
-    <corrected><w><i>The</i></w></corrected>
+    <corrected><w><hi>The</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
   </revision>
-  <w><i>United</i></w>
-  <w><i>States</i></w>
-  <w><i>Department</i></w>
-  <w><i>of</i></w>
-  <w><i>Veteran</i></w>
-  <w><i>Affairs</i></w>
+  <w><hi>United</hi></w>
+  <w><hi>States</hi></w>
+  <w><hi>Department</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>Veteran</hi></w>
+  <w><hi>Affairs</hi></w>
   <w>að</w>
   <w>LDN</w>
   <w>skuli</w>
@@ -3005,9 +3017,9 @@
   <w>TLR</w>
   <w>4</w>
   <c>(</c>
-  <w><i>toll-like</i></w>
-  <w><i>receptor</i></w>
-  <w><i></i></w>
+  <w><hi>toll-like</hi></w>
+  <w><hi>receptor</hi></w>
+  <w><hi></hi></w>
   <w>4Z</w>
   <c>)</c>
   <w>eða</w>
@@ -3020,7 +3032,7 @@
   <w>að</w>
   <w>LPS</w>
   <c>(</c>
-  <w><i>Lipo-Poly-Saccharides</i></w>
+  <w><hi>Lipo-Poly-Saccharides</hi></w>
   <c>)</c>
   <w>bindist</w>
   <w>sömu</w>
@@ -3047,8 +3059,8 @@
   <w>ónæmis</w>
   <w>frumur</w>
   <c>(</c>
-  <w><i>microglial</i></w>
-  <w><i>frumur</i></w>
+  <w><hi>microglial</hi></w>
+  <w><hi>frumur</hi></w>
   <c>)</c>
   <w>í</w>
   <w>að</w>
@@ -3056,7 +3068,7 @@
   <w>boðefnið</w>
   <revision id="121">
     <original><w>cytokines</w></original>
-    <corrected><w><i>cytokines</i></w></corrected>
+    <corrected><w><hi>cytokines</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -3066,7 +3078,7 @@
   <w>eykur</w>
   <revision id="122">
     <original><w>superocide</w><w>magnið</w></original>
-    <corrected><w><i>superocide-magnið</i></w></corrected>
+    <corrected><w><hi>superocide-magnið</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="122-1" eid="0" />
         <error xtype="missing-dash" idx="122-2" eid="0" />
@@ -3146,7 +3158,7 @@
   <w>úr</w>
   <revision id="127">
     <original><w>cytokines</w><c>(</c></original>
-    <corrected><w><i>cytokines</i></w><c>,</c></corrected>
+    <corrected><w><hi>cytokines</hi></w><c>,</c></corrected>
       <errors>
         <error xtype="nonit4it" idx="127-1" eid="0" />
         <error xtype="bracket4comma" idx="127-2" eid="0" />
@@ -3172,7 +3184,7 @@
   <w>og</w>
   <revision id="130">
     <original><w>superoxides</w><c>(</c></original>
-    <corrected><w><i>superoxides</i></w><c>,</c></corrected>
+    <corrected><w><hi>superoxides</hi></w><c>,</c></corrected>
       <errors>
         <error xtype="nonit4it" idx="130-1" eid="0" />
         <error xtype="bracket4comma" idx="130-2" eid="0" />
@@ -3291,7 +3303,7 @@
   <w>og</w>
   <revision id="138">
     <original><w>cytokines</w></original>
-    <corrected><w><i>cytokines</i></w></corrected>
+    <corrected><w><hi>cytokines</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -3311,7 +3323,7 @@
   <w>um</w>
   <revision id="140">
     <original><w>neurotoxic</w><w>superoxides</w><c>)</c></original>
-    <corrected><w><i>neurotoxic</i></w><w><i>superoxides</i></w></corrected>
+    <corrected><w><hi>neurotoxic</hi></w><w><hi>superoxides</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="140-1" eid="0" />
         <error xtype="extra-bracket" idx="140-2" eid="0" />
@@ -3484,9 +3496,9 @@
   <w>sem</w>
   <w>nefndar</w>
   <w>eru</w>
-  <w><i>Natural</i></w>
-  <w><i>killer</i></w>
-  <w><i>cells</i></w>
+  <w><hi>Natural</hi></w>
+  <w><hi>killer</hi></w>
+  <w><hi>cells</hi></w>
   <c>(</c>
   <w>eða</w>
   <w>NK</w>
@@ -3527,7 +3539,7 @@
   <w>og</w>
   <revision id="147">
     <original><w>Rituximab</w></original>
-    <corrected><w><i>Rituximab</i></w></corrected>
+    <corrected><w><hi>Rituximab</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -3626,7 +3638,7 @@
   <w>bólguefnið</w>
   <revision id="152">
     <original><w>cytokines</w></original>
-    <corrected><w><i>cytokines</i></w></corrected>
+    <corrected><w><hi>cytokines</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -3874,16 +3886,16 @@
   <w>Patricia</w>
   <w>McLaughlin</w>
   <w>við</w>
-  <w><i>Hershey</i></w>
-  <w><i>Medical</i></w>
-  <w><i>Center</i></w>
+  <w><hi>Hershey</hi></w>
+  <w><hi>Medical</hi></w>
+  <w><hi>Center</hi></w>
   <w>við</w>
-  <w><i>Penn</i></w>
-  <w><i>State</i></w>
-  <w><i>University</i></w>
-  <w><i>College</i></w>
-  <w><i>of</i></w>
-  <w><i>Medicine</i></w>
+  <w><hi>Penn</hi></w>
+  <w><hi>State</hi></w>
+  <w><hi>University</hi></w>
+  <w><hi>College</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>Medicine</hi></w>
   <w>að</w>
   <w>rannsaka</w>
   <w>hvort</w>
@@ -3997,19 +4009,19 @@
   <w>var</w>
   <w>yfir</w>
   <w>fíknisviði</w>
-  <w><i>State</i></w>
-  <w><i>University</i></w>
-  <w><i>of</i></w>
-  <w><i>New</i></w>
-  <w><i>York</i></w>
-  <w><i></i></w>
+  <w><hi>State</hi></w>
+  <w><hi>University</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>New</hi></w>
+  <w><hi>York</hi></w>
+  <w><hi></hi></w>
   <c>(</c>
   <w>SUNY</w>
   <c>)</c>
-  <w><i></i></w>
-  <w><i>Health</i></w>
-  <w><i>Service</i></w>
-  <w><i>Center</i></w>
+  <w><hi></hi></w>
+  <w><hi>Health</hi></w>
+  <w><hi>Service</hi></w>
+  <w><hi>Center</hi></w>
   <w>í</w>
   <w>Brooklyn</w>
   <c>,</c>
@@ -4146,9 +4158,9 @@
   <w>og</w>
   <w>1986</w>
   <w>við</w>
-  <w><i>Downstate</i></w>
-  <w><i>Medical</i></w>
-  <w><i>Center</i></w>
+  <w><hi>Downstate</hi></w>
+  <w><hi>Medical</hi></w>
+  <w><hi>Center</hi></w>
   <w>í</w>
   <w>New</w>
   <w>York</w>
@@ -4159,10 +4171,10 @@
   <w>var</w>
   <w>fjármögnuð</w>
   <w>af</w>
-  <w><i>Foundation</i></w>
-  <w><i>for</i></w>
-  <w><i>Intergrative</i></w>
-  <w><i>Research</i></w>
+  <w><hi>Foundation</hi></w>
+  <w><hi>for</hi></w>
+  <w><hi>Intergrative</hi></w>
+  <w><hi>Research</hi></w>
   <c>.</c>
 </s>
 <s n="104">
@@ -4345,7 +4357,7 @@
   <w>framleiðslu</w>
   <revision id="177">
     <original><w>endogenous</w><w>opiate</w><w>met</w></original>
-    <corrected><w><i>endogenous</i></w><w><i>opiate</i></w><w><i>met</i></w></corrected>
+    <corrected><w><hi>endogenous</hi></w><w><hi>opiate</hi></w><w><hi>met</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -4355,7 +4367,7 @@
   <c>-</c>
   <revision id="178">
     <original><w>enkephalin</w></original>
-    <corrected><w><i>enkephalin</i></w></corrected>
+    <corrected><w><hi>enkephalin</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -4364,9 +4376,9 @@
   <w>sem</w>
   <w>hann</w>
   <w>kallaði</w>
-  <w><i>opioid</i></w>
-  <w><i>growth</i></w>
-  <w><i>factor</i></w>
+  <w><hi>opioid</hi></w>
+  <w><hi>growth</hi></w>
+  <w><hi>factor</hi></w>
   <c>(</c>
   <w>OGF</w>
   <c>)</c>
@@ -4517,14 +4529,14 @@
         <error xtype="missing-word" eid="0" />
       </errors>
   </revision>
-  <w><i>University</i></w>
-  <w><i>of</i></w>
-  <w><i>Iowa</i></w>
+  <w><hi>University</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>Iowa</hi></w>
   <c>,</c>
   <w>seinna</w>
   <revision id="185">
     <original><w>Cornell</w><w>University</w></original>
-    <corrected><w><i>Cornell</i></w><w><i>University</i></w></corrected>
+    <corrected><w><hi>Cornell</hi></w><w><hi>University</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -4840,31 +4852,31 @@
   <w>tímarit</w>
   <w>allt</w>
   <w>frá</w>
-  <w><i>The</i></w>
-  <w><i>Townsend</i></w>
-  <w><i>Newsletter</i></w>
-  <w><i>for</i></w>
-  <w><i>Doctors</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Townsend</hi></w>
+  <w><hi>Newsletter</hi></w>
+  <w><hi>for</hi></w>
+  <w><hi>Doctors</hi></w>
   <c>,</c>
-  <w><i>The</i></w>
-  <w><i>Boston</i></w>
-  <w><i>Cure</i></w>
-  <w><i>Project</i></w>
-  <w><i>Newsletter</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Boston</hi></w>
+  <w><hi>Cure</hi></w>
+  <w><hi>Project</hi></w>
+  <w><hi>Newsletter</hi></w>
   <c>,</c>
-  <w><i>The</i></w>
-  <w><i>Fort</i></w>
-  <w><i>Meyers</i></w>
-  <w><i>Florida</i></w>
-  <w><i>Island</i></w>
-  <w><i>Newsletter</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Fort</hi></w>
+  <w><hi>Meyers</hi></w>
+  <w><hi>Florida</hi></w>
+  <w><hi>Island</hi></w>
+  <w><hi>Newsletter</hi></w>
   <c>,</c>
-  <w><i>Medical</i></w>
-  <w><i>Hypotheses</i></w>
+  <w><hi>Medical</hi></w>
+  <w><hi>Hypotheses</hi></w>
   <w>og</w>
-  <w><i>The</i></w>
-  <w><i>London</i></w>
-  <w><i>Herald</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>London</hi></w>
+  <w><hi>Herald</hi></w>
   <w>birt</w>
   <w>greinar</w>
   <w>um</w>

@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_500-t24.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Merkið</w>
@@ -31,7 +43,7 @@
   <w>Merkingin</w>
   <w>er</w>
   <revision id="3">
-    <original><w><i>svæðið</i></w><w>hinummegin</w><w><i>við</i></w><w><i>ána</i></w><w><i>IJssel</i></w><c>(</c><w><i>séð</i></w></original>
+    <original><w><hi>svæðið</hi></w><w>hinummegin</w><w><hi>við</hi></w><w><hi>ána</hi></w><w><hi>IJssel</hi></w><c>(</c><w><hi>séð</hi></w></original>
     <corrected><c>„</c><w>svæðið</w><w>hinum</w><w>megin</w><w>við</w><w>ána</w><w>IJssel</w><c>,</c></corrected>
       <errors>
         <error xtype="missing-quots" idx="21-1" eid="0"/>

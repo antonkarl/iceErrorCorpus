@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_12-t3.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="0">
   <w>Gervigreind</w>
@@ -114,10 +126,10 @@
       </errors>
   </revision>
   <w>orðsins</w>
-  <w><i>sapiens</i></w>
+  <w><hi>sapiens</hi></w>
   <w>í</w>
-  <w><i>Homo</i></w>
-  <w><i>sapiens</i></w>
+  <w><hi>Homo</hi></w>
+  <w><hi>sapiens</hi></w>
   <c>=</c>
   <c>„</c>
   <w>hinn</w>

@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_1-t1.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Sungið</w>
@@ -127,7 +139,7 @@
   <w>Sinfóníuhljómsveitar</w>
   <w>Íslands</w>
   <w>á</w>
-  <w><i>H-moll</i></w>
+  <w><hi>H-moll</hi></w>
   <w>messu</w>
   <w>Bachs</w>
   <w>í</w>
@@ -142,8 +154,8 @@
   <w>21. mars 1985</w>
   <c>.</c>
 </s><s n="6">
-  <w><i>H-moll</i></w>
-  <w><i>messan</i></w>
+  <w><hi>H-moll</hi></w>
+  <w><hi>messan</hi></w>
   <w>er</w>
   <w>talin</w>
   <w>eitt</w>
@@ -191,8 +203,8 @@
   <w>hélt</w>
   <w>kórinn</w>
   <w>með</w>
-  <w><i>H-moll</i></w>
-  <w><i>messuna</i></w>
+  <w><hi>H-moll</hi></w>
+  <w><hi>messuna</hi></w>
   <w>í</w>
   <w>söngför</w>
   <w>til</w>
@@ -336,8 +348,8 @@
   <w>uppfærsla</w>
   <w>Pólýfónkórsins</w>
   <w>á</w>
-  <w><i>H-moll</i></w>
-  <w><i>messunni</i></w>
+  <w><hi>H-moll</hi></w>
+  <w><hi>messunni</hi></w>
   <c>,</c>
   <w>þær</w>
   <w>fyrri</w>
@@ -349,7 +361,7 @@
 </s><s n="18">
   <revision id="8">
     <original><w>Pólýfónkórinn</w><w>og</w><w>Sinfóníuhljómsveit</w><w>Íslands</w><c>–</c><w>Messa</w><w>í</w><w>H-moll</w><c>,</c><w>tónleikar</w><w>1985</w></original>
-    <corrected><w><i>Pólýfónkórinn</i></w><w><i>og</i></w><w><i>Sinfóníuhljómsveit</i></w><w><i>Íslands</i></w><w><i>–</i></w><w><i>Messa</i></w><w><i>í</i></w><w><i>H-moll</i></w><c>,</c><w><i>tónleikar</i></w><w><i>1985</i></w></corrected>
+    <corrected><w><hi>Pólýfónkórinn</hi></w><w><hi>og</hi></w><w><hi>Sinfóníuhljómsveit</hi></w><w><hi>Íslands</hi></w><w><hi>–</hi></w><w><hi>Messa</hi></w><w><hi>í</hi></w><w><hi>H-moll</hi></w><c>,</c><w><hi>tónleikar</hi></w><w><hi>1985</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

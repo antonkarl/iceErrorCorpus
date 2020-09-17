@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_400-t18.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Ruth</w>
@@ -139,7 +151,7 @@
   <w>hún</w>
   <w>prófessor</w>
   <revision id="1">
-    <original><w><i>emerita</i></w></original>
+    <original><w><hi>emerita</hi></w></original>
     <corrected><w>emerita</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -184,7 +196,7 @@
   <w>samtakanna</w>
   <revision id="2">
     <original><w>Association</w><w>for</w><w>Symbolic</w><w>Logic</w></original>
-    <corrected><w><i>Association</i></w><w><i>for</i></w><w><i>Symbolic</i></w><w><i>Logic</i></w></corrected>
+    <corrected><w><hi>Association</hi></w><w><hi>for</hi></w><w><hi>Symbolic</hi></w><w><hi>Logic</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>

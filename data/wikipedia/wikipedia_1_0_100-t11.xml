@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_100-t11.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Alexander</w>
@@ -95,7 +107,7 @@
   <w>skáldsöguna</w>
   <revision id="4">
     <original><w>Kvenspæjarastofa</w><w>No.</w><w>1</w></original>
-    <corrected><w><i>Kvenspæjarastofa</i></w><w><i>No</i></w><c>.</c><w><i>1</i></w></corrected>
+    <corrected><w><hi>Kvenspæjarastofa</hi></w><w><hi>No</hi></w><c>.</c><w><hi>1</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="4-1" eid="0" />
       </errors>
@@ -103,7 +115,7 @@
   <c>(</c>
   <revision id="5">
     <original><w>The</w><w>No.</w><w>1</w><w>Ladies'</w><w>Detective</w><w>Agency</w></original>
-    <corrected><w>e.</w><w><i>The</i></w><w><i>No.</i></w><w><i></i></w><w><i>1</i></w><w><i>Ladies'</i></w><w><i>Detective</i></w><w><i>Agency</i></w></corrected>
+    <corrected><w>e.</w><w><hi>The</hi></w><w><hi>No.</hi></w><w><hi></hi></w><w><hi>1</hi></w><w><hi>Ladies'</hi></w><w><hi>Detective</hi></w><w><hi>Agency</hi></w></corrected>
       <errors>
         <error xtype="missing-word" idx="5-1" eid="0" />
         <error xtype="nonit4it" idx="5-2" eid="0" />

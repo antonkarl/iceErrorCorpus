@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_2-t12.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Óðinn</w>
   <c>(</c>
   <w>norræna</w>
   <c>:</c>
-  <w><i>Óðinn</i></w>
+  <w><hi>Óðinn</hi></w>
   <c>)</c>
   <w>er</w>
   <w>æðstur</w>
@@ -658,7 +670,7 @@
   <w>kveðið</w>
   <c>)</c>
   <revision id="18">
-    <original><w><i>aftur</i></w><w><i>af</i></w><w><i>Óðni</i></w></original>
+    <original><w><hi>aftur</hi></w><w><hi>af</hi></w><w><hi>Óðni</hi></w></original>
     <corrected><c>„</c><w>aftur</w><w>af</w><w>Óðni</w><c>“</c></corrected>
       <errors>
         <error xtype="missing-quots" idx="18-1" eid="0" />

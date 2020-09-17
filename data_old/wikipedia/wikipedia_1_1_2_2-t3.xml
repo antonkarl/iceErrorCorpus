@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Kjötkveðjuhátíðin</w>
+  <w>í</w>
+  <w>Ríó</w>
+  <w>er</w>
+  <w>kjötkveðjuhátíð</w>
+  <w>sem</w>
+  <w>haldin</w>
+  <w>er</w>
+  <w>á</w>
+  <w>hverju</w>
+  <w>ári</w>
+  <w>og</w>
+  <w>dregur</w>
+  <w>að</w>
+  <w>sér</w>
+  <w>yfir</w>
+  <w>hálfa</w>
+  <w>milljón</w>
+  <w>gesti</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Hátíðin</w>
+  <w>sjálf</w>
+  <w>stendur</w>
+  <w>í</w>
+  <w>nokkra</w>
+  <w>daga</w>
+  <w>en</w>
+  <revision id="1">
+    <original><w>undirbúningu</w></original>
+    <corrected><w>undirbúningur</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="1-1" eid="0" />
+        <error xtype="nonword" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <revision id="2">
+    <original><w>langan</w></original>
+    <corrected><w>lengri</w></corrected>
+      <errors>
+        <error xtype="adjective-inflection" eid="0" />
+      </errors>
+  </revision>
+  <w>tíma</w>
+  <w>í</w>
+  <w>sambaskólum</w>
+  <w>sem</w>
+  <w>keppa</w>
+  <revision id="3">
+    <original><w>um</w><w>besta</w></original>
+    <corrected><w>á</w><w>hátíðinni</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Hátíðin</w>
+  <w>er</w>
+  <revision id="4">
+    <original><w>runnið</w></original>
+    <corrected><w>runnin</w></corrected>
+      <errors>
+        <error xtype="agreement-pred" eid="0" />
+      </errors>
+  </revision>
+  <w>upp</w>
+  <w>úr</w>
+  <w>kaþólskum</w>
+  <w>hefðum</w>
+  <c>,</c>
+  <w>kjötbindindi</w>
+  <w>sem</w>
+  <w>hófst</w>
+  <w>á</w>
+  <w>öskudegi</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Þegar</w>
+  <w>Brasilía</w>
+  <w>var</w>
+  <w>portúgölsk</w>
+  <w>nýlenda</w>
+  <w>tíðkuðust</w>
+  <w>götukarnival</w>
+  <w>þar</w>
+  <w>sem</w>
+  <w>svörtum</w>
+  <w>pipar</w>
+  <c>,</c>
+  <w>eggjum</w>
+  <c>,</c>
+  <w>kolum</w>
+  <c>,</c>
+  <w>vatni</w>
+  <w>og</w>
+  <w>fleiru</w>
+  <revision id="5">
+    <original></original>
+    <corrected><w>var</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>hent</w>
+  <w>í</w>
+  <w>fólk</w>
+  <w>en</w>
+  <w>það</w>
+  <w>karnival</w>
+  <w>varð</w>
+  <w>með</w>
+  <w>tímanum</w>
+  <w>fágaðra</w>
+  <w>og</w>
+  <w>um</w>
+  <w>miðja</w>
+  <w>19.</w>
+  <w>öld</w>
+  <w>var</w>
+  <w>fólk</w>
+  <w>farið</w>
+  <w>að</w>
+  <w>henda</w>
+  <w>ilmvatnskúlum</w>
+  <c>,</c>
+  <w>sítrónuilmpokum</w>
+  <w>og</w>
+  <w>brauði</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Undir</w>
+  <w>lok</w>
+  <w>20.</w>
+  <w>aldar</w>
+  <revision id="6">
+    <original><w>eru</w></original>
+    <corrected><w>voru</w></corrected>
+      <errors>
+        <error xtype="pres4past" eid="0" />
+      </errors>
+  </revision>
+  <w>grímur</w>
+  <w>og</w>
+  <w>grímuböll</w>
+  <w>tekin</w>
+  <w>upp</w>
+  <revision id="7">
+    <original><w>og</w></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="conjunction4comma" eid="0" />
+      </errors>
+  </revision>
+  <w>skrautvagnar</w>
+  <revision id="8">
+    <original><w>keyra</w></original>
+    <corrected><w>keyrðu</w></corrected>
+      <errors>
+        <error xtype="pres4past" eid="0" />
+      </errors>
+  </revision>
+  <w>um</w>
+  <w>götur</w>
+  <w>og</w>
+  <w>á</w>
+  <w>götum</w>
+  <revision id="9">
+    <original><w>er</w></original>
+    <corrected><w>var</w></corrected>
+      <errors>
+        <error xtype="pres4past" eid="0" />
+      </errors>
+  </revision>
+  <w>dansaður</w>
+  <w>evrópski</w>
+  <w>dansinn</w>
+  <w>polki</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Í</w>
+  <w>upphafi</w>
+  <w>20.</w>
+  <w>aldar</w>
+  <w>rann</w>
+  <w>polkinn</w>
+  <w>saman</w>
+  <w>við</w>
+  <w>dans</w>
+  <w>frá</w>
+  <w>afkomendum</w>
+  <w>þræla</w>
+  <w>frá</w>
+  <w>Vestur-Afríku</w>
+  <w>og</w>
+  <w>úr</w>
+  <w>varð</w>
+  <w>samba</w>
+  <w>sem</w>
+  <w>er</w>
+  <w>danstaktur</w>
+  <w>og</w>
+  <w>eitt</w>
+  <w>aðaleinkenni</w>
+  <w>kjötkveðjuhátíðarinnar</w>
+  <w>í</w>
+  <w>Ríó</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>Árlega</w>
+  <w>voru</w>
+  <w>samdir</w>
+  <w>sambasöngvar</w>
+  <w>sem</w>
+  <revision id="10">
+    <original><w>voru</w></original>
+    <corrected><w>innihéldu</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>þjóðfélagsgagnrýni</w>
+  <w>og</w>
+  <w>sögur</w>
+  <w>um</w>
+  <w>menn</w>
+  <w>og</w>
+  <w>málefni</w>
+  <c>.</c>
+</s>
+<s n="8">
+  <w>Snemma</w>
+  <w>á</w>
+  <revision id="11">
+    <original><w>20</w></original>
+    <corrected><w>20.</w></corrected>
+      <errors>
+        <error xtype="date-period" eid="0" />
+      </errors>
+  </revision>
+  <w>öld</w>
+  <w>voru</w>
+  <w>stofnaðir</w>
+  <w>sambaskólar</w>
+  <w>sem</w>
+  <w>undirbúa</w>
+  <w>ljóðabálka</w>
+  <w>fyrir</w>
+  <w>hátíðina</w>
+  <revision id="12">
+    <original><c>,</c></original>
+    <corrected><w>sem</w></corrected>
+      <errors>
+        <error xtype="comma4conjunction" eid="0" />
+      </errors>
+  </revision>
+  <w>tengjast</w>
+  <w>einhverju</w>
+  <w>málefni</w>
+  <c>,</c>
+  <w>skapa</w>
+  <w>danshreyfingar</w>
+  <w>fyrir</w>
+  <w>dansara</w>
+  <w>og</w>
+  <w>takta</w>
+  <w>fyrir</w>
+  <w>ásláttarsveitina</w>
+  <revision id="13">
+    <original><w>og</w><w>bar</w><w>fánadrottning</w><w>og</w><w>fánadrottning</w></original>
+    <corrected><c>.</c><w>Fánadrottning</w></corrected>
+      <errors>
+        <error xtype="conjunction4period" idx="13-1" eid="0" />
+        <error xtype="extra-words" idx="13-2" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>kóngur</w>
+  <revision id="14">
+    <original></original>
+    <corrected><w>bera</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>fána</w>
+  <w>skólans</w>
+  <w>og</w>
+  <w>setja</w>
+  <w>upp</w>
+  <w>skrautvagna</w>
+  <w>sem</w>
+  <w>skreyttir</w>
+  <w>eru</w>
+  <w>miðað</w>
+  <w>við</w>
+  <w>þema</w>
+  <w>ljóðabálksins</w>
+  <c>.</c>
+</s>
+<s n="9">
+  <w>Karnivalið</w>
+  <w>í</w>
+  <w>Ríó</w>
+  <w>var</w>
+  <w>tekið</w>
+  <w>af</w>
+  <w>götunum</w>
+  <w>og</w>
+  <w>sett</w>
+  <w>á</w>
+  <w>sérstakan</w>
+  <w>sýningstað</w>
+  <c>,</c>
+  <revision id="15">
+    <original><w>Sambódrómo</w><w>höll</w></original>
+    <corrected><w>Sambódromo-höllina</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>byggð</w>
+  <w>var</w>
+  <w>árið 1984</w>
+  <revision id="16">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>eru</w>
+  <w>þar</w>
+  <w>stórir</w>
+  <w>áhorfendapallar</w>
+  <w>sitt</w>
+  <w>hvoru</w>
+  <w>megin</w>
+  <w>við</w>
+  <w>stóra</w>
+  <w>breiðgötu</w>
+  <revision id="17">
+    <original><w>og</w><w>eftir</w><w>þessari</w><w>götu</w><w>fara</w></original>
+    <corrected><w>sem</w></corrected>
+      <errors>
+        <error xtype="conjunction" idx="17-1" eid="0" />
+        <error xtype="wording" idx="17-2" eid="0" />
+      </errors>
+  </revision>
+  <w>sýningarlið</w>
+  <w>sambaskólanna</w>
+  <revision id="18">
+    <original></original>
+    <corrected><w>ganga</w><w>svo</w><w>eftir</w></corrected>
+      <errors>
+        <error xtype="dep" depId="17-2" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="10">
+  <w>Í</w>
+  <w>hverjum</w>
+  <w>sambaskóla</w>
+  <w>er</w>
+  <w>mörg</w>
+  <w>þúsund</w>
+  <w>manna</w>
+  <w>sýningarlið</w>
+  <w>og</w>
+  <w>hefur</w>
+  <w>hver</w>
+  <w>skóli</w>
+  <w>90</w>
+  <w>mínútur</w>
+  <c>.</c>
+</s>
+<s n="11">
+  <w>Skólinn</w>
+  <w>fær</w>
+  <w>stig</w>
+  <w>fyrir</w>
+  <w>frammistöðu</w>
+  <w>sína</w>
+  <c>.</c>
+</s>
+<s n="12">
+  <w>Sýningin</w>
+  <w>stendur</w>
+  <w>alla</w>
+  <w>nóttina</w>
+  <w>og</w>
+  <w>sjónvarpið</w>
+  <w>er</w>
+  <w>með</w>
+  <w>beina</w>
+  <w>útsendingu</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

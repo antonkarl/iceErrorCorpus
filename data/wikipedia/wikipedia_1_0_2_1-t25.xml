@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_1-t25.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Óskar</w>
@@ -9,7 +21,7 @@
 </s>
 <s n="2">
   <revision id="1">
-    <original><c>(</c><c>"</c><w><i>Joseph</i></w><w><i>François</i></w><w><i>Oscar</i></w><w><i>Bernadotte</i></w><c>"</c></original>
+    <original><c>(</c><c>"</c><w><hi>Joseph</hi></w><w><hi>François</hi></w><w><hi>Oscar</hi></w><w><hi>Bernadotte</hi></w><c>"</c></original>
     <corrected><w>Joseph</w><w>François</w><w>Oscar</w><w>Bernadotte</w></corrected>
       <errors>
         <error xtype="extra-bracket" idx="1-1" eid="0" />
@@ -22,7 +34,7 @@
   <w>á</w>
   <w>sænsku</w>
   <revision id="2">
-    <original><c>"</c><w><i>Josef</i></w><w><i>Frans</i></w><w><i>Oskar</i></w><c>"</c></original>
+    <original><c>"</c><w><hi>Josef</hi></w><w><hi>Frans</hi></w><w><hi>Oskar</hi></w><c>"</c></original>
     <corrected><w>Josef</w><w>Frans</w><w>Oskar</w></corrected>
       <errors>
         <error xtype="extra-quots" idx="2-1" eid="0" />

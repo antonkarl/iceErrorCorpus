@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_4-t9.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Bassinn</w>
@@ -1537,10 +1549,10 @@
       </errors>
   </revision>
   <w>hans</w>
-  <w><i>Brazil's</i></w>
-  <w><i>Brilliant</i></w>
-  <w><i>Joao</i></w>
-  <w><i>Gilberto</i></w>
+  <w><hi>Brazil's</hi></w>
+  <w><hi>Brilliant</hi></w>
+  <w><hi>Joao</hi></w>
+  <w><hi>Gilberto</hi></w>
   <revision id="71">
     <original/>
     <corrected><w>gefin</w><w>út</w></corrected>

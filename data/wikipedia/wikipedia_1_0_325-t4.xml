@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_325-t4.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Það</w>
@@ -11,16 +23,16 @@
   <c>(</c>
   <revision id="1">
     <original><w>enska</w><c>:</c><w>There's</w></original>
-    <corrected><w>e.</w><w><i>There's</i></w></corrected>
+    <corrected><w>e.</w><w><hi>There's</hi></w></corrected>
       <errors>
         <error xtype="wording" idx="1-1" eid="0" />
         <error xtype="extra-colon" idx="1-2" eid="0" />
         <error xtype="nonit4it" idx="1-3" eid="0" />
       </errors>
   </revision>
-  <w><i>Something</i></w>
-  <w><i>About</i></w>
-  <w><i>Mary</i></w>
+  <w><hi>Something</hi></w>
+  <w><hi>About</hi></w>
+  <w><hi>Mary</hi></w>
   <c>)</c>
   <w>er</w>
   <w>bandarísk</w>

@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>visir-2014_10_400-t1.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="0">
   <revision id="1">
-    <original><w>Forsætisráðherrann</w><w><i>Sigmundur</i></w><w><i>Davíð</i></w><w><i>Gunnlaugsson</i></w></original>
+    <original><w>Forsætisráðherrann</w><w><hi>Sigmundur</hi></w><w><hi>Davíð</hi></w><w><hi>Gunnlaugsson</hi></w></original>
     <corrected><w>Forsætisráðherra</w><c>,</c><w>Sigmundur</w><w>Davíð</w><w>Gunnlaugsson</w><c>,</c></corrected>
       <errors>
         <error xtype="def4ind" idx="1-1" eid="0" />
@@ -61,7 +73,7 @@
   <w>pílum</w>
   <w>í</w>
   <revision id="3">
-    <original><w><i>Jóhönnu</i></w><w><i>Sigurðardóttur</i></w></original>
+    <original><w><hi>Jóhönnu</hi></w><w><hi>Sigurðardóttur</hi></w></original>
     <corrected><w>Jóhönnu</w><w>Sigurðardóttur</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -76,7 +88,7 @@
   <w>til</w>
   <w>sín</w>
   <revision id="4">
-    <original><w><i>Sölku</i></w><w><i>Sól</i></w><w>í</w></original>
+    <original><w><hi>Sölku</hi></w><w><hi>Sól</hi></w><w>í</w></original>
     <corrected><w>Sölku</w><w>Sól</w><w>úr</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />

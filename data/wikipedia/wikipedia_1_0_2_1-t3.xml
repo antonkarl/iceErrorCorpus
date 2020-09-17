@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_1-t3.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Diego</w>
@@ -391,7 +403,7 @@
   <w>vopnasmiður</w>
   <w>Frakklandskonungs</w>
   <revision id="4">
-    <original><c>"</c><c>(</c><w><i>Armorer</i></w><w><i>to</i></w><w><i>the</i></w><w><i>King</i></w><c>)</c><c>"</c></original>
+    <original><c>"</c><c>(</c><w><hi>Armorer</hi></w><w><hi>to</hi></w><w><hi>the</hi></w><w><hi>King</hi></w><c>)</c><c>"</c></original>
     <corrected><c>(</c><w>e.</w><w>armorer</w><w>to</w><w>the</w><w>King</w><c>)</c><c>.</c></corrected>
       <errors>
         <error xtype="extra-quots" idx="4-1" eid="0" />

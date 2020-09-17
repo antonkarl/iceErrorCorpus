@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_1-t17.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Drenthe</w>
@@ -275,10 +287,10 @@
   <c>,</c>
   <w>sem</w>
   <w>merkir</w>
-  <w><i>land</i></w>
-  <w><i>hinna</i></w>
-  <w><i>þriggja</i></w>
-  <w><i>svæða</i></w>
+  <w><hi>land</hi></w>
+  <w><hi>hinna</hi></w>
+  <w><hi>þriggja</hi></w>
+  <w><hi>svæða</hi></w>
   <c>.</c>
 </s>
 <s n="18">

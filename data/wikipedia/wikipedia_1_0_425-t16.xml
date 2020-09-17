@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_425-t16.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Handknattleiksárið</w>
@@ -227,7 +239,7 @@
   </revision>
   <w>1.</w>
   <revision id="6">
-    <original><w><i>umferð</i></w><w>Valsarar</w></original>
+    <original><w><hi>umferð</hi></w><w>Valsarar</w></original>
     <corrected><w>umferð</w></corrected>
       <errors>
         <error xtype="it4nonit" idx="6-1" eid="0" />
@@ -287,7 +299,7 @@
 </s>
 <s n="19">
   <revision id="8">
-    <original><w><i>Úrslitaleikur</i></w></original>
+    <original><w><hi>Úrslitaleikur</hi></w></original>
     <corrected><w>Í</w><w>úrslitaleiknum</w><w>sigraði</w></corrected>
       <errors>
         <error xtype="missing-word" idx="8-1" eid="0" />

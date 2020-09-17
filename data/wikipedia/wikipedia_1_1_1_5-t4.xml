@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_5-t4.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Nafnið</w>
@@ -9,7 +21,7 @@
   <w>því</w>
   <revision id="1">
     <original><c>„</c><w>land</w><w>Afgana</w></original>
-    <corrected><w><i>land</i></w><w><i>Afgana</i></w></corrected>
+    <corrected><w><hi>land</hi></w><w><hi>Afgana</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="20-1" eid="0"/>
         <error xtype="nonit4it" idx="20-1" eid="0"/>
@@ -123,7 +135,7 @@
   <w>34</w>
   <w>héruð</w>
   <c>(</c>
-  <w><i>wilayah</i></w>
+  <w><hi>wilayah</hi></w>
   <c>)</c>
   <w>sem</w>
   <w>hvert</w>
@@ -289,7 +301,7 @@
   </revision>
   <w>افغانستان</w>
   <c>,</c>
-  <w><i>Afġānistān</i></w>
+  <w><hi>Afġānistān</hi></w>
   <c>)</c>
   <w>er</w>
   <w>landlukt</w>
@@ -353,7 +365,7 @@
   <w>orðið</w>
   <revision id="12">
     <original><c>„</c><w>Afganar</w><c>“</c></original>
-    <corrected><w><i>Afganar</i></w></corrected>
+    <corrected><w><hi>Afganar</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="22-1" eid="0"/>
         <error xtype="nonit4it" idx="22-1" eid="0"/>
@@ -433,7 +445,7 @@
   <w>og</w>
   <revision id="15">
     <original><c>„</c><c>-</c><w>stan</w><c>“</c></original>
-    <corrected><w><i>-stan</i></w></corrected>
+    <corrected><w><hi>-stan</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="18-1" eid="0"/>
         <error xtype="nonit4it" idx="18-1" eid="0"/>
@@ -447,7 +459,7 @@
   <w>merkir</w>
   <revision id="16">
     <original><c>„</c><w>staður</w><c>“</c></original>
-    <corrected><w><i>staður</i></w></corrected>
+    <corrected><w><hi>staður</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="19-1" eid="0"/>
         <error xtype="nonit4it" idx="19-1" eid="0"/>

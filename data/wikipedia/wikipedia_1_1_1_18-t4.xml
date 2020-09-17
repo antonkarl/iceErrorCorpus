@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_18-t4.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Ef</w>
@@ -147,8 +159,8 @@
   <w>Pareto-framför</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>Pareto</i></w>
-  <w><i>improvement</i></w>
+  <w><hi>Pareto</hi></w>
+  <w><hi>improvement</hi></w>
   <c>)</c>
   <w>verður</w>
   <w>þegar</w>
@@ -339,15 +351,15 @@
   <w>hagkvæmni</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>economic</i></w>
-  <w><i>efficiency</i></w>
+  <w><hi>economic</hi></w>
+  <w><hi>efficiency</hi></w>
   <c>)</c>
   <w>og</w>
   <w>tekjudreifingu</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>income</i></w>
-  <w><i>distribution</i></w>
+  <w><hi>income</hi></w>
+  <w><hi>distribution</hi></w>
   <c>)</c>
   <c>.</c>
 </s><s n="12">

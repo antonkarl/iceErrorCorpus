@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_18-t9.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Þriðji</w>
@@ -37,7 +49,7 @@
   <c>:</c>
   <revision id="1">
     <original><c>"</c><w>West-Vlaanderen</w><c>"</c></original>
-    <corrected><w><i>West-Vlaanderen</i></w></corrected>
+    <corrected><w><hi>West-Vlaanderen</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="1-1" eid="0"/>
         <error xtype="it4nonit" idx="1-1" eid="0"/>

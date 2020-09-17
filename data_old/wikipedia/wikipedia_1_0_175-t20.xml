@@ -1,0 +1,930 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Namibía</w>
+  <w>er</w>
+  <w>land</w>
+  <w>í</w>
+  <w>sunnanverðri</w>
+  <w>Afríku</w>
+  <c>,</c>
+  <w>með</w>
+  <w>strandlengju</w>
+  <w>að</w>
+  <w>Atlantshafinu</w>
+  <w>í</w>
+  <w>vestri</w>
+  <w>og</w>
+  <w>landamæri</w>
+  <w>að</w>
+  <w>Angóla</w>
+  <w>og</w>
+  <w>Sambíu</w>
+  <w>í</w>
+  <w>norðri</w>
+  <c>,</c>
+  <w>Botsvana</w>
+  <w>í</w>
+  <w>austri</w>
+  <w>og</w>
+  <w>Suður-Afríku</w>
+  <w>í</w>
+  <w>austri</w>
+  <w>og</w>
+  <w>suðri</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Namibía</w>
+  <w>var</w>
+  <w>þýsk</w>
+  <w>nýlenda</w>
+  <w>sem</w>
+  <w>hét</w>
+  <w>Þýska</w>
+  <w>Suðvestur-Afríka</w>
+  <w>fram</w>
+  <w>að</w>
+  <revision id="1">
+    <original><w>Fyrri</w></original>
+    <corrected><w>fyrri</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
+  <w>heimsstyrjöldinni</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Eftir</w>
+  <w>hana</w>
+  <w>var</w>
+  <revision id="2">
+    <original><w>henni</w></original>
+    <corrected><w>landinu</w></corrected>
+      <errors>
+        <error xtype="pro4noun" eid="0" />
+      </errors>
+  </revision>
+  <w>stjórnað</w>
+  <c>,</c>
+  <w>fyrst</w>
+  <w>af</w>
+  <w>Bretum</w>
+  <w>og</w>
+  <w>síðan</w>
+  <w>Suður-Afríku</w>
+  <c>,</c>
+  <w>til</w>
+  <w>1990</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Höfuðborgin</w>
+  <w>heitir</w>
+  <w>Windhoek</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <revision id="3">
+    <original><w>Elstu</w></original>
+    <corrected><w>Fjöldi</w><w>hellamálverka</w><w>eru</w><w>elstu</w></corrected>
+      <errors>
+        <error xtype="wording" idx="3-1" eid="0" />
+      </errors>
+  </revision>
+  <w>merki</w>
+  <w>um</w>
+  <w>menn</w>
+  <w>í</w>
+  <w>Namibíu</w>
+  <revision id="4">
+    <original><w>er</w><w>mikið</w><w>magn</w><w>af</w><w>hellamálverkum</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="3-1" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>þau</w>
+  <w>elstu</w>
+  <w>frá</w>
+  <w>því</w>
+  <w>fyrir</w>
+  <w>um</w>
+  <w>25.000</w>
+  <w>árum</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Búskmenn</w>
+  <w>eru</w>
+  <w>taldir</w>
+  <w>vera</w>
+  <w>fyrstu</w>
+  <w>íbúar</w>
+  <w>landsins</w>
+  <w>líkt</w>
+  <w>og</w>
+  <w>í</w>
+  <w>Botsvana</w>
+  <w>og</w>
+  <w>Suður-Afríku</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>Þeir</w>
+  <w>lifðu</w>
+  <w>flökkulífi</w>
+  <w>sem</w>
+  <w>veiðimenn</w>
+  <w>og</w>
+  <w>safnarar</w>
+  <c>.</c>
+</s>
+<s n="8">
+  <w>Fyrir</w>
+  <w>um</w>
+  <w>2.000</w>
+  <w>árum</w>
+  <w>fluttust</w>
+  <w>Namar</w>
+  <w>til</w>
+  <w>landsins</w>
+  <c>,</c>
+  <w>en</w>
+  <w>þeir</w>
+  <w>tala</w>
+  <revision id="5">
+    <original><w>Koisanmál</w></original>
+    <corrected><w>Koisan-mál</w></corrected>
+      <errors>
+        <error xtype="merged-words" idx="5-1" eid="0" />
+        <error xtype="missing-dash" idx="5-1" eid="0" />
+      </errors>
+  </revision>
+  <w>líkt</w>
+  <w>og</w>
+  <w>Búskmenn</w>
+  <w>og</w>
+  <w>á</w>
+  <w>9.</w>
+  <w>öld</w>
+  <w>fluttu</w>
+  <w>Damarar</w>
+  <c>(</c>
+  <revision id="6">
+    <original><w>sem</w><w>líka</w><w>tala</w><w>Koisanmál</w></original>
+    <corrected><w>einnig</w><w>Koisan-mælandi</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <c>)</c>
+  <w>til</w>
+  <w>landsins</w>
+  <c>.</c>
+</s>
+<s n="9">
+  <w>Fyrstu</w>
+  <w>evrópsku</w>
+  <w>landkönnuðirnir</w>
+  <w>sem</w>
+  <w>komu</w>
+  <w>til</w>
+  <w>Namibíu</w>
+  <w>voru</w>
+  <revision id="7">
+    <original><w>Portúgalirnir</w></original>
+    <corrected><w>Portúgalarnir</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
+  <w>Diogo</w>
+  <w>Cão</w>
+  <c>(</c>
+  <w>1485</w>
+  <c>)</c>
+  <w>og</w>
+  <w>Bartholomeu</w>
+  <w>Diaz</w>
+  <c>(</c>
+  <w>1488</w>
+  <c>)</c>
+  <w>en</w>
+  <w>þeir</w>
+  <w>hættu</w>
+  <w>sér</w>
+  <w>ekki</w>
+  <w>langt</w>
+  <w>inn</w>
+  <w>í</w>
+  <w>landið</w>
+  <revision id="8">
+    <original><w>út</w><w>af</w><w>Namíbeyðimörkinni</w></original>
+    <corrected><w>vegna</w><w>Namíbeyðimerkurinnar</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="10">
+  <w>Aðflutningur</w>
+  <w>Bantúmanna</w>
+  <w>hófst</w>
+  <w>á</w>
+  <w>17.</w>
+  <w>öld</w>
+  <w>eða</w>
+  <w>þar</w>
+  <w>um</w>
+  <w>bil</w>
+  <revision id="9">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>þegar</w>
+  <w>Hereromenn</w>
+  <w>fluttust</w>
+  <w>til</w>
+  <w>Namibíu</w>
+  <w>með</w>
+  <w>nautgripahjarðir</w>
+  <w>sínar</w>
+  <c>.</c>
+</s>
+<s n="11">
+  <w>Á</w>
+  <w>fyrri</w>
+  <w>hluta</w>
+  <w>19.</w>
+  <w>aldar</w>
+  <w>komu</w>
+  <w>svo</w>
+  <w>Búar</w>
+  <w>til</w>
+  <w>Namibíu</w>
+  <c>.</c>
+</s>
+<s n="12">
+  <w>Þeir</w>
+  <w>gerðu</w>
+  <w>samkomulag</w>
+  <w>við</w>
+  <w>Nama</w>
+  <w>um</w>
+  <w>að</w>
+  <w>hrekja</w>
+  <w>Hereromenn</w>
+  <revision id="10">
+    <original><c>,</c><w>sem</w><w>þá</w><w>voru</w><w>að</w><w>sækja</w><w>suður</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wording" idx="10-1" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <revision id="11">
+    <original><w>bóginn</w></original>
+    <corrected><w>suðurleið</w></corrected>
+      <errors>
+        <error xtype="dep" depId="10-1" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>norður</w>
+  <c>.</c>
+</s>
+<s n="13">
+  <revision id="12">
+    <original><w>Þeir</w></original>
+    <corrected><w>Búar</w></corrected>
+      <errors>
+        <error xtype="pro4noun" eid="0" />
+      </errors>
+  </revision>
+  <w>settust</w>
+  <w>að</w>
+  <w>þar</w>
+  <w>sem</w>
+  <w>Windhoek</w>
+  <w>stendur</w>
+  <w>nú</w>
+  <c>,</c>
+  <w>á</w>
+  <w>jaðri</w>
+  <w>lands</w>
+  <w>Hereromanna</w>
+  <c>.</c>
+</s>
+<s n="14">
+  <w>Blandaðir</w>
+  <w>afkomendur</w>
+  <w>þeirra</w>
+  <w>og</w>
+  <w>innfæddra</w>
+  <w>Nama</w>
+  <w>voru</w>
+  <w>kallaðir</w>
+  <w>Bastar</w>
+  <c>.</c>
+</s>
+<s n="15">
+  <w>Þeir</w>
+  <w>stofnuðu</w>
+  <w>borgina</w>
+  <w>og</w>
+  <w>fríríkið</w>
+  <w>Rehoboth</w>
+  <w>á</w>
+  <w>síðari</w>
+  <w>hluta</w>
+  <w>aldarinnar</w>
+  <c>.</c>
+</s>
+<s n="16">
+  <w>1793</w>
+  <w>ákváðu</w>
+  <w>hollensk</w>
+  <w>stjórnvöld</w>
+  <w>í</w>
+  <w>Höfðanýlendu</w>
+  <w>að</w>
+  <w>taka</w>
+  <w>yfir</w>
+  <w>stjórn</w>
+  <w>Walvis</w>
+  <w>Bay</w>
+  <revision id="13">
+    <original><w>þar</w><w>sem</w></original>
+    <corrected><w>því</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>þar</w>
+  <w>var</w>
+  <w>eina</w>
+  <w>hafnarstæðið</w>
+  <w>á</w>
+  <w>Beinaströndinni</w>
+  <w>við</w>
+  <w>Namíbeyðimörkina</w>
+  <c>.</c>
+</s>
+<s n="17">
+  <w>Þegar</w>
+  <w>Bretar</w>
+  <w>hertóku</w>
+  <w>nýlenduna</w>
+  <w>1797</w>
+  <w>tóku</w>
+  <w>þeir</w>
+  <w>líka</w>
+  <w>við</w>
+  <w>stjórn</w>
+  <w>Walvis</w>
+  <w>Bay</w>
+  <c>,</c>
+  <w>en</w>
+  <w>landnám</w>
+  <w>Evrópumanna</w>
+  <w>var</w>
+  <w>bundið</w>
+  <w>við</w>
+  <w>þetta</w>
+  <w>litla</w>
+  <w>svæði</w>
+  <w>á</w>
+  <w>ströndinni</w>
+  <c>.</c>
+</s>
+<s n="18">
+  <w>Þegar</w>
+  <w>kapphlaupið</w>
+  <w>um</w>
+  <w>Afríku</w>
+  <w>hófst</w>
+  <w>á</w>
+  <w>síðari</w>
+  <w>hluta</w>
+  <w>19.</w>
+  <w>aldar</w>
+  <w>varð</w>
+  <w>Namibía</w>
+  <w>þýsk</w>
+  <w>nýlenda</w>
+  <w>sem</w>
+  <w>nefndist</w>
+  <w>Þýska</w>
+  <w>Suðvestur-Afríka</w>
+  <revision id="14">
+    <original><w>fyrir</w><w>utan</w></original>
+    <corrected><c>,</c><w>að</w><w>frátöldum</w></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>Walvis</w>
+  <w>Bay</w>
+  <w>sem</w>
+  <w>var</w>
+  <w>áfram</w>
+  <w>undir</w>
+  <w>yfirráðum</w>
+  <w>Breta</w>
+  <c>.</c>
+</s>
+<s n="19">
+  <w>Andspyrna</w>
+  <w>Nama</w>
+  <w>undir</w>
+  <w>stjórn</w>
+  <w>Hendrik</w>
+  <w>Witbooi</w>
+  <revision id="15">
+    <original><w>og</w></original>
+    <corrected><c>,</c><w>oft</w></corrected>
+      <errors>
+        <error xtype="conjunction4comma" eid="0" />
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>nefnd</w>
+  <w>Hottentottauppreisnin</w>
+  <w>í</w>
+  <w>fjölmiðlum</w>
+  <w>þess</w>
+  <w>tíma</w>
+  <revision id="16">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>var</w>
+  <w>brotin</w>
+  <w>á</w>
+  <w>bak</w>
+  <w>aftur</w>
+  <w>1894</w>
+  <c>.</c>
+</s>
+<s n="20">
+  <w>Árið 1908</w>
+  <w>uppgötvuðust</w>
+  <w>demantanámur</w>
+  <w>í</w>
+  <w>Namibíu</w>
+  <w>og</w>
+  <w>fjöldi</w>
+  <w>evrópskra</w>
+  <w>innflytjenda</w>
+  <w>margfaldaðist</w>
+  <c>.</c>
+</s>
+<s n="21">
+  <w>Nýir</w>
+  <w>landnemar</w>
+  <w>voru</w>
+  <w>hvattir</w>
+  <w>til</w>
+  <w>þess</w>
+  <w>að</w>
+  <w>ræna</w>
+  <w>landi</w>
+  <w>frá</w>
+  <w>innfæddum</w>
+  <w>og</w>
+  <revision id="17">
+    <original><w>þröngva</w><w>þeim</w><w>til</w></original>
+    <corrected><w>þvinga</w><w>þá</w><w>í</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>nauðungarvinnu</w>
+  <c>.</c>
+</s>
+<s n="22">
+  <w>Samskiptum</w>
+  <w>landnema</w>
+  <w>og</w>
+  <w>innfæddra</w>
+  <w>hrakaði</w>
+  <w>því</w>
+  <w>mikið</w>
+  <revision id="18">
+    <original><w>sem</w></original>
+    <corrected><w>og</w></corrected>
+      <errors>
+        <error xtype="conjunction" eid="0" />
+      </errors>
+  </revision>
+  <w>náði</w>
+  <w>hápunkti</w>
+  <w>þegar</w>
+  <w>Herero</w>
+  <w>og</w>
+  <w>Namaqua-þjóðarmorðið</w>
+  <w>átti</w>
+  <w>sér</w>
+  <w>stað</w>
+  <w>1904</w>
+  <c>-</c>
+  <w>1908</w>
+  <c>.</c>
+</s>
+<s n="23">
+  <w>Í</w>
+  <revision id="19">
+    <original><w>Fyrri</w></original>
+    <corrected><w>fyrri</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
+  <w>heimsstyrjöldinni</w>
+  <w>hertók</w>
+  <w>Suður-Afríka</w>
+  <w>Þýsku</w>
+  <w>Suðvestur-Afríku</w>
+  <w>og</w>
+  <w>17. desember 1920</w>
+  <w>var</w>
+  <w>landið</w>
+  <w>lýst</w>
+  <w>breskt</w>
+  <w>umdæmi</w>
+  <w>af</w>
+  <w>Þjóðabandalaginu</w>
+  <c>.</c>
+</s>
+<s n="24">
+  <w>Eftir</w>
+  <revision id="20">
+    <original><w>Síðari</w></original>
+    <corrected><w>síðari</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
+  <w>heimsstyrjöldina</w>
+  <w>ætluðust</w>
+  <w>Sameinuðu</w>
+  <w>þjóðirnar</w>
+  <w>til</w>
+  <w>þess</w>
+  <w>að</w>
+  <w>svæðið</w>
+  <w>félli</w>
+  <w>undir</w>
+  <w>alþjóðlega</w>
+  <w>nefnd</w>
+  <c>,</c>
+  <w>en</w>
+  <w>Suður-Afríka</w>
+  <w>neitaði</w>
+  <c>.</c>
+</s>
+<s n="25">
+  <w>Landið</w>
+  <w>var</w>
+  <revision id="21">
+    <original><w>samt</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
+  <w>aldrei</w>
+  <w>formlega</w>
+  <w>innlimað</w>
+  <w>í</w>
+  <w>Suður-Afríku</w>
+  <w>en</w>
+  <revision id="22">
+    <original></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="missing-quot" eid="0" />
+      </errors>
+  </revision>
+  <w>hvíti</w>
+  <w>minnihlutinn</w>
+  <revision id="23">
+    <original></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="missing-quot" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>Suðvestur-Afríku</w>
+  <c>,</c>
+  <w>eins</w>
+  <w>og</w>
+  <w>landið</w>
+  <w>hét</w>
+  <c>,</c>
+  <w>átti</w>
+  <w>fulltrúa</w>
+  <w>á</w>
+  <w>þingi</w>
+  <w>Suður-Afríku</w>
+  <c>.</c>
+</s>
+<s n="26">
+  <w>Þegar</w>
+  <w>nýlenduveldin</w>
+  <w>hófu</w>
+  <w>að</w>
+  <w>veita</w>
+  <w>afrísku</w>
+  <w>nýlendunum</w>
+  <w>sjálfstæði</w>
+  <w>á</w>
+  <w>7.</w>
+  <w>áratugnum</w>
+  <w>jókst</w>
+  <w>þrýstingur</w>
+  <w>á</w>
+  <w>Suður-Afríku</w>
+  <w>að</w>
+  <w>gefa</w>
+  <w>Suðvestur-Afríku</w>
+  <w>eftir</w>
+  <c>.</c>
+</s>
+<s n="27">
+  <w>Eftir</w>
+  <w>kvartanir</w>
+  <w>annarra</w>
+  <w>ríkja</w>
+  <w>ákváðu</w>
+  <w>Sameinuðu</w>
+  <w>þjóðirnar</w>
+  <w>að</w>
+  <w>afturkalla</w>
+  <w>umdæmi</w>
+  <w>Suður-Afríku</w>
+  <w>frá</w>
+  <w>tímum</w>
+  <w>Þjóðabandalagsins</w>
+  <c>.</c>
+</s>
+<s n="28">
+  <w>Í</w>
+  <w>kjölfarið</w>
+  <w>hófst</w>
+  <w>andspyrna</w>
+  <w>gegn</w>
+  <w>yfirráðum</w>
+  <w>Suður-Afríku</w>
+  <w>á</w>
+  <w>vegum</w>
+  <revision id="24">
+    <original><w>South</w><w>West</w><w>Africa</w><w>People's</w><w>Organization</w></original>
+    <corrected><w><i>South</i></w><w><i>West</i></w><w><i>Africa</i></w><w><i>People's</i></w><w><i>Organization</i></w></corrected>
+      <errors>
+        <error xtype="nonit4it" eid="0" />
+      </errors>
+  </revision>
+  <c>(</c>
+  <w>SWAPO</w>
+  <c>)</c>
+  <c>.</c>
+</s>
+<s n="29">
+  <w>1971</w>
+  <w>kvað</w>
+  <w>Alþjóðadómstóllinn</w>
+  <revision id="25">
+    <original><w>upp</w><w>úr</w><w>með</w></original>
+    <corrected><w>svo</w><w>á</w><w>um</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>stjórn</w>
+  <w>Suður-Afríku</w>
+  <w>í</w>
+  <w>Namibíu</w>
+  <w>væri</w>
+  <w>ólögleg</w>
+  <w>en</w>
+  <w>Suður-Afríka</w>
+  <w>neitaði</w>
+  <w>að</w>
+  <w>gefa</w>
+  <w>yfirráð</w>
+  <w>sín</w>
+  <w>eftir</w>
+  <c>.</c>
+</s>
+<s n="30">
+  <w>1978</w>
+  <w>reyndu</w>
+  <w>Vesturlönd</w>
+  <w>að</w>
+  <w>eiga</w>
+  <w>milligöngu</w>
+  <w>um</w>
+  <w>diplómatíska</w>
+  <w>lausn</w>
+  <w>vandans</w>
+  <w>en</w>
+  <w>Suður-Afríka</w>
+  <w>lét</w>
+  <w>halda</w>
+  <w>kosningar</w>
+  <w>í</w>
+  <w>landinu</w>
+  <w>í</w>
+  <w>trássi</w>
+  <w>við</w>
+  <w>samþykktir</w>
+  <w>Sameinuðu</w>
+  <w>þjóðanna</w>
+  <w>og</w>
+  <w>hélt</w>
+  <w>áfram</w>
+  <w>að</w>
+  <w>stjórna</w>
+  <w>landinu</w>
+  <c>.</c>
+</s>
+<s n="31">
+  <revision id="26">
+    <original><w>Málið</w></original>
+    <corrected><w>Allt</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>var</w>
+  <w>í</w>
+  <w>járnum</w>
+  <w>þar</w>
+  <w>til</w>
+  <w>ákveðið</w>
+  <w>var</w>
+  <w>á</w>
+  <w>fundi</w>
+  <w>Ronald</w>
+  <w>Reagan</w>
+  <w>og</w>
+  <w>Mikhaíl</w>
+  <w>Gorbatsjev</w>
+  <w>árið 1988</w>
+  <w>að</w>
+  <w>Kúba</w>
+  <w>myndi</w>
+  <w>draga</w>
+  <w>herlið</w>
+  <w>sitt</w>
+  <w>frá</w>
+  <w>Angóla</w>
+  <w>um</w>
+  <w>leið</w>
+  <w>og</w>
+  <w>Suður-Afríka</w>
+  <w>drægi</w>
+  <w>sitt</w>
+  <w>lið</w>
+  <w>frá</w>
+  <w>Namibíu</w>
+  <w>og</w>
+  <w>22. desember 1988</w>
+  <w>voru</w>
+  <w>New</w>
+  <w>York-samningarnir</w>
+  <w>undirritaðir</w>
+  <c>.</c>
+</s>
+<s n="32">
+  <w>Þeir</w>
+  <w>fólu</w>
+  <w>í</w>
+  <w>sér</w>
+  <w>annars</w>
+  <w>vegar</w>
+  <w>samning</w>
+  <w>Kúbu</w>
+  <w>og</w>
+  <w>Angóla</w>
+  <revision id="27">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>þríhliða</w>
+  <w>samning</w>
+  <w>milli</w>
+  <w>Kúbu</w>
+  <c>,</c>
+  <w>Angóla</w>
+  <w>og</w>
+  <w>Suður-Afríku</w>
+  <w>þar</w>
+  <w>sem</w>
+  <w>Suður-Afríka</w>
+  <w>samþykkti</w>
+  <w>að</w>
+  <w>láta</w>
+  <w>Sameinuðu</w>
+  <w>þjóðunum</w>
+  <revision id="28">
+    <original></original>
+    <corrected><w>eftir</w></corrected>
+      <errors>
+        <error xtype="wording" idx="28-1" eid="0" />
+      </errors>
+  </revision>
+  <w>stjórn</w>
+  <w>Namibíu</w>
+  <revision id="29">
+    <original><w>eftir</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="28-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="33">
+  <w>Í</w>
+  <w>fyrstu</w>
+  <w>kosningunum</w>
+  <w>eftir</w>
+  <w>sjálfstæði</w>
+  <c>,</c>
+  <w>kosningum</w>
+  <w>til</w>
+  <w>stjórnlagaþings</w>
+  <w>í</w>
+  <w>nóvember 1989</w>
+  <c>,</c>
+  <w>fékk</w>
+  <w>SWAPO</w>
+  <w>yfir</w>
+  <w>50%</w>
+  <w>atkvæða</w>
+  <c>.</c>
+</s>
+<s n="34">
+  <revision id="30">
+    <original><w>1990</w></original>
+    <corrected><w>Árið 1990</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>var</w>
+  <w>ný</w>
+  <w>stjórnarskrá</w>
+  <w>tekin</w>
+  <w>upp</w>
+  <w>og</w>
+  <w>Sam</w>
+  <w>Nujoma</w>
+  <c>,</c>
+  <w>formaður</w>
+  <w>SWAPO</w>
+  <c>,</c>
+  <w>varð</w>
+  <w>fyrsti</w>
+  <w>forseti</w>
+  <w>Namibíu</w>
+  <c>.</c>
+</s>
+<s n="35">
+  <w>1. mars 1994</w>
+  <w>tók</w>
+  <w>Namibía</w>
+  <w>við</w>
+  <w>stjórn</w>
+  <w>Walvis</w>
+  <w>Bay</w>
+  <w>og</w>
+  <w>nítján</w>
+  <w>eyja</w>
+  <w>við</w>
+  <w>ströndina</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

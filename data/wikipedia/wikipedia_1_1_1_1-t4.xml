@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_1-t4.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Qualls</w>
@@ -18,7 +30,7 @@
   <w>í</w>
   <revision id="2">
     <original><w>Memphis</w><w>Beat</w></original>
-    <corrected><w><i>Memphis</i></w><w><i>Beat</i></w></corrected>
+    <corrected><w><hi>Memphis</hi></w><w><hi>Beat</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -47,7 +59,7 @@
   <w>í</w>
   <revision id="4">
     <original><w>Road</w><w>Trip</w></original>
-    <corrected><w><i>Road</i></w><w><i>Trip</i></w></corrected>
+    <corrected><w><hi>Road</hi></w><w><hi>Trip</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -66,8 +78,8 @@
   <w>var</w>
   <w>árið 1995</w>
   <w>í</w>
-  <w><i>Senior</i></w>
-  <w><i>Trip</i></w>
+  <w><hi>Senior</hi></w>
+  <w><hi>Trip</hi></w>
   <c>.</c>
 </s><s n="4">
   <w>Lék</w>
@@ -78,7 +90,7 @@
   <w>grínmyndinni</w>
   <revision id="5">
     <original><w>The</w><w>New</w><w>Guy</w></original>
-    <corrected><w><i>The</i></w><w><i>New</i></w><w><i>Guy</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>New</hi></w><w><hi>Guy</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -111,7 +123,7 @@
   <w>við</w>
   <revision id="6">
     <original><w>Criminal</w><w>Minds</w></original>
-    <corrected><w><i>Criminal</i></w><w><i>Minds</i></w></corrected>
+    <corrected><w><hi>Criminal</hi></w><w><hi>Minds</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -119,7 +131,7 @@
   <c>,</c>
   <revision id="7">
     <original><w>Monk</w></original>
-    <corrected><w><i>Monk</i></w></corrected>
+    <corrected><w><hi>Monk</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -127,7 +139,7 @@
   <c>,</c>
   <revision id="8">
     <original><w>Numb3rs</w></original>
-    <corrected><w><i>Numb3rs</i></w></corrected>
+    <corrected><w><hi>Numb3rs</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -135,7 +147,7 @@
   <c>,</c>
   <revision id="9">
     <original><w>Breaking</w><w>Bad</w></original>
-    <corrected><w><i>Breaking</i></w><w><i>Bad</i></w></corrected>
+    <corrected><w><hi>Breaking</hi></w><w><hi>Bad</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -143,7 +155,7 @@
   <c>,</c>
   <revision id="10">
     <original><w>Supernatural</w></original>
-    <corrected><w><i>Supernatural</i></w></corrected>
+    <corrected><w><hi>Supernatural</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -151,7 +163,7 @@
   <w>og</w>
   <revision id="11">
     <original><w>Lost</w></original>
-    <corrected><w><i>Lost</i></w></corrected>
+    <corrected><w><hi>Lost</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -171,7 +183,7 @@
   <w>nám</w>
   <w>við</w>
   <revision id="12">
-    <original><w><i>Belmont</i></w><w><i>háskólann</i></w></original>
+    <original><w><hi>Belmont</hi></w><w><hi>háskólann</hi></w></original>
     <corrected><w>Belmont-háskólann</w></corrected>
       <errors>
         <error xtype="it4nonit" idx="5-1" eid="0"/>
@@ -205,9 +217,9 @@
   <w>árið 1998</w>
   <w>í</w>
   <w>sjónvarpsmyndinni</w>
-  <w><i>Mama</i></w>
-  <w><i>Flora´s</i></w>
-  <w><i>Family</i></w>
+  <w><hi>Mama</hi></w>
+  <w><hi>Flora´s</hi></w>
+  <w><hi>Family</hi></w>
   <c>.</c>
 </s><s n="9">
   <w>Qualls</w>
@@ -215,15 +227,15 @@
   <w>fram</w>
   <w>í</w>
   <w>tónlistarmyndböndunum</w>
-  <w><i>Boys</i></w>
+  <w><hi>Boys</hi></w>
   <w>með</w>
   <w>Britney</w>
   <w>Spears</w>
   <w>og</w>
-  <w><i>I'm</i></w>
-  <w><i>Just</i></w>
-  <w><i>a</i></w>
-  <w><i>Kid</i></w>
+  <w><hi>I'm</hi></w>
+  <w><hi>Just</hi></w>
+  <w><hi>a</hi></w>
+  <w><hi>Kid</hi></w>
   <w>með</w>
   <w>Simple</w>
   <w>Plan</w>
@@ -242,7 +254,7 @@
   <w>við</w>
   <revision id="13">
     <original><w>Cherry</w><w>Falls</w></original>
-    <corrected><w><i>Cherry</i></w><w><i>Falls</i></w></corrected>
+    <corrected><w><hi>Cherry</hi></w><w><hi>Falls</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -250,7 +262,7 @@
   <c>,</c>
   <revision id="14">
     <original><w>Lone</w><w>Star</w><w>State</w><w>of</w><w>Mind</w></original>
-    <corrected><w><i>Lone</i></w><w><i>Star</i></w><w><i>State</i></w><w><i>of</i></w><w><i>Mind</i></w></corrected>
+    <corrected><w><hi>Lone</hi></w><w><hi>Star</hi></w><w><hi>State</hi></w><w><hi>of</hi></w><w><hi>Mind</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -258,7 +270,7 @@
   <c>,</c>
   <revision id="15">
     <original><w>The</w><w>Core</w></original>
-    <corrected><w><i>The</i></w><w><i>Core</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Core</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -266,7 +278,7 @@
   <c>,</c>
   <revision id="16">
     <original><w>Delta</w><w>Farce</w></original>
-    <corrected><w><i>Delta</i></w><w><i>Farce</i></w></corrected>
+    <corrected><w><hi>Delta</hi></w><w><hi>Farce</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -274,7 +286,7 @@
   <c>,</c>
   <revision id="17">
     <original><w>All</w><w>About</w><w>Steve</w></original>
-    <corrected><w><i>All</i></w><w><i>About</i></w><w><i>Steve</i></w></corrected>
+    <corrected><w><hi>All</hi></w><w><hi>About</hi></w><w><hi>Steve</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -282,7 +294,7 @@
   <w>og</w>
   <revision id="18">
     <original><w>Amigo</w></original>
-    <corrected><w><i>Amigo</i></w></corrected>
+    <corrected><w><hi>Amigo</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -293,10 +305,10 @@
   <w>var</w>
   <w>greindur</w>
   <w>með</w>
-  <w><i>Hodgkin's</i></w>
+  <w><hi>Hodgkin's</hi></w>
   <revision id="19">
-    <original><w><i>lymphoma</i></w><w>krabbameinið</w></original>
-    <corrected><w><i>lymphoma</i></w><w>-krabbamein</w></corrected>
+    <original><w><hi>lymphoma</hi></w><w>krabbameinið</w></original>
+    <corrected><w><hi>lymphoma</hi></w><w>-krabbamein</w></corrected>
       <errors>
         <error xtype="missing-dash" eid="0"/>
         <error xtype="def4ind" eid="0"/>
@@ -331,7 +343,7 @@
   <w>í</w>
   <revision id="21">
     <original><w>Legit</w></original>
-    <corrected><w><i>Legit</i></w></corrected>
+    <corrected><w><hi>Legit</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -413,7 +425,7 @@
   <w>í</w>
   <revision id="23">
     <original><w>Road</w><w>Trip</w></original>
-    <corrected><w><i>Road</i></w><w><i>Trip</i></w></corrected>
+    <corrected><w><hi>Road</hi></w><w><hi>Trip</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -421,7 +433,7 @@
   <c>,</c>
   <revision id="24">
     <original><w>The</w><w>New</w><w>Guy</w></original>
-    <corrected><w><i>The</i></w><w><i>New</i></w><w><i>Guy</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>New</hi></w><w><hi>Guy</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -429,7 +441,7 @@
   <w>og</w>
   <revision id="25">
     <original><w>Memphis</w><w>Beat</w></original>
-    <corrected><w><i>Memphis</i></w><w><i>Beat</i></w></corrected>
+    <corrected><w><hi>Memphis</hi></w><w><hi>Beat</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

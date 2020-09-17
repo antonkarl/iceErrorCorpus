@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Neikvæð</w>
+  <w>staða</w>
+  <w>lífeyrissjóðanna</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>eru</w>
+  <w>með</w>
+  <w>opinberri</w>
+  <w>ábyrgð</w>
+  <c>,</c>
+  <w>er</w>
+  <w>eins</w>
+  <w>og</w>
+  <w>tifandi</w>
+  <w>tímasprengja</w>
+  <w>fyrir</w>
+  <w>ríkissjóð</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Lífeyrisgreiðslur</w>
+  <w>til</w>
+  <w>þeirra</w>
+  <w>sem</w>
+  <w>eiga</w>
+  <w>rétt</w>
+  <w>í</w>
+  <w>lífeyrissjóðum</w>
+  <c>,</c>
+  <w>þar</w>
+  <w>sem</w>
+  <w>engin</w>
+  <w>opinber</w>
+  <w>ábyrgð</w>
+  <w>er</w>
+  <c>,</c>
+  <w>hafa</w>
+  <w>verið</w>
+  <w>skertar</w>
+  <w>um</w>
+  <w>130</w>
+  <w>milljarða</w>
+  <w>króna</w>
+  <w>frá</w>
+  <w>hruni</w>
+  <c>,</c>
+  <w>á</w>
+  <w>meðan</w>
+  <w>lífeyrir</w>
+  <w>flestra</w>
+  <w>opinberra</w>
+  <w>starfsmanna</w>
+  <w>hefur</w>
+  <w>ekkert</w>
+  <w>skerst</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Samkvæmt</w>
+  <w>mati</w>
+  <w>Fjármálaeftirlitsins</w>
+  <w>á</w>
+  <w>stöðu</w>
+  <w>lífeyrissjóðakerfisins</w>
+  <revision id="1">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-commas" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>kynnt</w>
+  <w>var</w>
+  <w>í</w>
+  <w>gær</w>
+  <revision id="2">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>er</w>
+  <w>neikvæð</w>
+  <revision id="3">
+    <original><w>tryggingarfræðileg</w></original>
+    <corrected><w>tryggingafræðileg</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="3-1" eid="0" />
+        <error xtype="compound-collocation" idx="3-1" eid="0" />
+      </errors>
+  </revision>
+  <w>staða</w>
+  <c>,</c>
+  <w>það</w>
+  <w>er</w>
+  <revision id="4">
+    <original><w>eignastaða</w></original>
+    <corrected><w>hlutfall</w><w>eignastöðu</w><w>lífeyrissjóðakerfisins</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>miðað</w>
+  <w>við</w>
+  <w>skuldbindingar</w>
+  <revision id="5">
+    <original></original>
+    <corrected><w>þess</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>við</w>
+  <w>sjóðsfélaga</w>
+  <w>í</w>
+  <w>framtíðinni</w>
+  <c>,</c>
+  <w>sláandi</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Skerðing</w>
+  <w>á</w>
+  <w>lífeyrisréttindum</w>
+  <w>sjóðsfélaga</w>
+  <w>í</w>
+  <w>þessum</w>
+  <w>sjóðum</w>
+  <revision id="6">
+    <original><w>hefur</w><w>numið</w></original>
+    <corrected><w>nemur</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>um</w>
+  <w>130</w>
+  <w>milljörðum</w>
+  <w>frá</w>
+  <w>hruni</w>
+  <revision id="7">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>samkvæmt</w>
+  <w>mati</w>
+  <w>FME</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Staðan</w>
+  <w>hjá</w>
+  <w>hinum</w>
+  <w>opinberu</w>
+  <w>sjóðum</w>
+  <w>er</w>
+  <w>hins</w>
+  <w>vegar</w>
+  <w>mun</w>
+  <w>alvarlegri</w>
+  <c>,</c>
+  <w>eins</w>
+  <w>og</w>
+  <w>hér</w>
+  <w>sést</w>
+  <c>,</c>
+  <w>en</w>
+  <w>hjá</w>
+  <w>þeim</w>
+  <w>búa</w>
+  <w>opinberir</w>
+  <w>starfsmenn</w>
+  <w>við</w>
+  <w>opinbera</w>
+  <w>ábyrgð</w>
+  <w>á</w>
+  <w>lífeyrisréttindum</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Samtals</w>
+  <w>er</w>
+  <w>neikvæða</w>
+  <w>staðan</w>
+  <w>upp</w>
+  <w>á</w>
+  <w>tæplega</w>
+  <w>700</w>
+  <w>milljarða</w>
+  <c>,</c>
+  <w>og</w>
+  <revision id="8">
+    <original><w>eru</w><w>sjóðir</w></original>
+    <corrected><w>434</w><w>milljarðar</w><w>af</w><w>því</w><w>tilheyra</w><w>sjóðum</w></corrected>
+      <errors>
+        <error xtype="wording" idx="8-1" eid="0" />
+        <error xtype="dep" depId="9-1" eid="0" />
+      </errors>
+  </revision>
+  <w>með</w>
+  <w>opinbera</w>
+  <w>ábyrgð</w>
+  <revision id="9">
+    <original><w>með</w><w>um</w><w>434</w><w>milljarða</w><w>af</w><w>því</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wording" idx="9-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>Þetta</w>
+  <w>þýðir</w>
+  <w>að</w>
+  <w>ef</w>
+  <w>fram</w>
+  <w>heldur</w>
+  <w>sem</w>
+  <w>horfir</w>
+  <revision id="10">
+    <original><w>þá</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
+  <w>munu</w>
+  <w>ríki</w>
+  <w>og</w>
+  <w>sveitarfélög</w>
+  <w>þurfa</w>
+  <w>að</w>
+  <w>leggja</w>
+  <w>sjóðunum</w>
+  <w>til</w>
+  <w>fé</w>
+  <w>í</w>
+  <w>framtíðinni</w>
+  <w>til</w>
+  <w>þess</w>
+  <w>að</w>
+  <w>geta</w>
+  <w>staðið</w>
+  <w>við</w>
+  <w>skuldbindingar</w>
+  <w>við</w>
+  <w>sjóðfélaga</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>munu</w>
+  <w>hlaupa</w>
+  <w>á</w>
+  <w>tugum</w>
+  <w>milljarða</w>
+  <w>árlega</w>
+  <c>.</c>
+</s>
+<s n="8">
+  <w>Helsta</w>
+  <w>áhyggjuefnið</w>
+  <w>er</w>
+  <w>staða</w>
+  <w>B-deildar</w>
+  <w>LSR</w>
+  <c>,</c>
+  <w>en</w>
+  <w>hún</w>
+  <w>er</w>
+  <w>neikvæð</w>
+  <w>um</w>
+  <w>344</w>
+  <w>milljarða</w>
+  <w>króna</w>
+  <c>.</c>
+</s>
+<s n="9">
+  <w>Fjármálaeftirlitið</w>
+  <w>segir</w>
+  <w>í</w>
+  <w>mati</w>
+  <w>sínu</w>
+  <w>að</w>
+  <w>lausnir</w>
+  <w>á</w>
+  <w>þessum</w>
+  <w>vandamálum</w>
+  <w>séu</w>
+  <w>á</w>
+  <w>borði</w>
+  <w>stjórnmálamanna</w>
+  <c>,</c>
+  <w>en</w>
+  <w>þar</w>
+  <w>kemur</w>
+  <w>helst</w>
+  <w>til</w>
+  <w>greina</w>
+  <w>að</w>
+  <w>afnema</w>
+  <w>með</w>
+  <w>öllu</w>
+  <w>opinbera</w>
+  <w>ábyrgð</w>
+  <w>á</w>
+  <w>sjóðunum</w>
+  <revision id="11">
+    <original><c>,</c></original>
+    <corrected><c>(</c></corrected>
+      <errors>
+        <error xtype="comma4bracket" eid="0" />
+      </errors>
+  </revision>
+  <w>þannig</w>
+  <w>að</w>
+  <w>til</w>
+  <w>skerðinga</w>
+  <w>geti</w>
+  <w>komið</w>
+  <w>hjá</w>
+  <w>þeim</w>
+  <w>eins</w>
+  <w>og</w>
+  <w>öðrum</w>
+  <w>sjóðum</w>
+  <revision id="12">
+    <original></original>
+    <corrected><c>)</c></corrected>
+      <errors>
+        <error xtype="missing-bracket" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>hækka</w>
+  <w>iðgjaldagreiðslur</w>
+  <w>eða</w>
+  <w>að</w>
+  <w>hækka</w>
+  <w>lífeyrisaldurinn</w>
+  <w>sem</w>
+  <w>í</w>
+  <w>dag</w>
+  <w>er</w>
+  <w>67</w>
+  <w>ár</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

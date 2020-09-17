@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_2-t10.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Samveldið</w>
@@ -8,12 +20,12 @@
   <c>(</c>
   <w>franska</w>
   <c>:</c>
-  <w><i>Dominique</i></w>
+  <w><hi>Dominique</hi></w>
   <c>;</c>
   <w>eyjakaríbíska</w>
   <c>:</c>
-  <w><i>Wai‘tu</i></w>
-  <w><i>kubuli</i></w>
+  <w><hi>Wai‘tu</hi></w>
+  <w><hi>kubuli</hi></w>
   <c>)</c>
   <w>er</w>
   <w>eyríki</w>
@@ -182,7 +194,7 @@
   <c>,</c>
   <w>sunnudegi</w>
   <c>(</c>
-  <w><i>dominica</i></w>
+  <w><hi>dominica</hi></w>
   <w>á</w>
   <w>latínu</w>
   <c>)</c>
@@ -398,13 +410,13 @@
   <w>hluti</w>
   <w>af</w>
   <w>Disney-kvikmyndinni</w>
-  <w><i>Sjóræningjar</i></w>
+  <w><hi>Sjóræningjar</hi></w>
   <w>ZKaríbahafsins</w>
   <c>:</c>
-  <w><i></i></w>
-  <w><i>Dauðs</i></w>
-  <w><i>manns</i></w>
-  <w><i>kista</i></w>
+  <w><hi></hi></w>
+  <w><hi>Dauðs</hi></w>
+  <w><hi>manns</hi></w>
+  <w><hi>kista</hi></w>
   <w>var</w>
   <w>tekinn</w>
   <w>á</w>
@@ -446,7 +458,7 @@
   <w>er</w>
   <w>risahverinn</w>
   <revision id="5">
-    <original><w><i>the</i></w><w><i>Boiling</i></w><w><i>Lake</i></w></original>
+    <original><w><hi>the</hi></w><w><hi>Boiling</hi></w><w><hi>Lake</hi></w></original>
     <corrected><w>Boiling</w><w>Lake</w></corrected>
       <errors>
         <error xtype="it4nonit" idx="5-1" eid="0" />

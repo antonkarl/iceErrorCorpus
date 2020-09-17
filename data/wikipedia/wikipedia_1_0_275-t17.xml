@@ -1,18 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_275-t17.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Grænland</w>
   <c>(</c>
   <w>grænlenska</w>
   <c>:</c>
-  <w><i>Kalaallit</i></w>
-  <w><i>Nunaat</i></w>
+  <w><hi>Kalaallit</hi></w>
+  <w><hi>Nunaat</hi></w>
   <c>;</c>
   <w>danska</w>
   <c>:</c>
-  <w><i>Grønland</i></w>
+  <w><hi>Grønland</hi></w>
   <c>)</c>
   <w>er</w>
   <w>stærsta</w>
@@ -75,7 +87,7 @@
   <c>,</c>
   <w>á</w>
   <w>dönsku</w>
-  <w><i>Godthåb</i></w>
+  <w><hi>Godthåb</hi></w>
   <c>.</c>
 </s>
 <s n="5">
@@ -164,7 +176,7 @@
   <c>(</c>
   <revision id="2">
     <original><w>Kalaallisut</w></original>
-    <corrected><w><i>Kalaallisut</i></w></corrected>
+    <corrected><w><hi>Kalaallisut</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -962,8 +974,8 @@
   <w>og</w>
   <w>hreysikettir</w>
   <c>(</c>
-  <w><i>Mustela</i></w>
-  <w><i>erminea</i></w>
+  <w><hi>Mustela</hi></w>
+  <w><hi>erminea</hi></w>
   <c>)</c>
   <w>eru</w>
   <w>algengir</w>
@@ -1033,8 +1045,8 @@
 <s n="46">
   <w>Kragalæmingjar</w>
   <c>(</c>
-  <w><i>Dicrostonyx</i></w>
-  <w><i>torquatus</i></w>
+  <w><hi>Dicrostonyx</hi></w>
+  <w><hi>torquatus</hi></w>
   <c>)</c>
   <w>eru</w>
   <w>einu</w>
@@ -1088,8 +1100,8 @@
   </revision>
   <w>rostungar</w>
   <c>(</c>
-  <w><i>Odobenus</i></w>
-  <w><i>rosmarus</i></w>
+  <w><hi>Odobenus</hi></w>
+  <w><hi>rosmarus</hi></w>
   <c>)</c>
   <revision id="25">
     <original></original>

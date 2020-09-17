@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_400-t8.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Persaveldi</w>
@@ -226,7 +238,7 @@
   <w>nefndu</w>
   <w>sig</w>
   <revision id="5">
-    <original><w><i>Parsa</i></w></original>
+    <original><w><hi>Parsa</hi></w></original>
     <corrected><w>Parsa</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -237,7 +249,7 @@
   <w>yfirráðasvæði</w>
   <w>sitt</w>
   <revision id="6">
-    <original><w><i>Parsua</i></w></original>
+    <original><w><hi>Parsua</hi></w></original>
     <corrected><w>Parsua</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />

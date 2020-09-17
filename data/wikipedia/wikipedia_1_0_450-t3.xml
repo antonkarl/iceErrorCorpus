@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_450-t3.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Robert</w>
@@ -94,11 +106,11 @@
   <w>frá</w>
   <w>2005</w>
   <c>,</c>
-  <w><i>The</i></w>
-  <w><i>Good</i></w>
-  <w><i>in</i></w>
-  <w><i>the</i></w>
-  <w><i>Right</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Good</hi></w>
+  <w><hi>in</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>Right</hi></w>
   <c>,</c>
   <w>ver</w>
   <w>hann</w>
@@ -216,11 +228,11 @@
   <w>og</w>
   <w>annarrar</w>
   <w>útgáfu</w>
-  <w><i>The</i></w>
-  <w><i>Cambridge</i></w>
-  <w><i>Dictionary</i></w>
-  <w><i>of</i></w>
-  <w><i>Philosophy</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Cambridge</hi></w>
+  <w><hi>Dictionary</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>Philosophy</hi></w>
   <revision id="11">
     <original><c>(</c></original>
     <corrected><w>árin</w></corrected>
@@ -253,15 +265,15 @@
   <w>einnig</w>
   <w>ritstjóri</w>
   <w>ritraðanna</w>
-  <w><i>Modern</i></w>
-  <w><i>Readings</i></w>
-  <w><i>in</i></w>
-  <w><i>Epistemology</i></w>
+  <w><hi>Modern</hi></w>
+  <w><hi>Readings</hi></w>
+  <w><hi>in</hi></w>
+  <w><hi>Epistemology</hi></w>
   <w>og</w>
-  <w><i>Modern</i></w>
-  <w><i>readings</i></w>
-  <w><i>in</i></w>
-  <w><i>Metaphysics</i></w>
+  <w><hi>Modern</hi></w>
+  <w><hi>readings</hi></w>
+  <w><hi>in</hi></w>
+  <w><hi>Metaphysics</hi></w>
   <c>.</c>
 </s>
 <s n="9">
@@ -276,8 +288,8 @@
   <w>bjarghyggju</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>fallibilistic</i></w>
-  <w><i>foundationalism</i></w>
+  <w><hi>fallibilistic</hi></w>
+  <w><hi>foundationalism</hi></w>
   <c>)</c>
   <c>.</c>
 </s>

@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_15-t13.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Díogenes</w>
@@ -187,9 +199,9 @@
   <w>þekktur</w>
   <w>fyrir</w>
   <c>,</c>
-  <w><i>Ævisögur</i></w>
-  <w><i>merkra</i></w>
-  <w><i>heimspekinga</i></w>
+  <w><hi>Ævisögur</hi></w>
+  <w><hi>merkra</hi></w>
+  <w><hi>heimspekinga</hi></w>
   <c>,</c>
   <w>var</w>
   <w>ritað</w>
@@ -385,17 +397,17 @@
   <w>í</w>
   <w>riti</w>
   <w>hans</w>
-  <w><i>De</i></w>
-  <w><i>vita</i></w>
-  <w><i>et</i></w>
-  <w><i>moribus</i></w>
-  <w><i>philosophorum</i></w>
+  <w><hi>De</hi></w>
+  <w><hi>vita</hi></w>
+  <w><hi>et</hi></w>
+  <w><hi>moribus</hi></w>
+  <w><hi>philosophorum</hi></w>
   <c>(</c>
-  <w><i>Um</i></w>
-  <w><i>ævir</i></w>
-  <w><i>og</i></w>
-  <w><i>siði</i></w>
-  <w><i>heimspekinganna</i></w>
+  <w><hi>Um</hi></w>
+  <w><hi>ævir</hi></w>
+  <w><hi>og</hi></w>
+  <w><hi>siði</hi></w>
+  <w><hi>heimspekinganna</hi></w>
   <c>)</c>
   <w>að</w>
   <w>texti</w>

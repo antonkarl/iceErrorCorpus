@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_17-t4.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Wundt</w>
@@ -186,11 +198,11 @@
   <w>Þar</w>
   <w>skrifaði</w>
   <w>hann</w>
-  <w><i>Framlag</i></w>
-  <w><i>til</i></w>
-  <w><i>kenningar</i></w>
-  <w><i>um</i></w>
-  <w><i>skyntúlkun</i></w>
+  <w><hi>Framlag</hi></w>
+  <w><hi>til</hi></w>
+  <w><hi>kenningar</hi></w>
+  <w><hi>um</hi></w>
+  <w><hi>skyntúlkun</hi></w>
   <w>árin</w>
   <w>1858</w>
   <c>–</c>

@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_7-t0.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Kapella</w>
@@ -308,7 +320,7 @@
   <w>kalla</w>
   <w>hana</w>
   <revision id="1">
-    <original><w><i>Kapellu</i></w><w><i>hins</i></w><w><i>heilaga</i></w><w><i>blóðs</i></w></original>
+    <original><w><hi>Kapellu</hi></w><w><hi>hins</hi></w><w><hi>heilaga</hi></w><w><hi>blóðs</hi></w></original>
     <corrected><c>„</c><w>Kapellu</w><w>hins</w><w>heilaga</w><w>blóðs</w><c>“</c></corrected>
       <errors>
         <error xtype="missing-quots" idx="1-1" eid="0" />
@@ -536,7 +548,7 @@
   <w>kalla</w>
   <w>helgigönguna</w>
   <revision id="4">
-    <original><w><i>Brugges</i></w><w><i>schoonste</i></w><w><i>dag</i></w></original>
+    <original><w><hi>Brugges</hi></w><w><hi>schoonste</hi></w><w><hi>dag</hi></w></original>
     <corrected><c>„</c><w>Brugges</w><w>schoonste</w><w>dag</w><c>“</c></corrected>
       <errors>
         <error xtype="missing-quots" idx="4-1" eid="0" />

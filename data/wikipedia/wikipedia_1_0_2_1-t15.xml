@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_1-t15.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Alli</w>
@@ -8,8 +20,8 @@
   <c>(</c>
   <w>franska</w>
   <c>:</c>
-  <w><i>Achille</i></w>
-  <w><i>Talon</i></w>
+  <w><hi>Achille</hi></w>
+  <w><hi>Talon</hi></w>
   <c>)</c>
   <w>er</w>
   <w>heiti</w>
@@ -135,8 +147,8 @@
   <c>(</c>
   <w>franska</w>
   <c>:</c>
-  <w><i>Hilarion</i></w>
-  <w><i>Lefuneste</i></w>
+  <w><hi>Hilarion</hi></w>
+  <w><hi>Lefuneste</hi></w>
   <c>)</c>
   <c>.</c>
 </s>
@@ -328,8 +340,8 @@
   <w>Sjónvarpspersónan</w>
   <w>hlaut</w>
   <w>nafnið</w>
-  <w><i>Walter</i></w>
-  <w><i>Mellon</i></w>
+  <w><hi>Walter</hi></w>
+  <w><hi>Mellon</hi></w>
   <w>í</w>
   <w>enskumælandi</w>
   <w>löndum</w>
@@ -340,10 +352,10 @@
   <w>gaf</w>
   <w>Fjölva-útgáfan</w>
   <w>út</w>
-  <w><i>Alla</i></w>
-  <w><i>Kalla</i></w>
-  <w><i>í</i></w>
-  <w><i>eldlínunni</i></w>
+  <w><hi>Alla</hi></w>
+  <w><hi>Kalla</hi></w>
+  <w><hi>í</hi></w>
+  <w><hi>eldlínunni</hi></w>
   <c>&quot;</c>
   <c>.</c>
 </s>
@@ -360,12 +372,12 @@
   <w>frummálinu</w>
   <w>nefndist</w>
   <w>hún</w>
-  <w><i>Achille</i></w>
-  <w><i>Talon</i></w>
-  <w><i>au</i></w>
-  <w><i>coin</i></w>
-  <w><i>du</i></w>
-  <w><i>feu</i></w>
+  <w><hi>Achille</hi></w>
+  <w><hi>Talon</hi></w>
+  <w><hi>au</hi></w>
+  <w><hi>coin</hi></w>
+  <w><hi>du</hi></w>
+  <w><hi>feu</hi></w>
   <w>og</w>
   <w>var</w>
   <w>frá</w>

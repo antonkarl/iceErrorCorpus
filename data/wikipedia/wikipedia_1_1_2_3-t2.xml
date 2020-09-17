@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_3-t2.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <revision id="1">
@@ -17,15 +29,15 @@
   <c>:</c>
   <w>ἔξοδος</w>
   <c>,</c>
-  <w><i>Exodos</i></w>
+  <w><hi>Exodos</hi></w>
   <c>;</c>
   <w>á</w>
   <w>hebresku</w>
   <c>:</c>
   <w>שמות</w>
-  <w><i>Sh'mot</i></w>
+  <w><hi>Sh'mot</hi></w>
   <c>(</c>
-  <w><i>brottförin</i></w>
+  <w><hi>brottförin</hi></w>
   <c>)</c>
   <c>,</c>
   <w>á</w>
@@ -53,7 +65,7 @@
   <w>saman</w>
   <revision id="2">
     <original><w>Torah</w></original>
-    <corrected><w><i>Torah</i></w></corrected>
+    <corrected><w><hi>Torah</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -170,7 +182,7 @@
   <w>Móses</w>
   <revision id="5">
     <original><c>„</c><w>fæddur</w><c>“</c></original>
-    <corrected><w><i>fæddur</i></w></corrected>
+    <corrected><w><hi>fæddur</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="5-1" eid="0" />
         <error xtype="nonit4it" idx="5-2" eid="0" />

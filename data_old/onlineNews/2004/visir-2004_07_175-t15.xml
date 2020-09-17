@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Bjarni</w>
+  <w>Guðjónsson</w>
+  <w>landsliðsmaður</w>
+  <w>í</w>
+  <w>knattspyrnu</w>
+  <w>hefur</w>
+  <w>gert</w>
+  <w>tveggja</w>
+  <w>ára</w>
+  <w>samning</w>
+  <w>við</w>
+  <w>enska</w>
+  <revision id="1">
+    <original><w>1.</w></original>
+    <corrected><w>fyrstu</w></corrected>
+      <errors>
+        <error xtype="number4word" eid="0" />
+      </errors>
+  </revision>
+  <w>deildarliðið</w>
+  <w>Coventry</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Þetta</w>
+  <w>kemur</w>
+  <w>fram</w>
+  <w>á</w>
+  <w>heimasíðu</w>
+  <w>liðsins</w>
+  <w>í</w>
+  <w>dag</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Bjarni</w>
+  <w>var</w>
+  <w>í</w>
+  <w>láni</w>
+  <w>hjá</w>
+  <w>Coventry</w>
+  <w>frá</w>
+  <w>janúar</w>
+  <w>til</w>
+  <w>loka</w>
+  <w>tímabilsins</w>
+  <w>en</w>
+  <w>hann</w>
+  <w>var</w>
+  <w>þá</w>
+  <w>samningsbundinn</w>
+  <w>þýska</w>
+  <w>liðinu</w>
+  <w>Bochum</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Sá</w>
+  <revision id="2">
+    <original><w>samningu</w></original>
+    <corrected><w>samningur</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="2-1" eid="0" />
+        <error xtype="nonword" idx="2-1" eid="0" />
+      </errors>
+  </revision>
+  <w>rann</w>
+  <w>út</w>
+  <w>á</w>
+  <w>dögunum</w>
+  <w>og</w>
+  <w>Bjarni</w>
+  <w>fer</w>
+  <w>því</w>
+  <w>til</w>
+  <w>Coventry</w>
+  <w>á</w>
+  <w>frjálsri</w>
+  <w>sölu</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

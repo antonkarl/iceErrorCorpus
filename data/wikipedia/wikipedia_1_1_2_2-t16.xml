@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_2-t16.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Indie-rokk</w>
@@ -11,7 +23,7 @@
   <w>rokk</w>
   <c>,</c>
   <w>e.</w>
-  <w><i>indie-rock</i></w>
+  <w><hi>indie-rock</hi></w>
   <c>)</c>
   <w>er</w>
   <w>tónlistarstefna</w>
@@ -23,8 +35,8 @@
   <w>jaðarrokki</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>alternative</i></w>
-  <w><i>rock</i></w>
+  <w><hi>alternative</hi></w>
+  <w><hi>rock</hi></w>
   <c>)</c>
   <w>og</w>
   <w>er</w>
@@ -62,7 +74,7 @@
         <error xtype="missing-quots" idx="3-1" eid="0" />
       </errors>
   </revision>
-  <w><i>independent</i></w>
+  <w><hi>independent</hi></w>
   <revision id="4">
     <original><c>„</c></original>
     <corrected><c>‘</c><c>,</c><c>‚</c></corrected>
@@ -879,23 +891,23 @@
   <w>fyrstu</w>
   <w>breiðskífu</w>
   <c>,</c>
-  <w><i>Whatever</i></w>
-  <w><i>You</i></w>
-  <w><i>Say</i></w>
-  <w><i>I</i></w>
+  <w><hi>Whatever</hi></w>
+  <w><hi>You</hi></w>
+  <w><hi>Say</hi></w>
+  <w><hi>I</hi></w>
   <w>ZAm</w>
   <c>,</c>
-  <w><i></i></w>
-  <w><i>Thats</i></w>
-  <w><i>What</i></w>
+  <w><hi></hi></w>
+  <w><hi>Thats</hi></w>
+  <w><hi>What</hi></w>
   <revision id="20">
-    <original><w><i>Im</i></w></original>
-    <corrected><w><i>I‘m</i></w></corrected>
+    <original><w><hi>Im</hi></w></original>
+    <corrected><w><hi>I‘m</hi></w></corrected>
       <errors>
         <error xtype="missing-symbol" eid="0" />
       </errors>
   </revision>
-  <w><i>Not</i></w>
+  <w><hi>Not</hi></w>
   <c>,</c>
   <w>en</w>
   <w>það</w>

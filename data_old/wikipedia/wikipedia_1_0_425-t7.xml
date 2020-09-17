@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>PL</w>
+  <c>/</c>
+  <w>SQL</w>
+  <w>er</w>
+  <w>forritunarmál</w>
+  <w>sem</w>
+  <w>er</w>
+  <w>fylgir</w>
+  <w>Oracle</w>
+  <w>gagnagrunnum</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>PL</w>
+  <c>/</c>
+  <w>SQL</w>
+  <w>er</w>
+  <w>það</w>
+  <w>forritunarmál</w>
+  <w>sem</w>
+  <w>er</w>
+  <w>notað</w>
+  <w>í</w>
+  <revision id="1">
+    <original><w>gagngrunns</w><w>triggerum</w></original>
+    <corrected><w>gagnagrunns</w><w>gikkjum</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="1-1" eid="0" />
+        <error xtype="nonword" idx="1-1" eid="0" />
+        <error xtype="fw" idx="1-2" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>og</w>
+  <w>stefjum</w>
+  <w>sem</w>
+  <w>vistaðar</w>
+  <w>eru</w>
+  <w>í</w>
+  <w>gagnagrunninum</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Reyndar</w>
+  <w>er</w>
+  <w>líka</w>
+  <w>hægt</w>
+  <w>að</w>
+  <w>vista</w>
+  <w>Java</w>
+  <w>forrit</w>
+  <w>í</w>
+  <w>grunninum</w>
+  <w>í</w>
+  <w>sama</w>
+  <w>tilgangi</w>
+  <c>,</c>
+  <w>en</w>
+  <w>PL</w>
+  <c>/</c>
+  <w>SQL</w>
+  <w>er</w>
+  <w>það</w>
+  <w>sem</w>
+  <w>er</w>
+  <w>oftast</w>
+  <w>notað</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Einnig</w>
+  <w>er</w>
+  <w>hægt</w>
+  <w>að</w>
+  <w>keyra</w>
+  <w>PL</w>
+  <c>/</c>
+  <w>SQL</w>
+  <w>forrit</w>
+  <w>án</w>
+  <w>þess</w>
+  <w>að</w>
+  <w>vista</w>
+  <w>þau</w>
+  <w>sem</w>
+  <w>stefjur</w>
+  <w>eða</w>
+  <w>föll</w>
+  <w>í</w>
+  <w>grunninum</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Slík</w>
+  <w>forrit</w>
+  <w>eru</w>
+  <w>kölluð</w>
+  <w>ónefndar</w>
+  <c>(</c>
+  <w>e.</w>
+  <revision id="2">
+    <original><w>Anonymou</w><w>s</w></original>
+    <corrected><w>Anonymous</w></corrected>
+      <errors>
+        <error xtype="split-worde" eid="0" />
+      </errors>
+  </revision>
+  <c>)</c>
+  <w>blokkir</w>
+  <w>til</w>
+  <w>aðgreiningar</w>
+  <w>frá</w>
+  <w>einingum</w>
+  <w>sem</w>
+  <revision id="3">
+    <original></original>
+    <corrected><w>vistaðar</w></corrected>
+      <errors>
+        <error xtype="dep" depId="4-1" eid="0" />
+      </errors>
+  </revision>
+  <w>eru</w>
+  <revision id="4">
+    <original><w>vistuð</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="agreement-pred" idx="4-1" eid="0" />
+        <error xtype="wording" idx="4-1" eid="0" />
+      </errors>
+  </revision>
+  <w>undir</w>
+  <w>nafni</w>
+  <w>í</w>
+  <w>grunninum</w>
+  <w>sem</w>
+  <w>fall</w>
+  <c>,</c>
+  <w>stefja</w>
+  <c>,</c>
+  <w>pakki</w>
+  <w>eða</w>
+  <revision id="5">
+    <original><w>trigger</w></original>
+    <corrected><w>gikk</w></corrected>
+      <errors>
+        <error xtype="fw" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Einföld</w>
+  <w>PL</w>
+  <c>/</c>
+  <w>SQL</w>
+  <w>blokk</w>
+  <c>:</c>
+  <w>Hér</w>
+  <w>er</w>
+  <w>skilgreind</w>
+  <w>breyta</w>
+  <w>af</w>
+  <w>gerðinni</w>
+  <revision id="6">
+    <original><w>date</w></original>
+    <corrected><w>dagsetning</w></corrected>
+      <errors>
+        <error xtype="fw4ice" idx="6-1" eid="0" />
+        <error xtype="style" idx="6-1" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>og</w>
+  <revision id="7">
+    <original><w>síðan</w></original>
+    <corrected><w>svo</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>byrjar</w>
+  <w>blokk</w>
+  <w>sem</w>
+  <w>sækir</w>
+  <w>daginn</w>
+  <w>í</w>
+  <w>dag</w>
+  <c>(</c>
+  <w>sysdate</w>
+  <c>)</c>
+  <c>,</c>
+  <w>sleppir</w>
+  <w>tíma</w>
+  <revision id="8">
+    <original><w>partinum</w></original>
+    <corrected><w>hlutanum</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <c>(</c>
+  <w>trunc</w>
+  <c>)</c>
+  <w>og</w>
+  <w>setur</w>
+  <w>niðurstöðuna</w>
+  <w>í</w>
+  <w>breytuna</w>
+  <w>sem</w>
+  <w>var</w>
+  <w>skilgreind</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>Annað</w>
+  <w>dæmi</w>
+  <c>.</c>
+</s>
+<s n="8">
+  <w>Stundum</w>
+  <w>þarf</w>
+  <w>að</w>
+  <w>setja</w>
+  <w>takmarkanir</w>
+  <w>á</w>
+  <w>hvað</w>
+  <w>leyfilegt</w>
+  <w>er</w>
+  <w>að</w>
+  <w>gera</w>
+  <w>við</w>
+  <w>gögn</w>
+  <c>,</c>
+  <w>og</w>
+  <w>hvernig</w>
+  <w>gögn</w>
+  <w>er</w>
+  <w>leyfilegt</w>
+  <w>að</w>
+  <w>vista</w>
+  <c>.</c>
+</s>
+<s n="9">
+  <w>Ef</w>
+  <w>taflan</w>
+  <revision id="9">
+    <original><w>Skraning</w></original>
+    <corrected><w><i>Skráning</i></w></corrected>
+      <errors>
+        <error xtype="nonit4it" eid="0" />
+      </errors>
+  </revision>
+  <w>er</w>
+  <w>svona</w>
+  <revision id="10">
+    <original><c>:</c><w>Þá</w></original>
+    <corrected><c>,</c><w>þá</w></corrected>
+      <errors>
+        <error xtype="colon4comma" eid="0" />
+      </errors>
+  </revision>
+  <w>er</w>
+  <w>hægt</w>
+  <w>að</w>
+  <w>tryggja</w>
+  <w>að</w>
+  <w>ekki</w>
+  <w>séu</w>
+  <w>sett</w>
+  <w>gildi</w>
+  <w>inn</w>
+  <w>í</w>
+  <w>töfluna</w>
+  <w>sem</w>
+  <w>eru</w>
+  <w>fram</w>
+  <w>í</w>
+  <w>tímann</w>
+  <w>og</w>
+  <w>ekki</w>
+  <w>eldri</w>
+  <w>en</w>
+  <w>eins</w>
+  <w>mánaða</w>
+  <w>með</w>
+  <w>því</w>
+  <w>að</w>
+  <w>skrifa</w>
+  <revision id="11">
+    <original><w>trigger</w></original>
+    <corrected><w>gikk</w></corrected>
+      <errors>
+        <error xtype="fw" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>PL</w>
+  <c>/</c>
+  <w>SQL</w>
+  <c>:</c>
+  <w>Þessi</w>
+  <revision id="12">
+    <original><w>trigger</w></original>
+    <corrected><w>gikkur</w></corrected>
+      <errors>
+        <error xtype="fw" eid="0" />
+      </errors>
+  </revision>
+  <w>setur</w>
+  <w>takmarkanir</w>
+  <w>á</w>
+  <w>uppfærslur</w>
+  <w>og</w>
+  <w>innlestur</w>
+  <w>á</w>
+  <w>töfluna</w>
+  <w>sjálfa</w>
+  <w>þannig</w>
+  <w>að</w>
+  <w>það</w>
+  <w>komast</w>
+  <w>ekki</w>
+  <w>inn</w>
+  <w>færslur</w>
+  <w>nema</w>
+  <w>þær</w>
+  <w>sem</w>
+  <w>eru</w>
+  <w>leyfilegar</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

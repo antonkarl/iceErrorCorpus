@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_16-t6.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Rannsóknir</w>
@@ -469,14 +481,14 @@
   <c>(</c>
   <w>fræðiheiti</w>
   <c>:</c>
-  <w><i>Puma</i></w>
-  <w><i>concolor</i></w>
+  <w><hi>Puma</hi></w>
+  <w><hi>concolor</hi></w>
   <c>)</c>
   <w>er</w>
   <w>kattardýr</w>
   <w>af</w>
   <w>undirættinni</w>
-  <w><i>Felinae</i></w>
+  <w><hi>Felinae</hi></w>
   <w>sem</w>
   <w>eru</w>
   <w>smákettir</w>
@@ -487,7 +499,7 @@
   <w>innan</w>
   <revision id="19">
     <original><w>puma-ættkvískarinnar</w></original>
-    <corrected><w><i>Puma</i></w><c>-ættkvíslarinnar</c></corrected>
+    <corrected><w><hi>Puma</hi></w><c>-ættkvíslarinnar</c></corrected>
       <errors>
         <error xtype="nonit4it" idx="1-1" eid="0"/>
         <error xtype="lower4upper-proper" idx="1-1" eid="0"/>

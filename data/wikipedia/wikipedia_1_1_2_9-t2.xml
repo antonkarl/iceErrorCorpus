@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_9-t2.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Djúpkarfi</w>
@@ -9,8 +21,8 @@
   <c>(</c>
   <w>fræðiheiti</w>
   <c>:</c>
-  <w><i>Sebastes</i></w>
-  <w><i>mentella</i></w>
+  <w><hi>Sebastes</hi></w>
+  <w><hi>mentella</hi></w>
   <c>)</c>
   <w>er</w>
   <w>karfategund</w>
@@ -567,8 +579,8 @@
   <w>til</w>
   <w>sömu</w>
   <w>tegundarinnar</w>
-  <w><i>Sebastes</i></w>
-  <w><i>mentella</i></w>
+  <w><hi>Sebastes</hi></w>
+  <w><hi>mentella</hi></w>
   <revision id="20">
     <original><w>semsagt</w></original>
     <corrected><c>,</c><w>sem</w><w>sagt</w></corrected>

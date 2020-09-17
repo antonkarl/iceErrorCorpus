@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader/>
+<text><body><p n="1">
+<s n="1">
+  <w>Ewan</w>
+  <w>McGregor</w>
+  <c>,</c>
+  <w>Cameron</w>
+  <w>Diaz</w>
+  <w>og</w>
+  <w>Holly</w>
+  <w>Hunter</w>
+  <w>fara</w>
+  <w>með</w>
+  <w>aðalhlutverk</w>
+  <w>í</w>
+  <w>myndinni</w>
+  <w>sem</w>
+  <w>fjallar</w>
+  <w>um</w>
+  <revision id="1">
+    <original><w>skúringarmann</w></original>
+    <corrected><w>ræstitækni</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>rænir</w>
+  <w>dóttur</w>
+  <w>yfirmanns</w>
+  <w>síns</w>
+  <revision id="2">
+    <original/>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0"/>
+      </errors>
+  </revision>
+  <w>eftir</w>
+  <revision id="3">
+    <original/>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="missing-conjunction" eid="0"/>
+      </errors>
+  </revision>
+  <w>hann</w>
+  <w>er</w>
+  <w>rekinn</w>
+  <w>og</w>
+  <w>milli</w>
+  <w>þeirra</w>
+  <w>myndast</w>
+  <w>ást</w>
+  <c>.</c>
+</s><s n="2">
+  <revision id="4">
+    <original><w>A</w><w>Life</w><w>Less</w><w>Ordinary</w></original>
+    <corrected><w><i>A</i></w><w><i>Life</i></w><w><i>Less</i></w><w><i>Ordinary</i></w></corrected>
+      <errors>
+        <error xtype="nonit4it" eid="0"/>
+      </errors>
+  </revision>
+  <w>er</w>
+  <w>bresk</w>
+  <w>gamanmynd</w>
+  <w>frá</w>
+  <w>árinu 1997</w>
+  <w>sem</w>
+  <w>Danny</w>
+  <w>Boyle</w>
+  <w>leikstýrði</w>
+  <w>og</w>
+  <w>John</w>
+  <w>Hughes</w>
+  <w>skrifaði</w>
+  <c>.</c>
+</s></p></body></text>
+</TEI>

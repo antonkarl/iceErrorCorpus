@@ -1,15 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_2-t2.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
-  <w><i>Aulinn</i></w>
-  <w><i>ég</i></w>
+  <w><hi>Aulinn</hi></w>
+  <w><hi>ég</hi></w>
   <c>(</c>
   <w>enska</w>
   <c>:</c>
-  <w><i>Despicable</i></w>
-  <w><i>Me</i></w>
+  <w><hi>Despicable</hi></w>
+  <w><hi>Me</hi></w>
   <w>er</w>
   <w>bandarísk</w>
   <w>tölvuteiknuð</w>
@@ -34,7 +46,7 @@
   <c>:</c>
   <revision id="4">
     <original><w>Aulinn</w><w>ég</w><w>2</w></original>
-    <corrected><w><i>Aulinn</i></w><w><i>ég</i></w><w><i>2</i></w></corrected>
+    <corrected><w><hi>Aulinn</hi></w><w><hi>ég</hi></w><w><hi>2</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -42,7 +54,7 @@
   <c>,</c>
   <revision id="5">
     <original><w>Aulinn</w><w>ég</w><w>3</w></original>
-    <corrected><w><i>Aulinn</i></w><w><i>ég</i></w><w><i>3</i></w></corrected>
+    <corrected><w><hi>Aulinn</hi></w><w><hi>ég</hi></w><w><hi>3</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -50,7 +62,7 @@
   <w>og</w>
   <revision id="6">
     <original><w>Minions</w></original>
-    <corrected><w><i>Minions</i></w></corrected>
+    <corrected><w><hi>Minions</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>

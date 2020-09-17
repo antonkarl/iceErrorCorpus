@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_9-t7.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Hvarmabólga</w>
   <c>(</c>
   <w>fræðiheiti</w>
   <c>:</c>
-  <w><i>blepharitis</i></w>
+  <w><hi>blepharitis</hi></w>
   <c>)</c>
   <w>er</w>
   <w>augnsjúkdómur</w>
@@ -182,7 +194,7 @@
         <error xtype="missing-colon" eid="0" />
       </errors>
   </revision>
-  <w><i>chalazion</i></w>
+  <w><hi>chalazion</hi></w>
   <c>)</c>
   <w>en</w>
   <w>í</w>
@@ -202,7 +214,7 @@
         <error xtype="missing-colon" eid="0" />
       </errors>
   </revision>
-  <w><i>stye</i></w>
+  <w><hi>stye</hi></w>
   <c>)</c>
   <c>.</c>
 </s>
@@ -251,7 +263,7 @@
   <w>meðal</w>
   <w>er</w>
   <w>lyfið</w>
-  <w><i>Roaccutane</i></w>
+  <w><hi>Roaccutane</hi></w>
   <c>.</c>
 </s>
 <s n="12">
@@ -269,8 +281,8 @@
   <w>og</w>
   <w>flösuexem</w>
   <c>(</c>
-  <w><i>seborrhois</i></w>
-  <w><i>dermatitis</i></w>
+  <w><hi>seborrhois</hi></w>
+  <w><hi>dermatitis</hi></w>
   <c>)</c>
   <w>og</w>
   <revision id="5">
@@ -283,7 +295,7 @@
       </errors>
   </revision>
   <c>(</c>
-  <w><i>rosacea</i></w>
+  <w><hi>rosacea</hi></w>
   <c>)</c>
   <c>.</c>
 </s>

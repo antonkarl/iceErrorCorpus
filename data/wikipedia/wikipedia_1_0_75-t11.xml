@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_75-t11.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Skák</w>
@@ -14,7 +26,7 @@
   <w>leikmenn</w>
   <c>(</c>
   <revision id="1">
-    <original><w><i>skákmenn</i></w></original>
+    <original><w><hi>skákmenn</hi></w></original>
     <corrected><w>skákmenn</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -25,7 +37,7 @@
   <w>með</w>
   <w>32</w>
   <revision id="2">
-    <original><w><i>taflmönnum</i></w></original>
+    <original><w><hi>taflmönnum</hi></w></original>
     <corrected><w>taflmönnum</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -33,7 +45,7 @@
   </revision>
   <w>á</w>
   <revision id="3">
-    <original><w><i>taflborði</i></w></original>
+    <original><w><hi>taflborði</hi></w></original>
     <corrected><w>taflborði</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -87,7 +99,7 @@
   <w>tefla</w>
   <w>kallast</w>
   <revision id="8">
-    <original><w><i>skákmenn</i></w></original>
+    <original><w><hi>skákmenn</hi></w></original>
     <corrected><w>skákmenn</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -103,7 +115,7 @@
   <w>í</w>
   <w>viðurkenndum</w>
   <revision id="9">
-    <original><w><i>skákmótum</i></w></original>
+    <original><w><hi>skákmótum</hi></w></original>
     <corrected><w>skákmótum</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -112,13 +124,13 @@
   <w>geta</w>
   <w>hlotið</w>
   <w>titlana</w>
-  <w><i>FIDE-meistari</i></w>
+  <w><hi>FIDE-meistari</hi></w>
   <c>(</c>
   <w>FM</w>
   <c>,</c>
   <revision id="10">
     <original><w>fide</w><w>master</w></original>
-    <corrected><w><i>fide</i></w><w><i>master</i></w></corrected>
+    <corrected><w><hi>fide</hi></w><w><hi>master</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -132,20 +144,20 @@
   <c>,</c>
   <revision id="11">
     <original><w>international</w><w>master</w></original>
-    <corrected><w><i>international</i></w><w><i>master</i></w></corrected>
+    <corrected><w><hi>international</hi></w><w><hi>master</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
   </revision>
   <c>)</c>
   <w>og</w>
-  <w><i>stórmeistari</i></w>
+  <w><hi>stórmeistari</hi></w>
   <c>(</c>
   <w>GM</w>
   <c>,</c>
   <revision id="12">
     <original><w>grand</w><w>master</w></original>
-    <corrected><w><i>grand</i></w><w><i>master</i></w></corrected>
+    <corrected><w><hi>grand</hi></w><w><hi>master</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -501,7 +513,7 @@
   <w>Við</w>
   <revision id="25">
     <original><w>hrókeringu</w></original>
-    <corrected><w><i>hrókeringu</i></w></corrected>
+    <corrected><w><hi>hrókeringu</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -653,7 +665,7 @@
   <w>hrókurinn</w>
   <revision id="33">
     <original><w>rook</w></original>
-    <corrected><w><i>rook</i></w></corrected>
+    <corrected><w><hi>rook</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1090,7 +1102,7 @@
   <c>(</c>
   <revision id="45">
     <original><w>e.</w><c>,</c><w>fr.</w><w>en</w><w>Passant</w></original>
-    <corrected><w>fr</w><c>.</c><w><i>en</i></w><w><i>Passant</i></w></corrected>
+    <corrected><w>fr</w><c>.</c><w><hi>en</hi></w><w><hi>Passant</hi></w></corrected>
       <errors>
         <error xtype="wording" eid="0" />
       </errors>
@@ -1272,7 +1284,7 @@
 </s>
 <s n="37">
   <revision id="50">
-    <original><w><i>Ef</i></w><w>að</w><w><i>hrókurinn</i></w><w><i>er</i></w><w><i>færður</i></w><w><i>fyrstur</i></w><w><i>er</i></w><w><i>hrókunin</i></w><w><i>ógild</i></w></original>
+    <original><w><hi>Ef</hi></w><w>að</w><w><hi>hrókurinn</hi></w><w><hi>er</hi></w><w><hi>færður</hi></w><w><hi>fyrstur</hi></w><w><hi>er</hi></w><w><hi>hrókunin</hi></w><w><hi>ógild</hi></w></original>
     <corrected><w>Ef</w><w>hrókurinn</w><w>er</w><w>færður</w><w>fyrstur</w><w>er</w><w>hrókunin</w><w>ógild</w></corrected>
       <errors>
         <error xtype="wording" eid="0" />
@@ -1280,7 +1292,7 @@
   </revision>
   <c>,</c>
   <revision id="51">
-    <original><w><i>hann</i></w><w><i>talinn</i></w><w><i>hafa</i></w><w><i>fært</i></w><w><i>sig</i></w><w><i>og</i></w><w><i>ekki</i></w><w><i>er</i></w><w><i>hægt</i></w><w><i>að</i></w><w><i>draga</i></w><w><i>hreyfinguna</i></w><w><i>til</i></w><w><i>baka</i></w></original>
+    <original><w><hi>hann</hi></w><w><hi>talinn</hi></w><w><hi>hafa</hi></w><w><hi>fært</hi></w><w><hi>sig</hi></w><w><hi>og</hi></w><w><hi>ekki</hi></w><w><hi>er</hi></w><w><hi>hægt</hi></w><w><hi>að</hi></w><w><hi>draga</hi></w><w><hi>hreyfinguna</hi></w><w><hi>til</hi></w><w><hi>baka</hi></w></original>
     <corrected><w>hrókurinn</w><w>er</w><w>þá</w><w>talinn</w><w>hafa</w><w>fært</w><w>sig</w><w>og</w><w>ekki</w><w>er</w><w>hægt</w><w>að</w><w>draga</w><w>hreyfinguna</w><w>til</w><w>baka</w></corrected>
       <errors>
         <error xtype="wording" eid="0" />
@@ -1683,9 +1695,9 @@
   <c>.</c>
 </s>
 <s n="52">
-  <w><i>Þriggja</i></w>
-  <w><i>leika</i></w>
-  <w><i>reglan</i></w>
+  <w><hi>Þriggja</hi></w>
+  <w><hi>leika</hi></w>
+  <w><hi>reglan</hi></w>
   <w>segir</w>
   <w>að</w>
   <w>skákin</w>

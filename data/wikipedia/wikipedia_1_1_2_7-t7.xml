@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_7-t7.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Guðbergur</w>
@@ -29,11 +41,11 @@
         <error xtype="extra-comma" eid="0" />
       </errors>
   </revision>
-  <w><i>Tómas</i></w>
+  <w><hi>Tómas</hi></w>
   <w>ZJónsson</w>
   <c>,</c>
-  <w><i></i></w>
-  <w><i>metsölubók</i></w>
+  <w><hi></hi></w>
+  <w><hi>metsölubók</hi></w>
   <c>,</c>
   <w>sem</w>
   <w>kom</w>
@@ -206,7 +218,7 @@
   <w>vikublaðinu</w>
   <revision id="3">
     <original><w>Helgarpóstinum</w></original>
-    <corrected><w><i>Helgarpóstinum</i></w></corrected>
+    <corrected><w><hi>Helgarpóstinum</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -218,11 +230,11 @@
   <w>kom</w>
   <w>út</w>
   <w>bókin</w>
-  <w><i>Guðbergur</i></w>
+  <w><hi>Guðbergur</hi></w>
   <w>ZBergsson</w>
   <c>;</c>
-  <w><i></i></w>
-  <w><i>metsölubók</i></w>
+  <w><hi></hi></w>
+  <w><hi>metsölubók</hi></w>
   <w>sem</w>
   <w>er</w>
   <w>eins</w>
@@ -237,20 +249,20 @@
   <w>jafnframt</w>
   <w>tilvísun</w>
   <w>í</w>
-  <w><i>Tómas</i></w>
+  <w><hi>Tómas</hi></w>
   <w>ZJónsson</w>
   <c>,</c>
-  <w><i></i></w>
-  <w><i>metsölubók</i></w>
+  <w><hi></hi></w>
+  <w><hi>metsölubók</hi></w>
   <c>.</c>
 </s>
 <s n="11">
-  <w><i>Faðir</i></w>
-  <w><i>og</i></w>
-  <w><i>móðir</i></w>
-  <w><i>og</i></w>
-  <w><i>dulmagn</i></w>
-  <w><i>bernskunnar</i></w>
+  <w><hi>Faðir</hi></w>
+  <w><hi>og</hi></w>
+  <w><hi>móðir</hi></w>
+  <w><hi>og</hi></w>
+  <w><hi>dulmagn</hi></w>
+  <w><hi>bernskunnar</hi></w>
   <c>,</c>
   <w>sem</w>
   <w>kom</w>
@@ -280,7 +292,7 @@
   <w>skáldsöguna</w>
   <revision id="5">
     <original><w>Svaninn</w></original>
-    <corrected><w><i>Svanurinn</i></w></corrected>
+    <corrected><w><hi>Svanurinn</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -291,7 +303,7 @@
   <w>skáldævisöguna</w>
   <revision id="6">
     <original><w>Faðir</w><w>og</w><w>móðir</w><w>og</w><w>dulmagn</w><w>bernskunnar</w></original>
-    <corrected><w><i>Faðir</i></w><w><i>og</i></w><w><i>móðir</i></w><w><i>og</i></w><w><i>dulmagn</i></w><w><i>bernskunnar</i></w></corrected>
+    <corrected><w><hi>Faðir</hi></w><w><hi>og</hi></w><w><hi>móðir</hi></w><w><hi>og</hi></w><w><hi>dulmagn</hi></w><w><hi>bernskunnar</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -346,19 +358,19 @@
   <w>Tanga-bókum</w>
   <w>Guðbergs</w>
   <c>,</c>
-  <w><i>Það</i></w>
-  <w><i>sefur</i></w>
-  <w><i>í</i></w>
-  <w><i>djúpinu</i></w>
+  <w><hi>Það</hi></w>
+  <w><hi>sefur</hi></w>
+  <w><hi>í</hi></w>
+  <w><hi>djúpinu</hi></w>
   <c>,</c>
-  <w><i>Hermann</i></w>
-  <w><i>og</i></w>
-  <w><i>Dídí</i></w>
+  <w><hi>Hermann</hi></w>
+  <w><hi>og</hi></w>
+  <w><hi>Dídí</hi></w>
   <w>og</w>
-  <w><i>Það</i></w>
-  <w><i>rís</i></w>
-  <w><i>úr</i></w>
-  <w><i>djúpinu</i></w>
+  <w><hi>Það</hi></w>
+  <w><hi>rís</hi></w>
+  <w><hi>úr</hi></w>
+  <w><hi>djúpinu</hi></w>
   <c>.</c>
 </s>
 <s n="16">
@@ -384,7 +396,7 @@
   <w>nefndist</w>
   <revision id="9">
     <original><w>Sannar</w><w>sögur</w><w>af</w><w>sálarlífi</w><w>systra</w></original>
-    <corrected><w><i>Sannar</i></w><w><i>sögur</i></w><w><i>af</i></w><w><i>sálarlífi</i></w><w><i>systra</i></w></corrected>
+    <corrected><w><hi>Sannar</hi></w><w><hi>sögur</hi></w><w><hi>af</hi></w><w><hi>sálarlífi</hi></w><w><hi>systra</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>

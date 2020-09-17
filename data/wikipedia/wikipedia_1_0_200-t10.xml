@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_200-t10.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Í</w>
@@ -73,8 +85,8 @@
   <w>Lýðveldið</w>
   <w>Hvíta-Rússland</w>
   <c>,</c>
-  <w><i>Respublika</i></w>
-  <w><i>Bielarus</i></w>
+  <w><hi>Respublika</hi></w>
+  <w><hi>Bielarus</hi></w>
   <c>,</c>
   <revision id="1">
     <original><w>hvítrússneska</w><c>:</c></original>
@@ -84,9 +96,9 @@
         <error xtype="wording" idx="1-2" eid="0"/>
       </errors>
   </revision>
-  <w><i>Беларýсь</i></w>
+  <w><hi>Беларýсь</hi></w>
   <c>,</c>
-  <w><i>Biełaruś</i></w>
+  <w><hi>Biełaruś</hi></w>
   <revision id="2">
     <original><c>;</c><w>rússneska</w><c>:</c></original>
     <corrected><w>og</w><w>á</w><w>rússnesku</w></corrected>
@@ -95,7 +107,7 @@
         <error xtype="wording" eid="0"/>
       </errors>
   </revision>
-  <w><i>Беларýсь</i></w>
+  <w><hi>Беларýсь</hi></w>
   <revision id="3">
     <original><c>-áður</c><c>:</c></original>
     <corrected><c>,</c><w>áður</w></corrected>
@@ -105,7 +117,7 @@
         <error xtype="extra-colon" idx="1-1" eid="0"/>
       </errors>
   </revision>
-  <w><i>Белорýссия</i></w>
+  <w><hi>Белорýссия</hi></w>
   <revision id="4">
     <original><c>)</c><w>er</w><w>landlukt</w><w>ríki</w><w>í</w><w>Austur-Evrópu</w></original>
     <corrected/>

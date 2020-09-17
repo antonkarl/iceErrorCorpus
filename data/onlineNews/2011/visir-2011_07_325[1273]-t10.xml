@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>visir-2011_07_325[1273]-t10.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Tónlist</w>
@@ -200,7 +212,7 @@
   <w>og</w>
   <revision id="4">
     <original><w>Að</w><w>takmörkuðu</w><w>leyti</w></original>
-    <corrected><w><i>Að</i></w><w><i>takmörkuðu</i></w><w><i>leyti</i></w></corrected>
+    <corrected><w><hi>Að</hi></w><w><hi>takmörkuðu</hi></w><w><hi>leyti</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -208,7 +220,7 @@
   <w>og</w>
   <revision id="5">
     <original><w>Myrkir</w><w>dagar</w></original>
-    <corrected><w><i>Myrkir</i></w><w><i>dagar</i></w></corrected>
+    <corrected><w><hi>Myrkir</hi></w><w><hi>dagar</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -322,7 +334,7 @@
   <w>í</w>
   <revision id="7">
     <original><w>Vor</w><w>í</w><w>Vaglaskógi</w></original>
-    <corrected><w><i>Vor</i></w><w><i>í</i></w><w><i>Vaglaskógi</i></w></corrected>
+    <corrected><w><hi>Vor</hi></w><w><hi>í</hi></w><w><hi>Vaglaskógi</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>

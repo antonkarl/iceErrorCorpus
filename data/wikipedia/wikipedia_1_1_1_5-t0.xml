@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_5-t0.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Þó</w>
@@ -69,7 +81,7 @@
   </revision>
   <w>að</w>
   <revision id="4">
-    <original><w>kennslu</w><w>á</w><w><i>sköpunarkenningunni</i></w></original>
+    <original><w>kennslu</w><w>á</w><w><hi>sköpunarkenningunni</hi></w></original>
     <corrected><w>kenna</w><w>sköpunarkenningu</w><w>Biblíunnar</w></corrected>
       <errors>
         <error xtype="wording" idx="26-1" eid="0"/>
@@ -142,8 +154,8 @@
   <w>öfga-íhaldstefnu</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>Extreme</i></w>
-  <w><i>Conservatism</i></w>
+  <w><hi>Extreme</hi></w>
+  <w><hi>Conservatism</hi></w>
   <c>)</c>
   <c>,</c>
   <w>þótt</w>
@@ -157,8 +169,8 @@
   <w>íhaldsstefnu</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>Social</i></w>
-  <w><i>Conservatism</i></w>
+  <w><hi>Social</hi></w>
+  <w><hi>Conservatism</hi></w>
   <c>)</c>
   <w>þar</w>
   <w>sem</w>
@@ -201,7 +213,7 @@
 </s><s n="8">
   <revision id="8">
     <original><w>CWA</w></original>
-    <corrected><w><i>CWA</i></w></corrected>
+    <corrected><w><hi>CWA</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -209,9 +221,9 @@
   <w>vinnur</w>
   <w>með</w>
   <w>samtökunum</w>
-  <w><i>Morality</i></w>
-  <w><i>in</i></w>
-  <w><i>Media</i></w>
+  <w><hi>Morality</hi></w>
+  <w><hi>in</hi></w>
+  <w><hi>Media</hi></w>
   <w>við</w>
   <w>að</w>
   <w>vekja</w>
@@ -279,8 +291,8 @@
   <w>það</w>
   <w>nefnir</w>
   <revision id="13">
-    <original><w><i>kristnum</i></w><w><i>fjölskyldugildum</i></w></original>
-    <corrected><w><i>kristin</i></w><w><i>fjölskyldugildi</i></w></corrected>
+    <original><w><hi>kristnum</hi></w><w><hi>fjölskyldugildum</hi></w></original>
+    <corrected><w><hi>kristin</hi></w><w><hi>fjölskyldugildi</hi></w></corrected>
       <errors>
         <error xtype="dep" depId="17-1" eid="0"/>
         <error xtype="nominal-inflection" idx="17-1" eid="0"/>
@@ -352,8 +364,8 @@
         <error xtype="wording" eid="0"/>
       </errors>
   </revision>
-  <w><i>kristnum</i></w>
-  <w><i>fjölskyldugildum</i></w>
+  <w><hi>kristnum</hi></w>
+  <w><hi>fjölskyldugildum</hi></w>
   <c>.</c>
 </s><s n="14">
   <w>Félagið</w>
@@ -608,10 +620,10 @@
   <w>sem</w>
   <w>félagið</w>
   <w>kallar</w>
-  <w><i>kristileg</i></w>
-  <w><i>gildi</i></w>
-  <w><i>að</i></w>
-  <w><i>leiðarljósi</i></w>
+  <w><hi>kristileg</hi></w>
+  <w><hi>gildi</hi></w>
+  <w><hi>að</hi></w>
+  <w><hi>leiðarljósi</hi></w>
   <revision id="31">
     <original><c>.</c><w>Einnig</w></original>
     <corrected><w>en</w><w>einnig</w></corrected>
@@ -684,7 +696,7 @@
 </s><s n="23">
   <revision id="33">
     <original><w>CWA</w></original>
-    <corrected><w><i>CWA</i></w></corrected>
+    <corrected><w><hi>CWA</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -750,7 +762,7 @@
 </s><s n="25">
   <revision id="36">
     <original><w>Concerned</w><w>Women</w><w>for</w><w>America</w></original>
-    <corrected><w><i>Concerned</i></w><w><i>Women</i></w><w><i>for</i></w><w><i>America</i></w></corrected>
+    <corrected><w><hi>Concerned</hi></w><w><hi>Women</hi></w><w><hi>for</hi></w><w><hi>America</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -759,7 +771,7 @@
   <w>skammstafað</w>
   <revision id="37">
     <original><w>CWA</w></original>
-    <corrected><w><i>CWA</i></w></corrected>
+    <corrected><w><hi>CWA</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -838,10 +850,10 @@
   <w>sem</w>
   <w>þau</w>
   <w>kalla</w>
-  <w><i>White</i></w>
-  <w><i>Ribbons</i></w>
-  <w><i>Against</i></w>
-  <w><i>Pornography</i></w>
+  <w><hi>White</hi></w>
+  <w><hi>Ribbons</hi></w>
+  <w><hi>Against</hi></w>
+  <w><hi>Pornography</hi></w>
   <w>sem</w>
   <w>hvetur</w>
   <w>fólk</w>
@@ -932,8 +944,8 @@
   </revision>
   <w>þeirra</w>
   <c>,</c>
-  <w><i>Family</i></w>
-  <w><i>Voice</i></w>
+  <w><hi>Family</hi></w>
+  <w><hi>Voice</hi></w>
   <c>,</c>
   <revision id="46">
     <original><w>áætlað</w><w>að</w><w>vera</w></original>
@@ -956,7 +968,7 @@
   <w>Félagar</w>
   <revision id="48">
     <original><w>CWF</w></original>
-    <corrected><w><i>CWF</i></w></corrected>
+    <corrected><w><hi>CWF</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -1022,10 +1034,10 @@
   <w>hagsmunagæslu</w>
   <w>árið 2011</w>
   <w>samkvæmt</w>
-  <w><i>Center</i></w>
-  <w><i>for</i></w>
-  <w><i>Responsive</i></w>
-  <w><i>Politics</i></w>
+  <w><hi>Center</hi></w>
+  <w><hi>for</hi></w>
+  <w><hi>Responsive</hi></w>
+  <w><hi>Politics</hi></w>
   <c>.</c>
 </s></p></body></text>
 </TEI>

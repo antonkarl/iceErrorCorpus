@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_500-t14.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Ewan</w>
@@ -58,7 +70,7 @@
 </s><s n="2">
   <revision id="4">
     <original><w>A</w><w>Life</w><w>Less</w><w>Ordinary</w></original>
-    <corrected><w><i>A</i></w><w><i>Life</i></w><w><i>Less</i></w><w><i>Ordinary</i></w></corrected>
+    <corrected><w><hi>A</hi></w><w><hi>Life</hi></w><w><hi>Less</hi></w><w><hi>Ordinary</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

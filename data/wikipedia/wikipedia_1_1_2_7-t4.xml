@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_7-t4.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Ríkisstjórn</w>
@@ -210,7 +222,7 @@
   <w>nota</w>
   <w>viðurnefnið</w>
   <revision id="2">
-    <original><w><i>Lekastjórnin</i></w></original>
+    <original><w><hi>Lekastjórnin</hi></w></original>
     <corrected><c>‚</c><w>Lekastjórnin</w><c>‘</c></corrected>
       <errors>
         <error xtype="missing-quots" idx="2-1" eid="0" />

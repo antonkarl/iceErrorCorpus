@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_11-t8.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Pétursfiskur</w>
   <c>(</c>
-  <w><i>eus</i></w>
-  <w><i>faber</i></w>
+  <w><hi>eus</hi></w>
+  <w><hi>faber</hi></w>
   <c>)</c>
   <c>,</c>
   <w>einnig</w>

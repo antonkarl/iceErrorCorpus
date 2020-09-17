@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_3-t1.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Þessar</w>
@@ -77,8 +89,8 @@
   <w><i/></w>
   <c>(</c>
   <w><i/></w>
-  <w><i>Cetengraulis</i></w>
-  <w><i>mysticetus</i></w>
+  <w><hi>Cetengraulis</hi></w>
+  <w><hi>mysticetus</hi></w>
   <w><i/></w>
   <c>)</c>
   <w><i/></w>
@@ -677,7 +689,7 @@
   <w>eru</w>
   <revision id="35">
     <original><w>svokölluð</w><w>lampara</w><w>nets</w></original>
-    <corrected><w>svokallaðar</w><w>skóflunótir</w><c>(</c><w>e.</w><w><i>lampara</i></w><w><i>nets</i></w><c>)</c></corrected>
+    <corrected><w>svokallaðar</w><w>skóflunótir</w><c>(</c><w>e.</w><w><hi>lampara</hi></w><w><hi>nets</hi></w><c>)</c></corrected>
       <errors>
         <error xtype="fw4ice" eid="0"/>
         <error xtype="missing-bracket" eid="0"/>

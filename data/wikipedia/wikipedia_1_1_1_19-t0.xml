@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_19-t0.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <revision id="1">
@@ -115,7 +127,7 @@
   <c>.</c>
 </s><s n="4">
   <revision id="10">
-    <original><w>Hljóðin</w><w>í</w><w><i>Goa</i></w><w><i>trance</i></w></original>
+    <original><w>Hljóðin</w><w>í</w><w><hi>Goa</hi></w><w><hi>trance</hi></w></original>
     <corrected><w>Hljóð</w><w>Goa-trans</w></corrected>
       <errors>
         <error xtype="wording" eid="0"/>
@@ -212,7 +224,7 @@
   <w>er</w>
   <revision id="16">
     <original><w>náskilið</w><w>Uplifting</w></original>
-    <corrected><w>náskylt</w><w><i>uplifting</i></w></corrected>
+    <corrected><w>náskylt</w><w><hi>uplifting</hi></w></corrected>
       <errors>
         <error xtype="nonword" eid="0"/>
         <error xtype="upper4lower-common" idx="40-1" eid="0"/>
@@ -227,7 +239,7 @@
   <w>við</w>
   <revision id="17">
     <original><w>Vocal</w><w>trance</w></original>
-    <corrected><c>„</c><w><i>vocal</i></w><c>“</c><w>trans</w></corrected>
+    <corrected><c>„</c><w><hi>vocal</hi></w><c>“</c><w>trans</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="41-1" eid="0"/>
         <error xtype="missing-quots" idx="41-1" eid="0"/>
@@ -362,7 +374,7 @@
 </s><s n="9">
   <revision id="30">
     <original><w>Pshycadelic</w><w>trance</w></original>
-    <corrected><c>„</c><w><i>Psychedelic</i></w><c>“</c><w>trans</w></corrected>
+    <corrected><c>„</c><w><hi>Psychedelic</hi></w><c>“</c><w>trans</w></corrected>
       <errors>
         <error xtype="letter-rep" idx="59-1" eid="0"/>
         <error xtype="foreign-error" idx="59-1" eid="0"/>
@@ -459,7 +471,7 @@
 </s><s n="10">
   <revision id="41">
     <original><w>Uplifting</w><w>trance</w></original>
-    <corrected><c>„</c><w><i>Uplifting</i></w><c>“</c><w>trans</w></corrected>
+    <corrected><c>„</c><w><hi>Uplifting</hi></w><c>“</c><w>trans</w></corrected>
       <errors>
         <error xtype="missing-quots" idx="24-1" eid="0"/>
         <error xtype="nonit4it" idx="24-1" eid="0"/>
@@ -524,7 +536,7 @@
   <w>og</w>
   <revision id="47">
     <original><w>á</w><w>tribal</w><w>trance</w></original>
-    <corrected><c>„</c><w><i>tribal</i></w><c>“</c><w>trans</w></corrected>
+    <corrected><c>„</c><w><hi>tribal</hi></w><c>“</c><w>trans</w></corrected>
       <errors>
         <error xtype="dep" depId="44-1" eid="0"/>
         <error xtype="missing-quots" idx="48-1" eid="0"/>
@@ -717,7 +729,7 @@
 </s><s n="17">
   <revision id="59">
     <original><w>Uplifting</w><w>trance</w></original>
-    <corrected><w><i>Uplifting</i></w><w>trans</w></corrected>
+    <corrected><w><hi>Uplifting</hi></w><w>trans</w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
         <error xtype="fw4ice" eid="0"/>
@@ -860,8 +872,8 @@
   <w>sem</w>
   <w>spila</w>
   <revision id="67">
-    <original><w><i>Uplifting</i></w><w><i>trance</i></w></original>
-    <corrected><w><i>uplifting</i></w><w>trans</w></corrected>
+    <original><w><hi>Uplifting</hi></w><w><hi>trance</hi></w></original>
+    <corrected><w><hi>uplifting</hi></w><w>trans</w></corrected>
       <errors>
         <error xtype="upper4lower-common" eid="0"/>
         <error xtype="it4nonit" idx="32-1" eid="0"/>

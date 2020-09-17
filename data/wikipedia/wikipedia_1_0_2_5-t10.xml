@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_5-t10.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Tölva</w>
@@ -125,11 +137,11 @@
   <w>er</w>
   <w>grunnstýringarkerfi</w>
   <w>eða</w>
-  <w><i>BIOS</i></w>
+  <w><hi>BIOS</hi></w>
   <c>(</c>
   <w>e.</w>
   <revision id="3">
-    <original><w><i>Basic</i></w><w><i>Input</i></w></original>
+    <original><w><hi>Basic</hi></w><w><hi>Input</hi></w></original>
     <corrected><w>Basic</w><w>Input</w></corrected>
       <errors>
         <error xtype="it4nonit" idx="17-1" eid="0"/>
@@ -137,7 +149,7 @@
   </revision>
   <c>/</c>
   <revision id="4">
-    <original><w><i>Output</i></w><w><i>System</i></w></original>
+    <original><w><hi>Output</hi></w><w><hi>System</hi></w></original>
     <corrected><w>Output</w><w>System</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -179,16 +191,16 @@
   <c>,</c>
   <w>eins</w>
   <w>og</w>
-  <w><i>rafreiknir</i></w>
+  <w><hi>rafreiknir</hi></w>
   <c>,</c>
-  <w><i>rafheili</i></w>
+  <w><hi>rafheili</hi></w>
   <c>,</c>
-  <w><i>rafeindareiknir</i></w>
+  <w><hi>rafeindareiknir</hi></w>
   <w>og</w>
   <w>einnig</w>
   <w>enska</w>
   <w>tökuorðið</w>
-  <w><i>computer</i></w>
+  <w><hi>computer</hi></w>
   <c>.</c>
 </s><s n="8">
   <w>Til</w>
@@ -209,7 +221,7 @@
   <c>(</c>
   <w>e.</w>
   <revision id="6">
-    <original><w><i>input</i></w><w><i>or</i></w><w><i>output-only</i></w></original>
+    <original><w><hi>input</hi></w><w><hi>or</hi></w><w><hi>output-only</hi></w></original>
     <corrected><w>input</w><w>or</w><w>output</w><w>only</w></corrected>
       <errors>
         <error xtype="it4nonit" idx="16-1" eid="0"/>
@@ -277,7 +289,7 @@
   <c>(</c>
   <w>e.</w>
   <revision id="8">
-    <original><w><i>Central</i></w><w><i>processing</i></w><w><i>unit</i></w></original>
+    <original><w><hi>Central</hi></w><w><hi>processing</hi></w><w><hi>unit</hi></w></original>
     <corrected><w>Central</w><w>processing</w><w>unit</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -319,7 +331,7 @@
   <w>hafði</w>
   <w>verið</w>
   <w>kölluð</w>
-  <w><i>Rafeindaheilinn</i></w>
+  <w><hi>Rafeindaheilinn</hi></w>
   <w>meðal</w>
   <w>margra</w>
   <w>innan</w>
@@ -378,7 +390,7 @@
   <w>upp</w>
   <w>á</w>
   <w>orðinu</w>
-  <w><i>hjarni</i></w>
+  <w><hi>hjarni</hi></w>
   <c>(</c>
   <revision id="11">
     <original><c>=</c></original>
@@ -499,7 +511,7 @@
   <c>(</c>
   <w>e.</w>
   <revision id="14">
-    <original><w><i>input-</i></w><w><i>and</i></w><w><i>outputdevices</i></w></original>
+    <original><w><hi>input-</hi></w><w><hi>and</hi></w><w><hi>outputdevices</hi></w></original>
     <corrected><w>input</w><w>and</w><w>output</w><w>devices</w></corrected>
       <errors>
         <error xtype="it4nonit" idx="13-1" eid="0"/>

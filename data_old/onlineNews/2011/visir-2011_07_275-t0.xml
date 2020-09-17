@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Mörg</w>
+  <w>hundruð</w>
+  <w>aðdáendur</w>
+  <w>Harry</w>
+  <w>Potter</w>
+  <w>og</w>
+  <w>félaga</w>
+  <w>hans</w>
+  <w>hafa</w>
+  <w>komið</w>
+  <w>sér</w>
+  <w>fyrir</w>
+  <w>á</w>
+  <w>Leicester</w>
+  <w>torgi</w>
+  <w>í</w>
+  <revision id="1">
+    <original><w>London</w><w>til</w><w>þess</w><w>að</w><w>eygja</w></original>
+    <corrected><w>Lundúnum</w><w>í</w></corrected>
+      <errors>
+        <error xtype="fw" eid="0" />
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>von</w>
+  <w>um</w>
+  <w>að</w>
+  <w>sjá</w>
+  <w>stjörnur</w>
+  <w>áttundu</w>
+  <w>og</w>
+  <w>síðustu</w>
+  <w>frumsýningarinnar</w>
+  <w>í</w>
+  <w>þessum</w>
+  <w>mikla</w>
+  <w>bálki</w>
+  <w>sem</w>
+  <w>rakað</w>
+  <w>hefur</w>
+  <w>inn</w>
+  <w>milljörðum</w>
+  <w>síðustu</w>
+  <w>tíu</w>
+  <w>árin</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Myndirnar</w>
+  <w>eru</w>
+  <w>ávallt</w>
+  <w>frumsýndar</w>
+  <w>í</w>
+  <w>London</w>
+  <w>enda</w>
+  <w>er</w>
+  <w>höfundur</w>
+  <w>bókanna</w>
+  <w>um</w>
+  <w>galdrastrákinn</w>
+  <w>frá</w>
+  <w>Bretlandi</w>
+  <revision id="2">
+    <original></original>
+    <corrected><w>Breti</w><w>eins</w></corrected>
+      <errors>
+        <error xtype="wording" idx="2-1" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>flestir</w>
+  <revision id="3">
+    <original><w>leikarana</w></original>
+    <corrected><w>leikaranna</w></corrected>
+      <errors>
+        <error xtype="n4nn" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <revision id="4">
+    <original><w>myndunumBretar</w></original>
+    <corrected><w>myndunum</w></corrected>
+      <errors>
+        <error xtype="dep" depId="2-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Mikið</w>
+  <w>verður</w>
+  <w>um</w>
+  <w>dýrðir</w>
+  <w>á</w>
+  <w>svæðinu</w>
+  <w>umhverfis</w>
+  <w>bíóið</w>
+  <w>og</w>
+  <w>hefur</w>
+  <w>heilli</w>
+  <w>götu</w>
+  <w>verið</w>
+  <w>breytt</w>
+  <w>í</w>
+  <w>stíl</w>
+  <w>við</w>
+  <w>undraheim</w>
+  <w>sögunnar</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

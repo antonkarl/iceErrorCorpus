@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_150-t10.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Alsír</w>
@@ -63,7 +75,7 @@
   <w>kemur</w>
   <w>úr</w>
   <w>arabísku</w>
-  <w><i>al-jazāir</i></w>
+  <w><hi>al-jazāir</hi></w>
   <w>sem</w>
   <w>merkir</w>
   <c>„</c>
@@ -326,7 +338,7 @@
   <w>fr.</w>
   <revision id="12">
     <original><w>le</w><w>front</w><w>des</w><w>forces</w><w>socialistes</w></original>
-    <corrected><w><i>le</i></w><w><i>front</i></w><w><i>des</i></w><w><i>forces</i></w><w><i>socialistes</i></w></corrected>
+    <corrected><w><hi>le</hi></w><w><hi>front</hi></w><w><hi>des</hi></w><w><hi>forces</hi></w><w><hi>socialistes</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -597,7 +609,7 @@
 <s n="20">
   <revision id="16">
     <original><w>Mouvement</w><w>Culturel</w><w>Berbère</w></original>
-    <corrected><w><i>Mouvement</i></w><w><i>Culturel</i></w><w><i>Berbère</i></w></corrected>
+    <corrected><w><hi>Mouvement</hi></w><w><hi>Culturel</hi></w><w><hi>Berbère</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -623,7 +635,7 @@
 <s n="21">
   <revision id="17">
     <original><w>Congrès</w><w>Mondial</w><w>Amazigh</w></original>
-    <corrected><w><i>Congrès</i></w><w><i>Mondial</i></w><w><i>Amazigh</i></w></corrected>
+    <corrected><w><hi>Congrès</hi></w><w><hi>Mondial</hi></w><w><hi>Amazigh</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -880,7 +892,7 @@
 <s n="28">
   <revision id="27">
     <original><w>Les</w><w>colons</w></original>
-    <corrected><w><i>Les</i></w><w><i>colons</i></w></corrected>
+    <corrected><w><hi>Les</hi></w><w><hi>colons</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>

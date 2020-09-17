@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Hátíð</w>
+  <w>togarajaxla</w>
+  <w>og</w>
+  <w>maka</w>
+  <w>þeirra</w>
+  <w>verður</w>
+  <w>haldin</w>
+  <w>á</w>
+  <w>Akureyri</w>
+  <w>fimmtánda</w>
+  <w>og</w>
+  <w>sextánda</w>
+  <w>júlí</w>
+  <w>næstkomandi</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Þar</w>
+  <w>munu</w>
+  <w>aldnar</w>
+  <w>sem</w>
+  <w>ungar</w>
+  <w>hetjur</w>
+  <w>hafsins</w>
+  <w>hittast</w>
+  <w>yfir</w>
+  <w>mat</w>
+  <w>og</w>
+  <w>drykk</w>
+  <w>í</w>
+  <w>Sjallanum</w>
+  <w>föstudaginn</w>
+  <w>15. júlí</w>
+  <w>og</w>
+  <w>hefst</w>
+  <w>borðhaldið</w>
+  <revision id="1">
+    <original><w>kl. 19.00</w></original>
+    <corrected><w>kl. 19:00</w></corrected>
+      <errors>
+        <error xtype="missing-period" idx="1-1" eid="0" />
+        <error xtype="period4colon" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Stuðmaðurinn</w>
+  <w>Valgeir</w>
+  <w>Guðjónsson</w>
+  <w>stýrir</w>
+  <w>hátíðinni</w>
+  <w>og</w>
+  <w>Ragnar</w>
+  <w>Bjarnson</w>
+  <w>syngur</w>
+  <w>sjómönnum</w>
+  <w>lof</w>
+  <w>og</w>
+  <w>dýrð</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Á</w>
+  <w>laugardeginum</w>
+  <w>mun</w>
+  <revision id="2">
+    <original><w>Sr.</w></original>
+    <corrected><w>sr.</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
+  <w>Hjálmar</w>
+  <w>Jónsson</w>
+  <w>lesa</w>
+  <revision id="3">
+    <original><w>Guðsorð</w></original>
+    <corrected><w>guðsorð</w><w>yfir</w><w>hausamótum</w><w>togarajaxlanna</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+        <error xtype="wording" idx="3-1" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>sinn</w>
+  <w>hátt</w>
+  <revision id="4">
+    <original><w>yfir</w><w>hausamótum</w><w>manna</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="3-1" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>Glerárkirkju</w>
+  <w>kl. 11:00</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Eftir</w>
+  <w>súpu</w>
+  <w>og</w>
+  <w>snarl</w>
+  <w>verður</w>
+  <w>haldið</w>
+  <w>sem</w>
+  <w>leið</w>
+  <w>liggur</w>
+  <w>til</w>
+  <w>Húsavíkur</w>
+  <w>á</w>
+  <revision id="5">
+    <original><w>Strandmenningarhátíðina</w></original>
+    <corrected><w>strandmenningarhátíðina</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
+  <w>Sail</w>
+  <w>Húsavík</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Verkalýðsfélagið</w>
+  <w>Framsýn</w>
+  <w>ætlar</w>
+  <w>að</w>
+  <w>bjóða</w>
+  <w>upp</w>
+  <w>á</w>
+  <w>kaffi</w>
+  <w>og</w>
+  <revision id="6">
+    <original><w>meððí</w></original>
+    <corrected><w>með'í</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>Á</w>
+  <w>hátíðinni</w>
+  <w>verður</w>
+  <w>sýndur</w>
+  <w>mynddiskur</w>
+  <w>frá</w>
+  <w>hátíðinni</w>
+  <w>í</w>
+  <w>fyrra</w>
+  <w>og</w>
+  <w>ýmsu</w>
+  <w>sem</w>
+  <w>sjónum</w>
+  <w>tengist</w>
+  <c>.</c>
+</s>
+<s n="8">
+  <w>Hann</w>
+  <w>verður</w>
+  <revision id="7">
+    <original><w>svo</w><w>seldur</w></original>
+    <corrected><w>til</w><w>sölu</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>ágóðinn</w>
+  <w>rennur</w>
+  <w>til</w>
+  <w>þeirra</w>
+  <w>sem</w>
+  <w>gera</w>
+  <w>út</w>
+  <w>eikarbátinn</w>
+  <w>Húna</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

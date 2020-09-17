@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_150-t18.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="0">
   <revision id="1">
-    <original><w>Sahel</w><c>(</c><w>úr</w><w>arabísku</w><w>ساحل</w><w><i>sahil</i></w><c>„</c><w>strönd</w><c>“</c><w>eða</w><c>„</c><w>jaðar</w><c>“</c><c>)</c></original>
+    <original><w>Sahel</w><c>(</c><w>úr</w><w>arabísku</w><w>ساحل</w><w><hi>sahil</hi></w><c>„</c><w>strönd</w><c>“</c><w>eða</w><c>„</c><w>jaðar</w><c>“</c><c>)</c></original>
     <corrected><w>Sahel</w></corrected>
       <errors>
         <error xtype="wording" idx="1-1" eid="0" />
@@ -32,7 +44,7 @@
 <s n="1">
   <revision id="2">
     <original></original>
-    <corrected><w>Nafnið</w><w>Sahel</w><w>kemur</w><w>úr</w><w>arabíska</w><w>orðinu</w><w>ساحل</w><w><i>sahil</i></w><w>sem</w><w>merkir</w><c>„</c><w>strönd</w><c>“</c><w>eða</w><c>„</c><w>jaðar</w><c>“</c><c>.</c></corrected>
+    <corrected><w>Nafnið</w><w>Sahel</w><w>kemur</w><w>úr</w><w>arabíska</w><w>orðinu</w><w>ساحل</w><w><hi>sahil</hi></w><w>sem</w><w>merkir</w><c>„</c><w>strönd</w><c>“</c><w>eða</w><c>„</c><w>jaðar</w><c>“</c><c>.</c></corrected>
       <errors>
         <error xtype="dep" depId="1-1" eid="0" />
       </errors>
@@ -362,7 +374,7 @@
         <error xtype="missing-word" eid="0" />
       </errors>
   </revision>
-  <w><i>desertification</i></w>
+  <w><hi>desertification</hi></w>
   <revision id="18">
     <original><c>)</c></original>
     <corrected><c>,</c></corrected>

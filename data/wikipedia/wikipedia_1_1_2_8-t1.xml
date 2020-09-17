@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_8-t1.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Pungrækjur</w>
@@ -14,8 +26,8 @@
   </revision>
   <c>:</c>
   <revision id="2">
-    <original><w><i>cumacea</i></w></original>
-    <corrected><w><i>Cumacea</i></w></corrected>
+    <original><w><hi>cumacea</hi></w></original>
+    <corrected><w><hi>Cumacea</hi></w></corrected>
       <errors>
         <error xtype="lower4upper-proper" eid="0" />
       </errors>
@@ -159,7 +171,7 @@
   <w>svokölluðu</w>
   <revision id="4">
     <original><w>manca</w><w>stigi</w></original>
-    <corrected><w><i>manca</i></w><c>-stigi</c></corrected>
+    <corrected><w><hi>manca</hi></w><c>-stigi</c></corrected>
       <errors>
         <error xtype="nonit4it" idx="4-1" eid="0" />
         <error xtype="missing-dash" idx="4-2" eid="0" />
@@ -174,7 +186,7 @@
   <w>á</w>
   <revision id="5">
     <original><w>manca</w><w>stigi</w></original>
-    <corrected><w><i>manca</i></w><c>-stigi</c></corrected>
+    <corrected><w><hi>manca</hi></w><c>-stigi</c></corrected>
       <errors>
         <error xtype="nonit4it" idx="5-1" eid="0" />
         <error xtype="missing-dash" idx="5-2" eid="0" />

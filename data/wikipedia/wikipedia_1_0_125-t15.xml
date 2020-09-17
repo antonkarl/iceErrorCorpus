@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_125-t15.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Québec</w>
@@ -48,7 +60,7 @@
   <w>og</w>
   <w>þýðir</w>
   <revision id="4">
-    <original><w><i>þar</i></w><w><i>sem</i></w><w><i>áin</i></w><w><i>þrengist</i></w></original>
+    <original><w><hi>þar</hi></w><w><hi>sem</hi></w><w><hi>áin</hi></w><w><hi>þrengist</hi></w></original>
     <corrected><c>„</c><w>þar</w><w>sem</w><w>áin</w><w>þrengist</w><c>“</c></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -911,7 +923,7 @@
   <w>stjórn</w>
   <w>og</w>
   <revision id="51">
-    <original><w><i>Þögla</i></w><w><i>byltingin</i></w></original>
+    <original><w><hi>Þögla</hi></w><w><hi>byltingin</hi></w></original>
     <corrected><c>„</c><w>Þögla</w><w>byltingin</w><c>“</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="51-1" eid="0" />
@@ -948,7 +960,7 @@
   <w>hreyfingin</w>
   <revision id="53">
     <original><w>Front</w><w>de</w><w>libération</w><w>du</w><w>Québec</w></original>
-    <corrected><w><i>Front</i></w><w><i>de</i></w><w><i>ibération</i></w><w><i>du</i></w><w><i>Québec</i></w></corrected>
+    <corrected><w><hi>Front</hi></w><w><hi>de</hi></w><w><hi>ibération</hi></w><w><hi>du</hi></w><w><hi>Québec</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>

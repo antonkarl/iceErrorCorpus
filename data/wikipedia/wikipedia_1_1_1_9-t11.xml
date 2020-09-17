@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_9-t11.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Magnús</w>
@@ -305,7 +317,7 @@
   <w>var</w>
   <w>kallað</w>
   <revision id="1">
-    <original><w><i>Brohús</i></w></original>
+    <original><w><hi>Brohús</hi></w></original>
     <corrected><w>Brohús</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -399,7 +411,7 @@
   <w>hreppi</w>
   <c>,</c>
   <revision id="4">
-    <original><w><i>Selfosshreppi</i></w></original>
+    <original><w><hi>Selfosshreppi</hi></w></original>
     <corrected><w>Selfosshreppi</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -598,7 +610,7 @@
   <w>sem</w>
   <w>kallast</w>
   <revision id="6">
-    <original><w><i>Selfoss</i></w></original>
+    <original><w><hi>Selfoss</hi></w></original>
     <corrected><w>Selfoss</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>

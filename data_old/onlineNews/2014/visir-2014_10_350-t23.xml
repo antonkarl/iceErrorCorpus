@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>38</w>
+  <w>ára</w>
+  <w>karlmaður</w>
+  <w>frá</w>
+  <w>Írak</w>
+  <c>,</c>
+  <w>Adam</w>
+  <w>Ibrahim</w>
+  <w>Pasha</w>
+  <revision id="1">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>dvelur</w>
+  <w>á</w>
+  <w>Fit</w>
+  <w>Hostel</w>
+  <w>í</w>
+  <w>Reykjanesbæ</w>
+  <w>heldur</w>
+  <w>til</w>
+  <w>streitu</w>
+  <w>hungurverkfalli</w>
+  <w>sem</w>
+  <w>hann</w>
+  <w>hóf</w>
+  <revision id="2">
+    <original><w>á</w></original>
+    <corrected><w>síðastliðið</w></corrected>
+      <errors>
+        <error xtype="wording" idx="2-1" eid="0" />
+      </errors>
+  </revision>
+  <w>þriðjudagskvöldið</w>
+  <revision id="3">
+    <original><w>síðastliðinn</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="2-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Adam</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>er</w>
+  <w>gyðingur</w>
+  <c>,</c>
+  <w>sótti</w>
+  <w>um</w>
+  <w>hæli</w>
+  <w>á</w>
+  <w>Íslandi</w>
+  <w>í</w>
+  <w>sumar</w>
+  <w>en</w>
+  <w>umsókn</w>
+  <w>hans</w>
+  <w>fékk</w>
+  <w>ekki</w>
+  <w>efnislega</w>
+  <w>meðferð</w>
+  <w>hjá</w>
+  <w>útlendingastofnun</w>
+  <w>á</w>
+  <w>þeim</w>
+  <w>forsendum</w>
+  <w>að</w>
+  <w>Adam</w>
+  <w>hafi</w>
+  <w>komið</w>
+  <w>hingað</w>
+  <w>frá</w>
+  <w>Slóvakíu</w>
+  <w>þar</w>
+  <w>sem</w>
+  <w>honum</w>
+  <w>hefur</w>
+  <w>verið</w>
+  <w>veitt</w>
+  <w>hæli</w>
+  <w>og</w>
+  <w>þar</w>
+  <w>í</w>
+  <w>landi</w>
+  <w>sé</w>
+  <w>hann</w>
+  <w>öruggur</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Lögmaður</w>
+  <w>Adams</w>
+  <w>hefur</w>
+  <w>skilað</w>
+  <w>inn</w>
+  <w>gögnum</w>
+  <w>frá</w>
+  <w>honum</w>
+  <w>sem</w>
+  <w>hann</w>
+  <w>telur</w>
+  <w>sanna</w>
+  <w>að</w>
+  <w>hann</w>
+  <w>verði</w>
+  <w>fyrir</w>
+  <w>ofsóknum</w>
+  <w>öfgahópa</w>
+  <w>þar</w>
+  <w>í</w>
+  <w>landi</w>
+  <w>vegna</w>
+  <w>trúarbragða</w>
+  <w>sinna</w>
+  <w>og</w>
+  <w>njóti</w>
+  <w>ekki</w>
+  <w>verndar</w>
+  <w>lögreglu</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Adam</w>
+  <w>er</w>
+  <w>með</w>
+  <w>hreina</w>
+  <revision id="4">
+    <original><w>sakarskrá</w></original>
+    <corrected><w>sakaskrá</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="4-1" eid="0" />
+        <error xtype="compound-nonword" idx="4-1" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>giftur</w>
+  <w>ísraelskri</w>
+  <w>konu</w>
+  <w>en</w>
+  <w>í</w>
+  <w>Ísrael</w>
+  <w>fær</w>
+  <w>hann</w>
+  <w>ekki</w>
+  <w>dvalarleyfi</w>
+  <w>þar</w>
+  <w>sem</w>
+  <w>fjölskylda</w>
+  <w>hans</w>
+  <w>eru</w>
+  <w>ekki</w>
+  <w>gyðingar</w>
+  <revision id="5">
+    <original><w>líka</w></original>
+    <corrected><w>líkt</w></corrected>
+      <errors>
+        <error xtype="letter-rep" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>hann</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Búið</w>
+  <w>er</w>
+  <w>að</w>
+  <w>kæra</w>
+  <w>niðurstöðu</w>
+  <w>útlendingastofnunar</w>
+  <w>til</w>
+  <w>innanríkisráðuneytisins</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Fylgst</w>
+  <revision id="6">
+    <original></original>
+    <corrected><w>er</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>grannt</w>
+  <w>með</w>
+  <w>heilsu</w>
+  <w>Adams</w>
+  <w>að</w>
+  <w>sögn</w>
+  <w>lögmanns</w>
+  <w>hans</w>
+  <w>og</w>
+  <w>læknir</w>
+  <w>og</w>
+  <w>félagsþjónustan</w>
+  <w>í</w>
+  <w>Reykjanesbæ</w>
+  <w>sinna</w>
+  <w>honum</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

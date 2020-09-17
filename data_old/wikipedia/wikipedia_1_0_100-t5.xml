@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Loftþyngd</w>
+  <w>er</w>
+  <w>mælieining</w>
+  <w>fyrir</w>
+  <w>þrýsting</w>
+  <revision id="1">
+    <original><c>,</c></original>
+    <corrected><w>og</w><w>er</w></corrected>
+      <errors>
+        <error xtype="comma4conjunction" eid="0" />
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>táknuð</w>
+  <w>með</w>
+  <revision id="2">
+    <original></original>
+    <corrected><w>skammstöfuninni</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>atm</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Mælieiningin</w>
+  <revision id="3">
+    <original><w><i>loftþyngd</i></w></original>
+    <corrected><w>loftþyngd</w></corrected>
+      <errors>
+        <error xtype="it4nonit" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>uppruna</w>
+  <w>sinn</w>
+  <w>í</w>
+  <w>mælingum</w>
+  <w>á</w>
+  <w>loftþrýstingi</w>
+  <w>með</w>
+  <w>kvikasilfursloftvog</w>
+  <w>og</w>
+  <w>er</w>
+  <w>skilgreind</w>
+  <w>út</w>
+  <w>frá</w>
+  <revision id="4">
+    <original></original>
+    <corrected><w>þeim</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>staðalaðstæðum</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>sá</w>
+  <w>þrýstingur</w>
+  <w>sem</w>
+  <w>760 mm</w>
+  <w>lóðrétt</w>
+  <w>kvikasilfurssúla</w>
+  <w>veldur</w>
+  <w>á</w>
+  <w>undirlagið</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Breytingar</w>
+  <revision id="5">
+    <original><w>í</w></original>
+    <corrected><w>á</w></corrected>
+      <errors>
+        <error xtype="wrong-prep" eid="0" />
+      </errors>
+  </revision>
+  <w>loftþrýstingi</w>
+  <w>eru</w>
+  <w>mældar</w>
+  <revision id="6">
+    <original><w>í</w></original>
+    <corrected><w>með</w></corrected>
+      <errors>
+        <error xtype="wrong-prep" eid="0" />
+      </errors>
+  </revision>
+  <w>einingunni</w>
+  <revision id="7">
+    <original><w>millimetra</w></original>
+    <corrected><w>millimetri</w></corrected>
+      <errors>
+        <error xtype="unicelandic" eid="0" />
+      </errors>
+  </revision>
+  <w>kvikasilfurs</w>
+  <c>,</c>
+  <revision id="8">
+    <original></original>
+    <corrected><w>sem</w><w>er</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <w>táknaður</w>
+  <w>með</w>
+  <revision id="9">
+    <original><w><i>mmHg</i></w></original>
+    <corrected><w>skammstöfuninni</w><w>mmHg</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>en</w>
+  <w>sú</w>
+  <w>mælieining</w>
+  <w>hefur</w>
+  <w>síðar</w>
+  <w>hlotið</w>
+  <revision id="10">
+    <original><w>nafni</w></original>
+    <corrected><w>nafnið</w></corrected>
+      <errors>
+        <error xtype="ind4def" eid="0" />
+      </errors>
+  </revision>
+  <w><i>torr</i></w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Loftþyngd</w>
+  <w>er</w>
+  <w>ekki</w>
+  <w>SI-mælieining</w>
+  <c>,</c>
+  <w>en</w>
+  <w>ein</w>
+  <w>loftþyngd</w>
+  <w>jafngildir</w>
+  <w>101325</w>
+  <w>paskölum</w>
+  <c>,</c>
+  <revision id="11">
+    <original><w>þ.</w><w>e.</w></original>
+    <corrected><w>þ.e.</w></corrected>
+      <errors>
+        <error xtype="extra-space" idx="11-1" eid="0" />
+        <error xtype="abbreviation" idx="11-1" eid="0" />
+      </errors>
+  </revision>
+  <w>1</w>
+  <w>atm</w>
+  <c>=</c>
+  <w>760</w>
+  <w>torr</w>
+  <c>=</c>
+  <w>1013,25 hPa</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

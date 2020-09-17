@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Flugslóði</w>
+  <c>,</c>
+  <w>slóði</w>
+  <w>eða</w>
+  <w>flugvélarslóði</w>
+  <revision id="0">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>er</w>
+  <w>manngerður</w>
+  <w>slóði</w>
+  <w>úr</w>
+  <w>ískristöllum</w>
+  <w>og</w>
+  <w>vatnsdropum</w>
+  <revision id="1">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>myndast</w>
+  <w>hefur</w>
+  <w>úr</w>
+  <w>vatnsgufu</w>
+  <w>í</w>
+  <w>útblæstri</w>
+  <w>þotna</w>
+  <w>eða</w>
+  <w>vænghringiðum</w>
+  <w>hátt</w>
+  <w>í</w>
+  <w>andrúmsloftinu</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

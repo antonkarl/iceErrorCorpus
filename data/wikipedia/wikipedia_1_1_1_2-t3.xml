@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_2-t3.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Eftir</w>
@@ -201,7 +213,7 @@
   <w>en</w>
   <revision id="10">
     <original><c>"</c><w>Neslisti</w><w>Bæjarmálafélags</w><w>Seltjarnarness</w><c>"</c></original>
-    <corrected><w><i>Neslisti</i></w><w><i>Bæjarmálafélags</i></w><w><i>Seltjarnarness</i></w></corrected>
+    <corrected><w><hi>Neslisti</hi></w><w><hi>Bæjarmálafélags</hi></w><w><hi>Seltjarnarness</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="19-1" eid="0"/>
         <error xtype="nonit4it" idx="19-1" eid="0"/>

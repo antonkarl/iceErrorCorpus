@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_100-t16.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Gabon</w>
@@ -261,11 +273,11 @@
       </errors>
   </revision>
   <w>landið</w>
-  <w><i>Gabon</i></w>
+  <w><hi>Gabon</hi></w>
   <w>eftir</w>
   <w>orðinu</w>
   <revision id="12">
-    <original><w><i>gabao</i></w></original>
+    <original><w><hi>gabao</hi></w></original>
     <corrected><c>„</c><w>gabao</w><c>“</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="12-1" eid="0" />

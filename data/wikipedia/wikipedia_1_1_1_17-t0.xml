@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_17-t0.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Fleiri</w>
@@ -109,14 +121,14 @@
   <w>gamla</w>
   <w>germanska</w>
   <w>orðinu</w>
-  <w><i>liudik</i></w>
+  <w><hi>liudik</hi></w>
   <w>eða</w>
-  <w><i>liudiz</i></w>
+  <w><hi>liudiz</hi></w>
   <c>,</c>
   <w>sem</w>
   <w>merkir</w>
   <revision id="1">
-    <original><w><i>fólk</i></w></original>
+    <original><w><hi>fólk</hi></w></original>
     <corrected><c>‚</c><w>fólk</w><c>‘</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="8-1" eid="0"/>
@@ -125,15 +137,15 @@
   </revision>
   <c>,</c>
   <w>sbr.</w>
-  <w><i>Leute</i></w>
+  <w><hi>Leute</hi></w>
   <w>á</w>
   <w>þýsku</w>
   <c>,</c>
-  <w><i>leod</i></w>
+  <w><hi>leod</hi></w>
   <w>á</w>
   <w>fornensku</w>
   <w>og</w>
-  <w><i>lýður</i></w>
+  <w><hi>lýður</hi></w>
   <w>á</w>
   <w>íslensku</w>
   <c>.</c>
@@ -243,15 +255,15 @@
   <w>úr</w>
   <w>rómönsku</w>
   <w>breyttist</w>
-  <w><i>liudiz</i></w>
+  <w><hi>liudiz</hi></w>
   <w>í</w>
-  <w><i>Liège</i></w>
+  <w><hi>Liège</hi></w>
   <w>með</w>
   <w>tímanum</w>
   <c>(</c>
   <w>framburðurinn</w>
   <w>er</w>
-  <w><i>líes</i></w>
+  <w><hi>líes</hi></w>
   <c>)</c>
   <c>.</c>
 </s><s n="16">
@@ -393,8 +405,8 @@
   </revision>
   <w>lýðveldi</w>
   <c>(</c>
-  <w><i>République</i></w>
-  <w><i>liégeoise</i></w>
+  <w><hi>République</hi></w>
+  <w><hi>liégeoise</hi></w>
   <c>)</c>
   <c>.</c>
 </s><s n="26">
@@ -1172,7 +1184,7 @@
   <w>stórum</w>
   <w>stöfum</w>
   <revision id="16">
-    <original><c>.</c><w><i>LIE</i></w></original>
+    <original><c>.</c><w><hi>LIE</hi></w></original>
     <corrected><c>,</c><c>‚</c><w>LIE</w><c>‘</c></corrected>
       <errors>
         <error xtype="period4comma" eid="0"/>
@@ -1186,7 +1198,7 @@
   <w>súluna</w>
   <w>og</w>
   <revision id="17">
-    <original><w><i>GE</i></w></original>
+    <original><w><hi>GE</hi></w></original>
     <corrected><c>‚</c><w>GE</w><c>‘</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="5-1" eid="0"/>
@@ -1294,10 +1306,10 @@
   <w>Upphaflega</w>
   <w>hét</w>
   <w>bærinn</w>
-  <w><i>Leodicum</i></w>
+  <w><hi>Leodicum</hi></w>
   <w>eða</w>
-  <w><i>Vicus</i></w>
-  <w><i>Leodicus</i></w>
+  <w><hi>Vicus</hi></w>
+  <w><hi>Leodicus</hi></w>
   <w>á</w>
   <w>tímum</w>
   <w>Rómverja</w>
@@ -1705,10 +1717,10 @@
   <w>segja</w>
   <w>hins</w>
   <w>vegar</w>
-  <w><i>Luik</i></w>
+  <w><hi>Luik</hi></w>
   <w>og</w>
   <w>Þjóðverjar</w>
-  <w><i>Lüttich</i></w>
+  <w><hi>Lüttich</hi></w>
   <c>.</c>
 </s><s n="103">
   <w>Árið 985</w>
@@ -1760,22 +1772,22 @@
   <w>Liège</w>
   <c>(</c>
   <w>hollenska</w>
-  <w><i>Luik</i></w>
+  <w><hi>Luik</hi></w>
   <c>,</c>
   <w>vallónska</w>
-  <w><i>Lidje</i></w>
+  <w><hi>Lidje</hi></w>
   <c>,</c>
   <w>þýska</w>
-  <w><i>Lüttich</i></w>
+  <w><hi>Lüttich</hi></w>
   <c>,</c>
   <w>latína</w>
-  <w><i>Leodium</i></w>
+  <w><hi>Leodium</hi></w>
   <c>,</c>
   <w>limburgíska</w>
-  <w><i>Luuk</i></w>
+  <w><hi>Luuk</hi></w>
   <c>,</c>
   <w>lúxemborgíska</w>
-  <w><i>Léck</i></w>
+  <w><hi>Léck</hi></w>
   <c>)</c>
   <w>er</w>
   <w>höfuðborg</w>
@@ -1990,7 +2002,7 @@
   <w>aðeins</w>
   <w>bókstafirnir</w>
   <revision id="29">
-    <original><w><i>L</i></w></original>
+    <original><w><hi>L</hi></w></original>
     <corrected><c>‚</c><w>L</w><c>‘</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="6-1" eid="0"/>
@@ -1999,7 +2011,7 @@
   </revision>
   <w>og</w>
   <revision id="30">
-    <original><w><i>G</i></w></original>
+    <original><w><hi>G</hi></w></original>
     <corrected><c>‚</c><w>G</w><c>‘</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="7-1" eid="0"/>

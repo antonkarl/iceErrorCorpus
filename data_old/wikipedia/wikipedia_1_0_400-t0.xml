@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Ökupróf</w>
+  <w>er</w>
+  <w>próf</w>
+  <w>sem</w>
+  <w>notað</w>
+  <w>er</w>
+  <w>til</w>
+  <w>að</w>
+  <w>prófa</w>
+  <revision id="1">
+    <original><w>í</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wording" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>hæfni</w>
+  <revision id="2">
+    <original><w>einhvers</w></original>
+    <corrected><w>einstaklings</w><w>í</w></corrected>
+      <errors>
+        <error xtype="pro4noun" idx="2-1" eid="0" />
+        <error xtype="dep" depId="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>keyra</w>
+  <w>vélknúið</w>
+  <w>ökutæki</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Ökupróf</w>
+  <w>eru</w>
+  <w>ólík</w>
+  <revision id="3">
+    <original><w>í</w><w>mismunandi</w></original>
+    <corrected><w>eftir</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>löndum</w>
+  <w>en</w>
+  <revision id="4">
+    <original><w>oft</w></original>
+    <corrected><w>yfirleitt</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>þarf</w>
+  <revision id="5">
+    <original></original>
+    <corrected><w>viðkomandi</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>ná</w>
+  <w>prófinu</w>
+  <w>áður</w>
+  <w>en</w>
+  <revision id="6">
+    <original><w>manni</w></original>
+    <corrected><w>ökuskírteini</w></corrected>
+      <errors>
+        <error xtype="wording" idx="6-1" eid="0" />
+      </errors>
+  </revision>
+  <w>er</w>
+  <w>gefið</w>
+  <revision id="7">
+    <original><w>ökuskírteini</w></original>
+    <corrected><w>út</w></corrected>
+      <errors>
+        <error xtype="dep" depId="6-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Í</w>
+  <w>flestum</w>
+  <w>löndum</w>
+  <revision id="8">
+    <original><w>samstendur</w></original>
+    <corrected><w>samanstendur</w></corrected>
+      <errors>
+        <error xtype="missing-letters" idx="8-1" eid="0" />
+        <error xtype="compound-nonword" idx="8-1" eid="0" />
+      </errors>
+  </revision>
+  <w>ökupróf</w>
+  <w>af</w>
+  <w>tveimur</w>
+  <w>hlutum</w>
+  <revision id="9">
+    <original><c>:</c><w>bóklegt</w><w>próf</w></original>
+    <corrected><c>,</c><w>bóklegu</w><w>prófi</w></corrected>
+      <errors>
+        <error xtype="colon4comma" idx="9-1" eid="0" />
+        <error xtype="dep" depId="9-2" eid="0" />
+        <error xtype="nominal-inflection" idx="9-2" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <revision id="10">
+    <original><w>verklegt</w><w>próf</w></original>
+    <corrected><w>verklegu</w><w>prófi</w></corrected>
+      <errors>
+        <error xtype="dep" depId="10-1" eid="0" />
+        <error xtype="nominal-inflection" idx="10-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="3b">
+  <w>Á</w>
+  <w>Íslandi</w>
+  <w>þarf</w>
+  <w>að</w>
+  <w>taka</w>
+  <w>bóklega</w>
+  <w>prófið</w>
+  <w>fyrst</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Það</w>
+  <w>skiptist</w>
+  <w>í</w>
+  <w>tvo</w>
+  <w>hluta</w>
+  <w>sem</w>
+  <revision id="11">
+    <original><w>hafa</w></original>
+    <corrected><w>geyma</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>15</w>
+  <w>spurningar</w>
+  <w>hvor</w>
+  <w>um</w>
+  <w>sig</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Til</w>
+  <w>þess</w>
+  <w>að</w>
+  <w>ná</w>
+  <w>prófinu</w>
+  <revision id="12">
+    <original><w>þarf</w><w>að</w><w>hafa</w></original>
+    <corrected><w>má</w></corrected>
+      <errors>
+        <error xtype="aux" idx="12-1" eid="0" />
+        <error xtype="wording" idx="12-2" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>mesta</w>
+  <w>lagi</w>
+  <revision id="13">
+    <original></original>
+    <corrected><w>hafa</w></corrected>
+      <errors>
+        <error xtype="dep" depId="12-2" eid="0" />
+      </errors>
+  </revision>
+  <w>7</w>
+  <w>röng</w>
+  <revision id="14">
+    <original><w>og</w><w>ósvöruð</w></original>
+    <corrected><w>eða</w><w>auð</w></corrected>
+      <errors>
+        <error xtype="conjunction" idx="14-1" eid="0" />
+        <error xtype="wording" idx="14-2" eid="0" />
+      </errors>
+  </revision>
+  <w>svör</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Í</w>
+  <w>verklegu</w>
+  <w>prófi</w>
+  <revision id="15">
+    <original><w>er</w></original>
+    <corrected><w>fer</w><w>fram</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>akstursmat</w>
+  <w>og</w>
+  <w>lagt</w>
+  <revision id="16">
+    <original></original>
+    <corrected><w>er</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>mat</w>
+  <w>á</w>
+  <w>þekkingu</w>
+  <w>ökumanns</w>
+  <w>á</w>
+  <w>búnaði</w>
+  <w>bílsins</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

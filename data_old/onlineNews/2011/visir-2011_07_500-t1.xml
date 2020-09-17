@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Þyrla</w>
+  <w>Landhelgisgæslunnar</w>
+  <w>var</w>
+  <w>kölluð</w>
+  <w>út</w>
+  <w>nú</w>
+  <w>fyrir</w>
+  <w>skömmu</w>
+  <w>vegna</w>
+  <w>slyss</w>
+  <w>sem</w>
+  <revision id="1">
+    <original></original>
+    <corrected><w>kona</w></corrected>
+      <errors>
+        <error xtype="wording" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>varð</w>
+  <revision id="2">
+    <original><w>á</w><w>konu</w></original>
+    <corrected><w>fyrir</w></corrected>
+      <errors>
+        <error xtype="dep" depId="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>Vatnsdalsfirði</w>
+  <w>við</w>
+  <w>Barðaströnd</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Ekki</w>
+  <w>er</w>
+  <w>vitað</w>
+  <w>hver</w>
+  <w>tildrög</w>
+  <w>slyssins</w>
+  <w>voru</w>
+  <w>en</w>
+  <w>þyrlan</w>
+  <w>ætti</w>
+  <w>að</w>
+  <w>lenda</w>
+  <w>á</w>
+  <w>slysstað</w>
+  <w>nú</w>
+  <w>rétt</w>
+  <w>fyrir</w>
+  <w>átta</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

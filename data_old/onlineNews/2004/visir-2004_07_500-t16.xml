@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Líf</w>
+  <w>forseta</w>
+  <w>Austurríkis</w>
+  <c>,</c>
+  <w>Thomasar</w>
+  <w>Klestils</w>
+  <c>,</c>
+  <w>hangir</w>
+  <w>á</w>
+  <w>bláþræði</w>
+  <w>eftir</w>
+  <w>að</w>
+  <w>hann</w>
+  <w>fékk</w>
+  <w>tvö</w>
+  <w>öflug</w>
+  <w>hjartaáföll</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Líffæri</w>
+  <w>hans</w>
+  <w>eru</w>
+  <w>að</w>
+  <w>gefa</w>
+  <w>sig</w>
+  <w>og</w>
+  <w>ástandið</w>
+  <w>er</w>
+  <revision id="1">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>sögn</w>
+  <w>lækna</w>
+  <revision id="2">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>mjög</w>
+  <w>alvarlegt</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Þeir</w>
+  <w>telja</w>
+  <w>næsta</w>
+  <w>sólarhring</w>
+  <w>leiða</w>
+  <w>í</w>
+  <w>ljós</w>
+  <w>hvort</w>
+  <revision id="3">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="3-1" eid="0"/>
+        <error xtype="style" idx="3-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>Klestil</w>
+  <w>lifir</w>
+  <w>af</w>
+  <w>eður</w>
+  <w>ei</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

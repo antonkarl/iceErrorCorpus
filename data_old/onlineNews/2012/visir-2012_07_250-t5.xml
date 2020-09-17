@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Yohan</w>
+  <w>Cabaye</w>
+  <c>,</c>
+  <w>franski</w>
+  <w>miðvallarleikmaður</w>
+  <w>Newcastle</w>
+  <w>United</w>
+  <w>í</w>
+  <w>ensku</w>
+  <w>úrvalsdeildinni</w>
+  <c>,</c>
+  <w>biður</w>
+  <w>aðdáendur</w>
+  <w>sína</w>
+  <w>um</w>
+  <w>að</w>
+  <w>kalla</w>
+  <w>sig</w>
+  <w>Yo</w>
+  <w>í</w>
+  <w>myndbandi</w>
+  <w>sem</w>
+  <w>kappinn</w>
+  <w>gaf</w>
+  <w>út</w>
+  <w>á</w>
+  <w>dögunum</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Myndbandið</w>
+  <w>var</w>
+  <w>gefið</w>
+  <w>út</w>
+  <w>í</w>
+  <w>tilefni</w>
+  <w>nýrrar</w>
+  <w>heimasíðu</w>
+  <w>Cabaye</w>
+  <c>,</c>
+  <w>yohan-cabaye.com</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>fór</w>
+  <w>í</w>
+  <w>loftið</w>
+  <w>í</w>
+  <w>maí</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Þar</w>
+  <w>gefur</w>
+  <w>Frakkinn</w>
+  <w>aðdáendum</w>
+  <revision id="1">
+    <original></original>
+    <corrected><w>sínum</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>innsýn</w>
+  <w>í</w>
+  <w>líf</w>
+  <revision id="2">
+    <original><w>hans</w></original>
+    <corrected><w>sitt</w></corrected>
+      <errors>
+        <error xtype="pro4reflexive" eid="0" />
+      </errors>
+  </revision>
+  <w>utan</w>
+  <revision id="3">
+    <original></original>
+    <corrected><w>vallar</w></corrected>
+      <errors>
+        <error xtype="dep" depId="4-1" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>innan</w>
+  <revision id="4">
+    <original><w>vallar</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wording" idx="4-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Myndband</w>
+  <w>Yo's</w>
+  <w>má</w>
+  <w>sjá</w>
+  <w>í</w>
+  <w>spilaranum</w>
+  <w>hér</w>
+  <w>fyrir</w>
+  <w>ofan</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

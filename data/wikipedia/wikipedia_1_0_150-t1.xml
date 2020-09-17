@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_150-t1.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="0">
   <w>Grænhöfði</w>
   <revision id="1">
     <original><c>(</c><w>franska</w><w>Cap-Vert</w><c>,</c><w>portúgalska</w><w>Cabo</w><w>Verde</w><c>)</c></original>
-    <corrected><c>,</c><w>sem</w><w>á</w><w>frönsku</w><w>heitir</w><w><i>Cap-Vert</i></w><w>og</w><w>á</w><w>portúgölsku</w><w><i>Cabo</i></w><w><i>Verde</i></w><c>,</c></corrected>
+    <corrected><c>,</c><w>sem</w><w>á</w><w>frönsku</w><w>heitir</w><w><hi>Cap-Vert</hi></w><w>og</w><w>á</w><w>portúgölsku</w><w><hi>Cabo</hi></w><w><hi>Verde</hi></w><c>,</c></corrected>
       <errors>
         <error xtype="bracket4comma" eid="0" />
         <error xtype="wording" eid="0" />
@@ -67,8 +79,8 @@
   <w>og</w>
   <w>landinu</w>
   <w>nafnið</w>
-  <w><i>Cabo</i></w>
-  <w><i>Verde</i></w>
+  <w><hi>Cabo</hi></w>
+  <w><hi>Verde</hi></w>
   <c>.</c>
 </s>
 </p></body></text>

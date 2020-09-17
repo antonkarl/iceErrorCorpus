@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_10-t8.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Rebecca</w>
@@ -55,11 +67,11 @@
   <w>Stundaði</w>
   <w>nám</w>
   <w>við</w>
-  <w><i>Royal</i></w>
-  <w><i>Academy</i></w>
-  <w><i>of</i></w>
-  <w><i>Dramatic</i></w>
-  <w><i>Arts</i></w>
+  <w><hi>Royal</hi></w>
+  <w><hi>Academy</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>Dramatic</hi></w>
+  <w><hi>Arts</hi></w>
   <w>í</w>
   <w>London</w>
   <c>.</c>
@@ -86,8 +98,8 @@
   <w>var</w>
   <w>meðlimur</w>
   <w>hljómsveitarinnar</w>
-  <w><i>Ruby</i></w>
-  <w><i>Blue</i></w>
+  <w><hi>Ruby</hi></w>
+  <w><hi>Blue</hi></w>
   <w>frá</w>
   <w>1986</w>
   <c>-</c>
@@ -98,7 +110,7 @@
   <w>Fyrsta</w>
   <w>sólóplata</w>
   <w>hennar</w>
-  <w><i>Raven</i></w>
+  <w><hi>Raven</hi></w>
   <w>kom</w>
   <w>út</w>
   <w>árið 1994</w>
@@ -119,7 +131,7 @@
   <w>tónlistina</w>
   <w>við</w>
   <w>kvikmyndinna</w>
-  <w><i>Oleanna</i></w>
+  <w><hi>Oleanna</hi></w>
   <w>sem</w>
   <w>kom</w>
   <w>út</w>
@@ -134,12 +146,12 @@
   <w>lag</w>
   <w>við</w>
   <w>kvikmyndirnar</w>
-  <w><i>The</i></w>
-  <w><i>Misadventures</i></w>
-  <w><i>of</i></w>
-  <w><i>Margaret</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Misadventures</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>Margaret</hi></w>
   <w>og</w>
-  <w><i>Redbelt</i></w>
+  <w><hi>Redbelt</hi></w>
   <c>.</c>
 </s>
 <s n="8">
@@ -165,7 +177,7 @@
   <w>sýnt</w>
   <w>við</w>
   <revision id="2">
-    <original><w><i>Orpheum</i></w><w><i>Theater</i></w></original>
+    <original><w><hi>Orpheum</hi></w><w><hi>Theater</hi></w></original>
     <corrected><w>Orpheum</w><w>Theater</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -185,12 +197,12 @@
   <w>fram</w>
   <w>í</w>
   <w>leikritunum</w>
-  <w><i>Dangerous</i></w>
-  <w><i>Corner</i></w>
+  <w><hi>Dangerous</hi></w>
+  <w><hi>Corner</hi></w>
   <w>og</w>
-  <w><i>The</i></w>
-  <w><i>Old</i></w>
-  <w><i>Neighborhood</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Old</hi></w>
+  <w><hi>Neighborhood</hi></w>
   <c>.</c>
 </s>
 <s n="10">
@@ -200,7 +212,7 @@
   <w>var</w>
   <w>árið 1987</w>
   <w>í</w>
-  <w><i>Bust</i></w>
+  <w><hi>Bust</hi></w>
   <w>og</w>
   <w>hefur</w>
   <w>hún</w>
@@ -215,15 +227,15 @@
   <w>á</w>
   <w>borð</w>
   <w>við</w>
-  <w><i>Screen</i></w>
-  <w><i>One</i></w>
+  <w><hi>Screen</hi></w>
+  <w><hi>One</hi></w>
   <c>,</c>
-  <w><i>The</i></w>
-  <w><i>Shield</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Shield</hi></w>
   <w>og</w>
-  <w><i>Glenn</i></w>
-  <w><i>Martin</i></w>
-  <w><i>DDS</i></w>
+  <w><hi>Glenn</hi></w>
+  <w><hi>Martin</hi></w>
+  <w><hi>DDS</hi></w>
   <c>.</c>
 </s>
 <s n="11">
@@ -236,7 +248,7 @@
   <w>í</w>
   <revision id="3">
     <original><w>The</w><w>Unit</w></original>
-    <corrected><w><i>The</i></w><w><i>Unit</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Unit</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -263,8 +275,8 @@
   <w>var</w>
   <w>árið 1988</w>
   <w>í</w>
-  <w><i>The</i></w>
-  <w><i>Dawning</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Dawning</hi></w>
   <c>.</c>
 </s>
 <s n="13">
@@ -279,17 +291,17 @@
   <w>á</w>
   <w>borð</w>
   <w>við</w>
-  <w><i>The</i></w>
-  <w><i>Spanish</i></w>
-  <w><i>Prisoner</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Spanish</hi></w>
+  <w><hi>Prisoner</hi></w>
   <c>,</c>
-  <w><i>State</i></w>
-  <w><i>and</i></w>
-  <w><i>main</i></w>
+  <w><hi>State</hi></w>
+  <w><hi>and</hi></w>
+  <w><hi>main</hi></w>
   <c>,</c>
-  <w><i>Shopgirl</i></w>
+  <w><hi>Shopgirl</hi></w>
   <w>og</w>
-  <w><i>Red</i></w>
+  <w><hi>Red</hi></w>
   <c>.</c>
 </s>
 </p></body></text>

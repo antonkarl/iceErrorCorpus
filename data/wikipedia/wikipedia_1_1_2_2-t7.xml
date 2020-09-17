@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_2-t7.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Ágúst</w>
@@ -547,7 +559,7 @@
   <c>,</c>
   <revision id="5">
     <original><w>Psykoligi</w><w>I</w><w>omrids</w></original>
-    <corrected><w><i>Psykoligi</i></w><w><i>I</i></w><w><i>omrids</i></w></corrected>
+    <corrected><w><hi>Psykoligi</hi></w><w><hi>I</hi></w><w><hi>omrids</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -602,10 +614,10 @@
         <error xtype="missing-word" eid="0" />
       </errors>
   </revision>
-  <w><i>Yfirlit</i></w>
-  <w><i>yfir</i></w>
-  <w><i>sögu</i></w>
-  <w><i>mannsandans</i></w>
+  <w><hi>Yfirlit</hi></w>
+  <w><hi>yfir</hi></w>
+  <w><hi>sögu</hi></w>
+  <w><hi>mannsandans</hi></w>
   <c>,</c>
   <w>sem</w>
   <w>byggðist</w>
@@ -655,8 +667,8 @@
   <w>útgáfu</w>
   <w>undir</w>
   <w>nafninu</w>
-  <w><i>Saga</i></w>
-  <w><i>mannsandans</i></w>
+  <w><hi>Saga</hi></w>
+  <w><hi>mannsandans</hi></w>
   <w>á</w>
   <w>árunum</w>
   <w>1949</w>
@@ -672,7 +684,7 @@
   <w>bókina</w>
   <revision id="7">
     <original><c>„</c><w>Drauma-Jói</w><c>“</c></original>
-    <corrected><w><i>Drauma-Jói</i></w></corrected>
+    <corrected><w><hi>Drauma-Jói</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="7-1" eid="0" />
         <error xtype="nonit4it" idx="7-2" eid="0" />
@@ -1034,7 +1046,7 @@
   <w>bók</w>
   <revision id="13">
     <original><c>„</c><w>Kjarnorka</w><w>á</w><w>Komandi</w><w>Tímum</w><c>“</c></original>
-    <corrected><w><i>Kjarnorka</i></w><w><i>á</i></w><w><i>komandi</i></w><w><i>tímum</i></w></corrected>
+    <corrected><w><hi>Kjarnorka</hi></w><w><hi>á</hi></w><w><hi>komandi</hi></w><w><hi>tímum</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="13-1" eid="0" />
         <error xtype="nonit4it" idx="13-2" eid="0" />
@@ -1134,8 +1146,8 @@
   <w>en</w>
   <w>bók</w>
   <w>hans</w>
-  <w><i>Almenn</i></w>
-  <w><i>sálarfræði</i></w>
+  <w><hi>Almenn</hi></w>
+  <w><hi>sálarfræði</hi></w>
   <w>sem</w>
   <w>kom</w>
   <w>út</w>

@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_9-t8.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Neðansjávarfornleifafræði</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>maritime</i></w>
-  <w><i>archaeology</i></w>
+  <w><hi>maritime</hi></w>
+  <w><hi>archaeology</hi></w>
   <c>)</c>
   <w>er</w>
   <w>sértækt</w>
@@ -178,8 +190,8 @@
   <w>hliðarhljóðsjár</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>side-scan</i></w>
-  <w><i>sonar</i></w>
+  <w><hi>side-scan</hi></w>
+  <w><hi>sonar</hi></w>
   <c>)</c>
   <w>sem</w>
   <w>notaðar</w>

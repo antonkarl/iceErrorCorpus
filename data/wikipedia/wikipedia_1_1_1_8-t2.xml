@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_8-t2.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Bókinni</w>
@@ -30,7 +42,7 @@
   <w>heimild</w>
   <w>er</w>
   <revision id="1">
-    <original><w><i>Gilgameskviða</i></w></original>
+    <original><w><hi>Gilgameskviða</hi></w></original>
     <corrected><w>Gilgameskviða</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -98,7 +110,7 @@
   <c>:</c>
   <w>γένεσις</w>
   <c>,</c>
-  <w><i>Genesis</i></w>
+  <w><hi>Genesis</hi></w>
   <c>;</c>
   <w>á</w>
   <w>hebresku</w>
@@ -111,10 +123,10 @@
   <w>ִ</w>
   <w>ׁ</w>
   <w>יתZ</w>
-  <w><i>Bərēšīṯ</i></w>
+  <w><hi>Bərēšīṯ</hi></w>
   <c>(</c>
   <revision id="3">
-    <original><w><i>í</i></w><w><i>upphafi</i></w></original>
+    <original><w><hi>í</hi></w><w><hi>upphafi</hi></w></original>
     <corrected><c>„</c><w>í</w><w>upphafi</w><c>“</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="2-1" eid="0"/>
@@ -126,7 +138,7 @@
   <c>,</c>
   <w>á</w>
   <w>latínu</w>
-  <w><i>Genesis</i></w>
+  <w><hi>Genesis</hi></w>
   <c>)</c>
   <w>er</w>
   <w>fyrsti</w>
@@ -618,7 +630,7 @@
   <w>saman</w>
   <revision id="13">
     <original><w>Torah</w></original>
-    <corrected><w><i>Torah</i></w></corrected>
+    <corrected><w><hi>Torah</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

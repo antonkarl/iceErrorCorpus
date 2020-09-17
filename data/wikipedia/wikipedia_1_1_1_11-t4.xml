@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_11-t4.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Laos</w>
@@ -8,20 +20,20 @@
   <w>formlegt</w>
   <w>nafn</w>
   <c>:</c>
-  <w><i>Alþýðulýðveldið</i></w>
-  <w><i>Laos</i></w>
+  <w><hi>Alþýðulýðveldið</hi></w>
+  <w><hi>Laos</hi></w>
   <c>,</c>
   <w>á</w>
   <w>laosku</w>
   <c>:</c>
-  <w><i>Sathalanalat</i></w>
-  <w><i>Paxathipatai</i></w>
-  <w><i>Paxaxon</i></w>
-  <w><i>Lao</i></w>
+  <w><hi>Sathalanalat</hi></w>
+  <w><hi>Paxathipatai</hi></w>
+  <w><hi>Paxaxon</hi></w>
+  <w><hi>Lao</hi></w>
   <c>,</c>
   <revision id="1">
     <original><w>bókstaflega</w><c>„</c><w>Alþýðulýðveldi</w><w>Lao</w><w>fólksins</w><c>“</c></original>
-    <corrected><w>bókstafleg</w><w>þýðing</w><c>:</c><w><i>Alþýðulýðveldi</i></w><w><i>Lao</i></w><w><i>fólksins</i></w></corrected>
+    <corrected><w>bókstafleg</w><w>þýðing</w><c>:</c><w><hi>Alþýðulýðveldi</hi></w><w><hi>Lao</hi></w><w><hi>fólksins</hi></w></corrected>
       <errors>
         <error xtype="wording" idx="1-1" eid="0" />
         <error xtype="missing-colon" idx="1-2" eid="0" />
@@ -137,11 +149,11 @@
   <w>Lan</w>
   <w>Xang</w>
   <w>eða</w>
-  <w><i>Miljón</i></w>
-  <w><i>fíla</i></w>
+  <w><hi>Miljón</hi></w>
+  <w><hi>fíla</hi></w>
   <revision id="10">
-    <original><w><i>landið</i></w></original>
-    <corrected><w><i>landsins</i></w></corrected>
+    <original><w><hi>landið</hi></w></original>
+    <corrected><w><hi>landsins</hi></w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
       </errors>
@@ -209,7 +221,7 @@
   <c>,</c>
   <revision id="14">
     <original><w>Pathet</w><w>Lao</w></original>
-    <corrected><w><i>Pathet</i></w><w><i>Lao</i></w></corrected>
+    <corrected><w><hi>Pathet</hi></w><w><hi>Lao</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -316,7 +328,7 @@
   <w>á</w>
   <w>laosku</w>
   <w>er</w>
-  <w><i>Lao</i></w>
+  <w><hi>Lao</hi></w>
   <revision id="17">
     <original><c>,</c></original>
     <corrected></corrected>
@@ -634,8 +646,8 @@
   <w>sem</w>
   <w>kallaður</w>
   <w>var</w>
-  <w><i>rauði</i></w>
-  <w><i>prinsinn</i></w>
+  <w><hi>rauði</hi></w>
+  <w><hi>prinsinn</hi></w>
   <c>.</c>
 </s>
 <s n="20">
@@ -1203,8 +1215,8 @@
       </errors>
   </revision>
   <c>(</c>
-  <w><i>Elephas</i></w>
-  <w><i>maximus</i></w>
+  <w><hi>Elephas</hi></w>
+  <w><hi>maximus</hi></w>
   <c>)</c>
   <w>sem</w>
   <w>enn</w>
@@ -1226,17 +1238,17 @@
   </revision>
   <w>tígrisdýrið</w>
   <c>(</c>
-  <w><i>Panthera</i></w>
-  <w><i>tigris</i></w>
-  <w><i>corbetti</i></w>
+  <w><hi>Panthera</hi></w>
+  <w><hi>tigris</hi></w>
+  <w><hi>corbetti</hi></w>
   <c>)</c>
   <w>og</w>
   <w>hinn</w>
   <w>risavaxna</w>
   <w>gáruxa</w>
   <c>(</c>
-  <w><i>Bos</i></w>
-  <w><i>gaurus</i></w>
+  <w><hi>Bos</hi></w>
+  <w><hi>gaurus</hi></w>
   <c>)</c>
   <c>.</c>
 </s>
@@ -1345,20 +1357,20 @@
   <w>þrjá</w>
   <w>hópa</w>
   <c>,</c>
-  <w><i>Lao</i></w>
-  <w><i>Loum</i></w>
+  <w><hi>Lao</hi></w>
+  <w><hi>Loum</hi></w>
   <c>(</c>
   <w>láglendisbúa</w>
   <c>)</c>
   <c>,</c>
-  <w><i>Lao</i></w>
-  <w><i>Theung</i></w>
+  <w><hi>Lao</hi></w>
+  <w><hi>Theung</hi></w>
   <c>(</c>
   <w>hæðabúa</w>
   <c>)</c>
   <w>og</w>
-  <w><i>Lao</i></w>
-  <w><i>Soung</i></w>
+  <w><hi>Lao</hi></w>
+  <w><hi>Soung</hi></w>
   <c>(</c>
   <w>fjallabúa</w>
   <c>)</c>

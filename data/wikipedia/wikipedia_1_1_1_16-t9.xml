@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_16-t9.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Hugleiðsla</w>
@@ -76,7 +88,7 @@
   <w>Hugtakið</w>
   <revision id="3">
     <original><c>„</c><w>ayu</w><c>“</c></original>
-    <corrected><w><i>ayu</i></w></corrected>
+    <corrected><w><hi>ayu</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="10-1" eid="0"/>
         <error xtype="nonit4it" idx="10-1" eid="0"/>
@@ -110,7 +122,7 @@
   <w>orðunum</w>
   <revision id="4">
     <original><c>„</c><w>ayur</w><c>“</c></original>
-    <corrected><w><i>ayur</i></w></corrected>
+    <corrected><w><hi>ayur</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="2-1" eid="0"/>
         <error xtype="nonit4it" idx="2-1" eid="0"/>
@@ -124,7 +136,7 @@
   <w>og</w>
   <revision id="5">
     <original><c>„</c><w>veda</w><c>“</c></original>
-    <corrected><w><i>veda</i></w></corrected>
+    <corrected><w><hi>veda</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="5-1" eid="0"/>
         <error xtype="nonit4it" idx="5-1" eid="0"/>
@@ -330,7 +342,7 @@
   <w>einstaklingnum</w>
   <revision id="10">
     <original><c>„</c><w>prakriti</w><c>“</c></original>
-    <corrected><w><i>prakriti</i></w></corrected>
+    <corrected><w><hi>prakriti</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="14-1" eid="0"/>
         <error xtype="nonit4it" idx="14-1" eid="0"/>
@@ -367,7 +379,7 @@
   <w>frumkrafta</w>
   <revision id="11">
     <original><c>,</c><w>Vata</w></original>
-    <corrected><c>:</c><w><i>Vata</i></w></corrected>
+    <corrected><c>:</c><w><hi>Vata</hi></w></corrected>
       <errors>
         <error xtype="comma4colon" eid="0"/>
         <error xtype="nonit4it" eid="0"/>
@@ -376,7 +388,7 @@
   <c>,</c>
   <revision id="12">
     <original><w>Pitta</w></original>
-    <corrected><w><i>Pitta</i></w></corrected>
+    <corrected><w><hi>Pitta</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -384,7 +396,7 @@
   <w>og</w>
   <revision id="13">
     <original><w>Kapha</w><w>dosha</w></original>
-    <corrected><w><i>Kapha</i></w><w><i>dosha</i></w><c>.</c></corrected>
+    <corrected><w><hi>Kapha</hi></w><w><hi>dosha</hi></w><c>.</c></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
         <error xtype="missing-period" eid="0"/>
@@ -398,7 +410,7 @@
   <w>í</w>
   <revision id="14">
     <original><w>Vata</w><w>dosha</w></original>
-    <corrected><w><i>Vata</i></w><w><i>dosha</i></w></corrected>
+    <corrected><w><hi>Vata</hi></w><w><hi>dosha</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -417,7 +429,7 @@
   <w>í</w>
   <revision id="16">
     <original><w>Pitta</w><w>dosha</w></original>
-    <corrected><w><i>Pitta</i></w><w><i>dosha</i></w></corrected>
+    <corrected><w><hi>Pitta</hi></w><w><hi>dosha</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -436,7 +448,7 @@
   <w>í</w>
   <revision id="18">
     <original><w>Kapha</w><w>dosha</w></original>
-    <corrected><w><i>Kapha</i></w><w><i>dosha</i></w></corrected>
+    <corrected><w><hi>Kapha</hi></w><w><hi>dosha</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_6-t1.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Simon</w>
@@ -15,7 +27,7 @@
   <w>smellina</w>
   <revision id="1">
     <original><c>„</c><w>The</w><w>Sound</w><w>of</w><w>Silence</w><c>“</c></original>
-    <corrected><w><i>The</i></w><w><i>Sound</i></w><w><i>of</i></w><w><i>Silence</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Sound</hi></w><w><hi>of</hi></w><w><hi>Silence</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="2-1" eid="0"/>
         <error xtype="nonit4it" idx="2-1" eid="0"/>
@@ -25,7 +37,7 @@
   <c>,</c>
   <revision id="2">
     <original><c>„</c><w>Mrs.</w><w>Robinson</w><c>“</c></original>
-    <corrected><w><i>Mrs.</i></w><w><i>Robinson</i></w></corrected>
+    <corrected><w><hi>Mrs.</hi></w><w><hi>Robinson</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="3-1" eid="0"/>
         <error xtype="nonit4it" idx="3-1" eid="0"/>
@@ -35,7 +47,7 @@
   <w>og</w>
   <revision id="3">
     <original><c>„</c><w>Bridge</w><w>Over</w><w>Troubled</w><w>Water</w><c>“</c></original>
-    <corrected><w><i>Bridge</i></w><w><i>Over</i></w><w><i>Troubled</i></w><w><i>Water</i></w></corrected>
+    <corrected><w><hi>Bridge</hi></w><w><hi>Over</hi></w><w><hi>Troubled</hi></w><w><hi>Water</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="4-1" eid="0"/>
         <error xtype="nonit4it" idx="4-1" eid="0"/>
@@ -89,11 +101,11 @@
   <w>henni</w>
   <w>eftir</w>
   <w>með</w>
-  <w><i>The</i></w>
-  <w><i>Rhythm</i></w>
-  <w><i>of</i></w>
-  <w><i>the</i></w>
-  <w><i>Saints</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Rhythm</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>Saints</hi></w>
   <w>1990</w>
   <w>sem</w>
   <w>var</w>
@@ -113,8 +125,8 @@
   <w>þetta</w>
   <w>metsöluplötur</w>
   <w>en</w>
-  <w><i>One-Trick</i></w>
-  <w><i>Pony</i></w>
+  <w><hi>One-Trick</hi></w>
+  <w><hi>Pony</hi></w>
   <w>sem</w>
   <w>kom</w>
   <w>út</w>
@@ -130,12 +142,12 @@
   <w>hann</w>
   <w>gefið</w>
   <w>út</w>
-  <w><i>You're</i></w>
-  <w><i>the</i></w>
-  <w><i>One</i></w>
+  <w><hi>You're</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>One</hi></w>
   <w>2000</w>
   <c>,</c>
-  <w><i>Surprise</i></w>
+  <w><hi>Surprise</hi></w>
   <c>(</c>
   <w>með</w>
   <w>Brian</w>
@@ -143,11 +155,11 @@
   <c>)</c>
   <w>2006</w>
   <w>og</w>
-  <w><i>So</i></w>
-  <w><i>Beautiful</i></w>
-  <w><i>or</i></w>
-  <w><i>So</i></w>
-  <w><i>What</i></w>
+  <w><hi>So</hi></w>
+  <w><hi>Beautiful</hi></w>
+  <w><hi>or</hi></w>
+  <w><hi>So</hi></w>
+  <w><hi>What</hi></w>
   <w>2011</w>
   <c>.</c>
 </s><s n="7">
@@ -201,8 +213,8 @@
   <w>eftir</w>
   <w>Simon</w>
   <c>,</c>
-  <w><i>The</i></w>
-  <w><i>Capeman</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Capeman</hi></w>
   <c>,</c>
   <w>byggður</w>
   <w>á</w>
@@ -248,7 +260,7 @@
   <w>hljómplötunum</w>
   <revision id="8">
     <original><c>"</c><w>Paul</w><w>Simon</w><c>"</c><w>1972</w></original>
-    <corrected><w><i>Paul</i></w><w><i>Simon</i></w><w>árið 1972</w></corrected>
+    <corrected><w><hi>Paul</hi></w><w><hi>Simon</hi></w><w>árið 1972</w></corrected>
       <errors>
         <error xtype="extra-quots" idx="5-1" eid="0"/>
         <error xtype="nonit4it" idx="5-1" eid="0"/>
@@ -270,7 +282,7 @@
   <w>við</w>
   <revision id="10">
     <original><c>„</c><w>Me</w><w>and</w><w>Julio</w><w>Down</w><w>by</w><w>the</w><w>Schoolyard</w><c>“</c></original>
-    <corrected><w><i>Me</i></w><w><i>and</i></w><w><i>Julio</i></w><w><i>Down</i></w><w><i>by</i></w><w><i>the</i></w><w><i>Schoolyard</i></w></corrected>
+    <corrected><w><hi>Me</hi></w><w><hi>and</hi></w><w><hi>Julio</hi></w><w><hi>Down</hi></w><w><hi>by</hi></w><w><hi>the</hi></w><w><hi>Schoolyard</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="7-1" eid="0"/>
         <error xtype="nonit4it" idx="7-1" eid="0"/>
@@ -281,7 +293,7 @@
   <c>,</c>
   <revision id="11">
     <original><c>"</c><w>There</w><w>Goes</w><w>Rhymin'Simon</w><c>"</c><w>1973</w></original>
-    <corrected><w><i>There</i></w><w><i>Goes</i></w><w><i>Rhymin'Simon</i></w><w>árið 1973</w></corrected>
+    <corrected><w><hi>There</hi></w><w><hi>Goes</hi></w><w><hi>Rhymin'Simon</hi></w><w>árið 1973</w></corrected>
       <errors>
         <error xtype="extra-quots" idx="8-1" eid="0"/>
         <error xtype="nonit4it" idx="8-1" eid="0"/>
@@ -296,7 +308,7 @@
   <w>við</w>
   <revision id="12">
     <original><c>„</c><w>Kodachrome</w><c>“</c></original>
-    <corrected><w><i>Kodachrome</i></w></corrected>
+    <corrected><w><hi>Kodachrome</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="9-1" eid="0"/>
         <error xtype="nonit4it" idx="9-1" eid="0"/>
@@ -306,7 +318,7 @@
   <w>og</w>
   <revision id="13">
     <original><c>„</c><w>Loves</w><w>Me</w><w>Like</w><w>a</w><w>Rock</w><c>“</c></original>
-    <corrected><w><i>Loves</i></w><w><i>Me</i></w><w><i>Like</i></w><w><i>a</i></w><w><i>Rock</i></w></corrected>
+    <corrected><w><hi>Loves</hi></w><w><hi>Me</hi></w><w><hi>Like</hi></w><w><hi>a</hi></w><w><hi>Rock</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="10-1" eid="0"/>
         <error xtype="nonit4it" idx="10-1" eid="0"/>
@@ -317,7 +329,7 @@
   <w>og</w>
   <revision id="14">
     <original><c>"</c><w>Still</w><w>Crazy</w><w>After</w><w>All</w><w>These</w><w>Years</w><c>"</c></original>
-    <corrected><w><i>Still</i></w><w><i>Crazy</i></w><w><i>After</i></w><w><i>All</i></w><w><i>These</i></w><w><i>Years</i></w><c>,</c></corrected>
+    <corrected><w><hi>Still</hi></w><w><hi>Crazy</hi></w><w><hi>After</hi></w><w><hi>All</hi></w><w><hi>These</hi></w><w><hi>Years</hi></w><c>,</c></corrected>
       <errors>
         <error xtype="extra-quots" idx="11-1" eid="0"/>
         <error xtype="nonit4it" idx="11-1" eid="0"/>
@@ -332,7 +344,7 @@
   <w>við</w>
   <revision id="15">
     <original><c>„</c><w>50</w><w>Ways</w><w>to</w><w>Leave</w><w>Your</w><w>Lover</w><c>“</c></original>
-    <corrected><w><i/></w><w>50Z</w><w><i>Ways</i></w><w><i>to</i></w><w><i>Leave</i></w><w><i>Your</i></w><w><i>Lover</i></w></corrected>
+    <corrected><w><i/></w><w>50Z</w><w><hi>Ways</hi></w><w><hi>to</hi></w><w><hi>Leave</hi></w><w><hi>Your</hi></w><w><hi>Lover</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="12-1" eid="0"/>
         <error xtype="nonit4it" idx="12-1" eid="0"/>
@@ -349,16 +361,16 @@
   <w>Woody</w>
   <w>Allen</w>
   <c>,</c>
-  <w><i>Annie</i></w>
-  <w><i>Hall</i></w>
+  <w><hi>Annie</hi></w>
+  <w><hi>Hall</hi></w>
   <c>,</c>
   <w>árið 1977</w>
   <w>og</w>
   <w>aðalhlutverkið</w>
   <w>í</w>
-  <w><i>One</i></w>
-  <w><i>Trick</i></w>
-  <w><i>Pony</i></w>
+  <w><hi>One</hi></w>
+  <w><hi>Trick</hi></w>
+  <w><hi>Pony</hi></w>
   <w>árið 1980</w>
   <w>þar</w>
   <w>sem</w>
@@ -388,7 +400,7 @@
   <w>suðurafrískri</w>
   <w>alþýðutónlist</w>
   <w>á</w>
-  <w><i>Graceland</i></w>
+  <w><hi>Graceland</hi></w>
   <w>1986</w>
   <w>sem</w>
   <w>varð</w>

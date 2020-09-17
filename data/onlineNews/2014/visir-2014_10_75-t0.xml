@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>visir-2014_10_75-t0.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Norræna</w>
@@ -74,7 +86,7 @@
   <w>Sýningin</w>
   <revision id="2">
     <original><w>The</w><w>Weather</w><w>Diaries</w></original>
-    <corrected><w><i>The</i></w><w><i>Weather</i></w><w><i>Diaries</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Weather</hi></w><w><hi>Diaries</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -177,7 +189,7 @@
   <w>á</w>
   <revision id="4">
     <original><w>The</w><w>Weather</w><w>Diaries</w></original>
-    <corrected><w><i>The</i></w><w><i>Weather</i></w><w><i>Diaries</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Weather</hi></w><w><hi>Diaries</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -257,7 +269,7 @@
   <w>sýninguna</w>
   <revision id="6">
     <original><w>The</w><w>Weather</w><w>Diaries</w><c>,</c></original>
-    <corrected><w><i>The</i></w><w><i>Weather</i></w><w><i>Diaries</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Weather</hi></w><w><hi>Diaries</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
         <error xtype="extra-comma" eid="0"/>
@@ -362,7 +374,7 @@
   <w>kallar</w>
   <revision id="8">
     <original><w>The</w><w>Space</w><w>in</w><w>Between</w></original>
-    <corrected><w><i>The</i></w><w><i>Space</i></w><w><i>in</i></w><w><i>Between</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Space</hi></w><w><hi>in</hi></w><w><hi>Between</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

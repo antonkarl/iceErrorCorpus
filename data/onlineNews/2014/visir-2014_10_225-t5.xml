@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>visir-2014_10_225-t5.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Súpa</w>
@@ -29,7 +41,7 @@
   <w>óperunni</w>
   <revision id="2">
     <original><w>Don</w><w>Carlo</w></original>
-    <corrected><w><i>Don</i></w><w><i>Carlo</i></w></corrected>
+    <corrected><w><hi>Don</hi></w><w><hi>Carlo</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -50,7 +62,7 @@
 </s><s n="3">
   <revision id="4">
     <original><w>Bland</w><w>í</w><w>poka</w><w>á</w><w>miðvikudegi</w></original>
-    <corrected><w><i>Bland</i></w><w><i>í</i></w><w><i>poka</i></w><w><i>á</i></w><w><i>miðvikudegi</i></w></corrected>
+    <corrected><w><hi>Bland</hi></w><w><hi>í</hi></w><w><hi>poka</hi></w><w><hi>á</hi></w><w><hi>miðvikudegi</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

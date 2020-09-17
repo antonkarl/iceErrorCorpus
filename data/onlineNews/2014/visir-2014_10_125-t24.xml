@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>visir-2014_10_125-t24.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Allir</w>
@@ -33,7 +45,7 @@
   <w>stofnandi</w>
   <revision id="1">
     <original><w>Punk</w><w>Magazine</w><c>,</c></original>
-    <corrected><w><i>Punk</i></w><w><i>Magazine</i></w></corrected>
+    <corrected><w><hi>Punk</hi></w><w><hi>Magazine</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="1-1" eid="0"/>
         <error xtype="extra-comma" idx="1-2" eid="0"/>
@@ -103,7 +115,7 @@
   <w>hljómsveitinni</w>
   <revision id="3">
     <original><w>The</w><w>Rockats</w></original>
-    <corrected><w><i>The</i></w><w><i>Rockats</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Rockats</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -131,7 +143,7 @@
   <w>um</w>
   <revision id="4">
     <original><w>pönkið-Please</w><w>Kill</w><w>Me</w></original>
-    <corrected><w>pönkið</w><c>,</c><w><i>Please</i></w><w><i>Kill</i></w><w><i>Me</i></w></corrected>
+    <corrected><w>pönkið</w><c>,</c><w><hi>Please</hi></w><w><hi>Kill</hi></w><w><hi>Me</hi></w></corrected>
       <errors>
         <error xtype="dash4comma" idx="3-1" eid="0"/>
         <error xtype="nonit4it" idx="3-2" eid="0"/>

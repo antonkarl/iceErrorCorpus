@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_12-t1.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="0">
   <revision id="1">
@@ -66,7 +78,7 @@
   <w>þýðir</w>
   <revision id="2">
     <original><c>„</c><w>kraftur</w><w>þrenningarinnar</w><c>“</c></original>
-    <corrected><w><i>kraftur</i></w><w><i>þrenningarinnar</i></w></corrected>
+    <corrected><w><hi>kraftur</hi></w><w><hi>þrenningarinnar</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="2-1" eid="0" />
         <error xtype="nonit4it" idx="2-2" eid="0" />
@@ -493,7 +505,7 @@
   <c>(</c>
   <revision id="22">
     <original><w>One</w><w>Love</w></original>
-    <corrected><w>e.</w><w><i>One</i></w><w><i>Love</i></w></corrected>
+    <corrected><w>e.</w><w><hi>One</hi></w><w><hi>Love</hi></w></corrected>
       <errors>
         <error xtype="missing-word" idx="22-1" eid="0" />
         <error xtype="nonit4it" idx="22-2" eid="0" />
@@ -717,9 +729,9 @@
   <w>samkvæmt</w>
   <w>bók</w>
   <w>hans</w>
-  <w><i>The</i></w>
-  <w><i>Promised</i></w>
-  <w><i>key</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Promised</hi></w>
+  <w><hi>key</hi></w>
   <w>boðaði</w>
   <w>hann</w>
   <w>hatur</w>
@@ -911,12 +923,12 @@
         <error xtype="missing-word" idx="42-2" eid="0" />
       </errors>
   </revision>
-  <w><i>Down</i></w>
-  <w><i>with</i></w>
-  <w><i>white</i></w>
-  <w><i>and</i></w>
-  <w><i>black</i></w>
-  <w><i>Downpressors</i></w>
+  <w><hi>Down</hi></w>
+  <w><hi>with</hi></w>
+  <w><hi>white</hi></w>
+  <w><hi>and</hi></w>
+  <w><hi>black</hi></w>
+  <w><hi>Downpressors</hi></w>
   <revision id="43">
     <original><w>Það</w></original>
     <corrected><c>,</c><w>það</w></corrected>
@@ -1108,7 +1120,7 @@
   <w>þýðir</w>
   <revision id="53">
     <original><c>„</c><w>máttur</w><w>hinnar</w><w>heilögu</w><w>þrenningar</w><c>“</c></original>
-    <corrected><w><i>máttur</i></w><w><i>hinnar</i></w><w><i>heilögu</i></w><w><i>þrenningar</i></w></corrected>
+    <corrected><w><hi>máttur</hi></w><w><hi>hinnar</hi></w><w><hi>heilögu</hi></w><w><hi>þrenningar</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="53-1" eid="0" />
         <error xtype="nonit4it" idx="53-2" eid="0" />
@@ -1128,7 +1140,7 @@
   <w>titlunum</w>
   <revision id="54">
     <original><w>ljónið</w><w>af</w><w>Júdah</w></original>
-    <corrected><c>:</c><w><i>ljónið</i></w><w><i>af</i></w><w><i>Júdah</i></w></corrected>
+    <corrected><c>:</c><w><hi>ljónið</hi></w><w><hi>af</hi></w><w><hi>Júdah</hi></w></corrected>
       <errors>
         <error xtype="missing-colon" idx="54-1" eid="0" />
         <error xtype="nonit4it" idx="54-2" eid="0" />
@@ -1137,7 +1149,7 @@
   <c>,</c>
   <revision id="55">
     <original><w>konungur</w><w>konunga</w></original>
-    <corrected><w><i>konungur</i></w><w><i>konunga</i></w></corrected>
+    <corrected><w><hi>konungur</hi></w><w><hi>konunga</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1145,7 +1157,7 @@
   <c>,</c>
   <revision id="56">
     <original><w>drottinn</w><w>drottna</w></original>
-    <corrected><w><i>drottinn</i></w><w><i>drottna</i></w></corrected>
+    <corrected><w><hi>drottinn</hi></w><w><hi>drottna</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1153,7 +1165,7 @@
   <w>og</w>
   <revision id="57">
     <original><w>hinn</w><w>útvaldi</w><w>af</w><w>Guði</w></original>
-    <corrected><w><i>hinn</i></w><w><i>útvaldi</i></w><w><i>af</i></w><w><i>Guði</i></w></corrected>
+    <corrected><w><hi>hinn</hi></w><w><hi>útvaldi</hi></w><w><hi>af</hi></w><w><hi>Guði</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1892,7 +1904,7 @@
 <s n="44">
   <revision id="90">
     <original><w>Binghi</w></original>
-    <corrected><w><i>Binghi</i></w></corrected>
+    <corrected><w><hi>Binghi</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1911,7 +1923,7 @@
   </revision>
   <revision id="91">
     <original><w>Niyabinghi</w></original>
-    <corrected><w><i>Niyabinghi</i></w></corrected>
+    <corrected><w><hi>Niyabinghi</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -2035,7 +2047,7 @@
   <w>að</w>
   <revision id="99">
     <original><w>binghi</w></original>
-    <corrected><w><i>binghi</i></w></corrected>
+    <corrected><w><hi>binghi</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -2396,7 +2408,7 @@
   <w>á</w>
   <revision id="119">
     <original><c>„</c><w>Ital</w><c>“</c><w>mataræði</w></original>
-    <corrected><w><i>Ital-mataræði</i></w></corrected>
+    <corrected><w><hi>Ital-mataræði</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="119-1" eid="0" />
         <error xtype="missing-dash" idx="119-2" eid="0" />
@@ -2434,7 +2446,7 @@
 <s n="62">
   <revision id="121">
     <original><c>„</c><w>Eat</w><w>and</w><w>drink</w><w>in</w><w>your</w><w>own</w><w>way</w><c>“</c></original>
-    <corrected><w>Borði</w><w>hver</w><w>á</w><w>sinn</w><w>hátt</w><c>(</c><w>e.</w><w><i>Eat</i></w><w><i>and</i></w><w><i>drink</i></w><w><i>in</i></w><w><i>your</i></w><w><i>own</i></w><w><i>way</i></w></corrected>
+    <corrected><w>Borði</w><w>hver</w><w>á</w><w>sinn</w><w>hátt</w><c>(</c><w>e.</w><w><hi>Eat</hi></w><w><hi>and</hi></w><w><hi>drink</hi></w><w><hi>in</hi></w><w><hi>your</hi></w><w><hi>own</hi></w><w><hi>way</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="121-1" eid="0" />
         <error xtype="missing-words" idx="121-2" eid="0" />
@@ -2445,7 +2457,7 @@
   <w>eða</w>
   <revision id="122">
     <original><c>„</c><w>To</w><w>each</w><w>his</w><w>own</w><c>“</c></original>
-    <corrected><w><i>To</i></w><w><i>each</i></w><w><i>his</i></w><w><i>own</i></w><c>)</c></corrected>
+    <corrected><w><hi>To</hi></w><w><hi>each</hi></w><w><hi>his</hi></w><w><hi>own</hi></w><c>)</c></corrected>
       <errors>
         <error xtype="extra-quots" idx="122-1" eid="0" />
         <error xtype="nonit4it" idx="122-2" eid="0" />

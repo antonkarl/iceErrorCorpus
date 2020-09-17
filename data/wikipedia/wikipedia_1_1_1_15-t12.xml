@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_15-t12.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Síðasta</w>
@@ -527,8 +539,8 @@
   <w>Talið</w>
   <w>er</w>
   <w>að</w>
-  <w><i>Homo</i></w>
-  <w><i>erectus</i></w>
+  <w><hi>Homo</hi></w>
+  <w><hi>erectus</hi></w>
   <w>hafi</w>
   <w>fyrst</w>
   <w>flutt</w>
@@ -1020,9 +1032,9 @@
   <w>Elstu</w>
   <w>merki</w>
   <w>um</w>
-  <w><i>Homo</i></w>
-  <w><i>sapiens</i></w>
-  <w><i>sapiens</i></w>
+  <w><hi>Homo</hi></w>
+  <w><hi>sapiens</hi></w>
+  <w><hi>sapiens</hi></w>
   <w>í</w>
   <w>Evrópu</w>
   <w>eru</w>

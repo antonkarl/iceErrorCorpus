@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_4-t14.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Furstadæmið</w>
@@ -9,7 +21,7 @@
   <w>franska</w>
   <revision id="1">
     <original><w>Principauté</w><w>de</w><w>Monaco</w></original>
-    <corrected><w><i>Principauté</i></w><w><i>de</i></w><w><i>Monaco</i></w></corrected>
+    <corrected><w><hi>Principauté</hi></w><w><hi>de</hi></w><w><hi>Monaco</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -18,7 +30,7 @@
   <w>mónakóska</w>
   <revision id="2">
     <original><w>Principatu</w><w>de</w><w>Munegu</w></original>
-    <corrected><w><i>Principatu</i></w><w><i>de</i></w><w><i>Munegu</i></w></corrected>
+    <corrected><w><hi>Principatu</hi></w><w><hi>de</hi></w><w><hi>Munegu</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>

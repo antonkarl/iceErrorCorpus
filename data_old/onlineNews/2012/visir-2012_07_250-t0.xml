@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Framkvæmdir</w>
+  <w>við</w>
+  <w>Stúdentakjallarann</w>
+  <w>sem</w>
+  <w>mun</w>
+  <w>rísa</w>
+  <w>við</w>
+  <w>Háskólatorg</w>
+  <w>eru</w>
+  <w>hafnar</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Framkvæmdirnar</w>
+  <w>hófust</w>
+  <w>í</w>
+  <w>vikunni</w>
+  <revision id="1">
+    <original><c>.</c><w>Stefnt</w></original>
+    <corrected><w>og</w><w>stefnt</w></corrected>
+      <errors>
+        <error xtype="period4conjunction" eid="0" />
+      </errors>
+  </revision>
+  <w>er</w>
+  <w>að</w>
+  <w>því</w>
+  <w>að</w>
+  <w>Stúdentakjallarinn</w>
+  <w>opni</w>
+  <w>1. desember</w>
+  <w>í</w>
+  <w>vetur</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Þá</w>
+  <revision id="2">
+    <original><w>verður</w></original>
+    <corrected><w>mun</w></corrected>
+      <errors>
+        <error xtype="aux" idx="2-1" eid="0" />
+      </errors>
+  </revision>
+  <w>framkvæmdum</w>
+  <w>þó</w>
+  <w>ekki</w>
+  <revision id="3">
+    <original></original>
+    <corrected><w>vera</w></corrected>
+      <errors>
+        <error xtype="dep" depId="2-1" eid="0" />
+      </errors>
+  </revision>
+  <w>lokið</w>
+  <w>enda</w>
+  <w>er</w>
+  <w>stefnan</w>
+  <w>að</w>
+  <w>byggja</w>
+  <w>ofan</w>
+  <w>á</w>
+  <w>Stúdentakjallarann</w>
+  <w>og</w>
+  <w>mynda</w>
+  <w>þannig</w>
+  <w>framlengingu</w>
+  <revision id="4">
+    <original><w>á</w></original>
+    <corrected><w>við</w></corrected>
+      <errors>
+        <error xtype="wrong-prep" eid="0" />
+      </errors>
+  </revision>
+  <w>Háskólatorg</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Í</w>
+  <w>Stúdentakjallaranum</w>
+  <w>verður</w>
+  <w>bar</w>
+  <w>og</w>
+  <w>félagsaðstaða</w>
+  <w>fyrir</w>
+  <w>nemendur</w>
+  <w>Háskóla</w>
+  <w>Íslands</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Félagsstofnun</w>
+  <w>stúdenta</w>
+  <w>mun</w>
+  <w>reka</w>
+  <w>kjallarann</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

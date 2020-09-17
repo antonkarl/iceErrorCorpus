@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_9-t2.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Þannig</w>
@@ -75,7 +87,7 @@
   <w>ræða</w>
   <w>fyrsta</w>
   <w>heildarflutning</w>
-  <w><i>Mattheusarpassíu</i></w>
+  <w><hi>Mattheusarpassíu</hi></w>
   <w>Bachs</w>
   <w>á</w>
   <w>Íslandi</w>
@@ -232,7 +244,7 @@
   <w>Í</w>
   <w>flutningi</w>
   <w>á</w>
-  <w><i>Mattheusarpassíunni</i></w>
+  <w><hi>Mattheusarpassíunni</hi></w>
   <w>fékk</w>
   <w>Pólýfónkórinn</w>
   <c>,</c>
@@ -729,7 +741,7 @@
   <w>Ingólfur</w>
   <w>Guðbrandsson</w>
   <w>um</w>
-  <w><i>Mattheusarpassíuna</i></w>
+  <w><hi>Mattheusarpassíuna</hi></w>
   <c>;</c>
   <c>„</c>
   <w>Í</w>

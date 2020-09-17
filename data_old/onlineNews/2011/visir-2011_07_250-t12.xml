@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Það</w>
+  <w>er</w>
+  <w>óhætt</w>
+  <w>að</w>
+  <w>segja</w>
+  <w>að</w>
+  <w>landslið</w>
+  <w>Argentínu</w>
+  <w>í</w>
+  <w>knattspyrnu</w>
+  <w>hafi</w>
+  <revision id="1">
+    <original><w>ollið</w></original>
+    <corrected><w>valdið</w></corrected>
+      <errors>
+        <error xtype="verb-inflection" eid="0" />
+      </errors>
+  </revision>
+  <w>stuðningsmönnum</w>
+  <w>sínum</w>
+  <w>vonbrigðum</w>
+  <w>í</w>
+  <w>Suður-Ameríkukeppninni</w>
+  <w>í</w>
+  <w>knattspyrnu</w>
+  <w>til</w>
+  <w>þessa</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Liðið</w>
+  <w>gerði</w>
+  <w>markalaust</w>
+  <w>jafntefli</w>
+  <w>við</w>
+  <w>Kólumbíu</w>
+  <w>í</w>
+  <w>gærkvöldi</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Miklar</w>
+  <w>vonir</w>
+  <w>voru</w>
+  <w>bundnar</w>
+  <w>við</w>
+  <w>argentínska</w>
+  <w>liðið</w>
+  <w>enda</w>
+  <revision id="2">
+    <original><w>liðið</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="repeat-word-split" eid="0" />
+      </errors>
+  </revision>
+  <w>stjörnum</w>
+  <w>hlaðið</w>
+  <w>og</w>
+  <w>á</w>
+  <w>heimavelli</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Argentína</w>
+  <w>náði</w>
+  <w>aðeins</w>
+  <w>jafntefli</w>
+  <w>í</w>
+  <w>fyrsta</w>
+  <w>leik</w>
+  <w>riðilsins</w>
+  <w>gegn</w>
+  <w>Bólivíu</w>
+  <w>og</w>
+  <w>situr</w>
+  <w>í</w>
+  <w>öðru</w>
+  <w>sæti</w>
+  <w>riðilsins</w>
+  <w>með</w>
+  <w>tvö</w>
+  <w>stig</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Bólivía</w>
+  <w>og</w>
+  <revision id="3">
+    <original><w>Kostaríka</w></original>
+    <corrected><w>Kosta</w><w>Ríka</w></corrected>
+      <errors>
+        <error xtype="merged-word" eid="0" />
+      </errors>
+  </revision>
+  <w>mætast</w>
+  <w>í</w>
+  <w>kvöld</w>
+  <w>og</w>
+  <w>geta</w>
+  <w>skotist</w>
+  <w>upp</w>
+  <w>fyrir</w>
+  <w>heimamenn</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Þrátt</w>
+  <w>fyrir</w>
+  <w>brösuga</w>
+  <w>byrjun</w>
+  <w>dugar</w>
+  <w>Argentínu</w>
+  <w>sigur</w>
+  <w>gegn</w>
+  <revision id="4">
+    <original><w>Kostaríka</w></original>
+    <corrected><w>Kosta</w><w>Ríku</w></corrected>
+      <errors>
+        <error xtype="merged-word" idx="4-1" eid="0" />
+        <error xtype="nominal-inflection" idx="4-1" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>síðasta</w>
+  <w>leik</w>
+  <w>sínum</w>
+  <w>til</w>
+  <w>þess</w>
+  <w>að</w>
+  <w>komast</w>
+  <w>upp</w>
+  <w>úr</w>
+  <w>riðlinum</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>Jafntefli</w>
+  <w>gæti</w>
+  <w>mögulega</w>
+  <w>verið</w>
+  <w>nóg</w>
+  <c>.</c>
+</s>
+<s n="8">
+  <w>Tvö</w>
+  <w>efstu</w>
+  <w>liðin</w>
+  <w>í</w>
+  <w>riðlunum</w>
+  <w>þremur</w>
+  <w>komast</w>
+  <w>í</w>
+  <w>átta</w>
+  <w>liða</w>
+  <w>úrslit</w>
+  <w>auk</w>
+  <revision id="5">
+    <original></original>
+    <corrected><w>þeirra</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>tveggja</w>
+  <w>liða</w>
+  <revision id="6">
+    <original><w>með</w><w>bestan</w><w>árangur</w></original>
+    <corrected><w>sem</w><w>ná</w><w>bestum</w><w>árangri</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>þriðja</w>
+  <w>sæti</w>
+  <c>.</c>
+</s>
+<s n="9">
+  <w>Þjálfari</w>
+  <w>Argentínu</w>
+  <revision id="7">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-commas" idx="7-1" eid="0" />
+      </errors>
+  </revision>
+  <w>Sergio</w>
+  <w>Batista</w>
+  <revision id="8">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="dep" depId="7-1" eid="0" />
+      </errors>
+  </revision>
+  <w>sagði</w>
+  <w>fyrir</w>
+  <w>mótið</w>
+  <w>að</w>
+  <revision id="9">
+    <original><w>planið</w></original>
+    <corrected><w>áætlunin</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>væri</w>
+  <w>að</w>
+  <w>spila</w>
+  <w>eins</w>
+  <w>og</w>
+  <w>Barcelona</w>
+  <c>.</c>
+</s>
+<s n="10">
+  <w>Liðið</w>
+  <w>yrði</w>
+  <w>byggt</w>
+  <w>upp</w>
+  <w>í</w>
+  <w>kringum</w>
+  <w>Lionel</w>
+  <w>Messi</w>
+  <w>og</w>
+  <w>hann</w>
+  <w>ætti</w>
+  <w>að</w>
+  <w>leiða</w>
+  <w>Argentínumenn</w>
+  <w>til</w>
+  <w>sigurs</w>
+  <c>.</c>
+</s>
+<s n="11">
+  <w>Heimamenn</w>
+  <w>unnu</w>
+  <w>síðast</w>
+  <w>sigur</w>
+  <w>í</w>
+  <w>keppninni</w>
+  <w>árið 1993</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

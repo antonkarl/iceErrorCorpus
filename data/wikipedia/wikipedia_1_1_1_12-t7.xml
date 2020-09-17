@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_12-t7.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Blaðamannaverðlaun</w>
@@ -48,7 +60,7 @@
   <w>Kolbeinsson</w>
   <c>,</c>
   <w>fréttastofu</w>
-  <w><i>RÚV</i></w>
+  <w><hi>RÚV</hi></w>
   <revision id="2">
     <original><c>,</c></original>
     <corrected><w>en</w><w>hann</w><w>fékk</w><w>verðlaunin</w></corrected>
@@ -90,7 +102,7 @@
   <w>Sunna</w>
   <w>Valgerðardóttir</w>
   <c>,</c>
-  <w><i>Fréttablaðinu</i></w>
+  <w><hi>Fréttablaðinu</hi></w>
   <c>,</c>
   <w>fyrir</w>
   <w>áhrifamikla</w>
@@ -155,7 +167,7 @@
   <w>Ragnar</w>
   <w>Axelsson</w>
   <c>,</c>
-  <w><i>Morgunblaðinu</i></w>
+  <w><hi>Morgunblaðinu</hi></w>
   <c>,</c>
   <w>fyrir</w>
   <w>merka</w>
@@ -191,7 +203,7 @@
   <w>Svavar</w>
   <w>Hávarðsson</w>
   <c>,</c>
-  <w><i>Fréttablaðinu</i></w>
+  <w><hi>Fréttablaðinu</hi></w>
   <c>,</c>
   <w>fyrir</w>
   <w>fréttaflutning</w>
@@ -224,8 +236,8 @@
   <w>Helga</w>
   <w>Arnardóttir</w>
   <c>,</c>
-  <w><i>Stöð</i></w>
-  <w><i></i></w>
+  <w><hi>Stöð</hi></w>
+  <w><hi></hi></w>
   <w>2Z</w>
   <c>&quot;</c>
   <c>,</c>
@@ -265,7 +277,7 @@
   <w>Jón</w>
   <w>Björgvinsson</w>
   <c>,</c>
-  <w><i>Ríkisútvarpinu</i></w>
+  <w><hi>Ríkisútvarpinu</hi></w>
   <c>,</c>
   <w>fyrir</w>
   <w>einstakan</w>
@@ -298,7 +310,7 @@
   <w>Dögg</w>
   <w>Kjartansdóttir</w>
   <c>,</c>
-  <w><i>DV</i></w>
+  <w><hi>DV</hi></w>
   <c>,</c>
   <w>fyrir</w>
   <w>áleitna</w>
@@ -382,7 +394,7 @@
   <w>Hrafnsson</w>
   <revision id="13">
     <original><w>RÚV</w></original>
-    <corrected><w><i>RÚV</i></w></corrected>
+    <corrected><w><hi>RÚV</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -390,7 +402,7 @@
   <c>/</c>
   <revision id="14">
     <original><w>WikiLeaks</w></original>
-    <corrected><w><i>WikiLeaks</i></w></corrected>
+    <corrected><w><hi>WikiLeaks</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1015,7 +1027,7 @@
   <w>Ásdísardóttur</w>
   <revision id="37">
     <original><c>„</c><w>Myndin</w><w>af</w><w>pabba</w><c>“</c></original>
-    <corrected><w><i>Myndin</i></w><w><i>af</i></w><w><i>pabba</i></w></corrected>
+    <corrected><w><hi>Myndin</hi></w><w><hi>af</hi></w><w><hi>pabba</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="37-1" eid="0" />
         <error xtype="nonit4it" idx="37-2" eid="0" />
@@ -1194,7 +1206,7 @@
   <w>sinn</w>
   <revision id="44">
     <original><w>Baráttan</w><w>um</w><w>Íslandsbanka</w></original>
-    <corrected><w><i>Baráttan</i></w><w><i>um</i></w><w><i>Íslandsbanka</i></w></corrected>
+    <corrected><w><hi>Baráttan</hi></w><w><hi>um</hi></w><w><hi>Íslandsbanka</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>

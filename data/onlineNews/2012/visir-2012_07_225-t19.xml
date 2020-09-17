@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>visir-2012_07_225-t19.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <c>„</c>
@@ -156,7 +168,7 @@
   <w>nefnist</w>
   <revision id="4">
     <original><w>úr</w><w>fjötrum</w><w>til</w><w>frelsis</w></original>
-    <corrected><w><i>Úr</i></w><w><i>fjötrum</i></w><w><i>til</i></w><w><i>frelsis</i></w></corrected>
+    <corrected><w><hi>Úr</hi></w><w><hi>fjötrum</hi></w><w><hi>til</hi></w><w><hi>frelsis</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="4-1" eid="0" />
         <error xtype="lower4upper-proper" idx="4-2" eid="0" />

@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Englandsbanki</w>
+  <w>vill</w>
+  <w>að</w>
+  <w>sjálfvirkir</w>
+  <w>slökkvarar</w>
+  <w>verði</w>
+  <w>settir</w>
+  <w>í</w>
+  <w>öll</w>
+  <w>tölvukerfi</w>
+  <w>kauphalla</w>
+  <w>í</w>
+  <w>heiminum</w>
+  <c>,</c>
+  <w>það</w>
+  <w>er</w>
+  <w>kerfin</w>
+  <w>sem</w>
+  <w>stunda</w>
+  <w>sjálfvirk</w>
+  <w>viðskipti</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Þetta</w>
+  <w>á</w>
+  <w>að</w>
+  <w>koma</w>
+  <w>í</w>
+  <w>veg</w>
+  <w>fyrir</w>
+  <w>svipaðan</w>
+  <w>atburð</w>
+  <w>og</w>
+  <w>varð</w>
+  <w>í</w>
+  <w>maí</w>
+  <w>á</w>
+  <w>síðasta</w>
+  <w>ári</w>
+  <w>þegar</w>
+  <w>heimurinn</w>
+  <w>var</w>
+  <w>aðeins</w>
+  <w>20</w>
+  <w>mínútum</w>
+  <w>frá</w>
+  <w>algeru</w>
+  <w>efnahagshruni</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Innsláttarvilla</w>
+  <w>hjá</w>
+  <w>verðbréfasala</w>
+  <w>í</w>
+  <w>kauphöllinni</w>
+  <w>í</w>
+  <w>New</w>
+  <w>York</w>
+  <w>varð</w>
+  <w>þess</w>
+  <w>valdandi</w>
+  <w>að</w>
+  <w>Dow</w>
+  <w>Jones</w>
+  <w>vísitalan</w>
+  <w>hrapaði</w>
+  <w>um</w>
+  <w>9,2%</w>
+  <w>á</w>
+  <w>20</w>
+  <w>mínútum</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Ástæðan</w>
+  <w>var</w>
+  <w>að</w>
+  <w>hin</w>
+  <w>sjálfvirku</w>
+  <w>tölvukerfi</w>
+  <w>settu</w>
+  <w>í</w>
+  <w>gang</w>
+  <w>gífurlega</w>
+  <w>brunaútsölu</w>
+  <w>á</w>
+  <w>bandarískum</w>
+  <w>hlutabréfum</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Fjallað</w>
+  <w>er</w>
+  <w>um</w>
+  <w>málið</w>
+  <w>í</w>
+  <w>Jyllands</w>
+  <w>Posten</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Þar</w>
+  <w>kemur</w>
+  <w>fram</w>
+  <w>að</w>
+  <w>Andy</w>
+  <w>Haldene</w>
+  <revision id="1">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-commas" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>forstöðumaður</w>
+  <w>fjármálastöðugleika</w>
+  <w>hjá</w>
+  <w>Englandsbanka</w>
+  <revision id="2">
+    <original><w>segir</w></original>
+    <corrected><c>,</c><w>segi</w></corrected>
+      <errors>
+        <error xtype="dep" depId="1-1" eid="0" />
+        <error xtype="ind4sub" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>heimurinn</w>
+  <w>þurfi</w>
+  <w>ekki</w>
+  <w>að</w>
+  <w>bíða</w>
+  <w>með</w>
+  <revision id="3">
+    <original><w>það</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>viðurkenna</w>
+  <w>að</w>
+  <w>fyrrgreindur</w>
+  <w>atburður</w>
+  <revision id="4">
+    <original><w>var</w></original>
+    <corrected><w>hafi</w></corrected>
+      <errors>
+        <error xtype="wording" idx="4-1" eid="0" />
+      </errors>
+  </revision>
+  <w>ekki</w>
+  <revision id="5">
+    <original></original>
+    <corrected><w>verið</w></corrected>
+      <errors>
+        <error xtype="dep" depId="4-1" eid="0" />
+      </errors>
+  </revision>
+  <w>tilviljun</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <c>„</c>
+  <w>Við</w>
+  <w>lærðum</w>
+  <w>verðmæta</w>
+  <w>lexíu</w>
+  <w>af</w>
+  <w>þessum</w>
+  <w>atburði</w>
+  <w>um</w>
+  <w>markaðina</w>
+  <c>.</c>
+</s>
+<s n="8">
+  <w>Ekki</w>
+  <w>bara</w>
+  <w>að</w>
+  <w>þeir</w>
+  <w>eru</w>
+  <w>ófullkomnir</w>
+  <w>heldur</w>
+  <w>að</w>
+  <w>mistök</w>
+  <w>geta</w>
+  <w>sent</w>
+  <w>kerfislægar</w>
+  <w>höggbylgjur</w>
+  <w>í</w>
+  <w>gegnum</w>
+  <w>þá</w>
+  <c>,</c>
+  <c>“</c>
+  <w>segir</w>
+  <w>Haldene</w>
+  <w>í</w>
+  <w>ræðu</w>
+  <w>sem</w>
+  <w>hann</w>
+  <w>hélt</w>
+  <w>í</w>
+  <w>Kína</w>
+  <w>um</w>
+  <w>málið</w>
+  <c>.</c>
+</s>
+<s n="9">
+  <w>Það</w>
+  <w>sem</w>
+  <w>Haldene</w>
+  <w>á</w>
+  <w>við</w>
+  <w>eru</w>
+  <w>háhraðaviðskipti</w>
+  <revision id="6">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-commas" idx="6-1" eid="0" />
+      </errors>
+  </revision>
+  <w>eða</w>
+  <w>High</w>
+  <w>Frequency</w>
+  <w>Trades</w>
+  <c>(</c>
+  <w>HTF</w>
+  <c>)</c>
+  <revision id="7">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="dep" depId="6-1" eid="0" />
+      </errors>
+  </revision>
+  <w>en</w>
+  <w>þau</w>
+  <w>komu</w>
+  <w>skriðunni</w>
+  <w>af</w>
+  <w>stað</w>
+  <w>í</w>
+  <w>kauphöllinni</w>
+  <w>í</w>
+  <w>New</w>
+  <w>York</w>
+  <c>.</c>
+</s>
+<s n="10">
+  <w>Tölvukerfi</w>
+  <w>geta</w>
+  <w>nú</w>
+  <w>framkvæmt</w>
+  <w>um</w>
+  <w>40.000</w>
+  <w>HTF</w>
+  <w>á</w>
+  <w>sama</w>
+  <w>tíma</w>
+  <w>og</w>
+  <w>það</w>
+  <w>tekur</w>
+  <w>að</w>
+  <w>blikka</w>
+  <w>augunum</w>
+  <c>.</c>
+</s>
+<s n="11">
+  <w>Ef</w>
+  <w>stórmarkaðir</w>
+  <w>væru</w>
+  <w>með</w>
+  <w>svipað</w>
+  <w>kerfi</w>
+  <w>gæti</w>
+  <w>fjölskylda</w>
+  <w>keypt</w>
+  <w>allt</w>
+  <w>sem</w>
+  <w>hún</w>
+  <w>þyrfti</w>
+  <w>til</w>
+  <w>lífstíðar</w>
+  <w>á</w>
+  <w>innan</w>
+  <w>við</w>
+  <w>sekúndu</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

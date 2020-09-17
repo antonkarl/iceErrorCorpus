@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_12-t1.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Framleiðslukostnaður</w>
@@ -401,7 +413,7 @@
   <w>dæmis</w>
   <revision id="17">
     <original><w>P.</w><w>Monodon</w></original>
-    <corrected><w><i>P.</i></w><w><i>Monodon</i></w></corrected>
+    <corrected><w><hi>P.</hi></w><w><hi>Monodon</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -904,8 +916,8 @@
   <c>(</c>
   <w>fræðiheiti</w>
   <c>:</c>
-  <w><i>Litopenaeus</i></w>
-  <w><i>vannamei</i></w>
+  <w><hi>Litopenaeus</hi></w>
+  <w><hi>vannamei</hi></w>
   <revision id="39">
     <original/>
     <corrected><c>,</c></corrected>
@@ -914,8 +926,8 @@
       </errors>
   </revision>
   <w>áður</w>
-  <w><i>Penaeus</i></w>
-  <w><i>vannamei</i></w>
+  <w><hi>Penaeus</hi></w>
+  <w><hi>vannamei</hi></w>
   <c>)</c>
   <w>er</w>
   <w>hvítfætt</w>

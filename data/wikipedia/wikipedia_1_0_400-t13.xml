@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_400-t13.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Ólafs</w>
@@ -96,9 +108,9 @@
   <w>enn</w>
   <w>aðrir</w>
   <w>telja</w>
-  <w><i>Pilt</i></w>
-  <w><i>og</i></w>
-  <w><i>stúlku</i></w>
+  <w><hi>Pilt</hi></w>
+  <w><hi>og</hi></w>
+  <w><hi>stúlku</hi></w>
   <w>eftir</w>
   <w>Jón</w>
   <w>Thoroddsen</w>

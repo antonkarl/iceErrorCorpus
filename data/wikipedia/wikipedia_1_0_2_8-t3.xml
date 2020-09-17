@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_8-t3.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>FH-ingar</w>
@@ -323,13 +335,13 @@
   <w>sínum</w>
   <c>.</c>
 </s><s n="24">
-  <w><i>Úrslitaleikir</i></w>
-  <w><i>um</i></w>
-  <w><i>sæti</i></w>
-  <w><i>í</i></w>
-  <w><i>1</i></w>
+  <w><hi>Úrslitaleikir</hi></w>
+  <w><hi>um</hi></w>
+  <w><hi>sæti</hi></w>
+  <w><hi>í</hi></w>
+  <w><hi>1</hi></w>
   <c>.</c>
-  <w><i>deild</i></w>
+  <w><hi>deild</hi></w>
   <revision id="6">
     <original/>
     <corrected><c>.</c></corrected>
@@ -337,9 +349,9 @@
         <error xtype="missing-period" eid="0"/>
       </errors>
   </revision>
-  <w><i>Úrslitakeppni</i></w>
-  <w><i>um</i></w>
-  <w><i>fall</i></w>
+  <w><hi>Úrslitakeppni</hi></w>
+  <w><hi>um</hi></w>
+  <w><hi>fall</hi></w>
   <c>.</c>
 </s><s n="25">
   <w>Leikið</w>

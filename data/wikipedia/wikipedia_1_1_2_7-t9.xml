@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_7-t9.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="0">
   <revision id="1">
@@ -373,7 +385,7 @@
   <c>,</c>
   <revision id="17">
     <original><w>Thriller</w></original>
-    <corrected><w><i>Thriller</i></w></corrected>
+    <corrected><w><hi>Thriller</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -437,7 +449,7 @@
   <w>platan</w>
   <revision id="19">
     <original><w>Control</w></original>
-    <corrected><w><i>Control</i></w></corrected>
+    <corrected><w><hi>Control</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -531,7 +543,7 @@
   <w>Velgengni</w>
   <revision id="23">
     <original><w>Control</w></original>
-    <corrected><w><i>Control</i></w></corrected>
+    <corrected><w><hi>Control</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -562,7 +574,7 @@
   <w>og</w>
   <revision id="24">
     <original><w>Control</w></original>
-    <corrected><w><i>Control</i></w></corrected>
+    <corrected><w><hi>Control</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -826,7 +838,7 @@
   <w>plötuna</w>
   <revision id="39">
     <original><w>Dangerous</w></original>
-    <corrected><w><i>Dangerous</i></w></corrected>
+    <corrected><w><hi>Dangerous</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1088,7 +1100,7 @@
   <w>sæti</w>
   <revision id="51">
     <original><w>Billboard</w><w>listans</w></original>
-    <corrected><w><i>Billboard</i></w><c>-listans</c></corrected>
+    <corrected><w><hi>Billboard</hi></w><c>-listans</c></corrected>
       <errors>
         <error xtype="nonit4it" idx="51-1" eid="0" />
         <error xtype="missing-dash" idx="51-2" eid="0" />
@@ -1189,7 +1201,7 @@
   <w>af</w>
   <revision id="58">
     <original><w>Billboard</w><w>tímaritinu</w></original>
-    <corrected><w><i>Billboard</i></w><c>-tímaritinu</c></corrected>
+    <corrected><w><hi>Billboard</hi></w><c>-tímaritinu</c></corrected>
       <errors>
         <error xtype="nonit4it" idx="58-1" eid="0" />
         <error xtype="missing-dash" idx="58-2" eid="0" />
@@ -1373,7 +1385,7 @@
   <w>af</w>
   <revision id="65">
     <original><w>Billboard</w><w>tímaritinu</w></original>
-    <corrected><w><i>Billboard</i></w><c>-tímaritinu</c></corrected>
+    <corrected><w><hi>Billboard</hi></w><c>-tímaritinu</c></corrected>
       <errors>
         <error xtype="nonit4it" idx="65-1" eid="0" />
         <error xtype="missing-dash" idx="65-2" eid="0" />
@@ -1406,7 +1418,7 @@
   <w>af</w>
   <revision id="66">
     <original><w>Billboard</w><w>tímaritinu</w></original>
-    <corrected><w><i>Billboard</i></w><c>-tímaritinu</c></corrected>
+    <corrected><w><hi>Billboard</hi></w><c>-tímaritinu</c></corrected>
       <errors>
         <error xtype="nonit4it" idx="66-1" eid="0" />
         <error xtype="missing-dash" idx="66-2" eid="0" />
@@ -1626,7 +1638,7 @@
   <w>vinsældarlista</w>
   <revision id="77">
     <original><w>Billboard</w></original>
-    <corrected><w><i>Billboard</i></w></corrected>
+    <corrected><w><hi>Billboard</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1658,7 +1670,7 @@
   <w>á</w>
   <revision id="79">
     <original><w>ryþmablús</w><w>lista</w><w>Billboard</w><w>tímaritsins</w></original>
-    <corrected><w>ryþmablúslista</w><w><i>Billboard</i></w><c>-tímaritsins</c></corrected>
+    <corrected><w>ryþmablúslista</w><w><hi>Billboard</hi></w><c>-tímaritsins</c></corrected>
       <errors>
         <error xtype="split-compound" idx="79-1" eid="0" />
         <error xtype="nonit4it" idx="79-2" eid="0" />

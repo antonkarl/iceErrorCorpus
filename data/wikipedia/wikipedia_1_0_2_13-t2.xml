@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_13-t2.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Öll</w>
@@ -496,8 +508,8 @@
   <w>Bandaríkjunum</w>
   <w>er</w>
   <w>hugtakið</w>
-  <w><i>traffic</i></w>
-  <w><i>circle</i></w>
+  <w><hi>traffic</hi></w>
+  <w><hi>circle</hi></w>
   <w>notað</w>
   <w>um</w>
   <w>gatnamót</w>
@@ -513,7 +525,7 @@
   <w>rétti</w>
   <w>á</w>
   <w>meðan</w>
-  <w><i>roundabout</i></w>
+  <w><hi>roundabout</hi></w>
   <w>er</w>
   <w>notað</w>
   <w>sérstaklega</w>
@@ -1133,7 +1145,7 @@
   <c>(</c>
   <w>e.</w>
   <revision id="25">
-    <original><w><i>roundabout</i></w></original>
+    <original><w><hi>roundabout</hi></w></original>
     <corrected><w>roundabout</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>

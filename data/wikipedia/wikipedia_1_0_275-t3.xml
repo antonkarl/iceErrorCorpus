@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_275-t3.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Henry</w>
@@ -120,19 +132,19 @@
   <c>(</c>
   <w>úr</w>
   <w>myndinni</w>
-  <w><i>Breakfast</i></w>
-  <w><i>at</i></w>
-  <w><i>Tiffany's</i></w>
+  <w><hi>Breakfast</hi></w>
+  <w><hi>at</hi></w>
+  <w><hi>Tiffany's</hi></w>
   <w>frá</w>
   <w>árinu 1961</w>
   <c>)</c>
   <w>og</w>
   <w>þemalög</w>
   <w>myndanna</w>
-  <w><i>Bleiki</i></w>
-  <w><i>pardusinn</i></w>
+  <w><hi>Bleiki</hi></w>
+  <w><hi>pardusinn</hi></w>
   <w>og</w>
-  <w><i>Charade</i></w>
+  <w><hi>Charade</hi></w>
   <w>sem</w>
   <w>báðar</w>
   <w>komu</w>
@@ -151,7 +163,7 @@
   <w>við</w>
   <w>myndina</w>
   <w>um</w>
-  <w><i>Smáfólkið</i></w>
+  <w><hi>Smáfólkið</hi></w>
   <c>,</c>
   <w>en</w>
   <revision id="2">

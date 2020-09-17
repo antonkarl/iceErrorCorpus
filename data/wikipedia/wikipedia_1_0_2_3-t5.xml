@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_3-t5.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Grundvöllur</w>
@@ -501,7 +513,7 @@
   <w>í</w>
   <revision id="32">
     <original><w>Smestad-barnaskólann</w></original>
-    <corrected><w>barnaskólann</w><w><i>Smestad</i></w></corrected>
+    <corrected><w>barnaskólann</w><w><hi>Smestad</hi></w></corrected>
       <errors>
         <error xtype="wording" idx="9-1" eid="0"/>
         <error xtype="nonit4it" idx="9-1" eid="0"/>
@@ -510,7 +522,7 @@
   <c>,</c>
   <revision id="33">
     <original><w>Ris-gagnfræðaskólann</w></original>
-    <corrected><w>gagnfræðaskólann</w><w><i>Ris</i></w></corrected>
+    <corrected><w>gagnfræðaskólann</w><w><hi>Ris</hi></w></corrected>
       <errors>
         <error xtype="wording" idx="10-1" eid="0"/>
         <error xtype="nonit4it" idx="10-1" eid="0"/>
@@ -534,8 +546,8 @@
         <error xtype="extra-bracket" eid="0"/>
       </errors>
   </revision>
-  <w><i>Oslo</i></w>
-  <w><i>Handelsgymnasium</i></w>
+  <w><hi>Oslo</hi></w>
+  <w><hi>Handelsgymnasium</hi></w>
   <revision id="36">
     <original><c>)</c></original>
     <corrected/>
@@ -844,7 +856,7 @@
   <w>vefsíðunnar</w>
   <revision id="60">
     <original><w>Document</w><c>.</c><w>no</w></original>
-    <corrected><w><i>Document.no</i></w></corrected>
+    <corrected><w><hi>Document.no</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

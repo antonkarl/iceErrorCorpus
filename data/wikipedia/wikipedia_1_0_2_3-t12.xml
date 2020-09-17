@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_3-t12.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <revision id="1">
@@ -146,7 +158,7 @@
   <w>notar</w>
   <revision id="11">
     <original><w>skráptunguna</w></original>
-    <corrected><w><i>skráptungu</i></w></corrected>
+    <corrected><w><hi>skráptungu</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="55-1" eid="0"/>
         <error xtype="def4ind" idx="55-1" eid="0"/>
@@ -548,7 +560,7 @@
 </s><s n="19">
   <revision id="42">
     <original><w>Fortálknar</w><w>eins</w><w>og</w><w>nákuðungurinn</w></original>
-    <corrected><w>Nákuðungar</w><w>eru</w><w><i>fortálknar</i></w><w>en</w><w>þeir</w></corrected>
+    <corrected><w>Nákuðungar</w><w>eru</w><w><hi>fortálknar</hi></w><w>en</w><w>þeir</w></corrected>
       <errors>
         <error xtype="wording" idx="70-1" eid="0"/>
       </errors>
@@ -1009,8 +1021,8 @@
   <c>(</c>
   <w>fræðiheiti</w>
   <c>:</c>
-  <w><i>Nucella</i></w>
-  <w><i>lapillus</i></w>
+  <w><hi>Nucella</hi></w>
+  <w><hi>lapillus</hi></w>
   <c>)</c>
   <w>er</w>
   <w>sæsnigill</w>

@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_275-t8.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Kongófljót</w>
@@ -86,14 +98,14 @@
   <w>hét</w>
   <w>formlega</w>
   <revision id="2">
-    <original><w><i>Saír</i></w></original>
+    <original><w><hi>Saír</hi></w></original>
     <corrected><w>Saír</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
       </errors>
   </revision>
   <c>(</c>
-  <w><i>aïre</i></w>
+  <w><hi>aïre</hi></w>
   <c>)</c>
   <c>,</c>
   <w>kölluðu</w>
@@ -101,7 +113,7 @@
   <w>fljótið</w>
   <w>Saírfljót</w>
   <c>(</c>
-  <w><i>aïre-fljót</i></w>
+  <w><hi>aïre-fljót</hi></w>
   <c>)</c>
   <c>.</c>
 </s>

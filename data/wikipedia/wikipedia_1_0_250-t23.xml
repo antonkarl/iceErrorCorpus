@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_250-t23.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Breskar</w>
@@ -376,10 +388,10 @@
   <w>Sambandslýðstjórnarlýðveldið</w>
   <w>Eþíópía</w>
   <c>(</c>
-  <w><i>Ityop'iya</i></w>
-  <w><i>Federalawi</i></w>
-  <w><i>demokrasiyawi</i></w>
-  <w><i>Republik</i></w>
+  <w><hi>Ityop'iya</hi></w>
+  <w><hi>Federalawi</hi></w>
+  <w><hi>demokrasiyawi</hi></w>
+  <w><hi>Republik</hi></w>
   <c>)</c>
   <c>.</c>
 </s><s n="14">
@@ -406,7 +418,7 @@
   <w>amharíska</w>
   <c>:</c>
   <w>ኢትዮጵያ</w>
-  <w><i>Ityop'iy</i></w>
+  <w><hi>Ityop'iy</hi></w>
   <c>)</c>
   <w>er</w>
   <w>landlukt</w>

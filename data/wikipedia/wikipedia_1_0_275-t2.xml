@@ -1,14 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_275-t2.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Austur-Kongó</w>
   <c>(</c>
-  <w><i>République</i></w>
-  <w><i>Démocratique</i></w>
-  <w><i>du</i></w>
-  <w><i>Congo</i></w>
+  <w><hi>République</hi></w>
+  <w><hi>Démocratique</hi></w>
+  <w><hi>du</hi></w>
+  <w><hi>Congo</hi></w>
   <c>,</c>
   <w>þýtt</w>
   <w>sem</w>

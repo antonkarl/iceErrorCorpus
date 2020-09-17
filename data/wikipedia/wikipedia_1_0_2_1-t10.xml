@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_1-t10.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Jeffrey</w>
@@ -25,7 +37,7 @@
   <w>í</w>
   <revision id="1">
     <original><w>Burn</w><w>Notice</w></original>
-    <corrected><w><i>Burn</i></w><w><i>Notice</i></w></corrected>
+    <corrected><w><hi>Burn</hi></w><w><hi>Notice</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -33,7 +45,7 @@
   <c>,</c>
   <revision id="2">
     <original><w>Touching</w><w>Evil</w></original>
-    <corrected><w><i>Touching</i></w><w><i>Evil</i></w></corrected>
+    <corrected><w><hi>Touching</hi></w><w><hi>Evil</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -41,7 +53,7 @@
   <c>,</c>
   <revision id="3">
     <original><w>Crossing</w><w>Jordan</w></original>
-    <corrected><w><i>Crossing</i></w><w><i>Jordan</i></w></corrected>
+    <corrected><w><hi>Crossing</hi></w><w><hi>Jordan</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -49,7 +61,7 @@
   <w>og</w>
   <revision id="4">
     <original><w>Changeling</w></original>
-    <corrected><w><i>Changeling</i></w></corrected>
+    <corrected><w><hi>Changeling</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -192,22 +204,22 @@
   <w>á</w>
   <w>borð</w>
   <w>við</w>
-  <w><i>A</i></w>
-  <w><i>View</i></w>
-  <w><i>from</i></w>
-  <w><i>the</i></w>
-  <w><i>Bridge</i></w>
+  <w><hi>A</hi></w>
+  <w><hi>View</hi></w>
+  <w><hi>from</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>Bridge</hi></w>
   <c>,</c>
-  <w><i>Troilus</i></w>
-  <w><i>and</i></w>
-  <w><i>Cressida</i></w>
+  <w><hi>Troilus</hi></w>
+  <w><hi>and</hi></w>
+  <w><hi>Cressida</hi></w>
   <c>,</c>
-  <w><i>The</i></w>
-  <w><i>Glory</i></w>
-  <w><i>of</i></w>
-  <w><i>Living</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Glory</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>Living</hi></w>
   <w>og</w>
-  <w><i>Freedomland</i></w>
+  <w><hi>Freedomland</hi></w>
   <c>.</c>
 </s>
 <s n="7">
@@ -215,14 +227,14 @@
   <w>leikstýrði</w>
   <revision id="13">
     <original><w>Burn</w><w>Notice</w></original>
-    <corrected><w><i>Burn</i></w><w><i>Notice</i></w></corrected>
+    <corrected><w><hi>Burn</hi></w><w><hi>Notice</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
   </revision>
   <w>þættinum</w>
-  <w><i>Made</i></w>
-  <w><i>Man</i></w>
+  <w><hi>Made</hi></w>
+  <w><hi>Man</hi></w>
   <w>árið 2010</w>
   <c>.</c>
 </s>
@@ -232,20 +244,20 @@
   <w>hann</w>
   <revision id="14">
     <original><w>Burn</w><w>Notice</w></original>
-    <corrected><w><i>Burn</i></w><w><i>Notice</i></w></corrected>
+    <corrected><w><hi>Burn</hi></w><w><hi>Notice</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
   </revision>
   <w>sjónvarpsmyndinni</w>
-  <w><i>Burn</i></w>
-  <w><i>Notice</i></w>
+  <w><hi>Burn</hi></w>
+  <w><hi>Notice</hi></w>
   <c>:</c>
-  <w><i>The</i></w>
-  <w><i>Fall</i></w>
-  <w><i>of</i></w>
-  <w><i>Sam</i></w>
-  <w><i>Axe</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Fall</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>Sam</hi></w>
+  <w><hi>Axe</hi></w>
   <w>árið 2011</w>
   <c>.</c>
 </s>
@@ -256,12 +268,12 @@
   <w>var</w>
   <w>árið 1995</w>
   <w>í</w>
-  <w><i>Homicde</i></w>
+  <w><hi>Homicde</hi></w>
   <c>:</c>
-  <w><i>Life</i></w>
-  <w><i>on</i></w>
-  <w><i>the</i></w>
-  <w><i>Street</i></w>
+  <w><hi>Life</hi></w>
+  <w><hi>on</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>Street</hi></w>
   <c>.</c>
 </s>
 <s n="10">
@@ -276,12 +288,12 @@
   <w>á</w>
   <w>borð</w>
   <w>við</w>
-  <w><i>Spin</i></w>
-  <w><i>City</i></w>
+  <w><hi>Spin</hi></w>
+  <w><hi>City</hi></w>
   <c>,</c>
   <revision id="15">
     <original><w>Monk</w></original>
-    <corrected><w><i>Monk</i></w></corrected>
+    <corrected><w><hi>Monk</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -289,7 +301,7 @@
   <w>og</w>
   <revision id="16">
     <original><w>Law</w><c>&amp;</c><w>Order</w></original>
-    <corrected><w><i>Law</i></w><c><i>&amp;</i></c><w><i>Order</i></w></corrected>
+    <corrected><w><hi>Law</hi></w><c><hi>&amp;</hi></c><w><hi>Order</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -312,7 +324,7 @@
   <w>í</w>
   <revision id="19">
     <original><w>Touching</w><w>Evil</w></original>
-    <corrected><w><i>Touching</i></w><w><i>Evil</i></w></corrected>
+    <corrected><w><hi>Touching</hi></w><w><hi>Evil</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -349,7 +361,7 @@
   <w>í</w>
   <revision id="21">
     <original><w>Burn</w><w>Notice</w></original>
-    <corrected><w><i>Burn</i></w><w><i>Notice</i></w></corrected>
+    <corrected><w><hi>Burn</hi></w><w><hi>Notice</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -392,8 +404,8 @@
   <w>var</w>
   <w>árið 1995</w>
   <w>í</w>
-  <w><i>Throwing</i></w>
-  <w><i>Down</i></w>
+  <w><hi>Throwing</hi></w>
+  <w><hi>Down</hi></w>
   <c>.</c>
 </s>
 <s n="14">
@@ -408,15 +420,15 @@
   <w>á</w>
   <w>borð</w>
   <w>við</w>
-  <w><i>Sleepers</i></w>
+  <w><hi>Sleepers</hi></w>
   <c>,</c>
-  <w><i>Bait</i></w>
+  <w><hi>Bait</hi></w>
   <c>,</c>
-  <w><i>Purpose</i></w>
+  <w><hi>Purpose</hi></w>
   <c>,</c>
-  <w><i>Hitch</i></w>
+  <w><hi>Hitch</hi></w>
   <w>og</w>
-  <w><i>Changeling</i></w>
+  <w><hi>Changeling</hi></w>
   <c>.</c>
 </s>
 </p></body></text>

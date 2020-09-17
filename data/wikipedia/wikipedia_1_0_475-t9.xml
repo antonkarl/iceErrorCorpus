@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_475-t9.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Myndin</w>
@@ -13,8 +25,8 @@
   <w>og</w>
   <w>var</w>
   <w>lagið</w>
-  <w><i>Vanilla</i></w>
-  <w><i>Sky</i></w>
+  <w><hi>Vanilla</hi></w>
+  <w><hi>Sky</hi></w>
   <w>sem</w>
   <w>Paul</w>
   <w>McCartney</w>
@@ -74,9 +86,9 @@
   <w>af</w>
   <w>spænsku</w>
   <w>myndinni</w>
-  <w><i>Abre</i></w>
-  <w><i>los</i></w>
-  <w><i>ojos</i></w>
+  <w><hi>Abre</hi></w>
+  <w><hi>los</hi></w>
+  <w><hi>ojos</hi></w>
   <revision id="4">
     <original><c>(</c></original>
     <corrected><w>eða</w><c>„</c></corrected>
@@ -118,7 +130,7 @@
 </s><s n="4">
   <revision id="6">
     <original><w>Vanilla</w><w>Sky</w></original>
-    <corrected><w><i>Vanilla</i></w><w><i>Sky</i></w></corrected>
+    <corrected><w><hi>Vanilla</hi></w><w><hi>Sky</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

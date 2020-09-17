@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_375-t24.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Páll</w>
@@ -119,9 +131,9 @@
   <w>hans</w>
   <w>er</w>
   <w>líklegast</w>
-  <w><i>Hafið</i></w>
-  <w><i>hugann</i></w>
-  <w><i>dregur</i></w>
+  <w><hi>Hafið</hi></w>
+  <w><hi>hugann</hi></w>
+  <w><hi>dregur</hi></w>
   <w>sem</w>
   <w>kom</w>
   <w>út</w>

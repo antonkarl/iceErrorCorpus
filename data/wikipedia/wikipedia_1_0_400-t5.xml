@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_400-t5.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Benjamín</w>
@@ -72,7 +84,7 @@
   <w>leynilegum</w>
   <w>flokksskóla</w>
   <c>,</c>
-  <w><i>Vesturskólanum</i></w>
+  <w><hi>Vesturskólanum</hi></w>
   <revision id="2">
     <original></original>
     <corrected><c>,</c></corrected>
@@ -282,8 +294,8 @@
   <w>safnað</w>
   <w>saman</w>
   <w>í</w>
-  <w><i>Rit</i></w>
-  <w><i></i></w>
+  <w><hi>Rit</hi></w>
+  <w><hi></hi></w>
   <w>1938</w>
   <c>–</c>
   <w>1965Z</w>

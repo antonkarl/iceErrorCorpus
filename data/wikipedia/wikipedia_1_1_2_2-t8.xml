@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_2-t8.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Jean-Claude</w>
@@ -65,7 +77,7 @@
   <w>belgíska</w>
   <w>útgáfufyrirtækinu</w>
   <revision id="1">
-    <original><w><i>Dupuis</i></w></original>
+    <original><w><hi>Dupuis</hi></w></original>
     <corrected><w>Dupuis</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -120,7 +132,7 @@
   <w>Fourniers</w>
   <w>um</w>
   <revision id="2">
-    <original><w><i>Bizu</i></w></original>
+    <original><w><hi>Bizu</hi></w></original>
     <corrected><w>Bizu</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -162,7 +174,7 @@
   <w>og</w>
   <w>stjórnendur</w>
   <revision id="4">
-    <original><w><i>Dupuis-útgáfunnar</i></w></original>
+    <original><w><hi>Dupuis-útgáfunnar</hi></w></original>
     <corrected><w>Dupuis-útgáfunnar</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -207,7 +219,7 @@
   <w>sem</w>
   <w>framhaldssaga</w>
   <c>,</c>
-  <w><i>Gullgerðarmaðurinn</i></w>
+  <w><hi>Gullgerðarmaðurinn</hi></w>
   <revision id="5">
     <original></original>
     <corrected><c>,</c></corrected>
@@ -469,7 +481,7 @@
   <w>að</w>
   <w>stjórnendur</w>
   <revision id="6">
-    <original><w><i>Dupuis</i></w></original>
+    <original><w><hi>Dupuis</hi></w></original>
     <corrected><w>Dupuis</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -517,7 +529,7 @@
   <w>sagna</w>
   <w>um</w>
   <revision id="8">
-    <original><w><i>Bizu</i></w></original>
+    <original><w><hi>Bizu</hi></w></original>
     <corrected><w>Bizu</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -538,8 +550,8 @@
   <w>bækur</w>
   <w>í</w>
   <w>ritröðinni</w>
-  <w><i>Les</i></w>
-  <w><i>Crannibales</i></w>
+  <w><hi>Les</hi></w>
+  <w><hi>Crannibales</hi></w>
   <c>,</c>
   <w>sem</w>
   <w>eru</w>
@@ -573,10 +585,10 @@
   <w>kross</w>
   <w>með</w>
   <w>bókaflokknum</w>
-  <w><i>Les</i></w>
-  <w><i>Chevaux</i></w>
-  <w><i>du</i></w>
-  <w><i>vent</i></w>
+  <w><hi>Les</hi></w>
+  <w><hi>Chevaux</hi></w>
+  <w><hi>du</hi></w>
+  <w><hi>vent</hi></w>
   <w>í</w>
   <w>samstarfi</w>
   <w>við</w>

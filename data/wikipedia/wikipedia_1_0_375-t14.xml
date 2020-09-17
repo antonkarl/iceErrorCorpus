@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_375-t14.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Duggals</w>
@@ -57,8 +69,8 @@
   <w>latnesku</w>
   <w>riti</w>
   <c>,</c>
-  <w><i>Visio</i></w>
-  <w><i>Tnugdali</i></w>
+  <w><hi>Visio</hi></w>
+  <w><hi>Tnugdali</hi></w>
   <c>,</c>
   <w>einu</w>
   <w>kunnasta</w>
@@ -139,7 +151,7 @@
   <w>af</w>
   <revision id="5">
     <original><w>Visio</w><w>Tnugdali</w></original>
-    <corrected><w><i>Visio</i></w><w><i>Tnugdali</i></w></corrected>
+    <corrected><w><hi>Visio</hi></w><w><hi>Tnugdali</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>

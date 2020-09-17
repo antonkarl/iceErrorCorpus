@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_200-t13.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Obote</w>
@@ -172,7 +184,7 @@
   <w>að</w>
   <revision id="6">
     <original><w>Stóru</w><w>vötnunum</w></original>
-    <corrected><w><i>stóru</i></w><w><i>vötnunum</i></w></corrected>
+    <corrected><w><hi>stóru</hi></w><w><hi>vötnunum</hi></w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="1-1" eid="0"/>
         <error xtype="nonit4it" idx="1-1" eid="0"/>
@@ -234,7 +246,7 @@
   <w>við</w>
   <revision id="8">
     <original><w>Andspyrnuher</w><w>Drottins</w></original>
-    <corrected><w><i>Andspyrnuher</i></w><w><i>drottins</i></w><c>,</c></corrected>
+    <corrected><w><hi>Andspyrnuher</hi></w><w><hi>drottins</hi></w><c>,</c></corrected>
       <errors>
         <error xtype="nonit4it" idx="7-1" eid="0"/>
         <error xtype="upper4lower-common" idx="7-1" eid="0"/>

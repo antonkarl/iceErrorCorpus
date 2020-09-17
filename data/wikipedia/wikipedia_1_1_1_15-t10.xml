@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_15-t10.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Landið</w>
@@ -81,8 +93,8 @@
   <w>sem</w>
   <w>Pakistan</w>
   <w>ræður</w>
-  <w><i>de</i></w>
-  <w><i>facto</i></w>
+  <w><hi>de</hi></w>
+  <w><hi>facto</hi></w>
   <w>yfir</w>
   <c>.</c>
 </s><s n="4">
@@ -252,10 +264,10 @@
   <w>اسلامی</w>
   <w>جمہوریۂ</w>
   <w>پاکستان</w>
-  <w><i>islāmī</i></w>
-  <w><i>jamhūriya</i></w>
-  <w><i>i</i></w>
-  <w><i>pākistān</i></w>
+  <w><hi>islāmī</hi></w>
+  <w><hi>jamhūriya</hi></w>
+  <w><hi>i</hi></w>
+  <w><hi>pākistān</hi></w>
   <c>)</c>
   <w>er</w>
   <w>land</w>

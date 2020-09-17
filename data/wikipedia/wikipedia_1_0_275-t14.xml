@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_275-t14.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Henry</w>
@@ -133,9 +145,9 @@
   <w>hans</w>
   <w>er</w>
   <w>óperan</w>
-  <w><i>Dido</i></w>
-  <w><i>and</i></w>
-  <w><i>Aeneas</i></w>
+  <w><hi>Dido</hi></w>
+  <w><hi>and</hi></w>
+  <w><hi>Aeneas</hi></w>
   <c>.</c>
 </s>
 <s n="8">
@@ -145,10 +157,10 @@
   <w>er</w>
   <w>talið</w>
   <w>vera</w>
-  <w><i>Te</i></w>
-  <w><i>Deum</i></w>
-  <w><i>and</i></w>
-  <w><i>Jubilate</i></w>
+  <w><hi>Te</hi></w>
+  <w><hi>Deum</hi></w>
+  <w><hi>and</hi></w>
+  <w><hi>Jubilate</hi></w>
   <c>,</c>
   <w>fyrsti</w>
   <w>lofsöngurinn</w>
@@ -187,11 +199,11 @@
   <w>til</w>
   <w>skiptis</w>
   <w>við</w>
-  <w><i>Utrecht</i></w>
-  <w><i>te</i></w>
-  <w><i>Deum</i></w>
-  <w><i>and</i></w>
-  <w><i>Jubilate</i></w>
+  <w><hi>Utrecht</hi></w>
+  <w><hi>te</hi></w>
+  <w><hi>Deum</hi></w>
+  <w><hi>and</hi></w>
+  <w><hi>Jubilate</hi></w>
   <w>eftir</w>
   <w>Georg</w>
   <w>Friedrich</w>
@@ -199,9 +211,9 @@
   <w>til</w>
   <w>1743</w>
   <w>þegar</w>
-  <w><i>Dettingen</i></w>
-  <w><i>Te</i></w>
-  <w><i>Deum</i></w>
+  <w><hi>Dettingen</hi></w>
+  <w><hi>Te</hi></w>
+  <w><hi>Deum</hi></w>
   <w>Händels</w>
   <w>tók</w>
   <w>við</w>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Slökkviliðinu</w>
+  <w>var</w>
+  <w>tilkynnt</w>
+  <w>um</w>
+  <w>eld</w>
+  <w>í</w>
+  <w>íbúð</w>
+  <w>í</w>
+  <w>fjölbýlishúsi</w>
+  <w>við</w>
+  <w>Álftamýri</w>
+  <w>í</w>
+  <w>Reykjavík</w>
+  <w>í</w>
+  <w>gærkvöldi</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Þegar</w>
+  <w>það</w>
+  <w>kom</w>
+  <w>á</w>
+  <w>vettvang</w>
+  <w>var</w>
+  <w>mikill</w>
+  <w>reykur</w>
+  <w>í</w>
+  <w>íbúðinni</w>
+  <revision id="1">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>en</w>
+  <revision id="2">
+    <original><w>engin</w></original>
+    <corrected><w>enginn</w></corrected>
+      <errors>
+        <error xtype="agreement-concord" eid="0" />
+      </errors>
+  </revision>
+  <w>eldur</w>
+  <c>,</c>
+  <w>heldur</w>
+  <w>hafði</w>
+  <w>pottur</w>
+  <w>gleymst</w>
+  <w>á</w>
+  <w>logandi</w>
+  <w>eldavél</w>
+  <w>og</w>
+  <w>hafði</w>
+  <w>innihald</w>
+  <w>hans</w>
+  <w>sviðnað</w>
+  <w>með</w>
+  <w>þessum</w>
+  <w>afleiðingum</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Engum</w>
+  <w>varð</w>
+  <w>meint</w>
+  <w>af</w>
+  <w>og</w>
+  <w>reykræsti</w>
+  <w>slökkviliðið</w>
+  <w>íbúðina</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

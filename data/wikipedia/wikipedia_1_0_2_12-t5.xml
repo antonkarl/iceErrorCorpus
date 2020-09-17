@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_12-t5.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Fyrsta</w>
@@ -10,9 +22,9 @@
   <w>árið 1986</w>
   <w>í</w>
   <w>sjónvarpsmyndinni</w>
-  <w><i>Between</i></w>
-  <w><i>Two</i></w>
-  <w><i>Women</i></w>
+  <w><hi>Between</hi></w>
+  <w><hi>Two</hi></w>
+  <w><hi>Women</hi></w>
   <c>.</c>
 </s><s n="2">
   <w>Fyrsta</w>
@@ -23,7 +35,7 @@
   <w>í</w>
   <revision id="1">
     <original><w>Free</w><w>Willy</w></original>
-    <corrected><w><i>Free</i></w><w><i>Willy</i></w></corrected>
+    <corrected><w><hi>Free</hi></w><w><hi>Willy</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -38,7 +50,7 @@
   <w>í</w>
   <revision id="2">
     <original><w>24</w></original>
-    <corrected><w><i>24</i></w></corrected>
+    <corrected><w><hi>24</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -65,7 +77,7 @@
   <w>í</w>
   <revision id="3">
     <original><w>Criminal</w><w>Minds</w></original>
-    <corrected><w><i>Criminal</i></w><w><i>Minds</i></w></corrected>
+    <corrected><w><hi>Criminal</hi></w><w><hi>Minds</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -110,32 +122,32 @@
   <w>á</w>
   <w>borð</w>
   <w>við</w>
-  <w><i>Bloody</i></w>
-  <w><i>Poetry</i></w>
+  <w><hi>Bloody</hi></w>
+  <w><hi>Poetry</hi></w>
   <c>,</c>
-  <w><i>The</i></w>
-  <w><i>Last</i></w>
-  <w><i>Good</i></w>
-  <w><i>Moment</i></w>
-  <w><i>of</i></w>
-  <w><i>Lily</i></w>
-  <w><i>Baker</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Last</hi></w>
+  <w><hi>Good</hi></w>
+  <w><hi>Moment</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>Lily</hi></w>
+  <w><hi>Baker</hi></w>
   <c>,</c>
-  <w><i>As</i></w>
-  <w><i>You</i></w>
-  <w><i>Like</i></w>
-  <w><i>It</i></w>
+  <w><hi>As</hi></w>
+  <w><hi>You</hi></w>
+  <w><hi>Like</hi></w>
+  <w><hi>It</hi></w>
   <c>,</c>
-  <w><i>Sight</i></w>
-  <w><i>Unseen</i></w>
+  <w><hi>Sight</hi></w>
+  <w><hi>Unseen</hi></w>
   <c>,</c>
-  <w><i>The</i></w>
-  <w><i>Striker</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Striker</hi></w>
   <c>,</c>
-  <w><i>Ivanov</i></w>
+  <w><hi>Ivanov</hi></w>
   <w>og</w>
-  <w><i>The</i></w>
-  <w><i>Rainmaker</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Rainmaker</hi></w>
   <c>.</c>
 </s><s n="7">
   <w>Atkinson</w>
@@ -163,7 +175,7 @@
   <w>nám</w>
   <w>við</w>
   <revision id="5">
-    <original><w><i>Yale</i></w><w><i>School</i></w><w><i>of</i></w><w><i>Drama</i></w></original>
+    <original><w><hi>Yale</hi></w><w><hi>School</hi></w><w><hi>of</hi></w><w><hi>Drama</hi></w></original>
     <corrected><w>Yale</w><w>School</w><w>of</w><w>Drama</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -184,7 +196,7 @@
   <w>við</w>
   <revision id="6">
     <original><c>,</c><w>The</w><w>Village</w></original>
-    <corrected><w><i>The</i></w><w><i>Village</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Village</hi></w></corrected>
       <errors>
         <error xtype="extra-comma" idx="14-1" eid="0"/>
         <error xtype="nonit4it" idx="14-2" eid="0"/>
@@ -193,14 +205,14 @@
   <c>,</c>
   <revision id="7">
     <original><w>Syriana</w></original>
-    <corrected><w><i>Syriana</i></w></corrected>
+    <corrected><w><hi>Syriana</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
-  <w><i>The</i></w>
-  <w><i>Getaway</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Getaway</hi></w>
   <c>.</c>
 </s><s n="9">
   <w>Atkinson</w>
@@ -228,7 +240,7 @@
   <w>vann</w>
   <w>Atkinson</w>
   <revision id="9">
-    <original><w><i>Outer</i></w><w><i>Critics</i></w><w><i>Circle</i></w><w><i>verðlaunin</i></w></original>
+    <original><w><hi>Outer</hi></w><w><hi>Critics</hi></w><w><hi>Circle</hi></w><w><hi>verðlaunin</hi></w></original>
     <corrected><w>Outer</w><w>Critics</w><w>Circle-verðlaunin</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -238,8 +250,8 @@
   <w>hlutverk</w>
   <w>sitt</w>
   <w>í</w>
-  <w><i>Enchanted</i></w>
-  <w><i>April</i></w>
+  <w><hi>Enchanted</hi></w>
+  <w><hi>April</hi></w>
   <c>.</c>
 </s><s n="11">
   <w>Kom</w>
@@ -253,22 +265,22 @@
   <w>á</w>
   <w>borð</w>
   <w>við</w>
-  <w><i>A</i></w>
-  <w><i>Year</i></w>
-  <w><i>in</i></w>
-  <w><i>the</i></w>
-  <w><i>Life</i></w>
+  <w><hi>A</hi></w>
+  <w><hi>Year</hi></w>
+  <w><hi>in</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>Life</hi></w>
   <c>,</c>
-  <w><i>Beauty</i></w>
-  <w><i>and</i></w>
-  <w><i>the</i></w>
-  <w><i>Beast</i></w>
+  <w><hi>Beauty</hi></w>
+  <w><hi>and</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>Beast</hi></w>
   <c>,</c>
-  <w><i>Parenthood</i></w>
+  <w><hi>Parenthood</hi></w>
   <c>,</c>
   <revision id="10">
     <original><w>The</w><w>X-Files</w></original>
-    <corrected><w><i>The</i></w><w><i>X-Files</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>X-Files</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -276,7 +288,7 @@
   <w>og</w>
   <revision id="11">
     <original><w>Joan</w><w>of</w><w>Arcadia</w></original>
-    <corrected><w><i>Joan</i></w><w><i>of</i></w><w><i>Arcadia</i></w></corrected>
+    <corrected><w><hi>Joan</hi></w><w><hi>of</hi></w><w><hi>Arcadia</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -291,7 +303,7 @@
   <w>í</w>
   <revision id="12">
     <original><w>Pride</w><c>&amp;</c><w>Prejudice</w></original>
-    <corrected><w><i>Pride</i></w><c><i>&amp;</i></c><w><i>Prejudice</i></w></corrected>
+    <corrected><w><hi>Pride</hi></w><c><hi>&amp;</hi></c><w><hi>Prejudice</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -319,7 +331,7 @@
   <w>í</w>
   <revision id="13">
     <original><w>Criminal</w><w>Minds</w></original>
-    <corrected><w><i>Criminal</i></w><w><i>Minds</i></w></corrected>
+    <corrected><w><hi>Criminal</hi></w><w><hi>Minds</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -327,7 +339,7 @@
   <w>og</w>
   <revision id="14">
     <original><w>24</w></original>
-    <corrected><w><i>24</i></w></corrected>
+    <corrected><w><hi>24</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

@@ -1,16 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_4-t7.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Zoom</w>
   <w>merkir</w>
-  <w><i>rönd</i></w>
+  <w><hi>rönd</hi></w>
   <c>(</c>
   <w>sbr</w>
   <c>.</c>
 </s><s n="2">
-  <w><i>Saum</i></w>
+  <w><hi>Saum</hi></w>
   <w>á</w>
   <w>þýsku</w>
   <c>)</c>
@@ -233,7 +245,7 @@
   <w>þýðir</w>
   <w>Bergen</w>
   <w>því</w>
-  <w><i>árbakki</i></w>
+  <w><hi>árbakki</hi></w>
   <c>.</c>
 </s><s n="14">
   <w>Bergen</w>

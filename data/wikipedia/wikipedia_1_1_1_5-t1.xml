@@ -1,11 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_5-t1.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <revision id="1">
     <original><w>Viðtalið</w></original>
-    <corrected><w><i>Viðtalið</i></w></corrected>
+    <corrected><w><hi>Viðtalið</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -116,7 +128,7 @@
   <w>hans</w>
   <revision id="3">
     <original><w>Verndarengillinn</w></original>
-    <corrected><w><i>Verndarengillinn</i></w></corrected>
+    <corrected><w><hi>Verndarengillinn</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -134,7 +146,7 @@
   <w>var</w>
   <revision id="5">
     <original><w>Viðtalið</w></original>
-    <corrected><w><i>Viðtalið</i></w></corrected>
+    <corrected><w><hi>Viðtalið</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -190,7 +202,7 @@
   <w>leikritið</w>
   <revision id="7">
     <original><w>Opnunin</w></original>
-    <corrected><w><i>Opnunin</i></w></corrected>
+    <corrected><w><hi>Opnunin</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -202,7 +214,7 @@
   <w>leikritið</w>
   <revision id="8">
     <original><w>Mótmæli</w></original>
-    <corrected><w><i>Mótmæli</i></w></corrected>
+    <corrected><w><hi>Mótmæli</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -311,7 +323,7 @@
   <w>Havels</w>
   <revision id="11">
     <original><w>Endurbyggingin</w></original>
-    <corrected><w>sem</w><w>nefnist</w><w><i>Endurbyggingin</i></w></corrected>
+    <corrected><w>sem</w><w>nefnist</w><w><hi>Endurbyggingin</hi></w></corrected>
       <errors>
         <error xtype="missing-words" idx="14-1" eid="0"/>
         <error xtype="nonit4it" idx="14-2" eid="0"/>
@@ -362,7 +374,7 @@
   <w>Fyrsta</w>
   <revision id="13">
     <original><w>verk</w></original>
-    <corrected><w>verkið</w><c>,</c><w>sem</w><w>nefnist</w><w><i>Garðveislan</i></w><c>,</c></corrected>
+    <corrected><w>verkið</w><c>,</c><w>sem</w><w>nefnist</w><w><hi>Garðveislan</hi></w><c>,</c></corrected>
       <errors>
         <error xtype="ind4def" idx="2-1" eid="0"/>
         <error xtype="missing-commas" idx="2-2" eid="0"/>

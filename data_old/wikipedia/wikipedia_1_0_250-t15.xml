@@ -1,0 +1,343 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader/>
+<text><body><p n="1">
+<s n="1">
+  <revision id="1">
+    <original><w>Landið</w></original>
+    <corrected><w>Svasíland</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
+  <w>er</w>
+  <w>eitt</w>
+  <revision id="2">
+    <original><w>það</w></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-word" eid="0"/>
+      </errors>
+  </revision>
+  <w>minnsta</w>
+  <revision id="3">
+    <original><w>í</w></original>
+    <corrected><w>land</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
+  <w>Afríku</w>
+  <c>,</c>
+  <w>aðeins</w>
+  <w>200 km</w>
+  <w>langt</w>
+  <w>og</w>
+  <w>130 km</w>
+  <w>breitt</w>
+  <c>.</c>
+</s><s n="2">
+  <w>Það</w>
+  <revision id="4">
+    <original><w>er</w></original>
+    <corrected><w>býr</w></corrected>
+      <errors>
+        <error xtype="wording" idx="6-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>þó</w>
+  <revision id="5">
+    <original><w>landfræðilega</w><w>fjölbreytt</w></original>
+    <corrected><w>yfir</w><w>landfræðilegum</w><w>fjölbreytileika</w></corrected>
+      <errors>
+        <error xtype="dep" depId="6-1" eid="0"/>
+        <error xtype="dep" depId="6-1" eid="0"/>
+        <error xtype="wording" idx="7-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>með</w>
+  <w>svala</w>
+  <w>hásléttu</w>
+  <revision id="6">
+    <original><w>og</w></original>
+    <corrected><w>en</w></corrected>
+      <errors>
+        <error xtype="conjunction" eid="0"/>
+      </errors>
+  </revision>
+  <w>þurrt</w>
+  <w>og</w>
+  <w>heitt</w>
+  <w>láglendi</w>
+  <c>.</c>
+</s><s n="3">
+  <w>Efnahagur</w>
+  <w>Svasílands</w>
+  <w>er</w>
+  <w>fjölbreyttur</w>
+  <w>og</w>
+  <w>byggist</w>
+  <w>á</w>
+  <w>framleiðsluiðnaði</w>
+  <c>,</c>
+  <w>en</w>
+  <w>þrír</w>
+  <w>fjórðu</w>
+  <w>íbúanna</w>
+  <w>vinna</w>
+  <w>samt</w>
+  <w>sem</w>
+  <w>áður</w>
+  <w>við</w>
+  <w>landbúnaðarframleiðslu</w>
+  <w>fyrir</w>
+  <w>heimamarkað</w>
+  <w>sem</w>
+  <w>einkennist</w>
+  <w>af</w>
+  <w>lítilli</w>
+  <w>fjárfestingu</w>
+  <revision id="7">
+    <original/>
+    <corrected><w>sem</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>framleiðni</w>
+  <c>.</c>
+</s><s n="4">
+  <w>Íbúar</w>
+  <w>eru</w>
+  <w>aðallega</w>
+  <revision id="8">
+    <original><w>svasímenn</w></original>
+    <corrected><w>Svasímenn</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>tala</w>
+  <w>svatí</w>
+  <revision id="9">
+    <original><c>.</c><w>Þeir</w></original>
+    <corrected><w>en</w><w>þeir</w></corrected>
+      <errors>
+        <error xtype="period4conjunction" eid="0"/>
+      </errors>
+  </revision>
+  <w>stofnuðu</w>
+  <w>konungsríkið</w>
+  <w>um</w>
+  <w>miðja</w>
+  <w>18.</w>
+  <w>öld</w>
+  <c>.</c>
+</s><s n="5">
+  <w>Undir</w>
+  <w>lok</w>
+  <w>19.</w>
+  <w>aldar</w>
+  <w>gerði</w>
+  <w>Suður-Afríska</w>
+  <w>Lýðveldið</w>
+  <w>í</w>
+  <w>Transvaal</w>
+  <w>tilkall</w>
+  <w>til</w>
+  <w>svæðisins</w>
+  <c>,</c>
+  <w>en</w>
+  <revision id="10">
+    <original><w>náðu</w></original>
+    <corrected><w>náði</w></corrected>
+      <errors>
+        <error xtype="agreement" eid="0"/>
+      </errors>
+  </revision>
+  <w>ekki</w>
+  <w>að</w>
+  <w>leggja</w>
+  <w>það</w>
+  <w>undir</w>
+  <w>sig</w>
+  <c>.</c>
+</s><s n="6">
+  <w>Landið</w>
+  <w>heitir</w>
+  <w>eftir</w>
+  <revision id="11">
+    <original><w>svasímönnum</w></original>
+    <corrected><w>Svasímönnum</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
+  <c>.</c>
+</s><s n="7">
+  <w>Kosningar</w>
+  <w>eru</w>
+  <w>haldnar</w>
+  <w>á</w>
+  <w>fimm</w>
+  <w>ára</w>
+  <w>fresti</w>
+  <w>til</w>
+  <w>að</w>
+  <w>skera</w>
+  <w>úr</w>
+  <w>um</w>
+  <w>meirihluta</w>
+  <w>á</w>
+  <w>þinginu</w>
+  <c>.</c>
+</s><s n="8">
+  <w>Núverandi</w>
+  <w>landamæri</w>
+  <w>voru</w>
+  <w>fest</w>
+  <w>árið 1881</w>
+  <c>.</c>
+</s><s n="9">
+  <w>Þrátt</w>
+  <w>fyrir</w>
+  <w>að</w>
+  <w>vera</w>
+  <w>ekki</w>
+  <w>með</w>
+  <w>fátækustu</w>
+  <w>ríkjum</w>
+  <w>álfunnar</w>
+  <w>býr</w>
+  <w>Svasíland</w>
+  <w>við</w>
+  <w>alvarleg</w>
+  <w>heilbrigðisvandamál</w>
+  <revision id="12">
+    <original><c>;</c></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="semicolon4comma" eid="0"/>
+      </errors>
+  </revision>
+  <w>fjórðungur</w>
+  <w>fullorðinna</w>
+  <w>er</w>
+  <w>smitaður</w>
+  <w>af</w>
+  <w>HIV-veirunni</w>
+  <revision id="13">
+    <original><w>og</w><w>berklar</w></original>
+    <corrected><w>en</w><w>einnig</w></corrected>
+      <errors>
+        <error xtype="conjunction" idx="14-1" eid="0"/>
+        <error xtype="wording" idx="14-2" eid="0"/>
+        <error xtype="dep" depId="15-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>eru</w>
+  <revision id="14">
+    <original><w>einnig</w></original>
+    <corrected><w>berklar</w><w>alvarlegt</w></corrected>
+      <errors>
+        <error xtype="wording" idx="15-1" eid="0"/>
+        <error xtype="dep" depId="14-2" eid="0"/>
+        <error xtype="missing-word" idx="15-2" eid="0"/>
+      </errors>
+  </revision>
+  <w>vandamál</w>
+  <revision id="15">
+    <original/>
+    <corrected><w>þar</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
+  <c>.</c>
+</s><s n="10">
+  <w>Gjaldmiðillinn</w>
+  <c>,</c>
+  <revision id="16">
+    <original><w>lilangeni</w></original>
+    <corrected><w><i>lilangeni</i></w></corrected>
+      <errors>
+        <error xtype="nonit4it" eid="0"/>
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>er</w>
+  <w>festur</w>
+  <w>við</w>
+  <w>suðurafríska</w>
+  <w>randið</w>
+  <c>.</c>
+</s><s n="11">
+  <w>Lífslíkur</w>
+  <w>voru</w>
+  <w>því</w>
+  <w>aðeins</w>
+  <w>um</w>
+  <w>50</w>
+  <w>ár</w>
+  <w>árið 2013</w>
+  <c>.</c>
+</s><s n="12">
+  <w>Svasíland</w>
+  <w>er</w>
+  <w>í</w>
+  <w>Afríkusambandinu</w>
+  <w>og</w>
+  <w>Breska</w>
+  <w>samveldinu</w>
+  <c>.</c>
+</s><s n="13">
+  <w>Eftir</w>
+  <w>Búastríðið</w>
+  <w>varð</w>
+  <w>landið</w>
+  <w>að</w>
+  <w>bresku</w>
+  <w>verndarsvæði</w>
+  <w>þar</w>
+  <w>til</w>
+  <w>það</w>
+  <w>fékk</w>
+  <w>sjálfstæði</w>
+  <w>6. september 1968</w>
+  <c>.</c>
+</s><s n="14">
+  <w>Svasíland</w>
+  <w>er</w>
+  <w>einveldi</w>
+  <w>Mswati</w>
+  <w>3.</w>
+  <w>konungs</w>
+  <w>sem</w>
+  <w>skipar</w>
+  <w>bæði</w>
+  <w>forsætisráðherra</w>
+  <w>og</w>
+  <w>nokkurn</w>
+  <w>fjölda</w>
+  <w>þingfulltrúa</w>
+  <c>.</c>
+</s><s n="15">
+  <w>Konungsríkið</w>
+  <w>Svasíland</w>
+  <w>er</w>
+  <w>landlukt</w>
+  <w>smáríki</w>
+  <w>í</w>
+  <w>sunnanverðri</w>
+  <w>Afríku</w>
+  <w>með</w>
+  <w>landamæri</w>
+  <w>að</w>
+  <w>Suður-Afríku</w>
+  <w>og</w>
+  <w>Mósambík</w>
+  <c>.</c>
+</s></p></body></text>
+</TEI>

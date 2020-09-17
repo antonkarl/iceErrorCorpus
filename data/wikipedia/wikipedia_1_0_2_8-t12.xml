@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_8-t12.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Smiðjan</w>
@@ -276,7 +288,7 @@
   <w>umhverfi</w>
   <revision id="9">
     <original><c>:</c><w>Útsjónin</w><w>af</w><w>Almannaskarði</w><w>við</w><w>Hornafjörð</w></original>
-    <corrected><c>.</c><w><i>Útsjónin</i></w><w><i>af</i></w><w><i>Almannaskarði</i></w><w><i>við</i></w><w><i>Hornafjörð</i></w></corrected>
+    <corrected><c>.</c><w><hi>Útsjónin</hi></w><w><hi>af</hi></w><w><hi>Almannaskarði</hi></w><w><hi>við</hi></w><w><hi>Hornafjörð</hi></w></corrected>
       <errors>
         <error xtype="colon4period" idx="60-1" eid="0"/>
         <error xtype="nonit4it" idx="60-2" eid="0"/>
@@ -2113,7 +2125,7 @@
   <w>Jónsdóttir</w>
   <w>og</w>
   <w>Jón</w>
-  <w><i>Landeyingur</i></w>
+  <w><hi>Landeyingur</hi></w>
   <w>Höskuldsson</w>
   <c>.</c>
 </s><s n="77">

@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_175-t11.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Daniel</w>
@@ -21,8 +33,8 @@
   <w>frægastur</w>
   <w>fyrir</w>
   <w>skáldsöguna</w>
-  <w><i>Róbinson</i></w>
-  <w><i>Krúsó</i></w>
+  <w><hi>Róbinson</hi></w>
+  <w><hi>Krúsó</hi></w>
   <c>.</c>
 </s>
 <s n="2">
@@ -353,12 +365,12 @@
         <error xtype="extra-comma" eid="0" />
       </errors>
   </revision>
-  <w><i>The</i></w>
-  <w><i>shortest</i></w>
-  <w><i>way</i></w>
-  <w><i>with</i></w>
-  <w><i>the</i></w>
-  <w><i>dissenters</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>shortest</hi></w>
+  <w><hi>way</hi></w>
+  <w><hi>with</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>dissenters</hi></w>
   <c>,</c>
   <w>þar</w>
   <w>sem</w>
@@ -406,10 +418,10 @@
   <w>óð</w>
   <w>til</w>
   <w>gapastokksins</w>
-  <w><i>Hymn</i></w>
-  <w><i>to</i></w>
-  <w><i>the</i></w>
-  <w><i>Pillory</i></w>
+  <w><hi>Hymn</hi></w>
+  <w><hi>to</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>Pillory</hi></w>
   <c>.</c>
 </s>
 <s n="13">
@@ -465,13 +477,13 @@
   </revision>
   <w>stofnaði</w>
   <w>tímaritið</w>
-  <w><i>A</i></w>
-  <w><i>Review</i></w>
-  <w><i>of</i></w>
-  <w><i>the</i></w>
-  <w><i>Affairs</i></w>
-  <w><i>of</i></w>
-  <w><i>France</i></w>
+  <w><hi>A</hi></w>
+  <w><hi>Review</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>Affairs</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>France</hi></w>
   <w>1704</w>
   <w>sem</w>
   <w>studdi</w>
@@ -608,9 +620,9 @@
   <w>gefið</w>
   <w>út</w>
   <w>heilræðakverið</w>
-  <w><i>The</i></w>
-  <w><i>Family</i></w>
-  <w><i>Instructor</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Family</hi></w>
+  <w><hi>Instructor</hi></w>
   <c>,</c>
   <w>en</w>
   <w>frægasta</w>
@@ -691,8 +703,8 @@
         <error xtype="pro4noun" eid="0" />
       </errors>
   </revision>
-  <w><i>Captain</i></w>
-  <w><i>Singleton</i></w>
+  <w><hi>Captain</hi></w>
+  <w><hi>Singleton</hi></w>
   <w>og</w>
   <w>frásögn</w>
   <w>af</w>
@@ -704,8 +716,8 @@
   <w>1722</w>
   <w>kom</w>
   <w>skáldsagan</w>
-  <w><i>Moll</i></w>
-  <w><i>Flanders</i></w>
+  <w><hi>Moll</hi></w>
+  <w><hi>Flanders</hi></w>
   <w>út</w>
   <c>,</c>
   <w>frásögn</w>
@@ -741,11 +753,11 @@
   <w>kom</w>
   <w>svo</w>
   <w>út</w>
-  <w><i>Roxana</i></w>
+  <w><hi>Roxana</hi></w>
   <c>,</c>
-  <w><i>The</i></w>
-  <w><i>Fortunate</i></w>
-  <w><i>Mistress</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Fortunate</hi></w>
+  <w><hi>Mistress</hi></w>
   <c>,</c>
   <w>önnur</w>
   <w>skáldsaga</w>
@@ -826,8 +838,8 @@
   <w>einkum</w>
   <w>fyrir</w>
   <w>skáldsöguna</w>
-  <w><i>Róbinson</i></w>
-  <w><i>Krúsó</i></w>
+  <w><hi>Róbinson</hi></w>
+  <w><hi>Krúsó</hi></w>
   <w>sem</w>
   <w>Defoe</w>
   <w>er</w>

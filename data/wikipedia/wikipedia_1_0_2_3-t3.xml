@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_3-t3.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Verkfærin</w>
@@ -182,7 +194,7 @@
   <w>grófum</w>
   <revision id="18">
     <original><w>3D</w><w>hlutum</w><c>,</c><w>aðallega</w><w>kubbum</w><w>sem</w></original>
-    <corrected><w>myndeiningum</w><c>(</c><w>e.</w><w><i>pixels</i></w><c>)</c><c>.</c><w>Algengustu</w><w>hlutirnir</w></corrected>
+    <corrected><w>myndeiningum</w><c>(</c><w>e.</w><w><hi>pixels</hi></w><c>)</c><c>.</c><w>Algengustu</w><w>hlutirnir</w></corrected>
       <errors>
         <error xtype="dep" depId="27-1" eid="0"/>
         <error xtype="missing-bracket" eid="0"/>
@@ -195,7 +207,7 @@
   <w>eru</w>
   <revision id="19">
     <original><w>sett</w><w>í</w><w>saman</w><w>á</w><w>grind</w></original>
-    <corrected><w>kubbar</w><c>(</c><w>e.</w><w><i>blocks</i></w><c>)</c></corrected>
+    <corrected><w>kubbar</w><c>(</c><w>e.</w><w><hi>blocks</hi></w><c>)</c></corrected>
       <errors>
         <error xtype="dep" depId="28-1" eid="0"/>
         <error xtype="missing-bracket" eid="0"/>
@@ -323,7 +335,7 @@
 </s><s n="9">
   <revision id="31">
     <original><w>Microsoft</w></original>
-    <corrected><w><i>Microsoft</i></w></corrected>
+    <corrected><w><hi>Microsoft</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -366,7 +378,7 @@
 </s><s n="10">
   <revision id="34">
     <original><w>Minecraft</w></original>
-    <corrected><w><i>Minecraft</i></w></corrected>
+    <corrected><w><hi>Minecraft</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -501,7 +513,7 @@
   <w>fyrirtækið</w>
   <revision id="43">
     <original><w>Mojang</w></original>
-    <corrected><w><i>Mojang</i></w></corrected>
+    <corrected><w><hi>Mojang</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_16-t0.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Það</w>
@@ -242,13 +254,13 @@
   <w>Steinbeck</w>
   <w>skrifaði</w>
   <w>bækurnar</w>
-  <w><i>Þrúgur</i></w>
-  <w><i>reiðinnar</i></w>
+  <w><hi>Þrúgur</hi></w>
+  <w><hi>reiðinnar</hi></w>
   <w>og</w>
-  <w><i>Um</i></w>
-  <w><i>mýs</i></w>
-  <w><i>og</i></w>
-  <w><i>menn</i></w>
+  <w><hi>Um</hi></w>
+  <w><hi>mýs</hi></w>
+  <w><hi>og</hi></w>
+  <w><hi>menn</hi></w>
   <w>um</w>
   <w>líf</w>
   <w>þessa</w>

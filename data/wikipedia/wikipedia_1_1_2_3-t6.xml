@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_3-t6.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>William</w>
-  <w><i>Bill</i></w>
+  <w><hi>Bill</hi></w>
   <w>Alison</w>
   <w>Anders</w>
   <c>(</c>
@@ -110,7 +122,7 @@
   <w>ljósmynd</w>
   <revision id="6">
     <original><c>„</c><w>Jarðarupprás</w><c>“</c></original>
-    <corrected><w><i>Jarðarupprás</i></w></corrected>
+    <corrected><w><hi>Jarðarupprás</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="6-1" eid="0" />
         <error xtype="nonit4it" idx="6-2" eid="0" />
@@ -124,7 +136,7 @@
   <w>hjá</w>
   <revision id="7">
     <original><w>National</w><w>Geographic</w><w>tímaritinu</w></original>
-    <corrected><w><i>National</i></w><w><i>Geographic-tímaritinu</i></w></corrected>
+    <corrected><w><hi>National</hi></w><w><hi>Geographic-tímaritinu</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="7-1" eid="0" />
         <error xtype="missing-dash" idx="7-2" eid="0" />
@@ -235,11 +247,11 @@
 <s n="8">
   <w>ZAðalgrein</w>
   <c>:</c>
-  <w><i></i></w>
-  <w><i>Æfingar</i></w>
-  <w><i>tunglfara</i></w>
-  <w><i>í</i></w>
-  <w><i>Þingeyjarsýslum</i></w>
+  <w><hi></hi></w>
+  <w><hi>Æfingar</hi></w>
+  <w><hi>tunglfara</hi></w>
+  <w><hi>í</hi></w>
+  <w><hi>Þingeyjarsýslum</hi></w>
   <w>Árið 1965</w>
   <w>kom</w>
   <w>hópur</w>

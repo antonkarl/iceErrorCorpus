@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_300-t14.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Mið-Austurlönd</w>
@@ -371,7 +383,7 @@
 <s n="12">
   <w>Notkun</w>
   <w>orðsins</w>
-  <w><i>Mið-Austurlönd</i></w>
+  <w><hi>Mið-Austurlönd</hi></w>
   <w>hefur</w>
   <w>sætt</w>
   <w>gagnrýni</w>
@@ -403,17 +415,17 @@
   <w>Karen</w>
   <w>Pinto</w>
   <w>í</w>
-  <w><i>Encyclopedia</i></w>
-  <w><i>of</i></w>
-  <w><i>the</i></w>
-  <w><i>Modern</i></w>
-  <w><i>Middle</i></w>
-  <w><i>East</i></w>
-  <w><i></i></w>
+  <w><hi>Encyclopedia</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>Modern</hi></w>
+  <w><hi>Middle</hi></w>
+  <w><hi>East</hi></w>
+  <w><hi></hi></w>
   <c>&amp;</c>
-  <w><i></i></w>
-  <w><i>North</i></w>
-  <w><i>Africa</i></w>
+  <w><hi></hi></w>
+  <w><hi>North</hi></w>
+  <w><hi>Africa</hi></w>
   <c>.</c>
 </s>
 <s n="14">
@@ -2553,7 +2565,7 @@
   <c>(</c>
   <revision id="74">
     <original><w>mósebækurnar</w></original>
-    <corrected><w><i>Torah</i></w><c>;</c><w>Mósebókanna</w></corrected>
+    <corrected><w><hi>Torah</hi></w><c>;</c><w>Mósebókanna</w></corrected>
       <errors>
         <error xtype="wording" eid="0" />
       </errors>
@@ -3291,7 +3303,7 @@
   <w>orðinu</w>
   <revision id="103">
     <original><w>qibt</w></original>
-    <corrected><w><i>qibt</i></w></corrected>
+    <corrected><w><hi>qibt</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -3690,7 +3702,7 @@
   <w>orðið</w>
   <revision id="122">
     <original><w>islam</w></original>
-    <corrected><w><i>’Islām</i></w></corrected>
+    <corrected><w><hi>’Islām</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="122-1" eid="0" />
         <error xtype="missing-accent" idx="122-1" eid="0" />
@@ -3761,7 +3773,7 @@
   <w>ritninguna</w>
   <revision id="126">
     <original><w>Qur</w><c>‘</c><w>an</w></original>
-    <corrected><w><i>Qur‘an</i></w></corrected>
+    <corrected><w><hi>Qur‘an</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="126-1" eid="0" />
         <error xtype="extra-space" idx="126-1" eid="0" />
@@ -4204,17 +4216,17 @@
   <w>er</w>
   <w>trúarjátningin</w>
   <c>:</c>
-  <w><i>Það</i></w>
-  <w><i>er</i></w>
-  <w><i>enginn</i></w>
-  <w><i>guð</i></w>
-  <w><i>nema</i></w>
-  <w><i>guð</i></w>
-  <w><i>og</i></w>
-  <w><i>Múhameð</i></w>
-  <w><i>er</i></w>
-  <w><i>spámaður</i></w>
-  <w><i>hans</i></w>
+  <w><hi>Það</hi></w>
+  <w><hi>er</hi></w>
+  <w><hi>enginn</hi></w>
+  <w><hi>guð</hi></w>
+  <w><hi>nema</hi></w>
+  <w><hi>guð</hi></w>
+  <w><hi>og</hi></w>
+  <w><hi>Múhameð</hi></w>
+  <w><hi>er</hi></w>
+  <w><hi>spámaður</hi></w>
+  <w><hi>hans</hi></w>
   <c>.</c>
 </s>
 <s n="138">
@@ -4469,7 +4481,7 @@
 <s n="150">
   <revision id="149">
     <original><w>Zakat</w></original>
-    <corrected><w><i>Zakat</i></w></corrected>
+    <corrected><w><hi>Zakat</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -4526,7 +4538,7 @@
 <s n="151">
   <revision id="154">
     <original><w>Zakat</w></original>
-    <corrected><w><i>Zakat</i></w></corrected>
+    <corrected><w><hi>Zakat</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -5106,7 +5118,7 @@
   <w>bækur</w>
   <revision id="177">
     <original><w>Hadith</w></original>
-    <corrected><w>Hadíða</w><c>(</c><w><i>Hadith</i></w><c>)</c></corrected>
+    <corrected><w>Hadíða</w><c>(</c><w><hi>Hadith</hi></w><c>)</c></corrected>
       <errors>
         <error xtype="fw4ice" eid="0" />
         <error xtype="missing-word" eid="0" />
@@ -5200,7 +5212,7 @@
   <w>arabísku</w>
   <revision id="182">
     <original><w>Shi</w><c>‘</c><w>at</w><c>‘</c><w>Ali</w><c>.</c></original>
-    <corrected><w><i>Shi‘at</i></w><w><i>Ali.</i></w></corrected>
+    <corrected><w><hi>Shi‘at</hi></w><w><hi>Ali.</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="182-1" eid="0" />
         <error xtype="extra-space" idx="182-1" eid="0" />
@@ -5252,7 +5264,7 @@
   <w>nafnið</w>
   <revision id="184">
     <original><w>Shi‘ah</w></original>
-    <corrected><w><i>Shi‘ah</i></w></corrected>
+    <corrected><w><hi>Shi‘ah</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -5424,7 +5436,7 @@
   <w>hópurinn</w>
   <w>studdi</w>
   <revision id="191">
-    <original><w><i>Isma‘il</i></w></original>
+    <original><w><hi>Isma‘il</hi></w></original>
     <corrected><w>Isma‘il</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -5496,7 +5508,7 @@
   <w>Alis</w>
   <c>,</c>
   <revision id="196">
-    <original><w><i>Muhammad</i></w><w><i>al-Mahdi</i></w><w><i>al-Hujjah</i></w></original>
+    <original><w><hi>Muhammad</hi></w><w><hi>al-Mahdi</hi></w><w><hi>al-Hujjah</hi></w></original>
     <corrected><w>Muhammad</w><w>al-Mahdi</w><w>al-Hujjah</w><c>,</c></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -5565,7 +5577,7 @@
   <w>sem</w>
   <revision id="200">
     <original><w>mahdi</w></original>
-    <corrected><w><i>mahdi</i></w></corrected>
+    <corrected><w><hi>mahdi</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -5764,7 +5776,7 @@
   <w>sig</w>
   <revision id="212">
     <original><w>al-Muwahhidun</w></original>
-    <corrected><w><i>al-Muwahhidun</i></w></corrected>
+    <corrected><w><hi>al-Muwahhidun</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -6433,7 +6445,7 @@
   <w>kallast</w>
   <revision id="249">
     <original><w>Khawarji</w></original>
-    <corrected><w><i>khawarij</i></w></corrected>
+    <corrected><w><hi>khawarij</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="249-1" eid="0" />
         <error xtype="upper4lower-common" idx="249-1" eid="0" />
@@ -6486,7 +6498,7 @@
   <w>sig</w>
   <revision id="251">
     <original><w>vera</w><w>öðruvísi</w><w>en</w><w>Khawarij</w><c>.</c><w>Því</w><w>þeir</w><c>,</c><w>Kkawarij</w><c>,</c><w>lýta</w></original>
-    <corrected><w>frábrugðna</w><w><i>khawarij</i></w><w>því</w><w>khawarij-múslimar</w><w>líta</w></corrected>
+    <corrected><w>frábrugðna</w><w><hi>khawarij</hi></w><w>því</w><w>khawarij-múslimar</w><w>líta</w></corrected>
       <errors>
         <error xtype="wording" eid="0" />
       </errors>
@@ -6528,7 +6540,7 @@
         <error xtype="wording" idx="255-1" eid="0" />
       </errors>
   </revision>
-  <w><i>mushrikun</i></w>
+  <w><hi>mushrikun</hi></w>
   <c>,</c>
   <revision id="256">
     <original><w>eða</w></original>
@@ -6610,7 +6622,7 @@
   </revision>
   <w>beita</w>
   <w>er</w>
-  <w><i>bara‘a</i></w>
+  <w><hi>bara‘a</hi></w>
   <w>eða</w>
   <revision id="260">
     <original><w>halda</w><w>sig</w><w>við</w></original>
@@ -6680,8 +6692,8 @@
   <w>um</w>
   <w>að</w>
   <w>vera</w>
-  <w><i>kuffar</i></w>
-  <w><i>ni‘ma</i></w>
+  <w><hi>kuffar</hi></w>
+  <w><hi>ni‘ma</hi></w>
   <c>.</c>
 </s>
 <s n="213">
@@ -6689,7 +6701,7 @@
   <w>er</w>
   <w>að</w>
   <w>refsingin</w>
-  <w><i>bara‘a</i></w>
+  <w><hi>bara‘a</hi></w>
   <w>þýðir</w>
   <w>samt</w>
   <w>ekki</w>
@@ -7954,7 +7966,7 @@
   <w>eða</w>
   <revision id="322">
     <original><w>Majlis</w><w>al</w><w>Shaab</w></original>
-    <corrected><w><i>Majlis</i></w><w><i>al-Shaab</i></w></corrected>
+    <corrected><w><hi>Majlis</hi></w><w><hi>al-Shaab</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="322-1" eid="0" />
         <error xtype="extra-space" idx="322-1" eid="0" />
@@ -9660,7 +9672,7 @@
   <w>við</w>
   <revision id="390">
     <original><w>gadi</w></original>
-    <corrected><w><i>gadi</i></w></corrected>
+    <corrected><w><hi>gadi</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -9670,7 +9682,7 @@
 <s n="353">
   <revision id="391">
     <original><w>Gadi</w></original>
-    <corrected><w><i>Gadi</i></w></corrected>
+    <corrected><w><hi>Gadi</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -9787,7 +9799,7 @@
   <w>kallast</w>
   <revision id="395">
     <original><w>Majlis-is-shoora</w></original>
-    <corrected><w><i>Majlis-is-shoora</i></w></corrected>
+    <corrected><w><hi>Majlis-is-shoora</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>

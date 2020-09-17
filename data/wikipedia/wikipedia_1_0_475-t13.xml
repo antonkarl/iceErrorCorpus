@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_475-t13.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <revision id="1">
@@ -24,8 +36,8 @@
   <w>Reeves</w>
   <w>í</w>
   <w>sjónvarpsmyndinni</w>
-  <w><i>Young</i></w>
-  <w><i>Again</i></w>
+  <w><hi>Young</hi></w>
+  <w><hi>Again</hi></w>
   <w>frá</w>
   <w>1986</w>
   <c>.</c>
@@ -46,7 +58,7 @@
   <w>hamfaramyndinni</w>
   <revision id="4">
     <original><w>Armageddon</w></original>
-    <corrected><w><i>Armageddon</i></w></corrected>
+    <corrected><w><hi>Armageddon</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -80,7 +92,7 @@
   <c>:</c>
   <revision id="6">
     <original><w>Street</w><w>Legal</w></original>
-    <corrected><w><i>Street</i></w><w><i>Legal</i></w></corrected>
+    <corrected><w><hi>Street</hi></w><w><hi>Legal</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -88,7 +100,7 @@
   <c>,</c>
   <revision id="7">
     <original><w>ER</w></original>
-    <corrected><w><i>ER</i></w></corrected>
+    <corrected><w><hi>ER</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -96,7 +108,7 @@
   <c>,</c>
   <revision id="8">
     <original><w>The</w><w>Practice</w></original>
-    <corrected><w><i>The</i></w><w><i>Practice</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Practice</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -104,7 +116,7 @@
   <c>,</c>
   <revision id="9">
     <original><w>Starget</w><w>SG</w></original>
-    <corrected><w><i>Starget</i></w><w><i>SG</i></w></corrected>
+    <corrected><w><hi>Starget</hi></w><w><hi>SG</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -112,7 +124,7 @@
   <c>-</c>
   <revision id="10">
     <original><w>1</w><c>,</c><w>Supernatural</w></original>
-    <corrected><w><i>1</i></w></corrected>
+    <corrected><w><hi>1</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="35-1" eid="0"/>
         <error xtype="extra-comma" idx="35-2" eid="0"/>
@@ -123,7 +135,7 @@
   <w>og</w>
   <revision id="11">
     <original/>
-    <corrected><w><i>Supernatural</i></w></corrected>
+    <corrected><w><hi>Supernatural</hi></w></corrected>
       <errors>
         <error xtype="dep" depId="35-3" eid="0"/>
       </errors>
@@ -147,7 +159,7 @@
   <w>barnaþættinum</w>
   <revision id="12">
     <original><w>The</w><w>Sunrunners</w></original>
-    <corrected><w><i>The</i></w><w><i>Sunrunners</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Sunrunners</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -180,7 +192,7 @@
   <w>Chase</w>
   <revision id="15">
     <original/>
-    <corrected><w>í</w><w><i>Captain</i></w><w><i>Power</i></w><w><i>and</i></w><w><i>the</i></w><w><i>Soldiers</i></w><w><i>of</i></w><w><i>the</i></w><w><i>Future</i></w></corrected>
+    <corrected><w>í</w><w><hi>Captain</hi></w><w><hi>Power</hi></w><w><hi>and</hi></w><w><hi>the</hi></w><w><hi>Soldiers</hi></w><w><hi>of</hi></w><w><hi>the</hi></w><w><hi>Future</hi></w></corrected>
       <errors>
         <error xtype="dep" depId="21-1" eid="0"/>
       </errors>
@@ -200,7 +212,7 @@
   <c>:</c>
   <revision id="16">
     <original><w>A</w><w>Judgment</w><w>in</w><w>Stone</w></original>
-    <corrected><w><i>A</i></w><w><i>Judgment</i></w><w><i>in</i></w><w><i>Stone</i></w></corrected>
+    <corrected><w><hi>A</hi></w><w><hi>Judgment</hi></w><w><hi>in</hi></w><w><hi>Stone</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -208,7 +220,7 @@
   <c>,</c>
   <revision id="17">
     <original><w>Sing</w></original>
-    <corrected><w><i>Sing</i></w></corrected>
+    <corrected><w><hi>Sing</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -216,7 +228,7 @@
   <c>,</c>
   <revision id="18">
     <original><w>Judgment</w></original>
-    <corrected><w><i>Judgment</i></w></corrected>
+    <corrected><w><hi>Judgment</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -224,7 +236,7 @@
   <w>og</w>
   <revision id="19">
     <original><w>Chaos</w></original>
-    <corrected><w><i>Chaos</i></w></corrected>
+    <corrected><w><hi>Chaos</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -239,7 +251,7 @@
   <w>kvikmyndinni</w>
   <revision id="20">
     <original><w>Threshold</w></original>
-    <corrected><w><i>Threshold</i></w></corrected>
+    <corrected><w><hi>Threshold</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -302,7 +314,7 @@
   <w>í</w>
   <revision id="25">
     <original><w>Armageddon</w></original>
-    <corrected><w><i>Armageddon</i></w></corrected>
+    <corrected><w><hi>Armageddon</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -310,7 +322,7 @@
   <c>,</c>
   <revision id="26">
     <original><w>Homefront</w></original>
-    <corrected><w><i>Homefront</i></w></corrected>
+    <corrected><w><hi>Homefront</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -318,7 +330,7 @@
   <c>,</c>
   <revision id="27">
     <original><w>NCIS</w></original>
-    <corrected><w><i>NCIS</i></w></corrected>
+    <corrected><w><hi>NCIS</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -326,7 +338,7 @@
   <w>og</w>
   <revision id="28">
     <original><w>Flashpoint</w></original>
-    <corrected><w><i>Flashpoint</i></w></corrected>
+    <corrected><w><hi>Flashpoint</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -368,7 +380,7 @@
   <w>í</w>
   <revision id="31">
     <original><w>NCIS</w></original>
-    <corrected><w><i>NCIS</i></w></corrected>
+    <corrected><w><hi>NCIS</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -397,7 +409,7 @@
   <w>í</w>
   <revision id="32">
     <original><w>Heartland</w></original>
-    <corrected><w><i>Heartland</i></w></corrected>
+    <corrected><w><hi>Heartland</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -409,7 +421,7 @@
   <w>í</w>
   <revision id="33">
     <original><w>Flashpoint</w></original>
-    <corrected><w><i>Flashpoint</i></w></corrected>
+    <corrected><w><hi>Flashpoint</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -442,7 +454,7 @@
   <w>í</w>
   <revision id="36">
     <original><w>Homefront</w></original>
-    <corrected><w><i>Homefront</i></w></corrected>
+    <corrected><w><hi>Homefront</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -464,7 +476,7 @@
   <w>í</w>
   <revision id="37">
     <original><w>Hangin'In</w></original>
-    <corrected><w><i>Hangin'In</i></w></corrected>
+    <corrected><w><hi>Hangin'In</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

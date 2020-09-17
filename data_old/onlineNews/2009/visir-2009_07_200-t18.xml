@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Lögreglan</w>
+  <w>á</w>
+  <w>höfuðborgarsvæðinu</w>
+  <w>lýsir</w>
+  <w>eftir</w>
+  <w>Sunnevu</w>
+  <w>Líf</w>
+  <w>Blomsterberg</w>
+  <w>15</w>
+  <w>ára</w>
+  <w>gamalli</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <revision id="1">
+    <original><w>Sunneva</w><w>fór</w><w>frá</w><w>heimili</w><w>sínu</w></original>
+    <corrected><w>Síðast</w><w>er</w><w>vitað</w><w>um</w><w>ferðir</w><w>Sunnevu</w></corrected>
+      <errors>
+        <error xtype="wording" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>þann</w>
+  <revision id="2">
+    <original><w>25 júlí</w></original>
+    <corrected><w>25. júlí</w></corrected>
+      <errors>
+        <error xtype="date-period" eid="0" />
+      </errors>
+  </revision>
+  <w>síðastliðinn</w>
+  <w>klukkan átta</w>
+  <w>að</w>
+  <w>kvöldi</w>
+  <revision id="3">
+    <original><w>og</w><w>hefur</w><w>ekkert</w><w>heyrst</w></original>
+    <corrected><w>þegar</w><w>hún</w><w>fór</w></corrected>
+      <errors>
+        <error xtype="wording" idx="3-1" eid="0" />
+      </errors>
+  </revision>
+  <w>frá</w>
+  <revision id="4">
+    <original><w>ferðum</w><w>hennar</w><w>síðan</w></original>
+    <corrected><w>heimili</w><w>sínu</w></corrected>
+      <errors>
+        <error xtype="dep" depId="3-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Sunneva</w>
+  <w>er</w>
+  <w>157</w>
+  <w>sentimetrar</w>
+  <w>á</w>
+  <w>hæð</w>
+  <c>,</c>
+  <w>grannvaxin</w>
+  <c>,</c>
+  <w>með</w>
+  <w>dökkt</w>
+  <w>litað</w>
+  <w>hár</w>
+  <w>axlasítt</w>
+  <c>,</c>
+  <w>klædd</w>
+  <w>í</w>
+  <w>bláar</w>
+  <w>buxur</w>
+  <c>,</c>
+  <w>hvítan</w>
+  <w>hlýrabol</w>
+  <c>,</c>
+  <revision id="5">
+    <original><w>renndri</w></original>
+    <corrected><w>rennda</w></corrected>
+      <errors>
+        <error xtype="agreement-concord" eid="0" />
+      </errors>
+  </revision>
+  <w>hettupeysu</w>
+  <w>og</w>
+  <revision id="6">
+    <original><w>í</w><w>bleikum</w><w>sandölum</w></original>
+    <corrected><w>bleika</w><w>sandala</w></corrected>
+      <errors>
+        <error xtype="extra-word" idx="6-1" eid="0" />
+        <error xtype="nominal-inflection" idx="6-2" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Þeir</w>
+  <w>sem</w>
+  <w>geta</w>
+  <w>gefið</w>
+  <w>upplýsingar</w>
+  <w>um</w>
+  <w>ferðir</w>
+  <w>Sunnevu</w>
+  <w>eru</w>
+  <w>beðnir</w>
+  <w>að</w>
+  <w>hringja</w>
+  <w>til</w>
+  <w>lögreglunnar</w>
+  <w>í</w>
+  <w>síma</w>
+  <w>4441100</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

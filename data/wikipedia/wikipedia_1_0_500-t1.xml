@@ -1,11 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_500-t1.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <revision id="1">
     <original><w>Things</w><w>You</w><w>Can</w><w>Tell</w><w>Just</w><w>by</w><w>Looking</w><w>at</w><w>Her</w></original>
-    <corrected><w><i>Things</i></w><w><i>You</i></w><w><i>Can</i></w><w><i>Tell</i></w><w><i>Just</i></w><w><i>by</i></w><w><i>Looking</i></w><w><i>at</i></w><w><i>Her</i></w></corrected>
+    <corrected><w><hi>Things</hi></w><w><hi>You</hi></w><w><hi>Can</hi></w><w><hi>Tell</hi></w><w><hi>Just</hi></w><w><hi>by</hi></w><w><hi>Looking</hi></w><w><hi>at</hi></w><w><hi>Her</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -65,9 +77,9 @@
   <w>árið 2000</w>
   <w>og</w>
   <w>hlaut</w>
-  <w><i>Un</i></w>
-  <w><i>Certain</i></w>
-  <w><i>Regard</i></w>
+  <w><hi>Un</hi></w>
+  <w><hi>Certain</hi></w>
+  <w><hi>Regard</hi></w>
   <w>verðlaunin</w>
   <c>.</c>
 </s></p></body></text>

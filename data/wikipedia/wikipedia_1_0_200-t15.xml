@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_200-t15.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Sammengi</w>
@@ -40,9 +52,9 @@
 </s><s n="3">
   <w>Sammengi</w>
   <w>mengjanna</w>
-  <w><i>A</i></w>
+  <w><hi>A</hi></w>
   <w>og</w>
-  <w><i>B</i></w>
+  <w><hi>B</hi></w>
   <w>er</w>
   <w>lesið</w>
   <c>„</c>
@@ -52,29 +64,29 @@
   <c>“</c>
   <w>og</w>
   <w>táknað</w>
-  <w><i>A</i></w>
+  <w><hi>A</hi></w>
   <w></w>
-  <w><i>B</i></w>
+  <w><hi>B</hi></w>
   <c>.</c>
 </s><s n="4">
   <w>Formleg</w>
   <w>skilgreining</w>
   <w>er</w>
-  <w><i>i</i></w>
+  <w><hi>i</hi></w>
   <w>er</w>
   <w>stak</w>
   <w>í</w>
-  <w><i>A</i></w>
+  <w><hi>A</hi></w>
   <w></w>
-  <w><i>B</i></w>
+  <w><hi>B</hi></w>
   <w>eff</w>
-  <w><i>i</i></w>
+  <w><hi>i</hi></w>
   <w>er</w>
   <w>stak</w>
   <w>í</w>
-  <w><i>A</i></w>
+  <w><hi>A</hi></w>
   <w>eða</w>
-  <w><i>B</i></w>
+  <w><hi>B</hi></w>
   <c>.</c>
 </s></p></body></text>
 </TEI>

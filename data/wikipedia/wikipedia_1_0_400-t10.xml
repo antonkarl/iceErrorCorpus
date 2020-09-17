@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_400-t10.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
-  <w><i>Ólafs</i></w>
-  <w><i>saga</i></w>
-  <w><i>Tryggvasonar</i></w>
+  <w><hi>Ólafs</hi></w>
+  <w><hi>saga</hi></w>
+  <w><hi>Tryggvasonar</hi></w>
   <w>eftir</w>
   <w>Odd</w>
   <w>munk</w>
@@ -126,22 +138,22 @@
       </errors>
   </revision>
   <w>einnig</w>
-  <w><i>Acta</i></w>
-  <w><i>sanctorum</i></w>
-  <w><i>in</i></w>
-  <w><i>Selio</i></w>
+  <w><hi>Acta</hi></w>
+  <w><hi>sanctorum</hi></w>
+  <w><hi>in</hi></w>
+  <w><hi>Selio</hi></w>
   <c>(</c>
-  <w><i>Þátt</i></w>
-  <w><i>af</i></w>
-  <w><i>Seljumönnum</i></w>
+  <w><hi>Þátt</hi></w>
+  <w><hi>af</hi></w>
+  <w><hi>Seljumönnum</hi></w>
   <c>)</c>
   <w>og</w>
   <w>hugsanlega</w>
-  <w><i>Historia</i></w>
-  <w><i>de</i></w>
-  <w><i>Antiquitate</i></w>
-  <w><i>Regum</i></w>
-  <w><i>Norwagiensium</i></w>
+  <w><hi>Historia</hi></w>
+  <w><hi>de</hi></w>
+  <w><hi>Antiquitate</hi></w>
+  <w><hi>Regum</hi></w>
+  <w><hi>Norwagiensium</hi></w>
   <c>,</c>
   <w>en</w>
   <w>hann</w>
@@ -181,14 +193,14 @@
   <w>Snorri</w>
   <w>Sturluson</w>
   <w>notaði</w>
-  <w><i>Ólafs</i></w>
-  <w><i>sögu</i></w>
-  <w><i>Odds</i></w>
+  <w><hi>Ólafs</hi></w>
+  <w><hi>sögu</hi></w>
+  <w><hi>Odds</hi></w>
   <c>,</c>
   <w>þegar</w>
   <w>hann</w>
   <w>samdi</w>
-  <w><i>Heimskringlu</i></w>
+  <w><hi>Heimskringlu</hi></w>
   <revision id="5">
     <original><c>,</c></original>
     <corrected></corrected>
@@ -201,11 +213,11 @@
   <w>gerði</w>
   <w>einnig</w>
   <w>höfundur</w>
-  <w><i>Ólafs</i></w>
-  <w><i>sögu</i></w>
-  <w><i>Tryggvasonar</i></w>
-  <w><i>hinnar</i></w>
-  <w><i>mestu</i></w>
+  <w><hi>Ólafs</hi></w>
+  <w><hi>sögu</hi></w>
+  <w><hi>Tryggvasonar</hi></w>
+  <w><hi>hinnar</hi></w>
+  <w><hi>mestu</hi></w>
   <c>.</c>
 </s>
 <s n="8">
@@ -213,9 +225,9 @@
   <w>bendir</w>
   <w>til</w>
   <w>að</w>
-  <w><i>Ólafs</i></w>
-  <w><i>saga</i></w>
-  <w><i>Odds</i></w>
+  <w><hi>Ólafs</hi></w>
+  <w><hi>saga</hi></w>
+  <w><hi>Odds</hi></w>
   <w>hafi</w>
   <w>markað</w>
   <w>nokkur</w>

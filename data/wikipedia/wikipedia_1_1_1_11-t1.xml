@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_11-t1.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Dómkirkjan</w>
@@ -8,12 +20,12 @@
   <w>Coventry</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>Coventry</i></w>
-  <w><i>Cathedral</i></w>
+  <w><hi>Coventry</hi></w>
+  <w><hi>Cathedral</hi></w>
   <w>eða</w>
-  <w><i>St.</i></w>
-  <w><i>Michael‘s</i></w>
-  <w><i>Cathedral</i></w>
+  <w><hi>St.</hi></w>
+  <w><hi>Michael‘s</hi></w>
+  <w><hi>Cathedral</hi></w>
   <c>)</c>
   <w>er</w>
   <w>helsta</w>
@@ -693,7 +705,7 @@
   <w>til</w>
   <revision id="16">
     <original><w>Kaiser-Wilhelm-Gedächtniskirche</w></original>
-    <corrected><w><i>Kaiser-Wilhelm-Gedächtniskirche</i></w></corrected>
+    <corrected><w><hi>Kaiser-Wilhelm-Gedächtniskirche</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -736,7 +748,7 @@
   <w>heitið</w>
   <revision id="19">
     <original><w>HMS</w><w>Coventry</w></original>
-    <corrected><w><i>HMS</i></w><w><i>Coventry</i></w></corrected>
+    <corrected><w><hi>HMS</hi></w><w><hi>Coventry</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -785,7 +797,7 @@
   <w>skipinu</w>
   <revision id="21">
     <original><w>HMS</w><w>Diamond</w></original>
-    <corrected><w><i>HMS</i></w><w><i>Diamond</i></w></corrected>
+    <corrected><w><hi>HMS</hi></w><w><hi>Diamond</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>

@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>visir-2014_10_225-t8.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Fréttaflutningur</w>
@@ -235,7 +247,7 @@
   <w>heimildarmyndina</w>
   <revision id="9">
     <original><c>„</c><w>Bowling</w><w>for</w><w>Columbine</w><c>“</c></original>
-    <corrected><w><i>Bowling</i></w><w><i>for</i></w><w><i>Columbine</i></w></corrected>
+    <corrected><w><hi>Bowling</hi></w><w><hi>for</hi></w><w><hi>Columbine</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="7-1" eid="0"/>
         <error xtype="nonit4it" idx="7-1" eid="0"/>
@@ -273,9 +285,9 @@
         <error xtype="missing-bracket" idx="9-2" eid="0"/>
       </errors>
   </revision>
-  <w><i>criminal</i></w>
-  <w><i>justice</i></w>
-  <w><i>majors</i></w>
+  <w><hi>criminal</hi></w>
+  <w><hi>justice</hi></w>
+  <w><hi>majors</hi></w>
   <c>)</c>
   <revision id="12">
     <original/>

@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_6-t8.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Á</w>
@@ -40,7 +52,7 @@
   </revision>
 </s><s n="2">
   <w>Óratórían</w>
-  <w><i>Messías</i></w>
+  <w><hi>Messías</hi></w>
   <w>var</w>
   <w>samin</w>
   <w>árið 1741</w>
@@ -353,7 +365,7 @@
   <w>Pólýfónkórsins</w>
   <w>í</w>
   <w>flutningi</w>
-  <w><i>Messíasar</i></w>
+  <w><hi>Messíasar</hi></w>
   <w>voru</w>
   <w>86</w>
   <w>talsins</w>
@@ -550,7 +562,7 @@
   <w>upptöku</w>
   <w>af</w>
   <w>heildarflutningi</w>
-  <w><i>Messíasar</i></w>
+  <w><hi>Messíasar</hi></w>
   <w>eftir</w>
   <w>Händel</w>
   <w>í</w>

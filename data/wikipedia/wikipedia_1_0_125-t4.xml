@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_125-t4.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="0">
   <revision id="1">
@@ -11,7 +23,7 @@
         <error xtype="missing-words" eid="0" />
       </errors>
   </revision>
-  <w><i>Cirrus</i></w>
+  <w><hi>Cirrus</hi></w>
   <revision id="2">
     <original><c>)</c></original>
     <corrected><c>,</c></corrected>
@@ -141,7 +153,7 @@
   </revision>
   <c>:</c>
   <revision id="9">
-    <original><w><i>Hann</i></w><w><i>hrísar</i></w><w><i>loftið</i></w></original>
+    <original><w><hi>Hann</hi></w><w><hi>hrísar</hi></w><w><hi>loftið</hi></w></original>
     <corrected><c>„</c><w>Hann</w><w>hrísar</w><w>loftið</w><c>“</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="9-1" eid="0" />

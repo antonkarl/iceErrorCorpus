@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_14-t2.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Safn</w>
@@ -8,9 +20,9 @@
   <w>til</w>
   <w>heiðurs</w>
   <c>,</c>
-  <w><i>Fundació</i></w>
-  <w><i>Joan</i></w>
-  <w><i>Miró</i></w>
+  <w><hi>Fundació</hi></w>
+  <w><hi>Joan</hi></w>
+  <w><hi>Miró</hi></w>
   <c>,</c>
   <w>er</w>
   <w>starfrækt</w>
@@ -336,7 +348,7 @@
   <w>verkið</w>
   <revision id="9">
     <original><w>The</w><w>Dutch</w><w>Interiors</w></original>
-    <corrected><w><i>The</i></w><w><i>Dutch</i></w><w><i>Interiors</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Dutch</hi></w><w><hi>Interiors</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

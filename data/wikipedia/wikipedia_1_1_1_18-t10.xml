@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_18-t10.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Til</w>
@@ -25,7 +37,7 @@
   <w>nefnast</w>
   <revision id="2">
     <original><w>Manarkettir</w><c>(</c><w>Manx</w><c>)</c></original>
-    <corrected><w>manarkettir</w><w>eða</w><w><i>manx</i></w></corrected>
+    <corrected><w>manarkettir</w><w>eða</w><w><hi>manx</hi></w></corrected>
       <errors>
         <error xtype="upper4lower-common" eid="0"/>
         <error xtype="extra-bracket" idx="7-1" eid="0"/>
@@ -99,9 +111,9 @@
   <c>(</c>
   <w>fræðiheiti</w>
   <c>:</c>
-  <w><i>Felis</i></w>
-  <w><i>silvestris</i></w>
-  <w><i>catus</i></w>
+  <w><hi>Felis</hi></w>
+  <w><hi>silvestris</hi></w>
+  <w><hi>catus</hi></w>
   <c>)</c>
   <revision id="4">
     <original/>
@@ -116,8 +128,8 @@
   <c>(</c>
   <w>fræðiheiti</w>
   <c>:</c>
-  <w><i>Felis</i></w>
-  <w><i>silvestris</i></w>
+  <w><hi>Felis</hi></w>
+  <w><hi>silvestris</hi></w>
   <c>)</c>
   <w>sem</w>
   <w>er</w>

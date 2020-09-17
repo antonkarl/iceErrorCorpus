@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_12-t8.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Sá</w>
@@ -18,16 +30,16 @@
   <w>Afríku</w>
   <c>.</c>
 </s><s n="2">
-  <w><i>Spirou</i></w>
-  <w><i>sur</i></w>
-  <w><i>le</i></w>
+  <w><hi>Spirou</hi></w>
+  <w><hi>sur</hi></w>
+  <w><hi>le</hi></w>
   <w>ringZ</w>
   <c>(</c>
   <w>íslenska</w>
   <c>:</c>
-  <w><i>Svalur</i></w>
-  <w><i>í</i></w>
-  <w><i>hringnum</i></w>
+  <w><hi>Svalur</hi></w>
+  <w><hi>í</hi></w>
+  <w><hi>hringnum</hi></w>
   <c>)</c>
   <w>gerist</w>
   <w>meðal</w>
@@ -38,7 +50,7 @@
 </s><s n="3">
   <revision id="1">
     <original><w>Quatre</w><w>aventures</w><w>de</w><w>Spirou</w><w>et</w><w>Fantasio</w></original>
-    <corrected><w><i>Quatre</i></w><w><i>aventures</i></w><w><i>de</i></w><w><i>Spirou</i></w><w><i>et</i></w><w><i>Fantasio</i></w></corrected>
+    <corrected><w><hi>Quatre</hi></w><w><hi>aventures</hi></w><w><hi>de</hi></w><w><hi>Spirou</hi></w><w><hi>et</hi></w><w><hi>Fantasio</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -46,12 +58,12 @@
   <c>(</c>
   <w>íslenska</w>
   <c>:</c>
-  <w><i>Fjögur</i></w>
+  <w><hi>Fjögur</hi></w>
   <w>ævintýriZ</w>
-  <w><i>um</i></w>
-  <w><i>Sval</i></w>
-  <w><i>og</i></w>
-  <w><i>Val</i></w>
+  <w><hi>um</hi></w>
+  <w><hi>Sval</hi></w>
+  <w><hi>og</hi></w>
+  <w><hi>Val</hi></w>
   <c>)</c>
   <w>er</w>
   <w>fyrsta</w>
@@ -101,15 +113,15 @@
   <w>fjárkúgunum</w>
   <c>.</c>
 </s><s n="6">
-  <w><i>Spirou</i></w>
-  <w><i>fait</i></w>
-  <w><i>du</i></w>
-  <w><i>cheval</i></w>
+  <w><hi>Spirou</hi></w>
+  <w><hi>fait</hi></w>
+  <w><hi>du</hi></w>
+  <w><hi>cheval</hi></w>
   <c>(</c>
   <w>íslenska</w>
   <c>:</c>
-  <w><i>Svalur</i></w>
-  <w><i>knapi</i></w>
+  <w><hi>Svalur</hi></w>
+  <w><hi>knapi</hi></w>
   <c>)</c>
   <w>er</w>
   <w>stysta</w>
@@ -153,16 +165,16 @@
   <w>ættbálksins</w>
   <c>.</c>
 </s><s n="9">
-  <w><i>Spirou</i></w>
-  <w><i>et</i></w>
-  <w><i>les</i></w>
-  <w><i>plans</i></w>
-  <w><i>du</i></w>
-  <w><i>robot</i></w>
+  <w><hi>Spirou</hi></w>
+  <w><hi>et</hi></w>
+  <w><hi>les</hi></w>
+  <w><hi>plans</hi></w>
+  <w><hi>du</hi></w>
+  <w><hi>robot</hi></w>
   <c>(</c>
   <w>íslenska</w>
   <c>:</c>
-  <w><i>Vélmennisuppdrátturinn</i></w>
+  <w><hi>Vélmennisuppdrátturinn</hi></w>
   <c>)</c>
   <w>er</w>
   <w>sjálfstætt</w>
@@ -300,7 +312,7 @@
   <c>:</c>
   <revision id="4">
     <original><w>Svalur</w><w>í</w><w>hringnum</w></original>
-    <corrected><w><i>Svalur</i></w><w><i>í</i></w><w><i>hringnum</i></w></corrected>
+    <corrected><w><hi>Svalur</hi></w><w><hi>í</hi></w><w><hi>hringnum</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -308,7 +320,7 @@
   <w>og</w>
   <revision id="5">
     <original><w>Svörtu</w><w>hattarnir</w></original>
-    <corrected><w><i>Svörtu</i></w><w><i>hattarnir</i></w></corrected>
+    <corrected><w><hi>Svörtu</hi></w><w><hi>hattarnir</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -319,7 +331,7 @@
   <w>og</w>
   <w>hrekkjusvínið</w>
   <revision id="6">
-    <original><w><i>Steingeir</i></w></original>
+    <original><w><hi>Steingeir</hi></w></original>
     <corrected><w>Steingeir</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -491,16 +503,16 @@
   <w>ósköpum</w>
   <c>.</c>
 </s><s n="24">
-  <w><i>Spirou</i></w>
-  <w><i>chez</i></w>
-  <w><i>les</i></w>
-  <w><i>Pygmées</i></w>
+  <w><hi>Spirou</hi></w>
+  <w><hi>chez</hi></w>
+  <w><hi>les</hi></w>
+  <w><hi>Pygmées</hi></w>
   <c>(</c>
   <w>íslenska</w>
   <c>:</c>
-  <w><i>Svalur</i></w>
-  <w><i>á</i></w>
-  <w><i>Litlupattaeyju</i></w>
+  <w><hi>Svalur</hi></w>
+  <w><hi>á</hi></w>
+  <w><hi>Litlupattaeyju</hi></w>
   <c>)</c>
   <w>segir</w>
   <w>frá</w>

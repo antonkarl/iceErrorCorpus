@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_10-t10.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Sjóræningjar</w>
@@ -10,7 +22,7 @@
   <w>stundum</w>
   <w>kallaðir</w>
   <revision id="1">
-    <original><w>Ottómanaræningjar</w><w><i></i></w></original>
+    <original><w>Ottómanaræningjar</w><w><hi></hi></w></original>
     <corrected><w>Ottóman-ræningjar</w></corrected>
       <errors>
         <error xtype="missing-dash" eid="0" />
@@ -1235,7 +1247,7 @@
   <w>til</w>
   <revision id="62">
     <original><w>pashans</w></original>
-    <corrected><w><i>pashans</i></w></corrected>
+    <corrected><w><hi>pashans</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1249,7 +1261,7 @@
   <w>titlana</w>
   <revision id="63">
     <original><w>agha</w></original>
-    <corrected><w><i>agha</i></w></corrected>
+    <corrected><w><hi>agha</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1257,7 +1269,7 @@
   <c>,</c>
   <revision id="64">
     <original><w>dey</w></original>
-    <corrected><w><i>dey</i></w></corrected>
+    <corrected><w><hi>dey</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1265,7 +1277,7 @@
   <w>eða</w>
   <revision id="65">
     <original><w>bey</w></original>
-    <corrected><w><i>bey</i></w></corrected>
+    <corrected><w><hi>bey</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -2019,8 +2031,8 @@
   <w>Süleyman</w>
   <w>Reis</w>
   <c>,</c>
-  <w><i>De</i></w>
-  <w><i>Veenboer</i></w>
+  <w><hi>De</hi></w>
+  <w><hi>Veenboer</hi></w>
   <c>,</c>
   <w>sem</w>
   <w>varð</w>

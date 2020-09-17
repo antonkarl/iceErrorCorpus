@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_14-t9.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Hann</w>
@@ -73,7 +85,7 @@
   <w>plötunni</w>
   <revision id="1">
     <original><w>Age</w><w>of</w><w>Impact</w></original>
-    <corrected><w><i>Age</i></w><w><i>of</i></w><w><i>Impact</i></w></corrected>
+    <corrected><w><hi>Age</hi></w><w><hi>of</hi></w><w><hi>Impact</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -154,12 +166,12 @@
   <w>í</w>
   <w>bók</w>
   <w>hans</w>
-  <w><i>The</i></w>
+  <w><hi>The</hi></w>
   <w><i/></w>
   <w>100Z</w>
-  <w><i>Greatest</i></w>
-  <w><i>Metal</i></w>
-  <w><i>Guitarists</i></w>
+  <w><hi>Greatest</hi></w>
+  <w><hi>Metal</hi></w>
+  <w><hi>Guitarists</hi></w>
   <c>.</c>
 </s><s n="5">
   <w>Petrucci</w>
@@ -168,8 +180,8 @@
   <w>dálk</w>
   <w>fyrir</w>
   <w>tímaritið</w>
-  <w><i>Guitar</i></w>
-  <w><i>World</i></w>
+  <w><hi>Guitar</hi></w>
+  <w><hi>World</hi></w>
   <w>og</w>
   <w>var</w>
   <revision id="5">
@@ -194,7 +206,7 @@
   <w>af</w>
   <revision id="7">
     <original><w>Guitar</w><w>World</w></original>
-    <corrected><w><i>Guitar</i></w><w><i>World</i></w></corrected>
+    <corrected><w><hi>Guitar</hi></w><w><hi>World</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -202,13 +214,13 @@
   <w>og</w>
   <w>heitir</w>
   <w>það</w>
-  <w><i>Guitar</i></w>
-  <w><i>World</i></w>
-  <w><i>presents</i></w>
-  <w><i>John</i></w>
-  <w><i>Petrucci's</i></w>
-  <w><i>Wild</i></w>
-  <w><i>Stringdom</i></w>
+  <w><hi>Guitar</hi></w>
+  <w><hi>World</hi></w>
+  <w><hi>presents</hi></w>
+  <w><hi>John</hi></w>
+  <w><hi>Petrucci's</hi></w>
+  <w><hi>Wild</hi></w>
+  <w><hi>Stringdom</hi></w>
   <c>.</c>
 </s><s n="6">
   <w>Hann</w>
@@ -294,7 +306,7 @@
   <w>tíma</w>
   <w>af</w>
   <w>tímaritinu</w>
-  <w><i>GuitarOne</i></w>
+  <w><hi>GuitarOne</hi></w>
   <c>.</c>
 </s><s n="9">
   <w>Hann</w>
@@ -483,8 +495,8 @@
   <w>gítar</w>
   <w>sem</w>
   <w>heitir</w>
-  <w><i>Rock</i></w>
-  <w><i>Discipline</i></w>
+  <w><hi>Rock</hi></w>
+  <w><hi>Discipline</hi></w>
   <w>en</w>
   <w>þar</w>
   <w>fer</w>
@@ -616,11 +628,11 @@
   </revision>
   <w>sem</w>
   <w>heitir</w>
-  <w><i>Digital</i></w>
+  <w><hi>Digital</hi></w>
   <w>ZPinball</w>
   <c>:</c>
   <w><i/></w>
-  <w><i>Necronomicon</i></w>
+  <w><hi>Necronomicon</hi></w>
   <c>.</c>
 </s><s n="18">
   <w>Hann</w>
@@ -643,14 +655,14 @@
   <w>plötunni</w>
   <revision id="23">
     <original><w>Metropolis</w><w>Pt.</w><w>2</w><c>:</c></original>
-    <corrected><w><i>Metropolis</i></w><w><i>Pt.</i></w><w><i>2</i></w><c><i>:</i></c></corrected>
+    <corrected><w><hi>Metropolis</hi></w><w><hi>Pt.</hi></w><w><hi>2</hi></w><c><hi>:</hi></c></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
   </revision>
   <revision id="24">
     <original><w>Scenes</w><w>from</w><w>a</w><w>Memory</w></original>
-    <corrected><w><i>Scenes</i></w><w><i>from</i></w><w><i>a</i></w><w><i>Memory</i></w></corrected>
+    <corrected><w><hi>Scenes</hi></w><w><hi>from</hi></w><w><hi>a</hi></w><w><hi>Memory</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -661,7 +673,7 @@
   <w>til</w>
   <revision id="25">
     <original><w>Black</w><w>Clouds</w></original>
-    <corrected><w><i>Black</i></w><w><i>Clouds</i></w></corrected>
+    <corrected><w><hi>Black</hi></w><w><hi>Clouds</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -669,7 +681,7 @@
   <c>&amp;</c>
   <revision id="26">
     <original><w>Silver</w><w>Linings</w></original>
-    <corrected><w><i>Silver</i></w><w><i>Linings</i></w></corrected>
+    <corrected><w><hi>Silver</hi></w><w><hi>Linings</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -692,7 +704,7 @@
   <w>þeirra</w>
   <revision id="28">
     <original><w>A</w><w>Dramatic</w><w>Turn</w><w>of</w><w>Events</w></original>
-    <corrected><w><i>A</i></w><w><i>Dramatic</i></w><w><i>Turn</i></w><w><i>of</i></w><w><i>Events</i></w></corrected>
+    <corrected><w><hi>A</hi></w><w><hi>Dramatic</hi></w><w><hi>Turn</hi></w><w><hi>of</hi></w><w><hi>Events</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -714,13 +726,13 @@
   <w>heita</w>
   <w>þau</w>
   <w>einfaldlega</w>
-  <w><i>Prologue</i></w>
+  <w><hi>Prologue</hi></w>
   <c>(</c>
   <w>e.</w>
   <w>formáli</w>
   <c>)</c>
   <w>og</w>
-  <w><i>Epilogue</i></w>
+  <w><hi>Epilogue</hi></w>
   <c>(</c>
   <w>e.</w>
   <w>eftirmáli</w>
@@ -736,8 +748,8 @@
   </revision>
   <w>plata</w>
   <w>heitir</w>
-  <w><i>Suspended</i></w>
-  <w><i>Animation</i></w>
+  <w><hi>Suspended</hi></w>
+  <w><hi>Animation</hi></w>
   <w>og</w>
   <w>var</w>
   <w>hún</w>

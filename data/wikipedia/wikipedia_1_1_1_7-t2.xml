@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_7-t2.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Næstu</w>
@@ -173,7 +185,7 @@
   <w>í</w>
   <revision id="9">
     <original><c>„</c><w>Sem</w><w>yður</w><w>þóknast</w><c>"</c></original>
-    <corrected><w><i>Sem</i></w><w><i>yður</i></w><w><i>þóknast</i></w></corrected>
+    <corrected><w><hi>Sem</hi></w><w><hi>yður</hi></w><w><hi>þóknast</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="94-1" eid="0"/>
         <error xtype="nonit4it" idx="94-1" eid="0"/>
@@ -295,7 +307,7 @@
   <w>var</w>
   <revision id="12">
     <original><c>„</c><w>Bláa</w><w>kápan</w><c>"</c></original>
-    <corrected><w><i>Bláa</i></w><w><i>kápan</i></w></corrected>
+    <corrected><w><hi>Bláa</hi></w><w><hi>kápan</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="43-1" eid="0"/>
         <error xtype="nonit4it" idx="43-1" eid="0"/>
@@ -400,12 +412,12 @@
   <w>að</w>
   <w>ég</w>
   <w>söng</w>
-  <w><i>Hrosshár</i></w>
-  <w><i>í</i></w>
-  <w><i>strengjum</i></w>
+  <w><hi>Hrosshár</hi></w>
+  <w><hi>í</hi></w>
+  <w><hi>strengjum</hi></w>
   <w>og</w>
-  <w><i>Mín</i></w>
-  <w><i>liljan</i></w>
+  <w><hi>Mín</hi></w>
+  <w><hi>liljan</hi></w>
   <w>fríðZ</w>
   <w>og</w>
   <w>var</w>
@@ -716,7 +728,7 @@
   <w>Karlsdóttir</w>
   <w>einnig</w>
   <revision id="24">
-    <original><w><i>Ég</i></w><w><i>bíð</i></w><w><i>þér</i></w><w><i>upp</i></w><w><i>í</i></w><w><i>dans</i></w></original>
+    <original><w><hi>Ég</hi></w><w><hi>bíð</hi></w><w><hi>þér</hi></w><w><hi>upp</hi></w><w><hi>í</hi></w><w><hi>dans</hi></w></original>
     <corrected><c>„</c><w>Ég</w><w>býð</w><w>þér</w><w>upp</w><w>í</w><w>dans</w><c>“</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="134-1" eid="0"/>
@@ -834,7 +846,7 @@
   <w>óperettu</w>
   <revision id="27">
     <original><c>„</c><w>Bláu</w><w>kápunni</w><c>"</c></original>
-    <corrected><c>,</c><w><i>Bláu</i></w><w><i>kápunni</i></w><c>,</c></corrected>
+    <corrected><c>,</c><w><hi>Bláu</hi></w><w><hi>kápunni</hi></w><c>,</c></corrected>
       <errors>
         <error xtype="missing-comma" eid="0"/>
         <error xtype="extra-quots" idx="51-1" eid="0"/>
@@ -1142,7 +1154,7 @@
   <w>hefur</w>
   <revision id="40">
     <original><c>„</c><w>Bláu</w><w>kápunni</w><c>"</c></original>
-    <corrected><w><i>Bláu</i></w><w><i>kápunni</i></w></corrected>
+    <corrected><w><hi>Bláu</hi></w><w><hi>kápunni</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="49-1" eid="0"/>
         <error xtype="nonit4it" idx="49-1" eid="0"/>
@@ -1527,7 +1539,7 @@
   <w>plötunni</w>
   <w>er</w>
   <revision id="52">
-    <original><w><i>Hvar</i></w><w><i>sem</i></w><w><i>liggja</i></w><w><i>mín</i></w><w><i>spor</i></w></original>
+    <original><w><hi>Hvar</hi></w><w><hi>sem</hi></w><w><hi>liggja</hi></w><w><hi>mín</hi></w><w><hi>spor</hi></w></original>
     <corrected><c>„</c><w>Hvar</w><w>sem</w><w>liggja</w><w>mín</w><w>spor</w><c>“</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="153-1" eid="0"/>
@@ -1762,9 +1774,9 @@
   <w>lagi</w>
   <c>,</c>
   <w>spilaðu</w>
-  <w><i>Hátt</i></w>
-  <w><i>ég</i></w>
-  <w><i>kalla</i></w>
+  <w><hi>Hátt</hi></w>
+  <w><hi>ég</hi></w>
+  <w><hi>kalla</hi></w>
   <w>eftir</w>
   <w>Sigfús</w>
   <w>Einarsson</w>
@@ -1780,7 +1792,7 @@
   <w>Óperettan</w>
   <revision id="64">
     <original><c>„</c><w>Leðurblakan</w></original>
-    <corrected><w><i>Leðurblakan</i></w></corrected>
+    <corrected><w><hi>Leðurblakan</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="95-1" eid="0"/>
         <error xtype="nonit4it" eid="0"/>
@@ -1920,7 +1932,7 @@
   <w>kunna</w>
   <w>lag</w>
   <revision id="70">
-    <original><w><i>Halló</i></w></original>
+    <original><w><hi>Halló</hi></w></original>
     <corrected><c>„</c><w>Halló</w><c>“</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="135-1" eid="0"/>
@@ -1936,7 +1948,7 @@
   <w>sem</w>
   <w>heitir</w>
   <revision id="71">
-    <original><w><i>Bergmál</i></w><w><i>hins</i></w><w><i>liðna</i></w></original>
+    <original><w><hi>Bergmál</hi></w><w><hi>hins</hi></w><w><hi>liðna</hi></w></original>
     <corrected><c>„</c><w>Bergmál</w><w>hins</w><w>liðna</w><c>“</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="136-1" eid="0"/>
@@ -2367,7 +2379,7 @@
   <w>sem</w>
   <revision id="87">
     <original><c>„</c><w>Leðurblakan</w><c>"</c></original>
-    <corrected><w><i>Leðurblakan</i></w></corrected>
+    <corrected><w><hi>Leðurblakan</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="108-1" eid="0"/>
         <error xtype="nonit4it" idx="108-1" eid="0"/>
@@ -2398,7 +2410,7 @@
   <w>óperan</w>
   <revision id="90">
     <original><c>„</c><w>Rigoletto</w><c>"</c></original>
-    <corrected><w><i>Rigoletto</i></w></corrected>
+    <corrected><w><hi>Rigoletto</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="60-1" eid="0"/>
         <error xtype="nonit4it" idx="60-1" eid="0"/>
@@ -2462,7 +2474,7 @@
   <w>Sigfúsar</w>
   <w>Halldórssonar</w>
   <revision id="92">
-    <original><w><i>Við</i></w><w><i>eigum</i></w><w><i>samleið</i></w></original>
+    <original><w><hi>Við</hi></w><w><hi>eigum</hi></w><w><hi>samleið</hi></w></original>
     <corrected><c>„</c><w>Við</w><w>eigum</w><w>samleið</w><c>“</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="141-1" eid="0"/>
@@ -2602,15 +2614,15 @@
   <w>kennt</w>
   <w>mér</w>
   <c>,</c>
-  <w><i>Ég</i></w>
-  <w><i>lít</i></w>
-  <w><i>í</i></w>
-  <w><i>anda</i></w>
-  <w><i>liðna</i></w>
-  <w><i>tíð</i></w>
+  <w><hi>Ég</hi></w>
+  <w><hi>lít</hi></w>
+  <w><hi>í</hi></w>
+  <w><hi>anda</hi></w>
+  <w><hi>liðna</hi></w>
+  <w><hi>tíð</hi></w>
   <c>,</c>
-  <w><i>Brúnaljósin</i></w>
-  <w><i>brúnu</i></w>
+  <w><hi>Brúnaljósin</hi></w>
+  <w><hi>brúnu</hi></w>
   <revision id="98">
     <original><w>o</w><c>.</c><w>fl</w></original>
     <corrected><w>o.fl</w></corrected>
@@ -2682,7 +2694,7 @@
   <w>á</w>
   <revision id="102">
     <original><c>„</c><w>Rígólettó</w><c>"</c></original>
-    <corrected><w><i>Rígólettó</i></w></corrected>
+    <corrected><w><hi>Rígólettó</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="97-1" eid="0"/>
         <error xtype="nonit4it" idx="97-1" eid="0"/>
@@ -2707,7 +2719,7 @@
   <w>vera</w>
   <w>lagið</w>
   <revision id="103">
-    <original><w><i>Silfrað</i></w><w><i>hár</i></w></original>
+    <original><w><hi>Silfrað</hi></w><w><hi>hár</hi></w></original>
     <corrected><c>„</c><w>Silfrað</w><w>hár</w><c>“</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="113-1" eid="0"/>
@@ -2738,7 +2750,7 @@
   <w>safndiskinum</w>
   <revision id="104">
     <original><c>„</c><w>Þín</w><w>minning</w><w>lifir</w><c>“</c></original>
-    <corrected><w><i>Þín</i></w><w><i>minning</i></w><w><i>lifir</i></w></corrected>
+    <corrected><w><hi>Þín</hi></w><w><hi>minning</hi></w><w><hi>lifir</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="114-1" eid="0"/>
         <error xtype="nonit4it" idx="114-1" eid="0"/>
@@ -2842,7 +2854,7 @@
   <w>má</w>
   <w>nefna</w>
   <revision id="111">
-    <original><w><i>Blikandi</i></w><w><i>haf</i></w></original>
+    <original><w><hi>Blikandi</hi></w><w><hi>haf</hi></w></original>
     <corrected><c>„</c><w>Blikandi</w><w>haf</w><c>“</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="130-1" eid="0"/>
@@ -2895,7 +2907,7 @@
   <w>eru</w>
   <w>lögin</w>
   <revision id="112">
-    <original><w><i>Litli</i></w><w><i>vin</i></w></original>
+    <original><w><hi>Litli</hi></w><w><hi>vin</hi></w></original>
     <corrected><c>„</c><w>Litli</w><w>vin</w><c>“</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="115-1" eid="0"/>
@@ -2915,7 +2927,7 @@
   <c>,</c>
   <w>og</w>
   <revision id="113">
-    <original><w><i>Hvar</i></w><w><i>varstu</i></w><w><i>í</i></w><w><i>nótt</i></w></original>
+    <original><w><hi>Hvar</hi></w><w><hi>varstu</hi></w><w><hi>í</hi></w><w><hi>nótt</hi></w></original>
     <corrected><c>„</c><w>Hvar</w><w>varstu</w><w>í</w><w>nótt</w></corrected>
       <errors>
         <error xtype="it4nonit" idx="116-1" eid="0"/>
@@ -3742,7 +3754,7 @@
   <w>eins</w>
   <w>og</w>
   <revision id="143">
-    <original><w><i>Rökkvar</i></w><w><i>í</i></w><w><i>runnum</i></w></original>
+    <original><w><hi>Rökkvar</hi></w><w><hi>í</hi></w><w><hi>runnum</hi></w></original>
     <corrected><c>„</c><w>Rökkvar</w><w>í</w><w>runnum</w><c>“</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="147-1" eid="0"/>
@@ -3772,7 +3784,7 @@
   <c>)</c>
   <c>,</c>
   <revision id="145">
-    <original><w><i>Nóttin</i></w><w><i>og</i></w><w><i>þú</i></w></original>
+    <original><w><hi>Nóttin</hi></w><w><hi>og</hi></w><w><hi>þú</hi></w></original>
     <corrected><c>„</c><w>Nóttin</w><w>og</w><w>þú</w><c>“</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="149-1" eid="0"/>
@@ -3784,7 +3796,7 @@
   <w>Sigfússon</w>
   <c>,</c>
   <revision id="146">
-    <original><w><i>Árin</i></w><w><i>líða</i></w></original>
+    <original><w><hi>Árin</hi></w><w><hi>líða</hi></w></original>
     <corrected><c>„</c><w>Árin</w><w>líða</w><c>“</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="150-1" eid="0"/>
@@ -3797,7 +3809,7 @@
   <w>Mathiesen</w>
   <c>,</c>
   <revision id="147">
-    <original><w><i>Kveðja</i></w><w><i>förumannsins</i></w></original>
+    <original><w><hi>Kveðja</hi></w><w><hi>förumannsins</hi></w></original>
     <corrected><c>„</c><w>Kveðja</w><w>förumannsins</w><c>“</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="151-1" eid="0"/>
@@ -3813,7 +3825,7 @@
   <c>)</c>
   <w>og</w>
   <revision id="148">
-    <original><w><i>Í</i></w><w><i>Reykjavík</i></w></original>
+    <original><w><hi>Í</hi></w><w><hi>Reykjavík</hi></w></original>
     <corrected><c>„</c><w>Í</w><w>Reykjavík</w><c>“</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="152-1" eid="0"/>
@@ -3881,7 +3893,7 @@
   <w>í</w>
   <revision id="151">
     <original><c>„</c><w>Ímyndunarveikinni</w><c>"</c></original>
-    <corrected><w><i>Ímyndunarveikinni</i></w></corrected>
+    <corrected><w><hi>Ímyndunarveikinni</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="90-1" eid="0"/>
         <error xtype="nonit4it" idx="90-1" eid="0"/>
@@ -3893,7 +3905,7 @@
   <w>í</w>
   <revision id="152">
     <original><c>„</c><w>Tyrkja-Guddu</w><c>"</c></original>
-    <corrected><w><i>Tyrkja-Guddu</i></w></corrected>
+    <corrected><w><hi>Tyrkja-Guddu</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="91-1" eid="0"/>
         <error xtype="nonit4it" idx="91-1" eid="0"/>
@@ -4182,7 +4194,7 @@
 </s><s n="137">
   <w>Þetta</w>
   <w>var</w>
-  <w><i>Síldarvalsinn</i></w>
+  <w><hi>Síldarvalsinn</hi></w>
   <w>eftir</w>
   <w>Steingrím</w>
   <w>Sigfússon</w>
@@ -4491,7 +4503,7 @@
   <w>rómaða</w>
   <w>lag</w>
   <revision id="171">
-    <original><c>;</c><w><i>Það</i></w><w><i>er</i></w><w><i>svo</i></w><w><i>margt</i></w><w><i>að</i></w><w><i>minnast</i></w><w><i>á</i></w></original>
+    <original><c>;</c><w><hi>Það</hi></w><w><hi>er</hi></w><w><hi>svo</hi></w><w><hi>margt</hi></w><w><hi>að</hi></w><w><hi>minnast</hi></w><w><hi>á</hi></w></original>
     <corrected><c>„</c><w>Það</w><w>er</w><w>svo</w><w>margt</w><w>að</w><w>minnast</w><w>á</w><c>“</c></corrected>
       <errors>
         <error xtype="extra-semicolon" eid="0"/>
@@ -4514,7 +4526,7 @@
   <w>leikrit</w>
   <revision id="172">
     <original><c>„</c><w>Gullna</w><w>hliðið</w><c>"</c></original>
-    <corrected><w><i>Gullna</i></w><w><i>hliðið</i></w></corrected>
+    <corrected><w><hi>Gullna</hi></w><w><hi>hliðið</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" eid="0"/>
         <error xtype="nonit4it" eid="0"/>
@@ -4904,7 +4916,7 @@
   <w>síðar</w>
   <c>,</c>
   <revision id="185">
-    <original><w><i>Sjómannavalsinn</i></w><c>,</c></original>
+    <original><w><hi>Sjómannavalsinn</hi></w><c>,</c></original>
     <corrected><c>„</c><w>Sjómannavalsinn</w><c>“</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="119-1" eid="0"/>
@@ -4981,7 +4993,7 @@
   <w>Sigvalda</w>
   <w>Kaldalóns</w>
   <revision id="188">
-    <original><c>,</c><w><i>Fjallið</i></w><w><i>eina</i></w></original>
+    <original><c>,</c><w><hi>Fjallið</hi></w><w><hi>eina</hi></w></original>
     <corrected><c>„</c><w>Fjallið</w><w>eina</w><c>“</c></corrected>
       <errors>
         <error xtype="extra-comma" eid="0"/>

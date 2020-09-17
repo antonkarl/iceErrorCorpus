@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_100-t21.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>London</w>
@@ -434,7 +446,7 @@
   <w>nefnt</w>
   <w>byggð</w>
   <w>sína</w>
-  <w><i>Londinium</i></w>
+  <w><hi>Londinium</hi></w>
   <c>.</c>
 </s>
 <s n="16">
@@ -816,7 +828,7 @@
         <error xtype="wording" eid="0" />
       </errors>
   </revision>
-  <w><i>Ealdwīc</i></w>
+  <w><hi>Ealdwīc</hi></w>
   <revision id="53">
     <original><c>(</c></original>
     <corrected><w>eða</w></corrected>
@@ -849,7 +861,7 @@
   <w>sem</w>
   <revision id="55">
     <original><w>Aldwych</w></original>
-    <corrected><w><i>Aldwych</i></w></corrected>
+    <corrected><w><hi>Aldwych</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -942,8 +954,8 @@
   <w>að</w>
   <w>toga</w>
   <w>niður</w>
-  <w><i>Tower</i></w>
-  <w><i>Bridge</i></w>
+  <w><hi>Tower</hi></w>
+  <w><hi>Bridge</hi></w>
   <revision id="58">
     <original><w>með</w></original>
     <corrected><w>ásamt</w></corrected>
@@ -1060,7 +1072,7 @@
   <c>(</c>
   <revision id="67">
     <original><w>Westminster</w><w>klaustur</w></original>
-    <corrected><w><i>Westminister-klaustur</i></w></corrected>
+    <corrected><w><hi>Westminister-klaustur</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="67-1" eid="0" />
         <error xtype="missing-dash" idx="67-2" eid="0" />
@@ -1655,9 +1667,9 @@
   <w>Lundúnaborg</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>City</i></w>
-  <w><i>of</i></w>
-  <w><i>London</i></w>
+  <w><hi>City</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>London</hi></w>
   <c>)</c>
   <w>sem</w>
   <revision id="92">
@@ -1677,25 +1689,25 @@
   </revision>
   <c>„</c>
   <revision id="94">
-    <original><w><i>the</i></w></original>
-    <corrected><w><i>The</i></w></corrected>
+    <original><w><hi>the</hi></w></original>
+    <corrected><w><hi>The</hi></w></corrected>
       <errors>
         <error xtype="lower4upper-proper" eid="0" />
       </errors>
   </revision>
-  <w><i>City</i></w>
+  <w><hi>City</hi></w>
   <c>“</c>
   <w>eða</w>
   <c>„</c>
   <revision id="95">
-    <original><w><i>the</i></w></original>
-    <corrected><w><i>The</i></w></corrected>
+    <original><w><hi>the</hi></w></original>
+    <corrected><w><hi>The</hi></w></corrected>
       <errors>
         <error xtype="lower4upper-proper" eid="0" />
       </errors>
   </revision>
-  <w><i>Square</i></w>
-  <w><i>Mile</i></w>
+  <w><hi>Square</hi></w>
+  <w><hi>Mile</hi></w>
   <c>“</c>
   <w>í</w>
   <w>daglegu</w>
@@ -2184,7 +2196,7 @@
       </errors>
   </revision>
   <w>borgarinnar</w>
-  <w><i>Londinium</i></w>
+  <w><hi>Londinium</hi></w>
   <w>með</w>
   <w>steini</w>
   <revision id="139">
@@ -2538,7 +2550,7 @@
   <c>(</c>
   <revision id="164">
     <original><w>Royal</w><w>Ballet</w></original>
-    <corrected><w>e.</w><w><i>The</i></w><w><i>Royal</i></w><w><i>Ballet</i></w></corrected>
+    <corrected><w>e.</w><w><hi>The</hi></w><w><hi>Royal</hi></w><w><hi>Ballet</hi></w></corrected>
       <errors>
         <error xtype="missing-words" idx="164-1" eid="0" />
         <error xtype="nonit4it" idx="164-2" eid="0" />
@@ -2551,7 +2563,7 @@
   <c>(</c>
   <revision id="165">
     <original><w>English</w><w>National</w><w>Ballet</w></original>
-    <corrected><w>e.</w><w><i>The</i></w><w><i>English</i></w><w><i>National</i></w><w><i>Ballet</i></w></corrected>
+    <corrected><w>e.</w><w><hi>The</hi></w><w><hi>English</hi></w><w><hi>National</hi></w><w><hi>Ballet</hi></w></corrected>
       <errors>
         <error xtype="missing-words" idx="165-1" eid="0" />
         <error xtype="nonit4it" idx="165-2" eid="0" />
@@ -2564,7 +2576,7 @@
   <c>(</c>
   <revision id="166">
     <original><w>Royal</w><w>Opera</w></original>
-    <corrected><w>e.</w><w><i>The</i></w><w><i>Royal</i></w><w><i>Opera</i></w></corrected>
+    <corrected><w>e.</w><w><hi>The</hi></w><w><hi>Royal</hi></w><w><hi>Opera</hi></w></corrected>
       <errors>
         <error xtype="missing-words" idx="166-1" eid="0" />
         <error xtype="nonit4it" idx="166-2" eid="0" />
@@ -2577,7 +2589,7 @@
   <c>(</c>
   <revision id="167">
     <original><w>National</w><w>English</w><w>Opera</w></original>
-    <corrected><w>e.</w><w><i>The</i></w><w><i>National</i></w><w><i>English</i></w><w><i>Opera</i></w></corrected>
+    <corrected><w>e.</w><w><hi>The</hi></w><w><hi>National</hi></w><w><hi>English</hi></w><w><hi>Opera</hi></w></corrected>
       <errors>
         <error xtype="missing-words" idx="167-1" eid="0" />
         <error xtype="nonit4it" idx="167-2" eid="0" />
@@ -3725,7 +3737,7 @@
   <w>hafa</w>
   <w>orðin</w>
   <c>„</c>
-  <w><i>London-flugvöllur</i></w>
+  <w><hi>London-flugvöllur</hi></w>
   <c>“</c>
   <w>í</w>
   <w>nafni</w>

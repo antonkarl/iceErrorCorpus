@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_150-t13.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="0">
   <w>Sómalía</w>
   <revision id="1">
     <original><c>(</c><w>sómalska</w><c>:</c><w>Soomaaliya</w><c>;</c><w>arabíska</w><c>:</c></original>
-    <corrected><c>,</c><w>sem</w><w>á</w><w>sómölsku</w><w>nefnist</w><w><i>Soomaaliya</i></w><w>og</w><w>á</w><w>arabísku</w></corrected>
+    <corrected><c>,</c><w>sem</w><w>á</w><w>sómölsku</w><w>nefnist</w><w><hi>Soomaaliya</hi></w><w>og</w><w>á</w><w>arabísku</w></corrected>
       <errors>
         <error xtype="bracket4square" eid="0" />
         <error xtype="wording" eid="0" />
@@ -14,11 +26,11 @@
   </revision>
   <w>الصومال</w>
   <c>,</c>
-  <w><i>aṣ-Ṣūmāl</i></w>
+  <w><hi>aṣ-Ṣūmāl</hi></w>
   <c>,</c>
   <revision id="2">
     <original><w>opinber</w><w>Jamhuuriyadda</w><w>Federaalka</w><w>Soomaaliya</w></original>
-    <corrected><w>hefur</w><w>opinbera</w><w>heitið</w><w><i>Jamhuuriyadda</i></w><w><i>Federaalka</i></w><w><i>Soomaaliya</i></w></corrected>
+    <corrected><w>hefur</w><w>opinbera</w><w>heitið</w><w><hi>Jamhuuriyadda</hi></w><w><hi>Federaalka</hi></w><w><hi>Soomaaliya</hi></w></corrected>
       <errors>
         <error xtype="wording" eid="0" />
         <error xtype="nonit4it" eid="0" />
@@ -544,7 +556,7 @@
   <w>átján</w>
   <w>héruð</w>
   <c>(</c>
-  <w><i>gobollada</i></w>
+  <w><hi>gobollada</hi></w>
   <c>)</c>
   <w>sem</w>
   <w>aftur</w>
@@ -557,8 +569,8 @@
   <w>Norðurhluti</w>
   <w>landsins</w>
   <w>skiptist</w>
-  <w><i>de</i></w>
-  <w><i>facto</i></w>
+  <w><hi>de</hi></w>
+  <w><hi>facto</hi></w>
   <w>á</w>
   <w>milli</w>
   <w>sjálfstjórnarfylkisins</w>

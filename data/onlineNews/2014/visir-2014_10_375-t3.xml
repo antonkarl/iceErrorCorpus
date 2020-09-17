@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>visir-2014_10_375-t3.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <revision id="1">
-    <original><w><i>Raúl</i></w><w><i>Jiménez</i></w></original>
+    <original><w><hi>Raúl</hi></w><w><hi>Jiménez</hi></w></original>
     <corrected><w>Raúl</w><w>Jiménez</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -29,7 +41,7 @@
   <w>að</w>
   <w>sjá</w>
   <revision id="2">
-    <original><w><i>Diego</i></w><w><i>Forlán</i></w></original>
+    <original><w><hi>Diego</hi></w><w><hi>Forlán</hi></w></original>
     <corrected><w>Diego</w><w>Forlán</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -37,7 +49,7 @@
   </revision>
   <c>,</c>
   <revision id="3">
-    <original><w><i>Radamel</i></w><w><i>Falcao</i></w></original>
+    <original><w><hi>Radamel</hi></w><w><hi>Falcao</hi></w></original>
     <corrected><w>Radamel</w><w>Falcao</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -45,7 +57,7 @@
   </revision>
   <w>og</w>
   <revision id="4">
-    <original><w><i>Diego</i></w><w><i>Costa</i></w></original>
+    <original><w><hi>Diego</hi></w><w><hi>Costa</hi></w></original>
     <corrected><w>Diego</w><w>Costa</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />

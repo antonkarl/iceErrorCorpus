@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>visir-2014_10_400-t11.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Félagarnir</w>
   <revision id="1">
-    <original><w><i>Hjálmar</i></w><w><i>Örn</i></w><w><i>Jóhannsson</i></w></original>
+    <original><w><hi>Hjálmar</hi></w><w><hi>Örn</hi></w><w><hi>Jóhannsson</hi></w></original>
     <corrected><w>Hjálmar</w><w>Örn</w><w>Jóhannsson</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -13,7 +25,7 @@
   </revision>
   <w>og</w>
   <revision id="2">
-    <original><w><i>Sigurður</i></w><w><i>Hannes</i></w><w><i>Ásgeirsson</i></w></original>
+    <original><w><hi>Sigurður</hi></w><w><hi>Hannes</hi></w><w><hi>Ásgeirsson</hi></w></original>
     <corrected><w>Sigurður</w><w>Hannes</w><w>Ásgeirsson</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />

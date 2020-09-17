@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_12-t0.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Siglufjörður</w>
@@ -160,7 +172,7 @@
   <w>hét</w>
   <w>eftir</w>
   <w>það</w>
-  <w><i>Siglufjarðarkaupstaður</i></w>
+  <w><hi>Siglufjarðarkaupstaður</hi></w>
   <c>.</c>
 </s>
 <s n="8">
@@ -500,8 +512,8 @@
   <w>var</w>
   <w>stundum</w>
   <w>kallaður</w>
-  <w><i>Klondike</i></w>
-  <w><i>Íslands</i></w>
+  <w><hi>Klondike</hi></w>
+  <w><hi>Íslands</hi></w>
   <c>.</c>
 </s>
 <s n="18">
@@ -704,7 +716,7 @@
   <w>sveitarfélag</w>
   <w>varð</w>
   <w>tillagan</w>
-  <w><i>Fjallabyggð</i></w>
+  <w><hi>Fjallabyggð</hi></w>
   <w>ofan</w>
   <w>á</w>
   <c>.</c>

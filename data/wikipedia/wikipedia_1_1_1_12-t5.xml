@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_12-t5.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <revision id="1">
     <original><w>People</w><w>for</w><w>the</w><w>Ethical</w><w>Treatment</w><w>of</w><w>Animals</w></original>
-    <corrected><w><i>People</i></w><w><i>for</i></w><w><i>the</i></w><w><i>Ethical</i></w><w><i>Treatment</i></w><w><i>of</i></w><w><i>Animals</i></w></corrected>
+    <corrected><w><hi>People</hi></w><w><hi>for</hi></w><w><hi>the</hi></w><w><hi>Ethical</hi></w><w><hi>Treatment</hi></w><w><hi>of</hi></w><w><hi>Animals</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -14,7 +26,7 @@
   <w>eða</w>
   <revision id="2">
     <original><w>PETA</w><w>var</w><w>stofnað</w></original>
-    <corrected><w><i>PETA-samtökin</i></w><w>voru</w><w>stofnuð</w></corrected>
+    <corrected><w><hi>PETA-samtökin</hi></w><w>voru</w><w>stofnuð</w></corrected>
       <errors>
         <error xtype="nonit4it" idx="2-1" eid="0" />
         <error xtype="wording" idx="2-1" eid="0" />
@@ -65,7 +77,7 @@
 <s n="3">
   <revision id="3">
     <original><w>PETA</w><w>þjálfar</w></original>
-    <corrected><w><i>PETA-samtökin</i></w><w>þjálfa</w></corrected>
+    <corrected><w><hi>PETA-samtökin</hi></w><w>þjálfa</w></corrected>
       <errors>
         <error xtype="nonit4it" idx="3-1" eid="0" />
         <error xtype="wording" idx="3-1" eid="0" />
@@ -103,7 +115,7 @@
 <s n="4">
   <revision id="6">
     <original><w>PETA</w><w>er</w></original>
-    <corrected><w><i>PETA-samtökin</i></w><w>eru</w></corrected>
+    <corrected><w><hi>PETA-samtökin</hi></w><w>eru</w></corrected>
       <errors>
         <error xtype="nonit4it" idx="6-1" eid="0" />
         <error xtype="wording" idx="6-1" eid="0" />
@@ -151,7 +163,7 @@
 <s n="6">
   <revision id="8">
     <original><w>PETA</w><w>samtökin</w></original>
-    <corrected><w><i>PETA-samtökin</i></w></corrected>
+    <corrected><w><hi>PETA-samtökin</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="8-1" eid="0" />
         <error xtype="wording" idx="8-1" eid="0" />
@@ -195,7 +207,7 @@
   <w>þegar</w>
   <revision id="11">
     <original><w>svokallað</w><c>„</c><w>The</w><w>Silver</w><w>Spring</w><w>monkeys</w><c>„</c><w>mál</w></original>
-    <corrected><w>hið</w><w>svokallaða</w><w><i>Silver</i></w><w><i>Spring-apamál</i></w><c>(</c><w>e.</w><w><i>Silver</i></w><w><i>Spring</i></w><w><i>monkeys</i></w><c>)</c></corrected>
+    <corrected><w>hið</w><w>svokallaða</w><w><hi>Silver</hi></w><w><hi>Spring-apamál</hi></w><c>(</c><w>e.</w><w><hi>Silver</hi></w><w><hi>Spring</hi></w><w><hi>monkeys</hi></w><c>)</c></corrected>
       <errors>
         <error xtype="wording" idx="11-1" eid="0" />
         <error xtype="extra-quots" idx="11-2" eid="0" />
@@ -240,7 +252,7 @@
   <w>stofnun</w>
   <revision id="13">
     <original></original>
-    <corrected><w>sem</w><w>nefnist</w><w><i>The</i></w><w><i>Institute</i></w><w><i>of</i></w><w><i>Behavioural</i></w><w><i>Research</i></w></corrected>
+    <corrected><w>sem</w><w>nefnist</w><w><hi>The</hi></w><w><hi>Institute</hi></w><w><hi>of</hi></w><w><hi>Behavioural</hi></w><w><hi>Research</hi></w></corrected>
       <errors>
         <error xtype="dep" depId="15-1" eid="0" />
       </errors>
@@ -311,7 +323,7 @@
   <w>og</w>
   <revision id="18">
     <original><w>PETA</w><w>varð</w></original>
-    <corrected><w><i>PETA-samtökin</i></w><w>urðu</w></corrected>
+    <corrected><w><hi>PETA-samtökin</hi></w><w>urðu</w></corrected>
       <errors>
         <error xtype="wording" idx="18-1" eid="0" />
         <error xtype="nonit4it" idx="18-1" eid="0" />
@@ -379,7 +391,7 @@
 <s n="11">
   <revision id="22">
     <original><w>PETA</w><w>vinnur</w></original>
-    <corrected><w><i>PETA-samtökin</i></w><w>vinna</w></corrected>
+    <corrected><w><hi>PETA-samtökin</hi></w><w>vinna</w></corrected>
       <errors>
         <error xtype="nonit4it" idx="22-1" eid="0" />
         <error xtype="wording" idx="22-1" eid="0" />
@@ -531,7 +543,7 @@
   <w>stofnendum</w>
   <revision id="32">
     <original><w>PETA</w><w>samtakanna</w></original>
-    <corrected><w><i>PETA-samtakanna</i></w></corrected>
+    <corrected><w><hi>PETA-samtakanna</hi></w></corrected>
       <errors>
         <error xtype="missing-dash" idx="32-1" eid="0" />
         <error xtype="nonit4it" idx="32-1" eid="0" />
@@ -638,7 +650,7 @@
   <w>ásakanir</w>
   <revision id="37">
     <original><w>PETA</w><w>samtakanna</w></original>
-    <corrected><w><i>PETA-samtakanna</i></w></corrected>
+    <corrected><w><hi>PETA-samtakanna</hi></w></corrected>
       <errors>
         <error xtype="missing-dash" idx="37-1" eid="0" />
         <error xtype="nonit4it" idx="37-1" eid="0" />
@@ -717,7 +729,7 @@
   <w>hvernig</w>
   <revision id="39">
     <original><w>PETA</w><w>samtökin</w></original>
-    <corrected><w><i>PETA-samtökin</i></w></corrected>
+    <corrected><w><hi>PETA-samtökin</hi></w></corrected>
       <errors>
         <error xtype="missing-dash" idx="39-1" eid="0" />
         <error xtype="nonit4it" idx="39-1" eid="0" />
@@ -765,7 +777,7 @@
   <w>samtökunum</w>
   <revision id="41">
     <original><w>Animal</w><w>Liberation</w><w>Front</w></original>
-    <corrected><w><i>Animal</i></w><w><i>Liberation</i></w><w><i>Front</i></w></corrected>
+    <corrected><w><hi>Animal</hi></w><w><hi>Liberation</hi></w><w><hi>Front</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -773,7 +785,7 @@
   <c>(</c>
   <revision id="42">
     <original><w>ALF</w></original>
-    <corrected><w><i>ALF</i></w></corrected>
+    <corrected><w><hi>ALF</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -782,7 +794,7 @@
   <w>og</w>
   <revision id="43">
     <original><w>Earth</w><w>Liberation</w><w>Front</w></original>
-    <corrected><w><i>Earth</i></w><w><i>Liberation</i></w><w><i>Front</i></w></corrected>
+    <corrected><w><hi>Earth</hi></w><w><hi>Liberation</hi></w><w><hi>Front</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -790,7 +802,7 @@
   <c>(</c>
   <revision id="44">
     <original><w>ELF</w></original>
-    <corrected><w><i>ELF</i></w></corrected>
+    <corrected><w><hi>ELF</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -821,7 +833,7 @@
   <w>Svör</w>
   <revision id="46">
     <original><w>PETA</w></original>
-    <corrected><w>meðlima</w><w><i>PETA-samtakanna</i></w></corrected>
+    <corrected><w>meðlima</w><w><hi>PETA-samtakanna</hi></w></corrected>
       <errors>
         <error xtype="missing-word" idx="46-1" eid="0" />
         <error xtype="wording" idx="46-2" eid="0" />
@@ -909,7 +921,7 @@
   <w>að</w>
   <revision id="52">
     <original><w>PETA</w><w>hafði</w><w>lögsótt</w><w>Davis</w><w>sýslu</w></original>
-    <corrected><w><i>PETA-samtökin</i></w><w>lögsóttu</w><w>Davis-sýslu</w></corrected>
+    <corrected><w><hi>PETA-samtökin</hi></w><w>lögsóttu</w><w>Davis-sýslu</w></corrected>
       <errors>
         <error xtype="wording" idx="52-1" eid="0" />
         <error xtype="nonit4it" idx="52-1" eid="0" />
@@ -1021,7 +1033,7 @@
   <w>endurgreiða</w>
   <revision id="60">
     <original><w>PETA</w></original>
-    <corrected><w><i>PETA-samtökunum</i></w></corrected>
+    <corrected><w><hi>PETA-samtökunum</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="60-1" eid="0" />
         <error xtype="wording" idx="60-1" eid="0" />
@@ -1049,7 +1061,7 @@
   <w>að</w>
   <revision id="61">
     <original><w>PETA</w><w>fletti</w></original>
-    <corrected><w><i>PETA-samtökin</i></w><w>flettu</w></corrected>
+    <corrected><w><hi>PETA-samtökin</hi></w><w>flettu</w></corrected>
       <errors>
         <error xtype="nonit4it" idx="61-1" eid="0" />
         <error xtype="wording" idx="61-1" eid="0" />
@@ -1080,7 +1092,7 @@
 <s n="22">
   <revision id="63">
     <original><w>PETA</w><w>lögsótti</w></original>
-    <corrected><w><i>PETA-samtökin</i></w><w>lögsóttu</w></corrected>
+    <corrected><w><hi>PETA-samtökin</hi></w><w>lögsóttu</w></corrected>
       <errors>
         <error xtype="nonit4it" idx="63-1" eid="0" />
         <error xtype="wording" idx="63-1" eid="0" />
@@ -1090,7 +1102,7 @@
   <w>einnig</w>
   <revision id="64">
     <original><w>Sea</w><w>World</w></original>
-    <corrected><w><i>Sea</i></w><w><i>World</i></w></corrected>
+    <corrected><w><hi>Sea</hi></w><w><hi>World</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1122,7 +1134,7 @@
   <c>(</c>
   <revision id="67">
     <original><w>the</w><w>13</w><w>th</w><w>Amendment</w></original>
-    <corrected><w>e.</w><w><i>the</i></w><w><i>13th</i></w><w><i>amendment</i></w></corrected>
+    <corrected><w>e.</w><w><hi>the</hi></w><w><hi>13th</hi></w><w><hi>amendment</hi></w></corrected>
       <errors>
         <error xtype="missing-word" idx="67-1" eid="0" />
         <error xtype="nonit4it" idx="67-2" eid="0" />
@@ -1275,7 +1287,7 @@
   <w>og</w>
   <revision id="73">
     <original><w>PETA</w><w>samtökin</w></original>
-    <corrected><w><i>PETA-samtökin</i></w></corrected>
+    <corrected><w><hi>PETA-samtökin</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="73-1" eid="0" />
         <error xtype="missing-dash" idx="73-1" eid="0" />
@@ -1317,7 +1329,7 @@
   <w>að</w>
   <revision id="76">
     <original><w>PETA</w></original>
-    <corrected><w><i>PETA-samtökin</i></w></corrected>
+    <corrected><w><hi>PETA-samtökin</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="76-1" eid="0" />
         <error xtype="wording" idx="76-1" eid="0" />
@@ -1394,7 +1406,7 @@
   <w>meðtöldu</w>
   <revision id="79">
     <original><w>The</w><w>Wall</w><w>Street</w><w>Journal</w></original>
-    <corrected><w><i>The</i></w><w><i>Wall</i></w><w><i>Street</i></w><w><i>Journal</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Wall</hi></w><w><hi>Street</hi></w><w><hi>Journal</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1402,7 +1414,7 @@
   <c>,</c>
   <revision id="80">
     <original><w>The</w><w>Los</w><w>Angeles</w><w>Times</w></original>
-    <corrected><w><i>The</i></w><w><i>Los</i></w><w><i>Angeles</i></w><w><i>Times</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Los</hi></w><w><hi>Angeles</hi></w><w><hi>Times</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1410,7 +1422,7 @@
   <c>,</c>
   <revision id="81">
     <original><w>USA</w><w>Today</w></original>
-    <corrected><w><i>USA</i></w><w><i>Today</i></w></corrected>
+    <corrected><w><hi>USA</hi></w><w><hi>Today</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1418,7 +1430,7 @@
   <w>og</w>
   <revision id="82">
     <original><w>The</w><w>Washington</w><w>Post</w></original>
-    <corrected><w><i>The</i></w><w><i>Washington</i></w><w><i>Post</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Washington</hi></w><w><hi>Post</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1429,7 +1441,7 @@
   <w>Aðgerðarsinnar</w>
   <revision id="83">
     <original><w>PETA</w></original>
-    <corrected><w><i>PETA</i></w></corrected>
+    <corrected><w><hi>PETA</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1516,7 +1528,7 @@
 <s n="31">
   <revision id="86">
     <original><w>PETA</w><w>samtökin</w></original>
-    <corrected><w><i>PETA-samtökin</i></w></corrected>
+    <corrected><w><hi>PETA-samtökin</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="86-1" eid="0" />
         <error xtype="missing-dash" idx="86-1" eid="0" />

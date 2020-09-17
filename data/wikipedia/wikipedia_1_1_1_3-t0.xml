@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_3-t0.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Hill</w>
@@ -30,7 +42,7 @@
   <w>við</w>
   <revision id="1">
     <original><w>Sexual</w><w>Life</w></original>
-    <corrected><w><i>Sexual</i></w><w><i>Life</i></w></corrected>
+    <corrected><w><hi>Sexual</hi></w><w><hi>Life</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -38,7 +50,7 @@
   <c>,</c>
   <revision id="2">
     <original><w>Whisper</w></original>
-    <corrected><w><i>Whisper</i></w></corrected>
+    <corrected><w><hi>Whisper</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -46,7 +58,7 @@
   <c>,</c>
   <revision id="3">
     <original><w>Gayby</w></original>
-    <corrected><w><i>Gayby</i></w></corrected>
+    <corrected><w><hi>Gayby</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -54,7 +66,7 @@
   <w>og</w>
   <revision id="4">
     <original><w>Nostalgia</w></original>
-    <corrected><w><i>Nostalgia</i></w></corrected>
+    <corrected><w><hi>Nostalgia</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -78,7 +90,7 @@
   <w>dramaþættinum</w>
   <revision id="5">
     <original><w>The</w><w>West</w><w>Wing</w></original>
-    <corrected><w><i>The</i></w><w><i>West</i></w><w><i>Wing</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>West</hi></w><w><hi>Wing</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -91,16 +103,16 @@
   <w>komið</w>
   <w>fram</w>
   <w>í</w>
-  <w><i>Stick</i></w>
-  <w><i>Fly</i></w>
+  <w><hi>Stick</hi></w>
+  <w><hi>Fly</hi></w>
   <w>og</w>
-  <w><i>Bring</i></w>
-  <w><i>in´Da</i></w>
-  <w><i>Noise</i></w>
+  <w><hi>Bring</hi></w>
+  <w><hi>in´Da</hi></w>
+  <w><hi>Noise</hi></w>
   <c>,</c>
-  <w><i>Bring</i></w>
-  <w><i>in´Da</i></w>
-  <w><i>Funk</i></w>
+  <w><hi>Bring</hi></w>
+  <w><hi>in´Da</hi></w>
+  <w><hi>Funk</hi></w>
   <c>.</c>
 </s><s n="5">
   <revision id="6">
@@ -132,7 +144,7 @@
   <w>í</w>
   <revision id="7">
     <original><w>She´s</w><w>All</w><w>That</w></original>
-    <corrected><w><i>She´s</i></w><w><i>All</i></w><w><i>That</i></w></corrected>
+    <corrected><w><hi>She´s</hi></w><w><hi>All</hi></w><w><hi>That</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -184,22 +196,22 @@
   <w>á</w>
   <w>borð</w>
   <w>við</w>
-  <w><i>New</i></w>
-  <w><i>York</i></w>
-  <w><i>Undercover</i></w>
+  <w><hi>New</hi></w>
+  <w><hi>York</hi></w>
+  <w><hi>Undercover</hi></w>
   <c>,</c>
-  <w><i>Cosby</i></w>
+  <w><hi>Cosby</hi></w>
   <c>,</c>
-  <w><i>The</i></w>
-  <w><i>Jamie</i></w>
-  <w><i>Foxx</i></w>
-  <w><i>Show</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Jamie</hi></w>
+  <w><hi>Foxx</hi></w>
+  <w><hi>Show</hi></w>
   <w>og</w>
-  <w><i>Chicken</i></w>
-  <w><i>Soup</i></w>
-  <w><i>for</i></w>
-  <w><i>the</i></w>
-  <w><i>Soul</i></w>
+  <w><hi>Chicken</hi></w>
+  <w><hi>Soup</hi></w>
+  <w><hi>for</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>Soul</hi></w>
   <c>.</c>
 </s><s n="8">
   <w>Fyrsta</w>
@@ -214,10 +226,10 @@
   <w>var</w>
   <w>í</w>
   <w>söngleiknum</w>
-  <w><i>The</i></w>
-  <w><i>Tap</i></w>
-  <w><i>Dance</i></w>
-  <w><i>Kid</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Tap</hi></w>
+  <w><hi>Dance</hi></w>
+  <w><hi>Kid</hi></w>
   <w>á</w>
   <w>Broadway</w>
   <w>sem</w>
@@ -232,7 +244,7 @@
   <w>gamall</w>
   <w>við</w>
   <revision id="12">
-    <original><w><i>Wildey</i></w><w><i>School</i></w><w><i>of</i></w><w><i>Dance</i></w></original>
+    <original><w><hi>Wildey</hi></w><w><hi>School</hi></w><w><hi>of</hi></w><w><hi>Dance</hi></w></original>
     <corrected><w>Wildey</w><w>School</w><w>of</w><w>Dance</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -247,7 +259,7 @@
   <w>árið 1992</w>
   <w>í</w>
   <w>þættinum</w>
-  <w><i>Ghostwriter</i></w>
+  <w><hi>Ghostwriter</hi></w>
   <c>.</c>
 </s><s n="11">
   <w>Hill</w>
@@ -276,7 +288,7 @@
   <w>spennu- og gamanþættinum</w>
   <revision id="15">
     <original><w>Psych</w></original>
-    <corrected><w><i>Psych</i></w></corrected>
+    <corrected><w><hi>Psych</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -309,11 +321,11 @@
   <w>hlutverk</w>
   <w>sín</w>
   <w>í</w>
-  <w><i>The</i></w>
-  <w><i>West</i></w>
-  <w><i>Wing</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>West</hi></w>
+  <w><hi>Wing</hi></w>
   <w>og</w>
-  <w><i>Psych</i></w>
+  <w><hi>Psych</hi></w>
   <c>.</c>
 </s><s n="13">
   <w>Hill</w>
@@ -338,7 +350,7 @@
   <w>viðskiptafræði</w>
   <w>við</w>
   <revision id="17">
-    <original><w><i>Seton</i></w><w><i>Hall</i></w><w><i>háskólann</i></w></original>
+    <original><w><hi>Seton</hi></w><w><hi>Hall</hi></w><w><hi>háskólann</hi></w></original>
     <corrected><w>Seton</w><w>Hall</w><c>-</c><w>háskólann</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -349,7 +361,7 @@
   <w>leiklist</w>
   <w>við</w>
   <revision id="18">
-    <original><w><i>William</i></w><w><i>Esper</i></w><w><i>Studio</i></w></original>
+    <original><w><hi>William</hi></w><w><hi>Esper</hi></w><w><hi>Studio</hi></w></original>
     <corrected><w>William</w><w>Esper</w><w>Studio</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -363,14 +375,14 @@
   <w>var</w>
   <w>árið 1988</w>
   <w>í</w>
-  <w><i>Good</i></w>
-  <w><i>Old</i></w>
+  <w><hi>Good</hi></w>
+  <w><hi>Old</hi></w>
   <w>ZBoy</w>
   <c>:</c>
   <w><i/></w>
-  <w><i>A</i></w>
-  <w><i>Delta</i></w>
-  <w><i>Boyhood</i></w>
+  <w><hi>A</hi></w>
+  <w><hi>Delta</hi></w>
+  <w><hi>Boyhood</hi></w>
   <c>.</c>
 </s></p></body></text>
 </TEI>

@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_1-t7.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Miltisbrandur</w>
@@ -9,8 +21,8 @@
   <w>af</w>
   <w>völdum</w>
   <w>bakteríunnar</w>
-  <w><i>Bacillus</i></w>
-  <w><i>anthracis</i></w>
+  <w><hi>Bacillus</hi></w>
+  <w><hi>anthracis</hi></w>
   <c>.</c>
 </s>
 <s n="2">

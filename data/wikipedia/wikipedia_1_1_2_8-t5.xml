@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_8-t5.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Brimbrettarokk</w>
@@ -614,7 +626,7 @@
   <w>nafnið</w>
   <revision id="18">
     <original><c>„</c><w>Surfer's</w><w>Choise</w><c>“</c></original>
-    <corrected><w><i>Surfer's</i></w><w><i>Choice</i></w></corrected>
+    <corrected><w><hi>Surfer's</hi></w><w><hi>Choice</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="18-1" eid="0" />
         <error xtype="nonit4it" idx="18-2" eid="0" />
@@ -965,7 +977,7 @@
   <c>,</c>
   <revision id="24">
     <original><c>„</c><w>Surfin</w><w>Safari</w><c>“</c></original>
-    <corrected><w><i>Surfin</i></w><w><i>Safari</i></w></corrected>
+    <corrected><w><hi>Surfin</hi></w><w><hi>Safari</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="24-1" eid="0" />
         <error xtype="nonit4it" idx="24-2" eid="0" />
@@ -982,7 +994,7 @@
   <w>20</w>
   <revision id="25">
     <original><w>Billboard</w><w>listann</w></original>
-    <corrected><w><i>Billboard</i></w><c>-listann</c></corrected>
+    <corrected><w><hi>Billboard</hi></w><c>-listann</c></corrected>
       <errors>
         <error xtype="nonit4it" idx="25-1" eid="0" />
         <error xtype="missing-dash" idx="25-2" eid="0" />
@@ -1023,7 +1035,7 @@
   <w>10</w>
   <revision id="26">
     <original><w>Billboard</w><w>listann</w></original>
-    <corrected><w><i>Billboard</i></w><c>-listann</c></corrected>
+    <corrected><w><hi>Billboard</hi></w><c>-listann</c></corrected>
       <errors>
         <error xtype="nonit4it" idx="26-1" eid="0" />
         <error xtype="missing-dash" idx="26-2" eid="0" />
@@ -1080,7 +1092,7 @@
   <w>á</w>
   <revision id="27">
     <original><w>Billboard</w><w>listanum</w></original>
-    <corrected><w><i>Billboard</i></w><c>-listanum</c></corrected>
+    <corrected><w><hi>Billboard</hi></w><c>-listanum</c></corrected>
       <errors>
         <error xtype="nonit4it" idx="27-1" eid="0" />
         <error xtype="missing-dash" idx="27-2" eid="0" />
@@ -1137,7 +1149,7 @@
   <w>platan</w>
   <revision id="28">
     <original><c>„</c><w>Beach</w><w>Boys</w><w>Concert</w><c>“</c></original>
-    <corrected><w><i>Beach</i></w><w><i>Boys</i></w><w><i>Concert</i></w></corrected>
+    <corrected><w><hi>Beach</hi></w><w><hi>Boys</hi></w><w><hi>Concert</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="28-1" eid="0" />
         <error xtype="nonit4it" idx="28-2" eid="0" />

@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>visir-2014_10_375-t23.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Leikkonan</w>
   <revision id="1">
-    <original><w><i>Ágústa</i></w><w><i>Eva</i></w><w><i>Erlendsdóttir</i></w></original>
+    <original><w><hi>Ágústa</hi></w><w><hi>Eva</hi></w><w><hi>Erlendsdóttir</hi></w></original>
     <corrected><w>Ágústa</w><w>Eva</w><w>Erlendsdóttir</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -18,7 +30,7 @@
   <w>í</w>
   <revision id="2">
     <original><w>Borgríki</w><w>2</w><c>:</c><w>Blóð</w><w>hraustra</w><w>manna</w></original>
-    <corrected><w>kvikmyndinni</w><w><i>Borgríki</i></w><w><i>2</i></w><c><i>:</i></c><w><i>Blóð</i></w><w><i>hraustra</i></w><w><i>manna</i></w></corrected>
+    <corrected><w>kvikmyndinni</w><w><hi>Borgríki</hi></w><w><hi>2</hi></w><c><hi>:</hi></c><w><hi>Blóð</hi></w><w><hi>hraustra</hi></w><w><hi>manna</hi></w></corrected>
       <errors>
         <error xtype="missing-word" eid="0" />
         <error xtype="nonit4it" eid="0" />
@@ -91,7 +103,7 @@
   <w>sína</w>
   <c>,</c>
   <revision id="7">
-    <original><w><i>Zlatko</i></w><w><i>Krickic</i></w></original>
+    <original><w><hi>Zlatko</hi></w><w><hi>Krickic</hi></w></original>
     <corrected><w>Zlatko</w><w>Krickic</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -99,7 +111,7 @@
   </revision>
   <w>og</w>
   <revision id="8">
-    <original><w><i>Hilmi</i></w><w><i>Snæ</i></w><w><i>Guðnason</i></w></original>
+    <original><w><hi>Hilmi</hi></w><w><hi>Snæ</hi></w><w><hi>Guðnason</hi></w></original>
     <corrected><w>Hilmi</w><w>Snæ</w><w>Guðnason</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -319,7 +331,7 @@
   <w>myndarinnar</w>
   <c>,</c>
   <revision id="22">
-    <original><w><i>Sigurður</i></w><w><i>Sigurjónsson</i></w></original>
+    <original><w><hi>Sigurður</hi></w><w><hi>Sigurjónsson</hi></w></original>
     <corrected><w>Sigurður</w><w>Sigurjónsson</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />

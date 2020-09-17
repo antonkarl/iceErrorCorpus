@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_11-t5.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Atómmassi</w>
@@ -596,7 +608,7 @@
 </s>
 <s n="25">
   <w>Hugtakið</w>
-  <w><i>atómþyngd</i></w>
+  <w><hi>atómþyngd</hi></w>
   <w>hefur</w>
   <w>stundum</w>
   <w>verið</w>
@@ -657,7 +669,7 @@
 <s n="27">
   <revision id="15">
     <original><w>IUPAC</w></original>
-    <corrected><w>Alþjóðasamband</w><w>hreinnar</w><w>og</w><w>hagnýtrar</w><w>efnafræði</w><c>/</c><w>nytjaefnafræði</w><w><i>IUPAC</i></w><c>(</c><w>e.</w><w>International</w><w>Union</w><w>of</w><w>Pure</w><w>and</w><w>Applied</w><w>Chemistry</w><c>)</c></corrected>
+    <corrected><w>Alþjóðasamband</w><w>hreinnar</w><w>og</w><w>hagnýtrar</w><w>efnafræði</w><c>/</c><w>nytjaefnafræði</w><w><hi>IUPAC</hi></w><c>(</c><w>e.</w><w>International</w><w>Union</w><w>of</w><w>Pure</w><w>and</w><w>Applied</w><w>Chemistry</w><c>)</c></corrected>
       <errors>
         <error xtype="missing-words" eid="0" />
       </errors>

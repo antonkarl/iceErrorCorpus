@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_250-t22.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Súdan</w>
@@ -267,7 +279,7 @@
   <w>spillingarvísitölu</w>
   <revision id="13">
     <original><w>Transparency</w><w>International</w></original>
-    <corrected><w><i>Transparency</i></w><w><i>International</i></w></corrected>
+    <corrected><w><hi>Transparency</hi></w><w><hi>International</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Algeirsborg</w>
+  <w>eða</w>
+  <w>Álfgeirsborg</w>
+  <revision id="1">
+    <original><c>(</c><w>franska</w><c>:</c></original>
+    <corrected><c>,</c><w>sem</w><w>á</w><w>frönsku</w><w>kallast</w></corrected>
+      <errors>
+        <error xtype="bracket4comma" eid="0" />
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>Alger</w>
+  <revision id="2">
+    <original><c>,</c><w>arabíska</w><c>:</c></original>
+    <corrected><w>og</w><w>á</w><w>arabísku</w></corrected>
+      <errors>
+        <error xtype="comma4conjunction" eid="0" />
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>الجزائر</w>
+  <revision id="3">
+    <original><w>al-jazāir</w></original>
+    <corrected><w><i>al-jazāir</i></w></corrected>
+      <errors>
+        <error xtype="nonit4it" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <c>„</c>
+  <w>eyjarnar</w>
+  <c>“</c>
+  <revision id="4">
+    <original><c>)</c></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="bracket4comma" eid="0" />
+      </errors>
+  </revision>
+  <w>er</w>
+  <w>höfuðborg</w>
+  <w>Alsír</w>
+  <w>og</w>
+  <w>stærsta</w>
+  <w>borg</w>
+  <w>landsins</w>
+  <w>með</w>
+  <w>um</w>
+  <w>þrjár</w>
+  <w>milljónir</w>
+  <w>íbúa</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Lítill</w>
+  <w>rómverskur</w>
+  <w>bær</w>
+  <revision id="5">
+    <original><c>(</c></original>
+    <corrected><c>,</c><w>að</w><w>nafni</w></corrected>
+      <errors>
+        <error xtype="bracket4comma" eid="0" />
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <w>Icosium</w>
+  <revision id="6">
+    <original><c>)</c></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="bracket4comma" eid="0" />
+      </errors>
+  </revision>
+  <w>stóð</w>
+  <w>á</w>
+  <w>þessum</w>
+  <w>stað</w>
+  <w>í</w>
+  <w>fornöld</w>
+  <c>,</c>
+  <w>en</w>
+  <w>núverandi</w>
+  <w>borg</w>
+  <w>var</w>
+  <w>stofnuð</w>
+  <w>árið 944</w>
+  <w>af</w>
+  <w>Buluggin</w>
+  <w>ibn</w>
+  <w>Ziri</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Frá</w>
+  <w>því</w>
+  <w>á</w>
+  <w>16.</w>
+  <w>öld</w>
+  <w>var</w>
+  <w>borgin</w>
+  <w>miðstöð</w>
+  <w>sjóræningja</w>
+  <c>(</c>
+  <w>sbr</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Barbaríið</w>
+  <c>)</c>
+  <w>og</w>
+  <w>naut</w>
+  <w>nær</w>
+  <w>algers</w>
+  <w>sjálfstæðis</w>
+  <w>þótt</w>
+  <w>hún</w>
+  <w>væri</w>
+  <w>hluti</w>
+  <revision id="7">
+    <original><w>Ottómanaveldisins</w></original>
+    <corrected><w>Ottómanveldisins</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="7-1" eid="0" />
+        <error xtype="compound-nonword" idx="7-1" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>nafninu</w>
+  <w>til</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

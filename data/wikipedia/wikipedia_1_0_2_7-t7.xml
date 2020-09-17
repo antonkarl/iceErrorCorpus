@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_7-t7.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Hann</w>
@@ -332,7 +344,7 @@
   <w>menningartímaritið</w>
   <revision id="8">
     <original><w>Sánd</w></original>
-    <corrected><w><i>Sánd</i></w></corrected>
+    <corrected><w><hi>Sánd</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -368,7 +380,7 @@
   <w>unglingatímaritinu</w>
   <revision id="11">
     <original><w>Smellur</w></original>
-    <corrected><w><i>Smellur</i></w></corrected>
+    <corrected><w><hi>Smellur</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -529,7 +541,7 @@
   <w>sveitarinnar</w>
   <revision id="18">
     <original><w>Army</w><w>Of</w><w>Soundwaves</w></original>
-    <corrected><c>,</c><w><i>Army</i></w><w><i>Of</i></w><w><i>Soundwaves</i></w></corrected>
+    <corrected><c>,</c><w><hi>Army</hi></w><w><hi>Of</hi></w><w><hi>Soundwaves</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
         <error xtype="missing-comma" eid="0"/>

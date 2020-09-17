@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_9-t9.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Hann</w>
@@ -34,8 +46,8 @@
   <c>)</c>
   <c>,</c>
   <w>kallaður</w>
-  <w><i>il</i></w>
-  <w><i>moro</i></w>
+  <w><hi>il</hi></w>
+  <w><hi>moro</hi></w>
   <w>eða</w>
   <w>márinn</w>
   <c>,</c>
@@ -239,8 +251,8 @@
   <w>var</w>
   <w>hann</w>
   <w>kallaður</w>
-  <w><i>il</i></w>
-  <w><i>moro</i></w>
+  <w><hi>il</hi></w>
+  <w><hi>moro</hi></w>
   <c>.</c>
 </s><s n="10">
   <w>Medici-fjölskyldan</w>

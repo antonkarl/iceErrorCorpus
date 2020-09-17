@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Magreb</w>
+  <w>er</w>
+  <w>sá</w>
+  <w>hluti</w>
+  <w>Norður-Afríku</w>
+  <w>sem</w>
+  <w>liggur</w>
+  <w>norðan</w>
+  <w>við</w>
+  <revision id="1">
+    <original><w>Saharaeyðimörkina</w></original>
+    <corrected><w>Sahara-eyðimörkina</w></corrected>
+      <errors>
+        <error xtype="merged-words" idx="1-1" eid="0" />
+        <error xtype="missing-dash" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>vestan</w>
+  <w>við</w>
+  <w>Nílardal</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Magreb</w>
+  <w>þýðir</w>
+  <c>„</c>
+  <w>vestur</w>
+  <c>“</c>
+  <w>á</w>
+  <w>arabísku</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Svæðið</w>
+  <w>nær</w>
+  <w>yfir</w>
+  <w>löndin</w>
+  <w>Marokkó</w>
+  <c>,</c>
+  <w>Alsír</w>
+  <w>og</w>
+  <w>Túnis</w>
+  <revision id="2">
+    <original><c>(</c></original>
+    <corrected><c>,</c><w>eða</w></corrected>
+      <errors>
+        <error xtype="bracket4comma" eid="0" />
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>Barbaríið</w>
+  <revision id="3">
+    <original><c>)</c></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="bracket4comma" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>oft</w>
+  <w>einnig</w>
+  <w>Líbýu</w>
+  <w>og</w>
+  <w>Máritaníu</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Íbúar</w>
+  <w>svæðisins</w>
+  <revision id="4">
+    <original><c>(</c><w>arabar</w></original>
+    <corrected><w>sem</w><w>eru</w><w>Arabar</w></corrected>
+      <errors>
+        <error xtype="extra-bracket" eid="0" />
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <revision id="5">
+    <original><w>berbar</w><c>)</c></original>
+    <corrected><w>Berbar</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+        <error xtype="extra-bracket" eid="0" />
+      </errors>
+  </revision>
+  <w>voru</w>
+  <w>almennt</w>
+  <w>kallaðir</w>
+  <revision id="6">
+    <original><w>márar</w></original>
+    <corrected><w>Márar</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
+  <w>af</w>
+  <w>Evrópubúum</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

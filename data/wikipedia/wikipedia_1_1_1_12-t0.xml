@@ -1,14 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_12-t0.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Rauðáta</w>
   <c>(</c>
   <w>fræðiheiti</w>
   <c>:</c>
-  <w><i>Calanus</i></w>
-  <w><i>finmarchicus</i></w>
+  <w><hi>Calanus</hi></w>
+  <w><hi>finmarchicus</hi></w>
   <c>)</c>
   <w>er</w>
   <w>svifdýr</w>
@@ -138,8 +150,8 @@
   <w>nefndi</w>
   <w>rauðátuna</w>
   <w>fyrst</w>
-  <w><i>Monoculus</i></w>
-  <w><i>finmarchicus</i></w>
+  <w><hi>Monoculus</hi></w>
+  <w><hi>finmarchicus</hi></w>
   <w>sem</w>
   <w>þýðir</w>
   <w>eineigða</w>
@@ -168,7 +180,7 @@
   <w>í</w>
   <revision id="3">
     <original><w>Calanus</w><w>finmarchicus</w></original>
-    <corrected><w><i>Calanus</i></w><w><i>finmarchicus</i></w></corrected>
+    <corrected><w><hi>Calanus</hi></w><w><hi>finmarchicus</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -499,7 +511,7 @@
   <w>sex</w>
   <revision id="13">
     <original><w>naupliar</w><w>stigum</w></original>
-    <corrected><w><i>naupliar-stigum</i></w></corrected>
+    <corrected><w><hi>naupliar-stigum</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="13-1" eid="0" />
         <error xtype="missing-dash" idx="13-1" eid="0" />
@@ -514,7 +526,7 @@
   <w>fimm</w>
   <revision id="14">
     <original><w>copepodite</w><w>stigum</w></original>
-    <corrected><w><i>copepodite-stigum</i></w></corrected>
+    <corrected><w><hi>copepodite-stigum</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="14-1" eid="0" />
         <error xtype="missing-dash" idx="14-1" eid="0" />
@@ -544,7 +556,7 @@
   <w>hverju</w>
   <revision id="16">
     <original><w>naupliar</w><w>stigi</w></original>
-    <corrected><w><i>naupliar-stigi</i></w></corrected>
+    <corrected><w><hi>naupliar-stigi</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="16-1" eid="0" />
         <error xtype="missing-dash" idx="16-1" eid="0" />
@@ -1836,7 +1848,7 @@
   <w>hjá</w>
   <revision id="56">
     <original><w>SINTEF</w></original>
-    <corrected><w><i>SINTEF</i></w></corrected>
+    <corrected><w><hi>SINTEF</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1884,7 +1896,7 @@
   <w>en</w>
   <revision id="59">
     <original><w>SINTEF</w></original>
-    <corrected><w><i>SINTEF</i></w></corrected>
+    <corrected><w><hi>SINTEF</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>

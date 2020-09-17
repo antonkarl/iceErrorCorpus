@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_325-t22.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Anne</w>
@@ -307,25 +319,25 @@
   <w>doktorspróf</w>
   <w>með</w>
   <w>ritgerðinni</w>
-  <w><i>En</i></w>
-  <w><i>islandsk</i></w>
-  <w><i>scholasticus</i></w>
-  <w><i>fra</i></w>
-  <w><i>det</i></w>
-  <w><i></i></w>
+  <w><hi>En</hi></w>
+  <w><hi>islandsk</hi></w>
+  <w><hi>scholasticus</hi></w>
+  <w><hi>fra</hi></w>
+  <w><hi>det</hi></w>
+  <w><hi></hi></w>
   <w>12</w>
   <c>.</c>
 </s>
 <s n="13">
-  <w><i></i></w>
-  <w><i>århundrede</i></w>
+  <w><hi></hi></w>
+  <w><hi>århundrede</hi></w>
   <c>,</c>
-  <w><i>sem</i></w>
-  <w><i>fjallar</i></w>
-  <w><i>um</i></w>
-  <w><i>höfund</i></w>
-  <w><i>fyrstu</i></w>
-  <w><i>málfræðiritgerðarinnar</i></w>
+  <w><hi>sem</hi></w>
+  <w><hi>fjallar</hi></w>
+  <w><hi>um</hi></w>
+  <w><hi>höfund</hi></w>
+  <w><hi>fyrstu</hi></w>
+  <w><hi>málfræðiritgerðarinnar</hi></w>
   <c>.</c>
 </s>
 <s n="14">
@@ -346,8 +358,8 @@
 <s n="15">
   <w>Bók</w>
   <w>hennar</w>
-  <w><i>Norrøn</i></w>
-  <w><i>mytologi</i></w>
+  <w><hi>Norrøn</hi></w>
+  <w><hi>mytologi</hi></w>
   <revision id="7">
     <original><c>.</c><w>Tru</w></original>
     <corrected><c>:</c><w>tru</w></corrected>
@@ -487,22 +499,22 @@
         <error xtype="missing-colon" eid="0" />
       </errors>
   </revision>
-  <w><i>Snorra-Eddu</i></w>
+  <w><hi>Snorra-Eddu</hi></w>
   <c>,</c>
-  <w><i>Helgisögu</i></w>
-  <w><i>Ólafs</i></w>
-  <w><i>helga</i></w>
+  <w><hi>Helgisögu</hi></w>
+  <w><hi>Ólafs</hi></w>
+  <w><hi>helga</hi></w>
   <c>,</c>
-  <w><i>Heimskringlu</i></w>
+  <w><hi>Heimskringlu</hi></w>
   <c>,</c>
-  <w><i>Sverris</i></w>
-  <w><i>sögu</i></w>
+  <w><hi>Sverris</hi></w>
+  <w><hi>sögu</hi></w>
   <c>,</c>
-  <w><i>Hákonar</i></w>
-  <w><i>sögu</i></w>
+  <w><hi>Hákonar</hi></w>
+  <w><hi>sögu</hi></w>
   <w>og</w>
-  <w><i>Orkneyinga</i></w>
-  <w><i>sögu</i></w>
+  <w><hi>Orkneyinga</hi></w>
+  <w><hi>sögu</hi></w>
   <c>.</c>
 </s>
 <s n="19">
@@ -514,11 +526,11 @@
   <w>norræn</w>
   <w>fræði</w>
   <w>í</w>
-  <w><i>Kulturhistorisk</i></w>
-  <w><i>Leksikon</i></w>
-  <w><i>for</i></w>
-  <w><i>nordisk</i></w>
-  <w><i>Middelalder</i></w>
+  <w><hi>Kulturhistorisk</hi></w>
+  <w><hi>Leksikon</hi></w>
+  <w><hi>for</hi></w>
+  <w><hi>nordisk</hi></w>
+  <w><hi>Middelalder</hi></w>
   <c>.</c>
 </s>
 <s n="20">

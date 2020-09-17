@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_325-t3.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Smámæli</w>
@@ -57,11 +69,11 @@
   <w>kallað</w>
   <w>að</w>
   <w>vera</w>
-  <w><i>smámæltur</i></w>
+  <w><hi>smámæltur</hi></w>
   <w>eða</w>
-  <w><i>blæstur</i></w>
-  <w><i>í</i></w>
-  <w><i>máli</i></w>
+  <w><hi>blæstur</hi></w>
+  <w><hi>í</hi></w>
+  <w><hi>máli</hi></w>
   <c>.</c>
 </s>
 <s n="3">
@@ -73,7 +85,7 @@
   <w>um</w>
   <w>að</w>
   <w>vera</w>
-  <w><i>hæpilegur</i></w>
+  <w><hi>hæpilegur</hi></w>
   <c>.</c>
 </s>
 </p></body></text>

@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_7-t10.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Þetta</w>
@@ -273,7 +285,7 @@
   <w>KFS</w>
   <c>(</c>
   <revision id="6">
-    <original><w><i>Knattspyrnufélagið</i></w><w><i>Framherjar-Smástund</i></w></original>
+    <original><w><hi>Knattspyrnufélagið</hi></w><w><hi>Framherjar-Smástund</hi></w></original>
     <corrected><w>Knattspyrnufélagið</w><w>Framherjar-Smástund</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -346,7 +358,7 @@
   <w>tölustaf</w>
   <c>(</c>
   <revision id="8">
-    <original><w><i>fjórða</i></w><w><i>deild</i></w><w><i>varð</i></w><w><i>að</i></w><w><i>þriðju</i></w><w><i>deild</i></w></original>
+    <original><w><hi>fjórða</hi></w><w><hi>deild</hi></w><w><hi>varð</hi></w><w><hi>að</hi></w><w><hi>þriðju</hi></w><w><hi>deild</hi></w></original>
     <corrected><w>fjórða</w><w>deild</w><w>varð</w><w>að</w><w>þriðju</w><w>deild</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>

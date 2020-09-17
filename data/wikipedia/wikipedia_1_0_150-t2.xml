@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_150-t2.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Kanslari</w>
@@ -8,7 +20,7 @@
   <c>(</c>
   <w>þýska</w>
   <c>:</c>
-  <w><i>Bundeskanzler</i></w>
+  <w><hi>Bundeskanzler</hi></w>
   <c>(</c>
   <w>1867</w>
   <c>-</c>
@@ -18,7 +30,7 @@
   <c>-</c>
   <c>)</c>
   <c>,</c>
-  <w><i>Reichskanzler</i></w>
+  <w><hi>Reichskanzler</hi></w>
   <c>(</c>
   <w>1871</w>
   <c>-</c>
@@ -168,9 +180,9 @@
   <w>málvenju</w>
   <w>bætist</w>
   <w>viðskeytið</w>
-  <w><i>-in</i></w>
+  <w><hi>-in</hi></w>
   <w>við</w>
-  <w><i>Bundeskanzler</i></w>
+  <w><hi>Bundeskanzler</hi></w>
   <w>sé</w>
   <w>kanslarinn</w>
   <w>kona</w>
@@ -179,7 +191,7 @@
   <w>Merkel</w>
   <w>því</w>
   <w>titluð</w>
-  <w><i>Bundeskanzlerin</i></w>
+  <w><hi>Bundeskanzlerin</hi></w>
   <c>.</c>
 </s>
 <s n="8">

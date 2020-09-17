@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_3-t10.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Þetta</w>
@@ -259,9 +271,9 @@
   <w>Kampen</w>
   <w>Kampersteuren</w>
   <c>(</c>
-  <w><i>Styrjurnar</i></w>
-  <w><i>frá</i></w>
-  <w><i>Kampen</i></w>
+  <w><hi>Styrjurnar</hi></w>
+  <w><hi>frá</hi></w>
+  <w><hi>Kampen</hi></w>
   <c>)</c>
   <w>en</w>
   <w>styrjur</w>
@@ -316,7 +328,7 @@
   <w>gjarnan</w>
   <w>Blauwvingers</w>
   <c>(</c>
-  <w><i>Bláfingur</i></w>
+  <w><hi>Bláfingur</hi></w>
   <c>)</c>
   <c>.</c>
 </s><s n="15">
@@ -882,7 +894,7 @@
   <w>kallaðist</w>
   <revision id="37">
     <original><w>suol</w></original>
-    <corrected><w><i>suol</i></w></corrected>
+    <corrected><w><hi>suol</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -890,7 +902,7 @@
   <w>eða</w>
   <revision id="38">
     <original><w>suolle</w></original>
-    <corrected><w><i>suolle</i></w></corrected>
+    <corrected><w><hi>suolle</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -899,7 +911,7 @@
   <w>hollensku</w>
   <c>(</c>
   <w>sbr.</w>
-  <w><i>geschwollen</i></w>
+  <w><hi>geschwollen</hi></w>
   <w>á</w>
   <w>þýsku</w>
   <c>)</c>

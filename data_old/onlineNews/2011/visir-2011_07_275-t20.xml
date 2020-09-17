@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <c>„</c>
+  <w>Við</w>
+  <w>erum</w>
+  <w>svo</w>
+  <w>sannarlega</w>
+  <revision id="1">
+    <original><w>komnir</w><w>upp</w><w>við</w><w>vegg</w><w>núna</w></original>
+    <corrected><w>búnir</w><w>að</w><w>mála</w><w>okkur</w><w>út</w><w>í</w><w>horn</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <revision id="1b">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
+  <w>sagði</w>
+  <w>Arnar</w>
+  <w>Gunnlaugsson</w>
+  <c>,</c>
+  <w>leikmaður</w>
+  <w>Fram</w>
+  <c>,</c>
+  <w>eftir</w>
+  <w>tapið</w>
+  <w>gegn</w>
+  <w>Keflavík</w>
+  <w>í</w>
+  <w>kvöld</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <c>„</c>
+  <w>Spilamennskan</w>
+  <w>í</w>
+  <w>þessum</w>
+  <w>leik</w>
+  <w>var</w>
+  <w>mjög</w>
+  <w>góð</w>
+  <w>og</w>
+  <w>við</w>
+  <w>fengum</w>
+  <w>fullt</w>
+  <w>af</w>
+  <w>færum</w>
+  <revision id="2">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>en</w>
+  <w>það</w>
+  <w>fylgir</w>
+  <w>þessum</w>
+  <w>liðum</w>
+  <w>sem</w>
+  <w>eru</w>
+  <w>við</w>
+  <w>botninn</w>
+  <w>ákveðið</w>
+  <w>lánleysi</w>
+  <c>“</c>
+  <c>.</c>
+</s>
+<s n="3">
+  <c>„</c>
+  <w>Núna</w>
+  <w>verðum</w>
+  <w>við</w>
+  <w>bara</w>
+  <w>að</w>
+  <w>snúa</w>
+  <w>þessari</w>
+  <w>þróun</w>
+  <w>við</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Hvort</w>
+  <w>sem</w>
+  <revision id="3">
+    <original><w>mönnum</w></original>
+    <corrected><w>fólki</w></corrected>
+      <errors>
+        <error xtype="gendered" eid="0" />
+      </errors>
+  </revision>
+  <w>líkar</w>
+  <w>það</w>
+  <w>betur</w>
+  <w>eða</w>
+  <w>verr</w>
+  <w>þá</w>
+  <w>erum</w>
+  <w>við</w>
+  <revision id="4">
+    <original><w>komnir</w><w>upp</w><w>við</w><w>vegg</w></original>
+    <corrected><w>búnir</w><w>að</w><w>mála</w><w>okkur</w><w>út</w><w>í</w><w>horn</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>það</w>
+  <w>er</w>
+  <w>krísa</w>
+  <w>hjá</w>
+  <w>liðinu</w>
+  <c>“</c>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

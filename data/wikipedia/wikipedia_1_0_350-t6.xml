@@ -1,23 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_350-t6.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
-  <w><i>Gödel</i></w>
+  <w><hi>Gödel</hi></w>
   <c>,</c>
-  <w><i>Escher</i></w>
+  <w><hi>Escher</hi></w>
   <c>,</c>
   <w>ZBach</w>
   <c>:</c>
-  <w><i></i></w>
-  <w><i>An</i></w>
-  <w><i>Eternal</i></w>
-  <w><i>Golden</i></w>
-  <w><i>Braid</i></w>
+  <w><hi></hi></w>
+  <w><hi>An</hi></w>
+  <w><hi>Eternal</hi></w>
+  <w><hi>Golden</hi></w>
+  <w><hi>Braid</hi></w>
   <c>(</c>
   <w>stytt</w>
   <w>sem</w>
-  <w><i>GEB</i></w>
+  <w><hi>GEB</hi></w>
   <c>)</c>
   <w>er</w>
   <w>bók</w>

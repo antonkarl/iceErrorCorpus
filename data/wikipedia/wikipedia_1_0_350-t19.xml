@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_350-t19.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Glenn</w>
@@ -107,7 +119,7 @@
   <c>|</c>
   <revision id="5">
     <original><c>„</c><w>The</w><w>Bait</w><w>of</w><w>Falsehood</w></original>
-    <corrected><w><i>The</i></w><w><i>Bait</i></w><w><i>of</i></w><w><i>Falsehood</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Bait</hi></w><w><hi>of</hi></w><w><hi>Falsehood</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="5-1" eid="0" />
         <error xtype="nonit4it" idx="5-2" eid="0" />
@@ -116,7 +128,7 @@
   <c>:</c>
   <revision id="6">
     <original><w>Studies</w><w>in</w><w>the</w><w>Rhetorical</w><w>Strategy</w><w>of</w><w>Poetic</w><w>Truth</w><w>in</w><w>the</w><w>Romantic</w><w>Period</w><c>“</c></original>
-    <corrected><w><i>Studies</i></w><w><i>in</i></w><w><i>the</i></w><w><i>Rhetorical</i></w><w><i>Strategy</i></w><w><i>of</i></w><w><i>Poetic</i></w><w><i>Truth</i></w><w><i>in</i></w><w><i>the</i></w><w><i>Romantic</i></w><w><i>Period</i></w></corrected>
+    <corrected><w><hi>Studies</hi></w><w><hi>in</hi></w><w><hi>the</hi></w><w><hi>Rhetorical</hi></w><w><hi>Strategy</hi></w><w><hi>of</hi></w><w><hi>Poetic</hi></w><w><hi>Truth</hi></w><w><hi>in</hi></w><w><hi>the</hi></w><w><hi>Romantic</hi></w><w><hi>Period</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="6-1" eid="0" />
         <error xtype="dep" depId="5-1" eid="0" />
@@ -175,7 +187,7 @@
   <w>sína</w>
   <revision id="8">
     <original><c>„</c><w>Pindar's</w><w>Truth</w><c>:</c><w>Unity</w><w>and</w><w>Occasionality</w><w>in</w><w>the</w><w>Epinician</w><w>Ode</w><c>“</c></original>
-    <corrected><w><i>Pindar's</i></w><w><i>Truth</i></w><c>:</c><w><i>Unity</i></w><w><i>and</i></w><w><i>Occasionality</i></w><w><i>in</i></w><w><i>the</i></w><w><i>Epinician</i></w><w><i>Ode</i></w></corrected>
+    <corrected><w><hi>Pindar's</hi></w><w><hi>Truth</hi></w><c>:</c><w><hi>Unity</hi></w><w><hi>and</hi></w><w><hi>Occasionality</hi></w><w><hi>in</hi></w><w><hi>the</hi></w><w><hi>Epinician</hi></w><w><hi>Ode</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="8-1" eid="0" />
         <error xtype="nonit4it" idx="8-2" eid="0" />

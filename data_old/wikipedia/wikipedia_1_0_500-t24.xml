@@ -1,0 +1,526 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader/>
+<text><body><p n="1">
+<s n="1">
+  <w>Merkið</w>
+  <revision id="1">
+    <original><w>er</w></original>
+    <corrected><w>á</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
+  <w>því</w>
+  <revision id="2">
+    <original><w>upprunnið</w><w>á</w><w>þeim</w></original>
+    <corrected><w>rætur</w><w>að</w><w>rekja</w><w>til</w><w>þess</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
+  <w>tíma</w>
+  <w>en</w>
+  <w>endanlega</w>
+  <w>útgáfan</w>
+  <w>er</w>
+  <w>frá</w>
+  <w>1950</w>
+  <c>.</c>
+</s><s n="2">
+  <w>Merkingin</w>
+  <w>er</w>
+  <revision id="3">
+    <original><w><i>svæðið</i></w><w>hinummegin</w><w><i>við</i></w><w><i>ána</i></w><w><i>IJssel</i></w><c>(</c><w><i>séð</i></w></original>
+    <corrected><c>„</c><w>svæðið</w><w>hinum</w><w>megin</w><w>við</w><w>ána</w><w>IJssel</w><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-quots" idx="21-1" eid="0"/>
+        <error xtype="it4nonit" idx="21-2" eid="0"/>
+        <error xtype="merged-words" idx="21-3" eid="0"/>
+        <error xtype="bracket4comma" idx="21-4" eid="0"/>
+        <error xtype="wording" idx="21-5" eid="0"/>
+      </errors>
+  </revision>
+  <w>frá</w>
+  <w>Utrecht</w>
+  <revision id="4">
+    <original><c>)</c></original>
+    <corrected><w>séð</w><c>“</c></corrected>
+      <errors>
+        <error xtype="extra-bracket" idx="22-1" eid="0"/>
+        <error xtype="dep" depId="21-5" eid="0"/>
+        <error xtype="dep" depId="21-1" eid="0"/>
+      </errors>
+  </revision>
+  <c>.</c>
+</s><s n="3">
+  <w>Bláa</w>
+  <w>röndin</w>
+  <w>vísar</w>
+  <w>til</w>
+  <w>árinnar</w>
+  <w>Ijssel</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>er</w>
+  <w>nafngefandi</w>
+  <w>fyrir</w>
+  <w>þetta</w>
+  <w>fylki</w>
+  <c>.</c>
+</s><s n="4">
+  <w>Overijssel</w>
+  <w>er</w>
+  <w>fylki</w>
+  <w>í</w>
+  <w>Hollandi</w>
+  <c>,</c>
+  <w>það</w>
+  <revision id="5">
+    <original/>
+    <corrected><w>er</w><w>3.420,86 km</w><w>að</w><w>stærð</w><w>og</w><w>það</w></corrected>
+      <errors>
+        <error xtype="dep" depId="2-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>fjórða</w>
+  <w>stærsta</w>
+  <w>þar</w>
+  <w>í</w>
+  <w>landi</w>
+  <revision id="6">
+    <original><w>og</w><w>er</w><w>3.420,86 km</w><w>að</w><w>stærð</w></original>
+    <corrected/>
+      <errors>
+        <error xtype="wording" idx="2-1" eid="0"/>
+      </errors>
+  </revision>
+  <c>.</c>
+</s><s n="5">
+  <w>Fáni</w>
+  <w>Overijssel</w>
+  <w>samanstendur</w>
+  <w>af</w>
+  <w>fimm</w>
+  <w>láréttum</w>
+  <w>röndum</w>
+  <revision id="7">
+    <original><c>.</c><w>Rauðri</w></original>
+    <corrected><c>;</c><w>rauðri</w></corrected>
+      <errors>
+        <error xtype="period4semicolon" eid="0"/>
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>gulri</w>
+  <c>,</c>
+  <revision id="8">
+    <original><w>blátti</w></original>
+    <corrected><w>blárri</w></corrected>
+      <errors>
+        <error xtype="nonword" idx="9-1" eid="0"/>
+        <error xtype="letter-rep" idx="9-1" eid="0"/>
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>gulri</w>
+  <w>og</w>
+  <w>rauðri</w>
+  <c>.</c>
+</s><s n="6">
+  <w>Ljónberarnir</w>
+  <w>og</w>
+  <w>kórónan</w>
+  <w>eru</w>
+  <w>síðari</w>
+  <w>tíma</w>
+  <w>viðbætur</w>
+  <c>.</c>
+</s><s n="7">
+  <w>Í</w>
+  <w>upphafi</w>
+  <w>hét</w>
+  <w>fylkið</w>
+  <w>Oversticht</w>
+  <revision id="9">
+    <original><c>(</c></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="bracket4comma" eid="0"/>
+      </errors>
+  </revision>
+  <w>eða</w>
+  <w>bara</w>
+  <w>Sticht</w>
+  <revision id="10">
+    <original><c>)</c></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-bracket" eid="0"/>
+      </errors>
+  </revision>
+  <c>.</c>
+</s><s n="8">
+  <w>Höfuðborgin</w>
+  <w>heitir</w>
+  <w>Zwolle</w>
+  <c>.</c>
+</s><s n="9">
+  <w>Litirnir</w>
+  <w>tengja</w>
+  <w>fylkið</w>
+  <w>við</w>
+  <w>fylkið</w>
+  <w>Holland</w>
+  <c>,</c>
+  <w>en</w>
+  <revision id="11">
+    <original/>
+    <corrected><w>litir</w><w>þess</w><w>eru</w></corrected>
+      <errors>
+        <error xtype="dep" depId="11-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>rauður</w>
+  <w>og</w>
+  <w>gulur</w>
+  <revision id="12">
+    <original><w>eru</w><w>litir</w><w>þess</w></original>
+    <corrected/>
+      <errors>
+        <error xtype="wording" idx="11-1" eid="0"/>
+      </errors>
+  </revision>
+  <c>.</c>
+</s><s n="10">
+  <w>Þegar</w>
+  <w>sjálfstæðisstríð</w>
+  <w>Niðurlanda</w>
+  <w>hófst</w>
+  <w>á</w>
+  <w>16.</w>
+  <w>öld</w>
+  <c>,</c>
+  <w>gekk</w>
+  <w>fylkið</w>
+  <w>til</w>
+  <w>liðs</w>
+  <w>við</w>
+  <w>uppreisnarmenn</w>
+  <w>og</w>
+  <w>skrifuðu</w>
+  <w>undir</w>
+  <w>Utrecht-yfirlýsinguna</w>
+  <w>gegn</w>
+  <w>Spánverjum</w>
+  <c>.</c>
+</s><s n="11">
+  <w>Lægsti</w>
+  <w>punktur</w>
+  <w>fylkisins</w>
+  <w>er</w>
+  <revision id="13">
+    <original><w>í</w><w>2</w><w>metra</w></original>
+    <corrected><w>tveimur</w><w>metrum</w></corrected>
+      <errors>
+        <error xtype="extra-word" idx="7-1" eid="0"/>
+        <error xtype="number4word" idx="7-2" eid="0"/>
+        <error xtype="dep" depId="7-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>yfir</w>
+  <w>sjávarmáli</w>
+  <c>.</c>
+</s><s n="12">
+  <w>Við</w>
+  <w>sjálfstæði</w>
+  <w>Niðurlanda</w>
+  <w>varð</w>
+  <w>Overijssel</w>
+  <w>að</w>
+  <w>hollensku</w>
+  <w>fylki</w>
+  <c>.</c>
+</s><s n="13">
+  <w>Fylkið</w>
+  <w>er</w>
+  <w>láglent</w>
+  <w>en</w>
+  <w>er</w>
+  <w>þó</w>
+  <w>eitt</w>
+  <w>fárra</w>
+  <w>fylkja</w>
+  <w>Hollands</w>
+  <w>sem</w>
+  <w>ekki</w>
+  <w>fer</w>
+  <w>niður</w>
+  <w>fyrir</w>
+  <w>sjávarmál</w>
+  <c>.</c>
+</s><s n="14">
+  <w>Önnur</w>
+  <w>héruð</w>
+  <w>sem</w>
+  <revision id="14">
+    <original/>
+    <corrected><w>liggja</w></corrected>
+      <errors>
+        <error xtype="dep" depId="5-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>Overijssel</w>
+  <revision id="15">
+    <original><w>liggja</w></original>
+    <corrected/>
+      <errors>
+        <error xtype="wording" idx="5-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>eru</w>
+  <w>Drenthe</w>
+  <w>og</w>
+  <w>Frísland</w>
+  <w>að</w>
+  <w>norðan</w>
+  <c>,</c>
+  <w>Flevoland</w>
+  <w>að</w>
+  <w>vestan</w>
+  <w>og</w>
+  <w>Gelderland</w>
+  <w>að</w>
+  <w>sunnan</w>
+  <c>.</c>
+</s><s n="15">
+  <revision id="16">
+    <original><w>1528</w></original>
+    <corrected><w>Árið 1528</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
+  <w>gaf</w>
+  <w>biskupinn</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>þá</w>
+  <w>var</w>
+  <w>Hinrik</w>
+  <w>frá</w>
+  <w>Bæjaralandi</w>
+  <c>,</c>
+  <w>Karli</w>
+  <w>V</w>
+  <w>keisara</w>
+  <w>þýska</w>
+  <w>ríkisins</w>
+  <w>fylkið</w>
+  <w>en</w>
+  <w>Karl</w>
+  <w>var</w>
+  <w>Habsborgari</w>
+  <c>.</c>
+</s><s n="16">
+  <w>Kórónan</w>
+  <w>vísar</w>
+  <w>til</w>
+  <w>konungsríkisins</w>
+  <w>Hollands</w>
+  <c>.</c>
+</s><s n="17">
+  <w>Á</w>
+  <w>miðöldum</w>
+  <w>var</w>
+  <w>fylkið</w>
+  <c>,</c>
+  <revision id="17">
+    <original><w>saman</w><w>með</w></original>
+    <corrected><w>ásamt</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
+  <w>Drenthe</w>
+  <c>,</c>
+  <w>undir</w>
+  <w>yfirráðum</w>
+  <w>biskupanna</w>
+  <w>í</w>
+  <w>Utrecht</w>
+  <c>.</c>
+</s><s n="18">
+  <revision id="18">
+    <original><w>Skjaldarmerkið</w></original>
+    <corrected><w>Skjaldarmerki</w><w>Overijssel</w></corrected>
+      <errors>
+        <error xtype="def4ind" idx="13-1" eid="0"/>
+        <error xtype="missing-word" idx="13-2" eid="0"/>
+      </errors>
+  </revision>
+  <w>er</w>
+  <w>líkt</w>
+  <revision id="19">
+    <original/>
+    <corrected><w>skjaldamerki</w><w>fylkisins</w><w>Holland</w><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-words" idx="14-1" eid="0"/>
+        <error xtype="missing-comma" idx="14-2" eid="0"/>
+      </errors>
+  </revision>
+  <w>en</w>
+  <revision id="20">
+    <original><w>í</w><w>því</w></original>
+    <corrected><w>á</w><w>það</w></corrected>
+      <errors>
+        <error xtype="wrong-prep" idx="15-1" eid="0"/>
+        <error xtype="dep" depId="15-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>vantar</w>
+  <w>rauða</w>
+  <w>litinn</w>
+  <w>á</w>
+  <w>bakgrunninum</w>
+  <c>.</c>
+</s><s n="19">
+  <w>Guli</w>
+  <w>liturinn</w>
+  <w>er</w>
+  <w>þó</w>
+  <w>breiðastur</w>
+  <c>.</c>
+</s><s n="20">
+  <w>Overijssel</w>
+  <w>liggur</w>
+  <w>austarlega</w>
+  <w>í</w>
+  <w>Hollandi</w>
+  <w>og</w>
+  <w>nemur</w>
+  <w>við</w>
+  <w>þýsku</w>
+  <w>landamærin</w>
+  <revision id="21">
+    <original><c>(</c></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="bracket4comma" eid="0"/>
+      </errors>
+  </revision>
+  <w>Neðra-Saxland</w>
+  <w>og</w>
+  <w>Norðurrín-Vestfalía</w>
+  <c>.</c>
+</s><s n="21">
+  <w>Íbúar</w>
+  <w>eru</w>
+  <w>1,1 milljón</w>
+  <w>talsins</w>
+  <w>og</w>
+  <w>er</w>
+  <w>Overijssel</w>
+  <w>því</w>
+  <w>sjöunda</w>
+  <w>fjölmennasta</w>
+  <w>fylki</w>
+  <w>Hollands</w>
+  <revision id="22">
+    <original/>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0"/>
+      </errors>
+  </revision>
+  <w>ásamt</w>
+  <w>Limburg</w>
+  <c>.</c>
+</s><s n="22">
+  <w>Þetta</w>
+  <w>var</w>
+  <w>nafngefandi</w>
+  <w>fyrir</w>
+  <w>fylkið</w>
+  <c>.</c>
+</s><s n="23">
+  <w>Fáninn</w>
+  <w>var</w>
+  <w>formlega</w>
+  <w>tekinn</w>
+  <w>í</w>
+  <w>notkun</w>
+  <revision id="23">
+    <original/>
+    <corrected><w>þann</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
+  <w>21. júlí 1948</w>
+  <c>.</c>
+</s><s n="24">
+  <w>En</w>
+  <w>þegar</w>
+  <w>biskupinn</w>
+  <w>í</w>
+  <w>Utrecht</w>
+  <w>gaf</w>
+  <w>Karli</w>
+  <w>V</w>
+  <w>keisara</w>
+  <w>fylkið</w>
+  <c>,</c>
+  <w>veitti</w>
+  <w>keisari</w>
+  <w>sjálfum</w>
+  <w>sér</w>
+  <w>nafnbótina</w>
+  <w>Herr</w>
+  <w>von</w>
+  <w>Overijssel</w>
+  <c>.</c>
+</s><s n="25">
+  <w>Aðrir</w>
+  <w>hlutar</w>
+  <w>Niðurlanda</w>
+  <w>voru</w>
+  <w>undir</w>
+  <w>yfirráðum</w>
+  <w>spænsku</w>
+  <w>Habsborgar-ættarinnar</w>
+  <c>.</c>
+</s><s n="26">
+  <w>Þó</w>
+  <w>er</w>
+  <w>ljónið</w>
+  <w>fremst</w>
+  <w>rautt</w>
+  <w>og</w>
+  <w>vísar</w>
+  <w>til</w>
+  <w>Karls</w>
+  <w>V</w>
+  <revision id="24">
+    <original/>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0"/>
+      </errors>
+  </revision>
+  <w>keisara</w>
+  <w>þýska</w>
+  <w>ríkisins</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>hlaut</w>
+  <w>fylkið</w>
+  <w>að</w>
+  <w>gjöf</w>
+  <w>á</w>
+  <w>16.</w>
+  <w>öld</w>
+  <c>.</c>
+</s></p></body></text>
+</TEI>

@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_4-t14.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Múrverk</w>
@@ -97,7 +109,7 @@
         <error xtype="extra-colon" eid="0"/>
       </errors>
   </revision>
-  <w><i>Pekin</i></w>
+  <w><hi>Pekin</hi></w>
   <c>(</c>
   <w>þýðir</w>
   <c>„</c>
@@ -109,10 +121,10 @@
   <w>leitt</w>
   <w>af</w>
   <w>skammstöfuninni</w>
-  <w><i>PKiN</i></w>
+  <w><hi>PKiN</hi></w>
   <c>)</c>
   <c>,</c>
-  <w><i>Pajac</i></w>
+  <w><hi>Pajac</hi></w>
   <c>(</c>
   <c>„</c>
   <w>trúður</w>
@@ -121,33 +133,33 @@
   <w>hljómar</w>
   <w>svipað</w>
   <w>og</w>
-  <w><i>Pałac</i></w>
+  <w><hi>Pałac</hi></w>
   <w>á</w>
   <w>pólsku</w>
   <c>)</c>
   <c>,</c>
   <revision id="4">
-    <original><w><i>sprauta</i></w></original>
-    <corrected><w><i>sprautu</i></w></corrected>
+    <original><w><hi>sprauta</hi></w></original>
+    <corrected><w><hi>sprautu</hi></w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
       </errors>
   </revision>
-  <w><i>Stalíns</i></w>
+  <w><hi>Stalíns</hi></w>
   <c>,</c>
   <revision id="5">
-    <original><w><i>fíllinn</i></w></original>
-    <corrected><w><i>fílinn</i></w></corrected>
+    <original><w><hi>fíllinn</hi></w></original>
+    <corrected><w><hi>fílinn</hi></w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
       </errors>
   </revision>
-  <w><i>í</i></w>
-  <w><i>blúndunærfötunum</i></w>
+  <w><hi>í</hi></w>
+  <w><hi>blúndunærfötunum</hi></w>
   <w>eða</w>
   <revision id="6">
-    <original><w><i>rússneska</i></w><w><i>brúðkaupstertan</i></w></original>
-    <corrected><w><i>rússnesku</i></w><w><i>brúðkaupstertuna</i></w></corrected>
+    <original><w><hi>rússneska</hi></w><w><hi>brúðkaupstertan</hi></w></original>
+    <corrected><w><hi>rússnesku</hi></w><w><hi>brúðkaupstertuna</hi></w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
       </errors>
@@ -202,13 +214,13 @@
   <w>löndum</w>
   <c>.</c>
 </s><s n="9">
-  <w><i>Pałac</i></w>
-  <w><i>Kultury</i></w>
-  <w><i>i</i></w>
-  <w><i>Nauki</i></w>
-  <w><i>imienia</i></w>
-  <w><i>Józefa</i></w>
-  <w><i>Stalina</i></w>
+  <w><hi>Pałac</hi></w>
+  <w><hi>Kultury</hi></w>
+  <w><hi>i</hi></w>
+  <w><hi>Nauki</hi></w>
+  <w><hi>imienia</hi></w>
+  <w><hi>Józefa</hi></w>
+  <w><hi>Stalina</hi></w>
   <c>)</c>
   <c>.</c>
 </s><s n="10">
@@ -561,7 +573,7 @@
   <c>:</c>
   <revision id="13">
     <original><c>"</c><w>Pałac</w><w>Kultury</w><w>i</w><w>Nauki</w><c>"</c></original>
-    <corrected><w><i>Pałac</i></w><w><i>Kultury</i></w><w><i>i</i></w><w><i>Nauki</i></w></corrected>
+    <corrected><w><hi>Pałac</hi></w><w><hi>Kultury</hi></w><w><hi>i</hi></w><w><hi>Nauki</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" eid="0"/>
          <error xtype="nonit4it" eid="0"/>
@@ -572,7 +584,7 @@
   <c>:</c>
   <revision id="14">
     <original><c>"</c><w>PKiN</w><c>"</c></original>
-    <corrected><w><i>PKiN</i></w></corrected>
+    <corrected><w><hi>PKiN</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" eid="0"/>
          <error xtype="nonit4it" eid="0"/>

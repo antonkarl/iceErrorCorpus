@@ -1,12 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_12-t12.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
-  <w><i>Til</i></w>
-  <w><i>að</i></w>
-  <w><i>drepa</i></w>
-  <w><i>tímann</i></w>
+  <w><hi>Til</hi></w>
+  <w><hi>að</hi></w>
+  <w><hi>drepa</hi></w>
+  <w><hi>tímann</hi></w>
   <c>)</c>
   <c>.</c>
 </s><s n="2">
@@ -51,7 +63,7 @@
   <w>hann</w>
   <w>oftast</w>
   <w>kallaður</w>
-  <w><i>talbyrðingur</i></w>
+  <w><hi>talbyrðingur</hi></w>
   <c>.</c>
 </s><s n="4">
   <w>Þó</w>
@@ -275,7 +287,7 @@
   </revision>
   <w>blaðamaðurinn</w>
   <revision id="7">
-    <original><w><i>Giuseppe</i></w><w><i>Airoldi</i></w></original>
+    <original><w><hi>Giuseppe</hi></w><w><hi>Airoldi</hi></w></original>
     <corrected><w>Giuseppe</w><w>Airoldi</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -293,11 +305,11 @@
       </errors>
   </revision>
   <w>tímaritinu</w>
-  <w><i>Il</i></w>
-  <w><i>Secolo</i></w>
-  <w><i>Illustrato</i></w>
-  <w><i>della</i></w>
-  <w><i>Domenica</i></w>
+  <w><hi>Il</hi></w>
+  <w><hi>Secolo</hi></w>
+  <w><hi>Illustrato</hi></w>
+  <w><hi>della</hi></w>
+  <w><hi>Domenica</hi></w>
   <revision id="9">
     <original><c>,</c><w>14. september</w><c>,</c><w>1890</w></original>
     <corrected><w>14. september 1890</w></corrected>
@@ -473,8 +485,8 @@
   <w>undir</w>
   <w>heitinu</w>
   <w>Sunnudagskrossgátann</w>
-  <w><i>hamrammar</i></w>
-  <w><i>krossgátur</i></w>
+  <w><hi>hamrammar</hi></w>
+  <w><hi>krossgátur</hi></w>
   <c>(</c>
   <w>e.</w>
   <w>cryptic</w>
@@ -712,10 +724,10 @@
   <w>þessa</w>
   <w>þraut</w>
   <w>sína</w>
-  <w><i>Per</i></w>
-  <w><i>passare</i></w>
-  <w><i>il</i></w>
-  <w><i>tempo</i></w>
+  <w><hi>Per</hi></w>
+  <w><hi>passare</hi></w>
+  <w><hi>il</hi></w>
+  <w><hi>tempo</hi></w>
   <c>(</c>
   <w>ísl</w>
   <c>.</c>
@@ -795,9 +807,9 @@
   <w>Í</w>
   <w>bandaríska</w>
   <w>blaðinu</w>
-  <w><i>New</i></w>
+  <w><hi>New</hi></w>
   <w>ZYorkz</w>
-  <w><i>World</i></w>
+  <w><hi>World</hi></w>
   <w>þann</w>
   <w>21. desember 1913</w>
   <w>birtist</w>
@@ -812,16 +824,16 @@
   <c>,</c>
   <w>undir</w>
   <w>nafninu</w>
-  <w><i>Fun's</i></w>
-  <w><i>Word-Cross</i></w>
-  <w><i>puzzle</i></w>
+  <w><hi>Fun's</hi></w>
+  <w><hi>Word-Cross</hi></w>
+  <w><hi>puzzle</hi></w>
   <c>,</c>
   <w>en</w>
   <w>síðar</w>
   <w>var</w>
   <w>heitinu</w>
   <revision id="21">
-    <original><w><i>Word-Cross</i></w></original>
+    <original><w><hi>Word-Cross</hi></w></original>
     <corrected><c>„</c><w>word-cross</w><c>“</c></corrected>
       <errors>
         <error xtype="missing-quots" idx="10-1" eid="0"/>
@@ -843,7 +855,7 @@
   <w>á</w>
   <w>ensku</w>
   <revision id="23">
-    <original><w><i>Crosswords</i></w></original>
+    <original><w><hi>Crosswords</hi></w></original>
     <corrected><c>„</c><w>crosswords</w><c>“</c></corrected>
       <errors>
         <error xtype="missing-quots" idx="12-1" eid="0"/>

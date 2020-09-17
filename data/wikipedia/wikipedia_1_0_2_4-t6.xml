@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_4-t6.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Bruce</w>
@@ -29,7 +41,7 @@
   <w>í</w>
   <revision id="1">
     <original><w>Evil</w><w>Dead</w></original>
-    <corrected><w><i>Evil</i></w><w><i>Dead</i></w></corrected>
+    <corrected><w><hi>Evil</hi></w><w><hi>Dead</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -37,7 +49,7 @@
   <c>,</c>
   <revision id="2">
     <original><w>Evil</w><w>Dead</w><w>II</w></original>
-    <corrected><w><i>Evil</i></w><w><i>Dead</i></w><w><i>II</i></w></corrected>
+    <corrected><w><hi>Evil</hi></w><w><hi>Dead</hi></w><w><hi>II</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -45,7 +57,7 @@
   <c>,</c>
   <revision id="3">
     <original><w>Army</w><w>of</w><w>Darkness</w></original>
-    <corrected><w><i>Army</i></w><w><i>of</i></w><w><i>Darkness</i></w></corrected>
+    <corrected><w><hi>Army</hi></w><w><hi>of</hi></w><w><hi>Darkness</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -53,7 +65,7 @@
   <w>og</w>
   <revision id="4">
     <original><w>Burn</w><w>Notice</w></original>
-    <corrected><w><i>Burn</i></w><w><i>Notice</i></w></corrected>
+    <corrected><w><hi>Burn</hi></w><w><hi>Notice</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -67,20 +79,20 @@
   <w>tvær</w>
   <w>teiknimyndasögur</w>
   <c>:</c>
-  <w><i>Man</i></w>
-  <w><i>with</i></w>
-  <w><i>the</i></w>
-  <w><i>Screaming</i></w>
+  <w><hi>Man</hi></w>
+  <w><hi>with</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>Screaming</hi></w>
   <revision id="5">
-    <original><w><i>Brian</i></w></original>
-    <corrected><w><i>Brain</i></w></corrected>
+    <original><w><hi>Brian</hi></w></original>
+    <corrected><w><hi>Brain</hi></w></corrected>
       <errors>
         <error xtype="swapped-letters" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
-  <w><i>The</i></w>
-  <w><i>Hire</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Hire</hi></w>
   <c>.</c>
 </s><s n="3">
   <w>Campbell</w>
@@ -93,23 +105,23 @@
   <w>árið 2002</w>
   <w>sem</w>
   <w>heitir</w>
-  <w><i>If</i></w>
-  <w><i>Chins</i></w>
-  <w><i>Could</i></w>
-  <w><i>Kill</i></w>
+  <w><hi>If</hi></w>
+  <w><hi>Chins</hi></w>
+  <w><hi>Could</hi></w>
+  <w><hi>Kill</hi></w>
   <c>:</c>
-  <w><i>Confessions</i></w>
-  <w><i>of</i></w>
-  <w><i>a</i></w>
+  <w><hi>Confessions</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>a</hi></w>
   <revision id="6">
-    <original><w><i>B</i></w><w><i>Movie</i></w></original>
-    <corrected><w><i>B-Movie</i></w></corrected>
+    <original><w><hi>B</hi></w><w><hi>Movie</hi></w></original>
+    <corrected><w><hi>B-Movie</hi></w></corrected>
       <errors>
         <error xtype="split-word" idx="14-1" eid="0"/>
         <error xtype="missing-dash" idx="14-1" eid="0"/>
       </errors>
   </revision>
-  <w><i>Actor</i></w>
+  <w><hi>Actor</hi></w>
   <c>.</c>
 </s><s n="4">
   <w>Árið 1981</w>
@@ -118,7 +130,7 @@
   <w>myndina</w>
   <revision id="7">
     <original><w>The</w><w>Evil</w><w>Dead</w></original>
-    <corrected><w><i>The</i></w><w><i>Evil</i></w><w><i>Dead</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Evil</hi></w><w><hi>Dead</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -142,7 +154,7 @@
   <w>lék</w>
   <w>fyrrverandi</w>
   <revision id="8">
-    <original><w><i>Navy</i></w><w><i>Seal</i></w></original>
+    <original><w><hi>Navy</hi></w><w><hi>Seal</hi></w></original>
     <corrected/>
       <errors>
         <error xtype="extra-words" eid="0"/>
@@ -154,7 +166,7 @@
   <w>í</w>
   <revision id="9">
     <original><w>Burn</w><w>Notice</w></original>
-    <corrected><w><i>Burn</i></w><w><i>Notice</i></w></corrected>
+    <corrected><w><hi>Burn</hi></w><w><hi>Notice</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -252,7 +264,7 @@
   <w>seríunni</w>
   <revision id="16">
     <original><c>"</c><w>Marvel</w><w>Zombies</w><w>vs</w><c>.</c><w>Army</w><w>of</w><w>Darkness</w><c>"</c></original>
-    <corrected><w><i>Marvel</i></w><w><i>Zombies</i></w><w><i>vs.</i></w><w><i>Army</i></w><w><i>of</i></w><w><i>Darkness</i></w></corrected>
+    <corrected><w><hi>Marvel</hi></w><w><hi>Zombies</hi></w><w><hi>vs.</hi></w><w><hi>Army</hi></w><w><hi>of</hi></w><w><hi>Darkness</hi></w></corrected>
       <errors>
         <error xtype="extra-bracket" idx="29-1" eid="0"/>
         <error xtype="nonit4it" eid="0"/>
@@ -291,7 +303,7 @@
   <w>að</w>
   <revision id="19">
     <original><w>Evil</w><w>Dead</w><w>myndunum</w></original>
-    <corrected><w><i>Evil</i></w><w><i>Dead</i></w><c>-myndunum</c></corrected>
+    <corrected><w><hi>Evil</hi></w><w><hi>Dead</hi></w><c>-myndunum</c></corrected>
       <errors>
         <error xtype="nonit4it" idx="7-1" eid="0"/>
         <error xtype="compound-split" idx="7-1" eid="0"/>
@@ -309,24 +321,24 @@
   <w>á</w>
   <w>borð</w>
   <w>við</w>
-  <w><i>Moontrap</i></w>
+  <w><hi>Moontrap</hi></w>
   <c>,</c>
-  <w><i>Escape</i></w>
-  <w><i>from</i></w>
-  <w><i>L.A.</i></w>
+  <w><hi>Escape</hi></w>
+  <w><hi>from</hi></w>
+  <w><hi>L.A.</hi></w>
   <c>,</c>
-  <w><i>The</i></w>
-  <w><i>Majestic</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Majestic</hi></w>
   <c>,</c>
-  <w><i>Sky</i></w>
-  <w><i>High</i></w>
+  <w><hi>Sky</hi></w>
+  <w><hi>High</hi></w>
   <w>og</w>
-  <w><i>Cloudy</i></w>
-  <w><i>with</i></w>
-  <w><i>a</i></w>
-  <w><i>Chance</i></w>
-  <w><i>of</i></w>
-  <w><i>Meatballs</i></w>
+  <w><hi>Cloudy</hi></w>
+  <w><hi>with</hi></w>
+  <w><hi>a</hi></w>
+  <w><hi>Chance</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>Meatballs</hi></w>
   <c>.</c>
 </s><s n="10">
   <w>Hann</w>
@@ -334,7 +346,7 @@
   <w>nám</w>
   <w>við</w>
   <revision id="20">
-    <original><w><i>Western</i></w><w><i>Michigan-háskólann</i></w></original>
+    <original><w><hi>Western</hi></w><w><hi>Michigan-háskólann</hi></w></original>
     <corrected><w>Western</w><w>Michigan-háskólann</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -367,19 +379,19 @@
   <w>á</w>
   <w>borð</w>
   <w>við</w>
-  <w><i>Xena</i></w>
+  <w><hi>Xena</hi></w>
   <c>:</c>
-  <w><i>Warrior</i></w>
-  <w><i>Princess</i></w>
+  <w><hi>Warrior</hi></w>
+  <w><hi>Princess</hi></w>
   <w><i/></w>
   <w>2Z</w>
   <c>,</c>
-  <w><i>Fanalysis</i></w>
+  <w><hi>Fanalysis</hi></w>
   <w>og</w>
-  <w><i>My</i></w>
-  <w><i>Name</i></w>
-  <w><i>is</i></w>
-  <w><i>Bruce</i></w>
+  <w><hi>My</hi></w>
+  <w><hi>Name</hi></w>
+  <w><hi>is</hi></w>
+  <w><hi>Bruce</hi></w>
   <c>.</c>
 </s><s n="12">
   <w>Saman</w>
@@ -396,7 +408,7 @@
   <c>,</c>
   <revision id="22">
     <original><w>Evil</w><w>Dead</w><w>II</w></original>
-    <corrected><w><i>Evil</i></w><w><i>Dead</i></w><w><i>II</i></w></corrected>
+    <corrected><w><hi>Evil</hi></w><w><hi>Dead</hi></w><w><hi>II</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -404,7 +416,7 @@
   <w>og</w>
   <revision id="23">
     <original><w>Army</w><w>of</w><w>Darkness</w></original>
-    <corrected><w><i>Army</i></w><w><i>of</i></w><w><i>Darkness</i></w></corrected>
+    <corrected><w><hi>Army</hi></w><w><hi>of</hi></w><w><hi>Darkness</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -441,12 +453,12 @@
   <w>boðið</w>
   <w>hlutverk</w>
   <w>í</w>
-  <w><i>The</i></w>
-  <w><i>Adventures</i></w>
-  <w><i>of</i></w>
-  <w><i>Brisco</i></w>
-  <w><i>County</i></w>
-  <w><i>Jr.</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Adventures</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>Brisco</hi></w>
+  <w><hi>County</hi></w>
+  <w><hi>Jr.</hi></w>
   <w>sem</w>
   <w>Brisco</w>
   <w>County</w>
@@ -470,7 +482,7 @@
   <w>einnig</w>
   <w>skrifað</w>
   <w>bókina</w>
-  <w><i>Make</i></w>
+  <w><hi>Make</hi></w>
   <w>ZLove</w>
   <c>!</c>
 </s><s n="16">
@@ -480,8 +492,8 @@
   <w>var</w>
   <w>árið 1987</w>
   <w>í</w>
-  <w><i>Knots</i></w>
-  <w><i>Landing</i></w>
+  <w><hi>Knots</hi></w>
+  <w><hi>Landing</hi></w>
   <c>.</c>
 </s><s n="17">
   <w>Campbell</w>
@@ -511,14 +523,14 @@
   <w>hann</w>
   <w>í</w>
   <w>sjónvarpsmyndinni</w>
-  <w><i>Burn</i></w>
-  <w><i>Notice</i></w>
+  <w><hi>Burn</hi></w>
+  <w><hi>Notice</hi></w>
   <c>:</c>
-  <w><i>The</i></w>
-  <w><i>Fall</i></w>
-  <w><i>of</i></w>
-  <w><i>Sam</i></w>
-  <w><i>Axe</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Fall</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>Sam</hi></w>
+  <w><hi>Axe</hi></w>
   <w>sem</w>
   <w>var</w>
   <revision id="26">
@@ -541,8 +553,8 @@
   <w>var</w>
   <w>árið 1972</w>
   <w>í</w>
-  <w><i>Oedipus</i></w>
-  <w><i>Rex</i></w>
+  <w><hi>Oedipus</hi></w>
+  <w><hi>Rex</hi></w>
   <c>.</c>
 </s><s n="20">
   <w>Campbell</w>
@@ -579,7 +591,7 @@
         <error xtype="missing-word" eid="0"/>
       </errors>
   </revision>
-  <w><i>Spiderman</i></w>
+  <w><hi>Spiderman</hi></w>
   <revision id="30">
     <original><w>myndunum</w></original>
     <corrected><c>-myndunum</c></corrected>
@@ -590,10 +602,10 @@
   <c>.</c>
 </s><s n="21">
   <w><i/></w>
-  <w><i>The</i></w>
-  <w><i>Bruce</i></w>
-  <w><i>Campbell</i></w>
-  <w><i>Way</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Bruce</hi></w>
+  <w><hi>Campbell</hi></w>
+  <w><hi>Way</hi></w>
   <w>þar</w>
   <w>sem</w>
   <w>hann</w>
@@ -630,8 +642,8 @@
   <w>á</w>
   <w>borð</w>
   <w>við</w>
-  <w><i>The</i></w>
-  <w><i>X-Files</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>X-Files</hi></w>
   <revision id="32">
     <original/>
     <corrected><c>,</c></corrected>
@@ -639,18 +651,18 @@
         <error xtype="missing-comma" eid="0"/>
       </errors>
   </revision>
-  <w><i>Charmed</i></w>
+  <w><hi>Charmed</hi></w>
   <c>,</c>
-  <w><i>Megas</i></w>
-  <w><i>XLR</i></w>
+  <w><hi>Megas</hi></w>
+  <w><hi>XLR</hi></w>
   <c>,</c>
-  <w><i>The</i></w>
-  <w><i>Replacements</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Replacements</hi></w>
   <w>og</w>
-  <w><i>Xena</i></w>
+  <w><hi>Xena</hi></w>
   <c>:</c>
-  <w><i>Warrior</i></w>
-  <w><i>Princess</i></w>
+  <w><hi>Warrior</hi></w>
+  <w><hi>Princess</hi></w>
   <c>.</c>
 </s></p></body></text>
 </TEI>

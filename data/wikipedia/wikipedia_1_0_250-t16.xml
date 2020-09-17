@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_250-t16.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Tonga-fólkið</w>
@@ -1172,7 +1184,7 @@
   <c>,</c>
   <revision id="92">
     <original><w>marrabenta</w></original>
-    <corrected><w>kallast</w><w><i>marrabenta</i></w></corrected>
+    <corrected><w>kallast</w><w><hi>marrabenta</hi></w></corrected>
       <errors>
         <error xtype="dep" depId="92-1" eid="0"/>
       </errors>

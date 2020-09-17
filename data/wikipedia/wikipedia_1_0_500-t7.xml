@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_500-t7.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Lindsay</w>
@@ -16,9 +28,9 @@
   </revision>
   <w>í</w>
   <w>myndinni</w>
-  <w><i>The</i></w>
-  <w><i>Parent</i></w>
-  <w><i>Trap</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Parent</hi></w>
+  <w><hi>Trap</hi></w>
   <w>sem</w>
   <w>Meyers</w>
   <w>leikstýrði</w>
@@ -44,12 +56,12 @@
   <w>að</w>
   <w>sem</w>
   <w>heitir</w>
-  <w><i>Deception</i></w>
+  <w><hi>Deception</hi></w>
   <c>.</c>
 </s><s n="2">
   <revision id="3">
     <original><w>The</w><w>Holiday</w></original>
-    <corrected><w><i>The</i></w><w><i>Holiday</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Holiday</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

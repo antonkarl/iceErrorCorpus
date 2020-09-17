@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_3-t0.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <revision id="1">
@@ -137,7 +149,7 @@
   <c>(</c>
   <revision id="12">
     <original><w>codices</w></original>
-    <corrected><w>l.</w><w><i>codices</i></w></corrected>
+    <corrected><w>l.</w><w><hi>codices</hi></w></corrected>
       <errors>
         <error xtype="missing-word" eid="0"/>
         <error xtype="nonit4it" eid="0"/>
@@ -205,7 +217,7 @@
   <w>Þegar</w>
   <revision id="18">
     <original><w>Utrecht-sambandið</w></original>
-    <corrected><w><i>Utrecht-sambandið</i></w></corrected>
+    <corrected><w><hi>Utrecht-sambandið</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -991,7 +1003,7 @@
   </revision>
   <w>Salvator</w>
   <c>(</c>
-  <w><i>Frelsarinn</i></w>
+  <w><hi>Frelsarinn</hi></w>
   <c>)</c>
   <w>og</w>
   <w>vegur</w>
@@ -1098,7 +1110,7 @@
         <error xtype="missing-word" eid="0"/>
       </errors>
   </revision>
-  <w><i>Keizerssteentjes</i></w>
+  <w><hi>Keizerssteentjes</hi></w>
   <c>)</c>
   <revision id="92">
     <original><c>,</c><w>minna</w><w>á</w><w>þá</w></original>

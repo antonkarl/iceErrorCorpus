@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_4-t2.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Eftir</w>
@@ -30,7 +42,7 @@
   <w>stað</w>
   <revision id="3">
     <original><w>New</w><w>Deal</w></original>
-    <corrected><w><i>New</i></w><w><i>Deal</i></w></corrected>
+    <corrected><w><hi>New</hi></w><w><hi>Deal</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -67,7 +79,7 @@
   <c>(</c>
   <revision id="6">
     <original><w>Savings</w><w>and</w><w>loan</w><w>association</w></original>
-    <corrected><w><i>Savings</i></w><w><i>and</i></w><w><i>loan</i></w><w><i>association</i></w></corrected>
+    <corrected><w><hi>Savings</hi></w><w><hi>and</hi></w><w><hi>loan</hi></w><w><hi>association</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -316,7 +328,7 @@
   <c>(</c>
   <revision id="20">
     <original><w>The</w><w>Federal</w><w>National</w><w>Mortgage</w><w>Association</w></original>
-    <corrected><w><i>The</i></w><w><i>Federal</i></w><w><i>National</i></w><w><i>Mortgage</i></w><w><i>Association</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Federal</hi></w><w><hi>National</hi></w><w><hi>Mortgage</hi></w><w><hi>Association</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -592,7 +604,7 @@
   <c>(</c>
   <revision id="31">
     <original><w>The</w><w>Federal</w><w>Home</w><w>Loan</w><w>Mortgage</w><w>Corporation</w></original>
-    <corrected><w><i>The</i></w><w><i>Federal</i></w><w><i>Home</i></w><w><i>Loan</i></w><w><i>Mortgage</i></w><w><i>Corporation</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Federal</hi></w><w><hi>Home</hi></w><w><hi>Loan</hi></w><w><hi>Mortgage</hi></w><w><hi>Corporation</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

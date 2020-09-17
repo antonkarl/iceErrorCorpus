@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>visir-2014_10_125-t10.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Og</w>
@@ -102,7 +114,7 @@
   <w>bókin</w>
   <revision id="1">
     <original><w>Statements</w></original>
-    <corrected><w><i>Statements</i></w></corrected>
+    <corrected><w><hi>Statements</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -750,7 +762,7 @@
   <w>að</w>
   <revision id="15">
     <original><w>myndaBeached</w></original>
-    <corrected><w>mynda</w><w><i>Beached</i></w></corrected>
+    <corrected><w>mynda</w><w><hi>Beached</hi></w></corrected>
       <errors>
         <error xtype="missing-space" idx="15-1" eid="0"/>
         <error xtype="nonit4it" idx="15-2" eid="0"/>
@@ -762,7 +774,7 @@
   <c>,</c>
   <revision id="16">
     <original><w>Do</w><w>You</w><w>Believe</w><w>in</w><w>Water</w></original>
-    <corrected><w><i>Do</i></w><w><i>You</i></w><w><i>Believe</i></w><w><i>in</i></w><w><i>Water</i></w></corrected>
+    <corrected><w><hi>Do</hi></w><w><hi>You</hi></w><w><hi>Believe</hi></w><w><hi>in</hi></w><w><hi>Water</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -1126,7 +1138,7 @@
   <c>)</c>
   <revision id="29">
     <original><w>ogPlowmans</w><w>Lunch</w></original>
-    <corrected><w>og</w><w><i>Plowmans</i></w><w><i>Lunch</i></w></corrected>
+    <corrected><w>og</w><w><hi>Plowmans</hi></w><w><hi>Lunch</hi></w></corrected>
       <errors>
         <error xtype="missing-space" idx="18-1" eid="0"/>
         <error xtype="nonit4it" idx="18-2" eid="0"/>

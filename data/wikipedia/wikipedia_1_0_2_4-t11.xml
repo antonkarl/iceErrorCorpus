@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_4-t11.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Segist</w>
@@ -22,7 +34,7 @@
   <w>er</w>
   <w>fjólubláa</w>
   <revision id="1">
-    <original><w>furðskepnan</w><w><i>Nebbi</i></w><w><i>prumpdýr</i></w></original>
+    <original><w>furðskepnan</w><w><hi>Nebbi</hi></w><w><hi>prumpdýr</hi></w></original>
     <corrected><w>furðuskepnan</w><w>Nebbi</w><w>prumpdýr</w></corrected>
       <errors>
         <error xtype="missing-letter" idx="3-1" eid="0"/>
@@ -117,10 +129,10 @@
   <c>(</c>
   <w>franska</w>
   <c>:</c>
-  <w><i>L'Horloger</i></w>
-  <w><i>de</i></w>
-  <w><i>la</i></w>
-  <w><i>comète</i></w>
+  <w><hi>L'Horloger</hi></w>
+  <w><hi>de</hi></w>
+  <w><hi>la</hi></w>
+  <w><hi>comète</hi></w>
   <c>)</c>
   <w>er</w>
   <w>36</w>
@@ -214,7 +226,7 @@
   <w>þó</w>
   <w>sem</w>
   <revision id="4">
-    <original><w><i>Árelíus</i></w></original>
+    <original><w><hi>Árelíus</hi></w></original>
     <corrected><w>Árelíus</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -303,7 +315,7 @@
   <w>að</w>
   <w>halda</w>
   <w>til</w>
-  <w><i>Palombíu</i></w>
+  <w><hi>Palombíu</hi></w>
   <w>til</w>
   <w>að</w>
   <w>bjarga</w>

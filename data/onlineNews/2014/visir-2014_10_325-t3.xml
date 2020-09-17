@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>visir-2014_10_325-t3.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Nemendur</w>
   <w>í</w>
   <revision id="1">
     <original><w>Devils</w><w>Lake-miðskólanum</w></original>
-    <corrected><w><i>Devils</i></w><w><i>Lake-miðskólanum</i></w></corrected>
+    <corrected><w><hi>Devils</hi></w><w><hi>Lake-miðskólanum</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -74,7 +86,7 @@
   <w>vefsíðu</w>
   <revision id="4">
     <original><w>Live</w><w>5</w><w>News</w></original>
-    <corrected><w><i>Live</i></w><w><i>5</i></w><w><i>News</i></w></corrected>
+    <corrected><w><hi>Live</hi></w><w><hi>5</hi></w><w><hi>News</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>

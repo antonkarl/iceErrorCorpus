@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_8-t1.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Samhliða</w>
@@ -487,7 +499,7 @@
   <w>nafni</w>
   <revision id="19">
     <original><w>Uppruni</w><w>lífsins</w></original>
-    <corrected><w><i>Uppruni</i></w><w><i>lífsins</i></w></corrected>
+    <corrected><w><hi>Uppruni</hi></w><w><hi>lífsins</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -2200,7 +2212,7 @@
   <w>nafn</w>
   <revision id="71">
     <original><w>Uppruni</w><w>lífsins</w></original>
-    <corrected><w><i>Uppruni</i></w><w><i>lífsins</i></w></corrected>
+    <corrected><w><hi>Uppruni</hi></w><w><hi>lífsins</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -2465,7 +2477,7 @@
   <w>þriðju</w>
   <revision id="80">
     <original><w>útgáfur</w><w>Uppruna</w><w>lífsins</w></original>
-    <corrected><w>útgáfu</w><w><i>Uppruna</i></w><w><i>lífsins</i></w></corrected>
+    <corrected><w>útgáfu</w><w><hi>Uppruna</hi></w><w><hi>lífsins</hi></w></corrected>
       <errors>
         <error xtype="nominal-inflection" idx="69-1" eid="0"/>
         <error xtype="nonit4it" idx="69-2" eid="0"/>

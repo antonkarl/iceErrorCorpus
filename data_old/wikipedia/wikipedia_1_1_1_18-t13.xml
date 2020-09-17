@@ -1,0 +1,773 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader/>
+<text><body><p n="1">
+<s n="1">
+  <w>Alda</w>
+  <w>fæddist</w>
+  <w>í</w>
+  <w>New</w>
+  <w>York-borg</w>
+  <w>og</w>
+  <w>er</w>
+  <w>af</w>
+  <w>ítölskum</w>
+  <w>og</w>
+  <w>írskum</w>
+  <w>uppruna</w>
+  <c>.</c>
+</s><s n="2">
+  <revision id="1">
+    <original><w>Að</w><w>auki</w></original>
+    <corrected><w>Auk</w><w>þess</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>leika</w>
+  <w>í</w>
+  <w>þættinum</w>
+  <revision id="2">
+    <original><w>þá</w></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-word" idx="23-1" eid="0"/>
+        <error xtype="style" idx="23-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>leikstýrði</w>
+  <revision id="3">
+    <original/>
+    <corrected><w>hann</w></corrected>
+      <errors>
+        <error xtype="wording" idx="24-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>skrifaði</w>
+  <revision id="4">
+    <original><w>hann</w></original>
+    <corrected/>
+      <errors>
+        <error xtype="dep" depId="24-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>handritið</w>
+  <w>að</w>
+  <w>nokkrum</w>
+  <w>þáttum</w>
+  <c>.</c>
+</s><s n="3">
+  <w>Alda</w>
+  <w>hefur</w>
+  <w>verið</w>
+  <w>giftur</w>
+  <w>Arlene</w>
+  <w>Weiss</w>
+  <w>síðan</w>
+  <revision id="5">
+    <original><w>1957</w></original>
+    <corrected><w>árið 1957</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>saman</w>
+  <w>eiga</w>
+  <w>þau</w>
+  <w>þrjár</w>
+  <w>dætur</w>
+  <c>.</c>
+</s><s n="4">
+  <revision id="6">
+    <original><w>Hefur</w><w>hann</w></original>
+    <corrected><w>Hann</w><w>hefur</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
+  <w>síðan</w>
+  <w>þá</w>
+  <w>komið</w>
+  <w>fram</w>
+  <w>sem</w>
+  <w>gestaleikari</w>
+  <w>í</w>
+  <w>þáttum</w>
+  <w>á</w>
+  <w>borð</w>
+  <w>við</w>
+  <revision id="7">
+    <original><w>ER</w></original>
+    <corrected><w><i>ER</i></w></corrected>
+      <errors>
+        <error xtype="nonit4it" eid="0"/>
+      </errors>
+  </revision>
+  <c>,</c>
+  <revision id="8">
+    <original><w>30</w><w>Rock</w></original>
+    <corrected><w><i>30</i></w><w><i>Rock</i></w></corrected>
+      <errors>
+        <error xtype="nonit4it" eid="0"/>
+      </errors>
+  </revision>
+  <w>og</w>
+  <revision id="9">
+    <original><w>The</w><w>Big</w><w>C.</w></original>
+    <corrected><w><i>The</i></w><w><i>Big</i></w><w><i>C</i></w><c>.</c></corrected>
+      <errors>
+        <error xtype="nonit4it" eid="0"/>
+      </errors>
+  </revision>
+</s><s n="5">
+  <w>Fyrsta</w>
+  <w>kvikmyndahlutverk</w>
+  <w>Alda</w>
+  <w>var</w>
+  <w>árið 1963</w>
+  <w>í</w>
+  <w><i>Gone</i></w>
+  <w><i>Are</i></w>
+  <w><i>the</i></w>
+  <w>ZDays</w>
+  <c>!</c>
+</s><s n="6">
+  <w>Kom</w>
+  <w>hann</w>
+  <w>síðan</w>
+  <w>fram</w>
+  <w>í</w>
+  <w>þáttum</w>
+  <w>á</w>
+  <w>borð</w>
+  <w>við</w>
+  <w><i>The</i></w>
+  <w><i>Nurses</i></w>
+  <c>,</c>
+  <w><i>East</i></w>
+  <w>ZSide</w>
+  <c>/</c>
+  <w>WestZ</w>
+  <w><i>Side</i></w>
+  <c>,</c>
+  <w><i>Coronet</i></w>
+  <w><i>Blue</i></w>
+  <w>og</w>
+  <w>í</w>
+  <w>sjónvarpsmyndunum</w>
+  <w><i>Story</i></w>
+  <w><i>Theatre</i></w>
+  <c>,</c>
+  <w><i>The</i></w>
+  <w><i>Glass</i></w>
+  <w><i>House</i></w>
+  <w>og</w>
+  <w><i>Isn´t</i></w>
+  <w><i>It</i></w>
+  <w><i>Shocking</i></w>
+  <c>.</c>
+</s><s n="7">
+  <w>Alda</w>
+  <w>talaði</w>
+  <w>inn</w>
+  <w>á</w>
+  <w>hljóðbókina</w>
+  <revision id="10">
+    <original><w>World</w><w>War</w></original>
+    <corrected><w><i>World</i></w><w><i>War</i></w></corrected>
+      <errors>
+        <error xtype="nonit4it" eid="0"/>
+      </errors>
+  </revision>
+  <w>eftir</w>
+  <w>Max</w>
+  <w>Brook</w>
+  <w>árið 2006</w>
+  <c>,</c>
+  <w>þar</w>
+  <w>sem</w>
+  <w>hann</w>
+  <w>talaði</w>
+  <w>fyrir</w>
+  <w>Arthur</w>
+  <w>Sinclair</w>
+  <w>Jr.</w>
+</s><s n="8">
+  <w>Leikstýrði</w>
+  <w>hann</w>
+  <w>svo</w>
+  <w>kvikmyndunum</w>
+  <w><i>The</i></w>
+  <w><i>Four</i></w>
+  <w><i>Seasons</i></w>
+  <w>og</w>
+  <w><i>Betsy´s</i></w>
+  <w><i>Wedding</i></w>
+  <c>.</c>
+</s><s n="9">
+  <w>Alda</w>
+  <w>byrjaði</w>
+  <w>leiklistarferil</w>
+  <w>sinn</w>
+  <w>um</w>
+  <w>miðjan</w>
+  <w>sjötta</w>
+  <w>áratuginn</w>
+  <w>sem</w>
+  <w>meðlimur</w>
+  <w><i>Compass</i></w>
+  <w><i>Players</i></w>
+  <w>leikhússins</w>
+  <c>.</c>
+</s><s n="10">
+  <w>Á</w>
+  <w>meðan</w>
+  <w>hann</w>
+  <w>var</w>
+  <w>nemandi</w>
+  <revision id="11">
+    <original><w>þá</w></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-word" idx="7-1" eid="0"/>
+        <error xtype="style" idx="7-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>starfaði</w>
+  <w>hann</w>
+  <w>við</w>
+  <w>útvarpsstöðina</w>
+  <w>WFUV</w>
+  <c>.</c>
+</s><s n="11">
+  <w>Alda</w>
+  <w>stundaði</w>
+  <w>nám</w>
+  <w>við</w>
+  <revision id="12">
+    <original><w>Sorbonne</w><w>háskólann</w></original>
+    <corrected><w>Sorbonne-háskólann</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0"/>
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>fyrstu</w>
+  <w>háskólaárum</w>
+  <w>sínum</w>
+  <c>,</c>
+  <w>ásamt</w>
+  <w>því</w>
+  <w>að</w>
+  <w>leika</w>
+  <w>í</w>
+  <w>leikriti</w>
+  <w>í</w>
+  <w>Róm</w>
+  <w>og</w>
+  <w>leika</w>
+  <w>á</w>
+  <w>móti</w>
+  <w>föður</w>
+  <w>sínum</w>
+  <w>í</w>
+  <w>sjónvarpi</w>
+  <w>í</w>
+  <w>Amsterdam</w>
+  <c>.</c>
+</s><s n="12">
+  <w>Alan</w>
+  <w>Alda</w>
+  <revision id="13">
+    <original><c>(</c></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="bracket4comma" eid="0"/>
+      </errors>
+  </revision>
+  <w>fæddur</w>
+  <w>Alphonso</w>
+  <w>Joseph</w>
+  <w>D´Abruzzo</w>
+  <w>28. janúar 1936</w>
+  <revision id="14">
+    <original><c>)</c></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="bracket4comma" eid="0"/>
+      </errors>
+  </revision>
+  <w>er</w>
+  <w>bandarískur</w>
+  <w>leikari</w>
+  <c>,</c>
+  <w>rithöfundur</w>
+  <c>,</c>
+  <w>leikstjóri</w>
+  <w>og</w>
+  <w>handritshöfundur</w>
+  <w>sem</w>
+  <w>er</w>
+  <w>þekktastur</w>
+  <w>fyrir</w>
+  <w>hlutverk</w>
+  <w>sín</w>
+  <w>í</w>
+  <revision id="15">
+    <original><w>MASH</w></original>
+    <corrected><w><i>MASH</i></w></corrected>
+      <errors>
+        <error xtype="nonit4it" eid="0"/>
+      </errors>
+  </revision>
+  <w>og</w>
+  <revision id="16">
+    <original><w>The</w><w>West</w><w>Wing</w></original>
+    <corrected><w><i>The</i></w><w><i>West</i></w><w><i>Wing</i></w></corrected>
+      <errors>
+        <error xtype="nonit4it" eid="0"/>
+      </errors>
+  </revision>
+  <c>.</c>
+</s><s n="13">
+  <w>Fyrsta</w>
+  <w>leikritið</w>
+  <w>sem</w>
+  <w>hann</w>
+  <revision id="17">
+    <original><w>leikur</w></original>
+    <corrected><w>lék</w><w>í</w></corrected>
+      <errors>
+        <error xtype="pres4past" eid="0"/>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>Broadway</w>
+  <revision id="18">
+    <original><w>er</w></original>
+    <corrected><w>var</w></corrected>
+      <errors>
+        <error xtype="pres4past" eid="0"/>
+      </errors>
+  </revision>
+  <w><i>Only</i></w>
+  <w><i>in</i></w>
+  <w><i>America</i></w>
+  <c>.</c>
+</s><s n="14">
+  <w>Árið 2005</w>
+  <w>gaf</w>
+  <w>Alda</w>
+  <w>út</w>
+  <w>ævisöguna</w>
+  <w><i>Never</i></w>
+  <w><i>Have</i></w>
+  <w><i>Your</i></w>
+  <w><i>Dog</i></w>
+  <w>ZStuffed</w>
+  <c>:</c>
+  <w><i/></w>
+  <w><i>and</i></w>
+  <w><i>Other</i></w>
+  <w><i>Things</i></w>
+  <w><i>I've</i></w>
+  <w><i>Learned</i></w>
+  <c>.</c>
+</s><s n="15">
+  <w>Frá</w>
+  <w>1974</w>
+  <c>-</c>
+  <w>1983</w>
+  <revision id="19">
+    <original><w>þá</w></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-word" idx="18-1" eid="0"/>
+        <error xtype="style" idx="18-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>leikstýrði</w>
+  <w>Alda</w>
+  <w>31</w>
+  <w>þætti</w>
+  <w>af</w>
+  <w>læknaherþættinum</w>
+  <revision id="20">
+    <original><w>MASH</w></original>
+    <corrected><w><i>MASH</i></w></corrected>
+      <errors>
+        <error xtype="nonit4it" eid="0"/>
+      </errors>
+  </revision>
+  <c>.</c>
+</s><s n="16">
+  <w>Fyrsta</w>
+  <w>handritshöfundaverk</w>
+  <w>Alda</w>
+  <w>var</w>
+  <w>þátturinn</w>
+  <w><i>We´ll</i></w>
+  <w><i>Get</i></w>
+  <w><i>By</i></w>
+  <w>árið 1975</w>
+  <c>.</c>
+</s><s n="17">
+  <w>Fyrsta</w>
+  <w>sjónvarpshlutverk</w>
+  <w>Alda</w>
+  <w>var</w>
+  <w>árið 1958</w>
+  <w>í</w>
+  <w><i>The</i></w>
+  <w><i>Phil</i></w>
+  <w><i>Silvers</i></w>
+  <w><i>Show</i></w>
+  <c>.</c>
+</s><s n="18">
+  <w>Hefur</w>
+  <w>hann</w>
+  <w>síðan</w>
+  <w>þá</w>
+  <w>komið</w>
+  <w>fram</w>
+  <w>í</w>
+  <w>leikritum</w>
+  <w>og</w>
+  <w>söngleikjum</w>
+  <w>á</w>
+  <w>borð</w>
+  <w>við</w>
+  <w><i>Fair</i></w>
+  <w><i>Game</i></w>
+  <w><i>for</i></w>
+  <w><i>Lovers</i></w>
+  <c>,</c>
+  <w><i>The</i></w>
+  <w><i>Apple</i></w>
+  <w><i>Tree</i></w>
+  <c>,</c>
+  <w><i>QED</i></w>
+  <c>,</c>
+  <w><i>Glengarry</i></w>
+  <w><i>Glen</i></w>
+  <w><i>Ross</i></w>
+  <w>og</w>
+  <w><i>A</i></w>
+  <w><i>Whisper</i></w>
+  <w><i>in</i></w>
+  <w><i>God´s</i></w>
+  <w><i>Ear</i></w>
+  <c>.</c>
+</s><s n="19">
+  <w>Eftir</w>
+  <w>útskrift</w>
+  <revision id="21">
+    <original><w>þá</w></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-word" idx="9-1" eid="0"/>
+        <error xtype="style" idx="9-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>gerðist</w>
+  <w>hann</w>
+  <w>meðlimur</w>
+  <w>varaliðs</w>
+  <w>Bandaríkjahers</w>
+  <w>og</w>
+  <revision id="22">
+    <original><w>var</w></original>
+    <corrected><w>starfaði</w><w>í</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
+  <w>sex</w>
+  <w>mánuði</w>
+  <w>sem</w>
+  <w>stórskotaliðsmaður</w>
+  <c>.</c>
+</s><s n="20">
+  <w>Alda</w>
+  <w>hafði</w>
+  <w>verið</w>
+  <w>skoðaður</w>
+  <w>sem</w>
+  <w>hugsanlegur</w>
+  <w>kandídat</w>
+  <w>fyrir</w>
+  <w>hlutverk</w>
+  <w>forsetans</w>
+  <w>á</w>
+  <w>þeim</w>
+  <w>tíma</w>
+  <w>sem</w>
+  <revision id="23">
+    <original><w>þátturinn</w></original>
+    <corrected><w>framleiðsla</w><w>þáttarins</w></corrected>
+      <errors>
+        <error xtype="wording" idx="32-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>var</w>
+  <w>að</w>
+  <revision id="24">
+    <original><w>hefja</w><w>framleiðslu</w></original>
+    <corrected><w>hefjast</w></corrected>
+      <errors>
+        <error xtype="dep" depId="32-1" eid="0"/>
+      </errors>
+  </revision>
+  <c>.</c>
+</s><s n="21">
+  <revision id="25">
+    <original><w>Síðan</w><w>árið 2007</w></original>
+    <corrected><w>Árið 2007</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
+  <w>gaf</w>
+  <w>hann</w>
+  <w>út</w>
+  <w>aðra</w>
+  <w>ævisögu</w>
+  <w><i>Things</i></w>
+  <w><i>I</i></w>
+  <w><i>Overheard</i></w>
+  <w><i>While</i></w>
+  <w><i>Talking</i></w>
+  <w><i>to</i></w>
+  <w><i>Myself</i></w>
+  <c>.</c>
+</s><s n="22">
+  <w>Frá</w>
+  <w>1973</w>
+  <c>-</c>
+  <w>1983</w>
+  <w>skrifaði</w>
+  <w>Alda</w>
+  <w>19</w>
+  <w>þætti</w>
+  <revision id="26">
+    <original><w>að</w><w>læknahersþættinum</w><w>MASH</w></original>
+    <corrected><w>af</w><w>læknaherþættinum</w><w><i>MASH</i></w></corrected>
+      <errors>
+        <error xtype="að4af" eid="0"/>
+        <error xtype="compound-collocation" eid="0"/>
+        <error xtype="nonit4it" eid="0"/>
+      </errors>
+  </revision>
+  <c>.</c>
+</s><s n="23">
+  <w>Z.</w>
+  <w>Hefur</w>
+  <w>hann</w>
+  <w>síðan</w>
+  <w>þá</w>
+  <w>komið</w>
+  <w>fram</w>
+  <w>í</w>
+  <w>kvikmyndum</w>
+  <w>á</w>
+  <w>borð</w>
+  <w>við</w>
+  <w><i>Jenny</i></w>
+  <c>,</c>
+  <w><i>Same</i></w>
+  <w><i>Time</i></w>
+  <w><i>Next</i></w>
+  <w><i>Year</i></w>
+  <c>,</c>
+  <w><i>The</i></w>
+  <w><i>Four</i></w>
+  <w><i>Seasons</i></w>
+  <c>,</c>
+  <w><i>Manhattan</i></w>
+  <w><i>Murder</i></w>
+  <w><i>Mystery</i></w>
+  <c>,</c>
+  <revision id="27">
+    <original><w>Everyone</w><w>Says</w><w>I</w><w>Love</w><w>You</w></original>
+    <corrected><w><i>Everyone</i></w><w><i>Says</i></w><w><i>I</i></w><w><i>Love</i></w><w><i>You</i></w></corrected>
+      <errors>
+        <error xtype="nonit4it" eid="0"/>
+      </errors>
+  </revision>
+  <c>,</c>
+  <revision id="28">
+    <original><w>What</w><w>Women</w><w>Want</w></original>
+    <corrected><w><i>What</i></w><w><i>Women</i></w><w><i>Want</i></w></corrected>
+      <errors>
+        <error xtype="nonit4it" eid="0"/>
+      </errors>
+  </revision>
+  <c>,</c>
+  <revision id="29">
+    <original><w>The</w><w>Aviator</w></original>
+    <corrected><w><i>The</i></w><w><i>Aviator</i></w></corrected>
+      <errors>
+        <error xtype="nonit4it" eid="0"/>
+      </errors>
+  </revision>
+  <w>og</w>
+  <w><i>Flash</i></w>
+  <w><i>of</i></w>
+  <w><i>Genius</i></w>
+  <c>.</c>
+</s><s n="24">
+  <revision id="30">
+    <original><w>Er</w></original>
+    <corrected><w>Hann</w><w>er</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
+  <w>gestaprófessor</w>
+  <w>við</w>
+  <w>Ríkisháskólann</w>
+  <w>New</w>
+  <w>York</w>
+  <w>í</w>
+  <w>Stony</w>
+  <revision id="31">
+    <original><w>Brook</w><w>fjölmiðlaskólann</w></original>
+    <corrected><w>Brook-fjölmiðlaskólann</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0"/>
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>er</w>
+  <w>meðlimur</w>
+  <w>ráðgjafaráðs</w>
+  <w><i>The</i></w>
+  <w><i>Center</i></w>
+  <w><i>for</i></w>
+  <w><i>Communicating</i></w>
+  <w><i>Science</i></w>
+  <c>.</c>
+</s><s n="25">
+  <w>Fyrsta</w>
+  <w>leikstjóraverk</w>
+  <w>Alda</w>
+  <w>var</w>
+  <w>sjónvarpsmyndin</w>
+  <w><i/></w>
+  <w>6Z</w>
+  <w><i>Rms</i></w>
+  <w><i>Riv</i></w>
+  <w><i>Vu</i></w>
+  <w>árið 1974</w>
+  <c>.</c>
+</s><s n="26">
+  <w>Skrifaði</w>
+  <w>hann</w>
+  <w>handritið</w>
+  <w>að</w>
+  <w>kvikmyndunum</w>
+  <w><i>The</i></w>
+  <w><i>Four</i></w>
+  <w><i>Seasons</i></w>
+  <c>,</c>
+  <w><i>A</i></w>
+  <w><i>New</i></w>
+  <w><i>Life</i></w>
+  <w>og</w>
+  <w><i>Betsy´s</i></w>
+  <w><i>Wedding</i></w>
+  <c>.</c>
+</s><s n="27">
+  <w>Árið 1972</w>
+  <w>var</w>
+  <w>honum</w>
+  <w>boðið</w>
+  <w>hlutverk</w>
+  <w>Kapteins</w>
+  <w>Benjamin</w>
+  <w>Franklin</w>
+  <w>Pierce</w>
+  <w>í</w>
+  <w>læknaherþættinum</w>
+  <revision id="32">
+    <original><w>MASH</w></original>
+    <corrected><w><i>MASH</i></w></corrected>
+      <errors>
+        <error xtype="nonit4it" eid="0"/>
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>hann</w>
+  <w>lék</w>
+  <w>til</w>
+  <w>ársins 1983</w>
+  <c>.</c>
+</s><s n="28">
+  <w>Árið 1956</w>
+  <revision id="33">
+    <original><c>,</c></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-comma" eid="0"/>
+      </errors>
+  </revision>
+  <w>útskrifaðist</w>
+  <w>hann</w>
+  <w>með</w>
+  <revision id="34">
+    <original><w>B.Sc.</w><w>gráðu</w></original>
+    <corrected><w>B.Sc.-gráðu</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0"/>
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>ensku</w>
+  <w>frá</w>
+  <w>Fordham</w>
+  <w>College</w>
+  <w>við</w>
+  <w>Fordham-háskóla</w>
+  <w>í</w>
+  <w>Bronx</w>
+  <w>hverfinu</w>
+  <w>í</w>
+  <w>New</w>
+  <w>York-borg</w>
+  <c>.</c>
+</s><s n="29">
+  <w>Frá</w>
+  <w>2004</w>
+  <c>-</c>
+  <w>2006</w>
+  <w>lék</w>
+  <w>hann</w>
+  <w>öldungardeildarþingmanninn</w>
+  <w>og</w>
+  <w>forsetaefni</w>
+  <w>Repúblikanaflokksins</w>
+  <c>,</c>
+  <w>Arnold</w>
+  <w>Vinick</w>
+  <revision id="35">
+    <original/>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0"/>
+      </errors>
+  </revision>
+  <w>í</w>
+  <revision id="36">
+    <original><w>The</w><w>West</w><w>Wing</w></original>
+    <corrected><w><i>The</i></w><w><i>West</i></w><w><i>Wing</i></w></corrected>
+      <errors>
+        <error xtype="nonit4it" eid="0"/>
+      </errors>
+  </revision>
+  <c>.</c>
+</s></p></body></text>
+</TEI>

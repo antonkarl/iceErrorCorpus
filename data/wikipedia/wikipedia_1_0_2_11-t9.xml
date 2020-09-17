@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_11-t9.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Slík</w>
@@ -375,7 +387,7 @@
   <w>er</w>
   <c>„</c>
   <revision id="13">
-    <original><w><i>Attack</i></w><w><i>at</i></w><w><i>dawn</i></w></original>
+    <original><w><hi>Attack</hi></w><w><hi>at</hi></w><w><hi>dawn</hi></w></original>
     <corrected><w>attack</w><w>at</w><w>dawn</w></corrected>
       <errors>
         <error xtype="it4nonit" idx="10-1" eid="0"/>
@@ -387,7 +399,7 @@
   <w>lykilorðið</w>
   <c>„</c>
   <revision id="14">
-    <original><w><i>Lemon</i></w></original>
+    <original><w><hi>Lemon</hi></w></original>
     <corrected><w>lemon</w></corrected>
       <errors>
         <error xtype="it4nonit" idx="11-1" eid="0"/>
@@ -856,17 +868,17 @@
   <w>gjarnan</w>
   <w>talað</w>
   <w>um</w>
-  <w><i>ódulritaðan</i></w>
-  <w><i>texta</i></w>
+  <w><hi>ódulritaðan</hi></w>
+  <w><hi>texta</hi></w>
   <c>(</c>
   <w>e.</w>
-  <w><i>plaintext</i></w>
+  <w><hi>plaintext</hi></w>
   <c>)</c>
   <c>,</c>
-  <w><i>dulritunaraðferð</i></w>
+  <w><hi>dulritunaraðferð</hi></w>
   <c>(</c>
   <w>e.</w>
-  <w><i>cipher</i></w>
+  <w><hi>cipher</hi></w>
   <c>)</c>
   <c>,</c>
   <w>dulritunaraðferðin</w>
@@ -886,11 +898,11 @@
       </errors>
   </revision>
   <w>og</w>
-  <w><i>dulritaðan</i></w>
-  <w><i>texta</i></w>
+  <w><hi>dulritaðan</hi></w>
+  <w><hi>texta</hi></w>
   <c>(</c>
   <w>e.</w>
-  <w><i>ciphertext</i></w>
+  <w><hi>ciphertext</hi></w>
   <c>)</c>
   <c>.</c>
 </s><s n="34">

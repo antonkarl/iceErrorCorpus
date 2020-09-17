@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_3-t9.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Jacob</w>
   <revision id="1">
     <original><c>„</c><w>Jack</w><c>“</c></original>
-    <corrected><w><i>Jack</i></w></corrected>
+    <corrected><w><hi>Jack</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="1-1" eid="0" />
         <error xtype="nonit4it" idx="1-2" eid="0" />
@@ -110,7 +122,7 @@
   <w>viðurnefnið</w>
   <revision id="5">
     <original><w>doktor</w><w>dauði</w></original>
-    <corrected><w><i>Doktor</i></w><w><i>dauði</i></w></corrected>
+    <corrected><w><hi>Doktor</hi></w><w><hi>dauði</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="5-1" eid="0" />
         <error xtype="lower4upper-proper" idx="5-1" eid="0" />
@@ -303,7 +315,7 @@
   <w>fréttaþáttinn</w>
   <revision id="8">
     <original><w>60</w><w>Minutes</w></original>
-    <corrected><w><i>60</i></w><w><i>Minutes</i></w></corrected>
+    <corrected><w><hi>60</hi></w><w><hi>Minutes</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>

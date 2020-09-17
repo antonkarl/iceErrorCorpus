@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_15-t7.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Norðurpóllinn</w>
@@ -159,7 +171,7 @@
   <w>Snæs</w>
   <w>Magnasonar</w>
   <c>,</c>
-  <w><i>LoveStar</i></w>
+  <w><hi>LoveStar</hi></w>
   <c>,</c>
   <w>í</w>
   <w>uppsetningu</w>
@@ -231,7 +243,7 @@
   <w>við</w>
   <w>Sund</w>
   <w>á</w>
-  <w><i>Aladdín</i></w>
+  <w><hi>Aladdín</hi></w>
   <c>.</c>
 </s><s n="14">
   <w>Fyrsta</w>
@@ -298,7 +310,7 @@
   <w>Sýningin</w>
   <revision id="5">
     <original><w>Fjalla-Eyvindur</w></original>
-    <corrected><w><i>Fjalla-Eyvindur</i></w></corrected>
+    <corrected><w><hi>Fjalla-Eyvindur</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -343,7 +355,7 @@
   <w>uppsetning</w>
   <w>á</w>
   <w>leikverkinu</w>
-  <w><i>Glerlaufin</i></w>
+  <w><hi>Glerlaufin</hi></w>
   <w>eftir</w>
   <w>Philip</w>
   <w>Ridley</w>

@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_8-t8.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Alls</w>
@@ -98,8 +110,8 @@
   <w>sögur</w>
   <w>birtust</w>
   <w>í</w>
-  <w><i>tímaritinu</i></w>
-  <w><i>Sval</i></w>
+  <w><hi>tímaritinu</hi></w>
+  <w><hi>Sval</hi></w>
   <w>eftir</w>
   <w>að</w>
   <w>Peyo</w>
@@ -114,11 +126,11 @@
   <w>ár</w>
   <w>leit</w>
   <w>persónan</w>
-  <w><i>Hinrik</i></w>
+  <w><hi>Hinrik</hi></w>
   <c>(</c>
   <w>franska</w>
   <c>:</c>
-  <w><i>Johan</i></w>
+  <w><hi>Johan</hi></w>
   <c>)</c>
   <w>fyrst</w>
   <w>dagsins</w>
@@ -269,7 +281,7 @@
   <w>skapað</w>
   <revision id="2">
     <original><w>Strumpana</w></original>
-    <corrected><w><i>strumpana</i></w></corrected>
+    <corrected><w><hi>strumpana</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="1-1" eid="0"/>
         <error xtype="upper4lower-common" idx="1-1" eid="0"/>

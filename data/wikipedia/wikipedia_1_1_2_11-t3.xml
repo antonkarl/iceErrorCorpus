@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_11-t3.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>San</w>
@@ -8,10 +20,10 @@
   <c>(</c>
   <w>ítalska</w>
   <c>:</c>
-  <w><i>Repubblica</i></w>
-  <w><i>di</i></w>
-  <w><i>San</i></w>
-  <w><i>Marino</i></w>
+  <w><hi>Repubblica</hi></w>
+  <w><hi>di</hi></w>
+  <w><hi>San</hi></w>
+  <w><hi>Marino</hi></w>
   <c>)</c>
   <w>er</w>
   <w>örríki</w>
@@ -205,7 +217,7 @@
   <w>sem</w>
   <w>eru</w>
   <w>kölluð</w>
-  <w><i>castelli</i></w>
+  <w><hi>castelli</hi></w>
   <revision id="2">
     <original><c>(</c><c>„</c></original>
     <corrected><w>eða</w></corrected>
@@ -239,7 +251,7 @@
   <w>sem</w>
   <w>eru</w>
   <w>kallaðar</w>
-  <w><i>frazioni</i></w>
+  <w><hi>frazioni</hi></w>
   <revision id="4">
     <original><c>(</c><c>„</c></original>
     <corrected><w>eða</w></corrected>
@@ -280,7 +292,7 @@
   <w>43</w>
   <w>kirkjusóknir</w>
   <c>(</c>
-  <w><i>curazie</i></w>
+  <w><hi>curazie</hi></w>
   <c>)</c>
   <c>:</c>
   <w>Cà</w>

@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_1-t6.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Hugmyndin</w>
@@ -82,12 +94,12 @@
   <w>Forgangsröðunaraðferðin</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>Single</i></w>
-  <w><i>transferable</i></w>
-  <w><i>vote</i></w>
+  <w><hi>Single</hi></w>
+  <w><hi>transferable</hi></w>
+  <w><hi>vote</hi></w>
   <c>,</c>
   <revision id="2">
-    <original><w><i>skammstafað</i></w><w><i>STV</i></w></original>
+    <original><w><hi>skammstafað</hi></w><w><hi>STV</hi></w></original>
     <corrected><w>skammstafað</w><w>STV</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -335,7 +347,7 @@
   <w>tímaritinu</w>
   <revision id="11">
     <original><w>Stefni</w></original>
-    <corrected><w><i>Stefni</i></w></corrected>
+    <corrected><w><hi>Stefni</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -359,8 +371,8 @@
       </errors>
   </revision>
   <c>,</c>
-  <w><i>Innleiðum</i></w>
-  <w><i>persónukjör</i></w>
+  <w><hi>Innleiðum</hi></w>
+  <w><hi>persónukjör</hi></w>
   <c>,</c>
   <w>þar</w>
   <w>sem</w>

@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_1-t5.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Þekktustu</w>
@@ -109,20 +121,20 @@
   <w>afa</w>
   <w>síns</w>
   <c>,</c>
-  <w><i>Pilti</i></w>
-  <w><i>og</i></w>
-  <w><i>stúlku</i></w>
+  <w><hi>Pilti</hi></w>
+  <w><hi>og</hi></w>
+  <w><hi>stúlku</hi></w>
   <w>og</w>
-  <w><i>Manni</i></w>
-  <w><i>og</i></w>
-  <w><i>konu</i></w>
+  <w><hi>Manni</hi></w>
+  <w><hi>og</hi></w>
+  <w><hi>konu</hi></w>
   <c>.</c>
 </s><s n="6">
   <w>Hann</w>
   <w>var</w>
   <w>helsti</w>
   <w>listgagnrýnandi</w>
-  <w><i>Morgunblaðsins</i></w>
+  <w><hi>Morgunblaðsins</hi></w>
   <w>frá</w>
   <w>1926</w>
   <c>-</c>
@@ -267,7 +279,7 @@
         <error xtype="wording" eid="0"/>
       </errors>
   </revision>
-  <w><i>Morgunblaðsins</i></w>
+  <w><hi>Morgunblaðsins</hi></w>
   <w>frá</w>
   <w>1926</w>
   <w>til</w>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Um</w>
+  <w>4.000</w>
+  <w>manns</w>
+  <w>eru</w>
+  <w>nú</w>
+  <w>saman</w>
+  <w>komnir</w>
+  <w>á</w>
+  <w>Gaddstaðaflötum</w>
+  <w>við</w>
+  <w>Hellu</w>
+  <w>þar</w>
+  <w>sem</w>
+  <w>hin</w>
+  <w>árlega</w>
+  <w>Besta</w>
+  <w>útihátíð</w>
+  <w>fer</w>
+  <w>fram</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Ein</w>
+  <w>nauðgun</w>
+  <w>var</w>
+  <w>kærð</w>
+  <w>til</w>
+  <revision id="1">
+    <original><w>lögreglunni</w></original>
+    <corrected><w>lögreglunnar</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>Hvolsvelli</w>
+  <w>í</w>
+  <w>nótt</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Kærandi</w>
+  <w>var</w>
+  <w>fluttur</w>
+  <w>á</w>
+  <w>Neyðarmóttöku</w>
+  <revision id="2">
+    <original><w>fórnarlamba</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wording" idx="2-1" eid="0" />
+      </errors>
+  </revision>
+  <w>fyrir</w>
+  <revision id="3">
+    <original><w>kynferðisbrot</w></original>
+    <corrected><w>þolendur</w><w>kynferðisofbeldis</w></corrected>
+      <errors>
+        <error xtype="dep" depId="2-1" eid="0" />
+        <error xtype="wording" idx="3-1" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>Reykjavík</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Gerandi</w>
+  <w>var</w>
+  <w>handtekinn</w>
+  <w>og</w>
+  <revision id="4">
+    <original><w>var</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
+  <w>vistaður</w>
+  <w>í</w>
+  <revision id="5">
+    <original><w>fangageymslu</w></original>
+    <corrected><w>fangageymslum</w></corrected>
+      <errors>
+        <error xtype="singular4plural" eid="0" />
+      </errors>
+  </revision>
+  <w>lögreglunnar</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Málið</w>
+  <w>er</w>
+  <w>í</w>
+  <w>rannsókn</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Þá</w>
+  <w>var</w>
+  <w>ein</w>
+  <w>líkamsárás</w>
+  <w>tilkynnt</w>
+  <w>og</w>
+  <w>var</w>
+  <w>gerandi</w>
+  <revision id="6">
+    <original><w>í</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="repeat-word-split" eid="0" />
+      </errors>
+  </revision>
+  <w>vistaður</w>
+  <w>í</w>
+  <w>fangageymslum</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>Þá</w>
+  <w>hafa</w>
+  <w>25</w>
+  <w>fíkniefnamál</w>
+  <w>komið</w>
+  <w>upp</w>
+  <w>frá</w>
+  <w>því</w>
+  <w>að</w>
+  <w>hátíðin</w>
+  <w>hófst</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

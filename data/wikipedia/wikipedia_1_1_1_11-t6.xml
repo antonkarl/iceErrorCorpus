@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_11-t6.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Erla</w>
@@ -201,7 +213,7 @@
   <w>hét</w>
   <revision id="7">
     <original><c>„</c><w>Brunnar</w><c>“</c><w>sem</w></original>
-    <corrected><w><i>Brunnar</i></w><w>og</w></corrected>
+    <corrected><w><hi>Brunnar</hi></w><w>og</w></corrected>
       <errors>
         <error xtype="extra-quots" idx="7-1" eid="0" />
         <error xtype="nonit4it" idx="7-1" eid="0" />
@@ -242,7 +254,7 @@
   <w>hét</w>
   <revision id="8">
     <original><w>Corpus</w><w>lucis</w><w>sensitivus</w></original>
-    <corrected><w><i>Corpus</i></w><w><i>lucis</i></w><w><i>sensitivus</i></w></corrected>
+    <corrected><w><hi>Corpus</hi></w><w><hi>lucis</hi></w><w><hi>sensitivus</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -571,7 +583,7 @@
   <w>hét</w>
   <revision id="15">
     <original><w>Corpus</w><w>lucis</w><w>sensitivus</w></original>
-    <corrected><w><i>Corpus</i></w><w><i>lucis</i></w><w><i>sensitivus</i></w></corrected>
+    <corrected><w><hi>Corpus</hi></w><w><hi>lucis</hi></w><w><hi>sensitivus</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -786,7 +798,7 @@
   <c>,</c>
   <revision id="19">
     <original><w>corpus</w><w>lucis</w><w>sensitivus-ljósnæmar</w></original>
-    <corrected><w><i>corpus</i></w><w><i>lucis</i></w><w><i>sensitivus</i></w><c>-ljósnæmar</c></corrected>
+    <corrected><w><hi>corpus</hi></w><w><hi>lucis</hi></w><w><hi>sensitivus</hi></w><c>-ljósnæmar</c></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -820,7 +832,7 @@
   <w>hét</w>
   <revision id="20">
     <original><w>Búdda</w><w>er</w><w>Akureyri</w></original>
-    <corrected><w><i>Búdda</i></w><w><i>er</i></w><w><i>Akureyri</i></w></corrected>
+    <corrected><w><hi>Búdda</hi></w><w><hi>er</hi></w><w><hi>Akureyri</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -916,7 +928,7 @@
   <w>Erlu</w>
   <revision id="23">
     <original><c>„</c><w>Samtímis</w><c>“</c></original>
-    <corrected><c>,</c><w><i>Samtímis</i></w><c>,</c></corrected>
+    <corrected><c>,</c><w><hi>Samtímis</hi></w><c>,</c></corrected>
       <errors>
         <error xtype="missing-commas" idx="23-1" eid="0" />
         <error xtype="extra-quots" idx="23-2" eid="0" />

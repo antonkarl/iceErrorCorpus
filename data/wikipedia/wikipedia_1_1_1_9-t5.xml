@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_9-t5.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Meðal</w>
@@ -251,7 +263,7 @@
   <w>lykilfæðutegund</w>
   <w>reiðarhvala</w>
   <c>(</c>
-  <w><i>Balaenoperidae</i></w>
+  <w><hi>Balaenoperidae</hi></w>
   <c>)</c>
   <c>.</c>
 </s><s n="9">
@@ -499,8 +511,8 @@
 </s><s n="16">
   <w>Suðurhafsljósátan</w>
   <c>(</c>
-  <w><i>Euphausia</i></w>
-  <w><i>superba</i></w>
+  <w><hi>Euphausia</hi></w>
+  <w><hi>superba</hi></w>
   <c>)</c>
   <w>lifir</w>
   <w>í</w>
@@ -740,7 +752,7 @@
   <c>(</c>
   <w>fræðiheiti</w>
   <c>:</c>
-  <w><i>euphausia</i></w>
+  <w><hi>euphausia</hi></w>
   <c>)</c>
   <w>er</w>
   <w>dýrasvif</w>

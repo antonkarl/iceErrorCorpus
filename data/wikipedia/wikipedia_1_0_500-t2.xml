@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_500-t2.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Mike</w>
@@ -28,7 +40,7 @@
   <w>af</w>
   <revision id="1">
     <original><w>Shrek</w></original>
-    <corrected><w><i>Shrek</i></w></corrected>
+    <corrected><w><hi>Shrek</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -164,7 +176,7 @@
 </s><s n="5">
   <revision id="8">
     <original><w>Shrek</w><c>:</c><w>Sæll</w><w>alla</w><w>daga</w></original>
-    <corrected><w><i>Shrek</i></w><c>:</c><w><i>Sæll</i></w><w><i>alla</i></w><w><i>daga</i></w></corrected>
+    <corrected><w><hi>Shrek</hi></w><c>:</c><w><hi>Sæll</hi></w><w><hi>alla</hi></w><w><hi>daga</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

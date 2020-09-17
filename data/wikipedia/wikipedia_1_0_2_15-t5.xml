@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_15-t5.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <revision id="1">
@@ -224,9 +236,9 @@
   <w>á</w>
   <w>plötunni</w>
   <w>þeirra</w>
-  <w><i>Beatles</i></w>
-  <w><i>for</i></w>
-  <w><i>Sale</i></w>
+  <w><hi>Beatles</hi></w>
+  <w><hi>for</hi></w>
+  <w><hi>Sale</hi></w>
   <w>árið 1964</w>
   <c>.</c>
 </s><s n="9">

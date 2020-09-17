@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_4-t5.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Snorkstelpan</w>
@@ -9,9 +21,9 @@
   <c>.</c>
 </s>
 <s n="2">
-  <w><i>Snorkfröken</i></w>
+  <w><hi>Snorkfröken</hi></w>
   <w>f.</w>
-  <w><i>Niiskuneiti</i></w>
+  <w><hi>Niiskuneiti</hi></w>
   <c>)</c>
   <w>er</w>
   <w>persóna</w>
@@ -114,8 +126,8 @@
   <w>stuttlega</w>
   <w>í</w>
   <revision id="7">
-    <original><w><i>Halastjarnan</i></w></original>
-    <corrected><w><i>Halastjörnunni</i></w></corrected>
+    <original><w><hi>Halastjarnan</hi></w></original>
+    <corrected><w><hi>Halastjörnunni</hi></w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
       </errors>
@@ -123,8 +135,8 @@
   <w>og</w>
   <w>í</w>
   <revision id="8">
-    <original><w><i>Pípuhattur</i></w><w><i>galdrakarlsinns</i></w></original>
-    <corrected><w><i>Pípuhatti</i></w><w><i>galdrakarlsins</i></w></corrected>
+    <original><w><hi>Pípuhattur</hi></w><w><hi>galdrakarlsinns</hi></w></original>
+    <corrected><w><hi>Pípuhatti</hi></w><w><hi>galdrakarlsins</hi></w></corrected>
       <errors>
         <error xtype="nominal-inflection" idx="8-1" eid="0" />
         <error xtype="nn4n" idx="8-2" eid="0" />
@@ -230,7 +242,7 @@
   <w>sjötta</w>
   <w>kafla</w>
   <w>bókarinnar</w>
-  <w><i>Halastjarnan</i></w>
+  <w><hi>Halastjarnan</hi></w>
   <w>og</w>
   <w>í</w>
   <w>næstu</w>
@@ -276,10 +288,10 @@
   <w>á</w>
   <w>eftir</w>
   <c>,</c>
-  <w><i>Pípuhattur</i></w>
+  <w><hi>Pípuhattur</hi></w>
   <revision id="9">
-    <original><w><i>galdrakarlsinns</i></w></original>
-    <corrected><w><i>galdrakarlsins</i></w></corrected>
+    <original><w><hi>galdrakarlsinns</hi></w></original>
+    <corrected><w><hi>galdrakarlsins</hi></w></corrected>
       <errors>
         <error xtype="nn4n" idx="9-1" eid="0" />
         <error xtype="nonword" idx="9-1" eid="0" />
@@ -296,8 +308,8 @@
   <w>þarnæstu</w>
   <w>bók</w>
   <c>,</c>
-  <w><i>Minningar</i></w>
-  <w><i>Múmínpabba</i></w>
+  <w><hi>Minningar</hi></w>
+  <w><hi>Múmínpabba</hi></w>
   <revision id="10">
     <original></original>
     <corrected><c>,</c></corrected>
@@ -331,7 +343,7 @@
   <c>,</c>
   <w>í</w>
   <w>bókinni</w>
-  <w><i>Örlaganóttin</i></w>
+  <w><hi>Örlaganóttin</hi></w>
   <w>þar</w>
   <w>sem</w>
   <w>Múmínsnáðinn</w>
@@ -375,19 +387,19 @@
   </revision>
   <w>sögum</w>
   <w>í</w>
-  <w><i>Ósýnilega</i></w>
-  <w><i>barnið</i></w>
-  <w><i>og</i></w>
-  <w><i>aðrar</i></w>
-  <w><i>sögur</i></w>
+  <w><hi>Ósýnilega</hi></w>
+  <w><hi>barnið</hi></w>
+  <w><hi>og</hi></w>
+  <w><hi>aðrar</hi></w>
+  <w><hi>sögur</hi></w>
   <c>,</c>
   <w>þeirri</w>
   <w>fjórðu</w>
   <c>,</c>
-  <w><i>Síðasti</i></w>
-  <w><i>drekinn</i></w>
-  <w><i>í</i></w>
-  <w><i>heiminum</i></w>
+  <w><hi>Síðasti</hi></w>
+  <w><hi>drekinn</hi></w>
+  <w><hi>í</hi></w>
+  <w><hi>heiminum</hi></w>
   <revision id="13">
     <original></original>
     <corrected><c>,</c></corrected>
@@ -401,7 +413,7 @@
   <w>og</w>
   <w>síðustu</w>
   <c>,</c>
-  <w><i>Þinurinn</i></w>
+  <w><hi>Þinurinn</hi></w>
   <c>.</c>
 </s>
 <s n="14">

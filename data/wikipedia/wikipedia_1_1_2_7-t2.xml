@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_7-t2.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Harold</w>
@@ -910,8 +922,8 @@
   <w>svo</w>
   <w>sem</w>
   <w>í</w>
-  <w><i>The</i></w>
-  <w><i>Sun</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Sun</hi></w>
   <revision id="28">
     <original><c>,</c></original>
     <corrected></corrected>

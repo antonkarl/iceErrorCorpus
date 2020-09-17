@@ -1,15 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_4-t7.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
-  <w><i>Pólýfónkórinn</i></w>
-  <w><i>og</i></w>
-  <w><i>kammersveit</i></w>
-  <w><i>–</i></w>
-  <w><i>Gloria</i></w>
-  <w><i>og</i></w>
-  <w><i>Magnificat</i></w>
+  <w><hi>Pólýfónkórinn</hi></w>
+  <w><hi>og</hi></w>
+  <w><hi>kammersveit</hi></w>
+  <w><hi>–</hi></w>
+  <w><hi>Gloria</hi></w>
+  <w><hi>og</hi></w>
+  <w><hi>Magnificat</hi></w>
   <w>er</w>
   <w>hljómplata</w>
   <w>með</w>
@@ -130,7 +142,7 @@
   <c>„</c>
   <revision id="2">
     <original><w>Gloria</w></original>
-    <corrected><w><i>Gloria</i></w></corrected>
+    <corrected><w><hi>Gloria</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -309,7 +321,7 @@
 <s n="15">
   <revision id="5">
     <original><w>Magnificat</w></original>
-    <corrected><w><i>Magnificat</i></w></corrected>
+    <corrected><w><hi>Magnificat</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -437,7 +449,7 @@
   <w>Vivaldi</w>
   <c>,</c>
   <w>höfund</w>
-  <w><i>Gloriu</i></w>
+  <w><hi>Gloriu</hi></w>
   <revision id="7">
     <original></original>
     <corrected><c>,</c></corrected>
@@ -592,7 +604,7 @@
   <w>og</w>
   <revision id="14">
     <original><w>conserti</w><w>grossi</w></original>
-    <corrected><w><i>conserti</i></w><w><i>grossi</i></w></corrected>
+    <corrected><w><hi>conserti</hi></w><w><hi>grossi</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -670,7 +682,7 @@
   <w>er</w>
   <revision id="15">
     <original><w>Gloria</w><w>í</w><w>D-dúr</w></original>
-    <corrected><w><i>Gloria</i></w><w><i>í</i></w><w><i>D-dúr</i></w></corrected>
+    <corrected><w><hi>Gloria</hi></w><w><hi>í</hi></w><w><hi>D-dúr</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>

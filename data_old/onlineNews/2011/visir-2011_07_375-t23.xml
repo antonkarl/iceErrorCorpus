@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Ökumaður</w>
+  <w>var</w>
+  <w>stöðvaður</w>
+  <w>á</w>
+  <w>Reykjanesbraut</w>
+  <c>,</c>
+  <w>skammt</w>
+  <w>frá</w>
+  <revision id="1">
+    <original><w>Grindavíkurafleggjara</w></original>
+    <corrected><w>Grindavíkurafleggjaranum</w></corrected>
+      <errors>
+        <error xtype="ind4def" eid="0" />
+      </errors>
+  </revision>
+  <w>seint</w>
+  <w>í</w>
+  <w>gærkvöldi</w>
+  <c>,</c>
+  <w>eftir</w>
+  <w>að</w>
+  <w>bíll</w>
+  <w>hans</w>
+  <w>hafði</w>
+  <w>mælst</w>
+  <w>á</w>
+  <w>159</w>
+  <w>kílómetra</w>
+  <w>hraða</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Ökumenn</w>
+  <w>á</w>
+  <w>brautinni</w>
+  <w>létu</w>
+  <w>lögregluna</w>
+  <w>í</w>
+  <w>Keflavík</w>
+  <w>vita</w>
+  <w>af</w>
+  <w>ofsaakstri</w>
+  <w>mannsins</w>
+  <c>,</c>
+  <w>og</w>
+  <w>því</w>
+  <w>náðist</w>
+  <w>hann</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Hann</w>
+  <w>verður</w>
+  <revision id="2">
+    <original><w>sviftur</w></original>
+    <corrected><w>sviptur</w></corrected>
+      <errors>
+        <error xtype="pronun-writing" eid="0" />
+      </errors>
+  </revision>
+  <w>ökuleyfi</w>
+  <w>í</w>
+  <w>tvo</w>
+  <w>mánuði</w>
+  <c>,</c>
+  <w>sektaður</w>
+  <w>um</w>
+  <w>140 þúsund krónur</w>
+  <w>og</w>
+  <w>fær</w>
+  <w>auk</w>
+  <w>þess</w>
+  <w>punkta</w>
+  <w>í</w>
+  <revision id="2b">
+    <original><w>ökuferilskránna</w></original>
+    <corrected><w>ökuferilskrána</w></corrected>
+      <errors>
+        <error xtype="nn4n" eid="0" />
+      </errors>
+  </revision>
+  <revision id="3">
+    <original></original>
+    <corrected><w>sína</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

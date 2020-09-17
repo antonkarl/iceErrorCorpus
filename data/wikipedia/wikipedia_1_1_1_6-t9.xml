@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_6-t9.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Hún</w>
@@ -74,7 +86,7 @@
 </s><s n="6">
   <revision id="4">
     <original><w>Yohoho</w></original>
-    <corrected><w><i>Yohoho</i></w></corrected>
+    <corrected><w><hi>Yohoho</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -83,7 +95,7 @@
   <w>áður</w>
   <revision id="5">
     <original><w>Genk</w><w>on</w><w>Ice</w></original>
-    <corrected><w><i>Genk</i></w><w><i>on</i></w><w><i>Ice</i></w></corrected>
+    <corrected><w><hi>Genk</hi></w><w><hi>on</hi></w><w><hi>Ice</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -541,7 +553,7 @@
   <w>og</w>
   <revision id="19">
     <original><w>jazzhátíðin</w><w>C-mine</w><w>Jazz</w></original>
-    <corrected><w>djasshátíðina</w><w><i>C-mine</i></w><w><i>Jazz</i></w></corrected>
+    <corrected><w>djasshátíðina</w><w><hi>C-mine</hi></w><w><hi>Jazz</hi></w></corrected>
       <errors>
         <error xtype="wording" idx="25-1" eid="0"/>
         <error xtype="nonit4it" idx="25-2" eid="0"/>
@@ -745,7 +757,7 @@
 </s><s n="41">
   <revision id="27">
     <original><w>Genk</w><w>on</w><w>Stage</w></original>
-    <corrected><w><i>Genk</i></w><w><i>on</i></w><w><i>Stage</i></w></corrected>
+    <corrected><w><hi>Genk</hi></w><w><hi>on</hi></w><w><hi>Stage</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

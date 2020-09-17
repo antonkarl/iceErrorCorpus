@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_275-t19.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Alberta</w>
@@ -779,7 +791,7 @@
   <w>árlega</w>
   <w>hátíðin</w>
   <revision id="25">
-    <original><w>the</w><w><i>Stampede</i></w></original>
+    <original><w>the</w><w><hi>Stampede</hi></w></original>
     <corrected><w>Stampede</w></corrected>
       <errors>
         <error xtype="extra-word" idx="25-1" eid="0" />
@@ -801,7 +813,7 @@
   <w>er</w>
   <w>árlega</w>
   <revision id="26">
-    <original><w><i>Banff</i></w><w><i>Mountain</i></w><w><i>Film</i></w><w><i>Festival</i></w></original>
+    <original><w><hi>Banff</hi></w><w><hi>Mountain</hi></w><w><hi>Film</hi></w><w><hi>Festival</hi></w></original>
     <corrected><w>haldin</w><w>Banff</w><w>Mountain</w><w>Film</w><w>Festival</w></corrected>
       <errors>
         <error xtype="missing-word" idx="26-1" eid="0" />

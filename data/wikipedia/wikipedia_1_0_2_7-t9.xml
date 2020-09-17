@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_7-t9.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Jérôme</w>
@@ -360,9 +372,9 @@
   <w>Vísindaakademíu</w>
   <w>Páfagarðs</w>
   <c>(</c>
-  <w><i>Pontificia</i></w>
-  <w><i>Academia</i></w>
-  <w><i>Scientiarum</i></w>
+  <w><hi>Pontificia</hi></w>
+  <w><hi>Academia</hi></w>
+  <w><hi>Scientiarum</hi></w>
   <c>)</c>
 </s><s n="12">
   <w>Til</w>

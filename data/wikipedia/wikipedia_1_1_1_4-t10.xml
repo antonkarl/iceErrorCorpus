@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_4-t10.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Þær</w>
@@ -51,8 +63,8 @@
   <w>Suðrænn</w>
   <w>baulfiskur</w>
   <c>(</c>
-  <w><i>Argyrosomus</i></w>
-  <w><i>hololepidotus</i></w>
+  <w><hi>Argyrosomus</hi></w>
+  <w><hi>hololepidotus</hi></w>
   <c>)</c>
   <w>er</w>
   <w>fisktegund</w>
@@ -292,7 +304,7 @@
   <c>,</c>
   <revision id="18">
     <original><w>Madagaskar</w><w>meagre</w><c>.</c><w>Hann</w><w>finnst</w></original>
-    <corrected><w><i>Madagaskar</i></w><w><i>meagre</i></w><c>,</c><w>en</w><w>finnst</w></corrected>
+    <corrected><w><hi>Madagaskar</hi></w><w><hi>meagre</hi></w><c>,</c><w>en</w><w>finnst</w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
         <error xtype="period4comma" eid="0"/>
@@ -321,7 +333,7 @@
 </s><s n="14">
   <revision id="20">
     <original><w>Southern</w><w>Meagre</w></original>
-    <corrected><w><i>Southern</i></w><w><i>Meagre</i></w></corrected>
+    <corrected><w><hi>Southern</hi></w><w><hi>Meagre</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -398,7 +410,7 @@
 </s><s n="16">
   <revision id="25">
     <original><w>Southern</w><w>meagre</w></original>
-    <corrected><w><i>Southern</i></w><w><i>meagre</i></w></corrected>
+    <corrected><w><hi>Southern</hi></w><w><hi>meagre</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

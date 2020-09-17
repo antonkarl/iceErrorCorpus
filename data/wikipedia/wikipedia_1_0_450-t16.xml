@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_450-t16.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Lockerbie</w>
@@ -64,7 +76,7 @@
   <w>fyrstu</w>
   <w>plötu</w>
   <c>,</c>
-  <w><i>Ólgusjó</i></w>
+  <w><hi>Ólgusjó</hi></w>
   <w>7. júní 2011</w>
   <c>.</c>
 </s>

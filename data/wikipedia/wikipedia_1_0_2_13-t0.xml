@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_13-t0.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Það</w>
@@ -46,7 +58,7 @@
   <c>.</c>
 </s><s n="2">
   <revision id="3">
-    <original><w><i>Það</i></w><w><i>er</i></w><w><i>ljósbrúnt</i></w><w><i>eða</i></w><w><i>gulleitt</i></w><c>,</c><w><i>og</i></w><w><i>eta</i></w><w><i>fátæklingar</i></w><w><i>það</i></w><w><i>í</i></w><w><i>hallærum</i></w><c>.</c></original>
+    <original><w><hi>Það</hi></w><w><hi>er</hi></w><w><hi>ljósbrúnt</hi></w><w><hi>eða</hi></w><w><hi>gulleitt</hi></w><c>,</c><w><hi>og</hi></w><w><hi>eta</hi></w><w><hi>fátæklingar</hi></w><w><hi>það</hi></w><w><hi>í</hi></w><w><hi>hallærum</hi></w><c>.</c></original>
     <corrected/>
     <errors>
         <error xtype="extra-words" eid="0"/>
@@ -96,8 +108,8 @@
   <w>dæmi</w>
   <w>steinskúfurinn</w>
   <c>(</c>
-  <w><i>Cladophora</i></w>
-  <w><i>rupestris</i></w>
+  <w><hi>Cladophora</hi></w>
+  <w><hi>rupestris</hi></w>
   <c>)</c>
   <c>.</c>
 </s><s n="5">
@@ -164,8 +176,8 @@
   <w>og</w>
   <w>þangdoppur</w>
   <c>(</c>
-  <w><i>Littorina</i></w>
-  <w><i>obtusata</i></w>
+  <w><hi>Littorina</hi></w>
+  <w><hi>obtusata</hi></w>
   <c>)</c>
   <w>og</w>
   <w>flær</w>
@@ -173,8 +185,8 @@
   <w>og</w>
   <w>þangflóin</w>
   <c>(</c>
-  <w><i>Hyale</i></w>
-  <w><i>nilssoni</i></w>
+  <w><hi>Hyale</hi></w>
+  <w><hi>nilssoni</hi></w>
   <c>)</c>
   <c>.</c>
 </s><s n="8">
@@ -348,7 +360,7 @@
   <c>.</c>
 </s><s n="12">
   <revision id="20">
-    <original><w><i>Í</i></w><w><i>hann</i></w><w><i>er</i></w><w><i>látið</i></w><w><i>lítið</i></w><w><i>eitt</i></w><w><i>af</i></w><w><i>méli</i></w><c>,</c><w><i>ef</i></w><w><i>til</i></w><w><i>er</i></w><c>.</c><c>“</c></original>
+    <original><w><hi>Í</hi></w><w><hi>hann</hi></w><w><hi>er</hi></w><w><hi>látið</hi></w><w><hi>lítið</hi></w><w><hi>eitt</hi></w><w><hi>af</hi></w><w><hi>méli</hi></w><c>,</c><w><hi>ef</hi></w><w><hi>til</hi></w><w><hi>er</hi></w><c>.</c><c>“</c></original>
     <corrected/>
     <errors>
         <error xtype="extra-words" eid="0"/>
@@ -361,8 +373,8 @@
   <w>og</w>
   <w>bóluþang</w>
   <c>(</c>
-  <w><i>F.</i></w>
-  <w><i>vesiculosus</i></w>
+  <w><hi>F.</hi></w>
+  <w><hi>vesiculosus</hi></w>
   <c>)</c>
   <w>tekur</w>
   <w>sér</w>
@@ -388,8 +400,8 @@
   <w>við</w>
   <w>þangskegg</w>
   <c>(</c>
-  <w><i>Polysiphonia</i></w>
-  <w><i>lanosa</i></w>
+  <w><hi>Polysiphonia</hi></w>
+  <w><hi>lanosa</hi></w>
   <c>)</c>
   <c>,</c>
   <w>allstóran</w>
@@ -457,8 +469,8 @@
   <c>(</c>
   <w>fræðiheiti</w>
   <c>:</c>
-  <w><i>Ascophyllum</i></w>
-  <w><i>nodosum</i></w>
+  <w><hi>Ascophyllum</hi></w>
+  <w><hi>nodosum</hi></w>
   <c>)</c>
   <w>er</w>
   <w>stór</w>
@@ -466,7 +478,7 @@
   <w>af</w>
   <w>þangætt</w>
   <c>(</c>
-  <w><i>Fucaceae</i></w>
+  <w><hi>Fucaceae</hi></w>
   <c>)</c>
   <w>og</w>
   <w>er</w>
@@ -474,7 +486,7 @@
   <w>tegundin</w>
   <w>í</w>
   <w>ættkvíslinni</w>
-  <w><i>Ascophyllum</i></w>
+  <w><hi>Ascophyllum</hi></w>
   <c>.</c>
 </s><s n="17">
   <w>Svo</w>
@@ -656,7 +668,7 @@
   <c>.</c>
 </s><s n="22">
   <revision id="29">
-    <original><w><i>Þá</i></w><w><i>er</i></w><w><i>það</i></w><w><i>saxað</i></w><w><i>niður</i></w><w><i>og</i></w><w><i>soðin</i></w><w><i>úr</i></w><w><i>því</i></w><w><i>grautur</i></w><w><i>í</i></w><w><i>vatni</i></w><w><i>og</i></w><w><i>brotinni</i></w><w><i>sýru</i></w><c>.</c></original>
+    <original><w><hi>Þá</hi></w><w><hi>er</hi></w><w><hi>það</hi></w><w><hi>saxað</hi></w><w><hi>niður</hi></w><w><hi>og</hi></w><w><hi>soðin</hi></w><w><hi>úr</hi></w><w><hi>því</hi></w><w><hi>grautur</hi></w><w><hi>í</hi></w><w><hi>vatni</hi></w><w><hi>og</hi></w><w><hi>brotinni</hi></w><w><hi>sýru</hi></w><c>.</c></original>
     <corrected/>
     <errors>
         <error xtype="extra-words" eid="0"/>
@@ -800,7 +812,7 @@
   <c>.</c>
 </s><s n="27">
   <revision id="36">
-    <original><w><i>Afbrigði</i></w><w><i>af</i></w><w><i>því</i></w><w><i>fannst</i></w><w><i/></w></original>
+    <original><w><hi>Afbrigði</hi></w><w><hi>af</hi></w><w><hi>því</hi></w><w><hi>fannst</hi></w><w><i/></w></original>
     <corrected><w>Afbrigði</w><w>af</w><w>því</w><w>fannst</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -822,20 +834,20 @@
   <c>:</c>
   <c>„</c>
   <revision id="37">
-    <original><w><i>Þykkaþang</i></w><w><i>og</i></w><w><i>ætiþang</i></w><w><i>er</i></w></original>
+    <original><w><hi>Þykkaþang</hi></w><w><hi>og</hi></w><w><hi>ætiþang</hi></w><w><hi>er</hi></w></original>
     <corrected><w>Þykkaþang</w><w>og</w><w>ætiþang</w><w>er</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
       </errors>
   </revision>
-  <w><i>Funcus</i></w>
-  <w><i>dichotomus</i></w>
+  <w><hi>Funcus</hi></w>
+  <w><hi>dichotomus</hi></w>
   <c>,</c>
-  <w><i>caule</i></w>
-  <w><i>et</i></w>
-  <w><i>vesiculis</i></w>
-  <w><i>coriacis</i></w>
-  <w><i>crassissimis</i></w>
+  <w><hi>caule</hi></w>
+  <w><hi>et</hi></w>
+  <w><hi>vesiculis</hi></w>
+  <w><hi>coriacis</hi></w>
+  <w><hi>crassissimis</hi></w>
   <c>[</c>
   <w>klóþang</w>
   <c>]</c>

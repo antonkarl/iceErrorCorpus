@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_125-t17.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <revision id="1">
@@ -82,11 +94,11 @@
   </revision>
   <w>í</w>
   <w>bókinni</w>
-  <w><i>The</i></w>
-  <w><i>Perspective</i></w>
-  <w><i>of</i></w>
-  <w><i>the</i></w>
-  <w><i>World</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Perspective</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>World</hi></w>
   <revision id="5">
     <original><c>)</c></original>
     <corrected><c>,</c></corrected>

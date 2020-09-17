@@ -1,13 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_3-t5.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Þeirra</w>
   <w>frumraun</w>
   <w>var</w>
   <w>lagið</w>
-  <w><i>Wannabe</i></w>
+  <w><hi>Wannabe</hi></w>
   <w>sem</w>
   <w>kom</w>
   <w>út</w>
@@ -513,7 +525,7 @@
   <w>vinsælustu</w>
   <w>plötu</w>
   <w>sveitarinnar</w>
-  <w><i>Spice</i></w>
+  <w><hi>Spice</hi></w>
   <w>sem</w>
   <w>seldist</w>
   <w>í</w>
@@ -629,7 +641,7 @@
   <w>eða</w>
   <revision id="29">
     <original><w>bubblegum-pop</w></original>
-    <corrected><w><i>bubblegum-pop</i></w></corrected>
+    <corrected><w><hi>bubblegum-pop</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -750,7 +762,7 @@
   <c>(</c>
   <revision id="37">
     <original><w>Baby</w><w>spice</w></original>
-    <corrected><w><i>Baby</i></w><w><i>spice</i></w></corrected>
+    <corrected><w><hi>Baby</hi></w><w><hi>spice</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -762,7 +774,7 @@
   <c>(</c>
   <revision id="38">
     <original><w>Ginger</w><w>spice</w></original>
-    <corrected><w><i>Ginger</i></w><w><i>spice</i></w></corrected>
+    <corrected><w><hi>Ginger</hi></w><w><hi>spice</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -774,7 +786,7 @@
   <c>(</c>
   <revision id="39">
     <original><w>Scary</w><w>spice</w></original>
-    <corrected><w><i>Scary</i></w><w><i>spice</i></w></corrected>
+    <corrected><w><hi>Scary</hi></w><w><hi>spice</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -786,7 +798,7 @@
   <c>(</c>
   <revision id="40">
     <original><w>Sporty</w><w>spice</w></original>
-    <corrected><w><i>Sporty</i></w><w><i>spice</i></w></corrected>
+    <corrected><w><hi>Sporty</hi></w><w><hi>spice</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -798,7 +810,7 @@
   <c>(</c>
   <revision id="41">
     <original><w>Posh</w><w>spice</w></original>
-    <corrected><w><i>Posh</i></w><w><i>spice</i></w></corrected>
+    <corrected><w><hi>Posh</hi></w><w><hi>spice</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -883,8 +895,8 @@
   <w>lag</w>
   <w>er</w>
   <w>líklegast</w>
-  <w><i>Mr.</i></w>
-  <w><i>Sandman</i></w>
+  <w><hi>Mr.</hi></w>
+  <w><hi>Sandman</hi></w>
   <c>.</c>
 </s><s n="41">
   <w>Mörg</w>
@@ -1373,7 +1385,7 @@
   <w>fatalínuna</w>
   <revision id="68">
     <original><w>VB</w><w>jeans</w></original>
-    <corrected><w><i>VB</i></w><w><i>jeans</i></w></corrected>
+    <corrected><w><hi>VB</hi></w><w><hi>jeans</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -1398,7 +1410,7 @@
   <w>nafninu</w>
   <revision id="70">
     <original><w>Intimately</w><w>Beckham</w></original>
-    <corrected><w><i>Intimately</i></w><w><i>Beckham</i></w></corrected>
+    <corrected><w><hi>Intimately</hi></w><w><hi>Beckham</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_13-t5.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Í</w>
@@ -125,7 +137,7 @@
   <w>einnig</w>
   <w>kallað</w>
   <revision id="7">
-    <original><w><i>hjónagras</i></w></original>
+    <original><w><hi>hjónagras</hi></w></original>
     <corrected><w>hjónagras</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -133,7 +145,7 @@
   </revision>
   <c>,</c>
   <revision id="8">
-    <original><w><i>hjónarót</i></w></original>
+    <original><w><hi>hjónarót</hi></w></original>
     <corrected><w>hjónarót</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -141,7 +153,7 @@
   </revision>
   <c>,</c>
   <revision id="9">
-    <original><w><i>elskugras</i></w></original>
+    <original><w><hi>elskugras</hi></w></original>
     <corrected><w>elskugras</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -149,7 +161,7 @@
   </revision>
   <c>,</c>
   <revision id="10">
-    <original><w><i>Friggjargras</i></w></original>
+    <original><w><hi>Friggjargras</hi></w></original>
     <corrected><w>friggjargras</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -157,7 +169,7 @@
   </revision>
   <c>,</c>
   <revision id="11">
-    <original><w><i>graðrót</i></w></original>
+    <original><w><hi>graðrót</hi></w></original>
     <corrected><w>graðrót</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -165,7 +177,7 @@
   </revision>
   <w>og</w>
   <revision id="12">
-    <original><w><i>vinagras</i></w></original>
+    <original><w><hi>vinagras</hi></w></original>
     <corrected><w>vinagras</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -221,8 +233,8 @@
         <error xtype="missing-colon" eid="0"/>
       </errors>
   </revision>
-  <w><i>Dactylorhiza</i></w>
-  <w><i>maculata</i></w>
+  <w><hi>Dactylorhiza</hi></w>
+  <w><hi>maculata</hi></w>
   <c>)</c>
   <w>er</w>
   <w>ein</w>

@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_8-t3.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Hjalti</w>
@@ -278,7 +290,7 @@
   <w>vel</w>
   <w>en</w>
   <revision id="6">
-    <original><w><i>en</i></w><w><i>svá</i></w><w><i>mikil</i></w><w><i>ógn</i></w><w><i>fylgði</i></w><w><i>orðum</i></w><w><i>þeira</i></w></original>
+    <original><w><hi>en</hi></w><w><hi>svá</hi></w><w><hi>mikil</hi></w><w><hi>ógn</hi></w><w><hi>fylgði</hi></w><w><hi>orðum</hi></w><w><hi>þeira</hi></w></original>
     <corrected><c>„</c><w>en</w><w>svo</w><w>mikil</w><w>ógn</w><w>fylgdi</w><w>orðum</w><w>þeirra</w></corrected>
       <errors>
         <error xtype="missing-quots" idx="6-1" eid="0" />
@@ -293,7 +305,7 @@
   </revision>
   <c>,</c>
   <revision id="7">
-    <original><w><i>at</i></w><w><i>engir</i></w><w><i>óvinir</i></w><w><i>þeira</i></w><w><i>þorðu</i></w><w><i>at</i></w><w><i>tala</i></w><w><i>móti</i></w><w><i>þeim</i></w></original>
+    <original><w><hi>at</hi></w><w><hi>engir</hi></w><w><hi>óvinir</hi></w><w><hi>þeira</hi></w><w><hi>þorðu</hi></w><w><hi>at</hi></w><w><hi>tala</hi></w><w><hi>móti</hi></w><w><hi>þeim</hi></w></original>
     <corrected><w>að</w><w>engir</w><w>óvinir</w><w>þeirra</w><w>þorðu</w><w>að</w><w>tala</w><w>móti</w><w>þeim</w></corrected>
       <errors>
         <error xtype="it4nonit" idx="7-1" eid="0" />

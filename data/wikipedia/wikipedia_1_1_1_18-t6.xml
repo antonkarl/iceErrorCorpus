@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_18-t6.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Platína</w>
@@ -704,7 +716,7 @@
   <w>Spánverjar</w>
   <w>kölluðu</w>
   <w>málminn</w>
-  <w><i>platina</i></w>
+  <w><hi>platina</hi></w>
   <c>,</c>
   <w>eða</w>
   <c>„</c>
@@ -769,9 +781,9 @@
   <w>Ulloa</w>
   <w>sá</w>
   <w>þar</w>
-  <w><i>platina</i></w>
-  <w><i>del</i></w>
-  <w><i>pinto</i></w>
+  <w><hi>platina</hi></w>
+  <w><hi>del</hi></w>
+  <w><hi>pinto</hi></w>
   <c>,</c>
   <w>sem</w>
   <w>var</w>
@@ -834,7 +846,7 @@
   <w>af</w>
   <w>spænska</w>
   <w>orðinu</w>
-  <w><i>platina</i></w>
+  <w><hi>platina</hi></w>
   <w>sem</w>
   <w>þýðir</w>
   <c>„</c>

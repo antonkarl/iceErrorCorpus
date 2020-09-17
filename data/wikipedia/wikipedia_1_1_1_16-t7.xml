@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_16-t7.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <revision id="1">
@@ -403,8 +415,8 @@
   <c>(</c>
   <w>fræðiheiti</w>
   <c>:</c>
-  <w><i>Panthera</i></w>
-  <w><i>onca</i></w>
+  <w><hi>Panthera</hi></w>
+  <w><hi>onca</hi></w>
   <c>)</c>
   <w>er</w>
   <w>ein</w>
@@ -423,8 +435,8 @@
   <w>stórkatta</w>
   <c>(</c>
   <revision id="17">
-    <original><w><i>panthera</i></w></original>
-    <corrected><w><i>Panthera</i></w></corrected>
+    <original><w><hi>panthera</hi></w></original>
+    <corrected><w><hi>Panthera</hi></w></corrected>
       <errors>
         <error xtype="lower4upper-proper" eid="0"/>
       </errors>

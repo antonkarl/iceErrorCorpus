@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_1-t0.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Emiliano</w>
@@ -48,10 +60,10 @@
   <c>(</c>
   <w>spænska</w>
   <c>:</c>
-  <w><i>Ejército</i></w>
-  <w><i>Libertador</i></w>
-  <w><i>del</i></w>
-  <w><i>Sur</i></w>
+  <w><hi>Ejército</hi></w>
+  <w><hi>Libertador</hi></w>
+  <w><hi>del</hi></w>
+  <w><hi>Sur</hi></w>
   <c>)</c>
   <w>í</w>
   <w>mexíkósku</w>

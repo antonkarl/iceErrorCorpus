@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_125-t18.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Miðjarðarhafið</w>
@@ -53,7 +65,7 @@
   <w>nefndu</w>
   <w>Miðjarðarhafið</w>
   <revision id="1">
-    <original><w><i>Hafið</i></w><w><i>mikla</i></w></original>
+    <original><w><hi>Hafið</hi></w><w><hi>mikla</hi></w></original>
     <corrected><c>„</c><w>Hafið</w><w>mikla</w><c>“</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="1-1" eid="0" />
@@ -76,7 +88,7 @@
 <s n="5">
   <w>Nafnið</w>
   <revision id="2">
-    <original><w><i>Miðjarðarhaf</i></w></original>
+    <original><w><hi>Miðjarðarhaf</hi></w></original>
     <corrected><w>Miðjarðarhaf</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -91,7 +103,7 @@
         <error xtype="wording" eid="0" />
       </errors>
   </revision>
-  <w><i>mediterraneus</i></w>
+  <w><hi>mediterraneus</hi></w>
   <revision id="4">
     <original><c>(</c></original>
     <corrected><c>,</c><w>þar</w><w>sem</w></corrected>
@@ -100,7 +112,7 @@
         <error xtype="missing-words" eid="0" />
       </errors>
   </revision>
-  <w><i>medius</i></w>
+  <w><hi>medius</hi></w>
   <revision id="5">
     <original><c>,</c></original>
     <corrected><w>þýðir</w></corrected>
@@ -117,7 +129,7 @@
         <error xtype="symbol4word" eid="0" />
       </errors>
   </revision>
-  <w><i>terra</i></w>
+  <w><hi>terra</hi></w>
   <revision id="7">
     <original><c>,</c></original>
     <corrected><w>þýðir</w></corrected>
@@ -140,8 +152,8 @@
   <w>Rómverjar</w>
   <w>kölluðu</w>
   <w>það</w>
-  <w><i>Mare</i></w>
-  <w><i>Nostrum</i></w>
+  <w><hi>Mare</hi></w>
+  <w><hi>Nostrum</hi></w>
   <revision id="9">
     <original><c>(</c></original>
     <corrected><w>eða</w></corrected>

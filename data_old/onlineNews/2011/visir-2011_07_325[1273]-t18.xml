@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Siðanefnd</w>
+  <w>FIFA</w>
+  <w>mun</w>
+  <w>hittast</w>
+  <revision id="1">
+    <original><w>22</w></original>
+    <corrected><w>22.</w></corrected>
+      <errors>
+        <error xtype="missing-period" eid="0" />
+      </errors>
+  </revision>
+  <c>-</c>
+  <w>23. júlí</w>
+  <w>og</w>
+  <w>ákvarða</w>
+  <w>örlög</w>
+  <w>Mohammed</w>
+  <w>Bin</w>
+  <w>Hammam</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Hann</w>
+  <w>er</w>
+  <w>sakaður</w>
+  <w>um</w>
+  <w>að</w>
+  <w>hafa</w>
+  <w>borið</w>
+  <revision id="2">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-commas" idx="2-1" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>reynt</w>
+  <w>að</w>
+  <w>bera</w>
+  <revision id="3">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="dep" depId="2-1" eid="0" />
+      </errors>
+  </revision>
+  <w>fé</w>
+  <w>á</w>
+  <w>hendur</w>
+  <w>formanna</w>
+  <w>knattspyrnusambanda</w>
+  <w>í</w>
+  <w>karabíska</w>
+  <w>hafinu</w>
+  <w>á</w>
+  <w>fundi</w>
+  <w>í</w>
+  <w>Trínidad</w>
+  <w>í</w>
+  <revision id="4">
+    <original><w>upphafi</w></original>
+    <corrected><w>byrjun</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>maí</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Bin</w>
+  <w>Hammam</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>er</w>
+  <w>frá</w>
+  <w>Katar</w>
+  <c>,</c>
+  <w>dró</w>
+  <w>framboð</w>
+  <w>sitt</w>
+  <w>til</w>
+  <w>forseta</w>
+  <w>FIFA</w>
+  <revision id="5">
+    <original><w>tilbaka</w></original>
+    <corrected><w>til</w><w>baka</w></corrected>
+      <errors>
+        <error xtype="merged-word" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>síðustu</w>
+  <w>stundu</w>
+  <w>þegar</w>
+  <w>fjölmiðlar</w>
+  <w>komust</w>
+  <w>á</w>
+  <w>snoðir</w>
+  <w>um</w>
+  <w>mútugreiðslurnar</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <revision id="6">
+    <original><w>Hann</w></original>
+    <corrected><w>Síðan</w><w>þá</w></corrected>
+      <errors>
+        <error xtype="wording" idx="6-1" eid="0" />
+      </errors>
+  </revision>
+  <w>hefur</w>
+  <revision id="7">
+    <original><w>síðan</w></original>
+    <corrected><w>hann</w></corrected>
+      <errors>
+        <error xtype="dep" depId="6-1" eid="0" />
+      </errors>
+  </revision>
+  <w>verið</w>
+  <w>í</w>
+  <w>tímabundnu</w>
+  <w>banni</w>
+  <w>frá</w>
+  <w>afskiptum</w>
+  <w>af</w>
+  <w>knattspyrnu</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Fundur</w>
+  <w>siðanefndarinnar</w>
+  <w>fer</w>
+  <w>fram</w>
+  <w>í</w>
+  <w>Zurich</w>
+  <w>í</w>
+  <w>Sviss</w>
+  <w>og</w>
+  <w>þar</w>
+  <w>þarf</w>
+  <w>Bin</w>
+  <w>Hammam</w>
+  <w>að</w>
+  <w>standa</w>
+  <w>fyrir</w>
+  <w>máli</w>
+  <w>sínu</w>
+  <w>ásamt</w>
+  <w>Debbie</w>
+  <w>Minguell</w>
+  <w>og</w>
+  <w>Jason</w>
+  <w>Sylvester</w>
+  <w>starfsmönnum</w>
+  <w>karabíska</w>
+  <w>knattspyrnusambandsins</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Þau</w>
+  <w>eru</w>
+  <w>sökuð</w>
+  <w>um</w>
+  <w>brot</w>
+  <w>á</w>
+  <w>siðareglum</w>
+  <w>FIFA</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

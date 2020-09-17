@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Sundmaðurinn</w>
+  <w>Örn</w>
+  <w>Arnarson</w>
+  <c>,</c>
+  <w>ein</w>
+  <w>helsta</w>
+  <w>von</w>
+  <w>Íslands</w>
+  <w>á</w>
+  <w>komandi</w>
+  <w>ólympíuleikum</w>
+  <w>í</w>
+  <w>Aþenu</w>
+  <c>,</c>
+  <w>hefur</w>
+  <w>undanfarið</w>
+  <w>skemmt</w>
+  <w>sér</w>
+  <w>í</w>
+  <w>Dublin</w>
+  <w>og</w>
+  <w>farið</w>
+  <w>á</w>
+  <w>Metallica-tónleika</w>
+  <w>í</w>
+  <w>stað</w>
+  <w>þess</w>
+  <w>að</w>
+  <w>æfa</w>
+  <w>sig</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Fyrir</w>
+  <w>ólympíuleikana</w>
+  <w>í</w>
+  <w>Sydney</w>
+  <w>árið 2000</w>
+  <c>,</c>
+  <w>þegar</w>
+  <w>Örn</w>
+  <w>náði</w>
+  <w>besta</w>
+  <w>árangri</w>
+  <revision id="1">
+    <original><w>íslenskra</w><w>sundmanna</w></original>
+    <corrected><w>íslensks</w><w>sundfólks</w></corrected>
+      <errors>
+        <error xtype="gendered" idx="1-1" eid="0" />
+        <error xtype="dep" depId="1-1" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>hafði</w>
+  <w>hann</w>
+  <w>æft</w>
+  <w>þrotlaust</w>
+  <w>mánuðum</w>
+  <w>saman</w>
+  <w>eftir</w>
+  <w>stífri</w>
+  <w>áætlun</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Nú</w>
+  <w>er</w>
+  <w>annað</w>
+  <w>uppi</w>
+  <w>á</w>
+  <w>teningnum</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Í</w>
+  <w>nýju</w>
+  <w>DV</w>
+  <w>í</w>
+  <w>dag</w>
+  <w>er</w>
+  <w>Örn</w>
+  <w>spurður</w>
+  <w>út</w>
+  <w>í</w>
+  <w>bæjarferðir</w>
+  <w>sínar</w>
+  <w>og</w>
+  <w>hvers</w>
+  <w>vegna</w>
+  <w>hann</w>
+  <w>er</w>
+  <w>ekki</w>
+  <w>að</w>
+  <w>æfa</w>
+  <revision id="2">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>en</w>
+  <w>hann</w>
+  <w>hefur</w>
+  <w>fengið</w>
+  <w>um</w>
+  <w>10</w>
+  <w>milljónir</w>
+  <w>frá</w>
+  <w>styrktarsjóðum</w>
+  <w>fyrir</w>
+  <w>að</w>
+  <w>æfa</w>
+  <w>sund</w>
+  <w>síðustu</w>
+  <w>árin</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <revision id="3">
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
+  <w>Þetta</w>
+  <w>átti</w>
+  <w>alltaf</w>
+  <w>að</w>
+  <w>vera</w>
+  <w>toppmótið</w>
+  <c>,</c>
+  <revision id="4">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
+  <w>segir</w>
+  <w>Örn</w>
+  <w>meðal</w>
+  <w>annars</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

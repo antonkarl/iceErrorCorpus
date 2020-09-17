@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_6-t2.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Fyrst</w>
@@ -12,18 +24,18 @@
   <w>köfunarbúnaðinn</w>
   <c>.</c>
 </s><s n="2">
-  <w><i>Svamlað</i></w>
-  <w><i>í</i></w>
-  <w><i>söltum</i></w>
-  <w><i>sjó</i></w>
+  <w><hi>Svamlað</hi></w>
+  <w><hi>í</hi></w>
+  <w><hi>söltum</hi></w>
+  <w><hi>sjó</hi></w>
   <c>(</c>
   <w>franska</w>
   <c>:</c>
-  <w><i>Le</i></w>
-  <w><i>repaire</i></w>
-  <w><i>de</i></w>
-  <w><i>la</i></w>
-  <w><i>murène</i></w>
+  <w><hi>Le</hi></w>
+  <w><hi>repaire</hi></w>
+  <w><hi>de</hi></w>
+  <w><hi>la</hi></w>
+  <w><hi>murène</hi></w>
   <c>)</c>
   <w>eftir</w>
   <w>höfundinn</w>
@@ -104,7 +116,7 @@
 </s><s n="7">
   <revision id="1">
     <original><w>Svamlað</w><w>í</w><w>söltum</w><w>sjó</w></original>
-    <corrected><w><i>Svamlað</i></w><w><i>í</i></w><w><i>söltum</i></w><w><i>sjó</i></w></corrected>
+    <corrected><w><hi>Svamlað</hi></w><w><hi>í</hi></w><w><hi>söltum</hi></w><w><hi>sjó</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -265,7 +277,7 @@
   <w>skipstjórinn</w>
   <c>,</c>
   <revision id="4">
-    <original><w><i>Jón</i></w><w><i>Harkan</i></w></original>
+    <original><w><hi>Jón</hi></w><w><hi>Harkan</hi></w></original>
     <corrected><w>Jón</w><w>Harkan</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -275,7 +287,7 @@
   <w>franska</w>
   <c>:</c>
   <revision id="5">
-    <original><w><i>John</i></w><w><i>Helena</i></w></original>
+    <original><w><hi>John</hi></w><w><hi>Helena</hi></w></original>
     <corrected><w>John</w><w>Helena</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -286,7 +298,7 @@
   <w>sem</w>
   <w>kallar</w>
   <w>sig</w>
-  <w><i>Múrenuna</i></w>
+  <w><hi>Múrenuna</hi></w>
   <revision id="6">
     <original/>
     <corrected><c>,</c></corrected>

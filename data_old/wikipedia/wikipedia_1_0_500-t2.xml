@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader/>
+<text><body><p n="1">
+<s n="1">
+  <w>Mike</w>
+  <w>Myers</w>
+  <c>,</c>
+  <w>Eddie</w>
+  <w>Murphy</w>
+  <c>,</c>
+  <w>Cameron</w>
+  <w>Diaz</w>
+  <w>og</w>
+  <w>Antonio</w>
+  <w>Banderas</w>
+  <w>fara</w>
+  <w>með</w>
+  <w>aðalhlutverk</w>
+  <w>í</w>
+  <w>myndinni</w>
+  <w>sem</w>
+  <w>er</w>
+  <w>sú</w>
+  <w>fjórða</w>
+  <w>og</w>
+  <w>síðasta</w>
+  <w>af</w>
+  <revision id="1">
+    <original><w>Shrek</w></original>
+    <corrected><w><i>Shrek</i></w></corrected>
+      <errors>
+        <error xtype="nonit4it" eid="0"/>
+      </errors>
+  </revision>
+  <w>myndunum</w>
+  <c>.</c>
+</s><s n="2">
+  <w>Í</w>
+  <w>staðinn</w>
+  <w>verður</w>
+  <w>Shrek</w>
+  <w>sendur</w>
+  <w>í</w>
+  <w>brenglaða</w>
+  <w>útgáfu</w>
+  <w>af</w>
+  <w>heiminum</w>
+  <w>þar</w>
+  <w>sem</w>
+  <revision id="2">
+    <original><w>Rumpelstiltskin</w></original>
+    <corrected><w>Rumputuski</w></corrected>
+      <errors>
+        <error xtype="fw4ice" eid="0"/>
+      </errors>
+  </revision>
+  <w>er</w>
+  <w>orðinn</w>
+  <w>kóngur</w>
+  <revision id="3">
+    <original><c>,</c><w>reynt</w><w>er</w></original>
+    <corrected><w>og</w><w>reynir</w></corrected>
+      <errors>
+        <error xtype="comma4conjunction" idx="8-1" eid="0"/>
+        <error xtype="wording" idx="8-2" eid="0"/>
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>útrýma</w>
+  <w>tröllum</w>
+  <c>,</c>
+  <w>Asni</w>
+  <w>kannast</w>
+  <w>ekkert</w>
+  <w>við</w>
+  <w>Shrek</w>
+  <w>og</w>
+  <w>stígvélaði</w>
+  <w>kötturinn</w>
+  <w>er</w>
+  <w>orðinn</w>
+  <w>feitur</w>
+  <c>.</c>
+</s><s n="3">
+  <w>Hinn</w>
+  <w>tungulipri</w>
+  <revision id="4">
+    <original><w>Rumpelstiltskin</w></original>
+    <corrected><w>Rumputuski</w></corrected>
+      <errors>
+        <error xtype="fw4ice" eid="0"/>
+      </errors>
+  </revision>
+  <w>kemst</w>
+  <w>að</w>
+  <w>þessu</w>
+  <w>og</w>
+  <revision id="5">
+    <original><w>blekkir</w></original>
+    <corrected><w>narrar</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
+  <w>Shrek</w>
+  <w>til</w>
+  <w>að</w>
+  <w>skrifa</w>
+  <w>undir</w>
+  <w>samning</w>
+  <w>þar</w>
+  <w>sem</w>
+  <w>Shrek</w>
+  <w>heldur</w>
+  <w>að</w>
+  <w>hann</w>
+  <revision id="6">
+    <original><w>sé</w><w>að</w><w>fá</w></original>
+    <corrected><w>fái</w></corrected>
+      <errors>
+        <error xtype="cont4simple" eid="0"/>
+      </errors>
+  </revision>
+  <w>einn</w>
+  <w>dag</w>
+  <w>til</w>
+  <w>að</w>
+  <w>upplifa</w>
+  <w>gamla</w>
+  <w>lífið</w>
+  <w>sitt</w>
+  <w>aftur</w>
+  <w>og</w>
+  <w>slaka</w>
+  <w>á</w>
+  <c>.</c>
+</s><s n="4">
+  <w>Í</w>
+  <w>fjórðu</w>
+  <w>myndinni</w>
+  <w>er</w>
+  <w>Shrek</w>
+  <w>orðinn</w>
+  <w>rólegur</w>
+  <w>fjölskyldufaðir</w>
+  <w>sem</w>
+  <w>saknar</w>
+  <revision id="7">
+    <original><w>gamla</w><w>lífsins</w></original>
+    <corrected><w>gömlu</w><w>daganna</w><c>,</c></corrected>
+      <errors>
+        <error xtype="wording" idx="3-1" eid="0"/>
+        <error xtype="missing-comma" idx="3-2" eid="0"/>
+      </errors>
+  </revision>
+  <w>þegar</w>
+  <w>hann</w>
+  <w>hræddi</w>
+  <w>líftóruna</w>
+  <w>úr</w>
+  <w>þorpsbúunum</w>
+  <c>.</c>
+</s><s n="5">
+  <revision id="8">
+    <original><w>Shrek</w><c>:</c><w>Sæll</w><w>alla</w><w>daga</w></original>
+    <corrected><w><i>Shrek</i></w><c>:</c><w><i>Sæll</i></w><w><i>alla</i></w><w><i>daga</i></w></corrected>
+      <errors>
+        <error xtype="nonit4it" eid="0"/>
+      </errors>
+  </revision>
+  <w>er</w>
+  <w>bandarísk</w>
+  <w>teiknimynd</w>
+  <w>frá</w>
+  <w>árinu 2010</w>
+  <w>sem</w>
+  <w>Mike</w>
+  <w>Mitchell</w>
+  <w>leikstýrði</w>
+  <c>.</c>
+</s></p></body></text>
+</TEI>

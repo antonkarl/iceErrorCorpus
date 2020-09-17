@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_1-t8.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <c>(</c>
@@ -96,15 +108,15 @@
   <w>hlutverk</w>
   <w>í</w>
   <w>kvikmyndinni</w>
-  <w><i>Siglingin</i></w>
-  <w><i>mikla</i></w>
+  <w><hi>Siglingin</hi></w>
+  <w><hi>mikla</hi></w>
   <c>(</c>
-  <w><i>The</i></w>
-  <w><i>Whole</i></w>
-  <w><i>World</i></w>
-  <w><i>in</i></w>
-  <w><i>His</i></w>
-  <w><i>Arms</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Whole</hi></w>
+  <w><hi>World</hi></w>
+  <w><hi>in</hi></w>
+  <w><hi>His</hi></w>
+  <w><hi>Arms</hi></w>
   <c>)</c>
   <w>frá</w>
   <w>1952</w>
@@ -123,7 +135,7 @@
 </s><s n="7">
   <w>Franska</w>
   <w>heitið</w>
-  <w><i>goëlette</i></w>
+  <w><hi>goëlette</hi></w>
   <w>er</w>
   <w>líklega</w>
   <w>dregið</w>
@@ -184,8 +196,8 @@
   <w>þegar</w>
   <w>bandaríska</w>
   <w>skonnortan</w>
-  <w><i>St.</i></w>
-  <w><i>Ann</i></w>
+  <w><hi>St.</hi></w>
+  <w><hi>Ann</hi></w>
   <w>kom</w>
   <w>til</w>
   <w>Portsmouth</w>
@@ -232,7 +244,7 @@
   <c>.</c>
 </s><s n="13">
   <w>Heitið</w>
-  <w><i>schooner</i></w>
+  <w><hi>schooner</hi></w>
   <w>kemur</w>
   <w>fyrst</w>
   <w>fyrir</w>
@@ -315,7 +327,7 @@
   <w>fjórmastra</w>
   <w>skonnortan</w>
   <w>var</w>
-  <w><i>Victoria</i></w>
+  <w><hi>Victoria</hi></w>
   <w>sem</w>
   <w>var</w>
   <w>endursmíði</w>
@@ -335,15 +347,15 @@
   <w>fjórmastra</w>
   <w>skonnorta</w>
   <w>var</w>
-  <w><i>William</i></w>
+  <w><hi>William</hi></w>
   <revision id="5">
-    <original><w><i>L</i></w></original>
-    <corrected><w><i>L.</i></w></corrected>
+    <original><w><hi>L</hi></w></original>
+    <corrected><w><hi>L.</hi></w></corrected>
       <errors>
         <error xtype="missing-period" eid="0"/>
       </errors>
   </revision>
-  <w><i>White</i></w>
+  <w><hi>White</hi></w>
   <w>sem</w>
   <w>var</w>
   <w>sjósett</w>
@@ -409,9 +421,9 @@
   <w>var</w>
   <w>sjösiglda</w>
   <w>skonnortan</w>
-  <w><i>Thomas</i></w>
-  <w><i>W.</i></w>
-  <w><i>Lawson</i></w>
+  <w><hi>Thomas</hi></w>
+  <w><hi>W.</hi></w>
+  <w><hi>Lawson</hi></w>
   <w>smíðuð</w>
   <w>í</w>
   <w>Quincy</w>
@@ -445,7 +457,7 @@
   <w>úr</w>
   <w>ensku</w>
   <c>:</c>
-  <w><i>schooner</i></w>
+  <w><hi>schooner</hi></w>
   <c>;</c>
   <w>stundum</w>
   <w>líka</w>
@@ -453,7 +465,7 @@
   <w>úr</w>
   <w>frönsku</w>
   <c>:</c>
-  <w><i>goélette</i></w>
+  <w><hi>goélette</hi></w>
   <c>)</c>
   <w>er</w>
   <w>seglskip</w>
@@ -490,7 +502,7 @@
   <c>.</c>
 </s><s n="22">
   <w>Í</w>
-  <w><i>Gulleyju</i></w>
+  <w><hi>Gulleyju</hi></w>
   <w>Robert</w>
   <w>Louis</w>
   <w>Stevenson</w>
@@ -500,7 +512,7 @@
   <w>eyjarinnar</w>
   <w>á</w>
   <w>skonnortunni</w>
-  <w><i>Hispaniola</i></w>
+  <w><hi>Hispaniola</hi></w>
   <c>.</c>
 </s><s n="23">
   <w>Eftir</w>
@@ -522,7 +534,7 @@
   </revision>
   <w>HMS</w>
   <revision id="9">
-    <original><w><i>Royal</i></w><w><i>Transport</i></w></original>
+    <original><w><hi>Royal</hi></w><w><hi>Transport</hi></w></original>
     <corrected><w>Royal</w><w>Transport</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -586,11 +598,11 @@
   <w>á</w>
   <w>Íslandi</w>
   <c>,</c>
-  <w><i>Haukur</i></w>
+  <w><hi>Haukur</hi></w>
   <c>,</c>
-  <w><i>Hildur</i></w>
+  <w><hi>Hildur</hi></w>
   <w>og</w>
-  <w><i>Ópal</i></w>
+  <w><hi>Ópal</hi></w>
   <c>.</c>
 </s><s n="27">
   <w>Afbrigði</w>
@@ -664,7 +676,7 @@
   <w>sex</w>
   <w>mastra</w>
   <w>skipið</w>
-  <w><i>Wyoming</i></w>
+  <w><hi>Wyoming</hi></w>
   <w>sem</w>
   <w>var</w>
   <w>hleypt</w>
@@ -733,9 +745,9 @@
   <w>á</w>
   <w>skútuöld</w>
   <w>voru</w>
-  <w><i>Muninn</i></w>
+  <w><hi>Muninn</hi></w>
   <w>og</w>
-  <w><i>Huginn</i></w>
+  <w><hi>Huginn</hi></w>
   <w>Thors</w>
   <w>Jensens</w>
   <w>sem</w>
@@ -754,8 +766,8 @@
   <w>af</w>
   <w>skosku</w>
   <w>sögninni</w>
-  <w><i>to</i></w>
-  <w><i>scoon</i></w>
+  <w><hi>to</hi></w>
+  <w><hi>scoon</hi></w>
   <c>(</c>
   <c>„</c>
   <w>að</w>
@@ -795,7 +807,7 @@
   <w>Bram</w>
   <w>Stoker</w>
   <c>,</c>
-  <w><i>Drakúla</i></w>
+  <w><hi>Drakúla</hi></w>
   <c>,</c>
   <w>siglir</w>
   <w>greifinn</w>
@@ -803,7 +815,7 @@
   <w>Bretlands</w>
   <w>á</w>
   <w>skonnortunni</w>
-  <w><i>Demeter</i></w>
+  <w><hi>Demeter</hi></w>
   <c>.</c>
 </s><s n="37">
   <w>Með</w>
@@ -811,7 +823,7 @@
   <w>kappsiglingaskonnortum</w>
   <w>heims</w>
   <w>eru</w>
-  <w><i>America</i></w>
+  <w><hi>America</hi></w>
   <c>(</c>
   <w>smíðuð</w>
   <w>1851</w>
@@ -822,7 +834,7 @@
   <w>kenndur</w>
   <w>við</w>
   <w>og</w>
-  <w><i>Atlantic</i></w>
+  <w><hi>Atlantic</hi></w>
   <c>(</c>
   <w>smíðuð</w>
   <w>1903</w>
@@ -864,7 +876,7 @@
 </s><s n="40">
   <w>Kanadíska</w>
   <w>fiskiskútan</w>
-  <w><i>Bluenose</i></w>
+  <w><hi>Bluenose</hi></w>
   <c>(</c>
   <w>smíðuð</w>
   <w>1921</w>
@@ -932,9 +944,9 @@
   <w>hefur</w>
   <w>verið</w>
   <w>var</w>
-  <w><i>Thomas</i></w>
-  <w><i>W.</i></w>
-  <w><i>Lawson</i></w>
+  <w><hi>Thomas</hi></w>
+  <w><hi>W.</hi></w>
+  <w><hi>Lawson</hi></w>
   <c>,</c>
   <w>smíðuð</w>
   <w>1902</w>

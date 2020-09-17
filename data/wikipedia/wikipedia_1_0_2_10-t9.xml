@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_10-t9.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="0">
   <revision id="1">
     <original><w>Með</w><w>hjartað</w><w>í</w><w>buxunum</w></original>
-    <corrected><w>Bókin</w><w><i>Með</i></w><w><i>hjartað</i></w><w><i>í</i></w><w><i>buxunum</i></w></corrected>
+    <corrected><w>Bókin</w><w><hi>Með</hi></w><w><hi>hjartað</hi></w><w><hi>í</hi></w><w><hi>buxunum</hi></w></corrected>
       <errors>
         <error xtype="missing-word" idx="1-1" eid="0" />
         <error xtype="nonit4it" idx="1-2" eid="0" />
@@ -14,10 +26,10 @@
   <c>(</c>
   <w>franska</w>
   <c>:</c>
-  <w><i>La</i></w>
-  <w><i>frousse</i></w>
-  <w><i>aux</i></w>
-  <w><i>trousses</i></w>
+  <w><hi>La</hi></w>
+  <w><hi>frousse</hi></w>
+  <w><hi>aux</hi></w>
+  <w><hi>trousses</hi></w>
   <c>)</c>
   <w>er</w>
   <revision id="2">
@@ -77,7 +89,7 @@
   <w>nefnist</w>
   <revision id="4">
     <original><w>Dalur</w><w>útlaganna</w></original>
-    <corrected><w><i>Dalur</i></w><w><i>útlaganna</i></w></corrected>
+    <corrected><w><hi>Dalur</hi></w><w><hi>útlaganna</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -91,7 +103,7 @@
   <w>undirbúa</w>
   <w>ferðalag</w>
   <w>til</w>
-  <w><i>Túbútt-Sjan</i></w>
+  <w><hi>Túbútt-Sjan</hi></w>
   <w>við</w>
   <w>landamæri</w>
   <w>Nepals</w>
@@ -108,7 +120,7 @@
   <w>vísindaleiðangurs</w>
   <w>Frakkans</w>
   <revision id="5">
-    <original><w><i>Adriens</i></w><w><i>Maginot</i></w></original>
+    <original><w><hi>Adriens</hi></w><w><hi>Maginot</hi></w></original>
     <corrected><w>Adriens</w><w>Maginot</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -117,7 +129,7 @@
   <w>og</w>
   <w>Þjóðverjans</w>
   <revision id="6">
-    <original><w><i>Günters</i></w><w><i>Siegfried</i></w></original>
+    <original><w><hi>Günters</hi></w><w><hi>Siegfried</hi></w></original>
     <corrected><w>Günters</w><w>Siegfried</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -133,8 +145,8 @@
   <w>að</w>
   <w>hinum</w>
   <w>goðsagnakennda</w>
-  <w><i>Dal</i></w>
-  <w><i>útlaganna</i></w>
+  <w><hi>Dal</hi></w>
+  <w><hi>útlaganna</hi></w>
   <c>,</c>
   <w>en</w>
   <w>samkvæmt</w>
@@ -237,7 +249,7 @@
 <s n="8">
   <w>Sálfræðingurinn</w>
   <revision id="11">
-    <original><w><i>Doktor</i></w><w><i>Plasíbó</i></w></original>
+    <original><w><hi>Doktor</hi></w><w><hi>Plasíbó</hi></w></original>
     <corrected><w>Doktor</w><w>Plasíbó</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -368,7 +380,7 @@
   <w>mikið</w>
   <w>um</w>
   <revision id="16">
-    <original><w><i>Greppa</i></w></original>
+    <original><w><hi>Greppa</hi></w></original>
     <corrected><w>Greppa</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />

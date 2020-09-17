@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Útey</w>
+  <c>(</c>
+  <w>norska</w>
+  <c>:</c>
+  <w><i>Utøya</i></w>
+  <c>)</c>
+  <w>er</w>
+  <w>eyja</w>
+  <w>í</w>
+  <w>Tyrifjarðarvatni</w>
+  <c>(</c>
+  <w><i>Tyrifjorden</i></w>
+  <c>)</c>
+  <w>í</w>
+  <w>suðurhluta</w>
+  <w>Noregs</w>
+  <c>,</c>
+  <w>nánar</w>
+  <w>tiltekið</w>
+  <w>í</w>
+  <revision id="1">
+    <original><w>Buskerudfylki</w></original>
+    <corrected><w>Buskerud-fylki</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <c>(</c>
+  <revision id="2">
+    <original></original>
+    <corrected><w>fn.</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w><i>Biskupsruð</i></w>
+  <c>)</c>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Útey</w>
+  <w>er</w>
+  <revision id="3">
+    <original><w>skógivaxin</w></original>
+    <corrected><w>skógi</w><w>vaxin</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
+  <w>eyja</w>
+  <c>,</c>
+  <w>10,6</w>
+  <w>hektarar</w>
+  <w>að</w>
+  <w>stærð</w>
+  <w>og</w>
+  <w>er</w>
+  <w>í</w>
+  <w>um</w>
+  <w>500</w>
+  <revision id="4">
+    <original><w>hundruð</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
+  <w>metra</w>
+  <w>fjarlægð</w>
+  <w>frá</w>
+  <w>meginlandinu</w>
+  <w>þar</w>
+  <w>sem</w>
+  <revision id="5">
+    <original><w>styðst</w></original>
+    <corrected><w>styst</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="5-1" eid="0" />
+        <error xtype="wording" idx="5-1" eid="0" />
+      </errors>
+  </revision>
+  <w>er</w>
+  <w>í</w>
+  <w>land</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Eyjan</w>
+  <w>er</w>
+  <w>í</w>
+  <w>eigu</w>
+  <w>Æskulýðsfélags</w>
+  <w>Verkamannaflokksins</w>
+  <w>í</w>
+  <w>Noregi</w>
+  <c>(</c>
+  <w><i>Arbeidaranes</i></w>
+  <w><i>Ungdomsfylking</i></w>
+  <c>)</c>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Á</w>
+  <w>eynni</w>
+  <w>eru</w>
+  <w>nokkur</w>
+  <w>stór</w>
+  <w>rjóður</w>
+  <w>sem</w>
+  <w>sum</w>
+  <w>hafa</w>
+  <w>verið</w>
+  <w>notuð</w>
+  <w>sem</w>
+  <w>tjaldstæði</w>
+  <w>gesta</w>
+  <w>eða</w>
+  <w>sem</w>
+  <w>svæði</w>
+  <w>til</w>
+  <revision id="6">
+    <original><w>íþróttaiðkana</w></original>
+    <corrected><w>íþróttaiðkunar</w></corrected>
+      <errors>
+        <error xtype="plural4singular" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Þann</w>
+  <w>22. júlí árið 2011</w>
+  <w>voru</w>
+  <w>69</w>
+  <w>manns</w>
+  <c>,</c>
+  <w>aðallega</w>
+  <w>unglingar</w>
+  <c>,</c>
+  <w>skotnir</w>
+  <w>til</w>
+  <w>bana</w>
+  <w>á</w>
+  <w>eynni</w>
+  <w>í</w>
+  <w>hryðjuverkaárás</w>
+  <w>hægriöfgamannsins</w>
+  <w>Anders</w>
+  <w>Behring</w>
+  <w>Breivik</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>var</w>
+  <w>dulbúinn</w>
+  <w>sem</w>
+  <w>lögreglumaður</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

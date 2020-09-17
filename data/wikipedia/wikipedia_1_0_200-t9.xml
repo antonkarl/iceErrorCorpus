@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_200-t9.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Umfangsmikil</w>
@@ -36,7 +48,7 @@
   <c>.</c>
 </s><s n="2">
   <w>Nafnið</w>
-  <w><i>Gínea</i></w>
+  <w><hi>Gínea</hi></w>
   <w>kemur</w>
   <w>úr</w>
   <w>máli</w>
@@ -52,9 +64,9 @@
   <w>portúgölsku</w>
   <w>og</w>
   <w>merkir</w>
-  <w><i>land</i></w>
-  <w><i>hinna</i></w>
-  <w><i>svörtu</i></w>
+  <w><hi>land</hi></w>
+  <w><hi>hinna</hi></w>
+  <w><hi>svörtu</hi></w>
   <c>.</c>
 </s><s n="3">
   <w>Gínea</w>
@@ -103,8 +115,8 @@
   <w>oft</w>
   <w>skipt</w>
   <w>í</w>
-  <w><i>Neðri</i></w>
-  <w><i>Gíneu</i></w>
+  <w><hi>Neðri</hi></w>
+  <w><hi>Gíneu</hi></w>
   <c>,</c>
   <w>sem</w>
   <w>náði</w>
@@ -121,8 +133,8 @@
   <w>Gana</w>
   <c>,</c>
   <w>og</w>
-  <w><i>Efri</i></w>
-  <w><i>Gíneu</i></w>
+  <w><hi>Efri</hi></w>
+  <w><hi>Gíneu</hi></w>
   <c>,</c>
   <w>sem</w>
   <w>er</w>
@@ -152,7 +164,7 @@
   <w>Nígeríu</w>
   <w>var</w>
   <w>nefndur</w>
-  <w><i>Þrælaströndin</i></w>
+  <w><hi>Þrælaströndin</hi></w>
   <c>,</c>
   <w>þar</w>
   <w>sem</w>
@@ -161,13 +173,13 @@
   <w>Gana</w>
   <w>var</w>
   <w>kallað</w>
-  <w><i>Gullströndin</i></w>
+  <w><hi>Gullströndin</hi></w>
   <w>og</w>
   <w>vestan</w>
   <w>við</w>
   <w>Gana</w>
   <w>var</w>
-  <w><i>Fílabeinsströndin</i></w>
+  <w><hi>Fílabeinsströndin</hi></w>
   <c>,</c>
   <w>sem</w>
   <w>nú</w>
@@ -283,9 +295,9 @@
   <w>var</w>
   <w>ströndin</w>
   <w>kölluð</w>
-  <w><i>Kornströndin</i></w>
+  <w><hi>Kornströndin</hi></w>
   <w>eða</w>
-  <w><i>Piparströndin</i></w>
+  <w><hi>Piparströndin</hi></w>
   <c>.</c>
 </s></p></body></text>
 </TEI>

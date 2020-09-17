@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_6-t2.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Áður</w>
@@ -72,7 +84,7 @@
   <w>Svarthöfði</w>
   <revision id="4">
     <original/>
-    <corrected><c>(</c><w>e.</w><w><i>Darth</i></w><w><i>Vader</i></w><c>)</c></corrected>
+    <corrected><c>(</c><w>e.</w><w><hi>Darth</hi></w><w><hi>Vader</hi></w><c>)</c></corrected>
       <errors>
         <error xtype="missing-bracket" idx="26-1" eid="0"/>
         <error xtype="missing-words" idx="26-2" eid="0"/>
@@ -202,7 +214,7 @@
   <c>(</c>
   <revision id="10">
     <original><w>Darth</w><w>Vader</w></original>
-    <corrected><w>e.</w><w><i>Darth</i></w><w><i>Vader</i></w></corrected>
+    <corrected><w>e.</w><w><hi>Darth</hi></w><w><hi>Vader</hi></w></corrected>
       <errors>
         <error xtype="missing-word" idx="8-1" eid="0"/>
         <error xtype="nonit4it" idx="8-2" eid="0"/>
@@ -244,7 +256,7 @@
   <w>á</w>
   <revision id="12">
     <original><w>Millenium</w><w>Falcon</w></original>
-    <corrected><w>geimskipinu</w><w><i>Millenium</i></w><w><i>Falcon</i></w></corrected>
+    <corrected><w>geimskipinu</w><w><hi>Millenium</hi></w><w><hi>Falcon</hi></w></corrected>
       <errors>
         <error xtype="missing-word" idx="37-1" eid="0"/>
         <error xtype="nonit4it" idx="37-2" eid="0"/>
@@ -329,7 +341,7 @@
   <w>til</w>
   <revision id="17">
     <original><w>Jabba</w><w>the</w><w>Hutt</w></original>
-    <corrected><w><i>Jabba</i></w><w><i>the</i></w><w><i>Hutt</i></w></corrected>
+    <corrected><w><hi>Jabba</hi></w><w><hi>the</hi></w><w><hi>Hutt</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -371,7 +383,7 @@
   <c>(</c>
   <revision id="20">
     <original><w>The</w><w>Death</w><w>Star</w></original>
-    <corrected><w>e.</w><w><i>The</i></w><w><i>Death</i></w><w><i>Star</i></w></corrected>
+    <corrected><w>e.</w><w><hi>The</hi></w><w><hi>Death</hi></w><w><hi>Star</hi></w></corrected>
       <errors>
         <error xtype="missing-word" idx="7-1" eid="0"/>
         <error xtype="nonit4it" idx="7-2" eid="0"/>
@@ -411,8 +423,8 @@
         <error xtype="missing-word" eid="0"/>
       </errors>
   </revision>
-  <w><i>Millennium</i></w>
-  <w><i>Falcon</i></w>
+  <w><hi>Millennium</hi></w>
+  <w><hi>Falcon</hi></w>
   <w>en</w>
   <revision id="24">
     <original><w>Luke</w></original>
@@ -443,7 +455,7 @@
 </s><s n="16">
   <revision id="26">
     <original><w>Stjörnustríð</w></original>
-    <corrected><w><i>Stjörnustríð</i></w></corrected>
+    <corrected><w><hi>Stjörnustríð</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -451,7 +463,7 @@
   <c>:</c>
   <revision id="27">
     <original><w>Gagnárás</w><w>keisaradæmisins</w></original>
-    <corrected><w><i>Gagnárás</i></w><w><i>keisaradæmisins</i></w></corrected>
+    <corrected><w><hi>Gagnárás</hi></w><w><hi>keisaradæmisins</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -507,7 +519,7 @@
   <w>illa</w>
   <revision id="29">
     <original><w>Jabba</w><w>the</w><w>Hutt</w></original>
-    <corrected><w><i>Jabba</i></w><w><i>the</i></w><w><i>Hutt</i></w></corrected>
+    <corrected><w><hi>Jabba</hi></w><w><hi>the</hi></w><w><hi>Hutt</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -548,7 +560,7 @@
   <w>frá</w>
   <revision id="31">
     <original><w>Jabba</w><w>the</w><w>Hutt</w></original>
-    <corrected><w><i>Jabba</i></w><w><i>the</i></w><w><i>Hutt</i></w></corrected>
+    <corrected><w><hi>Jabba</hi></w><w><hi>the</hi></w><w><hi>Hutt</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -599,7 +611,7 @@
   <w>fangi</w>
   <revision id="34">
     <original><w>rándýrs</w><w>sem</w><w>kallast</w><w>wampa</w></original>
-    <corrected><w>vampa-rándýrs</w><c>(</c><w>e.</w><w><i>wampa</i></w></corrected>
+    <corrected><w>vampa-rándýrs</w><c>(</c><w>e.</w><w><hi>wampa</hi></w></corrected>
       <errors>
         <error xtype="wording" idx="11-1" eid="0"/>
         <error xtype="missing-bracket" idx="11-1" eid="0"/>
@@ -625,7 +637,7 @@
   <c>(</c>
   <revision id="36">
     <original><w>Cloud</w><w>City</w></original>
-    <corrected><w><i>Cloud</i></w><w><i>City</i></w></corrected>
+    <corrected><w><hi>Cloud</hi></w><w><hi>City</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

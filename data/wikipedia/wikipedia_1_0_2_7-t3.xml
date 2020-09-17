@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_7-t3.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Eldri</w>
@@ -474,12 +486,12 @@
   <w>sem</w>
   <w>hann</w>
   <w>kallaði</w>
-  <w><i>A</i></w>
-  <w><i>Winter</i></w>
-  <w><i>in</i></w>
-  <w><i>Iceland</i></w>
-  <w><i>and</i></w>
-  <w><i>Lapland</i></w>
+  <w><hi>A</hi></w>
+  <w><hi>Winter</hi></w>
+  <w><hi>in</hi></w>
+  <w><hi>Iceland</hi></w>
+  <w><hi>and</hi></w>
+  <w><hi>Lapland</hi></w>
   <c>.</c>
 </s><s n="20">
   <w>Hún</w>
@@ -836,7 +848,7 @@
   <w>á</w>
   <w>óðalssetrinu</w>
   <revision id="6">
-    <original><w><i>Ditchley</i></w><w><i>House</i></w></original>
+    <original><w><hi>Ditchley</hi></w><w><hi>House</hi></w></original>
     <corrected><w>Ditchley</w><w>House</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -919,7 +931,7 @@
   <w>grafið</w>
   <c>:</c>
   <revision id="7">
-    <original><w><i>To</i></w><w><i>Henriette</i></w><w><i>Livinsen.</i></w><w><i>The</i></w><w><i>Gift</i></w><w><i>Of</i></w><w><i>Her</i></w><w><i>Father</i></w><w><i>1871</i></w></original>
+    <original><w><hi>To</hi></w><w><hi>Henriette</hi></w><w><hi>Livinsen.</hi></w><w><hi>The</hi></w><w><hi>Gift</hi></w><w><hi>Of</hi></w><w><hi>Her</hi></w><w><hi>Father</hi></w><w><hi>1871</hi></w></original>
     <corrected><c>„</c><w>To</w><w>Henriette</w><w>Livinsen</w><c>.</c><w>The</w><w>Gift</w><w>Of</w><w>Her</w><w>Father</w><w>1871</w><c>“</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="6-1" eid="0"/>

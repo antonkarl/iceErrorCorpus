@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_150-t9.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="0">
   <revision id="1">
@@ -14,8 +26,8 @@
   <w>البحر</w>
   <w>الأحمر</w>
   <c>,</c>
-  <w><i>al-Bahr</i></w>
-  <w><i>al-ahmar</i></w>
+  <w><hi>al-Bahr</hi></w>
+  <w><hi>al-ahmar</hi></w>
   <c>;</c>
   <revision id="2">
     <original><w>hebreska</w></original>
@@ -26,8 +38,8 @@
   </revision>
   <w>ים</w>
   <w>סוף</w>
-  <w><i>Yam</i></w>
-  <w><i>Suf</i></w>
+  <w><hi>Yam</hi></w>
+  <w><hi>Suf</hi></w>
   <c>;</c>
   <revision id="3">
     <original></original>
@@ -37,11 +49,11 @@
       </errors>
   </revision>
   <w>tígrinja</w>
-  <w><i>ቀይሕ</i></w>
-  <w><i>ባሕሪ</i></w>
+  <w><hi>ቀይሕ</hi></w>
+  <w><hi>ባሕሪ</hi></w>
   <c>,</c>
-  <w><i>QeyH</i></w>
-  <w><i>baHri</i></w>
+  <w><hi>QeyH</hi></w>
+  <w><hi>baHri</hi></w>
   <revision id="4">
     <original><c>)</c></original>
     <corrected><c>,</c></corrected>

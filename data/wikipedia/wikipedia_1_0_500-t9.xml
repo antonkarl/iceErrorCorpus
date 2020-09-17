@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_500-t9.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Skjaldarmerkið</w>
@@ -26,14 +38,14 @@
   <w>þýðir</w>
   <revision id="1">
     <original><w>Bergen</w></original>
-    <corrected><w><i>Bergen</i></w></corrected>
+    <corrected><w><hi>Bergen</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
   </revision>
   <w>því</w>
   <revision id="2">
-    <original><w><i>árbakki</i></w></original>
+    <original><w><hi>árbakki</hi></w></original>
     <corrected><c>„</c><w>árbakki</w><c>“</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="13-1" eid="0"/>
@@ -75,7 +87,7 @@
   <w>Zoom</w>
   <w>merkir</w>
   <revision id="5">
-    <original><w><i>rönd</i></w><c>(</c><w>sbr</w><c>.</c><w><i>Saum</i></w></original>
+    <original><w><hi>rönd</hi></w><c>(</c><w>sbr</w><c>.</c><w><hi>Saum</hi></w></original>
     <corrected><c>„</c><w>rönd</w><c>“</c><c>,</c><w>sbr.</w><c>„</c><w>Saum</w><c>“</c></corrected>
       <errors>
         <error xtype="missing-quots" idx="14-1" eid="0"/>

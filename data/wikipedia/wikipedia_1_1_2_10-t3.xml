@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_10-t3.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Túrkmenistan</w>
@@ -352,7 +364,7 @@
   <w>fimm</w>
   <w>héruð</w>
   <c>(</c>
-  <w><i>welyatlar</i></w>
+  <w><hi>welyatlar</hi></w>
   <c>)</c>
   <w>og</w>
   <w>eitt</w>
@@ -366,7 +378,7 @@
   <w>í</w>
   <w>umdæmi</w>
   <c>(</c>
-  <w><i>etraplar</i></w>
+  <w><hi>etraplar</hi></w>
   <c>)</c>
   <w>sem</w>
   <w>eru</w>

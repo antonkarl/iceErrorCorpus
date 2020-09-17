@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_11-t11.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Pólýfónkórinn</w>
@@ -169,8 +181,8 @@
   <w>voru</w>
   <w>hlutar</w>
   <w>úr</w>
-  <w><i>Óratóríunni</i></w>
-  <w><i>Eddu</i></w>
+  <w><hi>Óratóríunni</hi></w>
+  <w><hi>Eddu</hi></w>
   <w>eftir</w>
   <w>Jón</w>
   <w>Leifs</w>
@@ -179,9 +191,9 @@
 <s n="11">
   <w>Kaflarnir</w>
   <w>úr</w>
-  <w><i>Eddu</i></w>
+  <w><hi>Eddu</hi></w>
   <revision id="3">
-    <original><w><i>vöktu</i></w></original>
+    <original><w><hi>vöktu</hi></w></original>
     <corrected><w>vöktu</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -198,11 +210,11 @@
   <w>voru</w>
   <w>auk</w>
   <w>þeirra</w>
-  <w><i>Gloria</i></w>
+  <w><hi>Gloria</hi></w>
   <w>eftir</w>
   <w>Poulenc</w>
   <c>,</c>
-  <w><i>Vatnamúsík</i></w>
+  <w><hi>Vatnamúsík</hi></w>
   <w>eftir</w>
   <w>Händel</w>
   <c>,</c>
@@ -225,7 +237,7 @@
   <w>og</w>
   <w>kórar</w>
   <w>úr</w>
-  <w><i>Messíasi</i></w>
+  <w><hi>Messíasi</hi></w>
   <c>.</c>
 </s>
 <s n="12">
@@ -890,10 +902,10 @@
   <w>okkar</w>
   <w>ZÓ</w>
   <c>,</c>
-  <w><i></i></w>
-  <w><i>guð</i></w>
-  <w><i>vors</i></w>
-  <w><i>lands</i></w>
+  <w><hi></hi></w>
+  <w><hi>guð</hi></w>
+  <w><hi>vors</hi></w>
+  <w><hi>lands</hi></w>
   <w>í</w>
   <w>kirkjunni</w>
   <w>í</w>

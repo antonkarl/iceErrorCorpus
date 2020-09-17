@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_8-t7.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Árið 2007</w>
@@ -8,9 +20,9 @@
   <w>frumsýnd</w>
   <w>brasilíska</w>
   <w>myndin</w>
-  <w><i>Tropa</i></w>
-  <w><i>de</i></w>
-  <w><i>Elite</i></w>
+  <w><hi>Tropa</hi></w>
+  <w><hi>de</hi></w>
+  <w><hi>Elite</hi></w>
   <w>sem</w>
   <w>náði</w>
   <w>gríðarlegum</w>
@@ -50,9 +62,9 @@
   <w>ljósi</w>
   <c>.</c>
 </s><s n="2">
-  <w><i>Tropa</i></w>
-  <w><i>de</i></w>
-  <w><i>Elite</i></w>
+  <w><hi>Tropa</hi></w>
+  <w><hi>de</hi></w>
+  <w><hi>Elite</hi></w>
   <w>er</w>
   <w>þrátt</w>
   <w>fyrir</w>
@@ -193,9 +205,9 @@
   <w>Einkunnarorð</w>
   <w>BOPE</w>
   <w>er</w>
-  <w><i>Faca</i></w>
-  <w><i>na</i></w>
-  <w><i>caveira</i></w>
+  <w><hi>Faca</hi></w>
+  <w><hi>na</hi></w>
+  <w><hi>caveira</hi></w>
   <w>eða</w>
   <c>„</c>
   <revision id="5">
@@ -262,8 +274,8 @@
   <w>hindrunum</w>
   <c>.</c>
 </s><s n="10">
-  <w><i>Comando</i></w>
-  <w><i>Vermelho</i></w>
+  <w><hi>Comando</hi></w>
+  <w><hi>Vermelho</hi></w>
   <w>eða</w>
   <c>„</c>
   <w>Rauða</w>
@@ -302,16 +314,16 @@
   <w>nafninu</w>
   <w>breytt</w>
   <w>í</w>
-  <w><i>Companhia</i></w>
-  <w><i>de</i></w>
-  <w><i>Operações</i></w>
-  <w><i>Especiais</i></w>
+  <w><hi>Companhia</hi></w>
+  <w><hi>de</hi></w>
+  <w><hi>Operações</hi></w>
+  <w><hi>Especiais</hi></w>
   <w>eða</w>
   <c>„</c>
   <w>Séraðgerðasveitin</w>
   <c>“</c>
   <c>(</c>
-  <w><i>COE</i></w>
+  <w><hi>COE</hi></w>
   <c>)</c>
   <c>,</c>
   <w>tveimur</w>
@@ -323,7 +335,7 @@
   <w>aftur</w>
   <w>breytt</w>
   <w>í</w>
-  <w><i>NuCOE</i></w>
+  <w><hi>NuCOE</hi></w>
   <c>.</c>
 </s><s n="12">
   <w>Uppruna</w>
@@ -337,19 +349,19 @@
   <w>þá</w>
   <w>hét</w>
   <w>sveitin</w>
-  <w><i>Núcleo</i></w>
-  <w><i>da</i></w>
-  <w><i>Companhia</i></w>
-  <w><i>de</i></w>
-  <w><i>Operações</i></w>
-  <w><i>Especiais</i></w>
+  <w><hi>Núcleo</hi></w>
+  <w><hi>da</hi></w>
+  <w><hi>Companhia</hi></w>
+  <w><hi>de</hi></w>
+  <w><hi>Operações</hi></w>
+  <w><hi>Especiais</hi></w>
   <w>eða</w>
   <c>„</c>
   <w>Kjarni</w>
   <w>séraðgerðasveitarinnar</w>
   <c>“</c>
   <c>(</c>
-  <w><i>NuCOE</i></w>
+  <w><hi>NuCOE</hi></w>
   <c>)</c>
   <c>.</c>
 </s><s n="13">
@@ -382,8 +394,8 @@
   <w>Ökutækin</w>
   <w>kallast</w>
   <revision id="9">
-    <original><w><i>Pacificador</i></w></original>
-    <corrected><w><i>pacificador</i></w></corrected>
+    <original><w><hi>Pacificador</hi></w></original>
+    <corrected><w><hi>pacificador</hi></w></corrected>
       <errors>
         <error xtype="upper4lower-common" eid="0"/>
       </errors>
@@ -400,8 +412,8 @@
   <c>“</c>
   <w>og</w>
   <revision id="11">
-    <original><w><i>Caveirao</i></w></original>
-    <corrected><w><i>caveirao</i></w></corrected>
+    <original><w><hi>Caveirao</hi></w></original>
+    <corrected><w><hi>caveirao</hi></w></corrected>
       <errors>
         <error xtype="upper4lower-common" eid="0"/>
       </errors>

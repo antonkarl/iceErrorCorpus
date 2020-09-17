@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_2-t0.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Þróunarkenning</w>
@@ -42,7 +54,7 @@
   <w>bókinni</w>
   <revision id="2">
     <original><w>Uppruni</w><w>tegundanna</w></original>
-    <corrected><w><i>Uppruni</i></w><w><i>tegundanna</i></w></corrected>
+    <corrected><w><hi>Uppruni</hi></w><w><hi>tegundanna</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -153,12 +165,12 @@
   <w>í</w>
   <w>riti</w>
   <w>hans</w>
-  <w><i>Um</i></w>
-  <w><i>látbrigði</i></w>
-  <w><i>tilfinninga</i></w>
-  <w><i>manna</i></w>
-  <w><i>og</i></w>
-  <w><i>dýra</i></w>
+  <w><hi>Um</hi></w>
+  <w><hi>látbrigði</hi></w>
+  <w><hi>tilfinninga</hi></w>
+  <w><hi>manna</hi></w>
+  <w><hi>og</hi></w>
+  <w><hi>dýra</hi></w>
   <c>.</c>
 </s>
 <s n="8">
@@ -322,8 +334,8 @@
   <w>gaf</w>
   <w>út</w>
   <w>bókina</w>
-  <w><i>Uppruni</i></w>
-  <w><i>tegundanna</i></w>
+  <w><hi>Uppruni</hi></w>
+  <w><hi>tegundanna</hi></w>
   <w>árið 1859</w>
   <w>þar</w>
   <w>sem</w>
@@ -347,10 +359,10 @@
   <w>hann</w>
   <w>út</w>
   <w>bókina</w>
-  <w><i>Hvernig</i></w>
-  <w><i>maðurinn</i></w>
-  <w><i>kom</i></w>
-  <w><i>til</i></w>
+  <w><hi>Hvernig</hi></w>
+  <w><hi>maðurinn</hi></w>
+  <w><hi>kom</hi></w>
+  <w><hi>til</hi></w>
   <w>en</w>
   <w>hún</w>
   <w>fjallaði</w>
@@ -449,7 +461,7 @@
   <w>ritinu</w>
   <revision id="9">
     <original><w>On</w><w>the</w><w>Origin</w><w>of</w><w>Species</w><w>by</w><w>Means</w><w>of</w><w>Natural</w><w>Selection</w><w>or</w><w>The</w><w>Preservation</w><w>of</w><w>Favoured</w><w>Races</w><w>in</w><w>The</w><w>Struggle</w><w>for</w><w>Life</w></original>
-    <corrected><w><i>On</i></w><w><i>the</i></w><w><i>Origin</i></w><w><i>of</i></w><w><i>Species</i></w><w><i>by</i></w><w><i>Means</i></w><w><i>of</i></w><w><i>Natural</i></w><w><i>Selection</i></w><w><i>or</i></w><w><i>The</i></w><w><i>Preservation</i></w><w><i>of</i></w><w><i>Favoured</i></w><w><i>Races</i></w><w><i>in</i></w><w><i>The</i></w><w><i>Struggle</i></w><w><i>for</i></w><w><i>Life</i></w></corrected>
+    <corrected><w><hi>On</hi></w><w><hi>the</hi></w><w><hi>Origin</hi></w><w><hi>of</hi></w><w><hi>Species</hi></w><w><hi>by</hi></w><w><hi>Means</hi></w><w><hi>of</hi></w><w><hi>Natural</hi></w><w><hi>Selection</hi></w><w><hi>or</hi></w><w><hi>The</hi></w><w><hi>Preservation</hi></w><w><hi>of</hi></w><w><hi>Favoured</hi></w><w><hi>Races</hi></w><w><hi>in</hi></w><w><hi>The</hi></w><w><hi>Struggle</hi></w><w><hi>for</hi></w><w><hi>Life</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>

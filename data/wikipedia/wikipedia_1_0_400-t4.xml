@@ -1,20 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_400-t4.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Útey</w>
   <c>(</c>
   <w>norska</w>
   <c>:</c>
-  <w><i>Utøya</i></w>
+  <w><hi>Utøya</hi></w>
   <c>)</c>
   <w>er</w>
   <w>eyja</w>
   <w>í</w>
   <w>Tyrifjarðarvatni</w>
   <c>(</c>
-  <w><i>Tyrifjorden</i></w>
+  <w><hi>Tyrifjorden</hi></w>
   <c>)</c>
   <w>í</w>
   <w>suðurhluta</w>
@@ -38,7 +50,7 @@
         <error xtype="missing-word" eid="0" />
       </errors>
   </revision>
-  <w><i>Biskupsruð</i></w>
+  <w><hi>Biskupsruð</hi></w>
   <c>)</c>
   <c>.</c>
 </s>
@@ -99,8 +111,8 @@
   <w>í</w>
   <w>Noregi</w>
   <c>(</c>
-  <w><i>Arbeidaranes</i></w>
-  <w><i>Ungdomsfylking</i></w>
+  <w><hi>Arbeidaranes</hi></w>
+  <w><hi>Ungdomsfylking</hi></w>
   <c>)</c>
   <c>.</c>
 </s>

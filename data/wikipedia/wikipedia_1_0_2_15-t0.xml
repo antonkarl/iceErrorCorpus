@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_15-t0.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Næst</w>
@@ -148,13 +160,13 @@
   <w>hans</w>
   <c>.</c>
 </s><s n="8">
-  <w><i>Machine</i></w>
-  <w><i>qui</i></w>
-  <w><i>rêve</i></w>
+  <w><hi>Machine</hi></w>
+  <w><hi>qui</hi></w>
+  <w><hi>rêve</hi></w>
   <c>(</c>
   <w>íslenska</w>
   <c>:</c>
-  <w><i>Draumavélin</i></w>
+  <w><hi>Draumavélin</hi></w>
   <c>)</c>
   <w>er</w>
   <w>46</w>

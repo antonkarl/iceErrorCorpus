@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Þeir</w>
+  <w>vegfarendur</w>
+  <w>sem</w>
+  <w>hafa</w>
+  <w>átt</w>
+  <revision id="1">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-commas" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>eða</w>
+  <w>eiga</w>
+  <w>leið</w>
+  <revision id="2">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="dep" depId="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>um</w>
+  <w>Múlakvísl</w>
+  <w>og</w>
+  <w>svæðið</w>
+  <w>í</w>
+  <w>kringum</w>
+  <w>Mýrdalsjökul</w>
+  <revision id="3">
+    <original><w>og</w><w>verið</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-words" eid="0" />
+      </errors>
+  </revision>
+  <w>með</w>
+  <w>myndavél</w>
+  <w>meðferðis</w>
+  <w>geta</w>
+  <w>sent</w>
+  <w>myndir</w>
+  <w>á</w>
+  <w>netfangið</w>
+  <w>frettir@stod2.is</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

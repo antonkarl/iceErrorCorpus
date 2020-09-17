@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Árni</w>
+  <w>Þór</w>
+  <w>Árnason</w>
+  <w>hefur</w>
+  <w>verið</w>
+  <w>ráðinn</w>
+  <w>landsliðsþjálfari</w>
+  <w>fyrir</w>
+  <w>alpagreinar</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Árni</w>
+  <w>Þór</w>
+  <w>er</w>
+  <w>íslenskum</w>
+  <w>skíðamönnum</w>
+  <w>kunnur</w>
+  <revision id="1">
+    <original></original>
+    <corrected><w>en</w></corrected>
+      <errors>
+        <error xtype="missing-conjunction" eid="0" />
+      </errors>
+  </revision>
+  <w>hann</w>
+  <w>var</w>
+  <w>landsliðsmaður</w>
+  <w>skíðasambandsins</w>
+  <w>frá</w>
+  <w>árinu 1978</w>
+  <w>til</w>
+  <w>1986</w>
+  <w>og</w>
+  <w>keppti</w>
+  <w>á</w>
+  <revision id="2">
+    <original><w>Ólympíuleikum</w></original>
+    <corrected><w>Ólympíuleikunum</w></corrected>
+      <errors>
+        <error xtype="singular4plural" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>Sarajevo</w>
+  <w>1984</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Þetta</w>
+  <w>kemur</w>
+  <w>fram</w>
+  <w>á</w>
+  <w>heimasíðu</w>
+  <revision id="3">
+    <original><w>skíðasambands</w></original>
+    <corrected><w>Skíðasambands</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
+  <w>Íslands</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Árni</w>
+  <w>Þór</w>
+  <w>hefur</w>
+  <w>verið</w>
+  <w>búsettur</w>
+  <w>í</w>
+  <w>Ostersund</w>
+  <w>í</w>
+  <w>Svíþjóð</w>
+  <w>síðastliðin</w>
+  <w>23</w>
+  <w>ár</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Þriðjudaginn</w>
+  <w>12. júlí</w>
+  <w>verður</w>
+  <w>tilkynnt</w>
+  <w>val</w>
+  <w>á</w>
+  <w>landsliði</w>
+  <w>og</w>
+  <w>unglingalandsliði</w>
+  <revision id="4">
+    <original><w>skíðasambands</w><w>íslands</w></original>
+    <corrected><w>Skíðasambands</w><w>Íslands</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" idx="4-1" eid="0" />
+        <error xtype="lower4upper-proper" idx="4-2" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

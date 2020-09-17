@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_500-t5.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Jón</w>
@@ -90,7 +102,7 @@
   <w>í</w>
   <revision id="5">
     <original><w>Píningsdómi</w></original>
-    <corrected><w><i>Píningsdómi</i></w></corrected>
+    <corrected><w><hi>Píningsdómi</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -140,8 +152,8 @@
   <c>.</c>
 </s><s n="7">
   <w>Samkvæmt</w>
-  <w><i>Árbókum</i></w>
-  <w><i>Espólíns</i></w>
+  <w><hi>Árbókum</hi></w>
+  <w><hi>Espólíns</hi></w>
   <w>barðist</w>
   <w>ábótinn</w>
   <w>ásamt</w>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Lars</w>
+  <w>von</w>
+  <w>Trier</w>
+  <c>(</c>
+  <w>f.</w>
+  <w>30. apríl 1956</w>
+  <c>)</c>
+  <w>er</w>
+  <w>danskur</w>
+  <w>kvikmyndaleikstjóri</w>
+  <revision id="1">
+    <original><c>,</c><w>meðal</w><w>annars</w><w>þekktur</w><c>,</c><w>ásamt</w></original>
+    <corrected><c>.</c><w>Ásamt</w></corrected>
+      <errors>
+        <error xtype="comma4period" eid="0" />
+        <error xtype="extra-words" eid="0" />
+      </errors>
+  </revision>
+  <w>Thomas</w>
+  <w>Vinterberg</w>
+  <c>,</c>
+  <w>Kristian</w>
+  <w>Levring</w>
+  <w>og</w>
+  <w>Søren</w>
+  <w>Kragh-Jacobsen</w>
+  <revision id="2">
+    <original><c>,</c><w>sem</w></original>
+    <corrected><w>er</w><w>von</w><w>Trier</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>upphafsmaður</w>
+  <w>Dogme</w>
+  <w>95</w>
+  <w>hreyfingarinnar</w>
+  <w>í</w>
+  <w>kvikmyndagerð</w>
+  <w>sem</w>
+  <w>kallaði</w>
+  <w>eftir</w>
+  <w>einfaldleika</w>
+  <w>í</w>
+  <w>frásagnarstíl</w>
+  <w>og</w>
+  <w>tæknilegri</w>
+  <w>úrvinnslu</w>
+  <w>kvikmyndarinnar</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

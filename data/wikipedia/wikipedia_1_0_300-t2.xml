@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_300-t2.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Sýrland</w>
@@ -588,8 +600,8 @@
   <c>.</c>
 </s>
 <s n="33">
-  <w><i>Pistacia</i></w>
-  <w><i>palaestina</i></w>
+  <w><hi>Pistacia</hi></w>
+  <w><hi>palaestina</hi></w>
   <w>vex</w>
   <w>villt</w>
   <w>á</w>

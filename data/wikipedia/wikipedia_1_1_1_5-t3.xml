@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_5-t3.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Eftir</w>
@@ -79,9 +91,9 @@
   </revision>
   <w>samkvæmt</w>
   <w>kerfinu</w>
-  <w><i>Additional</i></w>
-  <w><i>Member</i></w>
-  <w><i>System</i></w>
+  <w><hi>Additional</hi></w>
+  <w><hi>Member</hi></w>
+  <w><hi>System</hi></w>
   <c>,</c>
   <w>og</w>
   <w>eru</w>
@@ -167,7 +179,7 @@
   <w>undir</w>
   <revision id="8">
     <original><c>„</c><w>fráteknu</w><w>málunum</w><c>“</c></original>
-    <corrected><w><i>fráteknu</i></w><w><i>málin</i></w></corrected>
+    <corrected><w><hi>fráteknu</hi></w><w><hi>málin</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="289-1" eid="0"/>
         <error xtype="nonit4it" idx="289-1" eid="0"/>
@@ -315,7 +327,7 @@
   </revision>
   <c>(</c>
   <w>e.</w>
-  <w><i>decolonisation</i></w>
+  <w><hi>decolonisation</hi></w>
   <c>)</c>
   <revision id="20">
     <original/>
@@ -390,8 +402,8 @@
   <w>meirihlutakosningu</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>first-past-the-post</i></w>
-  <w><i>voting</i></w>
+  <w><hi>first-past-the-post</hi></w>
+  <w><hi>voting</hi></w>
   <c>)</c>
   <c>.</c>
 </s><s n="13">
@@ -550,7 +562,7 @@
   <w>lagið</w>
   <revision id="37">
     <original><c>„</c><w>A</w><w>Man's</w><w>A</w><w>Man</w><w>for</w><w>A'That</w><c>“</c><w>af</w></original>
-    <corrected><w><i>A</i></w><w><i>Man's</i></w><w><i>A</i></w><w><i>Man</i></w><w><i>for</i></w><w><i>A'That</i></w><w>eftir</w></corrected>
+    <corrected><w><hi>A</hi></w><w><hi>Man's</hi></w><w><hi>A</hi></w><w><hi>Man</hi></w><w><hi>for</hi></w><w><hi>A'That</hi></w><w>eftir</w></corrected>
       <errors>
         <error xtype="extra-quots" idx="242-1" eid="0"/>
         <error xtype="nonit4it" idx="242-1" eid="0"/>
@@ -616,8 +628,8 @@
   <w>1998</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>Scotland</i></w>
-  <w><i>Act</i></w>
+  <w><hi>Scotland</hi></w>
+  <w><hi>Act</hi></w>
   <w><i/></w>
   <w>1998Z</w>
   <c>)</c>
@@ -883,11 +895,11 @@
       </errors>
   </revision>
   <w>72Z</w>
-  <w><i>klukkutímar</i></w>
-  <w><i>til</i></w>
-  <w><i>að</i></w>
-  <w><i>bjarga</i></w>
-  <w><i>sambandinu</i></w>
+  <w><hi>klukkutímar</hi></w>
+  <w><hi>til</hi></w>
+  <w><hi>að</hi></w>
+  <w><hi>bjarga</hi></w>
+  <w><hi>sambandinu</hi></w>
   <revision id="62">
     <original><c>“</c></original>
     <corrected/>
@@ -906,11 +918,11 @@
   </revision>
   <w><i/></w>
   <w>72Z</w>
-  <w><i>hours</i></w>
-  <w><i>to</i></w>
-  <w><i>save</i></w>
-  <w><i>the</i></w>
-  <w><i>union</i></w>
+  <w><hi>hours</hi></w>
+  <w><hi>to</hi></w>
+  <w><hi>save</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>union</hi></w>
   <revision id="64">
     <original><c>“</c></original>
     <corrected/>
@@ -1110,9 +1122,9 @@
   <w>sameiningarflokkinn</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>Scottish</i></w>
-  <w><i>Unionist</i></w>
-  <w><i>Party</i></w>
+  <w><hi>Scottish</hi></w>
+  <w><hi>Unionist</hi></w>
+  <w><hi>Party</hi></w>
   <c>)</c>
   <c>.</c>
 </s><s n="31">
@@ -1209,9 +1221,9 @@
   <w>sameiningarflokkurinn</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>Ulster</i></w>
-  <w><i>Unionist</i></w>
-  <w><i>Party</i></w>
+  <w><hi>Ulster</hi></w>
+  <w><hi>Unionist</hi></w>
+  <w><hi>Party</hi></w>
   <c>)</c>
   <revision id="88">
     <original><w>allir</w></original>
@@ -1245,11 +1257,11 @@
   <w>þjóðarflokkinn</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>Scottish</i></w>
-  <w><i>National</i></w>
-  <w><i>Party</i></w>
+  <w><hi>Scottish</hi></w>
+  <w><hi>National</hi></w>
+  <w><hi>Party</hi></w>
   <w>eða</w>
-  <w><i>SNP</i></w>
+  <w><hi>SNP</hi></w>
   <c>)</c>
   <c>.</c>
 </s><s n="34">
@@ -1289,10 +1301,10 @@
   <c>(</c>
   <w>e.</w>
   <c>„</c>
-  <w><i>turkeys</i></w>
-  <w><i>voting</i></w>
-  <w><i>for</i></w>
-  <w><i>Christmas</i></w>
+  <w><hi>turkeys</hi></w>
+  <w><hi>voting</hi></w>
+  <w><hi>for</hi></w>
+  <w><hi>Christmas</hi></w>
   <c>“</c>
   <c>)</c>
   <c>.</c>
@@ -1457,8 +1469,8 @@
   <w>ráðherra</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>First</i></w>
-  <w><i>Minister</i></w>
+  <w><hi>First</hi></w>
+  <w><hi>Minister</hi></w>
   <c>)</c>
   <w>samkvæmt</w>
   <w>tilnefningu</w>
@@ -1476,9 +1488,9 @@
   <w>þjóðbandalagið</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>Scottish</i></w>
-  <w><i>National</i></w>
-  <w><i>League</i></w>
+  <w><hi>Scottish</hi></w>
+  <w><hi>National</hi></w>
+  <w><hi>League</hi></w>
   <c>)</c>
   <w>stofnað</w>
   <revision id="106">
@@ -1560,7 +1572,7 @@
   <w>sitt</w>
   <revision id="111">
     <original><w>Wind</w><w>of</w><w>Change</w></original>
-    <corrected><w><i>Wind</i></w><w><i>of</i></w><w><i>Change</i></w></corrected>
+    <corrected><w><hi>Wind</hi></w><w><hi>of</hi></w><w><hi>Change</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -1822,9 +1834,9 @@
   <w>löggjafarsamþykkistillögu</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>Legislative</i></w>
-  <w><i>Consent</i></w>
-  <w><i>Motion</i></w>
+  <w><hi>Legislative</hi></w>
+  <w><hi>Consent</hi></w>
+  <w><hi>Motion</hi></w>
   <c>)</c>
   <w>ef</w>
   <w>talið</w>
@@ -1866,8 +1878,8 @@
   <w>þjóðernisyggju</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>civic</i></w>
-  <w><i>nationalism</i></w>
+  <w><hi>civic</hi></w>
+  <w><hi>nationalism</hi></w>
   <c>)</c>
   <revision id="130">
     <original><w>og</w></original>
@@ -1894,9 +1906,9 @@
   <w>Þjóðbandalagið</w>
   <w>stofnaði</w>
   <w>dagblaðið</w>
-  <w><i>The</i></w>
-  <w><i>Scots</i></w>
-  <w><i>Independent</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Scots</hi></w>
+  <w><hi>Independent</hi></w>
   <w>árið 1926</w>
   <w>en</w>
   <w>árið 1928</w>
@@ -1923,12 +1935,12 @@
   <w>Skotlands</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>National</i></w>
-  <w><i>Party</i></w>
-  <w><i>of</i></w>
-  <w><i>Scotland</i></w>
+  <w><hi>National</hi></w>
+  <w><hi>Party</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>Scotland</hi></w>
   <w>eða</w>
-  <w><i>NPS</i></w>
+  <w><hi>NPS</hi></w>
   <c>)</c>
   <c>.</c>
 </s><s n="55">
@@ -2144,9 +2156,9 @@
         <error xtype="wording" eid="0"/>
       </errors>
   </revision>
-  <w><i>Choosing</i></w>
-  <w><i>Scotland's</i></w>
-  <w><i>Future</i></w>
+  <w><hi>Choosing</hi></w>
+  <w><hi>Scotland's</hi></w>
+  <w><hi>Future</hi></w>
   <w>þar</w>
   <w>sem</w>
   <revision id="147">
@@ -2181,8 +2193,8 @@
   <w>sáttmálinn</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>Scottish</i></w>
-  <w><i>Covenant</i></w>
+  <w><hi>Scottish</hi></w>
+  <w><hi>Covenant</hi></w>
   <c>)</c>
   <w>var</w>
   <w>beiðni</w>
@@ -2609,8 +2621,8 @@
   <w>ráðherraembættið</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>Scottish</i></w>
-  <w><i>Office</i></w>
+  <w><hi>Scottish</hi></w>
+  <w><hi>Office</hi></w>
   <c>)</c>
   <w>stofnað</w>
   <w>aftur</w>
@@ -2668,8 +2680,8 @@
   <w>tekjuskatti</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>Tartan</i></w>
-  <w><i>Tax</i></w>
+  <w><hi>Tartan</hi></w>
+  <w><hi>Tax</hi></w>
   <c>)</c>
   <revision id="179">
     <original><c>,</c><w>sem</w><w>það</w><w>hefur</w><w>ennþá</w><w>notað</w></original>
@@ -2975,7 +2987,7 @@
   <w>hátíðin</w>
   <revision id="199">
     <original><w>Burns</w><w>Night</w></original>
-    <corrected><w><i>Burns</i></w><w><i>Night</i></w></corrected>
+    <corrected><w><hi>Burns</hi></w><w><hi>Night</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -3019,7 +3031,7 @@
   <w>að</w>
   <revision id="200">
     <original><w>stofnun</w><w>á</w><w>þeim</w><w>umdeilda</w><w>79</w><w>Group</w></original>
-    <corrected><w>því</w><w>að</w><w>umdeildi</w><w>hópurinn</w><w><i>79</i></w><w><i>Group</i></w><w>var</w><w>stofnaður</w></corrected>
+    <corrected><w>því</w><w>að</w><w>umdeildi</w><w>hópurinn</w><w><hi>79</hi></w><w><hi>Group</hi></w><w>var</w><w>stofnaður</w></corrected>
       <errors>
         <error xtype="wording" idx="194-1" eid="0"/>
         <error xtype="nonit4it" idx="194-2" eid="0"/>
@@ -3208,9 +3220,9 @@
   <w>1978</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>Scotland</i></w>
-  <w><i>Act</i></w>
-  <w><i>1978</i></w>
+  <w><hi>Scotland</hi></w>
+  <w><hi>Act</hi></w>
+  <w><hi>1978</hi></w>
   <c>)</c>
   <revision id="210">
     <original/>
@@ -3369,14 +3381,14 @@
   <w>réttinda</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>National</i></w>
-  <w><i>Association</i></w>
-  <w><i>for</i></w>
-  <w><i>the</i></w>
-  <w><i>Vindication</i></w>
-  <w><i>of</i></w>
-  <w><i>Scottish</i></w>
-  <w><i>Rights</i></w>
+  <w><hi>National</hi></w>
+  <w><hi>Association</hi></w>
+  <w><hi>for</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>Vindication</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>Scottish</hi></w>
+  <w><hi>Rights</hi></w>
   <c>)</c>
   <w>sem</w>
   <w>óskuðu</w>
@@ -3556,8 +3568,8 @@
         <error xtype="dep" depId="147-2" eid="0"/>
       </errors>
   </revision>
-  <w><i>Lib-Lab</i></w>
-  <w><i>pact</i></w>
+  <w><hi>Lib-Lab</hi></w>
+  <w><hi>pact</hi></w>
   <c>.</c>
 </s><s n="99">
   <w>Já-sinnar</w>
@@ -3619,7 +3631,7 @@
   <w>e.</w>
   <revision id="235">
     <original><c>"</c><w>Scottish</w><w>Constitutional</w><w>Convention</w><c>"</c></original>
-    <corrected><w><i>Scottish</i></w><w><i>Constitutional</i></w><w><i>Convention</i></w></corrected>
+    <corrected><w><hi>Scottish</hi></w><w><hi>Constitutional</hi></w><w><hi>Convention</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="208-1" eid="0"/>
         <error xtype="nonit4it" idx="208-1" eid="0"/>
@@ -3668,11 +3680,11 @@
   <w>þing</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>Campaign</i></w>
-  <w><i>for</i></w>
-  <w><i>a</i></w>
-  <w><i>Scottish</i></w>
-  <w><i>Assembly</i></w>
+  <w><hi>Campaign</hi></w>
+  <w><hi>for</hi></w>
+  <w><hi>a</hi></w>
+  <w><hi>Scottish</hi></w>
+  <w><hi>Assembly</hi></w>
   <c>)</c>
   <revision id="240">
     <original><w>stofnuð</w><c>,</c><w>sem</w><w>gaf</w></original>
@@ -3698,9 +3710,9 @@
   <w>1989</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>Claim</i></w>
-  <w><i>of</i></w>
-  <w><i>Right</i></w>
+  <w><hi>Claim</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>Right</hi></w>
   <w><i/></w>
   <w>1989Z</w>
   <c>)</c>
@@ -3717,13 +3729,13 @@
   <w>2010</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>Referendum</i></w>
+  <w><hi>Referendum</hi></w>
   <w><i/></w>
   <c>(</c>
   <w>Scotland</w>
   <c>)</c>
   <w><i/></w>
-  <w><i>Bill</i></w>
+  <w><hi>Bill</hi></w>
   <w><i/></w>
   <w>2010Z</w>
   <c>)</c>
@@ -4011,7 +4023,7 @@
   <w>slagorðinu</w>
   <revision id="263">
     <original><c>„</c><w>Skotland</w><w>sagði</w><w>já</w><c>“</c></original>
-    <corrected><c>:</c><w><i>Skotland</i></w><w><i>sagði</i></w><w><i>já</i></w></corrected>
+    <corrected><c>:</c><w><hi>Skotland</hi></w><w><hi>sagði</hi></w><w><hi>já</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="174-1" eid="0"/>
         <error xtype="missing-colon" idx="174-2" eid="0"/>
@@ -4056,10 +4068,10 @@
   <w>2000</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>Freedom</i></w>
-  <w><i>of</i></w>
-  <w><i>Information</i></w>
-  <w><i>Act</i></w>
+  <w><hi>Freedom</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>Information</hi></w>
+  <w><hi>Act</hi></w>
   <w><i/></w>
   <w>2000Z</w>
   <c>)</c>
@@ -4143,7 +4155,7 @@
   <w>valddreifingu</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>devolution</i></w>
+  <w><hi>devolution</hi></w>
   <c>)</c>
   <w>opinberlega</w>
   <revision id="274">
@@ -4192,9 +4204,9 @@
   <w>Örlagasteininn</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>Stone</i></w>
-  <w><i>of</i></w>
-  <w><i>Scone</i></w>
+  <w><hi>Stone</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>Scone</hi></w>
   <c>)</c>
   <w>úr</w>
   <w>Westminsterhöll</w>
@@ -4280,8 +4292,8 @@
   <w>þjóðaratkvæðagreiðlsuna</w>
   <w>þegar</w>
   <w>herferðin</w>
-  <w><i>Yes</i></w>
-  <w><i>Scotland</i></w>
+  <w><hi>Yes</hi></w>
+  <w><hi>Scotland</hi></w>
   <w>var</w>
   <w>sett</w>
   <w>í</w>
@@ -4433,9 +4445,9 @@
   </revision>
   <c>(</c>
   <w>e.</w>
-  <w><i>Act</i></w>
-  <w><i>of</i></w>
-  <w><i>Proscription</i></w>
+  <w><hi>Act</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>Proscription</hi></w>
   <c>)</c>
   <w>og</w>
   <w>Hálandarýmingarnar</w>
@@ -4521,7 +4533,7 @@
   <w>hét</w>
   <revision id="293">
     <original><c>„</c><w>It's</w><w>Scotland's</w><w>Oil</w><c>“</c></original>
-    <corrected><w><i>It's</i></w><w><i>Scotland's</i></w><w><i>Oil</i></w></corrected>
+    <corrected><w><hi>It's</hi></w><w><hi>Scotland's</hi></w><w><hi>Oil</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="104-1" eid="0"/>
         <error xtype="nonit4it" idx="104-1" eid="0"/>
@@ -4562,7 +4574,7 @@
   <w>afiðnvæðingu</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>deindustrialisation</i></w>
+  <w><hi>deindustrialisation</hi></w>
   <c>)</c>
   <w>og</w>
   <w>orðið</w>
@@ -4623,7 +4635,7 @@
   <w>nema</w>
   <revision id="299">
     <original><w>þeim</w><w>svokölluðu</w><c>„</c><w>fráteknu</w><w>málum</w><c>“</c></original>
-    <corrected><w>svokölluðum</w><w><i>fráteknum</i></w><w><i>málum</i></w></corrected>
+    <corrected><w>svokölluðum</w><w><hi>fráteknum</hi></w><w><hi>málum</hi></w></corrected>
       <errors>
         <error xtype="wording" idx="244-1" eid="0"/>
         <error xtype="nonit4it" idx="244-2" eid="0"/>
@@ -4632,8 +4644,8 @@
   </revision>
   <c>(</c>
   <w>e.</w>
-  <w><i>reserved</i></w>
-  <w><i>matters</i></w>
+  <w><hi>reserved</hi></w>
+  <w><hi>matters</hi></w>
   <c>)</c>
   <c>.</c>
 </s><s n="130">

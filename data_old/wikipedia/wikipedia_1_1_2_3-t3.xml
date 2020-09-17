@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Eins</w>
+  <w>og</w>
+  <w>nafnið</w>
+  <w>bendir</w>
+  <w>til</w>
+  <w>er</w>
+  <w>vöðvabólga</w>
+  <w>bólga</w>
+  <w>í</w>
+  <w>vöðvum</w>
+  <revision id="1">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>en</w>
+  <w>einnig</w>
+  <w>getur</w>
+  <w>verið</w>
+  <w>um</w>
+  <w>að</w>
+  <w>ræða</w>
+  <w>bólgu</w>
+  <w>í</w>
+  <w>aðliggjandi</w>
+  <w>bandvef</w>
+  <revision id="2">
+    <original><c>.</c><w>Orsakir</w><w>vöðvabólgu</w><w>geta</w><w>verið</w><w>margvíslegar</w><c>,</c><w>til</w><w>dæmis</w><c>:</c><w>Þetta</w><w>eru</w><w>algengustu</w><w>orsakir</w><w>vöðvabólgu</w><w>en</w><w>listinn</w><w>er</w><w>engan</w><w>veginn</w><w>tæmandi</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-punctuation" idx="2-1" eid="0" />
+        <error xtype="extra-words" idx="2-2" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Algengast</w>
+  <w>er</w>
+  <w>að</w>
+  <revision id="3">
+    <original><w>vöðvabólgur</w><w>séu</w><w>bundnar</w></original>
+    <corrected><w>vöðvabólga</w><w>sé</w><w>bundin</w></corrected>
+      <errors>
+        <error xtype="plural4singular" idx="3-1" eid="0" />
+        <error xtype="dep" depid="3-1" eid="0" />
+      </errors>
+  </revision>
+  <w>við</w>
+  <w>vöðva</w>
+  <w>í</w>
+  <w>hálsi</w>
+  <w>og</w>
+  <w>baki</w>
+  <revision id="4">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>en</w>
+  <w>hún</w>
+  <w>getur</w>
+  <w>samt</w>
+  <w>lagst</w>
+  <w>á</w>
+  <w>hvaða</w>
+  <w>vöðva</w>
+  <w>líkamans</w>
+  <w>sem</w>
+  <w>er</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Helstu</w>
+  <w>einkenni</w>
+  <w>vöðvabólgu</w>
+  <w>eru</w>
+  <w>staðbundnir</w>
+  <w>verkir</w>
+  <w>í</w>
+  <w>vöðvunum</w>
+  <w>en</w>
+  <w>þeir</w>
+  <w>geta</w>
+  <w>einnig</w>
+  <w>haft</w>
+  <w>leiðni</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Stífni</w>
+  <w>og</w>
+  <w>þreyta</w>
+  <w>í</w>
+  <w>vöðvunum</w>
+  <revision id="5">
+    <original><w>eru</w></original>
+    <corrected><w>er</w></corrected>
+      <errors>
+        <error xtype="agreement" eid="0" />
+      </errors>
+  </revision>
+  <w>einnig</w>
+  <w>einkennandi</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Fyrir</w>
+  <w>þá</w>
+  <w>sem</w>
+  <w>þjást</w>
+  <w>af</w>
+  <w>vöðvabólgu</w>
+  <revision id="6">
+    <original><w>eru</w></original>
+    <corrected><w>er</w></corrected>
+      <errors>
+        <error xtype="agreement" eid="0" />
+      </errors>
+  </revision>
+  <w>hvíld</w>
+  <w>og</w>
+  <w>þjálfun</w>
+  <w>jafn</w>
+  <w>mikilvæg</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Ef</w>
+  <w>um</w>
+  <w>er</w>
+  <w>að</w>
+  <w>ræða</w>
+  <w>vöðvaverki</w>
+  <w>eftir</w>
+  <w>slys</w>
+  <w>eða</w>
+  <w>ofnotkun</w>
+  <revision id="7">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>er</w>
+  <w>mikilvægt</w>
+  <w>að</w>
+  <w>hvíla</w>
+  <w>vöðvann</w>
+  <w>fyrst</w>
+  <w>á</w>
+  <w>eftir</w>
+  <w>meðan</w>
+  <w>hann</w>
+  <w>er</w>
+  <w>að</w>
+  <w>jafna</w>
+  <w>sig</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>Til</w>
+  <w>verkjastillingar</w>
+  <w>og</w>
+  <w>til</w>
+  <w>að</w>
+  <w>minnka</w>
+  <w>bólgur</w>
+  <w>er</w>
+  <w>ráðlagt</w>
+  <w>að</w>
+  <w>nota</w>
+  <w>bólgueyðandi</w>
+  <w>lyf</w>
+  <w>sem</w>
+  <w>hægt</w>
+  <w>er</w>
+  <w>að</w>
+  <w>kaupa</w>
+  <w>í</w>
+  <w>apótekum</w>
+  <w>án</w>
+  <w>lyfseðils</w>
+  <revision id="8">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>svo</w>
+  <w>framarlega</w>
+  <w>sem</w>
+  <w>sjúklingur</w>
+  <w>þoli</w>
+  <w>að</w>
+  <w>taka</w>
+  <w>þessi</w>
+  <w>lyf</w>
+  <c>.</c>
+</s>
+<s n="8">
+  <w>Til</w>
+  <w>eru</w>
+  <w>ýmis</w>
+  <w>ráð</w>
+  <w>sem</w>
+  <w>hafa</w>
+  <w>reynst</w>
+  <w>ágætlega</w>
+  <w>við</w>
+  <w>vöðvabólgu</w>
+  <c>.</c>
+</s>
+<s n="9">
+  <w>Gott</w>
+  <w>er</w>
+  <w>að</w>
+  <w>nota</w>
+  <w>heita</w>
+  <w>og</w>
+  <w>kalda</w>
+  <w>bakstra</w>
+  <w>til</w>
+  <w>skiptis</w>
+  <c>,</c>
+  <w>hvorn</w>
+  <w>í</w>
+  <w>um</w>
+  <w>10</w>
+  <c>-</c>
+  <w>15</w>
+  <w>mínútur</w>
+  <w>í</w>
+  <revision id="9">
+    <original><w>senn-athuga</w></original>
+    <corrected><w>senn</w><c>–</c><w>athuga</w><c>:</c><w>Það</w></corrected>
+      <errors>
+        <error xtype="missing-space" idx="9-1" eid="0" />
+        <error xtype="missing-colon" idx="9-2" eid="0" />
+        <error xtype="missing-word" idx="9-3" eid='0' />
+      </errors>
+  </revision>
+  <w>þarf</w>
+  <w>að</w>
+  <w>enda</w>
+  <w>með</w>
+  <w>köldum</w>
+  <w>bakstri</w>
+  <c>.</c>
+</s>
+<s n="10">
+  <w>Þegar</w>
+  <w>vöðvinn</w>
+  <w>er</w>
+  <w>farinn</w>
+  <w>að</w>
+  <w>jafna</w>
+  <w>sig</w>
+  <w>og</w>
+  <w>bólgurnar</w>
+  <w>að</w>
+  <w>minnka</w>
+  <revision id="10">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>í</w>
+  <w>þeim</w>
+  <revision id="11">
+    <original><w>tilfellum</w></original>
+    <corrected><w>tilvikum</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>um</w>
+  <w>langvinnar</w>
+  <w>vöðvabólgur</w>
+  <w>er</w>
+  <w>að</w>
+  <w>ræða</w>
+  <revision id="12">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>er</w>
+  <w>gott</w>
+  <w>að</w>
+  <w>nota</w>
+  <w>hita</w>
+  <w>á</w>
+  <w>vöðvann</w>
+  <c>.</c>
+</s>
+<s n="11">
+  <w>Til</w>
+  <w>að</w>
+  <w>ná</w>
+  <w>upp</w>
+  <w>fyrri</w>
+  <w>styrk</w>
+  <w>vöðvans</w>
+  <w>er</w>
+  <w>mikilvægt</w>
+  <w>að</w>
+  <w>byrja</w>
+  <w>varlega</w>
+  <w>á</w>
+  <w>styrktar- og teygjuæfingum</w>
+  <w>og</w>
+  <w>auka</w>
+  <w>þær</w>
+  <w>smám</w>
+  <w>saman</w>
+  <c>.</c>
+</s>
+<s n="12">
+  <w>Þá</w>
+  <w>er</w>
+  <w>einnig</w>
+  <w>mikilvægt</w>
+  <w>að</w>
+  <w>reyna</w>
+  <w>að</w>
+  <w>finna</w>
+  <w>orsök</w>
+  <w>bólgunnar</w>
+  <w>og</w>
+  <w>gera</w>
+  <revision id="13">
+    <original></original>
+    <corrected><w>viðeigandi</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>breytingar</w>
+  <revision id="14">
+    <original><w>þar</w><w>á</w><c>.</c><w>Til</w></original>
+    <corrected><c>,</c><w>til</w></corrected>
+      <errors>
+        <error xtype="extra-words" idx="14-1" eid="0" />
+        <error xtype="period4comma" idx="14-2" eid="0" />
+      </errors>
+  </revision>
+  <w>dæmis</w>
+  <revision id="15">
+    <original><w>að</w><w>gera</w><w>breytingar</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-words" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>vinnuaðstöðu</w>
+  <w>ef</w>
+  <w>orsökin</w>
+  <w>er</w>
+  <w>röng</w>
+  <w>líkamsbeiting</w>
+  <w>við</w>
+  <w>vinnu</w>
+  <revision id="16">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>eða</w>
+  <w>reyna</w>
+  <w>að</w>
+  <w>draga</w>
+  <w>úr</w>
+  <w>streitu</w>
+  <w>ef</w>
+  <w>orsökin</w>
+  <w>liggur</w>
+  <w>þar</w>
+  <c>.</c>
+</s>
+<s n="13">
+  <w>Öll</w>
+  <w>iðja</w>
+  <w>sem</w>
+  <w>hefur</w>
+  <w>jákvæð</w>
+  <w>áhrif</w>
+  <w>og</w>
+  <w>dregur</w>
+  <w>úr</w>
+  <w>streitu</w>
+  <w>er</w>
+  <w>af</w>
+  <w>hinu</w>
+  <w>góða</w>
+  <c>,</c>
+  <w>til</w>
+  <w>dæmis</w>
+  <w>öll</w>
+  <w>almenn</w>
+  <w>hreyfing</w>
+  <w>svo</w>
+  <w>sem</w>
+  <w>sund</w>
+  <c>,</c>
+  <w>gönguferðir</w>
+  <w>og</w>
+  <w>skokk</w>
+  <c>.</c>
+</s>
+<s n="14">
+  <w>Þá</w>
+  <w>getur</w>
+  <w>einnig</w>
+  <w>verið</w>
+  <w>gott</w>
+  <w>að</w>
+  <w>fara</w>
+  <w>í</w>
+  <w>heitt</w>
+  <w>bað</w>
+  <c>,</c>
+  <w>slökunarnudd</w>
+  <w>og</w>
+  <w>gera</w>
+  <w>léttar</w>
+  <w>teygjuæfingar</w>
+  <w>eins</w>
+  <w>oft</w>
+  <w>og</w>
+  <w>mögulegt</w>
+  <w>er</w>
+  <c>.</c>
+</s>
+<s n="15">
+  <w>Í</w>
+  <w>ákveðnum</w>
+  <w>tilfellum</w>
+  <w>getur</w>
+  <w>verið</w>
+  <w>nauðsynlegt</w>
+  <w>að</w>
+  <w>hafa</w>
+  <w>samband</w>
+  <w>við</w>
+  <w>lækni</w>
+  <c>,</c>
+  <w>til</w>
+  <w>dæmis</w>
+  <w>ef</w>
+  <w>um</w>
+  <w>alvarlega</w>
+  <w>tognun</w>
+  <w>á</w>
+  <w>vöðva</w>
+  <w>er</w>
+  <w>að</w>
+  <w>ræða</w>
+  <w>eða</w>
+  <w>slæma</w>
+  <w>vöðvaverki</w>
+  <w>af</w>
+  <w>óþekktum</w>
+  <w>orsökum</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

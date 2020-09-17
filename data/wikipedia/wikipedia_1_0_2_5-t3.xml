@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_5-t3.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Eftir</w>
@@ -21,9 +33,9 @@
   <w>og</w>
   <w>ákvæði</w>
   <w>um</w>
-  <w><i>domaine</i></w>
-  <w><i>public</i></w>
-  <w><i>payant</i></w>
+  <w><hi>domaine</hi></w>
+  <w><hi>public</hi></w>
+  <w><hi>payant</hi></w>
   <w>duttu</w>
   <w>út</w>
   <w>í</w>
@@ -47,9 +59,9 @@
   <w>heimshluta</w>
   <c>.</c>
 </s><s n="3">
-  <w><i>Domaine</i></w>
-  <w><i>public</i></w>
-  <w><i>payant</i></w>
+  <w><hi>Domaine</hi></w>
+  <w><hi>public</hi></w>
+  <w><hi>payant</hi></w>
   <w>er</w>
   <w>þannig</w>
   <w>eins</w>
@@ -88,8 +100,8 @@
       </errors>
   </revision>
   <w>kallað</w>
-  <w><i>diritto</i></w>
-  <w><i>demaniale</i></w>
+  <w><hi>diritto</hi></w>
+  <w><hi>demaniale</hi></w>
   <c>(</c>
   <w>ríkisréttur</w>
   <c>)</c>
@@ -108,7 +120,7 @@
 </s><s n="5">
   <revision id="2">
     <original><w>Domaine</w><w>public</w><w>payant</w></original>
-    <corrected><w><i>Domaine</i></w><w><i>public</i></w><w><i>payant</i></w></corrected>
+    <corrected><w><hi>Domaine</hi></w><w><hi>public</hi></w><w><hi>payant</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -291,9 +303,9 @@
   <w>menningarleg</w>
   <w>réttindi</w>
   <w>var</w>
-  <w><i>domaine</i></w>
-  <w><i>public</i></w>
-  <w><i>payant</i></w>
+  <w><hi>domaine</hi></w>
+  <w><hi>public</hi></w>
+  <w><hi>payant</hi></w>
   <c>-kerfið</c>
   <w>meðal</w>
   <w>þess</w>

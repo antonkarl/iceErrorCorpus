@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_250-t24.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Vestur-Kongó</w>
@@ -37,7 +49,7 @@
   <w>sem</w>
   <w>áður</w>
   <w>hét</w>
-  <w><i>Saír</i></w>
+  <w><hi>Saír</hi></w>
   <c>)</c>
   <revision id="4">
     <original><w>er</w><w>land</w><w>í</w><w>Mið-Afríku</w></original>

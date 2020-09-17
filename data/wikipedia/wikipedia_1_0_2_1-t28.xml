@@ -1,14 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_1-t28.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Bastillan</w>
   <c>(</c>
   <w>franska</w>
   <c>:</c>
-  <w><i>La</i></w>
-  <w><i>Bastille</i></w>
+  <w><hi>La</hi></w>
+  <w><hi>Bastille</hi></w>
   <c>)</c>
   <w>er</w>
   <w>sögufrægt</w>
@@ -24,8 +36,8 @@
   <w>var</w>
   <w>þá</w>
   <w>nefnd</w>
-  <w><i>Bastille</i></w>
-  <w><i>Saint-Antoiene</i></w>
+  <w><hi>Bastille</hi></w>
+  <w><hi>Saint-Antoiene</hi></w>
   <c>.</c>
 </s>
 <s n="2">
@@ -51,7 +63,7 @@
   <w>var</w>
   <w>oft</w>
   <w>kölluð</w>
-  <w><i>fangakastalinn</i></w>
+  <w><hi>fangakastalinn</hi></w>
   <w>og</w>
   <w>hún</w>
   <w>var</w>
@@ -59,7 +71,7 @@
   <w>einnig</w>
   <w>notuð</w>
   <w>sem</w>
-  <w><i>vopnabúr</i></w>
+  <w><hi>vopnabúr</hi></w>
   <w>en</w>
   <w>var</w>
   <w>rifin</w>

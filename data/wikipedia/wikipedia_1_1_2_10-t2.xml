@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_10-t2.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Jersey</w>
@@ -243,9 +255,9 @@
 <s n="12">
   <w>Í</w>
   <w>ritinu</w>
-  <w><i>Itinerarium</i></w>
-  <w><i>Antonini</i></w>
-  <w><i>Augusti</i></w>
+  <w><hi>Itinerarium</hi></w>
+  <w><hi>Antonini</hi></w>
+  <w><hi>Augusti</hi></w>
   <w>frá</w>
   <w>3.</w>
   <w>öld</w>
@@ -256,15 +268,15 @@
   <w>taldar</w>
   <w>upp</w>
   <w>sem</w>
-  <w><i>Sarnia</i></w>
+  <w><hi>Sarnia</hi></w>
   <c>,</c>
-  <w><i>Caesarea</i></w>
+  <w><hi>Caesarea</hi></w>
   <c>,</c>
-  <w><i>Barsa</i></w>
+  <w><hi>Barsa</hi></w>
   <c>,</c>
-  <w><i>Silia</i></w>
+  <w><hi>Silia</hi></w>
   <w>og</w>
-  <w><i>Andium</i></w>
+  <w><hi>Andium</hi></w>
   <c>,</c>
   <w>en</w>
   <w>ekki</w>
@@ -282,7 +294,7 @@
   <w>17.</w>
   <w>öld</w>
   <w>hefur</w>
-  <w><i>Caesarea</i></w>
+  <w><hi>Caesarea</hi></w>
   <w>verið</w>
   <w>notað</w>
   <w>sem</w>
@@ -1047,7 +1059,7 @@
         <error xtype="missing-word" eid="0" />
       </errors>
   </revision>
-  <w><i>Connétable</i></w>
+  <w><hi>Connétable</hi></w>
   <c>)</c>
   <w>sem</w>
   <w>er</w>

@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_3-t8.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Íbúafjöldi</w>
@@ -138,7 +150,7 @@
   <w>eldflaugaárásir</w>
   <revision id="8">
     <original><w>Hezbollah</w></original>
-    <corrected><w><i>Hezbollah</i></w></corrected>
+    <corrected><w><hi>Hezbollah</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -300,7 +312,7 @@
   <c>(</c>
   <revision id="20">
     <original><w>maronítar</w></original>
-    <corrected><w><i>maronítar</i></w></corrected>
+    <corrected><w><hi>maronítar</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -403,7 +415,7 @@
   <w>Frakkar</w>
   <revision id="25">
     <original><w>Líbanska</w><w>lýðveldið</w></original>
-    <corrected><w><i>Líbanska</i></w><w><i>lýðveldið</i></w></corrected>
+    <corrected><w><hi>Líbanska</hi></w><w><hi>lýðveldið</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -472,9 +484,9 @@
       </errors>
   </revision>
   <w>‎</w>
-  <w><i>Libnān</i></w>
+  <w><hi>Libnān</hi></w>
   <w>eða</w>
-  <w><i>Lubnān</i></w>
+  <w><hi>Lubnān</hi></w>
   <c>;</c>
   <w>líbönsk</w>
   <w>arabíska</w>
@@ -554,7 +566,7 @@
   <w>hendur</w>
   <revision id="31">
     <original><w>mamlúka</w></original>
-    <corrected><w><i>mamlúka</i></w></corrected>
+    <corrected><w><hi>mamlúka</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

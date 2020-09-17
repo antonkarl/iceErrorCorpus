@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_1-t0.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Demetria</w>
   <w>Devonne</w>
-  <w><i>Demi</i></w>
+  <w><hi>Demi</hi></w>
   <w>Lovato</w>
   <c>,</c>
   <w>betur</w>
@@ -26,23 +38,23 @@
   <w>fræg</w>
   <w>fyrir</w>
   <w>myndirnar</w>
-  <w><i>Camp</i></w>
-  <w><i>Rock</i></w>
+  <w><hi>Camp</hi></w>
+  <w><hi>Rock</hi></w>
   <c>,</c>
-  <w><i>Camp</i></w>
-  <w><i>Rock</i></w>
-  <w><i></i></w>
+  <w><hi>Camp</hi></w>
+  <w><hi>Rock</hi></w>
+  <w><hi></hi></w>
   <w>2Z</w>
   <c>:</c>
-  <w><i>The</i></w>
-  <w><i>Final</i></w>
-  <w><i>Jam'</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Final</hi></w>
+  <w><hi>Jam'</hi></w>
   <w>og</w>
   <w>þættina</w>
-  <w><i>Sonny</i></w>
-  <w><i>with</i></w>
-  <w><i>a</i></w>
-  <w><i>Chance</i></w>
+  <w><hi>Sonny</hi></w>
+  <w><hi>with</hi></w>
+  <w><hi>a</hi></w>
+  <w><hi>Chance</hi></w>
   <w>þar</w>
   <w>sem</w>
   <revision id="0">
@@ -92,7 +104,7 @@
   <w>annars</w>
   <revision id="3">
     <original><w>Skyscraper</w></original>
-    <corrected><w><i>Skyscraper</i></w></corrected>
+    <corrected><w><hi>Skyscraper</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -100,7 +112,7 @@
   <c>,</c>
   <revision id="4">
     <original><w>Give</w><w>Your</w><w>Heart</w><w>A</w><w>Break</w></original>
-    <corrected><w><i>Give</i></w><w><i>Your</i></w><w><i>Heart</i></w><w><i>A</i></w><w><i>Break</i></w></corrected>
+    <corrected><w><hi>Give</hi></w><w><hi>Your</hi></w><w><hi>Heart</hi></w><w><hi>A</hi></w><w><hi>Break</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -108,7 +120,7 @@
   <c>,</c>
   <revision id="5">
     <original><w>Shadows</w></original>
-    <corrected><w><i>Shadows</i></w></corrected>
+    <corrected><w><hi>Shadows</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -116,7 +128,7 @@
   <c>,</c>
   <revision id="6">
     <original><w>Who</w><w>Will</w><w>I</w><w>Be</w></original>
-    <corrected><w><i>Who</i></w><w><i>Will</i></w><w><i>I</i></w><w><i>Be</i></w></corrected>
+    <corrected><w><hi>Who</hi></w><w><hi>Will</hi></w><w><hi>I</hi></w><w><hi>Be</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -124,7 +136,7 @@
   <c>,</c>
   <revision id="7">
     <original><w>Our</w><w>Time</w><w>Is</w><w>Here</w></original>
-    <corrected><w><i>Our</i></w><w><i>Time</i></w><w><i>Is</i></w><w><i>Here</i></w></corrected>
+    <corrected><w><hi>Our</hi></w><w><hi>Time</hi></w><w><hi>Is</hi></w><w><hi>Here</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -132,7 +144,7 @@
   <c>,</c>
   <revision id="8">
     <original><w>We</w><w>Rock</w></original>
-    <corrected><w><i>We</i></w><w><i>Rock</i></w></corrected>
+    <corrected><w><hi>We</hi></w><w><hi>Rock</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -140,7 +152,7 @@
   <c>,</c>
   <revision id="9">
     <original><w>Believe</w><w>In</w><w>Me</w></original>
-    <corrected><w><i>Believe</i></w><w><i>In</i></w><w><i>Me</i></w></corrected>
+    <corrected><w><hi>Believe</hi></w><w><hi>In</hi></w><w><hi>Me</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -148,7 +160,7 @@
   <c>,</c>
   <revision id="10">
     <original><w>Stay</w><w>With</w><w>Me</w></original>
-    <corrected><w><i>Stay</i></w><w><i>With</i></w><w><i>Me</i></w></corrected>
+    <corrected><w><hi>Stay</hi></w><w><hi>With</hi></w><w><hi>Me</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>

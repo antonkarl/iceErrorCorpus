@@ -1,0 +1,244 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader/>
+<text><body><p n="1">
+<s n="1">
+  <revision id="1">
+    <original><w>Lionel</w><w>Messi</w><w>var</w><w>maðurinn</w><w>á</w><w>bak</w><w>við</w><w>bæði</w><w>tvö</w><w>fyrstu</w><w>mörkin</w><w>sem</w><w>komu</w><w>í</w><w>fyrri</w><w>hálfleik</w></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-words" eid="0"/>
+      </errors>
+  </revision>
+  <c>.</c>
+</s><s n="2">
+  <w>Lionel</w>
+  <w>Messi</w>
+  <revision id="2">
+    <original><w>bjó</w><w>til</w></original>
+    <corrected><w>skapaði</w><w>færi</w><w>fyrir</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
+  <w>tvö</w>
+  <w>fyrstu</w>
+  <revision id="3">
+    <original><w>mörkin</w><w>fyrir</w></original>
+    <corrected><w>mörk</w></corrected>
+      <errors>
+        <error xtype="def4ind" idx="6-1" eid="0"/>
+        <error xtype="extra-word" idx="6-2" eid="0"/>
+      </errors>
+  </revision>
+  <w>Barcelona</w>
+  <revision id="4">
+    <original><w>í</w><w>þessum</w><w>leik</w></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-words" eid="0"/>
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>komu</w>
+  <w>þau</w>
+  <w>bæði</w>
+  <w>á</w>
+  <w>fyrstu</w>
+  <w>24</w>
+  <w>mínútum</w>
+  <w>leiksins</w>
+  <c>.</c>
+</s><s n="3">
+  <w>Barcelona</w>
+  <w>vann</w>
+  <w>3</w>
+  <c>-</c>
+  <w>1</w>
+  <w>sigur</w>
+  <w>á</w>
+  <w>hollenska</w>
+  <w>liðinu</w>
+  <w>Ajax</w>
+  <w>á</w>
+  <w>Nývangi</w>
+  <w>í</w>
+  <w>3.</w>
+  <w>umferð</w>
+  <w>Meistaradeildarinnar</w>
+  <w>í</w>
+  <w>kvöld</w>
+  <c>.</c>
+</s><s n="4">
+  <w>Ajax-menn</w>
+  <w>gáfust</w>
+  <w>ekki</w>
+  <w>upp</w>
+  <w>og</w>
+  <w>Anwar</w>
+  <w>El</w>
+  <w>Ghazi</w>
+  <w>minnkaði</w>
+  <w>muninn</w>
+  <w>í</w>
+  <w>2</w>
+  <c>-</c>
+  <w>1</w>
+  <revision id="5">
+    <original/>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-commas" idx="10-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>tveimur</w>
+  <w>mínútum</w>
+  <w>fyrir</w>
+  <w>leikslok</w>
+  <revision id="6">
+    <original/>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="dep" depId="10-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>en</w>
+  <w>El</w>
+  <w>Ghazi</w>
+  <w>kom</w>
+  <revision id="7">
+    <original><w>einmitt</w><w>inná</w></original>
+    <corrected><w>inn</w><w>á</w></corrected>
+      <errors>
+        <error xtype="extra-word" idx="12-1" eid="0"/>
+        <error xtype="merged-words" idx="12-2" eid="0"/>
+      </errors>
+  </revision>
+  <w>fyrir</w>
+  <w>Kolbein</w>
+  <w>Sigþórsson</w>
+  <w>fimmtán</w>
+  <w>mínútum</w>
+  <w>fyrr</w>
+  <c>.</c>
+</s><s n="5">
+  <w>Messi</w>
+  <w>lagði</w>
+  <w>fyrst</w>
+  <w>upp</w>
+  <w>mark</w>
+  <w>fyrir</w>
+  <w>Brasilíumanninn</w>
+  <w>Neymar</w>
+  <w>á</w>
+  <w>frábæran</w>
+  <w>hátt</w>
+  <revision id="8">
+    <original><w>á</w></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-word" eid="0"/>
+      </errors>
+  </revision>
+  <w>strax</w>
+  <w>á</w>
+  <revision id="9">
+    <original><w>7.</w></original>
+    <corrected><w>sjöundu</w></corrected>
+      <errors>
+        <error xtype="number4word" eid="0"/>
+      </errors>
+  </revision>
+  <w>mínútu</w>
+  <w>leiksins</w>
+  <w>en</w>
+  <w>skoraði</w>
+  <w>síðan</w>
+  <w>sjálfur</w>
+  <w>á</w>
+  <w>24.</w>
+  <w>mínútu</w>
+  <w>eftir</w>
+  <w>sendingu</w>
+  <w>frá</w>
+  <w>Andrés</w>
+  <w>Iniesta</w>
+  <c>.</c>
+</s><s n="6">
+  <w>Honum</w>
+  <w>tókst</w>
+  <w>ekki</w>
+  <w>að</w>
+  <revision id="10">
+    <original><w>enda</w><w>biðina</w><w>sína</w><w>eftir</w><w>marki</w></original>
+    <corrected><w>uppfylla</w><w>langþráðan</w><w>draum</w><w>um</w><w>að</w><w>skora</w><w>mark</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>Meistaradeildinni</w>
+  <w>en</w>
+  <w>þetta</w>
+  <w>var</w>
+  <w>hans</w>
+  <w>tíundi</w>
+  <w>leikur</w>
+  <w>í</w>
+  <revision id="11">
+    <original/>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="missing-quots" idx="3-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>deild</w>
+  <w>þeirra</w>
+  <w>bestu</w>
+  <revision id="12">
+    <original/>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="dep" depId="3-1" eid="0"/>
+      </errors>
+  </revision>
+  <c>.</c>
+</s><s n="7">
+  <w>Kolbeinn</w>
+  <w>Sigþórsson</w>
+  <w>var</w>
+  <w>í</w>
+  <w>byrjunarliði</w>
+  <w>Ajax</w>
+  <w>og</w>
+  <w>spilaði</w>
+  <w>fyrstu</w>
+  <w>72</w>
+  <w>mínúturnar</w>
+  <w>í</w>
+  <w>leiknum</w>
+  <c>.</c>
+</s><s n="8">
+  <w>Sandro</w>
+  <w>innsiglaði</w>
+  <w>síðan</w>
+  <w>sigurinn</w>
+  <w>fyrir</w>
+  <w>Barcelona</w>
+  <w>með</w>
+  <w>marki</w>
+  <w>á</w>
+  <w>fjórðu</w>
+  <w>mínútu</w>
+  <w>í</w>
+  <w>uppbótartíma</w>
+  <w>en</w>
+  <w>skömmu</w>
+  <w>síðar</w>
+  <w>var</w>
+  <w>leikurinn</w>
+  <w>flautaður</w>
+  <w>af</w>
+  <c>.</c>
+</s></p></body></text>
+</TEI>

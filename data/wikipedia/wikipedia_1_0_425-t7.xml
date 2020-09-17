@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_425-t7.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>PL</w>
@@ -250,7 +262,7 @@
   <w>taflan</w>
   <revision id="9">
     <original><w>Skraning</w></original>
-    <corrected><w><i>Skráning</i></w></corrected>
+    <corrected><w><hi>Skráning</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>

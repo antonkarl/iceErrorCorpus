@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>visir-2014_10_400-t20.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Maður</w>
@@ -8,7 +20,7 @@
   <w>kallar</w>
   <w>sig</w>
   <revision id="1">
-    <original><w><i>Winter</i></w></original>
+    <original><w><hi>Winter</hi></w></original>
     <corrected><w>Winter</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -102,8 +114,8 @@
   </revision>
   <w>á</w>
   <w>vefsíðunni</w>
-  <w><i>Starbucks</i></w>
-  <w><i>Everywhere</i></w>
+  <w><hi>Starbucks</hi></w>
+  <w><hi>Everywhere</hi></w>
   <w>og</w>
   <w>á</w>
   <w>Facebook</w>

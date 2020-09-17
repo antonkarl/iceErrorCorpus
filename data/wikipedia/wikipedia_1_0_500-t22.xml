@@ -1,11 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_500-t22.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <revision id="1">
     <original><w>iPod</w><w>touch</w><c>(</c><w>stundum</w><w>kallaður</w><w>iTouch</w><c>)</c><w>er</w><w>tónlistarspilari</w><c>,</c></original>
-    <corrected><w><i>iPod</i></w><w><i>touch</i></w><c>,</c><w>sem</w><w>stundum</w><w>er</w><w>kallaður</w><w>iTouch</w><c>,</c><w>er</w><w>tónlistarspilari</w><w>sem</w><w>hannaður</w><w>var</w><w>af</w><w>Apple</w></corrected>
+    <corrected><w><hi>iPod</hi></w><w><hi>touch</hi></w><c>,</c><w>sem</w><w>stundum</w><w>er</w><w>kallaður</w><w>iTouch</w><c>,</c><w>er</w><w>tónlistarspilari</w><w>sem</w><w>hannaður</w><w>var</w><w>af</w><w>Apple</w></corrected>
       <errors>
         <error xtype="nonit4it" idx="1-1" eid="0"/>
         <error xtype="bracket4comma" idx="1-2" eid="0"/>

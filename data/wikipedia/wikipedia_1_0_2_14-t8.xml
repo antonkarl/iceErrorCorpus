@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_14-t8.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Markaðurinn</w>
@@ -67,7 +79,7 @@
   <w>er</w>
   <w>ostafaðirinn</w>
   <c>(</c>
-  <w><i>Kaasvader</i></w>
+  <w><hi>Kaasvader</hi></w>
   <c>)</c>
   <c>,</c>
   <w>en</w>
@@ -139,7 +151,7 @@
   <w>sem</w>
   <w>merkir</w>
   <revision id="4">
-    <original><w><i>hin</i></w><w><i>sigursæla</i></w><w><i>Alkmaar</i></w></original>
+    <original><w><hi>hin</hi></w><w><hi>sigursæla</hi></w><w><hi>Alkmaar</hi></w></original>
     <corrected><c>„</c><w>hin</w><w>sigursæla</w><w>Alkmaar</w><c>“</c></corrected>
       <errors>
         <error xtype="missing-quots" idx="4-1" eid="0"/>

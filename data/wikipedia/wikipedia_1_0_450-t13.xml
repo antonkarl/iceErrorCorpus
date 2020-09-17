@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_450-t13.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Scottie</w>
@@ -42,11 +54,11 @@
   <w>hlutverk</w>
   <w>sín</w>
   <w>í</w>
-  <w><i>Brotherhood</i></w>
+  <w><hi>Brotherhood</hi></w>
   <c>,</c>
-  <w><i>NCIS</i></w>
+  <w><hi>NCIS</hi></w>
   <w>og</w>
-  <w><i>Trauma</i></w>
+  <w><hi>Trauma</hi></w>
   <c>.</c>
 </s>
 <s n="2">
@@ -134,7 +146,7 @@
   <c>:</c>
   <revision id="12">
     <original><w>Macbeth</w></original>
-    <corrected><w><i>Macbeth</i></w></corrected>
+    <corrected><w><hi>Macbeth</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -145,7 +157,7 @@
   <c>,</c>
   <revision id="13">
     <original><w>Marisol</w></original>
-    <corrected><w><i>Marisol</i></w></corrected>
+    <corrected><w><hi>Marisol</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -156,7 +168,7 @@
   <w>og</w>
   <revision id="14">
     <original><w>The</w><w>Oresteia</w></original>
-    <corrected><w><i>The</i></w><w><i>Oresteia</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Oresteia</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -199,7 +211,7 @@
   <w>kvikmyndinni</w>
   <revision id="16">
     <original><w>Center</w><w>Stage</w></original>
-    <corrected><w><i>Center</i></w><w><i>Stage</i></w></corrected>
+    <corrected><w><hi>Center</hi></w><w><hi>Stage</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -224,7 +236,7 @@
   <c>:</c>
   <revision id="17">
     <original><w>Star</w><w>Trek</w></original>
-    <corrected><w><i>Star</i></w><w><i>Trek</i></w></corrected>
+    <corrected><w><hi>Star</hi></w><w><hi>Trek</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -232,7 +244,7 @@
   <c>,</c>
   <revision id="18">
     <original><w>Skyline</w></original>
-    <corrected><w><i>Skyline</i></w></corrected>
+    <corrected><w><hi>Skyline</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -240,7 +252,7 @@
   <w>og</w>
   <revision id="19">
     <original><w>Pornstar</w></original>
-    <corrected><w><i>Pornstar</i></w></corrected>
+    <corrected><w><hi>Pornstar</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -258,7 +270,7 @@
   <w>í</w>
   <revision id="20">
     <original><w>Brotherhood</w></original>
-    <corrected><w><i>Brotherhood</i></w></corrected>
+    <corrected><w><hi>Brotherhood</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -277,7 +289,7 @@
   <w>í</w>
   <revision id="21">
     <original><w>NCIS</w></original>
-    <corrected><w><i>NCIS</i></w></corrected>
+    <corrected><w><hi>NCIS</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -300,7 +312,7 @@
   <w>í</w>
   <revision id="22">
     <original><w>Trauma</w></original>
-    <corrected><w><i>Trauma</i></w></corrected>
+    <corrected><w><hi>Trauma</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -331,7 +343,7 @@
   <c>:</c>
   <revision id="23">
     <original><c>,</c><w>Ugly</w><w>Betty</w></original>
-    <corrected><w><i>Ugly</i></w><w><i>Betty</i></w></corrected>
+    <corrected><w><hi>Ugly</hi></w><w><hi>Betty</hi></w></corrected>
       <errors>
         <error xtype="extra-comma" eid="0" />
         <error xtype="nonit4it" eid="0" />
@@ -340,7 +352,7 @@
   <c>,</c>
   <revision id="24">
     <original><w>Eli</w><w>Stone</w></original>
-    <corrected><w><i>Eli</i></w><w><i>Stone</i></w></corrected>
+    <corrected><w><hi>Eli</hi></w><w><hi>Stone</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -348,7 +360,7 @@
   <c>,</c>
   <revision id="25">
     <original><w>Bones</w></original>
-    <corrected><w><i>Bones</i></w></corrected>
+    <corrected><w><hi>Bones</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -356,7 +368,7 @@
   <c>,</c>
   <revision id="26">
     <original><w>The</w><w>Closer</w></original>
-    <corrected><w><i>The</i></w><w><i>Closer</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Closer</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -364,7 +376,7 @@
   <w>og</w>
   <revision id="27">
     <original><w>Rizzoli</w><c>&amp;</c><w>Isles</w></original>
-    <corrected><w><i>Rizzoli</i></w><w><i><c>&amp;</c></i></w><w><i>Isles</i></w></corrected>
+    <corrected><w><hi>Rizzoli</hi></w><w><hi><c>&amp;</c></hi></w><w><hi>Isles</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>

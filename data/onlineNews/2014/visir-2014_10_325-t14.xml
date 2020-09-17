@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>visir-2014_10_325-t14.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <c>„</c>
@@ -373,7 +385,7 @@
   <w>af</w>
   <revision id="14">
     <original><w>iittala-dóti</w></original>
-    <corrected><w><i>iittala-dóti</i></w></corrected>
+    <corrected><w><hi>iittala-dóti</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

@@ -1,14 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_11-t7.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Garðabrúða</w>
   <c>(</c>
-  <w><i>Valeriana</i></w>
-  <w><i>officinalis</i></w>
+  <w><hi>Valeriana</hi></w>
+  <w><hi>officinalis</hi></w>
   <c>,</c>
-  <w><i>Valerian</i></w>
+  <w><hi>Valerian</hi></w>
   <c>)</c>
   <w>er</w>
   <w>harðgerð</w>
@@ -139,8 +151,8 @@
   <w>heitir</w>
   <w>á</w>
   <w>latnesku</w>
-  <w><i>Valeriana</i></w>
-  <w><i>officinalis</i></w>
+  <w><hi>Valeriana</hi></w>
+  <w><hi>officinalis</hi></w>
   <w>en</w>
   <w>nafnið</w>
   <w>er</w>
@@ -222,7 +234,7 @@
   <c>,</c>
   <revision id="10">
     <original><w>allheal</w><c>“</c></original>
-    <corrected><w><i>all-heal</i></w></corrected>
+    <corrected><w><hi>all-heal</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="10-1" eid="0" />
         <error xtype="missing-dash" idx="10-1" eid="0" />
@@ -303,7 +315,7 @@
   <c>(</c>
   <revision id="14">
     <original><w>oversensitivity</w></original>
-    <corrected><w>e.</w><w><i>oversensitivity</i></w></corrected>
+    <corrected><w>e.</w><w><hi>oversensitivity</hi></w></corrected>
       <errors>
         <error xtype="missing-word" idx="14-1" eid="0" />
         <error xtype="nonit4it" idx="14-2" eid="0" />
@@ -322,7 +334,7 @@
   <c>(</c>
   <revision id="15">
     <original><w>spasmodic</w><w>asthma</w></original>
-    <corrected><w>e.</w><w><i>spasmodic</i></w><w><i>asthma</i></w></corrected>
+    <corrected><w>e.</w><w><hi>spasmodic</hi></w><w><hi>asthma</hi></w></corrected>
       <errors>
         <error xtype="missing-word" idx="15-1" eid="0" />
         <error xtype="nonit4it" idx="15-2" eid="0" />
@@ -351,7 +363,7 @@
   <c>(</c>
   <revision id="16">
     <original><w>shel</w><w>shock</w></original>
-    <corrected><w>e.</w><w><i>shell</i></w><w><i>shock</i></w></corrected>
+    <corrected><w>e.</w><w><hi>shell</hi></w><w><hi>shock</hi></w></corrected>
       <errors>
         <error xtype="missing-word" idx="16-1" eid="0" />
         <error xtype="nonit4it" idx="16-2" eid="0" />
@@ -407,7 +419,7 @@
   <c>(</c>
   <revision id="18">
     <original><w>penetrating</w></original>
-    <corrected><w>e.</w><w><i>penetrating</i></w></corrected>
+    <corrected><w>e.</w><w><hi>penetrating</hi></w></corrected>
       <errors>
         <error xtype="missing-word" idx="18-1" eid="0" />
         <error xtype="nonit4it" idx="18-2" eid="0" />
@@ -590,7 +602,7 @@
   <w>Frakklandi</w>
   <revision id="31">
     <original><w>sem</w><c>„</c><w>herbe</w><w>aux</w><w>chats</w><c>“</c><w>eða</w><w>kattarrót</w></original>
-    <corrected><w>er</w><w>kattarrót</w><c>(</c><w>fr.</w><w><i>herbe</i></w><w><i>aux</i></w><w><i>chats</i></w></corrected>
+    <corrected><w>er</w><w>kattarrót</w><c>(</c><w>fr.</w><w><hi>herbe</hi></w><w><hi>aux</hi></w><w><hi>chats</hi></w></corrected>
       <errors>
         <error xtype="wording" eid="0" />
         <error xtype="extra-quots" idx="31-1" eid="0" />
@@ -2382,7 +2394,7 @@
 <s n="82">
   <revision id="98">
     <original><w>In</w><w>vitro</w><w>rannsókn</w></original>
-    <corrected><w><i>In</i></w><w><i>vitro-rannsókn</i></w></corrected>
+    <corrected><w><hi>In</hi></w><w><hi>vitro-rannsókn</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="98-1" eid="0" />
         <error xtype="missing-dash" idx="98-2" eid="0" />
@@ -2679,8 +2691,8 @@
   <w>eða</w>
   <w>öðru</w>
   <w>nafni</w>
-  <w><i>Valeriana</i></w>
-  <w><i>officinalis</i></w>
+  <w><hi>Valeriana</hi></w>
+  <w><hi>officinalis</hi></w>
   <revision id="111">
     <original><w>hefur</w></original>
     <corrected><w>hafi</w></corrected>
@@ -2831,7 +2843,7 @@
   <w>í</w>
   <revision id="118">
     <original><c>„</c><w>Læknisfræðileg</w><w>notkun</w><c>“</c></original>
-    <corrected><w>kaflanum</w><c>:</c><w><i>Læknisfræðileg</i></w><w><i>notkun</i></w></corrected>
+    <corrected><w>kaflanum</w><c>:</c><w><hi>Læknisfræðileg</hi></w><w><hi>notkun</hi></w></corrected>
       <errors>
         <error xtype="missing-word" idx="118-1" eid="0" />
         <error xtype="extra-quots" idx="118-2" eid="0" />
@@ -3595,8 +3607,8 @@
   <w>Latneska</w>
   <w>nafn</w>
   <w>garðabrúðu</w>
-  <w><i>Valeriana</i></w>
-  <w><i>officinalis</i></w>
+  <w><hi>Valeriana</hi></w>
+  <w><hi>officinalis</hi></w>
   <w>þýðir</w>
   <w>að</w>
   <w>vera</w>

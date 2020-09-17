@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_1-t19.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Norðurmýri</w>
@@ -177,11 +189,11 @@
   <w>af</w>
   <w>persónum</w>
   <w>í</w>
-  <w><i>Landnámu</i></w>
+  <w><hi>Landnámu</hi></w>
   <c>,</c>
-  <w><i>Njálu</i></w>
+  <w><hi>Njálu</hi></w>
   <w>og</w>
-  <w><i>Laxdælu</i></w>
+  <w><hi>Laxdælu</hi></w>
   <c>.</c>
 </s>
 <s n="11">
@@ -321,9 +333,9 @@
 <s n="17">
   <w>Í</w>
   <w>æskuminningabókinni</w>
-  <w><i>Sól</i></w>
-  <w><i>í</i></w>
-  <w><i>Norðurmýri</i></w>
+  <w><hi>Sól</hi></w>
+  <w><hi>í</hi></w>
+  <w><hi>Norðurmýri</hi></w>
   <w>eftir</w>
   <w>Þórunni</w>
   <w>Valdimarsdóttur</w>
@@ -361,7 +373,7 @@
   <w>er</w>
   <w>sögusvið</w>
   <w>spennusögunnar</w>
-  <w><i>Mýrin</i></w>
+  <w><hi>Mýrin</hi></w>
   <w>eftir</w>
   <w>Arnald</w>
   <w>Indriðason</w>
@@ -389,7 +401,7 @@
   <w>Mörg</w>
   <w>atriði</w>
   <w>í</w>
-  <w><i>Bíódögum</i></w>
+  <w><hi>Bíódögum</hi></w>
   <w>Friðriks</w>
   <w>Þórs</w>
   <w>Friðrikssonar</w>
@@ -405,7 +417,7 @@
   <w>hluti</w>
   <revision id="7">
     <original><w>Löggulífs</w></original>
-    <corrected><w><i>Löggulífs</i></w></corrected>
+    <corrected><w><hi>Löggulífs</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>

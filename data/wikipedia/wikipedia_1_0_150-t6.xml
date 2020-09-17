@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_150-t6.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Ceuta</w>
@@ -38,7 +50,7 @@
         <error xtype="missing-word" eid="0" />
       </errors>
   </revision>
-  <w><i>Sabtah</i></w>
+  <w><hi>Sabtah</hi></w>
   <w>á</w>
   <w>hefðbundinni</w>
   <w>arabísku</w>
@@ -50,7 +62,7 @@
         <error xtype="missing-word" eid="0" />
       </errors>
   </revision>
-  <w><i>Sebta</i></w>
+  <w><hi>Sebta</hi></w>
   <w>í</w>
   <w>Marokkó</w>
   <revision id="4">

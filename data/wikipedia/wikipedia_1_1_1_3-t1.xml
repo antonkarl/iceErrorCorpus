@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_3-t1.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Austur-Tímor</w>
@@ -18,13 +30,13 @@
   <w>442</w>
   <w>þorp</w>
   <c>(</c>
-  <w><i>sucos</i></w>
+  <w><hi>sucos</hi></w>
   <c>)</c>
   <w>og</w>
   <w>2.225</w>
   <w>hverfi</w>
   <c>(</c>
-  <w><i>aldeias</i></w>
+  <w><hi>aldeias</hi></w>
   <c>)</c>
   <c>.</c>
 </s><s n="2">

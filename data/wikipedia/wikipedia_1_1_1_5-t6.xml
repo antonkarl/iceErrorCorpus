@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_5-t6.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Magellan</w>
@@ -727,7 +739,7 @@
   <w>íslömsku</w>
   <revision id="40">
     <original><w>Moors</w></original>
-    <corrected><w>Márana</w><c>(</c><w>e.</w><w><i>Moors</i></w><c>)</c></corrected>
+    <corrected><w>Márana</w><c>(</c><w>e.</w><w><hi>Moors</hi></w><c>)</c></corrected>
       <errors>
         <error xtype="fw4ice" idx="24-1" eid="0"/>
         <error xtype="missing-words" idx="24-1" eid="0"/>

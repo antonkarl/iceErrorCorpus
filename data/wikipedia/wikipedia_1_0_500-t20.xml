@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_500-t20.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Litirnir</w>
@@ -90,7 +102,7 @@
 </s><s n="6">
   <revision id="3">
     <original><w>Löwe</w></original>
-    <corrected><w><i>Löwe</i></w></corrected>
+    <corrected><w><hi>Löwe</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -98,7 +110,7 @@
   <w>eða</w>
   <revision id="4">
     <original><w>Leu</w></original>
-    <corrected><w><i>Leu</i></w></corrected>
+    <corrected><w><hi>Leu</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -153,7 +165,7 @@
 </s><s n="9">
   <revision id="9">
     <original><w>Domino</w><w>Day</w></original>
-    <corrected><w><i>Domino</i></w><w><i>Day</i></w></corrected>
+    <corrected><w><hi>Domino</hi></w><w><hi>Day</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -445,7 +457,7 @@
         <error xtype="wording" idx="1-2" eid="0"/>
       </errors>
   </revision>
-  <w><i>Ljouwert</i></w>
+  <w><hi>Ljouwert</hi></w>
   <revision id="26">
     <original><c>)</c></original>
     <corrected><c>,</c></corrected>
@@ -540,7 +552,7 @@
 </s><s n="27">
   <revision id="31">
     <original><w>Domino</w><w>Day</w></original>
-    <corrected><w><i>Domino</i></w><w><i>Day</i></w></corrected>
+    <corrected><w><hi>Domino</hi></w><w><hi>Day</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -606,7 +618,7 @@
   <w>bæði</w>
   <w>merkt</w>
   <revision id="37">
-    <original><w><i>hlé</i></w><c>(</c></original>
+    <original><w><hi>hlé</hi></w><c>(</c></original>
     <corrected><c>„</c><w>hlé</w><c>“</c><c>,</c></corrected>
       <errors>
         <error xtype="missing-quots" idx="16-1" eid="0"/>
@@ -620,7 +632,7 @@
   <w>á</w>
   <w>ensku</w>
   <revision id="38">
-    <original><c>=</c><w><i>hlémegin</i></w><c>)</c></original>
+    <original><c>=</c><w><hi>hlémegin</hi></w><c>)</c></original>
     <corrected><w>sem</w><w>merkir</w><c>„</c><w>hlémegin</w><c>“</c><c>,</c></corrected>
       <errors>
         <error xtype="missing-conjunction" idx="17-1" eid="0"/>
@@ -634,7 +646,7 @@
   <w>sem</w>
   <w>og</w>
   <revision id="39">
-    <original><w><i>ljón</i></w><c>(</c></original>
+    <original><w><hi>ljón</hi></w><c>(</c></original>
     <corrected><c>„</c><w>ljón</w><c>“</c><c>,</c></corrected>
       <errors>
         <error xtype="missing-quots" idx="18-1" eid="0"/>
@@ -735,7 +747,7 @@
 </s><s n="34">
   <revision id="42">
     <original><w>Elfstedentocht</w></original>
-    <corrected><w><i>Elfstedentocht</i></w></corrected>
+    <corrected><w><hi>Elfstedentocht</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

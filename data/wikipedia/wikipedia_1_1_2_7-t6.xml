@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_7-t6.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Lýðveldið</w>
@@ -87,7 +99,7 @@
         <error xtype="missing-quots" idx="2-1" eid="0" />
       </errors>
   </revision>
-  <w><i>kasak</i></w>
+  <w><hi>kasak</hi></w>
   <revision id="3">
     <original></original>
     <corrected><c>‘</c></corrected>
@@ -163,7 +175,7 @@
         <error xtype="missing-quots" idx="9-1" eid="0" />
       </errors>
   </revision>
-  <w><i>stan</i></w>
+  <w><hi>stan</hi></w>
   <revision id="10">
     <original></original>
     <corrected><c>‘</c></corrected>
@@ -198,7 +210,7 @@
   <w>gæti</w>
   <w>því</w>
   <w>þýtt</w>
-  <w><i>Hirðingjaland</i></w>
+  <w><hi>Hirðingjaland</hi></w>
   <c>.</c>
 </s>
 <s n="9">
@@ -447,12 +459,12 @@
   <w>Titlar</w>
   <w>þeirra</w>
   <w>voru</w>
-  <w><i>axíal</i></w>
+  <w><hi>axíal</hi></w>
   <c>,</c>
-  <w><i>bi</i></w>
+  <w><hi>bi</hi></w>
   <c>,</c>
   <w>og</w>
-  <w><i>batýr</i></w>
+  <w><hi>batýr</hi></w>
   <c>.</c>
 </s>
 <s n="24">
@@ -2283,7 +2295,7 @@
         <error xtype="missing-quots" idx="85-1" eid="0" />
       </errors>
   </revision>
-  <w><i>dengi</i></w>
+  <w><hi>dengi</hi></w>
   <revision id="86">
     <original></original>
     <corrected><c>‘</c></corrected>
@@ -2296,7 +2308,7 @@
   <w>sem</w>
   <w>þýðir</w>
   <revision id="87">
-    <original><w>bara</w><w><i>peningur</i></w></original>
+    <original><w>bara</w><w><hi>peningur</hi></w></original>
     <corrected><c>‚</c><w>peningur</w><c>‘</c></corrected>
       <errors>
         <error xtype="extra-word" idx="87-1" eid="0" />
@@ -3456,14 +3468,14 @@
   <w>með</w>
   <w>orðunum</w>
   <revision id="151">
-    <original><w><i>Assalam</i></w></original>
-    <corrected><c>‚</c><w><i>assalam</i></w></corrected>
+    <original><w><hi>Assalam</hi></w></original>
+    <corrected><c>‚</c><w><hi>assalam</hi></w></corrected>
       <errors>
         <error xtype="missing-quots" idx="151-1" eid="0" />
         <error xtype="upper4lower-common" idx="151-2" eid="0" />
       </errors>
   </revision>
-  <w><i>alaikum</i></w>
+  <w><hi>alaikum</hi></w>
   <revision id="152">
     <original></original>
     <corrected><c>‘</c></corrected>

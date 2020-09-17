@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_6-t14.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Nenni</w>
@@ -22,7 +34,7 @@
   <w>hans</w>
   <w>er</w>
   <revision id="1">
-    <original><w><i>ég</i></w><w><i>á</i></w><w><i>þetta</i></w></original>
+    <original><w><hi>ég</hi></w><w><hi>á</hi></w><w><hi>þetta</hi></w></original>
     <corrected><c>„</c><w>ég</w><w>á</w><w>þetta</w><c>“</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="26-1" eid="0"/>
@@ -45,7 +57,7 @@
   <c>.</c>
 </s><s n="5">
   <revision id="2">
-    <original><w><i>Solla</i></w></original>
+    <original><w><hi>Solla</hi></w></original>
     <corrected><w>Solla</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -270,7 +282,7 @@
   <w>sig</w>
   <w>sem</w>
   <revision id="6">
-    <original><w><i>einfalt</i></w><w><i>letidýr</i></w><w><i>sem</i></w><w><i>er</i></w><w><i>miskilinn</i></w></original>
+    <original><w><hi>einfalt</hi></w><w><hi>letidýr</hi></w><w><hi>sem</hi></w><w><hi>er</hi></w><w><hi>miskilinn</hi></w></original>
     <corrected><c>„</c><w>einfalt</w><w>letidýr</w><w>sem</w><w>er</w><w>misskilinn</w><c>“</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="23-1" eid="0"/>
@@ -363,7 +375,7 @@
   <c>.</c>
 </s><s n="22">
   <revision id="7">
-    <original><w><i>Glanni</i></w></original>
+    <original><w><hi>Glanni</hi></w></original>
     <corrected><w>Glanni</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -480,12 +492,12 @@
         <error xtype="nonword" idx="6-1" eid="0"/>
       </errors>
   </revision>
-  <w><i>Big</i></w>
-  <w><i>Bang</i></w>
+  <w><hi>Big</hi></w>
+  <w><hi>Bang</hi></w>
   <w><i/></w>
   <c>(</c>
   <w>TimeZ</w>
-  <w><i>to</i></w>
+  <w><hi>to</hi></w>
   <w>Zdance</w>
   <c>)</c>
   <w><i/></w>
@@ -746,8 +758,8 @@
         <error xtype="missing-comma" idx="2-1" eid="0"/>
       </errors>
   </revision>
-  <w><i>Áfram</i></w>
-  <w><i>Latibær</i></w>
+  <w><hi>Áfram</hi></w>
+  <w><hi>Latibær</hi></w>
   <c>.</c>
 </s><s n="43">
   <w>Hann</w>
@@ -821,7 +833,7 @@
   <w>að</w>
   <w>borða</w>
   <revision id="14">
-    <original><w><i>íþróttanammi</i></w></original>
+    <original><w><hi>íþróttanammi</hi></w></original>
     <corrected><c>‚</c><w>íþróttanammi</w><c>‘</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="15-1" eid="0"/>
@@ -868,7 +880,7 @@
   <w>hans</w>
   <w>er</w>
   <revision id="15">
-    <original><w><i>Ó</i></w><w><i>guð</i></w><c>,</c></original>
+    <original><w><hi>Ó</hi></w><w><hi>guð</hi></w><c>,</c></original>
     <corrected><c>„</c><w>Ó</w><w>guð</w><c>“</c><c>,</c></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -1173,9 +1185,9 @@
   <w>framhald</w>
   <w>bókarinnar</w>
   <c>,</c>
-  <w><i>Latibær</i></w>
-  <w><i>á</i></w>
-  <w><i>Ólympíuleikunum</i></w>
+  <w><hi>Latibær</hi></w>
+  <w><hi>á</hi></w>
+  <w><hi>Ólympíuleikunum</hi></w>
   <c>.</c>
 </s><s n="62">
   <w>Stína</w>
@@ -1343,7 +1355,7 @@
   <w>eigin</w>
   <w>einkunnarorðum</w>
   <revision id="23">
-    <original><c>,</c><w><i>það</i></w><w><i>er</i></w><w><i>allt</i></w><w><i>hægt</i></w></original>
+    <original><c>,</c><w><hi>það</hi></w><w><hi>er</hi></w><w><hi>allt</hi></w><w><hi>hægt</hi></w></original>
     <corrected><c>:</c><c>„</c><w>Það</w><w>er</w><w>allt</w><w>hægt</w></corrected>
       <errors>
         <error xtype="comma4colon" eid="0"/>
@@ -1445,7 +1457,7 @@
   <c>.</c>
 </s><s n="75">
   <revision id="26">
-    <original><w><i>Íþróttaálfurinn</i></w></original>
+    <original><w><hi>Íþróttaálfurinn</hi></w></original>
     <corrected><w>Íþróttaálfurinn</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>

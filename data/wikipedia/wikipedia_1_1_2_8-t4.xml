@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_8-t4.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
-  <w><i>Frosinn</i></w>
+  <w><hi>Frosinn</hi></w>
   <c>(</c>
   <w>enska</w>
   <c>:</c>
-  <w><i>Frozen</i></w>
+  <w><hi>Frozen</hi></w>
   <c>)</c>
   <w>er</w>
   <w>bandarísk</w>
@@ -54,7 +66,7 @@
   <w>Christian</w>
   <w>Andersen</w>
   <c>,</c>
-  <w><i>Snædrottningin</i></w>
+  <w><hi>Snædrottningin</hi></w>
   <revision id="1">
     <original><c>,</c><w>myndin</w></original>
     <corrected><c>.</c><w>Myndin</w></corrected>
@@ -102,7 +114,7 @@
 <s n="5">
   <revision id="3">
     <original><w>Frosinn</w></original>
-    <corrected><w><i>Frosinn</i></w></corrected>
+    <corrected><w><hi>Frosinn</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -180,7 +192,7 @@
   <w>að</w>
   <w>verðlaunamynd</w>
   <w>Disney</w>
-  <w><i>Paperman</i></w>
+  <w><hi>Paperman</hi></w>
   <revision id="5">
     <original></original>
     <corrected><c>,</c></corrected>
@@ -204,7 +216,7 @@
 <s n="8">
   <revision id="6">
     <original><w>Frosinn</w></original>
-    <corrected><w><i>Frosinn</i></w></corrected>
+    <corrected><w><hi>Frosinn</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -315,7 +327,7 @@
 <s n="13">
   <revision id="10">
     <original><w>Frosinn</w></original>
-    <corrected><w><i>Frosinn</i></w></corrected>
+    <corrected><w><hi>Frosinn</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -332,7 +344,7 @@
   <w>lag</w>
   <c>(</c>
   <revision id="11">
-    <original><w><i>Let</i></w><w><i>It</i></w><w><i>Go</i></w></original>
+    <original><w><hi>Let</hi></w><w><hi>It</hi></w><w><hi>Go</hi></w></original>
     <corrected><c>„</c><w>Let</w><w>It</w><w>Go</w><c>“</c></corrected>
       <errors>
         <error xtype="missing-quots" idx="11-1" eid="0" />
@@ -397,7 +409,7 @@
   <w>lagið</w>
   <c>(</c>
   <revision id="15">
-    <original><w><i>Let</i></w><w><i>It</i></w><w><i>Go</i></w></original>
+    <original><w><hi>Let</hi></w><w><hi>It</hi></w><w><hi>Go</hi></w></original>
     <corrected><c>„</c><w>Let</w><w>It</w><w>Go</w><c>“</c></corrected>
       <errors>
         <error xtype="missing-quots" idx="15-1" eid="0" />
@@ -420,7 +432,7 @@
   <w>lagið</w>
   <c>(</c>
   <revision id="16">
-    <original><w><i>Let</i></w><w><i>It</i></w><w><i>Go</i></w></original>
+    <original><w><hi>Let</hi></w><w><hi>It</hi></w><w><hi>Go</hi></w></original>
     <corrected><c>„</c><w>Let</w><w>It</w><w>Go</w><c>“</c></corrected>
       <errors>
         <error xtype="missing-quots" idx="16-1" eid="0" />
@@ -432,8 +444,8 @@
 </s>
 <s n="15">
   <w>Stuttmyndin</w>
-  <w><i>Frozen</i></w>
-  <w><i>Fever</i></w>
+  <w><hi>Frozen</hi></w>
+  <w><hi>Fever</hi></w>
   <w>var</w>
   <w>gefin</w>
   <w>út</w>
@@ -1147,7 +1159,7 @@
   <w>bráðið</w>
   <w>með</w>
   <revision id="42">
-    <original><w><i>sannri</i></w><w><i>ást</i></w><c>,</c></original>
+    <original><w><hi>sannri</hi></w><w><hi>ást</hi></w><c>,</c></original>
     <corrected><w>sannri</w><w>ást</w></corrected>
       <errors>
         <error xtype="it4nonit" idx="42-1" eid="0" />
@@ -1446,8 +1458,8 @@
   <w>sína</w>
   <w>flokkast</w>
   <w>sem</w>
-  <w><i>sönn</i></w>
-  <w><i>ást</i></w>
+  <w><hi>sönn</hi></w>
+  <w><hi>ást</hi></w>
   <c>.</c>
 </s>
 <s n="54">
@@ -1558,10 +1570,10 @@
   <c>,</c>
   <w>áður</w>
   <w>en</w>
-  <w><i>Mjallhvít</i></w>
-  <w><i>og</i></w>
-  <w><i>dvergarnir</i></w>
-  <w><i>sjö</i></w>
+  <w><hi>Mjallhvít</hi></w>
+  <w><hi>og</hi></w>
+  <w><hi>dvergarnir</hi></w>
+  <w><hi>sjö</hi></w>
   <w>var</w>
   <w>frumsýnd</w>
   <c>.</c>
@@ -1614,34 +1626,34 @@
   <c>,</c>
   <w>eins</w>
   <w>og</w>
-  <w><i>Litla</i></w>
-  <w><i>hafmeyjan</i></w>
+  <w><hi>Litla</hi></w>
+  <w><hi>hafmeyjan</hi></w>
   <c>,</c>
-  <w><i>Litla</i></w>
-  <w><i>stúlkan</i></w>
-  <w><i>með</i></w>
-  <w><i>eldspýturnar</i></w>
+  <w><hi>Litla</hi></w>
+  <w><hi>stúlkan</hi></w>
+  <w><hi>með</hi></w>
+  <w><hi>eldspýturnar</hi></w>
   <c>,</c>
-  <w><i>The</i></w>
-  <w><i>Steadfast</i></w>
-  <w><i>Tin</i></w>
-  <w><i>Soldier</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Steadfast</hi></w>
+  <w><hi>Tin</hi></w>
+  <w><hi>Soldier</hi></w>
   <c>,</c>
-  <w><i>Snædrottningin</i></w>
+  <w><hi>Snædrottningin</hi></w>
   <c>,</c>
-  <w><i>Thumbelina</i></w>
+  <w><hi>Thumbelina</hi></w>
   <c>,</c>
-  <w><i>Litli</i></w>
-  <w><i>ljóti</i></w>
-  <w><i>andarunginn</i></w>
+  <w><hi>Litli</hi></w>
+  <w><hi>ljóti</hi></w>
+  <w><hi>andarunginn</hi></w>
   <c>,</c>
-  <w><i>The</i></w>
-  <w><i>Red</i></w>
-  <w><i>Shoes</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Red</hi></w>
+  <w><hi>Shoes</hi></w>
   <w>og</w>
-  <w><i>Nýju</i></w>
-  <w><i>fötin</i></w>
-  <w><i>keisarans</i></w>
+  <w><hi>Nýju</hi></w>
+  <w><hi>fötin</hi></w>
+  <w><hi>keisarans</hi></w>
   <c>.</c>
 </s>
 <s n="62">
@@ -1659,7 +1671,7 @@
   <w>með</w>
   <revision id="48">
     <original><w>snædrottninguna</w></original>
-    <corrected><w><i>Snædrottninguna</i></w></corrected>
+    <corrected><w><hi>Snædrottninguna</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1708,7 +1720,7 @@
   <w>hlutverk</w>
   <revision id="50">
     <original><w>snædrottningarinnar</w></original>
-    <corrected><w><i>Snædrottningarinnar</i></w></corrected>
+    <corrected><w><hi>Snædrottningarinnar</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1757,7 +1769,7 @@
   <w>var</w>
   <revision id="52">
     <original><w>snædrottningin</w></original>
-    <corrected><w><i>Snædrottningin</i></w></corrected>
+    <corrected><w><hi>Snædrottningin</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1789,7 +1801,7 @@
   <w>gerð</w>
   <revision id="53">
     <original><w>snædrottningarinnar</w></original>
-    <corrected><w><i>Snædrottningarinnar</i></w></corrected>
+    <corrected><w><hi>Snædrottningarinnar</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1823,7 +1835,7 @@
   <w>varð</w>
   <w>að</w>
   <w>kvikmyndinni</w>
-  <w><i>Tangled</i></w>
+  <w><hi>Tangled</hi></w>
   <c>(</c>
   <w>2010</w>
   <c>)</c>

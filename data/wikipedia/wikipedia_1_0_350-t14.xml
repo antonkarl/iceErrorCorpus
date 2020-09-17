@@ -1,18 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_350-t14.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Pólitískur</w>
   <w>rétttrúnaður</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>political</i></w>
-  <w><i>correctness</i></w>
+  <w><hi>political</hi></w>
+  <w><hi>correctness</hi></w>
   <c>,</c>
   <w>gjarnan</w>
   <w>skammstafað</w>
-  <w><i>PC</i></w>
+  <w><hi>PC</hi></w>
   <c>)</c>
   <w>er</w>
   <w>notað</w>

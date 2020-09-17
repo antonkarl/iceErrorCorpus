@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_6-t8.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Hún</w>
@@ -18,9 +30,9 @@
   <c>(</c>
   <w>franska</w>
   <c>:</c>
-  <w><i>Z</i></w>
-  <w><i>comme</i></w>
-  <w><i>Zorglub</i></w>
+  <w><hi>Z</hi></w>
+  <w><hi>comme</hi></w>
+  <w><hi>Zorglub</hi></w>
   <c>)</c>
   <w>er</w>
   <w>15</w>
@@ -60,7 +72,7 @@
   <w>Zorglúbbs</w>
   <c>,</c>
   <revision id="1">
-    <original><w><i>Zor-mennirnir</i></w></original>
+    <original><w><hi>Zor-mennirnir</hi></w></original>
     <corrected><w>Zor-mennirnir</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -129,13 +141,13 @@
   <w>fyrst</w>
   <w>í</w>
   <revision id="2">
-    <original><w><i>teiknimyndablaðinu</i></w></original>
-    <corrected><w><i>Teiknimyndablaðinu</i></w></corrected>
+    <original><w><hi>teiknimyndablaðinu</hi></w></original>
+    <corrected><w><hi>Teiknimyndablaðinu</hi></w></corrected>
       <errors>
         <error xtype="lower4upper-proper" eid="0"/>
       </errors>
   </revision>
-  <w><i>Sval</i></w>
+  <w><hi>Sval</hi></w>
   <w>1959</w>
   <c>-</c>
   <w>60</w>
@@ -205,10 +217,10 @@
   <w>birtist</w>
   <w>í</w>
   <w>bókinni</w>
-  <w><i>Með</i></w>
-  <w><i>kveðju</i></w>
-  <w><i>frá</i></w>
-  <w><i>Z</i></w>
+  <w><hi>Með</hi></w>
+  <w><hi>kveðju</hi></w>
+  <w><hi>frá</hi></w>
+  <w><hi>Z</hi></w>
   <c>.</c>
 </s><s n="15">
   <w>Sá</w>
@@ -454,7 +466,7 @@
   <w>persónu</w>
   <c>,</c>
   <revision id="4">
-    <original><w><i>Zorglúbbs</i></w></original>
+    <original><w><hi>Zorglúbbs</hi></w></original>
     <corrected><w>Zorglúbbs</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>

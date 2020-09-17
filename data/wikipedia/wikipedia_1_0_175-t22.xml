@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_175-t22.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Miðbaugs-Gínea</w>
@@ -53,8 +65,8 @@
   <w>áður</w>
   <w>spænska</w>
   <w>nýlendan</w>
-  <w><i>Spænska</i></w>
-  <w><i>Gínea</i></w>
+  <w><hi>Spænska</hi></w>
+  <w><hi>Gínea</hi></w>
   <c>.</c>
 </s>
 <s n="4">
@@ -81,8 +93,8 @@
   </revision>
   <c>(</c>
   <w>áður</w>
-  <w><i>Santa</i></w>
-  <w><i>isabel</i></w>
+  <w><hi>Santa</hi></w>
+  <w><hi>isabel</hi></w>
   <c>)</c>
   <revision id="2">
     <original><w>stendur</w></original>

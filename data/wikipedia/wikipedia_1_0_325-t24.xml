@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_325-t24.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>The</w>
   <revision id="1">
     <original><w>Last</w><w>Supper</w></original>
-    <corrected><w><i>Last</i></w><w><i>Supper</i></w></corrected>
+    <corrected><w><hi>Last</hi></w><w><hi>Supper</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>

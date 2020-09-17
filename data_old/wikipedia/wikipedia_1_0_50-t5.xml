@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Þorkell</w>
+  <w>Þorsteinsson</w>
+  <c>,</c>
+  <w>kallaður</w>
+  <w>Þorkell</w>
+  <w>máni</w>
+  <revision id="1">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>var</w>
+  <w>lögsögumaður</w>
+  <w>á</w>
+  <w>Alþingi</w>
+  <w>á</w>
+  <w>árunum</w>
+  <w>970</w>
+  <c>–</c>
+  <w>984</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Frá</w>
+  <w>945</w>
+  <revision id="2">
+    <original><w>hafði</w></original>
+    <corrected><w>var</w></corrected>
+      <errors>
+        <error xtype="wording" idx="2-1" eid="0" />
+      </errors>
+  </revision>
+  <w>hann</w>
+  <w>jafnframt</w>
+  <revision id="3">
+    <original><w>verið</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="2-1" eid="0" />
+      </errors>
+  </revision>
+  <w>allsherjargoði</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Þorkell</w>
+  <w>var</w>
+  <w>sonur</w>
+  <w>Þorsteins</w>
+  <w>Ingólfssonar</w>
+  <w>og</w>
+  <w>Þóru</w>
+  <w>Hrólfsdóttur</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Afi</w>
+  <w>hans</w>
+  <w>var</w>
+  <w>landnámsmaðurinn</w>
+  <w>Ingólfur</w>
+  <w>Arnarson</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Mánagata</w>
+  <w>í</w>
+  <w>Reykjavík</w>
+  <w>er</w>
+  <w>nefnd</w>
+  <w>eftir</w>
+  <w>honum</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Í</w>
+  <w>Landnámabók</w>
+  <c>(</c>
+  <w>Sturlubók</w>
+  <c>)</c>
+  <w>segir</w>
+  <w>um</w>
+  <w>Þorkel</w>
+  <w>að</w>
+  <w>hann</w>
+  <w>hafi</w>
+  <w>verið</w>
+  <c>„</c>
+  <w>einn</w>
+  <w>heiðinna</w>
+  <w>manna</w>
+  <revision id="4">
+    <original><c>...</c></original>
+    <corrected><c>[...]</c></corrected>
+      <errors>
+        <error xtype="missing-square" eid="0" />
+      </errors>
+  </revision>
+  <w>best</w>
+  <revision id="5">
+    <original><c>...</c></original>
+    <corrected><c>[...]</c></corrected>
+      <errors>
+        <error xtype="missing-square" eid="0" />
+      </errors>
+  </revision>
+  <w>siðaður</w>
+  <c>,</c>
+  <w>að</w>
+  <w>því</w>
+  <w>er</w>
+  <w>menn</w>
+  <w>viti</w>
+  <w>dæmi</w>
+  <w>til</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>Hann</w>
+  <w>lét</w>
+  <revision id="6">
+    <original><w>sig</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wording" idx="6-1" eid="0" />
+      </errors>
+  </revision>
+  <w>bera</w>
+  <revision id="7">
+    <original></original>
+    <corrected><w>sig</w></corrected>
+      <errors>
+        <error xtype="dep" depId="6-1" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>sólargeisla</w>
+  <w>í</w>
+  <w>banasótt</w>
+  <w>sinni</w>
+  <w>og</w>
+  <revision id="8">
+    <original><w>fal</w></original>
+    <corrected><w>fól</w></corrected>
+      <errors>
+        <error xtype="letter-rep" eid="0" />
+      </errors>
+  </revision>
+  <w>sig</w>
+  <w>á</w>
+  <w>hendi</w>
+  <w>þeim</w>
+  <w>guði</w>
+  <c>,</c>
+  <w>er</w>
+  <w>sólina</w>
+  <w>hafði</w>
+  <w>skapað</w>
+  <c>;</c>
+  <revision id="9">
+    <original></original>
+    <corrected><w>einnig</w></corrected>
+      <errors>
+        <error xtype="wording" idx="9-1" eid="0" />
+      </errors>
+  </revision>
+  <w>hafði</w>
+  <w>hann</w>
+  <revision id="10">
+    <original><w>og</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="9-1" eid="0" />
+      </errors>
+  </revision>
+  <w>lifað</w>
+  <w>svo</w>
+  <revision id="11">
+    <original><w>hreinliga</w></original>
+    <corrected><w>hreinlega</w></corrected>
+      <errors>
+        <error xtype="letter-rep" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>þeir</w>
+  <w>kristnir</w>
+  <w>menn</w>
+  <c>,</c>
+  <revision id="12">
+    <original><w>er</w><w>best</w></original>
+    <corrected><w>sem</w></corrected>
+      <errors>
+        <error xtype="wording" idx="12-1" eid="0" />
+      </errors>
+  </revision>
+  <w>eru</w>
+  <revision id="13">
+    <original></original>
+    <corrected><w>best</w></corrected>
+      <errors>
+        <error xtype="dep" depId="12-1" eid="0" />
+      </errors>
+  </revision>
+  <w>siðaðir</w>
+  <c>.</c>
+  <c>“</c>
+</s>
+<s n="8">
+  <w>Synir</w>
+  <w>Þorkels</w>
+  <w>voru</w>
+  <w>Þorsteinn</w>
+  <w>og</w>
+  <w>Þormóður</w>
+  <c>.</c>
+</s>
+<s n="9">
+  <w>Sá</w>
+  <w>síðarnefndi</w>
+  <w>var</w>
+  <w>allsherjargoði</w>
+  <w>er</w>
+  <w>kristni</w>
+  <w>var</w>
+  <w>lögtekin</w>
+  <w>á</w>
+  <w>Íslandi</w>
+  <w>um</w>
+  <w>árið 1000</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

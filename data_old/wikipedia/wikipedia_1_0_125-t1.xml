@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>The</w>
+  <w>Rasmus</w>
+  <w>er</w>
+  <w>finnsk</w>
+  <w>rokkhljómsveit</w>
+  <revision id="1">
+    <original></original>
+    <corrected><w>sem</w><w>var</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <w>stofnuð</w>
+  <revision id="2">
+    <original><w>1994</w></original>
+    <corrected><w>árið 1994</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Fyrsta</w>
+  <w>plata</w>
+  <w>hennar</w>
+  <c>,</c>
+  <w><i>Peep</i></w>
+  <c>,</c>
+  <w>kom</w>
+  <w>út</w>
+  <revision id="3">
+    <original><w>1996</w></original>
+    <corrected><w>árið 1996</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Tíu</w>
+  <w>árum</w>
+  <w>síðar</w>
+  <c>,</c>
+  <w>2006</w>
+  <revision id="4">
+    <original><w>léku</w><w>þeir</w></original>
+    <corrected><w>spilaði</w><w>hún</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>færeysku</w>
+  <w>tónlistarhátíðinni</w>
+  <w>Summarfestivalurin</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Eitt</w>
+  <w>eiga</w>
+  <revision id="5">
+    <original><w>meðlimirnir</w><w>sameiginlegt-þeir</w></original>
+    <corrected><w>meðlimir</w><w>hljómsveitarinnar</w><w>sameiginlegt</w><w>en</w><w>það</w><w>er</w><w>að</w><w>þeir</w></corrected>
+      <errors>
+        <error xtype="def4ind" eid="0" />
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <w>eru</w>
+  <w>allir</w>
+  <w>fæddir</w>
+  <revision id="6">
+    <original><w>1979</w></original>
+    <corrected><w>árið 1979</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

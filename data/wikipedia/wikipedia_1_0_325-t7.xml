@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_325-t7.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Ants</w>
@@ -99,9 +111,9 @@
   <w>þar</w>
   <w>á</w>
   <w>meðal</w>
-  <w><i>Örlaganótt</i></w>
-  <w><i>yfir</i></w>
-  <w><i>Eystrasaltslöndum</i></w>
+  <w><hi>Örlaganótt</hi></w>
+  <w><hi>yfir</hi></w>
+  <w><hi>Eystrasaltslöndum</hi></w>
   <c>,</c>
   <w>sem</w>
   <w>kom</w>

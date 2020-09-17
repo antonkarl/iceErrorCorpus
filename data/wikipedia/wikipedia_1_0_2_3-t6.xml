@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_3-t6.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Í</w>
@@ -230,7 +242,7 @@
   <w>í</w>
   <revision id="18">
     <original><w>Ballsalnum</w></original>
-    <corrected><w><i>Ballsalnum</i></w></corrected>
+    <corrected><w><hi>Ballsalnum</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -561,8 +573,8 @@
   </revision>
   <c>(</c>
   <revision id="42">
-    <original><w><i>ríkistákn</i></w></original>
-    <corrected><w>h.</w><w><i>Rijksmonument</i></w></corrected>
+    <original><w><hi>ríkistákn</hi></w></original>
+    <corrected><w>h.</w><w><hi>Rijksmonument</hi></w></corrected>
       <errors>
         <error xtype="missing-word" eid="0"/>
         <error xtype="ice4fw" eid="0"/>
@@ -699,7 +711,7 @@
   <w>er</w>
   <revision id="54">
     <original><w>riddarasalurinn</w></original>
-    <corrected><w><i>riddarasalurinn</i></w></corrected>
+    <corrected><w><hi>riddarasalurinn</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -814,8 +826,8 @@
   </revision>
   <c>(</c>
   <revision id="64">
-    <original><w><i>prinsadeginum</i></w></original>
-    <corrected><w>h.</w><w><i>prinjesdag</i></w></corrected>
+    <original><w><hi>prinsadeginum</hi></w></original>
+    <corrected><w>h.</w><w><hi>prinjesdag</hi></w></corrected>
       <errors>
         <error xtype="missing-word" eid="0"/>
         <error xtype="ice4fw" eid="0"/>

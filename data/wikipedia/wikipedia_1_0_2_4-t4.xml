@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_4-t4.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <revision id="1">
@@ -250,7 +262,7 @@
   <w>dansarar</w>
   <c>.</c>
 </s><s n="10">
-  <w><i>Kvasir</i></w>
+  <w><hi>Kvasir</hi></w>
   <w>er</w>
   <w>slúðurblað</w>
   <w>Verzlinga</w>
@@ -450,7 +462,7 @@
 </s><s n="17">
   <w>Núna</w>
   <w>er</w>
-  <w><i>Kvasir</i></w>
+  <w><hi>Kvasir</hi></w>
   <revision id="24">
     <original><w>gefinn</w></original>
     <corrected><w>gefið</w></corrected>
@@ -469,7 +481,7 @@
   <w>fyrir</w>
   <w>því</w>
   <w>að</w>
-  <w><i>Kvasir</i></w>
+  <w><hi>Kvasir</hi></w>
   <w>gáfu</w>
   <w>út</w>
   <w>blað</w>
@@ -524,7 +536,7 @@
   <w>út</w>
   <w>hið</w>
   <w>alræmda</w>
-  <w><i>Skemmtunarskólablað</i></w>
+  <w><hi>Skemmtunarskólablað</hi></w>
   <c>.</c>
 </s><s n="20">
   <w>Þar</w>
@@ -663,9 +675,9 @@
   <w>félagið</w>
   <w>út</w>
   <w>blöðin</w>
-  <w><i>Örkin</i></w>
+  <w><hi>Örkin</hi></w>
   <w>og</w>
-  <w><i>Kvasir</i></w>
+  <w><hi>Kvasir</hi></w>
   <c>.</c>
 </s><s n="27">
   <w>Varnarþing</w>
@@ -871,7 +883,7 @@
   <w>einstaklingum</w>
   <c>.</c>
 </s><s n="36">
-  <w><i>Örkin</i></w>
+  <w><hi>Örkin</hi></w>
   <w>er</w>
   <w>hins</w>
   <w>vegar</w>
@@ -1023,7 +1035,7 @@
   <w>Aðalsteinsdóttir</w>
   <c>.</c>
 </s><s n="42">
-  <w><i>Verzlunarskólablaðið</i></w>
+  <w><hi>Verzlunarskólablaðið</hi></w>
   <w>kemur</w>
   <w>út</w>
   <w>einu</w>
@@ -1299,12 +1311,12 @@
   </revision>
   <w>út</w>
   <w>skólablaðið</w>
-  <w><i>Viljann</i></w>
+  <w><hi>Viljann</hi></w>
   <w>og</w>
   <w>árbókina</w>
   <w>sína</w>
   <c>,</c>
-  <w><i>Verzlunarskólablaðið</i></w>
+  <w><hi>Verzlunarskólablaðið</hi></w>
   <c>.</c>
 </s><s n="52">
   <w>Lið</w>
@@ -1400,7 +1412,7 @@
       </errors>
   </revision>
 </s><s n="56">
-  <w><i>Viljinn</i></w>
+  <w><hi>Viljinn</hi></w>
   <w>kom</w>
   <w>fyrst</w>
   <w>út</w>
@@ -1443,14 +1455,14 @@
   <w>1</w>
   <c>.</c>
 </s><s n="58">
-  <w><i>Örkin</i></w>
+  <w><hi>Örkin</hi></w>
   <w>er</w>
   <w>ný</w>
   <w>útgáfa</w>
   <w>af</w>
   <w>gamla</w>
   <w>slúðurblaðinu</w>
-  <w><i>Harmónía</i></w>
+  <w><hi>Harmónía</hi></w>
   <revision id="49">
     <original><c>,</c></original>
     <corrected/>

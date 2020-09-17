@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_14-t5.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Árið 1623</w>
@@ -25,16 +37,16 @@
   <c>(</c>
   <w>enska</w>
   <c>:</c>
-  <w><i>Saint</i></w>
-  <w><i>Kitts</i></w>
-  <w><i>and</i></w>
-  <w><i>Nevis</i></w>
+  <w><hi>Saint</hi></w>
+  <w><hi>Kitts</hi></w>
+  <w><hi>and</hi></w>
+  <w><hi>Nevis</hi></w>
   <c>,</c>
   <w>opinberlega</w>
-  <w><i>Saint</i></w>
-  <w><i>Christopher</i></w>
-  <w><i>and</i></w>
-  <w><i>Nevis</i></w>
+  <w><hi>Saint</hi></w>
+  <w><hi>Christopher</hi></w>
+  <w><hi>and</hi></w>
+  <w><hi>Nevis</hi></w>
   <c>)</c>
   <w>er</w>
   <w>tveggja</w>

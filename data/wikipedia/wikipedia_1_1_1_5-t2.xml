@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_5-t2.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Helstu</w>
@@ -160,7 +172,7 @@
   <w>í</w>
   <revision id="4">
     <original><w>Viðreisnarstjórninni</w></original>
-    <corrected><w><i>viðreisnarstjórninni</i></w></corrected>
+    <corrected><w><hi>viðreisnarstjórninni</hi></w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="9-1" eid="0"/>
         <error xtype="nonit4it" idx="9-1" eid="0"/>
@@ -236,7 +248,7 @@
   <w>í</w>
   <revision id="7">
     <original><w>Viðreisnarstjórninni</w></original>
-    <corrected><w><i>viðreisnarstjórninni</i></w></corrected>
+    <corrected><w><hi>viðreisnarstjórninni</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="2-1" eid="0"/>
         <error xtype="upper4lower-common" idx="2-1" eid="0"/>
@@ -258,7 +270,7 @@
   <w>í</w>
   <revision id="8">
     <original><w>Stjórn</w><w>hinna</w><w>vinnandi</w><w>stétta</w></original>
-    <corrected><w><i>stjórn</i></w><w><i>hinna</i></w><w><i>vinnandi</i></w><w><i>stétta</i></w></corrected>
+    <corrected><w><hi>stjórn</hi></w><w><hi>hinna</hi></w><w><hi>vinnandi</hi></w><w><hi>stétta</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

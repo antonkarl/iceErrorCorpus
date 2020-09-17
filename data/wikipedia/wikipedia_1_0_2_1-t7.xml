@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_1-t7.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Björgvin</w>
@@ -210,7 +222,7 @@
   <w>platan</w>
   <revision id="6">
     <original><c>„</c><w>Magic</w><w>Key</w><c>“</c></original>
-    <corrected><w><i>Magic</i></w><w><i>Key</i></w></corrected>
+    <corrected><w><hi>Magic</hi></w><w><hi>Key</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="6-1" eid="0" />
         <error xtype="nonit4it" idx="6-2" eid="0" />
@@ -305,7 +317,7 @@
   <w>plötuna</w>
   <revision id="9">
     <original><c>„</c><w>Magic</w><w>Key</w><c>“</c></original>
-    <corrected><w><i>Magic</i></w><w><i>Key</i></w></corrected>
+    <corrected><w><hi>Magic</hi></w><w><hi>Key</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="9-1" eid="0" />
         <error xtype="nonit4it" idx="9-2" eid="0" />
@@ -436,7 +448,7 @@
   <w>platan</w>
   <revision id="20">
     <original><c>„</c><w>Uppteknir</w><c>“</c></original>
-    <corrected><w><i>Uppteknir</i></w></corrected>
+    <corrected><w><hi>Uppteknir</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="20-1" eid="0" />
         <error xtype="nonit4it" idx="20-2" eid="0" />
@@ -467,7 +479,7 @@
   <w>plata</w>
   <revision id="21">
     <original><c>„</c><w>Lítil</w><w>fluga</w><c>“</c></original>
-    <corrected><w><i>Lítil</i></w><w><i>fluga</i></w></corrected>
+    <corrected><w><hi>Lítil</hi></w><w><hi>fluga</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="21-1" eid="0" />
         <error xtype="nonit4it" idx="21-2" eid="0" />
@@ -582,7 +594,7 @@
 <s n="19">
   <w>Fyrsta</w>
   <revision id="25">
-    <original><w><i>sóló</i></w><w>plata</w></original>
+    <original><w><hi>sóló</hi></w><w>plata</w></original>
     <corrected><w>sólóplata</w></corrected>
       <errors>
         <error xtype="it4nonit" idx="25-1" eid="0" />
@@ -591,7 +603,7 @@
   </revision>
   <w>Björgvins</w>
   <c>,</c>
-  <w><i>Öræfarokk</i></w>
+  <w><hi>Öræfarokk</hi></w>
   <w>kom</w>
   <w>út</w>
   <w>hjá</w>
@@ -630,11 +642,11 @@
 </s>
 <s n="22">
   <w>Önnur</w>
-  <w><i>sóló</i></w>
+  <w><hi>sóló</hi></w>
   <w>plata</w>
   <w>Björgvins</w>
   <c>,</c>
-  <w><i>Glettur</i></w>
+  <w><hi>Glettur</hi></w>
   <w>kom</w>
   <w>út</w>
   <w>hjá</w>
@@ -659,7 +671,7 @@
 <s n="24">
   <w>Þriðja</w>
   <revision id="26">
-    <original><w><i>sóló</i></w><w>plata</w></original>
+    <original><w><hi>sóló</hi></w><w>plata</w></original>
     <corrected><w>sólóplata</w></corrected>
       <errors>
         <error xtype="it4nonit" idx="26-1" eid="0" />
@@ -668,7 +680,7 @@
   </revision>
   <w>Björgvins</w>
   <c>,</c>
-  <w><i>Örugglega</i></w>
+  <w><hi>Örugglega</hi></w>
   <w>kom</w>
   <w>út</w>
   <w>hjá</w>
@@ -780,7 +792,7 @@
   <w>með</w>
   <w>blúsgoðsögninni</w>
   <w>Clarence</w>
-  <w><i>Gatemouth</i></w>
+  <w><hi>Gatemouth</hi></w>
   <w>Brown</w>
   <w>fram</w>
   <w>til</w>
@@ -868,7 +880,7 @@
   <w>í</w>
   <revision id="41">
     <original><w>Síldin</w><w>kemur</w></original>
-    <corrected><w><i>Síldin</i></w><w><i>kemur</i></w></corrected>
+    <corrected><w><hi>Síldin</hi></w><w><hi>kemur</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -876,7 +888,7 @@
   <c>,</c>
   <revision id="42">
     <original><w>síldin</w><w>fer</w></original>
-    <corrected><w><i>síldin</i></w><w><i>fer</i></w></corrected>
+    <corrected><w><hi>síldin</hi></w><w><hi>fer</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>

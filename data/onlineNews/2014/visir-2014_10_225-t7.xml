@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>visir-2014_10_225-t7.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Golovkin</w>
@@ -18,7 +30,7 @@
   <w>dag</w>
   <w>enda</w>
   <w>sannkallaður</w>
-  <w><i>rotari</i></w>
+  <w><hi>rotari</hi></w>
   <c>.</c>
 </s><s n="2">
   <w>Bubbi</w>
@@ -47,7 +59,7 @@
   <w>í</w>
   <revision id="2">
     <original><w>WBA</w><c>,</c><w>IBO</w><w>en</w><w>einnig</w><w>er</w><w>barist</w><w>um</w><w>lausa</w><w>WBC</w><w>titilinn</w></original>
-    <corrected><w>titlunum</w><w>sem</w><w>kenndir</w><w>eru</w><w>við</w><c>:</c><w><i>WBA</i></w><c>,</c><w><i>IBO</i></w><w>og</w><w><i>WBC</i></w></corrected>
+    <corrected><w>titlunum</w><w>sem</w><w>kenndir</w><w>eru</w><w>við</w><c>:</c><w><hi>WBA</hi></w><c>,</c><w><hi>IBO</hi></w><w>og</w><w><hi>WBC</hi></w></corrected>
       <errors>
         <error xtype="wording" eid="0"/>
       </errors>

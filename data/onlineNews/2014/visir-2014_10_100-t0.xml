@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>visir-2014_10_100-t0.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Hollywood</w>
@@ -13,7 +25,7 @@
   <w>og</w>
   <w>dagskrárgerðarmaðurinn</w>
   <revision id="1">
-    <original><w><i>Rúnar</i></w><w><i>Freyr</i></w><w><i>Gíslason</i></w></original>
+    <original><w><hi>Rúnar</hi></w><w><hi>Freyr</hi></w><w><hi>Gíslason</hi></w></original>
     <corrected><w>Rúnar</w><w>Freyr</w><w>Gíslason</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -102,7 +114,7 @@
   <w>í</w>
   <w>sjónvarpsstjörnuna</w>
   <revision id="3">
-    <original><w><i>Loga</i></w><w><i>Bergmann</i></w><w><i>Eiðsson</i></w></original>
+    <original><w><hi>Loga</hi></w><w><hi>Bergmann</hi></w><w><hi>Eiðsson</hi></w></original>
     <corrected><w>Loga</w><w>Bergmann</w><w>Eiðsson</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -182,7 +194,7 @@
   <w>með</w>
   <w>leikaranum</w>
   <revision id="4">
-    <original><w><i>Jóhannesi</i></w><w><i>Hauki</i></w><w><i>Jóhannessyni</i></w><c>,</c></original>
+    <original><w><hi>Jóhannesi</hi></w><w><hi>Hauki</hi></w><w><hi>Jóhannessyni</hi></w><c>,</c></original>
     <corrected><w>Jóhannesi</w><w>Hauki</w><w>Jóhannessyni</w></corrected>
       <errors>
         <error xtype="it4nonit" idx="2-1" eid="0"/>

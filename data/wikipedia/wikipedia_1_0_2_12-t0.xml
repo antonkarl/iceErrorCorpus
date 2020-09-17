@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_12-t0.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Tískan</w>
@@ -297,7 +309,7 @@
   <w>Panem</w>
   <w>er</w>
   <w>í</w>
-  <w><i>Hungurleikunum</i></w>
+  <w><hi>Hungurleikunum</hi></w>
   <w>miðstöð</w>
   <w>hins</w>
   <w>miskunnarlausa</w>

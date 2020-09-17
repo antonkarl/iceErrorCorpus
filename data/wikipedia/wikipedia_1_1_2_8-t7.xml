@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_8-t7.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Þórbergur</w>
@@ -48,9 +60,9 @@
   <w>bók</w>
   <w>hans</w>
   <c>,</c>
-  <w><i>Bréf</i></w>
-  <w><i>til</i></w>
-  <w><i>Láru</i></w>
+  <w><hi>Bréf</hi></w>
+  <w><hi>til</hi></w>
+  <w><hi>Láru</hi></w>
   <c>,</c>
   <w>sem</w>
   <w>olli</w>
@@ -417,9 +429,9 @@
   <w>sama</w>
   <w>ár</w>
   <w>og</w>
-  <w><i>Bréf</i></w>
-  <w><i>til</i></w>
-  <w><i>Láru</i></w>
+  <w><hi>Bréf</hi></w>
+  <w><hi>til</hi></w>
+  <w><hi>Láru</hi></w>
   <w>kom</w>
   <w>út</w>
   <c>,</c>

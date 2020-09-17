@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_2_12-t1.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Menntaskólinn</w>
@@ -1544,7 +1556,7 @@
   <c>,</c>
   <revision id="39">
     <original><w>Beneventum</w></original>
-    <corrected><w><i>Beneventum</i></w></corrected>
+    <corrected><w><hi>Beneventum</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1552,7 +1564,7 @@
   <w>og</w>
   <revision id="40">
     <original><w>Fréttapési</w></original>
-    <corrected><w><i>Fréttapési</i></w></corrected>
+    <corrected><w><hi>Fréttapési</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1562,7 +1574,7 @@
 <s n="79">
   <revision id="41">
     <original><w>Beneventum</w></original>
-    <corrected><w><i>Beneventum</i></w></corrected>
+    <corrected><w><hi>Beneventum</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1578,7 +1590,7 @@
   <w>en</w>
   <revision id="42">
     <original><w>Fréttapési</w></original>
-    <corrected><w><i>Fréttapési</i></w></corrected>
+    <corrected><w><hi>Fréttapési</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>

@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_4-t8.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Við</w>
@@ -1381,7 +1393,7 @@
   <w>dregið</w>
   <w>af</w>
   <w>orðinu</w>
-  <w><i>mahal</i></w>
+  <w><hi>mahal</hi></w>
   <c>,</c>
   <w>sem</w>
   <w>vísar</w>
@@ -1407,7 +1419,7 @@
   <c>:</c>
   <revision id="56">
     <original><w>Malines</w></original>
-    <corrected><w><i>Malines</i></w></corrected>
+    <corrected><w><hi>Malines</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

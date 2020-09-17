@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>visir-2014_10_175-t14.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Aron</w>
@@ -106,7 +118,7 @@
 </s>
 <s n="5">
   <revision id="3">
-    <original><w><i>Albert</i></w><w><i>Rocas</i></w></original>
+    <original><w><hi>Albert</hi></w><w><hi>Rocas</hi></w></original>
     <corrected><w>Albert</w><w>Rocas</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -114,7 +126,7 @@
   </revision>
   <w>og</w>
   <revision id="4">
-    <original><w><i>Francisco</i></w><w><i>Javier</i></w><w><i>Garcia</i></w></original>
+    <original><w><hi>Francisco</hi></w><w><hi>Javier</hi></w><w><hi>Garcia</hi></w></original>
     <corrected><w>Francisco</w><w>Javier</w><w>Garcia</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />
@@ -129,7 +141,7 @@
   <w>Rioja</w>
   <w>en</w>
   <revision id="5">
-    <original><w><i>Steffen</i></w><w><i>Weinhold</i></w></original>
+    <original><w><hi>Steffen</hi></w><w><hi>Weinhold</hi></w></original>
     <corrected><w>Steffen</w><w>Weinhold</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />

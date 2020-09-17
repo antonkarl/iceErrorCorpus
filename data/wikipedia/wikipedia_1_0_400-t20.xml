@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_400-t20.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Sir</w>
@@ -154,7 +166,7 @@
 </s>
 <s n="10">
   <revision id="1">
-    <original><w><i>Isaiah</i></w><w><i>Berlin-fyrirlestrarnir</i></w></original>
+    <original><w><hi>Isaiah</hi></w><w><hi>Berlin-fyrirlestrarnir</hi></w></original>
     <corrected><w>Isaiah</w><w>Berlin-fyrirlestrarnir</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0" />

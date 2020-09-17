@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Madonna</w>
+  <w>vottaði</w>
+  <w>Michael</w>
+  <revision id="1">
+    <original><w>heitnum</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wording" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>Jackson</w>
+  <revision id="2">
+    <original></original>
+    <corrected><w>heitnum</w></corrected>
+      <errors>
+        <error xtype="dep" depId="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>virðingu</w>
+  <w>sína</w>
+  <w>á</w>
+  <w>tónleikum</w>
+  <w>í</w>
+  <w>gær</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Tónleikana</w>
+  <w>hélt</w>
+  <w>hún</w>
+  <w>á</w>
+  <w>sama</w>
+  <w>sviði</w>
+  <w>og</w>
+  <w>Michael</w>
+  <revision id="3">
+    <original><w>ætlaði</w></original>
+    <corrected><w>hafði</w><w>ætlað</w></corrected>
+      <errors>
+        <error xtype="aux" eid="0" />
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>hefja</w>
+  <w>tónleikaröð</w>
+  <w>sína</w>
+  <w>á</w>
+  <w>síðar</w>
+  <w>í</w>
+  <w>þessum</w>
+  <w>mánuði</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Mynd</w>
+  <w>af</w>
+  <w>Michael</w>
+  <w>Jackson</w>
+  <w>ungum</w>
+  <w>birtist</w>
+  <w>á</w>
+  <w>sviðinu</w>
+  <w>þegar</w>
+  <w>Madonna</w>
+  <w>var</w>
+  <w>að</w>
+  <w>flytja</w>
+  <w>lagið</w>
+  <revision id="3b">
+    <original><c>&quot;</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
+  <w>Holiday</w>
+  <revision id="3c">
+    <original><c>&quot;</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
+  <w>þegar</w>
+  <w>eftirherma</w>
+  <w>steig</w>
+  <w>á</w>
+  <w>svið</w>
+  <c>,</c>
+  <w>klædd</w>
+  <w>eins</w>
+  <w>og</w>
+  <w>Michael</w>
+  <w>Jackson</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Þá</w>
+  <w>var</w>
+  <w>byrjað</w>
+  <w>að</w>
+  <w>spila</w>
+  <w>lagið</w>
+  <c>„</c>
+  <w>Wanna</w>
+  <w>Be</w>
+  <w>Starting</w>
+  <w>Something</w>
+  <revision id="4">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
+      </errors>
+  </revision>
+  <c>“</c>
+  <revision id="5">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>Jackson</w>
+  <w>söng</w>
+  <w>nokkuð</w>
+  <w>eftirminnilega</w>
+  <w>á</w>
+  <w>sínum</w>
+  <w>tíma</w>
+  <revision id="6">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>eftirherman</w>
+  <w>steig</w>
+  <w>hin</w>
+  <w>margfrægu</w>
+  <w>spor</w>
+  <w>Jacksons</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Eftir</w>
+  <w>þetta</w>
+  <w>atriði</w>
+  <w>bað</w>
+  <w>Madonna</w>
+  <w>17 þúsund</w>
+  <w>tónleikagesti</w>
+  <w>sína</w>
+  <w>um</w>
+  <w>að</w>
+  <w>klappa</w>
+  <w>fyrir</w>
+  <w>Jackson</w>
+  <w>sem</w>
+  <w>hún</w>
+  <w>sagði</w>
+  <w>vera</w>
+  <w>einn</w>
+  <w>mesta</w>
+  <w>listamann</w>
+  <w>allra</w>
+  <w>tíma</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Tónleikagestir</w>
+  <w>tóku</w>
+  <w>ákaft</w>
+  <w>undir</w>
+  <w>með</w>
+  <w>klappi</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>
