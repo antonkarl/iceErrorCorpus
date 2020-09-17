@@ -138,7 +138,13 @@
   <w>sem</w>
   <w>okkur</w>
   <w>vantar</w>
-  <w>uppá</w>
+  <revision id="4a">
+    <original><w>uppá</w></original>
+    <corrected><w>upp</w><w>á</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="7">
   <w>Við</w>
