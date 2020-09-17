@@ -705,7 +705,14 @@
   <w>Eins</w>
   <w>og</w>
   <w>flestir</w>
-  <w>kannst</w>
+  <revision id="19">
+    <original><w>kannst</w></original>
+    <corrected><w>kannast</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="19a-1" eid="0" />
+        <error xtype="nonword" idx="19a-1" eid="0" />
+      </errors>
+  </revision>
   <w>við</w>
   <w>hafa</w>
   <w>á</w>
@@ -850,7 +857,14 @@
   <w>út</w>
   <w>á</w>
   <w>meðan</w>
-  <w>sjálfsímyndin</w>
+  <revision id="20">
+    <original><w>sjálfsímyndin</w></original>
+    <corrected><w>sjálfsmynd</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="20a-1" eid="0" />
+        <error xtype="compound-nonword" idx="20a-1" eid="0" />
+      </errors>
+  </revision>
   <w>skreppur</w>
   <w>saman</w>
   <c>.</c>
