@@ -371,7 +371,14 @@
   <w>er</w>
   <w>alltaf</w>
   <w>sama</w>
-  <w>skattaprósentan</w>
+  <revision id="2a">
+    <original><w>skattaprósentan</w></original>
+    <corrected><w>skattprósentan</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="2a-1" eid="0" />
+        <error xtype="compound-nonword" idx="2a-1" eid="0" />
+      </errors>
+  </revision>
   <w>sem</w>
   <w>berst</w>
   <w>til</w>
@@ -723,7 +730,14 @@
   <w>um</w>
   <w>Íslendinga</w>
   <c>,</c>
-  <w>íhaldsemin</w>
+  <revision id="6a">
+    <original><w>íhaldsemin</w></original>
+    <corrected><w>íhaldssemin</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="6a-1" eid="0" />
+        <error xtype="nonword" idx="6a-1" eid="0" />
+      </errors>
+  </revision>
   <w>er</w>
   <w>að</w>
   <w>fara</w>
@@ -1006,7 +1020,13 @@
   <w>Árásin</w>
   <w>virtist</w>
   <w>vera</w>
-  <w>af</w>
+  <revision id="16">
+    <original><w>af</w></original>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
   <w>ástæðulausu</w>
   <c>.</c>
 </s><s n="51">
