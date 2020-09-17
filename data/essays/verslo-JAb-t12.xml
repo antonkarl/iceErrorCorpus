@@ -1232,7 +1232,13 @@
   <w>kemur</w>
   <w>þá</w>
   <w>í</w>
-  <w>staðin</w>
+  <revision id="34a">
+    <original><w>staðin</w></original>
+    <corrected><w>staðinn</w></corrected>
+      <errors>
+        <error xtype="n4nn" eid="0" />
+      </errors>
+  </revision>
   <c>?</c>
 </s><s n="38">
   <w>En</w>
