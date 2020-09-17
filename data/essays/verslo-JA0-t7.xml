@@ -415,7 +415,13 @@
   <c>.</c>
 </s><s n="29">
   <w>Óháður</w>
-  <w>samningaaðili</w>
+  <revision id="3a">
+    <original><w>samningaaðili</w></original>
+    <corrected><w>samningsaðili</w></corrected>
+      <errors>
+        <error xtype="compound-nonword" eid="0" />
+      </errors>
+  </revision>
   <w>getur</w>
   <w>aldrei</w>
   <w>þvingað</w>
@@ -793,6 +799,13 @@
   <c>,</c>
   <w>fyrirtækjum</w>
   <w>né</w>
+  <revision id="3b">
+    <original></original>
+    <corrected><w>af</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
   <w>hagsmunahópum</w>
   <c>.</c>
 </s></p></body></text>
