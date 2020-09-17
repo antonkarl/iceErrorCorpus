@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Spánverjar</w>
+  <w>hafa</w>
+  <w>endurheimt</w>
+  <w>einn</w>
+  <w>af</w>
+  <w>helstu</w>
+  <w>menningarfjársjóðum</w>
+  <w>sínum</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Um</w>
+  <w>er</w>
+  <w>að</w>
+  <w>ræða</w>
+  <w>trúarlegt</w>
+  <w>handrit</w>
+  <w>sem</w>
+  <w>skrifað</w>
+  <w>var</w>
+  <w>árið 1150</w>
+  <w>en</w>
+  <w>því</w>
+  <w>var</w>
+  <w>stolið</w>
+  <w>fyrir</w>
+  <w>ári</w>
+  <w>síðan</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Handrit</w>
+  <w>þetta</w>
+  <w>ber</w>
+  <w>nafnið</w>
+  <w>Codex</w>
+  <w>Calixtinus</w>
+  <w>og</w>
+  <w>spænska</w>
+  <w>lögreglan</w>
+  <w>fann</w>
+  <w>það</w>
+  <w>í</w>
+  <w>bílskúr</w>
+  <w>nálægt</w>
+  <w>borginni</w>
+  <w>Santiago</w>
+  <w>de</w>
+  <w>Compostela</w>
+  <revision id="1">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>höfuðstað</w>
+  <w>Galisíu</w>
+  <w>á</w>
+  <revision id="2">
+    <original><w>Norður</w><w>Spáni</w></original>
+    <corrected><w>Norður-Spáni</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Það</w>
+  <w>hafði</w>
+  <w>áður</w>
+  <w>verið</w>
+  <w>geymt</w>
+  <w>í</w>
+  <w>dómkirkju</w>
+  <w>borgarinnar</w>
+  <w>en</w>
+  <w>hún</w>
+  <w>er</w>
+  <w>byggð</w>
+  <w>á</w>
+  <w>því</w>
+  <w>sem</w>
+  <w>talið</w>
+  <w>er</w>
+  <w>vera</w>
+  <w>grafreitur</w>
+  <w>Jakobs</w>
+  <w>postula</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Jakob</w>
+  <w>á</w>
+  <w>að</w>
+  <w>hafa</w>
+  <w>boðað</w>
+  <w>fagnaðarerindið</w>
+  <w>á</w>
+  <w>Spáni</w>
+  <w>samkvæmt</w>
+  <w>helgisögnum</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Raunar</w>
+  <w>fjallar</w>
+  <w>handritið</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>er</w>
+  <w>ríkulega</w>
+  <w>myndskreytt</w>
+  <c>,</c>
+  <revision id="3">
+    <original><w>m.</w><w>a</w><c>.</c></original>
+    <corrected><w>m.a.</w></corrected>
+      <errors>
+        <error xtype="extra-space" idx="3-1" eid="0" />
+        <error xtype="extra-space" idx="3-1" eid="0" />
+      </errors>
+  </revision>
+  <w>um</w>
+  <revision id="4">
+    <original><w>pílagrímaför</w></original>
+    <corrected><w>pílagrímsför</w></corrected>
+      <errors>
+        <error xtype="letter-rep" idx="4-1" eid="0" />
+        <error xtype="compound-collocation" idx="4-1" eid="0" />
+      </errors>
+  </revision>
+  <w>til</w>
+  <w>grafreitsins</w>
+  <w>en</w>
+  <revision id="5">
+    <original></original>
+    <corrected><w>talið</w><w>er</w><w>að</w></corrected>
+      <errors>
+        <error xtype="dep" depId="6-1" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>miðöldum</w>
+  <revision id="6">
+    <original><w>taldist</w></original>
+    <corrected><w>hafi</w></corrected>
+      <errors>
+        <error xtype="wording" idx="6-1" eid="0" />
+        <error xtype="missing-word" idx="6-2" eid="0" />
+      </errors>
+  </revision>
+  <w>bærinn</w>
+  <revision id="7">
+    <original></original>
+    <corrected><w>verið</w></corrected>
+      <errors>
+        <error xtype="dep" depId="6-2" eid="0" />
+      </errors>
+  </revision>
+  <w>þriðji</w>
+  <w>helsti</w>
+  <w>áfangastaður</w>
+  <w>pílagríma</w>
+  <w>á</w>
+  <w>eftir</w>
+  <w>Jerúsalem</w>
+  <w>og</w>
+  <w>Róm</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>Í</w>
+  <revision id="8">
+    <original><w>tenglum</w></original>
+    <corrected><w>tengslum</w></corrected>
+      <errors>
+        <error xtype="missing-letter" eid="0" />
+      </errors>
+  </revision>
+  <w>við</w>
+  <w>þetta</w>
+  <w>mál</w>
+  <w>var</w>
+  <w>einn</w>
+  <w>af</w>
+  <w>starfsmönnum</w>
+  <w>dómkirkjunnar</w>
+  <w>handtekinn</w>
+  <w>ásamt</w>
+  <w>þremur</w>
+  <w>ættingjum</w>
+  <w>sínum</w>
+  <c>.</c>
+</s>
+<s n="8">
+  <w>Vitað</w>
+  <w>er</w>
+  <w>að</w>
+  <w>starfsmaðurinn</w>
+  <w>hafði</w>
+  <w>aðgang</w>
+  <w>að</w>
+  <w>þeirri</w>
+  <w>hvelfingu</w>
+  <w>kirkjunnar</w>
+  <w>sem</w>
+  <w>handritið</w>
+  <w>var</w>
+  <w>geymt</w>
+  <w>í</w>
+  <w>þegar</w>
+  <w>því</w>
+  <w>var</w>
+  <w>stolið</w>
+  <w>fyrir</w>
+  <w>ári</w>
+  <w>síðan</w>
+  <c>.</c>
+</s>
+<s n="9">
+  <w>Í</w>
+  <w>bílskúrnum</w>
+  <w>fundust</w>
+  <w>þar</w>
+  <w>að</w>
+  <w>auki</w>
+  <w>fleiri</w>
+  <w>gömul</w>
+  <w>handrit</w>
+  <w>og</w>
+  <w>um</w>
+  <w>1,2</w>
+  <w>milljónir</w>
+  <w>evra</w>
+  <w>eða</w>
+  <w>um</w>
+  <w>190</w>
+  <w>milljónir</w>
+  <w>króna</w>
+  <w>í</w>
+  <w>reiðufé</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

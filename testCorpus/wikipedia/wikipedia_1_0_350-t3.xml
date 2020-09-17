@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_350-t3.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Strákar</w>
@@ -42,7 +54,7 @@
   <w>afbökun</w>
   <w>úr</w>
   <revision id="2">
-    <original><c>"</c><w><i>Strókafjall</i></w><c>"</c></original>
+    <original><c>"</c><w><hi>Strókafjall</hi></w><c>"</c></original>
     <corrected><w>Strókafjall</w></corrected>
       <errors>
         <error xtype="extra-quots" idx="2-1" eid="0" />
@@ -52,7 +64,7 @@
   </revision>
   <w>eða</w>
   <revision id="3">
-    <original><c>"</c><w><i>Hvanneyrarstrókar</i></w><c>"</c></original>
+    <original><c>"</c><w><hi>Hvanneyrarstrókar</hi></w><c>"</c></original>
     <corrected><w>Hvanneyrarstróka</w></corrected>
       <errors>
         <error xtype="extra-quots" idx="3-1" eid="0" />

@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_10-t0.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Flestir</w>
@@ -57,7 +69,7 @@
   <w>merki</w>
   <revision id="5">
     <original><c>„</c><w>með</w><w>djúpar</w><w>rætur</w></original>
-    <corrected><w><i>með</i></w><w><i>djúpar</i></w><w><i>rætur</i></w></corrected>
+    <corrected><w><hi>með</hi></w><w><hi>djúpar</hi></w><w><hi>rætur</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="17-1" eid="0"/>
         <error xtype="nonit4it" idx="17-1" eid="0"/>
@@ -66,7 +78,7 @@
   <c>,</c>
   <revision id="6">
     <original><w>vel</w><w>vökvuð</w></original>
-    <corrected><w><i>vel</i></w><w><i>vökvuð</i></w></corrected>
+    <corrected><w><hi>vel</hi></w><w><hi>vökvuð</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -74,7 +86,7 @@
   <c>,</c>
   <revision id="7">
     <original><w>frjósöm</w><c>“</c></original>
-    <corrected><w><i>frjósöm</i></w></corrected>
+    <corrected><w><hi>frjósöm</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="19-1" eid="0"/>
         <error xtype="dep" depId="17-1" eid="0"/>
@@ -226,7 +238,7 @@
   <c>(</c>
   <w>arabíska</w>
   <c>:</c>
-  <w><i>muhafadhat</i></w>
+  <w><hi>muhafadhat</hi></w>
   <c>,</c>
   <w>kúrdíska</w>
   <c>:</c>
@@ -414,7 +426,7 @@
   <w>arabísku</w>
   <c>,</c>
   <w>العراق</w>
-  <w><i>al-ʿIrāq</i></w>
+  <w><hi>al-ʿIrāq</hi></w>
   <revision id="17">
     <original><c>,</c></original>
     <corrected/>
@@ -599,7 +611,7 @@
   <c>:</c>
   <w>عێراق</w>
   <w>‎</w>
-  <w><i>Eraq</i></w>
+  <w><hi>Eraq</hi></w>
   <c>)</c>
   <w>er</w>
   <w>land</w>
@@ -728,7 +740,7 @@
   <w>í</w>
   <w>umdæmi</w>
   <c>(</c>
-  <w><i>gadhas</i></w>
+  <w><hi>gadhas</hi></w>
   <c>)</c>
   <w>sem</w>
   <w>aftur</w>
@@ -736,7 +748,7 @@
   <w>í</w>
   <w>undirumdæmi</w>
   <c>(</c>
-  <w><i>nawāḥī</i></w>
+  <w><hi>nawāḥī</hi></w>
   <c>)</c>
   <c>.</c>
 </s><s n="29">
@@ -752,7 +764,7 @@
   <c>(</c>
   <revision id="26">
     <original><c>„</c><w>arabíska</w><w>Írak</w><c>“</c></original>
-    <corrected><w><i>arabíska</i></w><w><i>Írak</i></w></corrected>
+    <corrected><w><hi>arabíska</hi></w><w><hi>Írak</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="20-1" eid="0"/>
         <error xtype="nonit4it" idx="20-1" eid="0"/>
@@ -763,12 +775,12 @@
   <w>Neðri</w>
   <w>Mesópótamíu</w>
   <w>og</w>
-  <w><i>ʿIrāq</i></w>
-  <w><i>ʿajamī</i></w>
+  <w><hi>ʿIrāq</hi></w>
+  <w><hi>ʿajamī</hi></w>
   <c>(</c>
   <revision id="27">
     <original><c>„</c><w>erlenda</w><w>Írak</w><c>“</c></original>
-    <corrected><w><i>erlenda</i></w><w><i>Írak</i></w></corrected>
+    <corrected><w><hi>erlenda</hi></w><w><hi>Írak</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="21-1" eid="0"/>
         <error xtype="nonit4it" idx="21-1" eid="0"/>
@@ -869,8 +881,8 @@
 </s><s n="34">
   <w>Samkvæmt</w>
   <w>mati</w>
-  <w><i>CIA</i></w>
-  <w><i>Factbook</i></w>
+  <w><hi>CIA</hi></w>
+  <w><hi>Factbook</hi></w>
   <w>eru</w>
   <revision id="28b">
     <original><w>sjíamúslimar</w></original>
@@ -888,7 +900,7 @@
   <w>mati</w>
   <revision id="29">
     <original><w>Pew</w><w>Research</w><w>Center</w></original>
-    <corrected><w><i>Pew</i></w><w><i>Research</i></w><w><i>Center</i></w></corrected>
+    <corrected><w><hi>Pew</hi></w><w><hi>Research</hi></w><w><hi>Center</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -956,11 +968,11 @@
   <c>.</c>
 </s><s n="36">
   <w>Orðið</w>
-  <w><i>Sawad</i></w>
+  <w><hi>Sawad</hi></w>
   <c>(</c>
   <revision id="32">
     <original><c>„</c><w>svart</w><w>land</w><c>“</c></original>
-    <corrected><w><i>svart</i></w><w><i>land</i></w></corrected>
+    <corrected><w><hi>svart</hi></w><w><hi>land</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="23-1" eid="0"/>
         <error xtype="nonit4it" idx="23-1" eid="0"/>
@@ -1098,7 +1110,7 @@
   <c>(</c>
   <revision id="35">
     <original><w>Peshmerga</w></original>
-    <corrected><w><i>Peshmerga</i></w></corrected>
+    <corrected><w><hi>Peshmerga</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -1150,7 +1162,7 @@
   <w>borgarinnar</w>
   <w>Úrúk</w>
   <c>(</c>
-  <w><i>Erek</i></w>
+  <w><hi>Erek</hi></w>
   <w>í</w>
   <w>Biblíunni</w>
   <c>)</c>
@@ -1173,7 +1185,7 @@
   <w>yfir</w>
   <revision id="36">
     <original><c>„</c><w>borg</w><c>“</c></original>
-    <corrected><w><i>borg</i></w></corrected>
+    <corrected><w><hi>borg</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="16-1" eid="0"/>
         <error xtype="nonit4it" idx="16-1" eid="0"/>
@@ -1284,7 +1296,7 @@
   <w>عراق</w>
   <revision id="39">
     <original><c>„</c><w>faldur</w><c>“</c></original>
-    <corrected><w><i>faldur</i></w></corrected>
+    <corrected><w><hi>faldur</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="24-1" eid="0"/>
         <error xtype="extra-quots" idx="24-1" eid="0"/>
@@ -1293,7 +1305,7 @@
   <c>,</c>
   <revision id="40">
     <original><c>„</c><w>strönd</w><c>“</c></original>
-    <corrected><w><i>strönd</i></w></corrected>
+    <corrected><w><hi>strönd</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="25-1" eid="0"/>
         <error xtype="extra-quots" idx="25-1" eid="0"/>
@@ -1302,7 +1314,7 @@
   <c>,</c>
   <revision id="41">
     <original><c>„</c><w>bakki</w><c>“</c></original>
-    <corrected><w><i>bakki</i></w></corrected>
+    <corrected><w><hi>bakki</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="26-1" eid="0"/>
         <error xtype="extra-quots" idx="26-1" eid="0"/>
@@ -1311,7 +1323,7 @@
   <w>eða</w>
   <revision id="42">
     <original><c>„</c><w>brún</w><c>“</c></original>
-    <corrected><w><i>brún</i></w></corrected>
+    <corrected><w><hi>brún</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="27-1" eid="0"/>
         <error xtype="extra-quots" idx="27-1" eid="0"/>
@@ -1326,7 +1338,7 @@
   <w>sem</w>
   <revision id="43">
     <original><c>„</c><w>brekka</w><c>“</c></original>
-    <corrected><w><i>brekka</i></w></corrected>
+    <corrected><w><hi>brekka</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="28-1" eid="0"/>
         <error xtype="extra-quots" idx="28-1" eid="0"/>
@@ -1335,7 +1347,7 @@
   <w>eða</w>
   <revision id="44">
     <original><c>„</c><w>hamar</w><c>“</c></original>
-    <corrected><w><i>hamar</i></w></corrected>
+    <corrected><w><hi>hamar</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="29-1" eid="0"/>
         <error xtype="extra-quots" idx="29-1" eid="0"/>
@@ -1348,12 +1360,12 @@
   <w>Efri</w>
   <w>Mesópótamíu</w>
   <w>eða</w>
-  <w><i>al-Jazira</i></w>
+  <w><hi>al-Jazira</hi></w>
   <w>sem</w>
   <w>myndar</w>
   <w>norðurmörk</w>
-  <w><i>al-Iraq</i></w>
-  <w><i>arabi</i></w>
+  <w><hi>al-Iraq</hi></w>
+  <w><hi>arabi</hi></w>
   <c>.</c>
 </s><s n="53">
   <revision id="45">

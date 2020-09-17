@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_300-t3.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Stúdíó</w>
@@ -79,7 +91,7 @@
   <w>eru</w>
   <revision id="2">
     <original><w>Strumparnir</w></original>
-    <corrected><w><i>Strumparnir</i></w></corrected>
+    <corrected><w><hi>Strumparnir</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -87,7 +99,7 @@
   <c>,</c>
   <revision id="3">
     <original><w>íslenski</w><w>draumurinn</w></original>
-    <corrected><w><i>Íslenski</i></w><w><i>draumurinn</i></w></corrected>
+    <corrected><w><hi>Íslenski</hi></w><w><hi>draumurinn</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="3-1" eid="0" />
         <error xtype="lower4upper-proper" idx="3-1" eid="0" />
@@ -96,7 +108,7 @@
   <w>og</w>
   <revision id="4">
     <original><w>Með</w><w>allt</w><w>á</w><w>hreinu</w></original>
-    <corrected><w><i>Með</i></w><w><i>allt</i></w><w><i>á</i></w><w><i>hreinu</i></w></corrected>
+    <corrected><w><hi>Með</hi></w><w><hi>allt</hi></w><w><hi>á</hi></w><w><hi>hreinu</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>

@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_175-t14.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Turninn</w>
@@ -25,7 +37,7 @@
   <w>áföstum</w>
   <w>prikum</w>
   <w>og</w>
-  <w><i>n</i></w>
+  <w><hi>n</hi></w>
   <w>hringjum</w>
   <c>(</c>
   <w>oftast</w>

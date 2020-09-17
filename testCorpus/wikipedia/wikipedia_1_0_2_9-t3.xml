@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_9-t3.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Friðrik</w>
@@ -944,19 +956,19 @@
   <c>(</c>
   <w>merkir</w>
   <w>bæði</w>
-  <w><i>venjulegur</i></w>
+  <w><hi>venjulegur</hi></w>
   <revision id="30">
-    <original><w><i>Pfennig</i></w></original>
-    <corrected><w><i>eyrir</i></w></corrected>
+    <original><w><hi>Pfennig</hi></w></original>
+    <corrected><w><hi>eyrir</hi></w></corrected>
       <errors>
         <error xtype="fw4ice" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
-  <w><i>óréttlátur</i></w>
+  <w><hi>óréttlátur</hi></w>
   <revision id="31">
     <original/>
-    <corrected><w><i>eyrir</i></w></corrected>
+    <corrected><w><hi>eyrir</hi></w></corrected>
       <errors>
         <error xtype="missing-word" eid="0"/>
       </errors>

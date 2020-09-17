@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_19-t11.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Sögulegur</w>
@@ -495,17 +507,17 @@
   <c>(</c>
   <w>enska</w>
   <c>:</c>
-  <w><i>Waste</i></w>
-  <w><i>Electrical</i></w>
-  <w><i>and</i></w>
-  <w><i>Electronic</i></w>
-  <w><i>Equipment</i></w>
-  <w><i>Directive</i></w>
+  <w><hi>Waste</hi></w>
+  <w><hi>Electrical</hi></w>
+  <w><hi>and</hi></w>
+  <w><hi>Electronic</hi></w>
+  <w><hi>Equipment</hi></w>
+  <w><hi>Directive</hi></w>
   <c>,</c>
   <w>skammstafað</w>
   <w>sem</w>
-  <w><i>WEEE</i></w>
-  <w><i>Directive</i></w>
+  <w><hi>WEEE</hi></w>
+  <w><hi>Directive</hi></w>
   <c>)</c>
   <w>er</w>
   <w>reglugerð</w>

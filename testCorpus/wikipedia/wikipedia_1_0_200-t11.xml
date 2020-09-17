@@ -1,13 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_200-t11.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Héraðið</w>
   <w>er</w>
   <w>því</w>
-  <w><i>de</i></w>
-  <w><i>facto</i></w>
+  <w><hi>de</hi></w>
+  <w><hi>facto</hi></w>
   <revision id="1">
     <original/>
     <corrected><c>,</c></corrected>

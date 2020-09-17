@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_19-t1.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Á</w>
@@ -152,11 +164,11 @@
         <error xtype="extra-words" eid="0"/>
       </errors>
   </revision>
-  <w><i>The</i></w>
-  <w><i>Crime</i></w>
-  <w><i>of</i></w>
-  <w><i>the</i></w>
-  <w><i>Congo</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Crime</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>Congo</hi></w>
   <c>.</c>
 </s><s n="5">
   <w>Fríríkið</w>

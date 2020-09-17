@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Stúdíó</w>
+  <w>Sýrland</w>
+  <c>(</c>
+  <w>áður</w>
+  <w>þekkt</w>
+  <w>sem</w>
+  <revision id="1">
+    <original><w>Studío</w></original>
+    <corrected><w>Stúdíó</w></corrected>
+      <errors>
+        <error xtype="missing-accent" idx="1-1" eid="0" />
+        <error xtype="missing-accent" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>Grettisgat</w>
+  <c>)</c>
+  <c>,</c>
+  <w>er</w>
+  <w>hljóðver</w>
+  <w>á</w>
+  <w>Íslandi</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Það</w>
+  <w>er</w>
+  <w>helst</w>
+  <w>notað</w>
+  <w>við</w>
+  <w>hljóðupptöku</w>
+  <w>fyrir</w>
+  <w>kvikmyndir</w>
+  <w>og</w>
+  <w>sjónvarpsefni</w>
+  <w>og</w>
+  <w>upptöku</w>
+  <w>á</w>
+  <w>tónlist</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Meðal</w>
+  <w>tónlistarmanna</w>
+  <w>sem</w>
+  <w>hafa</w>
+  <w>notað</w>
+  <w>það</w>
+  <w>eru</w>
+  <w>Björk</w>
+  <w>Guðmundsdóttir</w>
+  <c>,</c>
+  <w>Sigur</w>
+  <w>Rós</w>
+  <c>,</c>
+  <w>Quarashi</w>
+  <c>,</c>
+  <w>Írafár</w>
+  <w>og</w>
+  <w>Blur</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Meðal</w>
+  <w>sjónvarps-</w> 
+  <w>og</w>
+  <w>kvikmyndatengds</w>
+  <w>efnis</w>
+  <w>sem</w>
+  <w>hefur</w>
+  <w>verið</w>
+  <w>tekið</w>
+  <w>upp</w>
+  <w>þar</w>
+  <w>eru</w>
+  <revision id="2">
+    <original><w>Strumparnir</w></original>
+    <corrected><w><i>Strumparnir</i></w></corrected>
+      <errors>
+        <error xtype="nonit4it" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <revision id="3">
+    <original><w>íslenski</w><w>draumurinn</w></original>
+    <corrected><w><i>Íslenski</i></w><w><i>draumurinn</i></w></corrected>
+      <errors>
+        <error xtype="nonit4it" idx="3-1" eid="0" />
+        <error xtype="lower4upper-proper" idx="3-1" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <revision id="4">
+    <original><w>Með</w><w>allt</w><w>á</w><w>hreinu</w></original>
+    <corrected><w><i>Með</i></w><w><i>allt</i></w><w><i>á</i></w><w><i>hreinu</i></w></corrected>
+      <errors>
+        <error xtype="nonit4it" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

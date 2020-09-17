@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_11-t1.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Fljótt</w>
@@ -86,8 +98,8 @@
   <w>upprunalega</w>
   <w>með</w>
   <w>plötunni</w>
-  <w><i>Burn</i></w>
-  <w><i>One</i></w>
+  <w><hi>Burn</hi></w>
+  <w><hi>One</hi></w>
   <w>ZUp</w>
   <c>!</c>
 </s><s n="5">
@@ -266,9 +278,9 @@
   <w>kom</w>
   <w>úr</w>
   <w>platan</w>
-  <w><i>Spine</i></w>
-  <w><i>of</i></w>
-  <w><i>God</i></w>
+  <w><hi>Spine</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>God</hi></w>
   <w>frá</w>
   <w>þeim</w>
   <w>félögum</w>
@@ -278,13 +290,13 @@
   <c>.</c>
 </s><s n="10">
   <w>Plöturnar</w>
-  <w><i>Master</i></w>
-  <w><i>of</i></w>
-  <w><i>Reality</i></w>
+  <w><hi>Master</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>Reality</hi></w>
   <w>og</w>
-  <w><i>Black</i></w>
-  <w><i>Sabbath</i></w>
-  <w><i>Vol.</i></w>
+  <w><hi>Black</hi></w>
+  <w><hi>Sabbath</hi></w>
+  <w><hi>Vol.</hi></w>
   <w><i/></w>
   <w>4Z</w>
   <w>eru</w>
@@ -410,9 +422,9 @@
   </revision>
   <w>í</w>
   <w>plötunni</w>
-  <w><i>Master</i></w>
-  <w><i>of</i></w>
-  <w><i>Reality</i></w>
+  <w><hi>Master</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>Reality</hi></w>
   <w>með</w>
   <w>Black</w>
   <w>Sabbath</w>
@@ -429,8 +441,8 @@
   <w>Blue</w>
   <w>Cheer</w>
   <c>,</c>
-  <w><i>Machine</i></w>
-  <w><i>Head</i></w>
+  <w><hi>Machine</hi></w>
+  <w><hi>Head</hi></w>
   <w>með</w>
   <w>Deep</w>
   <w>Purple</w>
@@ -442,10 +454,10 @@
         <error xtype="nominal-inflection" eid="0"/>
       </errors>
   </revision>
-  <w><i>Workshop</i></w>
-  <w><i>of</i></w>
-  <w><i>the</i></w>
-  <w><i>Telescopes</i></w>
+  <w><hi>Workshop</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>Telescopes</hi></w>
   <w>með</w>
   <w>Blue</w>
   <w>Öyster</w>
@@ -543,7 +555,7 @@
   <c>,</c>
   <revision id="31">
     <original><w>Smokin</w><c>‘</c><w>bats</w><w>at</w><w>Camton‘s</w></original>
-    <corrected><w><i>Smokin‘</i></w><w><i>bats</i></w><w><i>at</i></w><w><i>Camton‘s</i></w></corrected>
+    <corrected><w><hi>Smokin‘</hi></w><w><hi>bats</hi></w><w><hi>at</hi></w><w><hi>Camton‘s</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="32-1" eid="0"/>
         <error xtype="extra-space" idx="32-2" eid="0"/>
@@ -593,9 +605,9 @@
   <w>eftir</w>
   <w>útgáfu</w>
   <w>plötunnar</w>
-  <w><i>Black</i></w>
-  <w><i>Sabbath</i></w>
-  <w><i>Vol.</i></w>
+  <w><hi>Black</hi></w>
+  <w><hi>Sabbath</hi></w>
+  <w><hi>Vol.</hi></w>
   <w><i/></w>
   <w>4Z</w>
   <revision id="34">
@@ -629,28 +641,28 @@
         <error xtype="split-compound" idx="9-1" eid="0"/>
       </errors>
   </revision>
-  <w><i>Welcome</i></w>
-  <w><i>To</i></w>
+  <w><hi>Welcome</hi></w>
+  <w><hi>To</hi></w>
   <w>ZMeteorCity</w>
   <c>:</c>
   <w><i/></w>
-  <w><i>Desert</i></w>
+  <w><hi>Desert</hi></w>
   <w>ZRock</w>
   <c>,</c>
   <w><i/></w>
-  <w><i>Sludge</i></w>
-  <w><i>and</i></w>
-  <w><i>Cosmic</i></w>
-  <w><i>Doom</i></w>
+  <w><hi>Sludge</hi></w>
+  <w><hi>and</hi></w>
+  <w><hi>Cosmic</hi></w>
+  <w><hi>Doom</hi></w>
   <c>.</c>
 </s><s n="19">
   <w>Árið 1992</w>
   <w>kom</w>
   <w>út</w>
   <w>platan</w>
-  <w><i>Sleep‘s</i></w>
-  <w><i>Holy</i></w>
-  <w><i>Mountain</i></w>
+  <w><hi>Sleep‘s</hi></w>
+  <w><hi>Holy</hi></w>
+  <w><hi>Mountain</hi></w>
   <w>með</w>
   <w>hljómsveitinni</w>
   <w>Sleep</w>
@@ -672,8 +684,8 @@
   <w>á</w>
   <w>borð</w>
   <w>við</w>
-  <w><i>My</i></w>
-  <w><i>War</i></w>
+  <w><hi>My</hi></w>
+  <w><hi>War</hi></w>
   <w>með</w>
   <w>hljómsveitinni</w>
   <w>Black</w>
@@ -725,8 +737,8 @@
   <w>Fyrsta</w>
   <w>plata</w>
   <w>þeirra</w>
-  <w><i>Vincebus</i></w>
-  <w><i>Eruptum</i></w>
+  <w><hi>Vincebus</hi></w>
+  <w><hi>Eruptum</hi></w>
   <w>er</w>
   <revision id="40">
     <original><w>talinn</w></original>
@@ -763,8 +775,8 @@
   <w>kom</w>
   <w>út</w>
   <w>platan</w>
-  <w><i>Rated</i></w>
-  <w><i>R</i></w>
+  <w><hi>Rated</hi></w>
+  <w><hi>R</hi></w>
   <w>með</w>
   <w>hljómsveitinni</w>
   <w>Queens</w>
@@ -797,11 +809,11 @@
         <error xtype="missing-commas" idx="43b-1" eid="0"/>
       </errors>
   </revision>
-  <w><i>The</i></w>
-  <w><i>Art</i></w>
-  <w><i>of</i></w>
-  <w><i>Self</i></w>
-  <w><i>Defence</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Art</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>Self</hi></w>
+  <w><hi>Defence</hi></w>
   <revision id="43b">
     <original></original>
     <corrected><c>,</c></corrected>
@@ -854,11 +866,11 @@
   <w>Fyrsta</w>
   <w>plata</w>
   <w>Kyuss</w>
-  <w><i>Blues</i></w>
-  <w><i>for</i></w>
-  <w><i>the</i></w>
-  <w><i>Red</i></w>
-  <w><i>Sun</i></w>
+  <w><hi>Blues</hi></w>
+  <w><hi>for</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>Red</hi></w>
+  <w><hi>Sun</hi></w>
   <w>kom</w>
   <w>hljómsveitinni</w>
   <w>strax</w>
@@ -1024,35 +1036,35 @@
 </s><s n="34">
   <w>Plöturnar</w>
   <w>heita</w>
-  <w><i>Right</i></w>
-  <w><i>in</i></w>
-  <w><i>the</i></w>
-  <w><i>Nuts</i></w>
-  <c><i>:</i></c>
-  <w><i>A</i></w>
-  <w><i>tribute</i></w>
-  <w><i>to</i></w>
-  <w><i>Aerosmith</i></w>
+  <w><hi>Right</hi></w>
+  <w><hi>in</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>Nuts</hi></w>
+  <c><hi>:</hi></c>
+  <w><hi>A</hi></w>
+  <w><hi>tribute</hi></w>
+  <w><hi>to</hi></w>
+  <w><hi>Aerosmith</hi></w>
   <c>(</c>
   <w>2000</w>
   <c>)</c>
   <c>,</c>
-  <w><i>Sucking</i></w>
-  <w><i>the</i></w>
-  <w><i>70's</i></w>
+  <w><hi>Sucking</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>70's</hi></w>
   <c>(</c>
   <w>2002</w>
   <c>)</c>
   <w>og</w>
-  <w><i>Sucking</i></w>
-  <w><i>the</i></w>
-  <w><i>70's</i></w>
-  <w><i>–</i></w>
-  <w><i>back</i></w>
-  <w><i>in</i></w>
-  <w><i>the</i></w>
-  <w><i>saddle</i></w>
-  <w><i>again</i></w>
+  <w><hi>Sucking</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>70's</hi></w>
+  <w><hi>–</hi></w>
+  <w><hi>back</hi></w>
+  <w><hi>in</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>saddle</hi></w>
+  <w><hi>again</hi></w>
   <c>(</c>
   <w>2006</w>
   <c>)</c>
@@ -1064,8 +1076,8 @@
   <w>plata</w>
   <w>Soundgarden</w>
   <c>,</c>
-  <w><i>Ultramega</i></w>
-  <w><i>OK</i></w>
+  <w><hi>Ultramega</hi></w>
+  <w><hi>OK</hi></w>
   <w>sem</w>
   <w>kom</w>
   <w>út</w>
@@ -1609,10 +1621,10 @@
   <c>.</c>
 </s><s n="52">
   <w><i/></w>
-  <w><i>A</i></w>
-  <w><i>Music</i></w>
-  <w><i>For</i></w>
-  <w><i>Stoners</i></w>
+  <w><hi>A</hi></w>
+  <w><hi>Music</hi></w>
+  <w><hi>For</hi></w>
+  <w><hi>Stoners</hi></w>
   <c>,</c>
   <w>safnplata</w>
   <w>frá</w>
@@ -1699,7 +1711,7 @@
   <w>plötuna</w>
   <revision id="86">
     <original><w>Welcome</w><w>to</w><w>MeteorCity</w></original>
-    <corrected><w><i>Welcome</i></w><w><i>to</i></w><w><i>MeteorCity</i></w></corrected>
+    <corrected><w><hi>Welcome</hi></w><w><hi>to</hi></w><w><hi>MeteorCity</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -1707,7 +1719,7 @@
   <c>:</c>
   <revision id="87">
     <original><w>Desert</w><w>Rock</w></original>
-    <corrected><w><i>Desert</i></w><w><i>Rock</i></w></corrected>
+    <corrected><w><hi>Desert</hi></w><w><hi>Rock</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -1715,7 +1727,7 @@
   <c>,</c>
   <revision id="88">
     <original><w>Sludge</w><w>and</w><w>Cosmic</w><w>Doom</w></original>
-    <corrected><w><i>Sludge</i></w><w><i>and</i></w><w><i>Cosmic</i></w><w><i>Doom</i></w></corrected>
+    <corrected><w><hi>Sludge</hi></w><w><hi>and</hi></w><w><hi>Cosmic</hi></w><w><hi>Doom</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -1901,10 +1913,10 @@
   <w>Næsta</w>
   <w>plata</w>
   <w>þeirra</w>
-  <w><i>Songs</i></w>
-  <w><i>for</i></w>
-  <w><i>the</i></w>
-  <w><i>Deaf</i></w>
+  <w><hi>Songs</hi></w>
+  <w><hi>for</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>Deaf</hi></w>
   <w>er</w>
   <w>talin</w>
   <w>sjöunda</w>

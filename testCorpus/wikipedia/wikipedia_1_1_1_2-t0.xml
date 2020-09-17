@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_2-t0.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Þetta</w>
@@ -34,7 +46,7 @@
   <w>svo</w>
   <revision id="1">
     <original><w>Síðasti</w><w>bærinn</w><w>í</w><w>dalnum</w></original>
-    <corrected><w><i>Síðasti</i></w><w><i>bærinn</i></w><w><i>í</i></w><w><i>dalnum</i></w></corrected>
+    <corrected><w><hi>Síðasti</hi></w><w><hi>bærinn</hi></w><w><hi>í</hi></w><w><hi>dalnum</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -287,7 +299,7 @@
   <w>í</w>
   <revision id="15">
     <original><w>Gísla</w><w>sögu</w><w>Súrssonar</w></original>
-    <corrected><w><i>Gísla</i></w><w><i>sögu</i></w><w><i>Súrssonar</i></w></corrected>
+    <corrected><w><hi>Gísla</hi></w><w><hi>sögu</hi></w><w><hi>Súrssonar</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -299,7 +311,7 @@
   <w>eða</w>
   <revision id="16">
     <original><c>„</c><w>Gisli</w><w>the</w><w>Outlaw</w><c>“</c></original>
-    <corrected><w><i>Gisli</i></w><w><i>the</i></w><w><i>Outlaw</i></w></corrected>
+    <corrected><w><hi>Gisli</hi></w><w><hi>the</hi></w><w><hi>Outlaw</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="80-1" eid="0"/>
         <error xtype="extra-quots" idx="80-1" eid="0"/>
@@ -463,7 +475,7 @@
   <w>myndin</w>
   <revision id="24">
     <original><w>Nýtt</w><w>hlutverk</w></original>
-    <corrected><w><i>Nýtt</i></w><w><i>hlutverk</i></w></corrected>
+    <corrected><w><hi>Nýtt</hi></w><w><hi>hlutverk</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -551,7 +563,7 @@
   <w>kvikmyndinni</w>
   <revision id="28">
     <original><c>„</c><w>Ágirnd</w><c>"</c><c>,</c></original>
-    <corrected><w><i>Ágirnd</i></w></corrected>
+    <corrected><w><hi>Ágirnd</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="109-1" eid="0"/>
         <error xtype="nonit4it" idx="109-1" eid="0"/>
@@ -1047,7 +1059,7 @@
   <w>togari</w>
   <revision id="46">
     <original><w>Sargon</w></original>
-    <corrected><c>,</c><w><i>Sargon</i></w><c>,</c></corrected>
+    <corrected><c>,</c><w><hi>Sargon</hi></w><c>,</c></corrected>
       <errors>
         <error xtype="missing-commas" eid="0"/>
         <error xtype="nonit4it" eid="0"/>
@@ -1202,7 +1214,7 @@
 </s><s n="40">
   <revision id="52">
     <original><w>Síðasti</w><w>bærinn</w><w>í</w><w>dalnum</w></original>
-    <corrected><w>Kvikmyndin</w><w><i>Síðasti</i></w><w><i>bærinn</i></w><w><i>í</i></w><w><i>dalnum</i></w><w>var</w><w>tekin</w><w>upp</w><w>1950</w><c>.</c></corrected>
+    <corrected><w>Kvikmyndin</w><w><hi>Síðasti</hi></w><w><hi>bærinn</hi></w><w><hi>í</hi></w><w><hi>dalnum</hi></w><w>var</w><w>tekin</w><w>upp</w><w>1950</w><c>.</c></corrected>
       <errors>
         <error xtype="missing-words" eid="0"/>
         <error xtype="nonit4it" eid="0"/>
@@ -1215,7 +1227,7 @@
   <w>nefna</w>
   <revision id="53">
     <original><w>45</w><c>-</c><w>2004</w><w>Helena</w></original>
-    <corrected><w>plöturnar</w><c>:</c><w><i>Segðu</i></w><w><i>nei</i></w><c>!</c><w>með</w><w>Helenu</w></corrected>
+    <corrected><w>plöturnar</w><c>:</c><w><hi>Segðu</hi></w><w><hi>nei</hi></w><c>!</c><w>með</w><w>Helenu</w></corrected>
       <errors>
         <error xtype="extra-number" eid="0"/>
         <error xtype="extra-dash" eid="0"/>
@@ -1237,7 +1249,7 @@
   <c>,</c>
   <revision id="55">
     <original><w>45</w><c>-</c><w>2006</w><w>Óðinn</w><w>Valdimarsson–Í</w><w>kjallaranum</w></original>
-    <corrected><w><i>Í</i></w><w><i>kjallaranum</i></w><c>,</c><w>með</w><w>Óðni</w><w>Valdimarssyni</w></corrected>
+    <corrected><w><hi>Í</hi></w><w><hi>kjallaranum</hi></w><c>,</c><w>með</w><w>Óðni</w><w>Valdimarssyni</w></corrected>
       <errors>
         <error xtype="extra-number" eid="0"/>
         <error xtype="extra-dash" eid="0"/>
@@ -1249,7 +1261,7 @@
   <c>,</c>
   <revision id="56">
     <original><w>45</w><c>-</c><w>2013</w><w>Soffía</w></original>
-    <corrected><w><i>Óli</i></w><w><i>prakkari</i></w><c>,</c><w>með</w><w>Soffíu</w></corrected>
+    <corrected><w><hi>Óli</hi></w><w><hi>prakkari</hi></w><c>,</c><w>með</w><w>Soffíu</w></corrected>
       <errors>
         <error xtype="extra-number" eid="0"/>
         <error xtype="extra-dash" eid="0"/>
@@ -1269,7 +1281,7 @@
   <c>,</c>
   <revision id="58">
     <original><w>EXP-IM</w><w>35</w><w>Sjómannavalsar</w><c>,</c><w>EXP-IM</w><w>58</w><w>Helena</w><w>Eyjólfs-Jólasálmur</w></original>
-    <corrected><w><i>Sjómannavalsar</i></w><w><i>og</i></w><w><i>Jólasálmar</i></w><c>:</c><w>með</w><w>Helenu</w><w>Eyjólfs</w></corrected>
+    <corrected><w><hi>Sjómannavalsar</hi></w><w><hi>og</hi></w><w><hi>Jólasálmar</hi></w><c>:</c><w>með</w><w>Helenu</w><w>Eyjólfs</w></corrected>
       <errors>
         <error xtype="extra-word" eid="0"/>
         <error xtype="extra-number" eid="0"/>
@@ -1282,7 +1294,7 @@
   <c>,</c>
   <revision id="59">
     <original><w>EXP-IM</w><w>_</w><w>59</w><w>Ingibjörg</w><w>Þorbergs–Syngur</w><w>fyrir</w><w>börnin</w></original>
-    <corrected><w><i>Ingibjörg</i></w><w><i>Þorbergs</i></w><w><i>syngur</i></w><w><i>fyrir</i></w><w>Zbörnin</w></corrected>
+    <corrected><w><hi>Ingibjörg</hi></w><w><hi>Þorbergs</hi></w><w><hi>syngur</hi></w><w><hi>fyrir</hi></w><w>Zbörnin</w></corrected>
       <errors>
         <error xtype="extra-word" eid="0"/>
         <error xtype="extra-symbol" eid="0"/>
@@ -1294,7 +1306,7 @@
   <w>og</w>
   <revision id="60">
     <original><w>EXP-IM</w><w>69</w><w>Óðinn</w><w>Valdimarsson-Einsi</w><w>kaldi</w><w>úr</w><w>Eyjunum</w><c>(</c><w>sjá</w><w>myndir</w><c>)</c></original>
-    <corrected><w><i>Einsi</i></w><w><i>kaldi</i></w><w><i>úr</i></w><w><i>Eyjunum</i></w><c>,</c><w>með</w><w>Óðni</w><w>Valdimarssyni</w></corrected>
+    <corrected><w><hi>Einsi</hi></w><w><hi>kaldi</hi></w><w><hi>úr</hi></w><w><hi>Eyjunum</hi></w><c>,</c><w>með</w><w>Óðni</w><w>Valdimarssyni</w></corrected>
       <errors>
         <error xtype="extra-word" eid="0"/>
         <error xtype="extra-number" eid="0"/>
@@ -1328,7 +1340,7 @@
   <c>,</c>
   <revision id="61">
     <original><w>Art</w><w>Instruction</w><w>Inc.</w></original>
-    <corrected><w><i>Art</i></w><w><i>Instruction</i></w><w><i>Inc.</i></w></corrected>
+    <corrected><w><hi>Art</hi></w><w><hi>Instruction</hi></w><w><hi>Inc.</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -1536,7 +1548,7 @@
   <w>að</w>
   <revision id="74">
     <original><c>„</c><w>Síðasti</w><w>bærinn</w><w>í</w><w>dalnum</w></original>
-    <corrected><w>kvikmyndinni</w><w><i>Síðasti</i></w><w><i>bærinn</i></w><w><i>í</i></w><w><i>dalnum</i></w></corrected>
+    <corrected><w>kvikmyndinni</w><w><hi>Síðasti</hi></w><w><hi>bærinn</hi></w><w><hi>í</hi></w><w><hi>dalnum</hi></w></corrected>
       <errors>
         <error xtype="missing-word" eid="0"/>
         <error xtype="extra-quots" idx="99-1" eid="0"/>
@@ -1649,7 +1661,7 @@
   <w>myndarinnar</w>
   <revision id="80">
     <original><c>„</c><w>Síðasti</w><w>bærinn</w><w>í</w><w>dalnum</w><c>“</c></original>
-    <corrected><w><i>Síðasti</i></w><w><i>bærinn</i></w><w><i>í</i></w><w><i>dalnum</i></w></corrected>
+    <corrected><w><hi>Síðasti</hi></w><w><hi>bærinn</hi></w><w><hi>í</hi></w><w><hi>dalnum</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="114-1" eid="0"/>
         <error xtype="nonit4it" idx="114-1" eid="0"/>
@@ -1668,7 +1680,7 @@
   <w>grínmyndarinnar</w>
   <revision id="81">
     <original><w>Reykjavíkurævintýri</w><w>Bakka</w><w>bræðra</w></original>
-    <corrected><w><i>Reykjavíkurævintýri</i></w><w><i>Bakkabræðra</i></w></corrected>
+    <corrected><w><hi>Reykjavíkurævintýri</hi></w><w><hi>Bakkabræðra</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
         <error xtype="compound-split" idx="115-1" eid="0"/>
@@ -1765,7 +1777,7 @@
   <w>á</w>
   <revision id="83">
     <original><w>Síðasta</w><w>bænum</w><w>í</w><w>dalnum</w></original>
-    <corrected><w><i>Síðasta</i></w><w><i>bænum</i></w><w><i>í</i></w><w><i>dalnum</i></w></corrected>
+    <corrected><w><hi>Síðasta</hi></w><w><hi>bænum</hi></w><w><hi>í</hi></w><w><hi>dalnum</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -1957,7 +1969,7 @@
   <c>(</c>
   <revision id="91">
     <original><w>Dolly</w></original>
-    <corrected><w>e.</w><w><i>dolly</i></w></corrected>
+    <corrected><w>e.</w><w><hi>dolly</hi></w></corrected>
       <errors>
         <error xtype="missing-word" eid="0"/>
         <error xtype="upper4lower-common" idx="113-1" eid="0"/>
@@ -2535,7 +2547,7 @@
   <w>glæpamyndin</w>
   <revision id="101">
     <original><w>Ágirnd</w></original>
-    <corrected><w><i>Ágirnd</i></w></corrected>
+    <corrected><w><hi>Ágirnd</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

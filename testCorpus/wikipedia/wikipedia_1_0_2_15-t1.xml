@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_15-t1.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Fullorðin</w>
@@ -272,8 +284,8 @@
   <c>(</c>
   <w>fræðiheiti</w>
   <c>:</c>
-  <w><i>Nematus</i></w>
-  <w><i>ribesii</i></w>
+  <w><hi>Nematus</hi></w>
+  <w><hi>ribesii</hi></w>
   <c>)</c>
   <revision id="5">
     <original/>
@@ -316,7 +328,7 @@
   <w>á</w>
   <w>rifstegundir</w>
   <c>(</c>
-  <w><i>Ribes</i></w>
+  <w><hi>Ribes</hi></w>
   <c>)</c>
   <w>og</w>
   <w>veldur</w>
@@ -519,8 +531,8 @@
       </errors>
   </revision>
   <c>(</c>
-  <w><i>R.</i></w>
-  <w><i>uva-crispa</i></w>
+  <w><hi>R.</hi></w>
+  <w><hi>uva-crispa</hi></w>
   <c>)</c>
   <w>en</w>
   <w>einnig</w>
@@ -533,8 +545,8 @@
       </errors>
   </revision>
   <c>(</c>
-  <w><i>R.</i></w>
-  <w><i>rubrum</i></w>
+  <w><hi>R.</hi></w>
+  <w><hi>rubrum</hi></w>
   <c>)</c>
   <w>og</w>
   <w>fleiri</w>

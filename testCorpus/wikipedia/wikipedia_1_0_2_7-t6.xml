@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_7-t6.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Svalur</w>
@@ -30,7 +42,7 @@
   <w>í</w>
   <w>frumskógum</w>
   <revision id="1">
-    <original><w><i>Palombíu</i></w></original>
+    <original><w><hi>Palombíu</hi></w></original>
     <corrected><w>Palombíu</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -65,7 +77,7 @@
   <c>,</c>
   <w>undraefnið</w>
   <revision id="2">
-    <original><w><i>metómól</i></w></original>
+    <original><w><hi>metómól</hi></w></original>
     <corrected><c>‚</c><w>metómól</w><c>‘</c></corrected>
       <errors>
         <error xtype="it4nonit" idx="4-1" eid="0"/>
@@ -146,9 +158,9 @@
   <w>við</w>
   <w>sögu</w>
   <w>í</w>
-  <w><i>Baráttunni</i></w>
-  <w><i>um</i></w>
-  <w><i>arfinn</i></w>
+  <w><hi>Baráttunni</hi></w>
+  <w><hi>um</hi></w>
+  <w><hi>arfinn</hi></w>
   <c>.</c>
 </s><s n="9">
   <w>Hún</w>
@@ -191,7 +203,7 @@
 </s><s n="11">
   <revision id="4">
     <original><w>Burt</w><w>með</w><w>harðstjórann</w></original>
-    <corrected><w><i>Burt</i></w><w><i>með</i></w><w><i>harðstjórann</i></w><c><i>!</i></c></corrected>
+    <corrected><w><hi>Burt</hi></w><w><hi>með</hi></w><w><hi>harðstjórann</hi></w><c><hi>!</hi></c></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -199,11 +211,11 @@
   <c>(</c>
   <w>franska</w>
   <c>:</c>
-  <w><i>Le</i></w>
-  <w><i>dictateur</i></w>
-  <w><i>et</i></w>
-  <w><i>le</i></w>
-  <w><i>champignon</i></w>
+  <w><hi>Le</hi></w>
+  <w><hi>dictateur</hi></w>
+  <w><hi>et</hi></w>
+  <w><hi>le</hi></w>
+  <w><hi>champignon</hi></w>
   <c>)</c>
   <w>er</w>
   <w>sjöunda</w>
@@ -238,7 +250,7 @@
 </s><s n="13">
   <revision id="5">
     <original><w>Burt</w><w>með</w><w>harðstjórann</w></original>
-    <corrected><w><i>Burt</i></w><w><i>með</i></w><w><i>harðstjórann</i></w><c><i>!</i></c></corrected>
+    <corrected><w><hi>Burt</hi></w><w><hi>með</hi></w><w><hi>harðstjórann</hi></w><c><hi>!</hi></c></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -346,7 +358,7 @@
   <w>usla</w>
   <w>í</w>
   <revision id="7">
-    <original><w><i>Sveppaborg</i></w></original>
+    <original><w><hi>Sveppaborg</hi></w></original>
     <corrected><w>Sveppaborg</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>

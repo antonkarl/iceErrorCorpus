@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_275-t12.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Jemen</w>
@@ -59,8 +71,8 @@
   <w>Rómverjar</w>
   <w>kölluðu</w>
   <w>landið</w>
-  <w><i>Arabia</i></w>
-  <w><i>felix</i></w>
+  <w><hi>Arabia</hi></w>
+  <w><hi>felix</hi></w>
   <c>(</c>
   <c>„</c>
   <w>hin</w>
@@ -92,7 +104,7 @@
   <w>hafnarborgin</w>
   <w>al-Moka</w>
   <c>(</c>
-  <w><i>Mokka</i></w>
+  <w><hi>Mokka</hi></w>
   <c>)</c>
   <w>við</w>
   <w>Rauðahaf</w>

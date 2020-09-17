@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_6-t6.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Teikningarnar</w>
@@ -183,11 +195,11 @@
   <w>logann</w>
   <w>stendur</w>
   <c>:</c>
-  <w><i>Megi</i></w>
-  <w><i>allar</i></w>
-  <w><i>skepnur</i></w>
-  <w><i>finna</i></w>
-  <w><i>frið.</i></w>
+  <w><hi>Megi</hi></w>
+  <w><hi>allar</hi></w>
+  <w><hi>skepnur</hi></w>
+  <w><hi>finna</hi></w>
+  <w><hi>frið.</hi></w>
   <w>Þar</w>
   <w>er</w>
   <w>einnig</w>

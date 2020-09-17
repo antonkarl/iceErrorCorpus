@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_8-t0.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Syrpa</w>
@@ -162,9 +174,9 @@
   <w>skrifaði</w>
   <w>meðal</w>
   <w>annars</w>
-  <w><i>Gottskálksannál</i></w>
+  <w><hi>Gottskálksannál</hi></w>
   <w>og</w>
-  <w><i>Sópdyngju</i></w>
+  <w><hi>Sópdyngju</hi></w>
   <revision id="6">
     <original><w>eða</w></original>
     <corrected><c>(</c></corrected>
@@ -173,10 +185,10 @@
         <error xtype="missing-bracket" idx="1-2" eid="0"/>
       </errors>
   </revision>
-  <w><i>Syrpu</i></w>
-  <w><i>Gottskálks</i></w>
-  <w><i>í</i></w>
-  <w><i>glaumbæ</i></w>
+  <w><hi>Syrpu</hi></w>
+  <w><hi>Gottskálks</hi></w>
+  <w><hi>í</hi></w>
+  <w><hi>glaumbæ</hi></w>
   <revision id="7">
     <original><c>,</c></original>
     <corrected><c>)</c></corrected>
@@ -309,7 +321,7 @@
   <w>kallast</w>
   <revision id="12">
     <original><w>regina</w></original>
-    <corrected><w><i>regina</i></w></corrected>
+    <corrected><w><hi>regina</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

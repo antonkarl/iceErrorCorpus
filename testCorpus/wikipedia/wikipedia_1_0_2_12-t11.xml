@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_12-t11.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Höfundurinn</w>
@@ -52,7 +64,7 @@
   <c>.</c>
 </s><s n="3">
   <revision id="2">
-    <original><w><i>Æskuminning</i></w></original>
+    <original><w><hi>Æskuminning</hi></w></original>
     <corrected><c>„</c><w>Æskuminning</w><c>“</c></corrected>
       <errors>
         <error xtype="missing-quots" idx="7-1" eid="0"/>
@@ -79,7 +91,7 @@
 </s><s n="5">
   <w>Lagið</w>
   <revision id="3">
-    <original><w><i>Æskuminning</i></w></original>
+    <original><w><hi>Æskuminning</hi></w></original>
     <corrected><c>„</c><w>Æskuminning</w><c>“</c></corrected>
       <errors>
         <error xtype="extra-quots" idx="1-1" eid="0"/>
@@ -104,7 +116,7 @@
   </revision>
   <w>en</w>
   <revision id="5">
-    <original><w><i>Manstu</i></w><w><i>gamla</i></w><w><i>daga</i></w></original>
+    <original><w><hi>Manstu</hi></w><w><hi>gamla</hi></w><w><hi>daga</hi></w></original>
     <corrected><c>„</c><w>Manstu</w><w>gamla</w><w>daga</w><c>“</c></corrected>
       <errors>
         <error xtype="missing-quots" idx="3-1" eid="0"/>
@@ -130,7 +142,7 @@
   <w>við</w>
   <w>vinsældir</w>
   <revision id="6">
-    <original><w><i>Æskuminningar</i></w></original>
+    <original><w><hi>Æskuminningar</hi></w></original>
     <corrected><c>„</c><w>Æskuminningar</w><c>“</c></corrected>
       <errors>
         <error xtype="missing-quots" idx="12-1" eid="0"/>
@@ -228,7 +240,7 @@
   <c>,</c>
   <w>lögin</w>
   <revision id="8">
-    <original><w><i>Hittumst</i></w><w><i>heil</i></w></original>
+    <original><w><hi>Hittumst</hi></w><w><hi>heil</hi></w></original>
     <corrected><c>„</c><w>Hittumst</w><w>heil</w><c>“</c></corrected>
       <errors>
         <error xtype="missing-quots" idx="8-1" eid="0"/>
@@ -238,7 +250,7 @@
   </revision>
   <w>og</w>
   <revision id="9">
-    <original><w><i>Ég</i></w><w><i>mætti</i></w><w><i>þér</i></w></original>
+    <original><w><hi>Ég</hi></w><w><hi>mætti</hi></w><w><hi>þér</hi></w></original>
     <corrected><c>„</c><w>Ég</w><w>mætti</w><w>þér</w><c>“</c></corrected>
       <errors>
         <error xtype="missing-quots" idx="9-1" eid="0"/>
@@ -251,7 +263,7 @@
   <w>söng</w>
   <c>,</c>
   <revision id="10">
-    <original><w><i>Harpan</i></w><w><i>ómar</i></w></original>
+    <original><w><hi>Harpan</hi></w><w><hi>ómar</hi></w></original>
     <corrected><c>„</c><w>Harpan</w><w>ómar</w><c>“</c></corrected>
       <errors>
         <error xtype="missing-quots" idx="10-1" eid="0"/>
@@ -268,7 +280,7 @@
   <w>saman</w>
   <w>og</w>
   <revision id="11">
-    <original><w><i>Þórður</i></w><w><i>sjóari</i></w></original>
+    <original><w><hi>Þórður</hi></w><w><hi>sjóari</hi></w></original>
     <corrected><c>„</c><w>Þórður</w><w>sjóari</w><c>“</c></corrected>
       <errors>
         <error xtype="missing-quots" idx="11-1" eid="0"/>
@@ -283,7 +295,7 @@
 </s><s n="10">
   <w>Lagið</w>
   <revision id="12">
-    <original><w><i>Æskuminning</i></w></original>
+    <original><w><hi>Æskuminning</hi></w></original>
     <corrected><c>„</c><w>Æskuminning</w><c>“</c></corrected>
       <errors>
         <error xtype="missing-quots" idx="5-1" eid="0"/>
@@ -335,9 +347,9 @@
   <w>Steinum</w>
   <w>1996</w>
   <w>var</w>
-  <w><i>Manstu</i></w>
-  <w><i>gamla</i></w>
-  <w><i>daga</i></w>
+  <w><hi>Manstu</hi></w>
+  <w><hi>gamla</hi></w>
+  <w><hi>daga</hi></w>
   <w>og</w>
   <w>vönduð</w>
   <w>sjónvarpsþáttaröð</w>

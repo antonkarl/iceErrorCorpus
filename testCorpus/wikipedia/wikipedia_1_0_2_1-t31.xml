@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_1-t31.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Linda</w>
@@ -27,19 +39,19 @@
   <w>Billy</w>
   <w>Kwan</w>
   <w>í</w>
-  <w><i>The</i></w>
-  <w><i>Year</i></w>
-  <w><i>of</i></w>
-  <w><i>Living</i></w>
-  <w><i>Dangerously</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Year</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>Living</hi></w>
+  <w><hi>Dangerously</hi></w>
   <w>og</w>
   <w>Hetty</w>
   <w>Lange</w>
   <w>í</w>
-  <w><i>NCIS</i></w>
+  <w><hi>NCIS</hi></w>
   <c>:</c>
-  <w><i>Los</i></w>
-  <w><i>Angeles</i></w>
+  <w><hi>Los</hi></w>
+  <w><hi>Angeles</hi></w>
   <c>.</c>
 </s>
 <s n="2">
@@ -154,21 +166,21 @@
   <w>hlutverk</w>
   <w>sitt</w>
   <w>í</w>
-  <w><i>End</i></w>
-  <w><i>of</i></w>
-  <w><i>the</i></w>
-  <w><i>World</i></w>
+  <w><hi>End</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>World</hi></w>
   <w>og</w>
   <w>til</w>
   <w>Obie-verðlaunanna</w>
   <w>fyrir</w>
-  <w><i>Top</i></w>
-  <w><i>Girls</i></w>
+  <w><hi>Top</hi></w>
+  <w><hi>Girls</hi></w>
   <w>og</w>
-  <w><i>A</i></w>
-  <w><i>Metamorphsis</i></w>
-  <w><i>in</i></w>
-  <w><i>Miniature</i></w>
+  <w><hi>A</hi></w>
+  <w><hi>Metamorphsis</hi></w>
+  <w><hi>in</hi></w>
+  <w><hi>Miniature</hi></w>
   <c>.</c>
 </s>
 <s n="7">
@@ -182,7 +194,7 @@
   <w>í</w>
   <revision id="3">
     <original><w>Popeye</w></original>
-    <corrected><w><i>Popeye</i></w></corrected>
+    <corrected><w><hi>Popeye</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -199,11 +211,11 @@
   <w>Billy</w>
   <w>Kwan</w>
   <w>í</w>
-  <w><i>The</i></w>
-  <w><i>Year</i></w>
-  <w><i>of</i></w>
-  <w><i>Living</i></w>
-  <w><i>Dangerously</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Year</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>Living</hi></w>
+  <w><hi>Dangerously</hi></w>
   <c>,</c>
   <w>sem</w>
   <w>hún</w>
@@ -236,19 +248,19 @@
   <w>á</w>
   <w>borð</w>
   <w>við</w>
-  <w><i>Dune</i></w>
+  <w><hi>Dune</hi></w>
   <c>,</c>
-  <w><i>Kindergarten</i></w>
-  <w><i>Cop</i></w>
+  <w><hi>Kindergarten</hi></w>
+  <w><hi>Cop</hi></w>
   <c>,</c>
-  <w><i>Maverick</i></w>
+  <w><hi>Maverick</hi></w>
   <c>,</c>
-  <w><i>Dragonfly</i></w>
+  <w><hi>Dragonfly</hi></w>
   <w>og</w>
-  <w><i>Once</i></w>
-  <w><i>Upon</i></w>
-  <w><i>a</i></w>
-  <w><i>Tide</i></w>
+  <w><hi>Once</hi></w>
+  <w><hi>Upon</hi></w>
+  <w><hi>a</hi></w>
+  <w><hi>Tide</hi></w>
   <c>.</c>
 </s>
 <s n="10">
@@ -260,8 +272,8 @@
   <w>var</w>
   <w>árið 1976</w>
   <w>í</w>
-  <w><i>Great</i></w>
-  <w><i>Performances</i></w>
+  <w><hi>Great</hi></w>
+  <w><hi>Performances</hi></w>
   <w>og</w>
   <w>síðan</w>
   <w>þá</w>
@@ -280,17 +292,17 @@
         <error xtype="extra-colon" eid="0" />
       </errors>
   </revision>
-  <w><i>Nightmare</i></w>
-  <w><i>Classics</i></w>
+  <w><hi>Nightmare</hi></w>
+  <w><hi>Classics</hi></w>
   <c>,</c>
-  <w><i>Carnivàle</i></w>
+  <w><hi>Carnivàle</hi></w>
   <c>,</c>
-  <w><i>Without</i></w>
-  <w><i>a</i></w>
-  <w><i>Trace</i></w>
+  <w><hi>Without</hi></w>
+  <w><hi>a</hi></w>
+  <w><hi>Trace</hi></w>
   <w>og</w>
-  <w><i>The</i></w>
-  <w><i>Unit</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Unit</hi></w>
   <c>.</c>
 </s>
 <s n="11">
@@ -301,8 +313,8 @@
   <w>boðið</w>
   <w>gestahlutverk</w>
   <w>í</w>
-  <w><i>The</i></w>
-  <w><i>Practice</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Practice</hi></w>
   <w>sem</w>
   <w>dómarinn</w>
   <w>Zoey</w>
@@ -324,10 +336,10 @@
   <w>af</w>
   <w>aðalhlutverkunum</w>
   <w>í</w>
-  <w><i>NCIS</i></w>
+  <w><hi>NCIS</hi></w>
   <c>:</c>
-  <w><i>Los</i></w>
-  <w><i>Angeles</i></w>
+  <w><hi>Los</hi></w>
+  <w><hi>Angeles</hi></w>
   <w>sem</w>
   <w>yfirmaður</w>
   <w>Los</w>

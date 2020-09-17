@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Spænski</w>
+  <w>forsætisráðherrann</w>
+  <w>Jose</w>
+  <w>Luis</w>
+  <w>Rodriguez</w>
+  <w>Zapatero</w>
+  <w>þakkaði</w>
+  <revision id="1">
+    <original><w>flokksmönnum</w><w>sínum</w></original>
+    <corrected><w>flokkfsfólki</w><w>sínu</w></corrected>
+      <errors>
+        <error xtype="gendered" eid="0" />
+      </errors>
+  </revision>
+  <w>fyrir</w>
+  <w>að</w>
+  <w>endurkjósa</w>
+  <w>hann</w>
+  <w>sem</w>
+  <w>leiðtoga</w>
+  <w>Sósíalistaflokksins</w>
+  <w>til</w>
+  <w>næstu</w>
+  <w>fjögurra</w>
+  <w>ára</w>
+  <w>á</w>
+  <w>ársþingi</w>
+  <w>flokksins</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Í</w>
+  <w>ræðu</w>
+  <w>sinni</w>
+  <w>lagði</w>
+  <w>hann</w>
+  <w>áherslu</w>
+  <w>á</w>
+  <w>frið</w>
+  <c>,</c>
+  <w>umburðarlyndi</w>
+  <c>,</c>
+  <w>jafnrétti</w>
+  <w>kynjanna</w>
+  <w>og</w>
+  <w>umhverfismál</w>
+  <c>.</c>
+  <revision id="1b">
+    <original><c>"</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wrong-quots" idx="1b-1" eid="0" />
+        <error xtype="misplaced-quots" idx="1b-1" eid="0" />
+      </errors>
+  </revision>
+</s>
+<s n="3">
+  <revision id="1c">
+    <original></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="dep" depId="1b-1" eid="0" />
+      </errors>
+  </revision>
+  <w>Það</w>
+  <w>er</w>
+  <w>engin</w>
+  <w>sjálfbær</w>
+  <w>þróun</w>
+  <w>ef</w>
+  <w>við</w>
+  <w>virðum</w>
+  <w>ekki</w>
+  <w>umhverfið</w>
+  <w>okkar</w>
+  <c>,</c>
+  <revision id="1d">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" idx="1d-1" eid="0" />
+      </errors>
+  </revision>
+  <w>sagði</w>
+  <w>hann</w>
+  <w>í</w>
+  <w>stuttri</w>
+  <w>lokaræðu</w>
+  <w>þingsins</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Þingið</w>
+  <w>kaus</w>
+  <w>jafnframt</w>
+  <w>15</w>
+  <w>menn</w>
+  <w>og</w>
+  <w>15</w>
+  <w>konur</w>
+  <w>í</w>
+  <w>framkvæmdastjórn</w>
+  <w>flokksins</w>
+  <w>nú</w>
+  <w>um</w>
+  <w>helgina</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

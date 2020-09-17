@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Ekki</w>
+  <w>er</w>
+  <revision id="1">
+    <original><w>sjaldgjæft</w></original>
+    <corrected><w>sjaldgæft</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="1-1" eid="0" />
+        <error xtype="nonword" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>sjá</w>
+  <revision id="2">
+    <original><w>Hollywoodstjörnur</w></original>
+    <corrected><w>Hollywood-stjörnur</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>mæta</w>
+  <w>á</w>
+  <w>tískusýningar</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Sjaldan</w>
+  <w>hefur</w>
+  <w>þó</w>
+  <w>viðvera</w>
+  <w>stórstjarnanna</w>
+  <w>Kim</w>
+  <w>Kardashian</w>
+  <w>og</w>
+  <w>kærasta</w>
+  <w>hennar</w>
+  <revision id="3">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>Kanye</w>
+  <w>West</w>
+  <c>,</c>
+  <w>verið</w>
+  <w>jafn</w>
+  <w>mikill</w>
+  <w>senuþjófur</w>
+  <w>og</w>
+  <w>þegar</w>
+  <w>þau</w>
+  <w>mættu</w>
+  <w>á</w>
+  <w>tískusýningu</w>
+  <w>Stephane</w>
+  <w>Rolland</w>
+  <w>í</w>
+  <w>París</w>
+  <w>á</w>
+  <w>dögunum</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Við</w>
+  <w>hliðina</w>
+  <w>á</w>
+  <w>þeim</w>
+  <w>sat</w>
+  <w>stjörnuparið</w>
+  <revision id="4">
+    <original><w>Beoncey</w></original>
+    <corrected><w>Beyoncé</w></corrected>
+      <errors>
+        <error xtype="name-error" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>Jay-Z</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Það</w>
+  <w>var</w>
+  <w>þó</w>
+  <w>heldur</w>
+  <w>kuldalegt</w>
+  <revision id="5">
+    <original><w>á</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
+  <w>milli</w>
+  <w>Kim</w>
+  <w>og</w>
+  <revision id="6">
+    <original><w>Beoncey</w></original>
+    <corrected><w>Beyoncé</w></corrected>
+      <errors>
+        <error xtype="name-error" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>þær</w>
+  <w>yrtu</w>
+  <w>ekki</w>
+  <w>á</w>
+  <w>hvor</w>
+  <w>aðra</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <revision id="7">
+    <original><w>Sögusagnir</w></original>
+    <corrected><w>Þær</w><w>sögusagnir</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>hafa</w>
+  <w>lengi</w>
+  <w>verið</w>
+  <revision id="8">
+    <original><w>uppi</w></original>
+    <corrected><w>á</w><w>kreiki</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>söngkonunni</w>
+  <w>sé</w>
+  <w>illa</w>
+  <w>við</w>
+  <w>Kim</w>
+  <revision id="9">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>haft</w>
+  <w>var</w>
+  <w>eftir</w>
+  <w>henni</w>
+  <w>í</w>
+  <w>In</w>
+  <revision id="10">
+    <original><w>Touch</w><w>tímaritinu</w><w>og</w></original>
+    <corrected><w>Touch-tímaritinu</w><w>að</w></corrected>
+      <errors>
+        <error xtype="missing-dash" idx="10-1" eid="0" />
+        <error xtype="missing-conjunction" idx="10-2" eid="0" />
+      </errors>
+  </revision>
+  <w>henni</w>
+  <w>þætti</w>
+  <w>Kim</w>
+  <c>„</c>
+  <w>í</w>
+  <w>meira</w>
+  <w>lagi</w>
+  <w>hallærisleg</w>
+  <c>.</c>
+  <revision id="11">
+    <original><c>"</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" eid="0" />
+      </errors>
+  </revision>
+</s>
+</p></body></text>
+</TEI>

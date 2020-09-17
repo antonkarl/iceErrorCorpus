@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_75-t18.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Þágufall</w>
@@ -158,7 +170,7 @@
   <w>er</w>
   <w>talað</w>
   <w>um</w>
-  <w><i>tækisþágufall</i></w>
+  <w><hi>tækisþágufall</hi></w>
   <c>.</c>
 </s>
 <s n="9">
@@ -183,14 +195,14 @@
   <w>Latínumenn</w>
   <w>tala</w>
   <w>um</w>
-  <w><i>dativum</i></w>
-  <w><i>commodi</i></w>
+  <w><hi>dativum</hi></w>
+  <w><hi>commodi</hi></w>
   <c>(</c>
   <w>þægindafall</w>
   <c>)</c>
   <w>og</w>
-  <w><i>dativum</i></w>
-  <w><i>incommodi</i></w>
+  <w><hi>dativum</hi></w>
+  <w><hi>incommodi</hi></w>
   <c>(</c>
   <w>óþægindafall</w>
   <c>)</c>

@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_20-t4.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Tveimur</w>
@@ -30,8 +42,8 @@
   <w>Stafrófsmorðin</w>
   <c>(</c>
   <w>e.</w>
-  <w><i>Alphabet</i></w>
-  <w><i>murders</i></w>
+  <w><hi>Alphabet</hi></w>
+  <w><hi>murders</hi></w>
   <c>)</c>
   <w>áttu</w>
   <w>sér</w>

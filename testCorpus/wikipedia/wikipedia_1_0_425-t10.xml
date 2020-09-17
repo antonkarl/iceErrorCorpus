@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_425-t10.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Alan</w>
@@ -313,12 +325,12 @@
   </revision>
   <w>í</w>
   <w>leikritinu</w>
-  <w><i>The</i></w>
-  <w><i>Royal</i></w>
-  <w><i>Hunt</i></w>
-  <w><i>of</i></w>
-  <w><i>the</i></w>
-  <w><i>Sun</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Royal</hi></w>
+  <w><hi>Hunt</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>the</hi></w>
+  <w><hi>Sun</hi></w>
   <w>í</w>
   <w>Grafton</w>
   <w>Theatre</w>
@@ -353,8 +365,8 @@
       </errors>
   </revision>
   <w>dramaþættinum</w>
-  <w><i>Radio</i></w>
-  <w><i>Waves</i></w>
+  <w><hi>Radio</hi></w>
+  <w><hi>Waves</hi></w>
   <revision id="16">
     <original><c>.</c></original>
     <corrected></corrected>
@@ -460,7 +472,7 @@
   <w>sápuóperunni</w>
   <revision id="22">
     <original><w>The</w><w>Young</w><w>Doctors</w></original>
-    <corrected><w><i>The</i></w><w><i>Young</i></w><w><i>Doctors</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Young</hi></w><w><hi>Doctors</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -488,7 +500,7 @@
   <w>kallaðist</w>
   <revision id="23">
     <original><w>Nágrannar</w></original>
-    <corrected><w><i>Nágrannar</i></w></corrected>
+    <corrected><w><hi>Nágrannar</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -541,7 +553,7 @@
   <w>af</w>
   <revision id="27">
     <original><w>Nágrönnum</w></original>
-    <corrected><w><i>Nágrönnum</i></w></corrected>
+    <corrected><w><hi>Nágrönnum</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -562,7 +574,7 @@
   <w>Eftir</w>
   <revision id="28">
     <original><w>Nágranna</w></original>
-    <corrected><w><i>Nágranna</i></w></corrected>
+    <corrected><w><hi>Nágranna</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -625,7 +637,7 @@
   <w>um</w>
   <revision id="33">
     <original><w>Nágranna</w></original>
-    <corrected><w><i>Nágranna</i></w></corrected>
+    <corrected><w><hi>Nágranna</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -697,7 +709,7 @@
   <w>sjónvarpsserían</w>
   <revision id="36">
     <original><w>Sign</w><w>of</w><w>Life</w></original>
-    <corrected><w><i>Sign</i></w><w><i>of</i></w><w><i>Life</i></w></corrected>
+    <corrected><w><hi>Sign</hi></w><w><hi>of</hi></w><w><hi>Life</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -747,7 +759,7 @@
   <w>í</w>
   <revision id="38">
     <original><w>ER</w></original>
-    <corrected><w><i>ER</i></w></corrected>
+    <corrected><w><hi>ER</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -772,7 +784,7 @@
   <w>við</w>
   <revision id="39">
     <original><c>:</c><w>JAG</w></original>
-    <corrected><w><i>JAG</i></w></corrected>
+    <corrected><w><hi>JAG</hi></w></corrected>
       <errors>
         <error xtype="extra-colon" idx="39-1" eid="0" />
         <error xtype="nonit4it" idx="39-2" eid="0" />
@@ -781,7 +793,7 @@
   <c>,</c>
   <revision id="40">
     <original><w>The</w><w>West</w><w>Wing</w></original>
-    <corrected><w><i>The</i></w><w><i>West</i></w><w><i>Wing</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>West</hi></w><w><hi>Wing</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -789,7 +801,7 @@
   <c>,</c>
   <revision id="41">
     <original><w>Torchwood</w></original>
-    <corrected><w><i>Torchwood</i></w></corrected>
+    <corrected><w><hi>Torchwood</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -797,7 +809,7 @@
   <c>,</c>
   <revision id="42">
     <original><w>NCIS</w></original>
-    <corrected><w><i>NCIS</i></w></corrected>
+    <corrected><w><hi>NCIS</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -805,7 +817,7 @@
   <c>,</c>
   <revision id="43">
     <original><w>The</w><w>X-Files</w></original>
-    <corrected><w><i>The</i></w><w><i>X-Files</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>X-Files</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -813,7 +825,7 @@
   <c>,</c>
   <revision id="44">
     <original><w>24</w></original>
-    <corrected><w><i>24</i></w></corrected>
+    <corrected><w><hi>24</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -821,7 +833,7 @@
   <w>og</w>
   <revision id="45">
     <original><w>The</w><w>Practice</w></original>
-    <corrected><w><i>The</i></w><w><i>Practice</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Practice</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -838,7 +850,7 @@
   <w>unglingadramanu</w>
   <revision id="46">
     <original><w>The</w><w>O.C.</w></original>
-    <corrected><w><i>The</i></w><w><i>O.C.</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>O.C.</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -861,7 +873,7 @@
   <w>í</w>
   <revision id="47">
     <original><w>Ugly</w><w>Betty</w></original>
-    <corrected><w><i>Ugly</i></w><w><i>Betty</i></w></corrected>
+    <corrected><w><hi>Ugly</hi></w><w><hi>Betty</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -918,7 +930,7 @@
   <w>vísindaseríunni</w>
   <revision id="51">
     <original><w>Lost</w></original>
-    <corrected><w><i>Lost</i></w></corrected>
+    <corrected><w><hi>Lost</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1003,7 +1015,7 @@
   <w>Python-leikritinu</w>
   <revision id="55">
     <original><w>Spamelot</w></original>
-    <corrected><w><i>Spamelot</i></w></corrected>
+    <corrected><w><hi>Spamelot</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1091,7 +1103,7 @@
   <w>séð</w>
   <revision id="61">
     <original><w>Monty</w><w>Python</w><w>and</w><w>the</w><w>Holy</w><w>Grail</w></original>
-    <corrected><w><i>Monty</i></w><w><i>Python</i></w><w><i>and</i></w><w><i>the</i></w><w><i>Holy</i></w><w><i>Grail</i></w></corrected>
+    <corrected><w><hi>Monty</hi></w><w><hi>Python</hi></w><w><hi>and</hi></w><w><hi>the</hi></w><w><hi>Holy</hi></w><w><hi>Grail</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1099,7 +1111,7 @@
   <w>sem</w>
   <revision id="62">
     <original><w>Spamelot</w></original>
-    <corrected><w><i>Spamelot</i></w></corrected>
+    <corrected><w><hi>Spamelot</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1136,7 +1148,7 @@
   <w>í</w>
   <revision id="64">
     <original><w>The</w><w>Applicant</w></original>
-    <corrected><w><i>The</i></w><w><i>Applicant</i></w></corrected>
+    <corrected><w><hi>The</hi></w><w><hi>Applicant</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1208,7 +1220,7 @@
   <c>:</c>
   <revision id="69">
     <original><w>Hollywood</w><w>Homicide</w></original>
-    <corrected><w><i>Hollywood</i></w><w><i>Homicide</i></w></corrected>
+    <corrected><w><hi>Hollywood</hi></w><w><hi>Homicide</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1216,7 +1228,7 @@
   <c>,</c>
   <revision id="70">
     <original><w>After</w><w>the</w><w>Sunset</w></original>
-    <corrected><w><i>After</i></w><w><i>the</i></w><w><i>Sunset</i></w></corrected>
+    <corrected><w><hi>After</hi></w><w><hi>the</hi></w><w><hi>Sunset</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1224,7 +1236,7 @@
   <c>,</c>
   <revision id="71">
     <original><w>Indiana</w><w>Jones</w><w>and</w><w>the</w><w>Kingdom</w><w>of</w><w>the</w><w>Crystal</w><w>Skull</w></original>
-    <corrected><w><i>Indiana</i></w><w><i>Jones</i></w><w><i>and</i></w><w><i>the</i></w><w><i>Kingdom</i></w><w><i>of</i></w><w><i>the</i></w><w><i>Crystal</i></w><w><i>Skull</i></w></corrected>
+    <corrected><w><hi>Indiana</hi></w><w><hi>Jones</hi></w><w><hi>and</hi></w><w><hi>the</hi></w><w><hi>Kingdom</hi></w><w><hi>of</hi></w><w><hi>the</hi></w><w><hi>Crystal</hi></w><w><hi>Skull</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1232,7 +1244,7 @@
   <c>,</c>
   <revision id="72">
     <original><w>Happy</w><w>New</w><w>Year</w></original>
-    <corrected><w><i>Happy</i></w><w><i>New</i></w><w><i>Year</i></w></corrected>
+    <corrected><w><hi>Happy</hi></w><w><hi>New</hi></w><w><hi>Year</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1240,7 +1252,7 @@
   <w>og</w>
   <revision id="73">
     <original><w>Priest</w></original>
-    <corrected><w><i>Priest</i></w></corrected>
+    <corrected><w><hi>Priest</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -1250,7 +1262,7 @@
 <s n="36">
   <revision id="74">
     <original><w>Academy</w><w>of</w><w>Science</w><w>Fiction</w><c>,</c><w>Fantasy</w><w>&amp;</w><w>Horror</w><w>Films</w><w>Screen</w><w>Actors</w><w>Guild</w><w>Awards</w></original>
-    <corrected><w>Alan</w><w>Dale</w><w>hefur</w><w>hlotið</w><w>verðlaun</w><w>á</w><w>borð</w><w>við</w><w><i>Academy</i></w><w><i>of</i></w><w><i>Science</i></w><w><i>Fiction</i></w><c>,</c><w><i>Fantasy</i></w><w><i>&amp;</i></w><w><i>Horror</i></w><w><i>Films</i></w><w><i>Screen</i></w><w><i>Actors</i></w><w><i>Guild</i></w><w><i>Awards</i></w><c>.</c></corrected>
+    <corrected><w>Alan</w><w>Dale</w><w>hefur</w><w>hlotið</w><w>verðlaun</w><w>á</w><w>borð</w><w>við</w><w><hi>Academy</hi></w><w><hi>of</hi></w><w><hi>Science</hi></w><w><hi>Fiction</hi></w><c>,</c><w><hi>Fantasy</hi></w><w><hi>&amp;</hi></w><w><hi>Horror</hi></w><w><hi>Films</hi></w><w><hi>Screen</hi></w><w><hi>Actors</hi></w><w><hi>Guild</hi></w><w><hi>Awards</hi></w><c>.</c></corrected>
       <errors>
         <error xtype="missing-words" idx="74-1" eid="0" />
         <error xtype="nonit4it" idx="74-2" eid="0" />

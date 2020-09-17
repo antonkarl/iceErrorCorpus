@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_425-t1.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Tékknesk</w>
@@ -25,8 +37,8 @@
         <error xtype="missing-word" idx="2-2" eid="0" />
       </errors>
   </revision>
-  <w><i>koruna</i></w>
-  <w><i>česká</i></w>
+  <w><hi>koruna</hi></w>
+  <w><hi>česká</hi></w>
   <c>,</c>
   <w>ISO</w>
   <w>4217</w>
@@ -71,13 +83,13 @@
   <w>í</w>
   <w>100</w>
   <c>„</c>
-  <w><i>haléřů</i></w>
+  <w><hi>haléřů</hi></w>
   <c>“</c>
   <c>(</c>
   <w>eintala</w>
   <c>:</c>
   <c>„</c>
-  <w><i>haléř</i></w>
+  <w><hi>haléř</hi></w>
   <c>“</c>
   <c>)</c>
   <c>.</c>

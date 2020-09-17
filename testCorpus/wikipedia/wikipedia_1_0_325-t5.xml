@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_325-t5.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Skáneyjar-Lassi</w>
@@ -397,7 +409,7 @@
 </s>
 <s n="13">
   <revision id="4">
-    <original><c>"</c><w><i>Lars</i></w><w><i>Mattheusson</i></w><c>"</c></original>
+    <original><c>"</c><w><hi>Lars</hi></w><w><hi>Mattheusson</hi></w><c>"</c></original>
     <corrected><w>Lars</w><w>Mattheusson</w></corrected>
       <errors>
         <error xtype="extra-quots" idx="4-1" eid="0" />
@@ -409,7 +421,7 @@
   <w>persóna</w>
   <w>í</w>
   <w>leikritinu</w>
-  <w><i>Skollaleik</i></w>
+  <w><hi>Skollaleik</hi></w>
   <w>eftir</w>
   <w>Böðvar</w>
   <w>Guðmundsson</w>

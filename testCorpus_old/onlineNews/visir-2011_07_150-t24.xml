@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Mark</w>
+  <w>Webber</w>
+  <w>hjá</w>
+  <w>Red</w>
+  <w>Bull</w>
+  <w>var</w>
+  <w>fljótastur</w>
+  <w>á</w>
+  <w>fyrstu</w>
+  <w>æfingu</w>
+  <w>Formúlu</w>
+  <w>1</w>
+  <w>liða</w>
+  <w>á</w>
+  <revision id="1">
+    <original><w>Silverstone</w><w>brautinni</w></original>
+    <corrected><w>Silverstone-brautinni</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>Bretlandi</w>
+  <w>í</w>
+  <w>dag</w>
+  <c>,</c>
+  <w>en</w>
+  <w>keppt</w>
+  <w>verður</w>
+  <w>á</w>
+  <w>brautinni</w>
+  <w>á</w>
+  <w>sunnudaginn</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Michael</w>
+  <w>Schumacher</w>
+  <w>á</w>
+  <w>Mercedes</w>
+  <w>var</w>
+  <revision id="1b">
+    <original><w>næst</w><w>fljótastur</w></original>
+    <corrected><w>næstfljótastur</w></corrected>
+      <errors>
+        <error xtype="split-word" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>Rubens</w>
+  <w>Barrichello</w>
+  <w>á</w>
+  <w>Williams</w>
+  <revision id="2">
+    <original></original>
+    <corrected><w>var</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <w>þriðji</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Sergio</w>
+  <w>Perez</w>
+  <w>á</w>
+  <w>Sauber</w>
+  <w>var</w>
+  <w>með</w>
+  <w>fjórða</w>
+  <w>besta</w>
+  <w>tíma</w>
+  <revision id="3">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>en</w>
+  <w>hann</w>
+  <w>er</w>
+  <w>nýliði</w>
+  <w>í</w>
+  <w>Formúlu</w>
+  <w>1</w>
+  <w>á</w>
+  <w>þessu</w>
+  <w>ári</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Bleyta</w>
+  <w>var</w>
+  <w>á</w>
+  <revision id="4">
+    <original><w>Silverstone</w><w>brautinni</w></original>
+    <corrected><w>Silverstone-brautinni</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>Webber</w>
+  <w>náði</w>
+  <w>besta</w>
+  <w>tímanum</w>
+  <w>undir</w>
+  <w>lok</w>
+  <w>æfingarinnar</w>
+  <c>,</c>
+  <w>þegar</w>
+  <w>hlutar</w>
+  <w>brautarinnar</w>
+  <w>höfðu</w>
+  <w>þornað</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Tímarnir</w>
+  <w>í</w>
+  <w>dag</w>
+  <w>1</w>
+  <c>.</c>
+</s>
+<s n="6">
+  <w>Mark</w>
+  <w>Webber</w>
+  <w>Red</w>
+  <w>Bull-Renault</w>
+  <w>1m</w>
+  <w>46.603 s</w>
+  <w>19</w>
+  <w>2</w>
+  <c>.</c>
+</s>
+<s n="7">
+  <w>Michael</w>
+  <w>Schumacher</w>
+  <w>Mercedes</w>
+  <w>1m</w>
+  <w>47.263 s</w>
+  <c>+</c>
+  <w>0.660</w>
+  <w>20</w>
+  <w>3</w>
+  <c>.</c>
+</s>
+<s n="8">
+  <w>Rubens</w>
+  <w>Barrichello</w>
+  <w>Williams-Cosworth</w>
+  <w>1m</w>
+  <w>47.347 s</w>
+  <c>+</c>
+  <w>0.744</w>
+  <w>23</w>
+  <w>4</w>
+  <c>.</c>
+</s>
+<s n="9">
+  <w>Sergio</w>
+  <w>Perez</w>
+  <w>Sauber-Ferrari</w>
+  <w>1m</w>
+  <w>47.422 s</w>
+  <c>+</c>
+  <w>0.819</w>
+  <w>22</w>
+  <w>5</w>
+  <c>.</c>
+</s>
+<s n="10">
+  <w>Felipe</w>
+  <w>Massa</w>
+  <w>Ferrari</w>
+  <w>1m</w>
+  <w>47.562 s</w>
+  <c>+</c>
+  <w>0.959</w>
+  <w>13</w>
+  <w>6</w>
+  <c>.</c>
+</s>
+<s n="11">
+  <w>Nico</w>
+  <w>Rosberg</w>
+  <w>Mercedes</w>
+  <w>1m</w>
+  <w>47.758 s</w>
+  <c>+</c>
+  <w>1.155</w>
+  <w>23</w>
+  <w>7</w>
+  <c>.</c>
+</s>
+<s n="12">
+  <w>Fernando</w>
+  <w>Alonso</w>
+  <w>Ferrari</w>
+  <w>1m</w>
+  <w>48.161 s</w>
+  <c>+</c>
+  <w>1.558</w>
+  <w>16</w>
+  <w>8</w>
+  <c>.</c>
+</s>
+<s n="13">
+  <w>Lewis</w>
+  <w>Hamilton</w>
+  <w>McLaren-Mercedes</w>
+  <w>1m</w>
+  <w>48.549 s</w>
+  <c>+</c>
+  <w>1.946</w>
+  <w>21</w>
+  <w>9</w>
+  <c>.</c>
+</s>
+<s n="14">
+  <w>Nico</w>
+  <w>Hulkenberg</w>
+  <w>Force</w>
+  <w>India-Mercedes</w>
+  <w>1m</w>
+  <w>48.598 s</w>
+  <c>+</c>
+  <w>1.995</w>
+  <w>19</w>
+  <w>10</w>
+  <c>.</c>
+</s>
+<s n="15">
+  <w>Jaime</w>
+  <w>Alguersuari</w>
+  <w>Toro</w>
+  <w>Rosso-Ferrari</w>
+  <w>1m</w>
+  <w>48.678 s</w>
+  <c>+</c>
+  <w>2.075</w>
+  <w>22</w>
+  <w>11</w>
+  <c>.</c>
+</s>
+<s n="16">
+  <w>Paul</w>
+  <w>di</w>
+  <w>Resta</w>
+  <w>Force</w>
+  <w>India-Mercedes</w>
+  <w>1m</w>
+  <w>48.730 s</w>
+  <c>+</c>
+  <w>2.127</w>
+  <w>18</w>
+  <w>12</w>
+  <c>.</c>
+</s>
+<s n="17">
+  <w>Sebastien</w>
+  <w>Buemi</w>
+  <w>Toro</w>
+  <w>Rosso-Ferrari</w>
+  <w>1m</w>
+  <w>48.778 s</w>
+  <c>+</c>
+  <w>2.175</w>
+  <w>18</w>
+  <w>13</w>
+  <c>.</c>
+</s>
+<s n="18">
+  <w>Sebastian</w>
+  <w>Vettel</w>
+  <w>Red</w>
+  <w>Bull-Renault</w>
+  <w>1m</w>
+  <w>48.794 s</w>
+  <c>+</c>
+  <w>2.191</w>
+  <w>21</w>
+  <w>14</w>
+  <c>.</c>
+</s>
+<s n="19">
+  <w>Pastor</w>
+  <w>Maldonado</w>
+  <w>Williams-Cosworth</w>
+  <w>1m</w>
+  <w>48.809 s</w>
+  <c>+</c>
+  <w>2.206</w>
+  <w>17</w>
+  <w>15</w>
+  <c>.</c>
+</s>
+<s n="20">
+  <w>Jenson</w>
+  <w>Button</w>
+  <w>McLaren-Mercedes</w>
+  <w>1m</w>
+  <w>48.841 s</w>
+  <c>+</c>
+  <w>2.238</w>
+  <w>23</w>
+  <w>16</w>
+  <c>.</c>
+</s>
+<s n="21">
+  <w>Nick</w>
+  <w>Heidfeld</w>
+  <w>Renault</w>
+  <w>1m</w>
+  <w>48.941 s</w>
+  <c>+</c>
+  <w>2.338</w>
+  <w>20</w>
+  <w>17</w>
+  <c>.</c>
+</s>
+<s n="22">
+  <w>Vitaly</w>
+  <w>Petrov</w>
+  <w>Renault</w>
+  <w>1m</w>
+  <w>49.603 s</w>
+  <c>+</c>
+  <w>3.000</w>
+  <w>15</w>
+  <w>18</w>
+  <c>.</c>
+</s>
+<s n="23">
+  <w>Kamui</w>
+  <w>Kobayashi</w>
+  <w>Sauber-Ferrari</w>
+  <w>1m</w>
+  <w>50.133 s</w>
+  <c>+</c>
+  <w>3.530</w>
+  <w>17</w>
+  <w>19</w>
+  <c>.</c>
+</s>
+<s n="24">
+  <w>Jarno</w>
+  <w>Trulli</w>
+  <w>Lotus-Renault</w>
+  <w>1m</w>
+  <w>50.222 s</w>
+  <c>+</c>
+  <w>3.619</w>
+  <w>14</w>
+  <w>20</w>
+  <c>.</c>
+</s>
+<s n="25">
+  <w>Karun</w>
+  <w>Chandhok</w>
+  <w>Lotus-Renault</w>
+  <w>1m</w>
+  <w>51.119 s</w>
+  <c>+</c>
+  <w>4.516</w>
+  <w>17</w>
+  <w>21</w>
+  <c>.</c>
+</s>
+<s n="26">
+  <w>Timo</w>
+  <w>Glock</w>
+  <w>Virgin-Cosworth</w>
+  <w>1m</w>
+  <w>52.470 s</w>
+  <c>+</c>
+  <w>5.867</w>
+  <w>17</w>
+  <w>22</w>
+  <c>.</c>
+</s>
+<s n="27">
+  <w>Tonio</w>
+  <w>Liuzzi</w>
+  <w>HRT-Cosworth</w>
+  <w>1m</w>
+  <w>53.143 s</w>
+  <c>+</c>
+  <w>6.540</w>
+  <w>20</w>
+  <w>23</w>
+  <c>.</c>
+</s>
+<s n="28">
+  <w>Jerome</w>
+  <w>D'Ambrosio</w>
+  <w>Virgin-Cosworth</w>
+  <w>1m</w>
+  <w>53.469 s</w>
+  <c>+</c>
+  <w>6.866</w>
+  <w>26</w>
+  <w>24</w>
+  <c>.</c>
+</s>
+<s n="29">
+  <w>Daniel</w>
+  <w>Ricciardo</w>
+  <w>HRT-Cosworth</w>
+  <w>1m</w>
+  <w>54.334 s</w>
+  <c>+</c>
+  <w>7.731</w>
+  <w>24</w>
+</s>
+</p></body></text>
+</TEI>

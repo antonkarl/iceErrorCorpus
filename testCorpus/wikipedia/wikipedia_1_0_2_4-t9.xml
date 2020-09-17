@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_4-t9.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Þessar</w>
@@ -250,7 +262,7 @@
   <c>(</c>
   <w>e.</w>
   <revision id="3">
-    <original><w><i>cognitive</i></w><w><i>domain</i></w></original>
+    <original><w><hi>cognitive</hi></w><w><hi>domain</hi></w></original>
     <corrected><w>cognitive</w><w>domain</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -262,7 +274,7 @@
   <c>(</c>
   <w>e.</w>
   <revision id="4">
-    <original><w><i>affective</i></w><w><i>domain</i></w></original>
+    <original><w><hi>affective</hi></w><w><hi>domain</hi></w></original>
     <corrected><w>affective</w><w>domain</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -274,7 +286,7 @@
   <c>(</c>
   <w>e.</w>
   <revision id="5">
-    <original><w><i>psychomotor</i></w><w><i>domain</i></w></original>
+    <original><w><hi>psychomotor</hi></w><w><hi>domain</hi></w></original>
     <corrected><w>psychomotor</w><w>domain</w></corrected>
       <errors>
         <error xtype="it4nonit" eid="0"/>
@@ -455,31 +467,31 @@
   <w>námsmarkmið</w>
   <w>í</w>
   <w>bókinni</w>
-  <w><i>Taxonomy</i></w>
-  <w><i>of</i></w>
-  <w><i>Educational</i></w>
+  <w><hi>Taxonomy</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>Educational</hi></w>
   <revision id="11">
-    <original><w><i>Objectives.</i></w></original>
-    <corrected><w><i>Objectives</i></w><c><i>:</i></c></corrected>
+    <original><w><hi>Objectives.</hi></w></original>
+    <corrected><w><hi>Objectives</hi></w><c><hi>:</hi></c></corrected>
       <errors>
         <error xtype="period4colon" eid="0"/>
       </errors>
   </revision>
-  <w><i>The</i></w>
-  <w><i>Classification</i></w>
-  <w><i>of</i></w>
-  <w><i>Educational</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Classification</hi></w>
+  <w><hi>of</hi></w>
+  <w><hi>Educational</hi></w>
   <revision id="12">
-    <original><w><i>Goals</i></w><c>.</c></original>
-    <corrected><w><i>Goals</i></w><c><i>,</i></c></corrected>
+    <original><w><hi>Goals</hi></w><c>.</c></original>
+    <corrected><w><hi>Goals</hi></w><c><hi>,</hi></c></corrected>
       <errors>
         <error xtype="period4comma" eid="0"/>
       </errors>
   </revision>
-  <w><i>Handbook</i></w>
-  <c><i>:</i></c>
-  <w><i>Cognitive</i></w>
-  <w><i>Domain</i></w>
+  <w><hi>Handbook</hi></w>
+  <c><hi>:</hi></c>
+  <w><hi>Cognitive</hi></w>
+  <w><hi>Domain</hi></w>
   <w>árið 1956</w>
   <c>.</c>
 </s></p></body></text>

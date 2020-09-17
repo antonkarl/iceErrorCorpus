@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader/>
+<text><body><p n="1">
+<s n="1">
+  <w>Fullyrt</w>
+  <w>er</w>
+  <w>að</w>
+  <w>hér</w>
+  <w>sjáist</w>
+  <w>sneggsti</w>
+  <w>Toyota</w>
+  <w>Supra</w>
+  <w>bíll</w>
+  <w>heims</w>
+  <w>og</w>
+  <w>miðað</w>
+  <w>við</w>
+  <w>tímann</w>
+  <w>sem</w>
+  <w>það</w>
+  <w>tekur</w>
+  <revision id="1">
+    <original><w>hana</w></original>
+    <corrected><w>hann</w></corrected>
+      <errors>
+        <error xtype="agreement-pro" eid="0"/>
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>fara</w>
+  <w>kvartmíluna</w>
+  <c>,</c>
+  <w>6,05</w>
+  <w>sekúndur</w>
+  <c>,</c>
+  <w>er</w>
+  <w>tæplega</w>
+  <w>vafi</w>
+  <revision id="2">
+    <original/>
+    <corrected><w>á</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>svo</w>
+  <w>sé</w>
+  <c>.</c>
+</s><s n="2">
+  <w>Ekki</w>
+  <w>kemur</w>
+  <w>fram</w>
+  <w>hve</w>
+  <w>öflug</w>
+  <w>Supran</w>
+  <w>er</w>
+  <w>en</w>
+  <w>vél</w>
+  <w>bílsins</w>
+  <w>er</w>
+  <w>af</w>
+  <w>2</w>
+  <w>JZ-gerð</w>
+  <w>með</w>
+  <w>98 mm</w>
+  <revision id="3">
+    <original><w>Precision</w></original>
+    <corrected><w><i>Precision</i></w></corrected>
+      <errors>
+        <error xtype="nonit4it" eid="0"/>
+      </errors>
+  </revision>
+  <w>forþjöppu</w>
+  <w>og</w>
+  <revision id="4">
+    <original><w>vaflaust</w></original>
+    <corrected><w>vafalaust</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="5-1" eid="0"/>
+        <error xtype="nonword" idx="5-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>eru</w>
+  <w>hestöflin</w>
+  <w>langt</w>
+  <w>yfir</w>
+  <w>1.000</w>
+  <w>hestafla</w>
+  <w>markinu</w>
+  <c>.</c>
+</s><s n="3">
+  <w>Hér</w>
+  <revision id="5">
+    <original><w>sprettur</w><w>hún</w></original>
+    <corrected><w>sprettir</w><w>bíllinn</w></corrected>
+      <errors>
+        <error xtype="letter-rep" idx="3-1" eid="0"/>
+        <error xtype="pro4noun" idx="3-2" eid="0"/>
+      </errors>
+  </revision>
+  <w>úr</w>
+  <w>spori</w>
+  <w>á</w>
+  <w>kvartmílubraut</w>
+  <w>í</w>
+  <w>Arabaríkinu</w>
+  <w>Bahrain</w>
+  <w>með</w>
+  <w>bandaríska</w>
+  <w>ökumanninn</w>
+  <w>Gary</w>
+  <w>White</w>
+  <w>undir</w>
+  <w>stýri</w>
+  <c>.</c>
+</s><s n="4">
+  <w>Til</w>
+  <w>stendur</w>
+  <w>að</w>
+  <w>gera</w>
+  <w>þennan</w>
+  <w>bíl</w>
+  <w>aflmeiri</w>
+  <w>og</w>
+  <w>ná</w>
+  <w>honum</w>
+  <w>undir</w>
+  <w>6</w>
+  <w>sekúndna</w>
+  <w>markið</w>
+  <c>.</c>
+</s><s n="5">
+  <w>Magnað</w>
+  <revision id="6">
+    <original><w>er</w></original>
+    <corrected><w>var</w></corrected>
+      <errors>
+        <error xtype="pres4past" eid="0"/>
+      </errors>
+  </revision>
+  <w>að</w>
+  <w>sjá</w>
+  <w>upptakið</w>
+  <w>á</w>
+  <w>þessari</w>
+  <w>spíttkerru</w>
+  <w>og</w>
+  <revision id="7">
+    <original/>
+    <corrected><w>var</w></corrected>
+      <errors>
+        <error xtype="dep" depId="8-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>endahraði</w>
+  <w>bílsins</w>
+  <revision id="8">
+    <original><w>var</w></original>
+    <corrected/>
+      <errors>
+        <error xtype="wording" idx="8-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>388 km/klst</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>er</w>
+  <w>hreint</w>
+  <w>með</w>
+  <w>ólíkindum</w>
+  <w>enda</w>
+  <revision id="9">
+    <original><w>prjónar</w></original>
+    <corrected><w>prjónaði</w></corrected>
+      <errors>
+        <error xtype="pres4pastdep" eid="0"/>
+      </errors>
+  </revision>
+  <w>hann</w>
+  <w>vígalega</w>
+  <w>í</w>
+  <w>upptakinu</w>
+  <c>.</c>
+</s></p></body></text>
+</TEI>

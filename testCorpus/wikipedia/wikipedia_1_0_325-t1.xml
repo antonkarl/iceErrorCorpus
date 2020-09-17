@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_325-t1.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Star</w>
@@ -231,7 +243,7 @@
       </errors>
   </revision>
   <revision id="9">
-    <original><c>"</c><w><i>Clone</i></w><w><i>Troopers</i></w><c>"</c></original>
+    <original><c>"</c><w><hi>Clone</hi></w><w><hi>Troopers</hi></w><c>"</c></original>
     <corrected><w>Clone</w><w>Troopers</w></corrected>
       <errors>
         <error xtype="extra-quots" idx="9-1" eid="0" />
@@ -492,7 +504,7 @@
   <c>(</c>
   <w>e.</w>
   <revision id="28">
-    <original><c>"</c><w><i>Jedi</i></w></original>
+    <original><c>"</c><w><hi>Jedi</hi></w></original>
     <corrected><w>Jedi</w></corrected>
       <errors>
         <error xtype="extra-quots" idx="28-1" eid="0" />
@@ -561,7 +573,7 @@
   <c>,</c>
   <w>þjóðhöfðingi</w>
   <revision id="32">
-    <original><c>"</c><w><i>The</i></w><w><i>New</i></w><w><i>Republic</i></w><c>"</c></original>
+    <original><c>"</c><w><hi>The</hi></w><w><hi>New</hi></w><w><hi>Republic</hi></w><c>"</c></original>
     <corrected><w>Nýja</w><w>lýðveldisins</w><c>(</c><w>e.</w><w>The</w><w>New</w><w>Republic</w><c>)</c></corrected>
       <errors>
         <error xtype="extra-quots" idx="32-1" eid="0" />
@@ -663,7 +675,7 @@
   <w>leið</w>
   <w>til</w>
   <revision id="37">
-    <original><c>"</c><w><i>Valley</i></w><w><i>of</i></w><w><i>the</i></w><w><i>Jedi</i></w><c>"</c></original>
+    <original><c>"</c><w><hi>Valley</hi></w><w><hi>of</hi></w><w><hi>the</hi></w><w><hi>Jedi</hi></w><c>"</c></original>
     <corrected><w>Dals</w><w>Jedi-reglunnar</w><c>(</c><w>e.</w><w>Valley</w><w>of</w><w>the</w><w>Jedi</w><c>)</c></corrected>
       <errors>
         <error xtype="extra-quots" idx="37-1" eid="0" />
@@ -809,7 +821,7 @@
   <w>Jan</w>
   <w>í</w>
   <revision id="42">
-    <original><c>"</c><w><i>Artus</i></w><w><i>Prime</i></w><c>"</c></original>
+    <original><c>"</c><w><hi>Artus</hi></w><w><hi>Prime</hi></w><c>"</c></original>
     <corrected><w>Artus</w><w>Prime</w></corrected>
       <errors>
         <error xtype="extra-quots" idx="42-1" eid="0" />
@@ -846,10 +858,10 @@
   <w>ímynduðu</w>
   <w>efni</w>
   <w>úr</w>
-  <w><i>Star</i></w>
-  <w><i>Wars</i></w>
-  <w><i>Expanded</i></w>
-  <w><i>Universe</i></w>
+  <w><hi>Star</hi></w>
+  <w><hi>Wars</hi></w>
+  <w><hi>Expanded</hi></w>
+  <w><hi>Universe</hi></w>
   <c>(</c>
   <w>stækkaða</w>
   <w>Stjörnustríðsheiminum</w>
@@ -949,7 +961,7 @@
   <w>er</w>
   <w>í</w>
   <revision id="47">
-    <original><c>"</c><w><i>Jedi</i></w><w><i>Academy</i></w><c>"</c></original>
+    <original><c>"</c><w><hi>Jedi</hi></w><w><hi>Academy</hi></w><c>"</c></original>
     <corrected><w>Jedi-skólanum</w><c>(</c><w>e.</w><w>Jedi</w><w>Academy</w><c>)</c></corrected>
       <errors>
         <error xtype="extra-quots" idx="47-1" eid="0" />
@@ -1059,7 +1071,7 @@
   <w>glæpayfirmann</w>
   <w>frá</w>
   <revision id="51">
-    <original><c>"</c><w><i>Rodia</i></w><c>"</c></original>
+    <original><c>"</c><w><hi>Rodia</hi></w><c>"</c></original>
     <corrected><w>Rodia</w></corrected>
       <errors>
         <error xtype="extra-quots" idx="51-1" eid="0" />
@@ -1075,7 +1087,7 @@
   <w>sorpið</w>
   <w>í</w>
   <revision id="52">
-    <original><c>"</c><w><i>Na</i></w><w><i>Shaddaa</i></w><c>"</c></original>
+    <original><c>"</c><w><hi>Na</hi></w><w><hi>Shaddaa</hi></w><c>"</c></original>
     <corrected><w>Na</w><w>Shaddaa</w></corrected>
       <errors>
         <error xtype="extra-quots" idx="52-1" eid="0" />
@@ -1113,7 +1125,7 @@
   <w>en</w>
   <w>í</w>
   <revision id="56">
-    <original><c>"</c><w><i>Na</i></w><w><i>Shaddaa</i></w><c>"</c></original>
+    <original><c>"</c><w><hi>Na</hi></w><w><hi>Shaddaa</hi></w><c>"</c></original>
     <corrected><w>Na</w><w>Shaddaa</w></corrected>
       <errors>
         <error xtype="extra-quots" idx="56-1" eid="0" />
@@ -1156,7 +1168,7 @@
   <c>,</c>
   <w>nú</w>
   <revision id="59">
-    <original><c>"</c><w><i>Na</i></w><w><i>Shaddaa</i></w><c>"</c></original>
+    <original><c>"</c><w><hi>Na</hi></w><w><hi>Shaddaa</hi></w><c>"</c></original>
     <corrected><w>Na</w><w>Shaddaa</w></corrected>
       <errors>
         <error xtype="extra-quots" idx="59-1" eid="0" />
@@ -1391,7 +1403,7 @@
   </revision>
   <w>í</w>
   <revision id="76">
-    <original><c>"</c><w><i>Doomsgiver</i></w><c>"</c><c>(</c></original>
+    <original><c>"</c><w><hi>Doomsgiver</hi></w><c>"</c><c>(</c></original>
     <corrected></corrected>
       <errors>
         <error xtype="extra-quots" idx='76-1' eid="0" />
@@ -1441,7 +1453,7 @@
   <w>svo</w>
   <w>á</w>
   <revision id="79">
-    <original><c>"</c><w><i>Cairn</i></w><w><i>Installation</i></w><c>"</c></original>
+    <original><c>"</c><w><hi>Cairn</hi></w><w><hi>Installation</hi></w><c>"</c></original>
     <corrected><w>Cairn</w><w>Installation</w></corrected>
       <errors>
         <error xtype="extra-quots" idx="79-1" eid="0" />
@@ -1527,7 +1539,7 @@
   <w>orku</w>
   <w>úr</w>
   <revision id="85">
-    <original><c>"</c><w><i>Valley</i></w><w><i>of</i></w><w><i>the</i></w><w><i>Jedi</i></w><c>"</c></original>
+    <original><c>"</c><w><hi>Valley</hi></w><w><hi>of</hi></w><w><hi>the</hi></w><w><hi>Jedi</hi></w><c>"</c></original>
     <corrected><w>Valley</w><w>of</w><w>the</w><w>Jedi</w></corrected>
       <errors>
         <error xtype="extra-quots" idx="85-1" eid="0" />
@@ -1656,7 +1668,7 @@
   <w>kemur</w>
   <w>að</w>
   <revision id="94">
-    <original><c>"</c><w><i>Doomsgiver</i></w><c>"</c></original>
+    <original><c>"</c><w><hi>Doomsgiver</hi></w><c>"</c></original>
     <corrected><w>Doomsgiver</w></corrected>
       <errors>
         <error xtype="extra-quots" idx="94-1" eid="0" />
@@ -1705,7 +1717,7 @@
   <w>ráðast</w>
   <w>á</w>
   <revision id="95">
-    <original><c>"</c><w><i>Jedi</i></w><w><i>Academy</i></w><c>"</c></original>
+    <original><c>"</c><w><hi>Jedi</hi></w><w><hi>Academy</hi></w><c>"</c></original>
     <corrected><w>Jedi-skólann</w></corrected>
       <errors>
         <error xtype="extra-quots" idx="95-1" eid="0" />
@@ -1772,7 +1784,7 @@
   <w>Hethrir</w>
   <w>í</w>
   <revision id="99">
-    <original><c>"</c><w><i>Empire</i></w><w><i>Reborn</i></w><c>"</c></original>
+    <original><c>"</c><w><hi>Empire</hi></w><w><hi>Reborn</hi></w><c>"</c></original>
     <corrected><w>hreyfingunni</w><w>Heimsveldið</w><w>endurfætt</w></corrected>
       <errors>
         <error xtype="extra-quots" idx="99-1" eid="0" />
@@ -1798,7 +1810,7 @@
   <w>lítill</w>
   <w>hluti</w>
   <revision id="101">
-    <original><c>"</c><w><i>Imperial</i></w><w><i>Remnants</i></w></original>
+    <original><c>"</c><w><hi>Imperial</hi></w><w><hi>Remnants</hi></w></original>
     <corrected><w>hreyfingarinnar</w><w>Keisaralegu</w><w>menjarnar</w><c>(</c><w>e.</w><w>Imperial</w><w>Remnants</w></corrected>
       <errors>
         <error xtype="extra-quots" idx="101-1" eid="0" />
@@ -1825,7 +1837,7 @@
   <w>sem</w>
   <w>útrýmdi</w>
   <revision id="103">
-    <original><c>"</c><w><i>Death</i></w><w><i>Star</i></w><c>"</c></original>
+    <original><c>"</c><w><hi>Death</hi></w><w><hi>Star</hi></w><c>"</c></original>
     <corrected><w>Dauðastirninu</w><c>(</c><w>e.</w><w>Death</w><w>Star</w></corrected>
       <errors>
         <error xtype="extra-quots" idx="103-1" eid="0" />
@@ -2018,7 +2030,7 @@
   <w>flótta-geimskipi</w>
   <c>(</c>
   <revision id="116">
-    <original><w>á</w><w>ensku</w><c>"</c><w><i>escape</i></w><w><i>pod</i></w><c>"</c></original>
+    <original><w>á</w><w>ensku</w><c>"</c><w><hi>escape</hi></w><w><hi>pod</hi></w><c>"</c></original>
     <corrected><w>e.</w><w>escape</w><w>pod</w></corrected>
       <errors>
         <error xtype="wording" idx="116-1" eid="0" />
@@ -2030,7 +2042,7 @@
   <c>)</c>
   <w>til</w>
   <revision id="117">
-    <original><c>"</c><w><i>Yavin</i></w><w><i>IV</i></w><c>"</c></original>
+    <original><c>"</c><w><hi>Yavin</hi></w><w><hi>IV</hi></w><c>"</c></original>
     <corrected><w>Yavin</w><w>IV</w></corrected>
       <errors>
         <error xtype="extra-quots" idx="117-1" eid="0" />
@@ -2052,7 +2064,7 @@
   <w>koma</w>
   <w>að</w>
   <revision id="118">
-    <original><c>"</c><w><i>Yavin</i></w><w><i>IV</i></w><c>"</c></original>
+    <original><c>"</c><w><hi>Yavin</hi></w><w><hi>IV</hi></w><c>"</c></original>
     <corrected><w>Yavin</w><w>IV</w></corrected>
       <errors>
         <error xtype="extra-quots" idx="118-1" eid="0" />
@@ -2082,7 +2094,7 @@
   </revision>
   <w>og</w>
   <revision id="120">
-    <original><c>"</c><w><i>Shadowtroopers</i></w></original>
+    <original><c>"</c><w><hi>Shadowtroopers</hi></w></original>
     <corrected><w>skuggahermönnum</w><c>(</c><w>e.</w><w>shadowtroopers</w><c>)</c></corrected>
       <errors>
         <error xtype="extra-quots" idx="120-1" eid="0" />
@@ -2096,7 +2108,7 @@
   <c>&quot;</c>
   <w>á</w>
   <revision id="121">
-    <original><c>"</c><w><i>Yavin</i></w><w><i>IV</i></w><c>"</c></original>
+    <original><c>"</c><w><hi>Yavin</hi></w><w><hi>IV</hi></w><c>"</c></original>
     <corrected><w>Yavin</w><w>IV</w></corrected>
       <errors>
         <error xtype="extra-quots" idx="121-1" eid="0" />
@@ -2111,7 +2123,7 @@
   <w>kemur</w>
   <w>að</w>
   <revision id="122">
-    <original><c>"</c><w><i>Jedi</i></w><w><i>Academy</i></w><c>"</c></original>
+    <original><c>"</c><w><hi>Jedi</hi></w><w><hi>Academy</hi></w><c>"</c></original>
     <corrected><w>Jedi-skólanum</w></corrected>
       <errors>
         <error xtype="extra-quots" idx="122-1" eid="0" />
@@ -2137,7 +2149,7 @@
   <w>ráðast</w>
   <w>á</w>
   <revision id="123">
-    <original><c>"</c><w><i>Jedi</i></w><w><i>Academy</i></w><c>"</c><c>,</c></original>
+    <original><c>"</c><w><hi>Jedi</hi></w><w><hi>Academy</hi></w><c>"</c><c>,</c></original>
     <corrected><w>Jedi-skólann</w></corrected>
       <errors>
         <error xtype="extra-quots" idx="123-1" eid="0" />
@@ -2158,7 +2170,7 @@
   <w>á</w>
   <w>móti</w>
   <revision id="124">
-    <original><w>þeim</w><c>"</c><w><i>Jedi</i></w><c>"</c></original>
+    <original><w>þeim</w><c>"</c><w><hi>Jedi</hi></w><c>"</c></original>
     <corrected><w>Jedi-riddurunum</w></corrected>
       <errors>
         <error xtype="extra-quots" idx="124-1" eid="0" />
@@ -2169,7 +2181,7 @@
   </revision>
   <w>í</w>
   <revision id="125">
-    <original><c>"</c><w><i>Jedi</i></w></original>
+    <original><c>"</c><w><hi>Jedi</hi></w></original>
     <corrected><w>Jedi-skólanum</w></corrected>
       <errors>
         <error xtype="extra-quots" idx="125-1" eid="0" />
@@ -2240,7 +2252,7 @@
   <w>hinna</w>
   <w>illu</w>
   <revision id="129">
-    <original><c>"</c><w><i>Jedi</i></w><c>"</c></original>
+    <original><c>"</c><w><hi>Jedi</hi></w><c>"</c></original>
     <corrected><w>Jedi-riddara</w></corrected>
       <errors>
         <error xtype="extra-quots" idx="129-1" eid="0" />
@@ -2277,7 +2289,7 @@
   <w>vera</w>
   <w>sannur</w>
   <revision id="132">
-    <original><c>"</c><w><i>Jedi</i></w><c>"</c></original>
+    <original><c>"</c><w><hi>Jedi</hi></w><c>"</c></original>
     <corrected><w>Jedi-riddari</w></corrected>
       <errors>
         <error xtype="extra-quots" idx="132-1" eid="0" />

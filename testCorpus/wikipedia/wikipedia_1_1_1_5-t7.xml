@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_5-t7.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Með</w>
@@ -65,7 +77,7 @@
   <w>undirættbálkinum</w>
   <revision id="1">
     <original><c>"</c><w>Scombroidei</w><c>"</c></original>
-    <corrected><w><i>Scombroidei</i></w></corrected>
+    <corrected><w><hi>Scombroidei</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="2-1" eid="0"/>
         <error xtype="nonit4it" idx="2-1" eid="0"/>
@@ -100,8 +112,8 @@
   </revision>
   <w>makríl</w>
   <c>(</c>
-  <w><i>Gasterochisma</i></w>
-  <w><i>melampus</i></w>
+  <w><hi>Gasterochisma</hi></w>
+  <w><hi>melampus</hi></w>
   <c>)</c>
   <c>.</c>
 </s><s n="4">
@@ -594,10 +606,10 @@
   <w>vankjálkar</w>
   <w>eins</w>
   <w>og</w>
-  <w><i>Haikouichthys</i></w>
-  <w><i>ercaicunensis</i></w>
+  <w><hi>Haikouichthys</hi></w>
+  <w><hi>ercaicunensis</hi></w>
   <w>og</w>
-  <w><i>Pikaia</i></w>
+  <w><hi>Pikaia</hi></w>
   <c>.</c>
 </s><s n="25">
   <w>Táknið</w>
@@ -1740,7 +1752,7 @@
   <w>staðar</w>
   <w>í</w>
   <w>ættinni</w>
-  <w><i>Alopiidae</i></w>
+  <w><hi>Alopiidae</hi></w>
   <c>(</c>
   <w>skottháfum</w>
   <c>)</c>
@@ -2172,7 +2184,7 @@
   <w>í</w>
   <w>vankjálka</w>
   <c>(</c>
-  <w><i>Agnatha</i></w>
+  <w><hi>Agnatha</hi></w>
   <c>,</c>
   <w>til</w>
   <w>dæmis</w>
@@ -2181,7 +2193,7 @@
   <c>,</c>
   <w>brjóskfiska</w>
   <c>(</c>
-  <w><i>Chondrichthyes</i></w>
+  <w><hi>Chondrichthyes</hi></w>
   <revision id="26c">
     <original><c>-háffiskar</c></original>
     <corrected><c>-</c><w>háfiskar</w></corrected>
@@ -2197,7 +2209,7 @@
   <w>og</w>
   <w>beinfiska</w>
   <c>(</c>
-  <w><i>Osteichthyes</i></w>
+  <w><hi>Osteichthyes</hi></w>
   <c>)</c>
   <c>.</c>
 </s><s n="99">
@@ -3305,8 +3317,8 @@
   <w>löngum</w>
   <w>hvalháfum</w>
   <w>að</w>
-  <w><i>Schindleria</i></w>
-  <w><i>brevipinguis</i></w>
+  <w><hi>Schindleria</hi></w>
+  <w><hi>brevipinguis</hi></w>
   <w>sem</w>
   <w>er</w>
   <w>aðeins</w>
@@ -3384,7 +3396,7 @@
   <w>fiskar</w>
   <c>(</c>
   <w>ættin</w>
-  <w><i>Sparidae</i></w>
+  <w><hi>Sparidae</hi></w>
   <c>)</c>
   <w>sem</w>
   <w>skipta</w>
@@ -3432,9 +3444,9 @@
   <w>snýr</w>
   <w>hann</w>
   <w>aftur</w>
-  <w><i>í</i></w>
-  <w><i>sömu</i></w>
-  <w><i>ána</i></w>
+  <w><hi>í</hi></w>
+  <w><hi>sömu</hi></w>
+  <w><hi>ána</hi></w>
   <w>sem</w>
   <w>hann</w>
   <w>fæddist</w>
@@ -4131,9 +4143,9 @@
   <w>stundum</w>
   <w>er</w>
   <w>kölluð</w>
-  <w><i>Lífið</i></w>
-  <w><i>er</i></w>
-  <w><i>saltfiskur</i></w>
+  <w><hi>Lífið</hi></w>
+  <w><hi>er</hi></w>
+  <w><hi>saltfiskur</hi></w>
   <c>)</c>
   <c>.</c>
 </s><s n="191">
@@ -4357,7 +4369,7 @@
   <w>nafninu</w>
   <revision id="43">
     <original><c>„</c><w>Jesús</w><w>Kristur</w><w>guðs</w><w>son</w><w>frelsari</w><c>“</c></original>
-    <corrected><w><i>Jesús</i></w><w><i>Kristur</i></w><w><i>guðs</i></w><w><i>son</i></w><w><i>frelsari</i></w></corrected>
+    <corrected><w><hi>Jesús</hi></w><w><hi>Kristur</hi></w><w><hi>guðs</hi></w><w><hi>son</hi></w><w><hi>frelsari</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="42-1" eid="0"/>
         <error xtype="nonit4it" idx="42-1" eid="0"/>
@@ -4365,23 +4377,23 @@
       </errors>
   </revision>
   <c>(</c>
-  <w><i>Ιησους</i></w>
-  <w><i>Χριστος</i></w>
-  <w><i>Θεου</i></w>
-  <w><i>Υιος</i></w>
-  <w><i>Σωτηρ</i></w>
+  <w><hi>Ιησους</hi></w>
+  <w><hi>Χριστος</hi></w>
+  <w><hi>Θεου</hi></w>
+  <w><hi>Υιος</hi></w>
+  <w><hi>Σωτηρ</hi></w>
   <c>,</c>
-  <w><i>Iesous</i></w>
-  <w><i>Kristos</i></w>
-  <w><i>Þeou</i></w>
-  <w><i>Yios</i></w>
-  <w><i>Soter</i></w>
+  <w><hi>Iesous</hi></w>
+  <w><hi>Kristos</hi></w>
+  <w><hi>Þeou</hi></w>
+  <w><hi>Yios</hi></w>
+  <w><hi>Soter</hi></w>
   <c>)</c>
   <w>mynda</w>
   <w>orðið</w>
   <revision id="44">
     <original><c>„</c><w>fiskur</w><c>“</c></original>
-    <corrected><w><i>fiskur</i></w></corrected>
+    <corrected><w><hi>fiskur</hi></w></corrected>
       <errors>
         <error xtype="extra-quots" idx="43-1" eid="0"/>
         <error xtype="nonit4it" idx="43-1" eid="0"/>
@@ -4391,9 +4403,9 @@
   <c>(</c>
   <w>gríska</w>
   <c>:</c>
-  <w><i>Ιχθυς</i></w>
+  <w><hi>Ιχθυς</hi></w>
   <c>,</c>
-  <w><i>Ikþys</i></w>
+  <w><hi>Ikþys</hi></w>
   <c>)</c>
   <c>.</c>
 </s><s n="200">
@@ -4556,7 +4568,7 @@
   <w>og</w>
   <revision id="47">
     <original><w>Great</w><w>Salt</w><w>Lake</w></original>
-    <corrected><w><i>Great</i></w><w><i>Salt</i></w><w><i>Lake</i></w></corrected>
+    <corrected><w><hi>Great</hi></w><w><hi>Salt</hi></w><w><hi>Lake</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

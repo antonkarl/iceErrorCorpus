@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Fyrstu</w>
+  <w>frjálsu</w>
+  <w>kosningarnar</w>
+  <w>í</w>
+  <w>meira</w>
+  <w>en</w>
+  <w>hálfa</w>
+  <w>öld</w>
+  <w>fara</w>
+  <w>fram</w>
+  <w>í</w>
+  <w>Líbíu</w>
+  <w>í</w>
+  <w>dag</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Kjósa</w>
+  <w>á</w>
+  <revision id="1">
+    <original><w>bráðabirgðaþing</w></original>
+    <corrected><w>til</w><w>bráðabirgðaþings</w></corrected>
+      <errors>
+        <error xtype="missing-word" idx="1-1" eid="0" />
+        <error xtype="dep" depId="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>fær</w>
+  <w>það</w>
+  <w>verkefni</w>
+  <w>að</w>
+  <w>velja</w>
+  <w>ríkisstjórn</w>
+  <w>og</w>
+  <w>forsætisráðherra</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Ofbeldi</w>
+  <w>í</w>
+  <w>aðdraganda</w>
+  <w>kosninganna</w>
+  <w>varpar</w>
+  <w>þó</w>
+  <w>skugga</w>
+  <w>á</w>
+  <w>þær</w>
+  <revision id="2">
+    <original><w>svo</w><w>og</w><w>átök</w></original>
+    <corrected><w>ásamt</w><w>átökum</w></corrected>
+      <errors>
+        <error xtype="wording" idx="2-1" eid="0" />
+        <error xtype="dep" depId="2-1" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>milli</w>
+  <w>íbúa</w>
+  <w>ákveðinna</w>
+  <revision id="3">
+    <original><w>landssvæða</w></original>
+    <corrected><w>landsvæða</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="3-1" eid="0" />
+        <error xtype="compound-collocation" idx="3-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Ráðist</w>
+  <w>var</w>
+  <w>á</w>
+  <w>starfsfólk</w>
+  <w>kjörstaðar</w>
+  <w>í</w>
+  <w>Benghazi</w>
+  <w>og</w>
+  <w>kosningaseðlum</w>
+  <w>rænt</w>
+  <c>.</c>
+</s>
+<s n="5">
+  <w>Þá</w>
+  <w>var</w>
+  <w>starfsmaður</w>
+  <w>kjörstjórnar</w>
+  <w>skotinn</w>
+  <w>til</w>
+  <w>bana</w>
+  <w>í</w>
+  <w>borginni</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

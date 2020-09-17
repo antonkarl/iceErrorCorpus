@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_17-t1.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Mikill</w>
@@ -365,7 +377,7 @@
   <w>í</w>
   <revision id="12">
     <original><w>Tómas</w><w>Jónsson</w><w>metsölubók</w></original>
-    <corrected><w><i>Tómas</i></w><w><i>Jónsson</i></w><w><i>metsölubók</i></w></corrected>
+    <corrected><w><hi>Tómas</hi></w><w><hi>Jónsson</hi></w><w><hi>metsölubók</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -562,7 +574,7 @@
   <w>og</w>
   <w>þá</w>
   <w>virðist</w>
-  <w><i>Sorg</i></w>
+  <w><hi>Sorg</hi></w>
   <w>eftir</w>
   <w>Jóhann</w>
   <w>Sigurjónsson</w>
@@ -606,7 +618,7 @@
   <w>er</w>
   <revision id="21">
     <original><w>Bréf</w><w>til</w><w>Láru</w></original>
-    <corrected><w><i>Bréf</i></w><w><i>til</i></w><w><i>Láru</i></w></corrected>
+    <corrected><w><hi>Bréf</hi></w><w><hi>til</hi></w><w><hi>Láru</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -796,7 +808,7 @@
 </s><s n="27">
   <revision id="32">
     <original><w>Tíminn</w><w>og</w><w>vatnið</w></original>
-    <corrected><w><i>Tíminn</i></w><w><i>og</i></w><w><i>vatnið</i></w></corrected>
+    <corrected><w><hi>Tíminn</hi></w><w><hi>og</hi></w><w><hi>vatnið</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -960,7 +972,7 @@
   <w>í</w>
   <revision id="40">
     <original><w>Bréfi</w><w>til</w><w>Láru</w></original>
-    <corrected><w><i>Bréfi</i></w><w><i>til</i></w><w><i>Láru</i></w></corrected>
+    <corrected><w><hi>Bréfi</hi></w><w><hi>til</hi></w><w><hi>Láru</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -1248,7 +1260,7 @@
   <w>og</w>
   <revision id="49">
     <original><w>Tómas</w><w>Jónsson</w><w>metsölubók</w></original>
-    <corrected><w><i>Tómas</i></w><w><i>Jónsson</i></w><w><i>metsölubók</i></w></corrected>
+    <corrected><w><hi>Tómas</hi></w><w><hi>Jónsson</hi></w><w><hi>metsölubók</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -1480,7 +1492,7 @@
   <w>módernisma</w>
   <c>,</c>
   <w>eða</w>
-  <w><i>Hel</i></w>
+  <w><hi>Hel</hi></w>
   <w>Sigurðar</w>
   <w>Nordals</w>
   <c>,</c>
@@ -1515,7 +1527,7 @@
   <w>eftir</w>
   <revision id="56">
     <original><w>Vefarann</w><w>mikla</w></original>
-    <corrected><w><i>Vefarann</i></w><w><i>mikla</i></w></corrected>
+    <corrected><w><hi>Vefarann</hi></w><w><hi>mikla</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -1591,7 +1603,7 @@
   <c>,</c>
   <revision id="60">
     <original><w>Dymbilvaka</w></original>
-    <corrected><w><i>Dymbilvaka</i></w></corrected>
+    <corrected><w><hi>Dymbilvaka</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -1599,7 +1611,7 @@
   <w>og</w>
   <revision id="61">
     <original><w>Imbrudagar</w></original>
-    <corrected><w><i>Imbrudagar</i></w></corrected>
+    <corrected><w><hi>Imbrudagar</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -1624,7 +1636,7 @@
   <w>heimfæra</w>
   <revision id="62">
     <original><w>Bréf</w><w>til</w><w>Láru</w></original>
-    <corrected><w><i>Bréf</i></w><w><i>til</i></w><w><i>Láru</i></w></corrected>
+    <corrected><w><hi>Bréf</hi></w><w><hi>til</hi></w><w><hi>Láru</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -1778,7 +1790,7 @@
   <w>ljóðabálkinn</w>
   <revision id="72">
     <original><w>Tíminn</w><w>og</w><w>vatnið</w><c>,</c></original>
-    <corrected><w><i>Tíminn</i></w><w><i>og</i></w><w><i>vatnið</i></w></corrected>
+    <corrected><w><hi>Tíminn</hi></w><w><hi>og</hi></w><w><hi>vatnið</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
         <error xtype="extra-comma" eid="0"/>
@@ -2096,7 +2108,7 @@
   <w>er</w>
   <revision id="85">
     <original><w>Vefarinn</w><w>mikli</w><w>frá</w><w>Kasmír</w></original>
-    <corrected><w><i>Vefarinn</i></w><w><i>mikli</i></w><w><i>frá</i></w><w><i>Kasmír</i></w></corrected>
+    <corrected><w><hi>Vefarinn</hi></w><w><hi>mikli</hi></w><w><hi>frá</hi></w><w><hi>Kasmír</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -2614,7 +2626,7 @@
   <w>einu</w>
   <w>ljóði</w>
   <c>,</c>
-  <w><i>Söknuði</i></w>
+  <w><hi>Söknuði</hi></w>
   <c>.</c>
 </s><s n="83">
   <revision id="105">
@@ -2751,7 +2763,7 @@
   <w>frá</w>
   <revision id="113">
     <original><w>Vefaranum</w><w>mikla</w></original>
-    <corrected><w><i>Vefaranum</i></w><w><i>mikla</i></w></corrected>
+    <corrected><w><hi>Vefaranum</hi></w><w><hi>mikla</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -3030,7 +3042,7 @@
   <w>víðfræga</w>
   <revision id="121">
     <original><w>Tómas</w><w>Jónsson</w><w>metsölubók</w></original>
-    <corrected><w><i>Tómas</i></w><w><i>Jónsson</i></w><w><i>metsölubók</i></w></corrected>
+    <corrected><w><hi>Tómas</hi></w><w><hi>Jónsson</hi></w><w><hi>metsölubók</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -3421,7 +3433,7 @@
   <c>,</c>
   <revision id="135">
     <original><w>ástarsögu</w></original>
-    <corrected><w><i>Ástarsögu</i></w></corrected>
+    <corrected><w><hi>Ástarsögu</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="73-1" eid="0"/>
         <error xtype="lower4upper-proper" idx="73-1" eid="0"/>
@@ -3456,7 +3468,7 @@
   <w>en</w>
   <revision id="136">
     <original><w>Vefarinn</w><c>.</c><w>En</w></original>
-    <corrected><w><i>Vefarinn</i></w><w>en</w></corrected>
+    <corrected><w><hi>Vefarinn</hi></w><w>en</w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
         <error xtype="period-plus-conjunction" idx="40-1" eid="0"/>

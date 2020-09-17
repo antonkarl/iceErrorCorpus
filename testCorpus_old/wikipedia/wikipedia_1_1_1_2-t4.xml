@@ -1,0 +1,491 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader/>
+<text><body><p n="1">
+<s n="1">
+  <w>Hans</w>
+  <w>Christian</w>
+  <w>Gram</w>
+  <w>lærði</w>
+  <w>grasafræði</w>
+  <w>og</w>
+  <w>læknisfræði</w>
+  <w>við</w>
+  <w>Kaupmannahafnarháskóla</w>
+  <w>og</w>
+  <w>lauk</w>
+  <w>þaðan</w>
+  <w>embættisprófi</w>
+  <w>árið 1878</w>
+  <c>.</c>
+</s><s n="2">
+  <w>Hann</w>
+  <w>starfaði</w>
+  <w>sem</w>
+  <w>læknir</w>
+  <w>við</w>
+  <w><i>Kommunehospitalet</i></w>
+  <w>í</w>
+  <w>Kaupmannahöfn</w>
+  <w>þar</w>
+  <w>til</w>
+  <w>hann</w>
+  <w>lauk</w>
+  <w>háskólakennaraprófi</w>
+  <c>(</c>
+  <revision id="1">
+    <original/>
+    <corrected><w>d.</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
+  <w><i>habilitation</i></w>
+  <c>)</c>
+  <w>árið 1883</w>
+  <revision id="2">
+    <original><c>,</c></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-comma" eid="0"/>
+      </errors>
+  </revision>
+  <w>en</w>
+  <w>að</w>
+  <w>því</w>
+  <w>loknu</w>
+  <w>hélt</w>
+  <w>hann</w>
+  <w>í</w>
+  <w>tveggja</w>
+  <w>ára</w>
+  <w>náms-</w> 
+  <w>og</w>
+  <revision id="3">
+    <original><w>rannsóknaferð</w></original>
+    <corrected><w>rannsóknarferð</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="3-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>um</w>
+  <w>Evrópu</w>
+  <w>og</w>
+  <w>lagði</w>
+  <w>stund</w>
+  <w>á</w>
+  <w>lyfjafræði</w>
+  <w>í</w>
+  <w>Strassburg</w>
+  <c>,</c>
+  <w>Marburg</w>
+  <w>og</w>
+  <w>Berlín</w>
+  <c>.</c>
+</s><s n="3">
+  <w>Árið 1886</w>
+  <w>hóf</w>
+  <w>hann</w>
+  <w>störf</w>
+  <w>sem</w>
+  <w>lektor</w>
+  <w>og</w>
+  <w>síðar</w>
+  <w>prófessor</w>
+  <w>við</w>
+  <w>Kaupmannahafnarháskóla</w>
+  <w>og</w>
+  <w>gegndi</w>
+  <w>því</w>
+  <w>það</w>
+  <w>sem</w>
+  <w>eftir</w>
+  <w>var</w>
+  <w>starfsævinnar</w>
+  <c>,</c>
+  <w>frá</w>
+  <w>1892</w>
+  <w>meðfram</w>
+  <w>yfirlæknisstöðu</w>
+  <w>við</w>
+  <w><i>Rigshospitalet</i></w>
+  <c>.</c>
+</s><s n="4">
+  <w>Hann</w>
+  <w>er</w>
+  <w>þekktastur</w>
+  <w>fyrir</w>
+  <w>að</w>
+  <w>hafa</w>
+  <w>þróað</w>
+  <w>litunaraðferðina</w>
+  <w>sem</w>
+  <w>við</w>
+  <w>hann</w>
+  <w>er</w>
+  <w>kennd</w>
+  <w>og</w>
+  <w>nýtist</w>
+  <w>til</w>
+  <w>að</w>
+  <w>flokka</w>
+  <w>bakteríur</w>
+  <w>í</w>
+  <w>tvo</w>
+  <w>hópa</w>
+  <c>,</c>
+  <w>Gram-jákvæðar</w>
+  <w>og</w>
+  <w>Gram-neikvæðar</w>
+  <w>bakteríur</w>
+  <c>.</c>
+</s><s n="5">
+  <w>Meðal</w>
+  <w>þeirra</w>
+  <w>verkefna</w>
+  <w>sem</w>
+  <w>Gram</w>
+  <w>glímdi</w>
+  <w>við</w>
+  <w>var</w>
+  <w>að</w>
+  <w>finna</w>
+  <w>leið</w>
+  <w>til</w>
+  <w>að</w>
+  <w>greina</w>
+  <w>lungnabólgusýkla</w>
+  <w>í</w>
+  <revision id="4">
+    <original><w>lungnavefjarsýnum</w></original>
+    <corrected><w>lungnavefjasýnum</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="4-1" eid="0"/>
+        <error xtype="compound-nonword" idx="4-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>með</w>
+  <w>litunaraðferð</w>
+  <w>þannig</w>
+  <w>að</w>
+  <w>aðeins</w>
+  <w>sýkillinn</w>
+  <w>litaðist</w>
+  <w>en</w>
+  <w>ekki</w>
+  <w>frumur</w>
+  <w>lungnavefjarins</w>
+  <c>.</c>
+</s><s n="6">
+  <w>Við</w>
+  <w>nánari</w>
+  <w>skoðun</w>
+  <w>komst</w>
+  <w>Gram</w>
+  <w>að</w>
+  <w>því</w>
+  <w>að</w>
+  <w>aðeins</w>
+  <w>sumir</w>
+  <w>lungnabólgusýklar</w>
+  <revision id="5">
+    <original><c>,</c></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-comma" eid="0"/>
+      </errors>
+  </revision>
+  <w>svo</w>
+  <w>sem</w>
+  <revision id="6">
+    <original><c>„</c></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-quots" idx="9-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>pneumókokkar</w>
+  <revision id="7">
+    <original><c>“</c></original>
+    <corrected><c>/</c><w>lungna</w></corrected>
+      <errors>
+        <error xtype="dep" depId="9-1" eid="0"/>
+        <error xtype="missing-slash" eid="0"/>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
+  <c>(</c>
+  <revision id="8">
+    <original/>
+    <corrected><w>keðju</w><c>)</c><w>hnettla</w><c>(</c></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-bracket" eid="0"/>
+        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-bracket" eid="0"/>
+      </errors>
+  </revision>
+  <w><i>Streptococcus</i></w>
+  <w><i>pneumoniae</i></w>
+  <c>)</c>
+  <w>héldu</w>
+  <w>fjólubláa</w>
+  <w>litnum</w>
+  <revision id="9">
+    <original><c>,</c></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-comma" eid="0"/>
+      </errors>
+  </revision>
+  <w>en</w>
+  <w>aðrir</w>
+  <revision id="10">
+    <original><c>,</c></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-comma" eid="0"/>
+      </errors>
+  </revision>
+  <w>svo</w>
+  <w>sem</w>
+  <revision id="11">
+    <original/>
+    <corrected><w>lungnabólgustafsýkill</w><c>(</c></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-bracket" eid="0"/>
+      </errors>
+  </revision>
+  <w><i>Klebsiella</i></w>
+  <w><i>pneumoniae</i></w>
+  <revision id="12">
+    <original/>
+    <corrected><c>)</c></corrected>
+      <errors>
+        <error xtype="missing-bracket" eid="0"/>
+      </errors>
+  </revision>
+  <c>,</c>
+  <w>aflituðust</w>
+  <w>líkt</w>
+  <w>og</w>
+  <revision id="13">
+    <original><w>vefjarfrumurnar</w></original>
+    <corrected><w>vefjafrumurnar</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="16-1" eid="0"/>
+        <error xtype="compound-nonword" idx="16-1" eid="0"/>
+      </errors>
+  </revision>
+  <c>.</c>
+</s><s n="7">
+  <w>Örverufræðingar</w>
+  <c>,</c>
+  <w>svo</w>
+  <w>sem</w>
+  <w>Émile</w>
+  <w>Roux</w>
+  <c>,</c>
+  <w>voru</w>
+  <w>þó</w>
+  <w>fljótir</w>
+  <w>að</w>
+  <w>átta</w>
+  <w>sig</w>
+  <w>á</w>
+  <w>notagildi</w>
+  <w>aðferðarinnar</w>
+  <w>við</w>
+  <w>að</w>
+  <w>greina</w>
+  <w>í</w>
+  <w>sundur</w>
+  <w>ólíkar</w>
+  <w>bakteríugerðir</w>
+  <w>og</w>
+  <w>fáeinum</w>
+  <w>árum</w>
+  <revision id="14">
+    <original><w>síkðar</w></original>
+    <corrected><w>síðar</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="18-1" eid="0"/>
+        <error xtype="nonword" idx="18-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>greindi</w>
+  <w>þýski</w>
+  <w>meinafræðingurinn</w>
+  <w>Carl</w>
+  <w>Weigert</w>
+  <w>frá</w>
+  <w>endurbættri</w>
+  <w>aðferð</w>
+  <w>þar</w>
+  <w>sem</w>
+  <w>aflitaða</w>
+  <w>sýnið</w>
+  <w>var</w>
+  <w>endurlitað</w>
+  <w>með</w>
+  <w>safraníni</w>
+  <revision id="15">
+    <original><c>,</c></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-comma" eid="0"/>
+      </errors>
+  </revision>
+  <w>en</w>
+  <revision id="16">
+    <original><w>við</w><w>það</w></original>
+    <corrected><w>með</w><w>því</w></corrected>
+      <errors>
+        <error xtype="wrong-prep" eid="0"/>
+      </errors>
+  </revision>
+  <w>má</w>
+  <w>lita</w>
+  <w>bæði</w>
+  <w>Gram-jákvæðar</w>
+  <c>(</c>
+  <w>sem</w>
+  <w>halda</w>
+  <revision id="17">
+    <original><w>fjólubláa</w><c>"</c><w>crystal</w><w>violet</w><c>"</c></original>
+    <corrected><w>kristalfjólubláa</w></corrected>
+      <errors>
+      	<error xtype="extra-word" eid="0"/>
+      	<error xtype="extra-quots" idx="21-1" eid="0"/>
+        <error xtype="fw4ice" idx="21-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>litnum</w>
+  <c>)</c>
+  <w>og</w>
+  <w>Gram-neikvæðar</w>
+  <c>(</c>
+  <w>taka</w>
+  <w>rauða</w>
+  <w>safranín</w>
+  <w>litinn</w>
+  <c>)</c>
+  <w>bakteríur</w>
+  <w>í</w>
+  <w>sama</w>
+  <w>sýninu</w>
+  <c>.</c>
+</s><s n="8">
+  <w>Í</w>
+  <w>Berlín</w>
+  <w>dvaldi</w>
+  <w>Gram</w>
+  <w>hjá</w>
+  <w>Carl</w>
+  <w>Friedländer</w>
+  <w>og</w>
+  <w>vann</w>
+  <w>þar</w>
+  <w>að</w>
+  <w>rannsóknum</w>
+  <w>á</w>
+  <w>orsakavöldum</w>
+  <w>lungnabólgu</w>
+  <c>.</c>
+</s><s n="9">
+  <w>Hann</w>
+  <w>þróaði</w>
+  <w>litunaraðferð</w>
+  <w>þar</w>
+  <w>sem</w>
+  <w>sýnið</w>
+  <w>var</w>
+  <w>litað</w>
+  <w>með</w>
+  <revision id="18">
+    <original/>
+    <corrected><w>kristalfjólubláum</w><w>lit</w><c>(</c><w>e.</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-bracket" eid="0"/>
+      </errors>
+  </revision>
+  <w><i>crystal</i></w>
+  <w><i>violet</i></w>
+  <revision id="19">
+    <original/>
+    <corrected><c>)</c></corrected>
+      <errors>
+        <error xtype="missing-bracket" eid="0"/>
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>síðan</w>
+  <w>meðhöndlað</w>
+  <w>með</w>
+  <w>joðlausn</w>
+  <w>fyrir</w>
+  <w>aflitun</w>
+  <w>með</w>
+  <w>etanóli</w>
+  <c>.</c>
+</s><s n="10">
+  <w>Hann</w>
+  <w>birti</w>
+  <w>niðurstöður</w>
+  <w>sínar</w>
+  <revision id="20">
+    <original><c>,</c><w>þó</w></original>
+    <corrected><w>þótt</w></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0"/>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
+  <w>hann</w>
+  <w>teldi</w>
+  <w>aðferð</w>
+  <w>sína</w>
+  <c>„</c>
+  <w>ófullkomna</w>
+  <c>“</c>
+  <c>.</c>
+</s><s n="11">
+  <w>Aðferðin</w>
+  <w>reyndist</w>
+  <w>nothæf</w>
+  <w>á</w>
+  <w>sum</w>
+  <w>vefjasýnin</w>
+  <revision id="21">
+    <original><c>,</c></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-comma" eid="0"/>
+      </errors>
+  </revision>
+  <w>en</w>
+  <w>ekki</w>
+  <w>önnur</w>
+  <c>.</c>
+</s><s n="12">
+  <w>Hans</w>
+  <w>Christian</w>
+  <w>Joachim</w>
+  <w>Gram</w>
+  <c>(</c>
+  <w>fæddur</w>
+  <w>13. september 1853</w>
+  <c>,</c>
+  <w>dáinn</w>
+  <w>14. nóvember 1938</w>
+  <c>)</c>
+  <w>var</w>
+  <w>danskur</w>
+  <w>örverufræðingur</w>
+  <w>og</w>
+  <w>læknir</w>
+  <c>.</c>
+</s></p></body></text>
+</TEI>

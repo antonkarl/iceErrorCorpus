@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_475-t15.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Þar</w>
@@ -636,7 +648,7 @@
   <w>Breda</w>
   <w>merkir</w>
   <revision id="22">
-    <original><w><i>hin</i></w><w><i>breiða</i></w><w><i>Aa</i></w><c>(</c></original>
+    <original><w><hi>hin</hi></w><w><hi>breiða</hi></w><w><hi>Aa</hi></w><c>(</c></original>
     <corrected><c>„</c><w>hin</w><w>breiða</w><w>Aa</w><c>“</c><w>þar</w><w>sem</w></corrected>
       <errors>
         <error xtype="missing-quots" idx="4-1" eid="0"/>
@@ -707,7 +719,7 @@
   <c>(</c>
   <revision id="26">
     <original><w>Roodharigendag</w></original>
-    <corrected><w>h.</w><w><i>Roodharigendag</i></w></corrected>
+    <corrected><w>h.</w><w><hi>Roodharigendag</hi></w></corrected>
       <errors>
         <error xtype="missing-word" idx="37-1" eid="0"/>
         <error xtype="nonit4it" idx="37-2" eid="0"/>

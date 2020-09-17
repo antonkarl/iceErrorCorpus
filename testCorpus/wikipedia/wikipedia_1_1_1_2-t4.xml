@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_2-t4.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Hans</w>
@@ -24,7 +36,7 @@
   <w>sem</w>
   <w>læknir</w>
   <w>við</w>
-  <w><i>Kommunehospitalet</i></w>
+  <w><hi>Kommunehospitalet</hi></w>
   <w>í</w>
   <w>Kaupmannahöfn</w>
   <w>þar</w>
@@ -40,7 +52,7 @@
         <error xtype="missing-word" eid="0"/>
       </errors>
   </revision>
-  <w><i>habilitation</i></w>
+  <w><hi>habilitation</hi></w>
   <c>)</c>
   <w>árið 1883</w>
   <revision id="2">
@@ -108,7 +120,7 @@
   <w>meðfram</w>
   <w>yfirlæknisstöðu</w>
   <w>við</w>
-  <w><i>Rigshospitalet</i></w>
+  <w><hi>Rigshospitalet</hi></w>
   <c>.</c>
 </s><s n="4">
   <w>Hann</w>
@@ -225,8 +237,8 @@
         <error xtype="missing-bracket" eid="0"/>
       </errors>
   </revision>
-  <w><i>Streptococcus</i></w>
-  <w><i>pneumoniae</i></w>
+  <w><hi>Streptococcus</hi></w>
+  <w><hi>pneumoniae</hi></w>
   <c>)</c>
   <w>héldu</w>
   <w>fjólubláa</w>
@@ -257,8 +269,8 @@
         <error xtype="missing-bracket" eid="0"/>
       </errors>
   </revision>
-  <w><i>Klebsiella</i></w>
-  <w><i>pneumoniae</i></w>
+  <w><hi>Klebsiella</hi></w>
+  <w><hi>pneumoniae</hi></w>
   <revision id="12">
     <original/>
     <corrected><c>)</c></corrected>
@@ -411,8 +423,8 @@
         <error xtype="missing-bracket" eid="0"/>
       </errors>
   </revision>
-  <w><i>crystal</i></w>
-  <w><i>violet</i></w>
+  <w><hi>crystal</hi></w>
+  <w><hi>violet</hi></w>
   <revision id="19">
     <original/>
     <corrected><c>)</c></corrected>

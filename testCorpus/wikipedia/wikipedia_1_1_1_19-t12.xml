@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_1_1_19-t12.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Sjónvarpinu</w>
@@ -10,7 +22,7 @@
   <w>barnaefnið</w>
   <revision id="1">
     <original><w>Sesame</w><w>Street</w></original>
-    <corrected><w><i>Sesame</i></w><w><i>Street</i></w></corrected>
+    <corrected><w><hi>Sesame</hi></w><w><hi>Street</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -44,7 +56,7 @@
   <w>þættinum</w>
   <revision id="2">
     <original><w>Nýjasta</w><w>tækni</w><w>og</w><w>vísindi</w></original>
-    <corrected><w><i>Nýjasta</i></w><w><i>tækni</i></w><w><i>og</i></w><w><i>vísindi</i></w></corrected>
+    <corrected><w><hi>Nýjasta</hi></w><w><hi>tækni</hi></w><w><hi>og</hi></w><w><hi>vísindi</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
@@ -287,7 +299,7 @@
   <w>barnatímans</w>
   <revision id="5">
     <original><w>Stundarinnar</w><w>okkar</w></original>
-    <corrected><w><i>Stundarinnar</i></w><w><i>okkar</i></w></corrected>
+    <corrected><w><hi>Stundarinnar</hi></w><w><hi>okkar</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>

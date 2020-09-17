@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_425-t6.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Rena</w>
@@ -285,9 +297,9 @@
         <error xtype="missing-words" eid="0" />
       </errors>
   </revision>
-  <w><i>Daytime</i></w>
-  <w><i>Emmy</i></w>
-  <w><i>verðlaunin</i></w>
+  <w><hi>Daytime</hi></w>
+  <w><hi>Emmy</hi></w>
+  <w><hi>verðlaunin</hi></w>
   <revision id="13">
     <original></original>
     <corrected><w>og</w></corrected>
@@ -295,10 +307,10 @@
         <error xtype="missing-conjunction" eid="0" />
       </errors>
   </revision>
-  <w><i>Soap</i></w>
-  <w><i>Opera</i></w>
-  <w><i>Digest</i></w>
-  <w><i>verðlaunin</i></w>
+  <w><hi>Soap</hi></w>
+  <w><hi>Opera</hi></w>
+  <w><hi>Digest</hi></w>
+  <w><hi>verðlaunin</hi></w>
   <revision id="14">
     <original></original>
     <corrected><c>.</c></corrected>

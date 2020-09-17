@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader/>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_8-t7.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Eigandi</w>
@@ -638,13 +650,13 @@
       </errors>
   </revision>
 </s><s n="32">
-  <w><i>Sjá</i></w>
-  <w><i>einnig</i></w>
-  <w><i>grein</i></w>
+  <w><hi>Sjá</hi></w>
+  <w><hi>einnig</hi></w>
+  <w><hi>grein</hi></w>
   <c>:</c>
-  <w><i>ríkisskuldabréf</i></w>
-  <w><i>og</i></w>
-  <w><i>verðbréf</i></w>
+  <w><hi>ríkisskuldabréf</hi></w>
+  <w><hi>og</hi></w>
+  <w><hi>verðbréf</hi></w>
   <revision id="20">
     <original/>
     <corrected><c>.</c></corrected>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <w>Töluvert</w>
+  <w>tjón</w>
+  <w>varð</w>
+  <w>þegar</w>
+  <w>eldur</w>
+  <w>kom</w>
+  <w>upp</w>
+  <w>í</w>
+  <w>garðyrkjustöð</w>
+  <revision id="1">
+    <original><w>að</w></original>
+    <corrected><w>á</w></corrected>
+      <errors>
+        <error xtype="wrong-prep" eid="0" />
+      </errors>
+  </revision>
+  <w>Flúðum</w>
+  <w>í</w>
+  <w>Hrunamannahreppi</w>
+  <w>í</w>
+  <w>gærkvöldi</w>
+  <revision id="2">
+    <original></original>
+    <corrected><c>.</c><w>Eldurinn</w><w>kviknaði</w></corrected>
+      <errors>
+        <error xtype="missing-period" idx="2-1" eid="0" />
+        <error xtype="missing-words" idx="2-2" eid="0" />
+      </errors>
+  </revision>
+  <w>í</w>
+  <w>húsnæði</w>
+  <c>,</c>
+  <w>þar</w>
+  <w>sem</w>
+  <w>verið</w>
+  <w>var</w>
+  <w>að</w>
+  <w>rækta</w>
+  <w>græðlinga</w>
+  <w>að</w>
+  <w>tómataplöntum</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Heimamenn</w>
+  <w>höfðu</w>
+  <w>að</w>
+  <w>mestu</w>
+  <w>slökkt</w>
+  <w>eldinn</w>
+  <w>þegar</w>
+  <w>slökkvilið</w>
+  <w>kom</w>
+  <w>á</w>
+  <w>vettvang</w>
+  <c>,</c>
+  <w>en</w>
+  <w>mikill</w>
+  <w>reykur</w>
+  <w>var</w>
+  <w>þá</w>
+  <w>í</w>
+  <w>húsinu</w>
+  <w>og</w>
+  <w>hafði</w>
+  <w>eitthvað</w>
+  <w>borist</w>
+  <w>í</w>
+  <w>áföst</w>
+  <w>hús</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Töluverðan</w>
+  <w>tíma</w>
+  <w>tók</w>
+  <w>að</w>
+  <w>reykræsta</w>
+  <w>húsin</w>
+  <w>og</w>
+  <w>ekki</w>
+  <w>liggur</w>
+  <w>fyrir</w>
+  <w>hvort</w>
+  <w>græðlingarnir</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>eru</w>
+  <w>hátt</w>
+  <w>í</w>
+  <w>fimm þúsund</w>
+  <c>,</c>
+  <revision id="3">
+    <original><w>eru</w></original>
+    <corrected><w>séu</w></corrected>
+      <errors>
+        <error xtype="ind4sub" eid="0" />
+      </errors>
+  </revision>
+  <w>ónýtir</w>
+  <w>eða</w>
+  <w>ekki</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Talið</w>
+  <w>er</w>
+  <w>að</w>
+  <w>eldurinn</w>
+  <w>hafi</w>
+  <w>kviknað</w>
+  <w>þegar</w>
+  <w>pera</w>
+  <w>sprakk</w>
+  <revision id="4">
+    <original><w>i</w></original>
+    <corrected><w>í</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
+  <w>gróðurhúsalampa</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>

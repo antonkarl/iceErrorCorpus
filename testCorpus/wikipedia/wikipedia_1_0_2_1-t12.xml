@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_2_1-t12.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Utrecht</w>
@@ -161,11 +173,11 @@
   <w>en</w>
   <w>það</w>
   <w>merkir</w>
-  <w><i>ferjustaður</i></w>
+  <w><hi>ferjustaður</hi></w>
   <w>eða</w>
-  <w><i>vað</i></w>
-  <w><i>yfir</i></w>
-  <w><i>Rín</i></w>
+  <w><hi>vað</hi></w>
+  <w><hi>yfir</hi></w>
+  <w><hi>Rín</hi></w>
   <c>.</c>
 </s>
 <s n="9">
@@ -176,8 +188,8 @@
   <w>Uit</w>
   <w>Trekt</w>
   <c>(</c>
-  <w><i>frá</i></w>
-  <w><i>Trekt</i></w>
+  <w><hi>frá</hi></w>
+  <w><hi>Trekt</hi></w>
   <c>)</c>
   <w>og</w>
   <w>loks</w>
@@ -601,11 +613,11 @@
 <s n="26">
   <w>Utrecht-sambandið</w>
   <w>kallaðist</w>
-  <w><i>Lýðveldi</i></w>
-  <w><i>hinna</i></w>
-  <w><i>sjö</i></w>
-  <w><i>sameinuðu</i></w>
-  <w><i>Niðurlanda</i></w>
+  <w><hi>Lýðveldi</hi></w>
+  <w><hi>hinna</hi></w>
+  <w><hi>sjö</hi></w>
+  <w><hi>sameinuðu</hi></w>
+  <w><hi>Niðurlanda</hi></w>
   <w>og</w>
   <w>markar</w>
   <w>upphafið</w>

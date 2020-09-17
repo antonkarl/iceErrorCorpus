@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader></teiHeader>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>wikipedia_1_0_425-t3.xml</title>
+    </titleStmt>
+    <publicationStmt>
+      <distributor>Rannsóknarstofan Mál og tækni</distributor>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Risamálheildin</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
 <text><body><p n="1">
 <s n="1">
   <w>Vasílíj</w>
@@ -106,9 +118,9 @@
   <w>stórum</w>
   <w>bindum</w>
   <c>,</c>
-  <w><i>The</i></w>
-  <w><i>Mitrokhin</i></w>
-  <w><i>Files</i></w>
+  <w><hi>The</hi></w>
+  <w><hi>Mitrokhin</hi></w>
+  <w><hi>Files</hi></w>
   <c>.</c>
 </s>
 <s n="3">

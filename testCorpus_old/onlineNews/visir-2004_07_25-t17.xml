@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader></teiHeader>
+<text><body><p n="1">
+<s n="1">
+  <revision id="1">
+    <original><w>Lögreglumenn</w></original>
+    <corrected><w>Lögreglufólk</w></corrected>
+      <errors>
+        <error xtype="gendered" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>á</w>
+  <w>eftirlitsferð</w>
+  <revision id="2">
+    <original><w>óku</w></original>
+    <corrected><w>ók</w></corrected>
+      <errors>
+        <error xtype="dep" depId="1-1" eid="0" />
+      </errors>
+  </revision>
+  <w>undir</w>
+  <w>morgun</w>
+  <w>fram</w>
+  <w>á</w>
+  <w>nýjan</w>
+  <w>glæsijeppa</w>
+  <revision id="3">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>stóð</w>
+  <w>mannlaus</w>
+  <w>og</w>
+  <w>stórskemmdur</w>
+  <w>á</w>
+  <w>mótum</w>
+  <w>Bústaðavegar</w>
+  <w>og</w>
+  <w>Reykjanesbrautar</w>
+  <revision id="4">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>eftir</w>
+  <w>að</w>
+  <w>hafa</w>
+  <w>verið</w>
+  <w>ekið</w>
+  <w>á</w>
+  <w>ljósastaur</w>
+  <c>.</c>
+</s>
+<s n="2">
+  <w>Við</w>
+  <w>athugun</w>
+  <w>kom</w>
+  <w>í</w>
+  <w>ljós</w>
+  <w>að</w>
+  <w>bílnum</w>
+  <w>hafði</w>
+  <w>verið</w>
+  <w>stolið</w>
+  <w>fyrir</w>
+  <w>utan</w>
+  <w>hús</w>
+  <revision id="5">
+    <original><w>eiganda</w><w>síns</w></original>
+    <corrected><w>eigandans</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>austur</w>
+  <w>á</w>
+  <w>Hellu</w>
+  <w>í</w>
+  <w>gærkvöldi</w>
+  <w>án</w>
+  <w>þess</w>
+  <w>að</w>
+  <w>hann</w>
+  <w>hefði</w>
+  <w>orðið</w>
+  <w>þess</w>
+  <w>var</w>
+  <c>.</c>
+</s>
+<s n="3">
+  <w>Þjófurinn</w>
+  <w>var</w>
+  <w>á</w>
+  <w>bak</w>
+  <w>og</w>
+  <w>burt</w>
+  <revision id="6">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>en</w>
+  <w>bíllinn</w>
+  <w>er</w>
+  <w>það</w>
+  <w>mikið</w>
+  <w>skemmdur</w>
+  <w>að</w>
+  <w>öll</w>
+  <w>olía</w>
+  <w>lak</w>
+  <w>af</w>
+  <w>vélinni</w>
+  <w>og</w>
+  <w>þurfti</w>
+  <w>slökkviliðið</w>
+  <w>að</w>
+  <w>þrífa</w>
+  <w>hana</w>
+  <w>upp</w>
+  <w>svo</w>
+  <w>ekki</w>
+  <w>skapaðist</w>
+  <w>slysahætta</w>
+  <w>af</w>
+  <w>henni</w>
+  <c>.</c>
+</s>
+<s n="4">
+  <w>Á</w>
+  <w>ellefta</w>
+  <w>tímanum</w>
+  <w>í</w>
+  <w>morgun</w>
+  <w>handtók</w>
+  <revision id="7">
+    <original><w>Reykjavíkurlögreglan</w></original>
+    <corrected><w>lögreglan</w><w>á</w><w>höfuðborgarsvæðinu</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
+  <w>svo</w>
+  <w>mann</w>
+  <revision id="8">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>sem</w>
+  <w>er</w>
+  <w>sterklega</w>
+  <w>grunaður</w>
+  <w>um</w>
+  <w>þjófnaðinn</w>
+  <revision id="9">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
+      </errors>
+  </revision>
+  <w>og</w>
+  <w>á</w>
+  <w>hann</w>
+  <w>afbrotaferil</w>
+  <w>að</w>
+  <w>baki</w>
+  <c>.</c>
+</s>
+</p></body></text>
+</TEI>
