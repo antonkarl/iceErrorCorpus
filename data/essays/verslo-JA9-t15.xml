@@ -264,7 +264,13 @@
   <w>eðlis</w>
   <w>og</w>
   <w>oft</w>
-  <w>á</w>
+  <revision id="2a">
+    <original><w>á</w></original>
+    <corrected><w>og</w></corrected>
+      <errors>
+        <error xtype="collocation" eid="0" />
+      </errors>
+  </revision>
   <w>tíðum</w>
   <w>um</w>
   <w>málefni</w>
@@ -448,7 +454,14 @@
   <w>upphaflega</w>
   <w>út</w>
   <w>frá</w>
-  <w>sígilri</w>
+  <revision id="5a">
+    <original><w>sígilri</w></original>
+    <corrected><w>sígildri</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="5a-1" eid="0" />
+        <error xtype="nonword" idx="5a-1" eid="0" />
+      </errors>
+  </revision>
   <w>tónlist</w>
   <w>hafa</w>
   <w>þessar</w>
@@ -577,7 +590,13 @@
   <w>er</w>
   <w>samkeppnin</w>
   <w>oft</w>
-  <w>á</w>
+  <revision id="6a">
+    <original><w>á</w></original>
+    <corrected><w>og</w></corrected>
+      <errors>
+        <error xtype="collocation" eid="0" />
+      </errors>
+  </revision>
   <w>tíðum</w>
   <w>hörð</w>
   <c>.</c>
