@@ -111,7 +111,13 @@
   <w>það</w>
   <w>svo</w>
   <w>margfalt</w>
-  <w>tilbaka</w>
+  <revision id="4a">
+    <original><w>tilbaka</w></original>
+    <corrected><w>til</w><w>baka</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="6">
   <w>Hann</w>
@@ -405,7 +411,13 @@
   <w>Írakska</w>
   <w>þjóðin</w>
   <w>hefur</w>
-  <w>ennþá</w>
+  <revision id="11a">
+    <original><w>ennþá</w></original>
+    <corrected><w>enn</w><w>þá</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>eitthvað</w>
   <w>til</w>
   <w>að</w>
