@@ -267,7 +267,14 @@
   <w>ættingjum</w>
   <w>á</w>
   <w>allan</w>
-  <w>heimin</w>
+  <revision id="10a">
+    <original><w>heimin</w></original>
+    <corrected><w>heiminn</w></corrected>
+      <errors>
+        <error xtype="n4nn" idx="10a-1" eid="0" />
+        <error xtype="nonword" idx="10a-1" eid="0" />
+      </errors>
+  </revision>
   <w>því</w>
   <w>hann</w>
   <revision id="11">
