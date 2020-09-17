@@ -412,7 +412,14 @@
   <w>nema</w>
   <w>sem</w>
   <w>ná</w>
-  <w>stúdentprófum</w>
+  <revision id="1a">
+    <original><w>stúdentprófum</w></original>
+    <corrected><w>stúdentsprófum</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="1a-1 eid="0" />
+        <error xtype="compound-nonword" idx="1a-1 eid="0" />
+      </errors>
+  </revision>
   <w>myndi</w>
   <w>lækka</w>
   <w>en</w>
