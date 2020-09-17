@@ -278,7 +278,14 @@
   <c>,</c>
   <w>vín</w>
   <c>,</c>
-  <w>fínkiefni</w>
+  <revision id="3a">
+    <original><w>fínkiefni</w></original>
+    <corrected><w>fíkniefni</w></corrected>
+      <errors>
+        <error xtype="swapped-letters" idx="3a-1" eid="0" />
+        <error xtype="compound-nonword" idx="3a-1" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>vændiskonur</w>
   <c>(</c>
@@ -497,8 +504,13 @@
   <w>breyta</w>
   <w>aðstæðum</w>
   <w>í</w>
-  <w>kring</w>
-  <w>um</w>
+  <revision id="3b">
+    <original><w>kring</w><w>um</w></original>
+    <corrected><w>kringum</w></corrected>
+      <errors>
+        <error xtype="split-word" eid="0" />
+      </errors>
+  </revision>
   <w>sig</w>
   <w>og</w>
   <w>það</w>
@@ -763,7 +775,14 @@
   <w>geta</w>
   <w>ekki</w>
   <w>notið</w>
-  <w>lífisins</w>
+  <revision id="5a">
+    <original><w>lífisins</w></original>
+    <corrected><w>lífsins</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="5a-1" eid="0" />
+        <error xtype="nonword" idx="5a-1" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="39">
   <w>Þegar</w>
