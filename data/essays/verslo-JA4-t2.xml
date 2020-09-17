@@ -1303,7 +1303,14 @@
   <w>Í</w>
   <w>kjölfar</w>
   <w>aukinnar</w>
-  <w>þróunnar</w>
+  <revision id="35a">
+    <original><w>þróunnar</w></original>
+    <corrected><w>þróunar</w></corrected>
+      <errors>
+        <error xtype="n4nn" idx="35a-1" eid="0" />
+        <error xtype="nonword" idx="35a-1" eid="0" />
+      </errors>
+  </revision>
   <w>á</w>
   <w>íslenskri</w>
   <w>fjölmiðlastarfsemi</w>
