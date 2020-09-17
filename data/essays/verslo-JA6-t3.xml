@@ -1627,7 +1627,13 @@
   <w>og</w>
   <w>kjör</w>
   <w>hann</w>
-  <w>muna</w>
+  <revision id="58a">
+    <original><w>muna</w></original>
+    <corrected><w>mun</w></corrected>
+      <errors>
+        <error xtype="extra-letter" eid="0" />
+      </errors>
+  </revision>
   <w>lifa</w>
   <w>við</w>
   <c>.</c>
