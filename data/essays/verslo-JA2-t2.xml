@@ -963,7 +963,14 @@
   <w>staður</w>
   <w>þar</w>
   <w>sem</w>
-  <w>lítróf</w>
+  <revision id="27a">
+    <original><w>lítróf</w></original>
+    <corrected><w>litróf</w></corrected>
+      <errors>
+        <error xtype="extra-accent" idx="27a-1" eid="0" />
+        <error xtype="compound-nonword" idx="27a-1" eid="0" />
+      </errors>
+  </revision>
   <w>mannlífsins</w>
   <w>kemur</w>
   <w>saman</w>
@@ -1477,7 +1484,14 @@
   <w>daglegt</w>
   <w>brauð</w>
   <w>því</w>
-  <w>sjáldséð</w>
+    <revision id="41a">
+    <original><w>lítróf</w></original>
+    <corrected><w>litróf</w></corrected>
+      <errors>
+        <error xtype="extra-accent" idx="41a-1" eid="0" />
+        <error xtype="nonword" idx="41a-1" eid="0" />
+      </errors>
+  </revision>
   <w>eru</w>
   <w>hreinræktuð</w>
   <w>heilindi</w>
@@ -1609,7 +1623,13 @@
   <w>blómstri</w>
   <w>sökum</w>
   <w>eigin</w>
-  <w>framagirni</w>
+  <revision id="42a">
+    <original><w>framagirni</w></original>
+    <corrected><w>framagirnd</w></corrected>
+      <errors>
+        <error xtype="compound-nonword" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>sjónarmiða</w>
   <w>sem</w>
@@ -1866,7 +1886,7 @@
   <w>geta</w>
   <w>slegið</w>
   <w>í</w>
-  <w>takt</w>
+  <w>takti</w>
   <w>við</w>
   <w>eigin</w>
   <w>lofsöng</w>

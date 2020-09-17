@@ -261,7 +261,13 @@
 </s><s n="13">
   <w>Fréttir</w>
   <w>berast</w>
-  <w>allstaðar</w>
+  <revision id="1b">
+    <original><w>allstaðar</w></original>
+    <corrected><w>alls</w><w>staðar</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>að</w>
   <w>um</w>
   <w>hryðjuverkaárásir</w>
@@ -271,7 +277,13 @@
   <c>,</c>
   <w>ef</w>
   <w>ekki</w>
-  <w>hundruðir</w>
+  <revision id="1a">
+    <original><w>hundruðir</w></original>
+    <corrected><w>hundruð</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>saklausra</w>
   <w>borgara</w>
@@ -606,7 +618,13 @@
   <w>og</w>
   <w>Arabar</w>
   <w>voru</w>
-  <w>allstaðar</w>
+  <revision id="3a">
+    <original><w>allstaðar</w></original>
+    <corrected><w>alls</w><w>staðar</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>litnir</w>
   <w>hornauga</w>
   <c>(</c>
@@ -636,7 +654,13 @@
   <w>ETA-samtökin</w>
   <w>standi</w>
   <w>á</w>
-  <w>bakvið</w>
+  <revision id="3b">
+    <original><w>bakvið</w></original>
+    <corrected><w>bak</w><w>við</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="30">
   <w>Þessi</w>

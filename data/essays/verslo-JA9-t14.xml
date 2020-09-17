@@ -155,7 +155,13 @@
   <c>?</c>
 </s><s n="7">
   <w>En</w>
-  <w>afhverju</w>
+  <revision id="4a">
+    <original><w>afhverju</w></original>
+    <corrected><w>af</w><w>hverju</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>gerast</w>
   <w>slæmir</w>
   <w>hlutir</w>
