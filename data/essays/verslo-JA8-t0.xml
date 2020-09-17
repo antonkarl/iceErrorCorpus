@@ -210,7 +210,14 @@
   <w>sér</w>
   <c>.</c>
 </s><s n="9">
-  <w>Nýjir</w>
+  <revision id="6a">
+    <original><w>Nýjir</w></original>
+    <corrected><w>Nýirt</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="6a-1" eid="0" />
+        <error xtype="nonword" idx="6a-1" eid="0" />
+      </errors> 
+  </revision>
   <w>tímar</w>
   <w>eru</w>
   <w>teknir</w>
@@ -301,7 +308,13 @@
   <w>tekið</w>
   <w>gífurlegum</w>
   <w>breytingum</w>
-  <w>víðsvegar</w>
+  <revision id="14">
+    <original><w>víðsvegar</w></original>
+    <corrected><w>víðs</w><w>vegar</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>um</w>
   <w>heiminn</w>
   <c>.</c>
@@ -590,7 +603,6 @@
 </s><s n="26">
   <w>Þetta</w>
   <w>er</w>
-  <w>hneysa</w>
   <revision id="21b">
     <original><w>hneysa</w></original>
     <corrected><w>hneisa</w></corrected>
@@ -1335,7 +1347,13 @@
   <w>geta</w>
   <w>fagnað</w>
   <w>eru</w>
-  <w>hinsvegar</w>
+  <revision id="51a">
+    <original><w>hinsvegar</w></original>
+    <corrected><w>hins</w><w>vegar</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>útflutningsfyrirtækin</w>
   <w>sem</w>
   <w>fá</w>
@@ -1407,7 +1425,14 @@
   <w>eiga</w>
   <w>allir</w>
   <w>þegnar</w>
-  <w>ríkissins</w>
+  <revision id="52a">
+    <original><w>ríkissins</w></original>
+    <corrected><w>ríkisins</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="52a-1" eid="0" />
+        <error xtype="nonword" idx="52a-1" eid="0" />
+      </errors> 
+  </revision>
   <w>að</w>
   <w>standa</w>
   <w>upp</w>
