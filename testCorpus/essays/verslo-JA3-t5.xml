@@ -111,6 +111,13 @@
   <w>best</w>
   <c>,</c>
   <w>þó</w>
+  <revision id="6b">
+    <original></original>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
   <w>það</w>
   <w>sé</w>
   <w>varla</w>
@@ -855,6 +862,13 @@
   <w>tilfinningum</w>
   <c>,</c>
   <w>þó</w>
+  <revision id="29b">
+    <original></original>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
   <w>þau</w>
   <revision id="30">
     <original><w>vita</w></original>
@@ -934,12 +948,12 @@
   <c>.</c>
 </s><s n="27">
   <w>Þó</w>
+  <w>að</w>
   <revision id="33">
-    <original><w>að</w><c>,</c></original>
+    <original><c>,</c></original>
     <corrected/>
       <errors>
-        <error xtype="extra-word" idx="23-1" eid="0"/>
-        <error xtype="style" idx="23-1" eid="0"/>
+        <error xtype="extra-comma" eid="0"/>
       </errors>
   </revision>
   <w>stundum</w>
@@ -1070,6 +1084,13 @@
   <c>(</c>
   <w>jafnvel</w>
   <w>þó</w>
+  <revision id="38b">
+    <original></original>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
   <w>það</w>
   <w>vekji</w>
   <w>upp</w>

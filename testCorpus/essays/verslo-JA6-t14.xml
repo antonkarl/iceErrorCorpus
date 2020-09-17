@@ -135,7 +135,14 @@
   <w>fyrir</w>
   <w>sér</w>
   <w>hvort</w>
-  <w>að</w>
+  <revision id="5b">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="5b-1" eid="0"/>
+        <error xtype="style" idx="5b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>maður</w>
   <w>ætli</w>
   <w>að</w>
@@ -144,7 +151,14 @@
   <w>kvöldmat</w>
   <w>eða</w>
   <w>hvort</w>
-  <w>að</w>
+  <revision id="5c">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="5c-1" eid="0"/>
+        <error xtype="style" idx="5c-1" eid="0"/>
+      </errors>
+  </revision>
   <w>börnin</w>
   <w>fái</w>
   <w>að</w>
@@ -244,12 +258,19 @@
   <w>eftir</w>
   <w>því</w>
   <w>sem</w>
-  <w>að</w>
+  <revision id="8b">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="8b-1" eid="0"/>
+        <error xtype="style" idx="8b-1" eid="0"/>
+      </errors>
+  </revision>
   <revision id="9">
     <original><w>manni</w></original>
     <corrected><w>mann</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="dative-sub" eid="0"/>
       </errors>
   </revision>
   <w>langar</w>
@@ -835,7 +856,14 @@
   <w>fyrir</w>
   <w>mér</w>
   <w>hvort</w>
-  <w>að</w>
+  <revision id="38b">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="38b-1" eid="0"/>
+        <error xtype="style" idx="38b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>Liverpool</w>
   <w>eigi</w>
   <w>eftir</w>

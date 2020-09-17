@@ -853,6 +853,13 @@
   </revision>
   <w>jafnvel</w>
   <w>þó</w>
+  <revision id="25b">
+    <original></original>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
   <w>hún</w>
   <w>gefi</w>
   <w>kannski</w>
@@ -949,7 +956,14 @@
   <w>að</w>
   <w>því</w>
   <w>hvort</w>
-  <w>að</w>
+  <revision id="28b">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="28b-1" eid="0"/>
+        <error xtype="style" idx="20b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>próf</w>
   <w>ættu</w>
   <w>rétt</w>

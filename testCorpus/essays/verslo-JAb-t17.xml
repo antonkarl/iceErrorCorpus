@@ -426,7 +426,14 @@
   <w>sjá</w>
   <w>til</w>
   <w>hvort</w>
-  <w>að</w>
+  <revision id="19b">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="19b-1" eid="0"/>
+        <error xtype="style" idx="19b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>ég</w>
   <revision id="20">
     <original><w>kemst</w></original>
@@ -589,7 +596,14 @@
   <w>þeirri</w>
   <w>vinnu</w>
   <w>sem</w>
-  <w>að</w>
+  <revision id="27b">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="27b-1" eid="0"/>
+        <error xtype="style" idx="27b-1" eid="0"/>
+      </errors>
+  </revision>
   <revision id="28">
     <original><w>þér</w></original>
     <corrected><w>þig</w></corrected>
@@ -1003,7 +1017,14 @@
   <w>þá</w>
   <w>hluti</w>
   <w>sem</w>
-  <w>að</w>
+  <revision id="55b">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="55b-1" eid="0"/>
+        <error xtype="style" idx="55b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>það</w>
   <w>getur</w>
   <w>byggt</w>
@@ -1152,7 +1173,14 @@
   <w>eða</w>
   <w>þeir</w>
   <w>sem</w>
-  <w>að</w>
+  <revision id="63b">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="63b-1" eid="0"/>
+        <error xtype="style" idx="63b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>eru</w>
   <w>að</w>
   <w>mennta</w>
