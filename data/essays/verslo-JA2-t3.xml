@@ -175,6 +175,13 @@
 </s><s n="9">
   <w>Foreldrar</w>
   <w>B</w>
+  <revision id="4a">
+    <original></original>
+    <corrected><w>.</w></corrected>
+      <errors>
+        <error xtype="missing-period" eid="0" />
+      </errors>
+  </revision>
   <w>eru</w>
   <w>einnig</w>
   <w>fátækir</w>
@@ -396,7 +403,14 @@
   <w>Hver</w>
   <w>nemandi</w>
   <w>á</w>
-  <w>framahaldsskólastigi</w>
+   <revision id="9a">
+    <original><w>framahaldsskólastigi</w></original>
+    <corrected><w>framhaldsskólastigi</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="9a-1" eid="0" />
+	<error xtype="compound-nonword" idx="9a-1" eid="0" />
+      </errors>
+  </revision>
   <w>kostar</w>
   <w>ríkissjóð</w>
   <w>árlega</w>
@@ -651,6 +665,13 @@
 </s><s n="31">
   <w>Foreldrar</w>
   <w>A</w>
+  <revision id="15a">
+    <original></original>
+    <corrected><w>.</w></corrected>
+      <errors>
+        <error xtype="missing-period" eid="0" />
+      </errors>
+  </revision>
   <w>eru</w>
   <w>fátækir</w>
   <w>en</w>
@@ -866,7 +887,14 @@
   <w>skólastarfi</w>
   <w>og</w>
   <w>hvaða</w>
-  <w>rekstarform</w>
+  <revision id="17a">
+    <original><w>rekstarform</w></original>
+    <corrected><w>rekstrarform</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="17a-1" eid="0" />
+	<error xtype="compound-nonword" idx="17a-1" eid="0" />
+      </errors>
+  </revision>
   <w>sé</w>
   <w>vænlegast</w>
   <w>til</w>
@@ -1433,7 +1461,13 @@
   <w>lækka</w>
   <w>allan</w>
   <w>rekstrarkostnað</w>
-  <w>umstalsvert</w>
+  <revision id="27a">
+    <original><w>umstalsvert</w></original>
+    <corrected><w>umtalsvert</w></corrected>
+      <errors>
+        <error xtype="compound-nonword" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>á</w>
   <w>sama</w>
