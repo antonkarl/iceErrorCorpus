@@ -310,7 +310,13 @@
   <w>lengra</w>
   <w>fyrir</w>
   <w>innan</w>
-  <w>geysaði</w>
+  <revision id="16">
+    <original><w>geysaði</w></original>
+    <corrected><w>geisaði</w></corrected>
+      <errors>
+        <error xtype="y4i" eid="0" />
+      </errors>
+  </revision>
   <w>óveður</w>
   <c>.</c>
 </s><s n="13">
@@ -327,7 +333,13 @@
   <w>bílsætið</w>
   <w>og</w>
   <w>ríghélt</w>
-  <w>ennþá</w>
+  <revision id="16a">
+    <original><w>ennþá</w></original>
+    <corrected><w>enn</w><w>þá</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>í</w>
   <w>bakpokann</w>
   <w>eins</w>
@@ -1144,7 +1156,13 @@
   <w>Ég</w>
   <w>veit</w>
   <w>ekki</w>
-  <w>ennþá</w>
+  <revision id="23a">
+    <original><w>ennþá</w></original>
+    <corrected><w>enn</w><w>þá</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>hvers</w>
   <w>vegna</w>
   <w>ég</w>
