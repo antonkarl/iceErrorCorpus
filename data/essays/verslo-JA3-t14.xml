@@ -135,8 +135,14 @@
 </s>
 <s n="3b">
   <w>Þegar</w>
-  <w>grunnskóla</w>
-  <w>líkur</w>
+  <w>grunnskóla</w>  
+  <revision id="16">
+    <original><w>líkur</w></original>
+    <corrected><w>lýkur</w></corrected>
+      <errors>
+        <error xtype="í4ý" eid="0" />
+      </errors>
+  </revision>
   <w>þykir</w>
   <w>sjálfsagt</w>
   <w>mál</w>
@@ -965,7 +971,13 @@
   <w>um</w>
   <w>ef</w>
   <w>tækifærið</w>
-  <w>biðist</w>
+  <revision id="45a">
+    <original><w>biðist</w></original>
+    <corrected><w>byðist</w></corrected>
+      <errors>
+        <error xtype="i4y" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="28">
   <w>Hver</w>
@@ -1074,7 +1086,13 @@
   <w>lýsingarnar</w>
   <w>eru</w>
   <w>oft</w>
-  <w>á</w>
+  <revision id="49a">
+    <original><w>á</w></original>
+    <corrected><w>og</w></corrected>
+      <errors>
+        <error xtype="collocation" eid="0" />
+      </errors>
+  </revision>
   <w>tíðum</w>
   <w>þannig</w>
   <w>að</w>
@@ -1990,7 +2008,13 @@
   <w>framhaldsskóla</w>
   <w>eru</w>
   <w>oft</w>
-  <w>á</w>
+  <revision id="88a">
+    <original><w>á</w></original>
+    <corrected><w>og</w></corrected>
+      <errors>
+        <error xtype="collocation" eid="0" />
+      </errors>
+  </revision>
   <w>tíðum</w>
   <w>litnir</w>
   <w>hálfgerðu</w>
