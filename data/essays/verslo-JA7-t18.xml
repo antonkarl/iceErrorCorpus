@@ -19,7 +19,14 @@
   <w>mér</w>
   <c>.</c>
 </s><s n="2">
-  <w>Spurninginn</w>
+  <revision id="1a">
+    <original><w>Spurninginn</w></original>
+    <corrected><w>Spurningin</w></corrected>
+      <errors>
+        <error xtype="nn4n" idx="1a-1" eid="0" />
+        <error xtype="nonword" idx="1a-1" eid="0" />
+      </errors>
+  </revision>
   <w>er</w>
   <w>líka</w>
   <w>hvort</w>
@@ -207,7 +214,13 @@
 </s><s n="9">
   <w>Nýir</w>
   <w>tímar</w>
-  <w>framundan</w>
+  <revision id="3a">
+    <original><w>framundan</w></original>
+    <corrected><w>fram</w><w>undan</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="10">
   <w>Í</w>
