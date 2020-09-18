@@ -240,7 +240,14 @@
   <w>er</w>
   <w>að</w>
   <w>einhverju</w>
-  <w>leiti</w>
+  <revision id="3a">
+    <original><w>leiti</w></original>
+    <corrected><w>leyti</w></corrected>
+      <errors>
+        <error xtype="collocation-idiom" idx="3a-1" eid="0" />
+        <error xtype="i4y" idx="3a-1" eid="0" />
+      </errors>
+  </revision>
   <w>jákvætt</w>
   <w>líka</w>
   <w>vegna</w>
@@ -699,7 +706,14 @@
       </errors>
   </revision>
   <w>í</w>
-  <w>taumanna</w>
+  <revision id="19a">
+    <original><w>taumanna</w></original>
+    <corrected><w>taumana</w></corrected>
+      <errors>
+        <error xtype="collocation-idiom" idx="19a-1" eid="0" />
+        <error xtype="nn4n" idx="19a-1" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>eða</w>
   <w>hvað</w>
