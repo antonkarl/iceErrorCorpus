@@ -182,7 +182,13 @@
   <w>setningu</w>
   <w>hafa</w>
   <w>allir</w>
-  <w>einhverntíman</w>
+  <revision id="2a">
+    <original><w>einhverntíman</w></original>
+    <corrected><w>einhvern</w><w>tímann</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>heyrt</w>
   <w>og</w>
   <w>þá</w>
