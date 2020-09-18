@@ -104,7 +104,7 @@
   <w>út</w>
   <w>plöturnar</w>
   <w><hi>A</hi></w>
-  <w>ZFever</w>
+  <w><hi>Fever</hi></w>
   <w><hi>You</hi></w>
   <w><hi>Can't</hi></w>
   <w><hi>Sweat</hi></w>
@@ -142,9 +142,8 @@
   <w><hi>Down</hi></w>
   <w>og</w>
   <w><hi>Dance</hi></w>
-  <c>,</c>
-  <w><i/></w>
-  <w>DanceZ</w>
+  <c><hi>,</hi></c>
+  <w><hi>Dance</hi></w>
   <w>af</w>
   <w>henni</w>
   <w>mjög</w>
@@ -737,9 +736,23 @@
   <w>út</w>
   <w>samnefnda</w>
   <w>plötu</w>
-  <w>ZBlink</w>
-  <c>-</c>
-  <w>182Z</w>
+  <revision id="25b">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-commas" idx="25b-1" eid="0"/>
+      </errors>
+  </revision>
+  <w><hi>Blink</hi></w>
+  <c><hi>-</hi></c>
+  <w><hi>182</hi></w>
+  <revision id="25c">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="dep" depId="25b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>árið 2003</w>
   <w>og</w>
   <w>á</w>
