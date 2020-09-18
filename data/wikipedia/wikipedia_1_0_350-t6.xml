@@ -45,16 +45,7 @@
   <w>Gödel</w>
   <c>,</c>
   <w>listamannsins</w>
-  <revision id="1">
-    <original><w>M.</w><w>C</w></original>
-    <corrected><w>M.C</w></corrected>
-      <errors>
-        <error xtype="extra-space" eid="0" />
-      </errors>
-  </revision>
-  <c>.</c>
-</s>
-<s n="2">
+  <w>M.C.</w>
   <w>Escher</w>
   <w>og</w>
   <w>tónskáldsins</w>
@@ -73,7 +64,13 @@
   <w>á</w>
   <w>milli</w>
   <w>stærðfræði</w>
-  <w>og</w>
+  <revision id="3">
+    <original><w>og</w></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
   <w>greindar</w>
   <w>og</w>
   <w>listar</w>

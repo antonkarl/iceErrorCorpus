@@ -1167,7 +1167,14 @@
   <w>kirkjunnar</w>
   <w>má</w>
   <w>finna</w>
-  <w>forlátt</w>
+  <revision id="44b">
+    <original><w>forlátt</w></original>
+    <corrected><w>forláta</w></corrected>
+      <errors>
+        <error xtype="letter-rep" idx="44b-1" eid="0"/>
+        <error xtype="nonword" idx="44b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>klukknaspil</w>
   <w>sem</w>
   <w>upphaflega</w>
@@ -1322,7 +1329,13 @@
   <w>né</w>
   <w>Friðrik</w>
   <w>5.</w>
-  <w>danakonungur</w>
+  <revision id="48b">
+    <original><w>danakonungur</w></original>
+    <corrected><w>Danakonungur</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
   <w>hafi</w>
   <w>verið</w>
   <w>óánægðir</w>

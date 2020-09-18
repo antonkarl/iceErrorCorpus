@@ -374,7 +374,14 @@
   <w>og</w>
   <w>Eþíópíu</w>
   <w>og</w>
-  <w>gengdi</w>
+  <revision id="13b">
+    <original><w>gengdi</w></original>
+    <corrected><w>gegndi</w></corrected>
+      <errors>
+        <error xtype="swapped-letters" idx="13b-1" eid="0" />
+        <error xtype="nonword" idx="13b-1" eid="0" />
+      </errors>
+  </revision>
   <w>trúnaðarstörfum</w>
   <w>sem</w>
   <w>slíkur</w>
@@ -434,6 +441,13 @@
   <w>með</w>
   <w>eigin</w>
   <w>rekstur</w>
+  <revision id="14b">
+    <original></original>
+    <corrected><w>til</w><w>ársins</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
   <w>2000</w>
   <w>og</w>
   <w>starfaði</w>
@@ -441,6 +455,13 @@
   <w>yfirmaður</w>
   <w>nýmiðlunar</w>
   <w>og</w>
+  <revision id="14c">
+    <original></original>
+    <corrected><w>sem</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
   <w>rekstrarstjóri</w>
   <w>hjá</w>
   <w>Eddu-miðlun</w>

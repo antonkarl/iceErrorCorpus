@@ -251,7 +251,13 @@
   <w>verðlaunin</w>
   <w><hi>Uppáhalds</hi></w>
   <w><hi>nýi</hi></w>
-  <w><hi>sjónvarps-gaman-þátturinn</hi></w>
+  <revision id="14b">
+    <original><w><hi>sjónvarps-gaman-þátturinn</hi></w></original>
+    <corrected><w><hi>sjónvarpsgamanþátturinn</hi></w></corrected>
+      <errors>
+        <error xtype="extra-dash" eid="0"/>
+      </errors>
+  </revision>
   <w>á</w>
   <w>38.</w>
   <w>áhorfendaverðlaununum</w>
@@ -261,6 +267,15 @@
   <w><hi>Choice</hi></w>
   <w><hi>Awards</hi></w>
   <c>)</c>
+  <revision id="14c">
+    <original></original>
+    <corrected><c>.</c></corrected>
+      <errors>
+        <error xtype="missing-period" eid="0"/>
+      </errors>
+  </revision>
+</s>
+<s n="6b">
   <w>Þann</w>
   <w>14. mars 2012</w>
   <w>tilkynnti</w>
@@ -273,8 +288,7 @@
   <w>aðra</w>
   <w>þáttaröð</w>
   <w>af</w>
-  <w><i/></w>
-  <w>2Z</w>
+  <w><hi>2</hi></w>
   <w><hi>Broke</hi></w>
   <w><hi>Girls</hi></w>
   <w>sem</w>

@@ -45,7 +45,13 @@
       </errors>
   </revision>
   <c>(</c>
-  <w>samantekin</w>
+  <revision id="2b">
+    <original><w>samantekin</w></original>
+    <corrected><w>tekin</w><w>saman</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
   <w>af</w>
   <w>Einari</w>
   <w>Ól</w>
@@ -577,7 +583,13 @@
   <w>Á.</w>
   <w>Árnasyni</w>
   <c>,</c>
-  <w>listfengnum</w>
+  <revision id="33b">
+    <original><w>listfengnum</w></original>
+    <corrected><w>listhneigðum</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0"/>
+      </errors>
+  </revision>
   <w>þúsundþjalasmiði</w>
   <c>.</c>
 </s><s n="20">
@@ -789,6 +801,15 @@
   <w>útgáfu</w>
   <w>mágs</w>
   <w>síns</w>
+  <revision id="47b">
+    <original><c>.</c></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="period4comma" eid="0"/>
+      </errors>
+  </revision>
+  <w>Ársæls</w>
+  <w>Árnasonar</w>
   <c>.</c>
 </s><s n="27">
   <w>Þau</w>
@@ -1100,10 +1121,6 @@
   </revision>
   <w>í</w>
   <w>Petersfield</w>
-  <c>.</c>
-</s><s n="43">
-  <w>Ársæls</w>
-  <w>Árnasonar</w>
   <c>.</c>
 </s></p></body></text>
 </TEI>

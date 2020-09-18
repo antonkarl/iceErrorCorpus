@@ -534,13 +534,13 @@
   </revision>
   <w>99%</w>
   <revision id="16">
-    <original><w>íbúanna</w></original>
-    <corrected><w>íbúa</w><w>Sansibar</w></corrected>
+    <original><w>íbúanna</w><w>múslimar</w></original>
+    <corrected><w>íbúa</w><w>Sansibar</w><w>múslímar</w></corrected>
       <errors>
         <error xtype="dep" depId="66-1" eid="0"/>
+        <error xtype="missing-accent" eid="0"/>
       </errors>
   </revision>
-  <w>múslimar</w>
   <c>.</c>
 </s><s n="25">
   <w>Í</w>
@@ -1539,7 +1539,13 @@
   <w>íbúa</w>
   <w>Tansaníu</w>
   <w>eru</w>
-  <w>múslimar</w>
+  <revision id="66b">
+    <original><w>múslimar</w></original>
+    <corrected><w>múslímar</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0"/>
+      </errors>
+  </revision>
   <c>,</c>
   <revision id="67">
     <original><w>um</w></original>
