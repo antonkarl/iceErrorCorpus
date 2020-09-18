@@ -290,7 +290,7 @@
   <w>af</w>
   <revision id="3">
     <original><w>ýmiskonar</w></original>
-    <corrected><w>ýmis</w><w>konar</w></corrected>
+    <corrected><w>ýmiss</w><w>konar</w></corrected>
       <errors>
         <error xtype="merged-words" eid="0"/>
       </errors>
@@ -957,7 +957,13 @@
   <w>útskýra</w>
   <w>fyrir</w>
   <w>börnum</w>
-  <w>afleiðiðingar</w>
+  <revision id="9a">
+    <original><w>afleiðiðingar</w></original>
+    <corrected><w>afleiðingar</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
   <w>gjörða</w>
   <w>sinna</w>
   <w>og</w>
