@@ -154,7 +154,13 @@
   <w>fólk</w>
   <w>nú</w>
   <w>til</w>
-  <w>dag</w>
+  <revision id="2a">
+    <original><w>dag</w></original>
+    <corrected><w>dags</w></corrected>
+      <errors>
+        <error xtype="collocation" eid="0" />
+      </errors>
+  </revision>
   <w>sé</w>
   <w>nokkuð</w>
   <w>auðveld</w>
