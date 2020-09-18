@@ -82,7 +82,10 @@
   <c>,</c>
   <w>3390</w>
   <w>og</w>
-  <w>3395.</w>
+  <w>3395</w>
+  <c>.</c>
+</s>
+<s n="3b">
   <w>3310</w>
   <c>-</c>
   <w>síminn</w>
@@ -450,7 +453,15 @@
   <w>vista</w>
   <w>stillingar</w>
   <w>í</w>
-  <w>svökölluðu</w>
+  <revision id="11b">
+    <original><w>svökölluðu</w></original>
+    <corrected><w>svokölluðum</w></corrected>
+      <errors>
+        <error xtype="letter-rep" idx="11b-1" eid="0" />
+        <error xtype="agreement-concord" idx="11b-1" eid="0" />
+        <error xtype="nonword" idx="11b-1" eid="0" />
+      </errors>
+  </revision>
   <c>„</c>
   <w>prófílum</w>
   <c>“</c>

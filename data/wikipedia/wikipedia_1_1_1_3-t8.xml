@@ -381,7 +381,13 @@
   <w>eitt</w>
   <w>allra</w>
   <w>besta</w>
-  <w>rugbylið</w>
+  <revision id="12b">
+    <original><w>rugbylið</w></original>
+    <corrected><w>rugby-lið</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0"/>
+      </errors>
+  </revision>
   <w>Belgíu</w>
   <c>.</c>
 </s><s n="20">

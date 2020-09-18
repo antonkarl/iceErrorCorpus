@@ -153,7 +153,13 @@
   <w>þrátt</w>
   <w>fyrir</w>
   <w>að</w>
-  <w>hlutverkið</w>
+  <revision id="8b">
+    <original><w>hlutverkið</w></original>
+    <corrected><w>það</w></corrected>
+      <errors>
+        <error xtype="noun4pro" eid="0"/>
+      </errors>
+  </revision>
   <w>væri</w>
   <w>lítið</w>
   <c>.</c>

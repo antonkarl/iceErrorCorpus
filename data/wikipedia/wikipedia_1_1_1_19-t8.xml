@@ -125,7 +125,13 @@
   <w>hundruð</w>
   <w>manna</w>
   <w>sem</w>
-  <w>áttu</w>
+  <revision id="2b">
+    <original><w>áttu</w></original>
+    <corrected><w>átti</w></corrected>
+      <errors>
+        <error xtype="agreement-pred" eid="0"/>
+      </errors>
+  </revision>
   <w>að</w>
   <w>sitja</w>
   <w>í</w>
@@ -420,14 +426,7 @@
   <w>ýmissa</w>
   <w>grasa</w>
   <c>,</c>
-  <revision id="5">
-    <original><w>m.</w><w>a</w><c>.</c></original>
-    <corrected><w>m.a.</w></corrected>
-      <errors>
-        <error xtype="extra-space" idx="17-1" eid="0"/>
-        <error xtype="extra-space" idx="17-1" eid="0"/>
-      </errors>
-  </revision>
+  <w>m.a.</w>
   <w>fínvefnað</w>
   <w>úr</w>
   <w>Nottingham</w>
@@ -986,7 +985,13 @@
   <w>var</w>
   <w>hluti</w>
   <w>hans</w>
-  <w>orðin</w>
+  <revision id="19b">
+    <original><w>orðin</w></original>
+    <corrected><w>orðinn</w></corrected>
+      <errors>
+        <error xtype="agreement-pred" eid="0"/>
+      </errors>
+  </revision>
   <w>það</w>
   <w>lélegur</w>
   <w>að</w>

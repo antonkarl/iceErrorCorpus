@@ -95,7 +95,15 @@
   <w>vinnu</w>
   <w>sína</w>
   <w>og</w>
-  <w>kvennfélögin</w>
+  <revision id="2b">
+    <original><w>kvennfélögin</w></original>
+    <corrected><w>kvenfélögin</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="2b-1" eid="0"/>
+        <error xtype="pronun-writing" idx="2b-1" eid="0"/>
+        <error xtype="nonword" idx="2b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>lögðu</w>
   <w>til</w>
   <w>fjármagn</w>

@@ -179,7 +179,13 @@
   <w>hinna</w>
   <w>ýmsu</w>
   <w>halla</w>
-  <w>Búrgundara</w>
+  <revision id="6b">
+    <original><w>Búrgundara</w></original>
+    <corrected><w>Búrgunda</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>einkum</w>
   <w>þó</w>

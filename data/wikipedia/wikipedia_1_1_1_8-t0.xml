@@ -711,7 +711,13 @@
 </s><s n="20">
   <w>Um</w>
   <w>þetta</w>
-  <w>leiti</w>
+  <revision id="25b">
+    <original><w>leiti</w></original>
+    <corrected><w>leyti</w></corrected>
+      <errors>
+        <error xtype="i4y" eid="0"/>
+      </errors>
+  </revision>
   <w>bættust</w>
   <w>tveir</w>
   <w>meðlimir</w>
@@ -745,7 +751,13 @@
   <w>fíkniefnasöluna</w>
   <c>.</c>
 </s><s n="22">
-  <w>Margir</w>
+  <revision id="25c">
+    <original><w>Margir</w></original>
+    <corrected><w>Mörgum</w></corrected>
+      <errors>
+        <error xtype="adjective-inflection" eid="0"/>
+      </errors>
+  </revision>
   <w>af</w>
   <w>rapplistamönnum</w>
   <w>austurstrandarinnar</w>
@@ -817,7 +829,13 @@
 </s><s n="25">
   <w>Þá</w>
   <w>mættust</w>
-  <w>meðlimi</w>
+  <revision id="27b">
+    <original><w>meðlimi</w></original>
+    <corrected><w>meðlimir</w></corrected>
+      <errors>
+        <error xtype="missing-letter" eid="0"/>
+      </errors>
+  </revision>
   <w>Bad</w>
   <w>Boy</w>
   <w>og</w>

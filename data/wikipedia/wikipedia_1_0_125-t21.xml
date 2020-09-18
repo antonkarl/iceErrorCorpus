@@ -76,7 +76,13 @@
   <c>.</c>
 </s>
 <s n="3">
-  <w>þar</w>
+  <revision id="2b">
+    <original><w>þar</w></original>
+    <corrected><w>Þar</w></corrected>
+      <errors>
+        <error xtype="lower4upper-initial" eid="0" />
+      </errors>
+  </revision>
   <w>sest</w>
   <w>bergmylsnan</w>
   <w>fyrir</w>

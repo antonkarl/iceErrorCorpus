@@ -89,7 +89,15 @@
   <w>Írak</w>
   <w>en</w>
   <w>neitað</w>
-  <w>íröskum- og öðrum</w>
+  <revision id="1b">
+    <original><w>íröskum-</w></original>
+    <corrected><w>íröskum</w></corrected>
+      <errors>
+        <error xtype="extra-dash" eid="0"/>
+      </errors>
+  </revision>
+  <w>og</w> 
+  <w>öðrum</w>
   <w>erlendum</w>
   <w>fyrirtækjum</w>
   <w>aðkomu</w>

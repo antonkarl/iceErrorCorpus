@@ -786,7 +786,13 @@
   <w>á</w>
   <w>borð</w>
   <w>við</w>
-  <c>:</c>
+  <revision id="48b">
+    <original><c>:</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-colon" eid="0"/>
+      </errors>
+  </revision>
   <w><hi>Mrs.</hi></w>
   <w><hi>Columbo</hi></w>
   <c>,</c>
@@ -1084,14 +1090,28 @@
   <w>í</w>
   <w>San</w>
   <w>Diego</w>
-  <c>,</c>
+  <revision id="66">
+    <original><c>,</c></original>
+    <corrected><w>í</w></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0"/>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
   <w>Kaliforníu</w>
   <w>en</w>
   <w>ólst</w>
   <w>upp</w>
   <w>í</w>
   <w>Flagstaff</w>
-  <c>,</c>
+  <revision id="67">
+    <original><c>,</c></original>
+    <corrected><w>í</w></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0"/>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
   <w>Arizona</w>
   <c>.</c>
 </s></p></body></text>

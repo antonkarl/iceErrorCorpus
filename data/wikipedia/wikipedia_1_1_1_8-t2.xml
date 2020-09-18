@@ -156,8 +156,14 @@
   <c>.</c>
 </s><s n="6">
   <w>Kaflar</w>
-  <w>fyrstu</w>
-  <w>mósebókar</w>
+  <revision id="4b">
+    <original><w>fyrstu</w><w>mósebókar</w></original>
+    <corrected><w>Fyrstu</w><w>Mósebókar</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
   <w>eru</w>
   <w>50</w>
   <c>.</c>
@@ -492,7 +498,13 @@
   <w>34.</w>
   <w>kafli</w>
   <w>5.</w>
-  <w>mósebókar</w>
+  <revision id="11b">
+    <original><w>mósebókar</w></original>
+    <corrected><w>Mósebókar</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
   <c>)</c>
   <c>.</c>
 </s><s n="23">
@@ -520,12 +532,25 @@
   <w>2.</w>
   <w>kafla</w>
   <w>1.</w>
-  <w>mósebókar</w>
+  <revision id="11c">
+    <original><w>mósebókar</w></original>
+    <corrected><w>Mósebókar</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
   <w>má</w>
   <w>greina</w>
   <w>áhrif</w>
   <w>frá</w>
-  <w>babýlónísku</w>
+  <revision id="11d">
+    <original><w>babýlónísku</w></original>
+    <corrected><w>babýlonísku</w></corrected>
+      <errors>
+        <error xtype="extra-accent" idx="11d-1" eid="0"/>
+        <error xtype="nonword" idx="11d-1" eid="0"/>
+      </errors>
+  </revision>
   <w>sköpunarsögunni</w>
   <w>Enuma</w>
   <w>Elish</w>
@@ -664,7 +689,13 @@
   </revision>
   <w>en</w>
   <w>í</w>
-  <w>mósebók</w>
+  <revision id="14b">
+    <original><w>mósebók</w></original>
+    <corrected><w>Mósebók</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
   <w>borða</w>
   <w>Adam</w>
   <w>og</w>
@@ -747,7 +778,13 @@
   <w>töluvert</w>
   <w>eldri</w>
   <w>en</w>
-  <w>mósebækur</w>
+  <revision id="15b">
+    <original><w>mósebækur</w></original>
+    <corrected><w>Mósebækur</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="36">
   <w>Fyrstu</w>

@@ -364,7 +364,14 @@
   <w>Stjórnin</w>
   <w>vann</w>
   <w>að</w>
-  <w>þvi</w>
+  <revision id="12b">
+    <original><w>þvi</w></original>
+    <corrected><w>því</w></corrected>
+      <errors>
+        <error xtype="missing-accent" idx="12b-1" eid="0" />
+        <error xtype="nonword" idx="12b-1" eid="0" />
+      </errors>
+  </revision>
   <w>að</w>
   <w>gera</w>
   <w>samninga</w>
@@ -404,7 +411,7 @@
     <original><w>höfðu</w></original>
     <corrected><w>hafði</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0" />
+        <error xtype="agreement-pred" eid="0" />
       </errors>
   </revision>
   <w>bækistöðvar</w>
@@ -601,7 +608,13 @@
 </s>
 <s n="27">
   <w>Eftir</w>
-  <w>heimstyrjöldina</w>
+  <revision id="20b">
+    <original><w>heimstyrjöldina</w></original>
+    <corrected><w>heimsstyrjöldina</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" eid="0" />
+      </errors>
+  </revision>
   <w>síðari</w>
   <w>fannst</w>
   <w>olía</w>
@@ -774,7 +787,13 @@
   <w>af</w>
   <w>íbúum</w>
   <w>Alberta</w>
-  <w>búa</w>
+  <revision id="26b">
+    <original><w>búa</w></original>
+    <corrected><w>býr</w></corrected>
+      <errors>
+        <error xtype="agreement-pred" eid="0" />
+      </errors>
+  </revision>
   <w>í</w>
   <w>þéttbýli</w>
   <w>og</w>
@@ -1083,13 +1102,7 @@
   <w>má</w>
   <w>finna</w>
   <w>eru</w>
-  <revision id="36">
-    <original><w>m.</w><w>a</w><c>.</c></original>
-    <corrected><w>m.a.</w></corrected>
-      <errors>
-        <error xtype="extra-space" eid="0" />
-      </errors>
-  </revision>
+  <w>m.a.</w>
   <w>hvítgreni</w>
   <c>,</c>
   <w>blágreni</w>

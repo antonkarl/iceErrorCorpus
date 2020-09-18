@@ -47,11 +47,11 @@
   <w>spratt</w>
   <w>drúsahreyfingin</w>
   <w>úr</w>
-  <w>sjía</w>
   <revision id="1">
-    <original><w>íslam</w></original>
-    <corrected><w>grein</w><w>íslams</w></corrected>
+    <original><w>sjía</w><w>íslam</w></original>
+    <corrected><w>sjía-grein</w><w>íslams</w></corrected>
       <errors>
+        <error xtype="missing-dash" eid="0"/>
         <error xtype="wording" eid="0"/>
       </errors>
   </revision>

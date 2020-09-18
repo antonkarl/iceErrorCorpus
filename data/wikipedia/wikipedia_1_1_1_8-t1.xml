@@ -1434,8 +1434,14 @@
   <w>forstjóri</w>
   <w>A.</w>
   <w>N.</w>
-  <w>Bakh</w>
-  <w>vísindastofnunarinnar</w>
+  <w>Bakh</w><w>vísindastofnunarinnar</w>
+  <revision id="47b">
+    <original><w>Bakh</w><w>vísindastofnunarinnar</w></original>
+    <corrected><w>Bakh-vísindastofnunarinnar</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0"/>
+      </errors>
+  </revision>
   <w>sem</w>
   <w>hann</w>
   <w>hafði</w>
@@ -1792,7 +1798,15 @@
   <w>njóta</w>
   <w>mikillar</w>
   <w>virðingar</w>
-  <w>hvaðanæfa</w>
+  <revision id="50c">
+    <original><w>hvaðanæfa</w></original>
+    <corrected><w>hvaðanæva</w></corrected>
+      <errors>
+        <error xtype="letter-rep" idx="50c-1" eid="0"/>
+        <error xtype="hypercorr" idx="50c-1" eid="0"/>
+        <error xtype="nonword" idx="50c-1" eid="0"/>
+      </errors>
+  </revision>
   <w>úr</w>
   <w>samfélaginu</w>
   <c>,</c>
@@ -1805,7 +1819,14 @@
   <w>ekki</w>
   <w>endilega</w>
   <w>alveg</w>
-  <w>sámmála</w>
+  <revision id="50d">
+    <original><w>sámmála</w></original>
+    <corrected><w>sammála</w></corrected>
+      <errors>
+        <error xtype="extra-accent" idx="50c-1" eid="0"/>
+        <error xtype="nonword" idx="50c-1" eid="0"/>
+      </errors>
+  </revision>
   <w>hans</w>
   <w>fræðum</w>
   <c>.</c>
@@ -1836,7 +1857,13 @@
   </revision>
   <w>sem</w>
   <w>bjóða</w>
-  <w>uppá</w>
+  <revision id="57b">
+    <original><w>uppá</w></original>
+    <corrected><w>upp</w><w>á</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0"/>
+      </errors>
+  </revision>
   <w>hin</w>
   <w>einföldu</w>
   <w>og</w>

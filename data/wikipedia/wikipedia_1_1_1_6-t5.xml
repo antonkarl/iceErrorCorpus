@@ -724,6 +724,13 @@
   <w>Hólaskóla</w>
   <w>og</w>
   <w>klausturskólum</w>
+  <revision id="27b">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0"/>
+      </errors>
+  </revision>
   <w>helsta</w>
   <w>menntastofnun</w>
   <w>landsins</w>
@@ -1159,7 +1166,21 @@
   <w>elsta</w>
   <w>nemendafélag</w>
   <w>landsins</w>
+  <revision id="40b">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-commas" idx="40b-1" eid="0"/>
+      </errors>
+  </revision>
   <w><hi>Framtíðin</hi></w>
+  <revision id="40c">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="dep" depId="40b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>og</w>
   <w><hi>Skólafélag</hi></w>
   <w><hi>Menntaskólans</hi></w>
@@ -1182,7 +1203,14 @@
   <w>að</w>
   <w>stofna</w>
   <w>nýtt</w>
-  <w>nemandafélag</w>
+  <revision id="40d">
+    <original><w>nemandafélag</w></original>
+    <corrected><w>nemendafélag</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="40d-1" eid="0"/>
+        <error xtype="compound-nonword" idx="40d-1" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="49">
   <w>Íþaka</w>

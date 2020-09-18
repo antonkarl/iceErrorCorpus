@@ -83,7 +83,13 @@
   <w>stríðsskipuleggjendur</w>
   <w>og</w>
   <w>fjárhagslegan</w>
-  <w>ávinningur</w>
+  <revision id="0">
+    <original><w>ávinningur</w></original>
+    <corrected><w>ávinning</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0"/>
+      </errors>
+  </revision>
   <w>fyrir</w>
   <w>hergagnaframleiðendur</w>
   <c>.</c>

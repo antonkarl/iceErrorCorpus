@@ -438,7 +438,13 @@
   <w>þingmenn</w>
   <w>flokksins</w>
   <w>í</w>
-  <w>norðausturkjördæmi</w>
+  <revision id="1">
+    <original><w>norðausturkjördæmi</w></original>
+    <corrected><w>Norðausturkjördæmi</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="22">
   <w>Stofnað</w>

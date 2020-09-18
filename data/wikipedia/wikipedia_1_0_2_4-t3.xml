@@ -104,7 +104,14 @@
   <w>keisarafjölskyldan</w>
   <w>tekin</w>
   <w>af</w>
-  <w>lífí</w>
+  <revision id="4b">
+    <original><w>lífí</w></original>
+    <corrected><w>lífi</w></corrected>
+      <errors>
+        <error xtype="extra-accent" idx="4b-1" eid="0"/>
+        <error xtype="nonword" idx="4b-1" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="4">
   <revision id="5">
@@ -1040,8 +1047,21 @@
   <w>skaut</w>
   <w>Raspútín</w>
   <w>svo</w>
+  <revision id="49b">
+    <original></original>
+    <corrected><w>upp</w></corrected>
+      <errors>
+        <error xtype="wording" idx="49b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>kollinum</w>
-  <w>upp</w>
+  <revision id="49c">
+    <original><w>upp</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="49b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>í</w>
   <w>Sánkti</w>
   <w>Pétursborg</w>
@@ -1073,7 +1093,13 @@
   <w>og</w>
   <w>var</w>
   <w>fljótt</w>
-  <w>komin</w>
+  <revision id="52b">
+    <original><w>komin</w></original>
+    <corrected><w>kominn</w></corrected>
+      <errors>
+        <error xtype="agreement-pred" eid="0"/>
+      </errors>
+  </revision>
   <w>með</w>
   <w>hóp</w>
   <w>fylgdarmanna</w>
