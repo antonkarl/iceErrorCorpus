@@ -15,7 +15,13 @@
 </teiHeader>
 <text><body><p n="1">
 <s n="1">
-  <w>Víðsvegar</w>
+  <revision id="1a">
+    <original><w>Víðsvegar</w></original>
+    <corrected><w>víðs</w><w>vegar</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>um</w>
   <w>heiminn</w>
   <w>voru</w>

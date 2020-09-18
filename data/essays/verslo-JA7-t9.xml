@@ -109,7 +109,13 @@
   <w>er</w>
   <w>ekki</w>
   <w>ákveðin</w>
-  <w>fyrirfram</w>
+  <revision id="5a">
+    <original><w>fyrirfram</w></original>
+    <corrected><w>fyrir</w><w>fram</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>heldur</w>
   <w>er</w>
   <w>það</w>
@@ -355,7 +361,14 @@
   <c>.</c>
 </s><s n="9">
   <w>Þegar</w>
-  <w>framhaldskólinn</w>
+  <revision id="11a">
+    <original><w>framhaldskólinn</w></original>
+    <corrected><w>framhaldsskólinn</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="11a-1" eid="0" />
+        <error xtype="compound-nonword" idx="11a-1" eid="0" />
+      </errors>
+  </revision>
   <w>er</w>
   <w>búinn</w>
   <w>flækjast</w>
@@ -491,7 +504,13 @@
   <w>í</w>
   <w>háskóla</w>
   <w>eða</w>
-  <w>einhverskonar</w>
+  <revision id="14a">
+    <original><w>einhverskonar</w></original>
+    <corrected><w>einhvers</w><w>konar</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>starfsmenntun</w>
   <w>eða</w>
   <w>verkmenntun</w>

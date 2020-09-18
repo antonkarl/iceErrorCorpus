@@ -590,7 +590,14 @@
   <w>að</w>
   <w>keppa</w>
   <w>fyrir</w>
-  <w>hönds</w>
+  <revision id="12c">
+    <original><w>hönds</w></original>
+    <corrected><w>hönd</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="12c-1" eid="0" />
+        <error xtype="nonword" idx="12c-1" eid="0" />
+      </errors>
+  </revision>
   <w>síns</w>
   <w>skóla</w>
   <w>þá</w>
