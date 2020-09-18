@@ -879,7 +879,13 @@
   <w>sig</w>
   <w>eingöngu</w>
   <w>til</w>
-  <w>fjárs</w>
+  <revision id="27a">
+    <original><w>fjárs</w></original>
+    <corrected><w>fjár</w></corrected>
+      <errors>
+        <error xtype="collocation" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="39">
   <w>Leiðréttið</w>
