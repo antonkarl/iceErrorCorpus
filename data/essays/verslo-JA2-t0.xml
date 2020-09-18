@@ -162,7 +162,14 @@
   <w>þeim</w>
   <w>að</w>
   <w>borða</w>
-  <w>ávöxitnn</w>
+  <revision id="6a">
+    <original><w>ávöxitnn</w></original>
+    <corrected><w>ávöxtinn</w></corrected>
+      <errors>
+        <error xtype="swapped-letters" idx="6a-1" eid="0" />
+	<error xtype="nonword" idx="6a-1" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="8">
   <w>Ég</w>
@@ -816,7 +823,14 @@
   <w>er</w>
   <w>verið</w>
   <w>að</w>
-  <w>kynnna</w>
+  <revision id="20a">
+    <original><w>kynnna</w></original>
+    <corrected><w>kynna</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="20a-1" eid="0" />
+	<error xtype="nonword" idx="20a-1" eid="0" />
+      </errors>
+  </revision>
   <w>hvað</w>
   <w>er</w>
   <w>næst</w>

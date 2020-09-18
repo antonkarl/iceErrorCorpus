@@ -181,7 +181,14 @@
   <w>maður</w>
   <w>veit</w>
   <w>ekki</w>
-  <w>hvernær</w>
+  <revision id="4a">
+    <original><w>hvernær</w></original>
+    <corrected><w>hvenær</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="4a-1" eid="0" />
+        <error xtype="nonword" idx="4a-1" eid="0" />
+      </errors>
+  </revision>
   <w>maður</w>
   <w>missir</w>
   <w>þá</w>
@@ -351,7 +358,14 @@
   <w>á</w>
   <w>hana</w>
   <w>og</w>
-  <w>hjúkrunakonurnar</w>
+  <revision id="10a">
+    <original><w>hjúkrunakonurnar</w></original>
+    <corrected><w>hjúkrunarkonurnar</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="10a-1" eid="0" />
+        <error xtype="compound-nonword" idx="10a-1" eid="0" />
+      </errors>
+  </revision>
   <w>sem</w>
   <w>alltaf</w>
   <w>var</w>
@@ -1232,7 +1246,13 @@
   <w>bara</w>
   <w>að</w>
   <w>sætta</w>
-  <w>síg</w>
+  <revision id="4a">
+    <original><w>síg</w></original>
+    <corrected><w>sig</w></corrected>
+      <errors>
+        <error xtype="extra-accent" eid="0" />
+      </errors>
+  </revision>
   <w>við</w>
   <w>sama</w>
   <w>hvernig</w>

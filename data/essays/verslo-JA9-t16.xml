@@ -349,6 +349,13 @@
   <w>ligg</w>
   <w>máttvana</w>
   <w>eftir</w>
+  <revision id="2a">
+    <original></original>
+    <corrected><w>.</w></corrected>
+      <errors>
+        <error xtype="missing-period" eid="0" />
+      </errors>
+  </revision>
   <w>Það</w>
   <w>var</w>
   <w>föstudagskvöld</w>
@@ -429,7 +436,14 @@
   <w>ligg</w>
   <w>bara</w>
   <w>þarna</w>
-  <w>hreyfingalaus</w>
+  <revision id="2b">
+    <original><w>hreyfingalaus</w></original>
+    <corrected><w>hreyfingarlaus</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="2b-1" eid="0" />
+        <error xtype="compound-nonword" idx="2b-1" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="20">
   <w>Við</w>
@@ -804,7 +818,13 @@
 </s><s n="37">
   <w>Hann</w>
   <w>er</w>
-  <w>inní</w>
+  <revision id="4a">
+    <original><w>inní</w></original>
+    <corrected><w>inni</w><w>í</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>mér</w>
   <c>.</c>
 </s><s n="38">
@@ -1285,7 +1305,14 @@
   <w>ligg</w>
   <w>bara</w>
   <w>þarna</w>
-  <w>hreyfingalaus</w>
+  <revision id="5a">
+    <original><w>hreyfingalaus</w></original>
+    <corrected><w>hreyfingarlaus</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="5a-1" eid="0" />
+        <error xtype="compound-nonword" idx="5a-1" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="57">
   <w>Í</w>
