@@ -243,7 +243,13 @@
   <w>skömmu</w>
   <w>eftir</w>
   <w>að</w>
-  <w>múslimar</w>
+  <revision id="12b">
+    <original><w>múslimar</w></original>
+    <corrected><w>múslímar</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <w>lögðu</w>
   <w>norðurströnd</w>
   <w>Afríku</w>
@@ -563,7 +569,13 @@
 </s>
 <s n="16">
   <w>Sjórán</w>
-  <w>múslima</w>
+  <revision id="26b">
+    <original><w>múslima</w></original>
+    <corrected><w>múslíma</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <w>í</w>
   <w>Miðjarðarhafslöndum</w>
   <w>höfðu</w>
@@ -825,7 +837,13 @@
   </revision>
   <w>og</w>
   <w>ævintýragjarnir</w>
-  <w>múslimar</w>
+  <revision id="43b">
+    <original><w>múslimar</w></original>
+    <corrected><w>múslímar</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <w>frá</w>
   <w>Mið-Austurlöndum</w>
   <revision id="44">

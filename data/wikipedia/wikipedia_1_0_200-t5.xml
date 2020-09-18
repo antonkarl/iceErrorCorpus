@@ -98,7 +98,13 @@
   <w>íbúa</w>
   <w>Mayotte</w>
   <w>eru</w>
-  <w>múslimar</w>
+  <revision id="0">
+    <original><w>múslimar</w></original>
+    <corrected><w>múslímar</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="6">
   <w>Rúmur</w>

@@ -1642,7 +1642,13 @@
   <w>í</w>
   <w>borgunum</w>
   <w>og</w>
-  <w>múslimar</w>
+  <revision id="77b">
+    <original><w>múslimar</w></original>
+    <corrected><w>múslímar</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <w>við</w>
   <w>landamærin</w>
   <w>að</w>

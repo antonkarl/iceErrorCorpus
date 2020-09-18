@@ -240,7 +240,13 @@
   <w>febrúar 1984</w>
   <w>hurfu</w>
   <w>margir</w>
-  <w>múslimar</w>
+  <revision id="1b">
+    <original><w>múslimar</w></original>
+    <corrected><w>múslímar</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>drúsar</w>
   <w>úr</w>
@@ -304,7 +310,13 @@
   <w>líbanskra</w>
   <w>drúsa</w>
   <w>og</w>
-  <w>múslima</w>
+  <revision id="1b">
+    <original><w>múslima</w></original>
+    <corrected><w>múslíma</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <w>auk</w>
   <w>vinstrisinnaðra</w>
   <w>stjórnmálaflokka</w>
@@ -502,7 +514,13 @@
   <w>til</w>
   <w>sem</w>
   <w>klofningshópur</w>
-  <w>sjíamúslima</w>
+  <revision id="5b">
+    <original><w>sjíamúslima</w></original>
+    <corrected><w>sjíamúslíma</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <w>sem</w>
   <w>voru</w>
   <w>andsnúnir</w>
@@ -579,7 +597,13 @@
 </s><s n="32">
   <w>Vinstriflokkar</w>
   <c>,</c>
-  <w>múslimar</w>
+  <revision id="5b">
+    <original><w>múslimar</w></original>
+    <corrected><w>múslímar</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>drúsar</w>
   <w>mynduðu</w>

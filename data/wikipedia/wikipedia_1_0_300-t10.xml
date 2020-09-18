@@ -457,12 +457,24 @@
   <w>60%</w>
   <w>íbúa</w>
   <w>séu</w>
-  <w>múslimar</w>
+  <revision id="7b">
+    <original><w>múslimar</w></original>
+    <corrected><w>múslímar</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <c>(</c>
   <w>þar</w>
   <w>af</w>
   <w>helmingur</w>
-  <w>sjíamúslimar</w>
+  <revision id="7c">
+    <original><w>sjíamúslimar</w></original>
+    <corrected><w>sjíamúslímar</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>helmingur</w>
   <w>súnnítar</w>

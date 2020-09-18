@@ -231,7 +231,13 @@
   <w>98%</w>
   <w>íbúa</w>
   <w>eru</w>
-  <w>múslimar</w>
+  <revision id="5b">
+    <original><w>múslimar</w></original>
+    <corrected><w>múslímar</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="13">

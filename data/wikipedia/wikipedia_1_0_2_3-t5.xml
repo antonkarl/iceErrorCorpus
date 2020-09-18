@@ -37,7 +37,13 @@
       </errors>
   </revision>
   <w>samsæri</w>
-  <w>múslima</w>
+  <revision id="2b">
+    <original><w>múslima</w></original>
+    <corrected><w>múslíma</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <w>um</w>
   <revision id="3">
     <original><w>að</w><w>taka</w></original>

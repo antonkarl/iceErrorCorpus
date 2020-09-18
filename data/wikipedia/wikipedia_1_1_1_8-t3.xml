@@ -25,7 +25,13 @@
   <w>hamars</w>
   <w>en</w>
   <w>her</w>
-  <w>múslima</w>
+  <revision id="0">
+    <original><w>múslima</w></original>
+    <corrected><w>múslíma</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <w>undir</w>
   <w>stjórn</w>
   <w>Abdul</w>
@@ -230,7 +236,13 @@
   <w>fyrir</w>
   <w>þungvopnað</w>
   <w>riddaralið</w>
-  <w>múslima</w>
+  <revision id="0b">
+    <original><w>múslima</w></original>
+    <corrected><w>múslíma</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <w>að</w>
   <w>hleypa</w>
   <w>inn</w>

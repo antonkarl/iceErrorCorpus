@@ -93,7 +93,13 @@
 <s n="5">
   <w>Eftir</w>
   <w>landvinninga</w>
-  <w>múslima</w>
+  <revision id="0">
+    <original><w>múslima</w></original>
+    <corrected><w>múslíma</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <w>á</w>
   <w>7.</w>
   <w>öld</w>

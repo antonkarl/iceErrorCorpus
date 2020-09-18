@@ -75,7 +75,13 @@
   <w>hópar</w>
   <w>kristinna</w>
   <w>og</w>
-  <w>múslima</w>
+  <revision id="1b">
+    <original><w>múslima</w></original>
+    <corrected><w>múslíma</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <w>átt</w>
   <w>í</w>
   <w>blóðugum</w>

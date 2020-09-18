@@ -32,7 +32,13 @@
   <w>Pakistan</w>
   <w>er</w>
   <w>eina</w>
-  <w>múslimaríki</w>
+  <revision id="0">
+    <original><w>múslimaríki</w></original>
+    <corrected><w>múslímaríki</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <w>heims</w>
   <w>sem</w>
   <w>býr</w>
@@ -153,7 +159,13 @@
   <w>meirihluti</w>
   <w>íbúa</w>
   <w>var</w>
-  <w>múslimar</w>
+  <revision id="0b">
+    <original><w>múslimar</w></original>
+    <corrected><w>múslímar</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>yrðu</w>
   <w>sérstakt</w>
@@ -175,7 +187,13 @@
   <w>flestir</w>
   <w>íbúar</w>
   <w>eru</w>
-  <w>múslimar</w>
+  <revision id="0c">
+    <original><w>múslimar</w></original>
+    <corrected><w>múslímar</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="8">
   <w>Ættbálkahéruðin</w>

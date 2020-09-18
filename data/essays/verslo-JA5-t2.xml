@@ -1048,7 +1048,13 @@
   <w>stað</w>
   <c>.</c>
 </s><s n="43">
-  <w>Múslimar</w>
+  <revision id="15b">
+    <original><w>Múslimar</w></original>
+    <corrected><w>Múslímar</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <w>hafa</w>
   <w>hinar</w>
   <w>fimm</w>

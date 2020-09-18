@@ -396,7 +396,13 @@
   <w>hópur</w>
   <w>mjög</w>
   <w>öfgasinnaðra</w>
-  <w>múslima</w>
+  <revision id="13b">
+    <original><w>múslima</w></original>
+    <corrected><w>múslíma</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <revision id="14">
     <original/>
     <corrected><c>,</c><w>til</w><w>valda</w><c>,</c></corrected>

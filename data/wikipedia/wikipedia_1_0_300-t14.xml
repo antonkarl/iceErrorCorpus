@@ -351,7 +351,13 @@
   <w>fyrsta</w>
   <w>bylgja</w>
   <w>landvinninga</w>
-  <w>múslima</w>
+  <revision id="8b">
+    <original><w>múslima</w></original>
+    <corrected><w>múslíma</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <w>náðu</w>
   <w>yfir</w>
   <c>.</c>
@@ -3603,7 +3609,13 @@
   <w>sem</w>
   <w>ekki</w>
   <w>voru</w>
-  <w>múslimar</w>
+  <revision id="117b">
+    <original><w>múslimar</w></original>
+    <corrected><w>múslímar</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <w>þurftu</w>
   <w>að</w>
   <w>greiða</w>
@@ -3880,7 +3892,13 @@
   <c>.</c>
 </s>
 <s n="125">
-  <w>Múslimar</w>
+  <revision id="130b">
+    <original><w>Múslimar</w></original>
+    <corrected><w>Múslímar</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <w>trúa</w>
   <w>því</w>
   <w>að</w>
@@ -4243,7 +4261,13 @@
   </revision>
   <w>í</w>
   <w>samfélagi</w>
-  <w>múslima</w>
+  <revision id="143b">
+    <original><w>múslima</w></original>
+    <corrected><w>múslíma</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="139">
@@ -4709,9 +4733,10 @@
   <w>allir</w>
   <revision id="158">
     <original><w>Múslimar</w></original>
-    <corrected><w>múslimar</w></corrected>
+    <corrected><w>múslímar</w></corrected>
       <errors>
-        <error xtype="upper4lower-common" eid="0" />
+        <error xtype="upper4lower-common" idx="158-1" eid="0" />
+        <error xtype="missing-accent" idx="158-1" eid="0" />
       </errors>
   </revision>
   <w>skulu</w>
@@ -4759,7 +4784,13 @@
   <w>síðasta</w>
   <w>mánaðar</w>
   <w>dagatals</w>
-  <w>múslima</w>
+  <revision id="159b">
+    <original><w>múslima</w></original>
+    <corrected><w>múslíma</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="160">
@@ -5179,7 +5210,13 @@
   <w>meirihluta</w>
   <w>í</w>
   <w>öllum</w>
-  <w>múslimaríkjum</w>
+  <revision id="180b">
+    <original><w>múslimaríkjum</w></original>
+    <corrected><w>múslímaríkjum</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <w>nema</w>
   <w>Írak</w>
   <c>,</c>
@@ -5283,7 +5320,13 @@
   <w>gæti</w>
   <w>verið</w>
   <w>leiðtogi</w>
-  <w>múslima</w>
+  <revision id="184b">
+    <original><w>múslima</w></original>
+    <corrected><w>múslíma</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>hver</w>
   <w>ekki</w>
@@ -5337,9 +5380,10 @@
   <w>leiða</w>
   <revision id="187">
     <original><w>Múslima</w></original>
-    <corrected><w>múslima</w></corrected>
+    <corrected><w>múslíma</w></corrected>
       <errors>
-        <error xtype="upper4lower-common" eid="0" />
+        <error xtype="upper4lower-common" idx="187-1" eid="0" />
+        <error xtype="missing-accent" idx="187-1" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -5404,12 +5448,13 @@
   <w>Flestir</w>
   <revision id="190">
     <original><w>Shi‘ah</w><w>múslimar</w></original>
-    <corrected><w>sjíamúslimar</w></corrected>
+    <corrected><w>sjíamúslímar</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="190-1" eid="0" />
         <error xtype="letter-rep" idx="190-1" eid="0" />
         <error xtype="missing-accent" idx="190-1" eid="0" />
         <error xtype="extra-accent" idx="190-1" eid="0" />
+        <error xtype="missing-accent" idx="190-1" eid="0" />
         <error xtype="compound-split" idx="190-1" eid="0" />
       </errors>
   </revision>
@@ -5485,7 +5530,13 @@
   <w>stuðnings</w>
   <w>á</w>
   <w>meðal</w>
-  <w>múslima</w>
+  <revision id="194b">
+    <original><w>múslima</w></original>
+    <corrected><w>múslíma</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="181">
@@ -6488,19 +6539,21 @@
   <w>telja</w>
   <revision id="250">
     <original><w>Ibadi</w><w>múslimar</w></original>
-    <corrected><w>ibadi-múslimar</w></corrected>
+    <corrected><w>ibadi-múslímar</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="250-1" eid="0" />
         <error xtype="split-word" idx="250-1" eid="0" />
         <error xtype="missing-dash" idx="250-1" eid="0" />
+        <error xtype="missing-accent" idx="250-1" eid="0" />
       </errors>
   </revision>
   <w>sig</w>
   <revision id="251">
     <original><w>vera</w><w>öðruvísi</w><w>en</w><w>Khawarij</w><c>.</c><w>Því</w><w>þeir</w><c>,</c><w>Kkawarij</w><c>,</c><w>lýta</w></original>
-    <corrected><w>frábrugðna</w><w><hi>khawarij</hi></w><w>því</w><w>khawarij-múslimar</w><w>líta</w></corrected>
+    <corrected><w>frábrugðna</w><w><hi>khawarij</hi></w><w>því</w><w>khawarij-múslímar</w><w>líta</w></corrected>
       <errors>
         <error xtype="wording" eid="0" />
+        <error xtype="missing-accent" eid="0" />
       </errors>
   </revision>
   <w>á</w>
@@ -6512,7 +6565,13 @@
         <error xtype="missing-word" eid="0" />
       </errors>
   </revision>
-  <w>múslima</w>
+  <revision id="252b">
+    <original><w>múslima</w></original>
+    <corrected><w>múslíma</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <w>sem</w>
   <revision id="253">
     <original><w>gerast</w><w>sekir</w></original>
@@ -6613,11 +6672,12 @@
   <w>sem</w>
   <revision id="259">
     <original><w>Ibadi</w><w>múslimar</w></original>
-    <corrected><w>ibadi-múslimar</w></corrected>
+    <corrected><w>ibadi-múslímar</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="259-1" eid="0" />
         <error xtype="split-word" idx="259-1" eid="0" />
         <error xtype="missing-dash" idx="259-1" eid="0" />
+        <error xtype="missing-accent" idx="259-1" eid="0" />
       </errors>
   </revision>
   <w>beita</w>
@@ -6649,7 +6709,13 @@
 </s>
 <s n="212">
   <w>Þeir</w>
-  <w>múslimar</w>
+  <revision id="261b">
+    <original><w>múslimar</w></original>
+    <corrected><w>múslímar</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <w>sem</w>
   <w>eru</w>
   <w>ekki</w>
@@ -6710,11 +6776,12 @@
   <w>milli</w>
   <revision id="265">
     <original><w>Ibadi</w><w>múslima</w></original>
-    <corrected><w>ibadi-múslima</w></corrected>
+    <corrected><w>ibadi-múslíma</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="265-1" eid="0" />
         <error xtype="split-word" idx="265-1" eid="0" />
         <error xtype="missing-dash" idx="265-1" eid="0" />
+        <error xtype="missing-accent" idx="265-1" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -6776,10 +6843,11 @@
   <w>völdum</w>
   <revision id="268">
     <original><w>Ibadi</w><w>múslima</w></original>
-    <corrected><w>ibadi-múslima</w></corrected>
+    <corrected><w>ibadi-múslíma</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="268-1" eid="0" />
         <error xtype="split-word" idx="268-1" eid="0" />
+        <error xtype="missing-dash" idx="268-1" eid="0" />
         <error xtype="missing-dash" idx="268-1" eid="0" />
       </errors>
   </revision>
@@ -6856,10 +6924,11 @@
 <s n="216">
   <revision id="273">
     <original><w>Ibadi</w><w>múslimar</w></original>
-    <corrected><w>Ibadi-múslimar</w></corrected>
+    <corrected><w>Ibadi-múslímar</w></corrected>
       <errors>
         <error xtype="split-word" idx="273-1" eid="0" />
         <error xtype="missing-dash" idx="273-1" eid="0" />
+        <error xtype="missing-accent" idx="273-1" eid="0" />
       </errors>
   </revision>
   <w>hafna</w>
@@ -6954,10 +7023,11 @@
   <w>að</w>
   <revision id="276">
     <original><w>Ibadi</w><w>múslima</w></original>
-    <corrected><w>ibadi-múslimar</w></corrected>
+    <corrected><w>ibadi-múslíma</w></corrected>
       <errors>
         <error xtype="upper4lower-proper" idx="276-1" eid="0" />
         <error xtype="split-word" idx="276-1" eid="0" />
+        <error xtype="missing-dash" idx="276-1" eid="0" />
         <error xtype="missing-dash" idx="276-1" eid="0" />
       </errors>
   </revision>
@@ -6990,9 +7060,10 @@
 <s n="220">
   <revision id="279">
     <original><w>Ibadi</w><w>múslimar</w></original>
-    <corrected><w>Ibadi-múslimar</w><c>,</c></corrected>
+    <corrected><w>Ibadi-múslímar</w><c>,</c></corrected>
       <errors>
         <error xtype="split-word" idx="279-1" eid="0" />
+        <error xtype="missing-dash" idx="279-1" eid="0" />
         <error xtype="missing-dash" idx="279-1" eid="0" />
         <error xtype="missing-comma" eid="0" />
       </errors>
@@ -7001,7 +7072,7 @@
   <w>og</w>
   <revision id="280">
     <original><w>Shi</w><c>‘</c><w>ah</w><w>múslimar</w></original>
-    <corrected><w>sjía-múslimar</w><c>,</c></corrected>
+    <corrected><w>sjía-múslímar</w><c>,</c></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="280-1" eid="0" />
         <error xtype="letter-rep" idx="280-1" eid="0" />
@@ -7011,6 +7082,7 @@
         <error xtype="extra-space" idx="280-1" eid="0" />
         <error xtype="extra-letter" idx="280-1" eid="0" />
         <error xtype="compound-split" idx="280-1" eid="0" />
+        <error xtype="missing-dash" idx="280-1" eid="0" />
         <error xtype="missing-comma" idx="280-2" eid="0" />
       </errors>
   </revision>
@@ -8672,7 +8744,13 @@
   <w>þurfa</w>
   <w>að</w>
   <w>vera</w>
-  <w>múslimar</w>
+  <revision id="349b">
+    <original><w>múslimar</w></original>
+    <corrected><w>múslímar</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="297">

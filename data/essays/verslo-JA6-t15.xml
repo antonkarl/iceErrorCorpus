@@ -1107,7 +1107,13 @@
   <c>.</c>
 </s><s n="47">
   <w>Allir</w>
-  <w>múslimar</w>
+  <revision id="36b">
+    <original><w>múslimar</w></original>
+    <corrected><w>múslímar</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0"/>
+      </errors>
+  </revision>
   <w>komast</w>
   <w>til</w>
   <w>Mekka</w>
@@ -1292,7 +1298,13 @@
   <w>um</w>
   <w>þetta</w>
   <w>eru</w>
-  <w>Múslimar</w>
+  <revision id="39b">
+    <original><w>Múslimar</w></original>
+    <corrected><w>Múslímar</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="56">
   <w>Maður</w>

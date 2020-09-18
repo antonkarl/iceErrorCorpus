@@ -58,7 +58,13 @@
   <w>framfylgt</w>
   <w>en</w>
   <w>margir</w>
-  <w>múslimar</w>
+  <revision id="0">
+    <original><w>múslimar</w></original>
+    <corrected><w>múslímar</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <w>telja</w>
   <w>það</w>
   <w>ganga</w>

@@ -799,7 +799,13 @@
   <w>8.</w>
   <w>öld</w>
   <w>ferðuðust</w>
-  <w>múslimar</w>
+  <revision id="20b">
+    <original><w>múslimar</w></original>
+    <corrected><w>múslímar</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <revision id="21">
     <original></original>
     <corrected><w>mikið</w></corrected>

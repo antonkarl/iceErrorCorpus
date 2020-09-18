@@ -101,7 +101,13 @@
   <w>kölluð</w>
   <w>Palestínuvængur</w>
   <w>Bræðralags</w>
-  <w>Múslima</w>
+  <revision id="2">
+    <original><w>Múslima</w></original>
+    <corrected><w>Múslíma</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="6">
