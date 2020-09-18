@@ -108,7 +108,13 @@
   <c>.</c>
 </s><s n="8">
   <w>Heimsfræg</w>
-  <w>Bandarísk</w>
+  <revision id="16">
+    <original><w>Bandarísk</w></original>
+    <corrected><w>bandarísk</w></corrected>
+      <errors>
+        <error xtype="upper4lower-proper" eid="0" />
+      </errors>
+  </revision>
   <w>kona</w>
   <w>hefur</w>
   <w>til</w>
@@ -584,7 +590,13 @@
   <w>í</w>
   <w>flokki</w>
   <w>ásamt</w>
-  <w>norðurlöndunum</w>
+  <revision id="15a">
+    <original><w>norðurlöndum</w></original>
+    <corrected><w>Norðurlöndum</w></corrected>
+      <errors>
+        <error xtype="upper4lower-proper" eid="0" />
+      </errors>
+  </revision>
   <w>í</w>
   <w>að</w>
   <w>flokka</w>
@@ -647,7 +659,14 @@
   <w>ekki</w>
   <w>bara</w>
   <w>á</w>
-  <w>veturnar</w>
+  <revision id="16b">
+    <original><w>veturnar</w></original>
+    <corrected><w>veturna</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="16b-1" eid="0" />
+        <error xtype="nonword" idx="16b-1" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="31">
   <w>Að</w>
@@ -1088,7 +1107,13 @@
       </errors>
   </revision>
   <w>fyrir</w>
-  <w>fimmhundruð</w>
+  <revision id="30a">
+    <original><w>fimmhundruð</w></original>
+    <corrected><w>fimm</w><w>hundruð</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>árum</w>
   <c>.</c>
 </s><s n="51">
@@ -1228,7 +1253,13 @@
   <w>er</w>
   <w>notað</w>
   <w>í</w>
-  <w>staðin</w>
+  <revision id="16">
+    <original><w>staðin</w></original>
+    <corrected><w>staðinn</w></corrected>
+      <errors>
+        <error xtype="n4nn" eid="0" />
+      </errors>
+  </revision>
   <w>fyrir</w>
   <w>bensín</w>
   <w>og</w>
