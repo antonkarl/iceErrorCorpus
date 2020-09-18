@@ -443,7 +443,14 @@
   <w>góðu</w>
   <w>lífi</w>
   <w>og</w>
-  <w>fyrirhafnalausu</w>
+  <revision id="10a">
+    <original><w>fyrirhafnalausu</w></original>
+    <corrected><w>fyrirhafnarlausu</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="10a-1" eid="0" />
+	<error xtype="compound-nonword" idx="10a-1" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>til</w>
   <w>þess</w>
