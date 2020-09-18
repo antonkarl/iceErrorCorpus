@@ -207,12 +207,12 @@
   <c>)</c>
   <c>,</c>
   <w>sleppir</w>
-  <w>tíma</w>
   <revision id="8">
-    <original><w>partinum</w></original>
-    <corrected><w>hlutanum</w></corrected>
+    <original><w>tíma</w><w>partinum</w></original>
+    <corrected><w>tímahlutanum</w></corrected>
       <errors>
-        <error xtype="wording" eid="0" />
+        <error xtype="compound-split" idx="8-1" eid="0" />
+        <error xtype="wording" idx="8-1" eid="0" />
       </errors>
   </revision>
   <c>(</c>

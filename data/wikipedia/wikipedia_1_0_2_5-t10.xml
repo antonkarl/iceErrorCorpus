@@ -640,30 +640,91 @@
   <w>samrunaorð</w>
   <w>frá</w>
   <w>orðunum</w>
-  <c>,</c>
+  <revision id="21b">
+    <original><c>,</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" idx="21b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>tala</w>
-  <c>‘</c>
+  <revision id="21c">
+    <original><c>‘</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="dep" depId="21b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>og</w>
   <c>,</c>
+  <revision id="21d">
+    <original><c>,</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" idx="21d-1" eid="0"/>
+      </errors>
+  </revision>
   <w>völva</w>
-  <c>‘</c>
+  <revision id="21e">
+    <original><c>‘</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="dep" depId="21d-1" eid="0"/>
+      </errors>
+  </revision>
   <w>og</w>
   <w>fallbeygist</w>
   <w>orðið</w>
   <w>eins</w>
   <w>og</w>
-  <c>,</c>
+  <revision id="21f">
+    <original><c>,</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" idx="21f-1" eid="0"/>
+      </errors>
+  </revision>
   <w>völva</w>
-  <c>‘</c>
+  <revision id="21g">
+    <original><c>‘</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="dep" depId="21f-1" eid="0"/>
+      </errors>
+  </revision>
   <c>,</c>
-  <c>,</c>
+  <revision id="21h">
+    <original><c>,</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" idx="21h-1" eid="0"/>
+      </errors>
+  </revision>
   <w>slöngva</w>
-  <c>‘</c>
+  <revision id="21i">
+    <original><c>‘</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="dep" depId="21h-1" eid="0"/>
+      </errors>
+  </revision>
   <w>eða</w>
   <w>sérnafnið</w>
-  <c>,</c>
+  <revision id="21j">
+    <original><c>,</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quots" idx="21j-1" eid="0"/>
+      </errors>
+  </revision>
   <w>Röskva</w>
-  <c>‘</c>
+  <revision id="21k">
+    <original><c>‘</c></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="dep" depId="21j-1" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="23">
   <w>Tölva</w>

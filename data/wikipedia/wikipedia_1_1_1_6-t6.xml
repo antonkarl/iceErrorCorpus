@@ -61,7 +61,14 @@
   <w>að</w>
   <c>:</c>
   <w>Látum</w>
-  <w>þríhyringinn</w>
+  <revision id="0">
+    <original><w>þríhyringinn</w></original>
+    <corrected><w>þríhyrninginn</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="0-1" eid="0"/>
+        <error xtype="nonword" idx="0-1" eid="0"/>
+      </errors>
+  </revision>
   <w>ABC</w>
   <w>tákna</w>
   <w>rétthyrndan</w>
@@ -249,13 +256,7 @@
   <w>ýmsum</w>
   <w>rúmfræðireikningi</w>
   <c>,</c>
-  <revision id="6">
-    <original><w>t</w><c>.</c><w>a</w><c>.</c><w>m.</w></original>
-    <corrected><w>t.a.m.</w></corrected>
-      <errors>
-        <error xtype="extra-space" eid="0"/>
-      </errors>
-  </revision>
+  <w>t.a.m.</w>
   <w>hnitarúmfræði</w>
   <w>og</w>
   <w>hornafræði</w>

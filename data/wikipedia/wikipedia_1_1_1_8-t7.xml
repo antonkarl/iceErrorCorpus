@@ -266,7 +266,14 @@
   <w>og</w>
   <w>gröfu</w>
   <w>sem</w>
-  <w>riður</w>
+  <revision id="6b">
+    <original><w>riður</w></original>
+    <corrected><w>ryður</w></corrected>
+      <errors>
+        <error xtype="i4y" idx="6b-1" eid="0"/>
+        <error xtype="nonword" idx="6b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>burt</w>
   <w>vegatálmum</w>
   <w>og</w>

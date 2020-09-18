@@ -164,7 +164,13 @@
   <w>mörgæsum</w>
   <c>,</c>
   <w>en</w>
-  <w>er</w>
+  <revision id="3b">
+    <original><w>er</w></original>
+    <corrected><w>var</w></corrected>
+      <errors>
+        <error xtype="pres4past" eid="0"/>
+      </errors>
+  </revision>
   <w>ekki</w>
   <w>af</w>
   <w>sömu</w>

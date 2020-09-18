@@ -913,7 +913,14 @@
   <w>notuð</w>
   <w>hafi</w>
   <w>verið</w>
-  <w>harðfiskroð</w>
+  <revision id="22b">
+    <original><w>harðfiskroð</w></original>
+    <corrected><w>harðfisksroð</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="22b-1" eid="0" />
+        <error xtype="compound-nonword" idx="22b-1" eid="0" />
+      </errors>
+  </revision>
   <w>sem</w>
   <w>þrædd</w>
   <w>voru</w>

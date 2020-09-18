@@ -103,7 +103,14 @@
   <c>)</c>
   <w>um</w>
   <w>skipulag</w>
-  <w>leikritisins</w>
+  <revision id="6b">
+    <original><w>leikritisins</w></original>
+    <corrected><w>leikritsins</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="6b-1" eid="0"/>
+        <error xtype="nonword" idx="6b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>og</w>
   <w>ræður</w>
   <w>til</w>
@@ -1301,14 +1308,7 @@
 </s><s n="51">
   <w>NFVÍ</w>
   <w>gefur</w>
-  <revision id="44">
-    <original><w>m.</w><w>a</w><c>.</c></original>
-    <corrected><w>m.a.</w></corrected>
-      <errors>
-        <error xtype="extra-space" idx="27-1" eid="0"/>
-        <error xtype="extra-space" idx="27-1" eid="0"/>
-      </errors>
-  </revision>
+  <w>m.a.</w>
   <w>út</w>
   <w>skólablaðið</w>
   <w><hi>Viljann</hi></w>
@@ -1425,7 +1425,13 @@
       </errors>
   </revision>
   <w>er</w>
-  <w>einskonar</w>
+  <revision id="47b">
+    <original><w>einskonar</w></original>
+    <corrected><w>eins</w><w>konar</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0"/>
+      </errors>
+  </revision>
   <w>tímarit</w>
   <w>sem</w>
   <w>inniheldur</w>
@@ -1438,14 +1444,7 @@
   <w>tískuþætti</w>
   <c>,</c>
   <w>myndaþætti</w>
-  <revision id="48">
-    <original><w>o</w><c>.</c><w>fl</w></original>
-    <corrected><w>o.fl</w></corrected>
-      <errors>
-        <error xtype="extra-space" idx="29-1" eid="0"/>
-        <error xtype="extra-space" idx="29-1" eid="0"/>
-      </errors>
-  </revision>
+  <w>o.fl</w>
   <c>.</c>
 </s><s n="57">
   <w>Heimili</w>

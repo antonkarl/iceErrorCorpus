@@ -256,7 +256,13 @@
   <w>sig</w>
   <w>að</w>
   <w>mestu</w>
-  <w>leiti</w>
+  <revision id="4b">
+    <original><w>leiti</w></original>
+    <corrected><w>leyti</w></corrected>
+      <errors>
+        <error xtype="i4y" eid="0"/>
+      </errors>
+  </revision>
   <w>í</w>
   <w>miðri</w>
   <w>fjörunni</w>

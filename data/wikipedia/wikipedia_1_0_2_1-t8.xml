@@ -265,8 +265,13 @@
         <error xtype="missing-word" eid="0" />
       </errors>
   </revision>
-  <w>aðal</w>
-  <w>starfsstöð</w>
+  <revision id="4b">
+    <original><w>aðal</w><w>starfsstöð</w></original>
+    <corrected><w>aðalstarfsstöð</w></corrected>
+      <errors>
+        <error xtype="split-word" eid="0" />
+      </errors>
+  </revision>
   <w>Microsoft</w>
   <w>þar</w>
   <w>sem</w>
@@ -283,7 +288,13 @@
   <w>þó</w>
   <w>flust</w>
   <w>til</w>
-  <w>annara</w>
+  <revision id="4c">
+    <original><w>annara</w></original>
+    <corrected><w>annarra</w></corrected>
+      <errors>
+        <error xtype="missing-letter" eid="0" />
+      </errors>
+  </revision>
   <w>staða</w>
   <w>eins</w>
   <w>og</w>
@@ -319,7 +330,13 @@
   <w>og</w>
   <w>nokkur</w>
   <w>önnur</w>
-  <w>önnur</w>
+  <revision id="4d">
+    <original><w>önnur</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="repeat-word" eid="0" />
+      </errors>
+  </revision>
   <w>Microsoft</w>
   <w>Dynamics</w>
   <w>kerfi</w>
@@ -348,7 +365,14 @@
   <c>,</c>
   <w>Póllandi</w>
   <c>,</c>
-  <w>Úkrainu</w>
+  <revision id="4e">
+    <original><w>Úkrainu</w></original>
+    <corrected><w>Úkraínu</w></corrected>
+      <errors>
+        <error xtype="missing-accent" idx="4e-1" eid="0" />
+        <error xtype="nonword" idx="4e-1" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>Karachi</w>
   <w>í</w>
@@ -396,11 +420,19 @@
   <w>Data</w>
   <w>A</w>
   <c>/</c>
-  <w>S.</w>
+  <w>S</w>
+  <c>.</c>
+</s>
+<s n="17b">
   <w>Evrópumarkaður</w>
   <w>var</w>
-  <w>aðal</w>
-  <w>markaður</w>
+  <revision id="4f">
+    <original><w>aðal</w><w>markaður</w></original>
+    <corrected><w>aðalmarkaður</w></corrected>
+      <errors>
+        <error xtype="split-word" eid="0" />
+      </errors>
+  </revision>
   <w>kerfisins</w>
   <revision id="5">
     <original><c>,</c></original>
@@ -463,7 +495,13 @@
   <w>Axapta</w>
   <w>var</w>
   <w>fyrst</w>
-  <w>endurskýrt</w>
+  <revision id="5b">
+    <original><w>endurskýrt</w></original>
+    <corrected><w>endurskírt</w></corrected>
+      <errors>
+        <error xtype="ý4í" eid="0" />
+      </errors>
+  </revision>
   <w>sem</w>
   <w>Microsoft</w>
   <w>Business</w>

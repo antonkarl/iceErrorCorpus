@@ -27,9 +27,10 @@
   <w>her</w>
   <revision id="0">
     <original><w>múslima</w></original>
-    <corrected><w>múslíma</w></corrected>
+    <corrected><w>múslíma</w><w>var</w></corrected>
       <errors>
         <error xtype="missing-accent" eid="0" />
+        <error xtype="missing-word" eid="0" />
       </errors>
   </revision>
   <w>undir</w>
@@ -135,6 +136,13 @@
   <w>innrásarhersins</w>
   <w>og</w>
   <w>Tours</w>
+  <revision id="0b">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
   <w>sem</w>
   <w>þeir</w>
   <w>hugðust</w>
