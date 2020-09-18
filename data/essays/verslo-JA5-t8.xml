@@ -209,7 +209,14 @@
   <w>fram</w>
   <w>ósköp</w>
   <w>venjulegt</w>
-  <w>heimilslíf</w>
+  <revision id="1a">
+    <original><w>heimilslíf</w></original>
+    <corrected><w>heimilislíf</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="1a-1" eid="0" />
+        <error xtype="compound-nonword" idx="1a-1" eid="0" />
+      </errors>
+  </revision>
   <w>sem</w>
   <w>er</w>
   <w>að</w>
@@ -823,7 +830,14 @@
 </s><s n="32">
   <w>Þegar</w>
   <w>tvær</w>
-  <w>mannekskjur</w>
+  <revision id="17a">
+    <original><w>mannekskjur</w></original>
+    <corrected><w>manneskjur</w></corrected>
+      <errors>
+        <error xtype="swapped-letters" idx="17a-1" eid="0" />
+        <error xtype="nonword" idx="17a-1" eid="0" />
+      </errors>
+  </revision>
   <w>langar</w>
   <w>að</w>
   <w>giftast</w>
