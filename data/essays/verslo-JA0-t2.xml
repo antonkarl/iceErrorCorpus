@@ -618,7 +618,13 @@
   <w>fjölmiðlakóngar</w>
   <w>eru</w>
   <w>oft</w>
-  <w>á</w>
+  <revision id="12a">
+    <original><w>á</w></original>
+    <corrected><w>og</w></corrected>
+      <errors>
+        <error xtype="collocation" eid="0" />
+      </errors>
+  </revision>
   <w>tíðum</w>
   <w>mjög</w>
   <w>valdamiklir</w>
@@ -934,7 +940,13 @@
   <w>það</w>
   <w>fær</w>
   <w>ekki</w>
-  <w>samskonar</w>
+  <revision id="15a">
+    <original><w>samskonar</w></original>
+    <corrected><w>sams</w><w>konar</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>ríkisábyrgð</w>
   <w>og</w>
   <w>verður</w>
