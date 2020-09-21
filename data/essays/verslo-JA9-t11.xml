@@ -584,7 +584,14 @@
   <w>eru</w>
   <w>á</w>
   <w>eru</w>
-  <w>lítilsvægar</w>
+  <revision id="3a">
+    <original><w>lítilsvægar</w></original>
+    <corrected><w>lítilvægar</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="3a-1" eid="0" />
+        <error xtype="nonword" idx="3a-1" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>borið</w>
   <w>saman</w>
@@ -641,7 +648,14 @@
   <w>af</w>
   <w>hvaða</w>
   <w>braut</w>
-  <w>nemendinn</w>
+  <revision id="3b">
+    <original><w>nemendinn</w></original>
+    <corrected><w>nemandinn</w></corrected>
+      <errors>
+        <error xtype="nonword" idx="3b-1" eid="0" />
+        <error xtype="swapped-letters" idx="3b-1" eid="0" />
+      </errors>
+  </revision>
   <w>útskrifaðist</w>
   <revision id="4">
     <original><w>af</w></original>
