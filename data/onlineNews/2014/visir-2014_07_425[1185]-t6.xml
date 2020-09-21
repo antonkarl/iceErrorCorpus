@@ -1289,7 +1289,13 @@
   <w>og</w>
   <w>setti</w>
   <w>boltann</w>
-  <w>framhjá</w>
+  <revision id="52a">
+    <original><w>framhjá</w></original>
+    <corrected><w>fram</w><w>hjá</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>markinu</w>
   <c>.</c>
 </s>
