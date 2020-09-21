@@ -75,7 +75,14 @@
   <w>á</w>
   <w>Austurvelli</w>
   <w>í</w>
-  <w>gærvköldi</w>
+  <revision id="1a">
+    <original><w>gærvköldi</w></original>
+    <corrected><w>gærkvöldi</w></corrected>
+      <errors>
+        <error xtype="swapped-letters" idx="1a-1" eid="0" />
+        <error xtype="compound-nonword" idx="1a-1" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>en</w>
   <w>árásarmaðurinn</w>
