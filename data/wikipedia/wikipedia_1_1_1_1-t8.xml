@@ -14,17 +14,7 @@
   </fileDesc>
 </teiHeader>
 <text><body><p n="1">
-<s n="1">
-  <c>(</c>
-  <c>„</c>
-  <w>sjá</w>
-  <w>hvernig</w>
-  <w>hún</w>
-  <w>flýtur</w>
-  <c>“</c>
-  <c>)</c>
-  <c>.</c>
-</s><s n="2">
+<s n="2">
   <w>Margir</w>
   <w>hafa</w>
   <w>dregið</w>
@@ -205,7 +195,13 @@
   <w>Bretlandi</w>
   <c>.</c>
 </s><s n="10">
-  <w>Skipsgerðin</w>
+  <revision id="3b">
+    <original><w>Skipsgerðin</w></original>
+    <corrected><w>Skipstegundin</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
   <w>þróaðist</w>
   <w>aðallega</w>
   <w>í</w>
@@ -922,6 +918,15 @@
   <w>scoons</w>
   <c>!</c>
   <c>“</c>
+  <c>(</c>
+  <c>„</c>
+  <w>sjá</w>
+  <w>hvernig</w>
+  <w>hún</w>
+  <w>flýtur</w>
+  <c>“</c>
+  <c>)</c>
+  <c>.</c>
 </s><s n="42">
   <w>Íslenskir</w>
   <w>kaupmenn</w>

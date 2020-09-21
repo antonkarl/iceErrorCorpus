@@ -370,7 +370,14 @@
   <w>í</w>
   <w>skjölum</w>
   <w>innra</w>
-  <w>eftirlitisins</w>
+  <revision id="6b">
+    <original><w>eftirlitisins</w></original>
+    <corrected><w>eftirlitsins</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="6b-1" eid="0" />
+        <error xtype="nonword" idx="6b-1" eid="0" />
+      </errors>
+  </revision>
   <w>sem</w>
   <w>lekið</w>
   <w>var</w>
@@ -439,7 +446,13 @@
 </s>
 <s n="12">
   <w>Nánast</w>
-  <w>samstundis</w>
+  <revision id="7b">
+    <original><w>samstundis</w></original>
+    <corrected><w>strax</w></corrected>
+      <errors>
+        <error xtype="collocation" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>hann</w>
   <w>hljóp</w>

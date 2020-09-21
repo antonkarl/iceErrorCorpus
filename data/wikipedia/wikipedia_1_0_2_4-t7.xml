@@ -19,9 +19,7 @@
   <w>merkir</w>
   <w><hi>rönd</hi></w>
   <c>(</c>
-  <w>sbr</w>
-  <c>.</c>
-</s><s n="2">
+  <w>sbr.</w>
   <w><hi>Saum</hi></w>
   <w>á</w>
   <w>þýsku</w>
@@ -188,7 +186,13 @@
   </revision>
   <w>í</w>
   <w>hendur</w>
-  <w>Frökkum</w>
+  <revision id="3b">
+    <original><w>Frökkum</w></original>
+    <corrected><w>Frakka</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0"/>
+      </errors>
+  </revision>
   <w>1747</w>
   <w>eftir</w>
   <w>70</w>

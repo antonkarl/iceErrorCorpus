@@ -365,7 +365,13 @@
   <w>hljóp</w>
   <w>meðal</w>
   <w>annars</w>
-  <w>annars</w>
+  <revision id="10b">
+    <original><w>annars</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="repeat-word" eid="0" />
+      </errors>
+  </revision>
   <w>fram</w>
   <w>hjá</w>
   <w>Þórði</w>
@@ -439,7 +445,13 @@
   <w>að</w>
   <w>opna</w>
   <w>herbergi</w>
-  <w>28.</w>
+  <revision id="10c">
+    <original><w>28.</w></original>
+    <corrected><w>28</w></corrected>
+      <errors>
+        <error xtype="extra-period" eid="0" />
+      </errors>
+  </revision>
   <w>en</w>
   <w>það</w>
   <w>var</w>

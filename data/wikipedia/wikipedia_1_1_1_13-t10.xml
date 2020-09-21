@@ -1070,7 +1070,14 @@
   <w>hlutverk</w>
   <w>sitt</w>
   <w>í</w>
-  <w>myndinn</w>
+  <revision id="39b">
+    <original><w>myndinn</w></original>
+    <corrected><w>myndinni</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="39b-1" eid="0"/>
+        <error xtype="nonword" idx="39b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>jókst</w>
   <w>hróður</w>
   <w>hans</w>
@@ -1493,7 +1500,14 @@
   <w>Sheen</w>
   <w>samdi</w>
   <w>við</w>
-  <w>veiðmennina</w>
+  <revision id="44b">
+    <original><w>veiðmennina</w></original>
+    <corrected><w>veiðimennina</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="44b-1" eid="0"/>
+        <error xtype="nonword" idx="44b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>á</w>
   <w>meðan</w>
   <w>Watson</w>

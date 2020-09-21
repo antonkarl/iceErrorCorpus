@@ -141,7 +141,13 @@
   <w>en</w>
   <w>líta</w>
   <w>má</w>
-  <w>má</w>
+  <revision id="1b">
+    <original><w>má</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="repeat-word" eid="0"/>
+      </errors>
+  </revision>
   <w>á</w>
   <w>hana</w>
   <w>að</w>
@@ -219,8 +225,10 @@
   <w>Íslands</w>
   <c>.</c>
 </s><s n="12">
-  <c>-</c>
-  <w>prófi</w>
+  <w>Hann</w>
+  <w>lauk</w>
+  <w>Mag.</w>
+  <w>Scient.-prófi</w>
   <w>árið 1904</w>
   <c>.</c>
 </s><s n="13">
@@ -357,12 +365,6 @@
   <w>Det</w>
   <w>polytekniske</w>
   <w>Læreanstalt</w>
-  <c>.</c>
-</s><s n="19">
-  <w>Hann</w>
-  <w>lauk</w>
-  <w>Mag.</w>
-  <w>Scient</w>
   <c>.</c>
 </s><s n="20">
   <w>Ólafur</w>

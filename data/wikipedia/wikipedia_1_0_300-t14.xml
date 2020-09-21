@@ -559,7 +559,14 @@
   <w>fram</w>
   <w>með</w>
   <w>hugtakið</w>
-  <w>óríentalismi</w>
+  <revision id="16b">
+    <original><w>óríentalismi</w></original>
+    <corrected><w>oríentalismi</w></corrected>
+      <errors>
+        <error xtype="extra-accent" idx="16b-1" eid="0" />
+        <error xtype="nonword" idx="16b-1" eid="0" />
+      </errors>
+  </revision>
   <w>í</w>
   <w>samnefndri</w>
   <w>bók</w>
@@ -578,7 +585,13 @@
   <w>slíkar</w>
   <w>hugmyndir</w>
   <w>um</w>
-  <w>óríentinn</w>
+  <revision id="16c">
+    <original><w>óríentinn</w></original>
+    <corrected><w>oríentinn</w></corrected>
+      <errors>
+        <error xtype="extra-accent" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>lýsti</w>
   <w>því</w>
@@ -1060,7 +1073,13 @@
   <c>,</c>
   <w>Akkadíumenn</w>
   <c>,</c>
-  <w>Assyringar</w>
+  <revision id="28b">
+    <original><w>Assyringar</w></original>
+    <corrected><w>Assýringar</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>Babýlóníumenn</w>
   <c>)</c>
@@ -1969,7 +1988,14 @@
   <w>langvarandi</w>
   <w>hernaðar</w>
   <w>milli</w>
-  <w>Rómarveldis</w>
+  <revision id="53b">
+    <original><w>Rómarveldis</w></original>
+    <corrected><w>Rómaveldis</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="53b-1" eid="0" />
+        <error xtype="compound-nonword" idx="53b-1" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>Persíu</w>
   <c>.</c>
@@ -3431,7 +3457,13 @@
   <w>þingsins</w>
   <w>um</w>
   <w>eðli</w>
-  <w>krists</w>
+  <revision id="107b">
+    <original><w>krists</w></original>
+    <corrected><w>Krists</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>ásamt</w>
   <w>fleiri</w>
@@ -3666,7 +3698,13 @@
   <w>úr</w>
   <w>hópi</w>
   <w>þriggja</w>
-  <w>fyrirfram</w>
+  <revision id="118b">
+    <original><w>fyrirfram</w></original>
+    <corrected><w>fyrir</w><w>fram</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>ákveðinna</w>
   <w>munka</w>
   <w>sem</w>
@@ -4799,7 +4837,13 @@
   <w>hinn</w>
   <w>áttunda</w>
   <w>og</w>
-  <w>ljúka</w>
+  <revision id="159c">
+    <original><w>ljúka</w></original>
+    <corrected><w>þeim</w><w>lýkur</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
   <w>tólfta</w>
   <w>eða</w>
   <w>þrettánda</w>
@@ -5143,7 +5187,13 @@
 <s n="169">
   <w>Súnnítar</w>
   <w>viðurkenna</w>
-  <w>ennfremur</w>
+  <revision id="176b">
+    <original><w>ennfremur</w></original>
+    <corrected><w>enn</w><w>fremur</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>hinar</w>
   <w>sex</w>
   <w>bækur</w>
@@ -5205,7 +5255,13 @@
   <w>tuttugustu</w>
   <w>öld</w>
   <w>voru</w>
-  <w>Súnnítar</w>
+  <revision id="180b">
+    <original><w>Súnnítar</w></original>
+    <corrected><w>súnnítar</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
   <w>í</w>
   <w>meirihluta</w>
   <w>í</w>
@@ -6642,8 +6698,8 @@
   <w>slíkt</w>
   <w>fólk</w>
   <w>sem</w>
-  <w>Zkuffar</w>
-  <w>ni‘maZ</w>
+  <w><hi>kuffar</hi></w>
+  <w><hi>ni‘ma</hi></w>
   <w>eða</w>
   <w>vantrúaða</w>
   <w>sem</w>
@@ -8957,7 +9013,14 @@
       </errors>
   </revision>
   <w>ekki</w>
-  <w>stjórnaskrá</w>
+  <revision id="358b">
+    <original><w>stjórnaskrá</w></original>
+    <corrected><w>stjórnarskrá</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="358b-1" eid="0" />
+        <error xtype="compound-nonword" idx="358b-1" eid="0" />
+      </errors>
+  </revision>
   <w>hefur</w>
   <w>ríkið</w>
   <w>svokölluð</w>
@@ -9500,6 +9563,8 @@
     <corrected><w>í</w><w>ríkisstjórnina</w></corrected>
       <errors>
         <error xtype="dep" depId="376-1" eid="0" />
+        <error xtype="compound-collocation" depId="377-1" eid="0" />
+        <error xtype="compound-nonword" depId="377-1" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -9699,7 +9764,14 @@
   <w>hefur</w>
   <w>þó</w>
   <w>engin</w>
-  <w>raunverulög</w>
+  <revision id="386b">
+    <original><w>raunverulög</w></original>
+    <corrected><w>raunveruleg</w></corrected>
+      <errors>
+        <error xtype="letter-rep" idx="386b-1" eid="0" />
+        <error xtype="nonword" idx="386b-1" eid="0" />
+      </errors>
+  </revision>
   <w>völd</w>
   <c>.</c>
 </s>

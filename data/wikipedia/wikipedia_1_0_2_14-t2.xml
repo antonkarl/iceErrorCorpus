@@ -54,7 +54,13 @@
   <w>ættum</w>
   <w>gullsmiða</w>
   <w>og</w>
-  <w>húsgagnasmíðara</w>
+  <revision id="0">
+    <original><w>húsgagnasmíðara</w></original>
+    <corrected><w>húsgagnasmiða</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="4">
   <w>Hann</w>
@@ -99,7 +105,13 @@
   <w>verk</w>
   <w>hans</w>
   <w>út</w>
-  <w>ferillinn</w>
+  <revision id="0b">
+    <original><w>ferillinn</w></original>
+    <corrected><w>ferilinn</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0"/>
+      </errors>
+  </revision>
   <c>,</c>
   <w>sem</w>
   <w>og</w>

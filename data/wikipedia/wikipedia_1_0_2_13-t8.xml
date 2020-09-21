@@ -205,7 +205,13 @@
   <w>öðru</w>
   <w>sæti</w>
   <w>í</w>
-  <w>norðausturkjördæmi</w>
+  <revision id="3b">
+    <original><w>norðausturkjördæmi</w></original>
+    <corrected><w>Norðausturkjördæmi</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
   <w>og</w>
   <w>Haraldur</w>
   <w>Benediktsson</w>
@@ -216,7 +222,13 @@
   <w>öðru</w>
   <w>sæti</w>
   <w>í</w>
-  <w>norðvesturkjördæmi</w>
+  <revision id="3c">
+    <original><w>norðvesturkjördæmi</w></original>
+    <corrected><w>Norðvesturkjördæmi</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="9">
   <w>Einar</w>
@@ -556,7 +568,13 @@
   <w>á</w>
   <w>kjörskrá</w>
   <w>á</w>
-  <w>bakvið</w>
+  <revision id="5b">
+    <original><w>bakvið</w></original>
+    <corrected><w>bak</w><w>við</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0"/>
+      </errors>
+  </revision>
   <w>hvert</w>
   <w>þingsæti</w>
   <w>ríflega</w>
@@ -648,7 +666,13 @@
   <w>prófkjöri</w>
   <w>flokksins</w>
   <w>í</w>
-  <w>suðvesturkjördæmi</w>
+  <revision id="7b">
+    <original><w>suðvesturkjördæmi</w></original>
+    <corrected><w>Suðvesturkjördæmi</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
   <w>þar</w>
   <w>sem</w>
   <w>Árni</w>
@@ -695,7 +719,13 @@
   <c>.</c>
 </s><s n="27">
   <w>Í</w>
-  <w>norðvesturkjördæmi</w>
+  <revision id="7c">
+    <original><w>norðvesturkjördæmi</w></original>
+    <corrected><w>Norðvesturkjördæmi</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
   <w>var</w>
   <w>kosið</w>
   <w>í</w>
@@ -770,7 +800,13 @@
   <w>Reykjavík</w>
   <w>frekar</w>
   <w>en</w>
-  <w>norðausturkjördæmi</w>
+  <revision id="8b">
+    <original><w>norðausturkjördæmi</w></original>
+    <corrected><w>Norðausturkjördæmi</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
   <w>en</w>
   <w>var</w>
   <w>ekki</w>
@@ -945,7 +981,15 @@
   <w>embætti</w>
   <c>.</c>
 </s><s n="40">
-  <w>Nýjir</w>
+  <revision id="8c">
+    <original><w>Nýjir</w></original>
+    <corrected><w>Nýir</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="8c-1" eid="0"/>
+        <error xtype="pronun-writing" idx="8c-1" eid="0"/>
+        <error xtype="nonword" idx="8c-1" eid="0"/>
+      </errors>
+  </revision>
   <w>frambjóðendur</w>
   <w>sem</w>
   <w>ekki</w>
@@ -989,7 +1033,13 @@
   <w>öðru</w>
   <w>sæti</w>
   <w>í</w>
-  <w>norðausturkjördæmi</w>
+  <revision id="9b">
+    <original><w>norðausturkjördæmi</w></original>
+    <corrected><w>Norðausturkjördæmi</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="41">
   <w>Stefnumál</w>
@@ -1097,7 +1147,13 @@
   <c>.</c>
 </s><s n="46">
   <w>Í</w>
-  <w>suðurkjördæmi</w>
+  <revision id="10b">
+    <original><w>suðurkjördæmi</w></original>
+    <corrected><w>Suðurkjördæmi</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
   <w>var</w>
   <w>Arndís</w>
   <w>Soffía</w>
@@ -1247,7 +1303,14 @@
   <w>hafa</w>
   <w>áhrif</w>
   <w>á</w>
-  <w>stjónmálaumræðuna</w>
+  <revision id="11b">
+    <original><w>stjónmálaumræðuna</w></original>
+    <corrected><w>stjórnmálaumræðuna</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="11b-1" eid="0"/>
+        <error xtype="nonword" idx="11b-1" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="53">
   <w>Halldór</w>
@@ -1313,7 +1376,13 @@
   <w>aðeins</w>
   <w>framboðslista</w>
   <w>í</w>
-  <w>norðvesturkjördæmi</w>
+  <revision id="11c">
+    <original><w>norðvesturkjördæmi</w></original>
+    <corrected><w>Norðvesturkjördæmi</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="56">
   <w>Samkvæmt</w>
@@ -1366,7 +1435,7 @@
   <w>um</w>
   <w>það</w>
   <w>hvort</w>
-  <revision id="11b">
+  <revision id="11d">
     <original><w>að</w></original>
     <corrected></corrected>
       <errors>
@@ -1389,7 +1458,13 @@
   <w>sig</w>
   <w>fram</w>
   <w>í</w>
-  <w>norðausturkjördæmi</w>
+  <revision id="11e">
+    <original><w>norðausturkjördæmi</w></original>
+    <corrected><w>Norðausturkjördæmi</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
   <w>þegar</w>
   <w>sá</w>
   <w>fyrrnefndi</w>
@@ -1414,9 +1489,21 @@
   <w>eitt</w>
   <w>sæti</w>
   <w>frá</w>
-  <w>norðvesturkjördæmi</w>
+  <revision id="12b">
+    <original><w>norðvesturkjördæmi</w></original>
+    <corrected><w>Norðvesturkjördæmi</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
   <w>til</w>
-  <w>suðvesturkjördæmis</w>
+  <revision id="12c">
+    <original><w>suðvesturkjördæmis</w></original>
+    <corrected><w>Suðvesturkjördæmis</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="60">
   <w>Aðstandendur</w>
@@ -1528,7 +1615,13 @@
   <c>)</c>
   <w>en</w>
   <w>í</w>
-  <w>suðurkjördæmi</w>
+  <revision id="15b">
+    <original><w>suðurkjördæmi</w></original>
+    <corrected><w>Suðurkjördæmi</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
   <w>var</w>
   <w>stillt</w>
   <w>upp</w>
@@ -1539,7 +1632,13 @@
   <w>Í</w>
   <w>prófkjörinu</w>
   <w>í</w>
-  <w>suðvesturkjördæmi</w>
+  <revision id="15c">
+    <original><w>suðvesturkjördæmi</w></original>
+    <corrected><w>Suðvesturkjördæmi</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
   <w>vakti</w>
   <w>athygli</w>
   <w>að</w>
@@ -1569,7 +1668,14 @@
   <w>Bjarnasyni</w>
   <w>sem</w>
   <w>sóttist</w>
-  <w>efir</w>
+  <revision id="15d">
+    <original><w>efir</w></original>
+    <corrected><w>eftir</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="15d-1" eid="0"/>
+        <error xtype="nonword" idx="15d-1" eid="0"/>
+      </errors>
+  </revision>
   <w>1.</w>
   <c>–</c>
   <w>6.</w>
@@ -1886,11 +1992,29 @@
   <c>.</c>
 </s><s n="80">
   <w>Í</w>
-  <w>norðausturkjördæmi</w>
+  <revision id="17b">
+    <original><w>norðausturkjördæmi</w></original>
+    <corrected><w>Norðausturkjördæmi</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
   <c>,</c>
-  <w>suðurkjördæmi</w>
+  <revision id="17c">
+    <original><w>suðurkjördæmi</w></original>
+    <corrected><w>Suðurkjördæmi</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
   <w>og</w>
-  <w>suðvesturkjördæmi</w>
+  <revision id="17d">
+    <original><w>suðvesturkjördæmi</w></original>
+    <corrected><w>Suðvesturkjördæmi</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
   <w>var</w>
   <w>valið</w>
   <w>á</w>
@@ -1901,7 +2025,13 @@
   <w>kjördæmisþingi</w>
   <w>en</w>
   <w>í</w>
-  <w>norðvesturkjördæmi</w>
+  <revision id="17e">
+    <original><w>norðvesturkjördæmi</w></original>
+    <corrected><w>Norðvesturkjördæmi</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
   <w>og</w>
   <w>Reykjavíkurkjördæmunum</w>
   <w>var</w>
@@ -2131,7 +2261,13 @@
   <w>fyrir</w>
   <w>Framsóknarflokkinn</w>
   <w>í</w>
-  <w>norðvesturkjördæmi</w>
+  <revision id="19b">
+    <original><w>norðvesturkjördæmi</w></original>
+    <corrected><w>Norðvesturkjördæmi</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
   <w>í</w>
   <w>kosningunum</w>
   <w>2009</w>
@@ -2207,7 +2343,13 @@
   <w>Í</w>
   <w>prófkjöri</w>
   <w>í</w>
-  <w>suðvesturkjördæmi</w>
+  <revision id="19c">
+    <original><w>suðvesturkjördæmi</w></original>
+    <corrected><w>Suðvesturkjördæmi</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
   <w>buðu</w>
   <w>Ögmundur</w>
   <w>Jónasson</w>
@@ -2372,7 +2514,10 @@
   <w>fengið</w>
   <w>úthlutað</w>
   <w>listabókstafnum</w>
-  <w>T.</w>
+  <w>T</w>
+  <c>.</c>
+</s>
+<s n="105b">
   <w>Sérstök</w>
   <w>13</w>
   <w>manna</w>
@@ -2492,7 +2637,13 @@
   <w>4.</w>
   <w>sæti</w>
   <w>í</w>
-  <w>norðausturkjördæmi</w>
+  <revision id="19d">
+    <original><w>norðausturkjördæmi</w></original>
+    <corrected><w>Norðausturkjördæmi</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
   <w>og</w>
   <w>á</w>
   <w>litla</w>
@@ -2647,7 +2798,13 @@
   <w>öðru</w>
   <w>sæti</w>
   <w>í</w>
-  <w>norðausturkjördæmi</w>
+  <revision id="21b">
+    <original><w>norðausturkjördæmi</w></original>
+    <corrected><w>Norðausturkjördæmi</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
   <w>2009</w>
   <w>og</w>
   <w>ætlaði</w>
@@ -2748,13 +2905,25 @@
   <w>í</w>
   <w>prófkjörinu</w>
   <w>í</w>
-  <w>norðvesturkjördæmi</w>
+  <revision id="21c">
+    <original><w>norðvesturkjördæmi</w></original>
+    <corrected><w>Norðvesturkjördæmi</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
   <w>og</w>
   <w>Steingrímur</w>
   <w>J.</w>
   <w>Sigfússon</w>
   <w>í</w>
-  <w>norðausturkjördæmi</w>
+  <revision id="21d">
+    <original><w>norðausturkjördæmi</w></original>
+    <corrected><w>Norðausturkjördæmi</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="121">
   <w>Í</w>
@@ -2895,13 +3064,7 @@
   <w>stjórnmálum</w>
   <w>og</w>
   <w>leggur</w>
-  <revision id="24">
-    <original><w>m.</w><w>a</w><c>.</c></original>
-    <corrected><w>m.a.</w></corrected>
-      <errors>
-        <error xtype="extra-space" eid="0"/>
-      </errors>
-  </revision>
+  <w>m.a.</w>
   <w>áherslu</w>
   <w>á</w>
   <w>umhverfismál</w>
@@ -2995,7 +3158,14 @@
   <w>og</w>
   <w>hælisleitenda</w>
   <w>eru</w>
-  <w>flokkinum</w>
+  <revision id="25b">
+    <original><w>flokkinum</w></original>
+    <corrected><w>flokknum</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="25b-1" eid="0"/>
+        <error xtype="nonword" idx="25b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>mjög</w>
   <w>hugleikin</w>
   <w>en</w>
@@ -3076,7 +3246,10 @@
   <w>fengið</w>
   <w>úthlutað</w>
   <w>listabókstafnum</w>
-  <w>K.</w>
+  <w>K</w>
+  <c>.</c>
+</s>
+<s n="133b">
   <w>Það</w>
   <w>býður</w>
   <w>einungis</w>

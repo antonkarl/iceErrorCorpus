@@ -149,8 +149,13 @@
   <w>haug</w>
   <w>með</w>
   <w>sínum</w>
-  <w>uppáhalds</w>
-  <w>vopnum</w>
+  <revision id="3b">
+    <original><w>uppáhalds</w><w>vopnum</w></original>
+    <corrected><w>uppáhaldsvopnum</w></corrected>
+      <errors>
+        <error xtype="split-word" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>klæddir</w>
   <w>í</w>
@@ -389,9 +394,10 @@
   <w>Í</w>
   <w>kumlatalinu</w>
   <w>í</w>
+  <w>2.</w>
   <revision id="7">
-    <original><w>2</w><c>.</c><w>Útgáfu</w></original>
-    <corrected><w>2.</w><w>útgáfu</w></corrected>
+    <original><w>Útgáfu</w></original>
+    <corrected><w>útgáfu</w></corrected>
       <errors>
         <error xtype="extra-space" eid="0" />
       </errors>

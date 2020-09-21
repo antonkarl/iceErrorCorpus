@@ -67,7 +67,13 @@
   <w>til</w>
   <w>Skotlands</w>
   <w>ásamt</w>
-  <w>Margrét</w>
+  <revision id="0">
+    <original><w>Margrét</w></original>
+    <corrected><w>Margréti</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0"/>
+      </errors>
+  </revision>
   <w>drottningu</w>
   <w>og</w>
   <w>syni</w>
@@ -123,7 +129,58 @@
   <w>hans</w>
   <c>,</c>
   <w>Karl</w>
-  <w>6</w>
+  <w>6.</w>
+  <w>Frakkakonungur</w>
+  <c>,</c>
+  <w>og</w>
+  <w>erfði</w>
+  <w>Hinrik</w>
+  <w>frönsku</w>
+  <w>krúnuna</w>
+  <w>í</w>
+  <w>samræmi</w>
+  <w>við</w>
+  <w>Troyes-sáttmálann</w>
+  <c>,</c>
+  <w>sem</w>
+  <w>gerður</w>
+  <w>hafði</w>
+  <w>verið</w>
+  <w>árið 1420</w>
+  <c>,</c>
+  <w>en</w>
+  <w>Karl</w>
+  <w>7.</w>
+  <c>,</c>
+  <w>sonur</w>
+  <w>Karls</w>
+  <w>6.</w>
+  <c>,</c>
+  <w>lýsti</w>
+  <w>sig</w>
+  <w>einnig</w>
+  <w>konung</w>
+  <w>og</w>
+  <w>tókst</w>
+  <w>nokkrum</w>
+  <w>árum</w>
+  <w>síðar</w>
+  <w>með</w>
+  <w>aðstoð</w>
+  <w>Jóhönnu</w>
+  <w>af</w>
+  <w>Örk</w>
+  <w>að</w>
+  <w>ná</w>
+  <w>yfirráðum</w>
+  <w>yfir</w>
+  <w>mestöllu</w>
+  <w>Frakklandi</w>
+  <w>og</w>
+  <w>láta</w>
+  <w>krýna</w>
+  <w>sig</w>
+  <w>konung</w>
   <c>.</c>
 </s><s n="8">
   <w>Hann</w>
@@ -938,59 +995,6 @@
   <w>konungurinn</w>
   <w>af</w>
   <w>Lancaster-ætt</w>
-  <c>.</c>
-</s><s n="40">
-  <w>Frakkakonungur</w>
-  <c>,</c>
-  <w>og</w>
-  <w>erfði</w>
-  <w>Hinrik</w>
-  <w>frönsku</w>
-  <w>krúnuna</w>
-  <w>í</w>
-  <w>samræmi</w>
-  <w>við</w>
-  <w>Troyes-sáttmálann</w>
-  <c>,</c>
-  <w>sem</w>
-  <w>gerður</w>
-  <w>hafði</w>
-  <w>verið</w>
-  <w>árið 1420</w>
-  <c>,</c>
-  <w>en</w>
-  <w>Karl</w>
-  <w>7.</w>
-  <c>,</c>
-  <w>sonur</w>
-  <w>Karls</w>
-  <w>6.</w>
-  <c>,</c>
-  <w>lýsti</w>
-  <w>sig</w>
-  <w>einnig</w>
-  <w>konung</w>
-  <w>og</w>
-  <w>tókst</w>
-  <w>nokkrum</w>
-  <w>árum</w>
-  <w>síðar</w>
-  <w>með</w>
-  <w>aðstoð</w>
-  <w>Jóhönnu</w>
-  <w>af</w>
-  <w>Örk</w>
-  <w>að</w>
-  <w>ná</w>
-  <w>yfirráðum</w>
-  <w>yfir</w>
-  <w>mestöllu</w>
-  <w>Frakklandi</w>
-  <w>og</w>
-  <w>láta</w>
-  <w>krýna</w>
-  <w>sig</w>
-  <w>konung</w>
   <c>.</c>
 </s><s n="41">
   <w>Stríðsátök</w>

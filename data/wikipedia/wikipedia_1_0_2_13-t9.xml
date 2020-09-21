@@ -113,7 +113,7 @@
   <w>frystum</w>
   <revision id="3">
     <original><c>.</c><w>Svo</w><w>sér</w><w>maður</w><w>líka</w><w>makríl</w><w>frystan</w></original>
-    <corrected><w>en</w><w>er</w><w>stundum</w><w>frystur</w><w>pokaður</w></corrected>
+    <corrected><w>en</w><w>er</w><w>stundum</w><w>frystur</w><w>í</w><w>pokum</w></corrected>
       <errors>
         <error xtype="period4conjunction" idx="69-1" eid="0"/>
         <error xtype="wording" idx="69-2" eid="0"/>
@@ -1272,7 +1272,13 @@
   <w>frá</w>
   <w>Kólumbíu</w>
   <w>og</w>
-  <w>suðurúr</w>
+  <revision id="79b">
+    <original><w>suðurúr</w></original>
+    <corrected><w>suður</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
   <w>til</w>
   <w>Argentínu</w>
   <w>var</w>

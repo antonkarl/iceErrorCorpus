@@ -48,7 +48,13 @@
   <w>Diderot</w>
   <w>var</w>
   <w>sjálfur</w>
-  <w>allfær</w>
+  <revision id="0">
+    <original><w>allfær</w></original>
+    <corrected><w>fær</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0"/>
+      </errors>
+  </revision>
   <w>stærðfræðingur</w>
   <w>og</w>
   <w>hefði</w>

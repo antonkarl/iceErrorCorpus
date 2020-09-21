@@ -43,7 +43,13 @@
   <w>fjórðu</w>
   <w>dóttur</w>
   <w>Viktoríu</w>
-  <w>Bretadrottningu</w>
+  <revision id="0">
+    <original><w>Bretadrottningu</w></original>
+    <corrected><w>Bretadrottningar</w></corrected>
+      <errors>
+        <error xtype="gen-escape" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="3">
@@ -590,7 +596,13 @@
 </s>
 <s n="27">
   <w>Eftir</w>
-  <w>heimstyrjöldina</w>
+  <revision id="19b">
+    <original><w>heimstyrjöldina</w></original>
+    <corrected><w>heimsstyrjöldina</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" eid="0" />
+      </errors>
+  </revision>
   <w>síðari</w>
   <w>fannst</w>
   <w>olía</w>

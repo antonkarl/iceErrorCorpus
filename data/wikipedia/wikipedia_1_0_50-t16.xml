@@ -68,7 +68,13 @@
 <s n="3">
   <w>Eftir</w>
   <w>tæplega</w>
-  <w>áratugs</w>
+  <revision id="0">
+    <original><w>áratugs</w></original>
+    <corrected><w>áratugar</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
   <w>búrekstur</w>
   <w>Magga</w>
   <w>komst</w>

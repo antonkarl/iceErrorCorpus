@@ -18,7 +18,14 @@
   <w>Múrverk</w>
   <w>efst</w>
   <w>á</w>
-  <w>gríðastóru</w>
+  <revision id="0">
+    <original><w>gríðastóru</w></original>
+    <corrected><w>gríðarstóru</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="0-1" eid="0"/>
+        <error xtype="compound-nonword" idx="0-1" eid="0"/>
+      </errors>
+  </revision>
   <w>veggjunum</w>
   <w>var</w>
   <w>gert</w>
@@ -214,6 +221,23 @@
   <w>löndum</w>
   <c>.</c>
 </s><s n="9">
+  <w>Hún</w>
+  <w>var</w>
+  <w>byggð</w>
+  <w>á</w>
+  <w>tíma</w>
+  <w>Stalíns</w>
+  <w>og</w>
+  <w>var</w>
+  <w>þá</w>
+  <w>kölluð</w>
+  <w>menningar-</w> 
+  <w>og</w> 
+  <w>vísindahöll</w>
+  <w>Jósefs</w>
+  <w>Stalíns</w>
+  <c>(</c>
+  <w>p.</w>
   <w><hi>Pałac</hi></w>
   <w><hi>Kultury</hi></w>
   <w><hi>i</hi></w>
@@ -436,25 +460,6 @@
   <w>bygging</w>
   <w>frá</w>
   <w>upphafi</w>
-  <c>.</c>
-</s><s n="20">
-  <w>Hún</w>
-  <w>var</w>
-  <w>byggð</w>
-  <w>á</w>
-  <w>tíma</w>
-  <w>Stalíns</w>
-  <w>og</w>
-  <w>var</w>
-  <w>þá</w>
-  <w>kölluð</w>
-  <w>menningar-</w> 
-  <w>og</w> 
-  <w>vísindahöll</w>
-  <w>Jósefs</w>
-  <w>Stalíns</w>
-  <c>(</c>
-  <w>p</w>
   <c>.</c>
 </s><s n="21">
   <w>Höllin</w>
