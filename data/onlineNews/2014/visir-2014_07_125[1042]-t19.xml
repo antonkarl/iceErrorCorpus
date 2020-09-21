@@ -28,9 +28,20 @@
   <w>jafnvel</w>
   <w>búist</w>
   <w>við</w>
-  <w>allsherjar</w>
-  <w>innrás</w>
-  <w>ísraelshers</w>
+  <revision id="1c">
+    <original><w>allsherjar</w><w>innrás</w></original>
+    <corrected><w>allsherjarinnrás</w></corrected>
+      <errors>
+        <error xtype="split-words" eid="0" />
+      </errors>
+  </revision>
+  <revision id="1a">
+    <original><w>ísraelshers</w></original>
+    <corrected><w>Ísraelshers</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
   <w>inn</w>
   <w>á</w>
   <w>svæðið</w>
@@ -129,8 +140,13 @@
   <w>gefið</w>
   <w>út</w>
   <w>að</w>
-  <w>allsherjar</w>
-  <w>innrás</w>
+  <revision id="1b">
+    <original><w>allsherjar</w><w>innrás</w></original>
+    <corrected><w>allsherjarinnrás</w></corrected>
+      <errors>
+        <error xtype="split-words" eid="0" />
+      </errors>
+  </revision>
   <w>hersins</w>
   <w>á</w>
   <w>Gaza</w>
@@ -177,7 +193,13 @@
 </s>
 <s n="8">
   <w>Talsmenn</w>
-  <w>ísraelshers</w>
+    <revision id="1c">
+    <original><w>ísraelshers</w></original>
+    <corrected><w>Ísraelshers</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
   <w>segja</w>
   <w>um</w>
   <w>eitt</w>
