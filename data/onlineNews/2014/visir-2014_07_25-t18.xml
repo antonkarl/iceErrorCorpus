@@ -270,7 +270,13 @@
   <w>verða</w>
   <w>ekki</w>
   <w>með</w>
-  <w>fyrirfram</w>
+  <revision id="4a">
+    <original><w>fyrirfram</w></original>
+    <corrected><w>fyrir</w><w>fram</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>mótaðar</w>
   <w>skoðanir</w>
   <w>vegna</w>
