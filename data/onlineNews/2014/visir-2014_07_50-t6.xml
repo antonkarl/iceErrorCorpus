@@ -215,7 +215,14 @@
 <s n="7">
   <w>Jafnframt</w>
   <w>mun</w>
-  <w>fjárfestingabankinn</w>
+  <revision id="6a">
+    <original><w>fjárfestingabankinn</w></original>
+    <corrected><w>fjárfestingarbankinn</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="6a-1" eid="0" />
+        <error xtype="compound-nonword" idx="6a-1" eid="0" />
+      </errors>
+  </revision>
   <w>JP</w>
   <w>Morgan</w>
   <w>liðsinna</w>
