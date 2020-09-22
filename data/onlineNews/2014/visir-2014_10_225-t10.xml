@@ -63,7 +63,13 @@
   <w>Sigurður</w>
   <w>léttur</w>
   <w>í</w>
-  <w>lundu</w>
+  <revision id="1a">
+    <original><w>lundu</w></original>
+    <corrected><w>lund</w></corrected>
+      <errors>
+        <error xtype="collocation-idiom" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="5">
   <c>„</c>
@@ -215,7 +221,13 @@
       </errors>
   </revision>
   <w>en</w>
-  <w>þarsíðustu</w>
+  <revision id="7a">
+    <original><w>þarsíðustu</w></original>
+    <corrected><w>þar</w><w>síðustu</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>helgi</w>
   <w>þurfti</w>
   <w>að</w>
