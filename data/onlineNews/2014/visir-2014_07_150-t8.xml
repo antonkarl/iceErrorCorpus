@@ -178,7 +178,14 @@
   <w>fyrirkomulagi</w>
   <w>útblásturs</w>
   <w>og</w>
-  <w>drefingu</w>
+  <revision id="1a">
+    <original><w>drefingu</w></original>
+    <corrected><w>dreifingu</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="1a-1" eid="0" />
+        <error xtype="nonword" idx="1a-1" eid="0" />
+      </errors>
+  </revision>
   <w>hans</w>
   <c>.</c>
 </s>
