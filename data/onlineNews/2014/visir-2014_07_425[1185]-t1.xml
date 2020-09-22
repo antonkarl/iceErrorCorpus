@@ -17,7 +17,13 @@
 <s n="1">
   <w>Gengi</w>
   <w>bréfa</w>
-  <w>i</w>
+  <revision id="1a">
+    <original><w>i</w></original>
+    <corrected><w>í</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <w>öllum</w>
   <w>tryggingafélögunum</w>
   <w>sem</w>
