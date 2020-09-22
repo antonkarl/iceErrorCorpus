@@ -31,7 +31,14 @@
   <w>er</w>
   <w>Efnahagsnefnd</w>
   <w>Sameinuðu</w>
-  <w>þjóðana</w>
+  <revision id="0">
+    <original><w>þjóðana</w></original>
+    <corrected><w>þjóðanna</w></corrected>
+      <errors>
+        <error xtype="n4nn" idx="0-1" eid="0" />
+        <error xtype="nonword" idx="0-1" eid="0" />
+      </errors>
+  </revision>
   <w>í</w>
   <w>Evrópu</w>
   <c>(</c>
@@ -175,7 +182,13 @@
   <c>.</c>
 </s>
 <s n="10">
-  <w>Hinsvegar</w>
+  <revision id="5b">
+    <original><w>Hinsvegar</w></original>
+    <corrected><w>Hins</w><w>vegar</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>hefur</w>
   <w>Evrópusambandið</w>
   <w>skilgreint</w>
