@@ -143,7 +143,13 @@
   <w>Guðmann</w>
   <w>Þórisson</w>
   <w>kom</w>
-  <w>inná</w>
+  <revision id="3a">
+    <original><w>inná</w></original>
+    <corrected><w>inn</w><w>á</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>sem</w>
   <w>varamaður</w>
   <w>í</w>
@@ -170,7 +176,14 @@
   <w>Mjallby</w>
   <w>er</w>
   <w>í</w>
-  <w>fjórtanda</w>
+  <revision id="3b">
+    <original><w>fjórtanda</w></original>
+    <corrected><w>fjórtánda</w></corrected>
+      <errors>
+        <error xtype="missing-accent" idx="3b-1" eid="0" />
+        <error xtype="nonword" idx="3b-1" eid="0" />
+      </errors>
+  </revision>
   <w>sæti</w>
   <w>með</w>
   <w>ellefu</w>
