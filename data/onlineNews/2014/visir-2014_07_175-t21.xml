@@ -950,7 +950,13 @@
   <c>„</c>
   <w>Ljósastaurinn</w>
   <w>er</w>
-  <w>ennþá</w>
+  <revision id="7a">
+    <original><w>ennþá</w></original>
+    <corrected><w>enn</w><w>þá</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>á</w>
   <w>sínum</w>
   <w>stað</w>
@@ -1036,7 +1042,7 @@
   <w>hann</w>
   <c>?</c>
   <c>“</c>
-  <w>spyr</w>
+  <w>Spyr</w>
   <w>Kristján</w>
   <c>.</c>
 </s>
