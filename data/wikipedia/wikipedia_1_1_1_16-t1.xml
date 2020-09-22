@@ -679,7 +679,13 @@
   <w>þar</w>
   <w>fundust</w>
   <w>einnig</w>
-  <w>ýmis</w>
+  <revision id="9b">
+    <original><w>ýmis</w></original>
+    <corrected><w>ýmiss</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0"/>
+      </errors>
+  </revision>
   <w>konar</w>
   <w>áhöld</w>
   <c>,</c>

@@ -905,14 +905,7 @@
   <w>Til</w>
   <w>að</w>
   <w>prjóna</w>
-  <revision id="34">
-    <original><w>t</w><c>.</c><w>d.</w></original>
-    <corrected><w>t.d.</w></corrected>
-      <errors>
-        <error xtype="extra-space" idx="21-1" eid="0"/>
-        <error xtype="extra-space" idx="21-1" eid="0"/>
-      </errors>
-  </revision>
+  <w>t.d.</w>
   <w>sokka</w>
   <w>eða</w>
   <w>vettlinga</w>
@@ -1107,14 +1100,7 @@
   <w>lykkja</w>
   <w>mældur</w>
   <w>yfir</w>
-  <revision id="38">
-    <original><w>t</w><c>.</c><w>d.</w></original>
-    <corrected><w>t.d.</w></corrected>
-      <errors>
-        <error xtype="extra-space" idx="44-1" eid="0"/>
-        <error xtype="extra-space" idx="44-1" eid="0"/>
-      </errors>
-  </revision>
+  <w>t.d.</w>
   <w>10 cm</w>
   <w>á</w>
   <w>breiddina</w>
@@ -1501,7 +1487,13 @@
   <w>sléttprjónaður</w>
   <w>smábarnasokkur</w>
   <w>sem</w>
-  <w>talið</w>
+  <revision id="48b">
+    <original><w>talið</w></original>
+    <corrected><w>talinn</w></corrected>
+      <errors>
+        <error xtype="agreement-pred" eid="0"/>
+      </errors>
+  </revision>
   <w>er</w>
   <w>vera</w>
   <w>frá</w>

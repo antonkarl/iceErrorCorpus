@@ -33,7 +33,14 @@
   <w>skilgreinir</w>
   <w>fallaskilgreiningar</w>
   <c>,</c>
-  <w>fallabeytingu</w>
+  <revision id="1">
+    <original><w>fallabeytingu</w></original>
+    <corrected><w>fallabeitingu</w></corrected>
+      <errors>
+        <error xtype="y4i" idx="1-1" eid="0"/>
+        <error xtype="nonword" idx="1-1" eid="0"/>
+      </errors>
+  </revision>
   <w>og</w>
   <w>endurkvæmni</w>
   <c>.</c>

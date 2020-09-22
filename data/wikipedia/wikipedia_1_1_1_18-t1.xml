@@ -281,7 +281,14 @@
 </s><s n="12">
   <w>Þar</w>
   <w>gangast</w>
-  <w>lirfunar</w>
+  <revision id="5b">
+    <original><w>lirfunar</w></original>
+    <corrected><w>lirfurnar</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="5b-1" eid="0"/>
+        <error xtype="nonword" idx="5b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>undir</w>
   <w>myndbreytingu</w>
   <w>þar</w>

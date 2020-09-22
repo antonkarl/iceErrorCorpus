@@ -551,7 +551,13 @@
   <w>íbúðakaupa</w>
   <w>á</w>
   <w>sem</w>
-  <w>lægstum</w>
+  <revision id="3b">
+    <original><w>lægstum</w></original>
+    <corrected><w>lægstu</w></corrected>
+      <errors>
+        <error xtype="adjective-inflection" eid="0"/>
+      </errors>
+  </revision>
   <w>vöxtum</w>
   <c>.</c>
 </s><s n="24">
@@ -1243,7 +1249,13 @@
   <w>hann</w>
   <w>laut</w>
   <w>ekki</w>
-  <w>samskonar</w>
+  <revision id="7b">
+    <original><w>samskonar</w></original>
+    <corrected><w>sams</w><w>konar</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0"/>
+      </errors>
+  </revision>
   <w>eftirliti</w>
   <w>og</w>
   <w>þær</w>

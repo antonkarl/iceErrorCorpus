@@ -402,15 +402,7 @@
   <w>sund</w>
   <w>Atlantshafsins</w>
   <w>eru</w>
-  <revision id="7">
-    <original><w>t</w><c>.</c><w>d.</w></original>
-    <corrected><w>t.d.</w></corrected>
-      <errors>
-        <error xtype="extra-space" eid="0" />
-      </errors>
-  </revision>
-</s>
-<s n="18">
+  <w>t.d.</w>
   <w>Karíbahaf</w>
   <c>,</c>
   <w>Mexíkóflói</w>
@@ -517,7 +509,13 @@
   <c>.</c>
 </s>
 <s n="22">
-  <w>Sum</w>
+  <revision id="6b">
+    <original><w>Sum</w></original>
+    <corrected><w>Sums</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
   <w>staðar</w>
   <w>er</w>
   <w>hryggurinn</w>
@@ -583,7 +581,13 @@
   <w>hluti</w>
   <w>botnsins</w>
   <w>er</w>
-  <w>fjalllendur</w>
+  <revision id="6c">
+    <original><w>fjalllendur</w></original>
+    <corrected><w>fjalllendi</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
   <w>á</w>
   <w>meðan</w>
   <w>aðrir</w>
@@ -827,7 +831,13 @@
   <w>gætir</w>
   <w>yfirleitt</w>
   <w>ekki</w>
-  <w>ofsaveðra</w>
+  <revision id="10b">
+    <original><w>ofsaveðra</w></original>
+    <corrected><w>ofsaveðurs</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
   <w>en</w>
   <w>þar</w>
   <w>mætast</w>

@@ -1271,7 +1271,14 @@
   <w>kallað</w>
   <w>innra</w>
   <w>viðnám</w>
-  <w>rafhlöðunar</w>
+  <revision id="24b">
+    <original><w>rafhlöðunar</w></original>
+    <corrected><w>rafhlöðunnar</w></corrected>
+      <errors>
+        <error xtype="n4nn" idx="24b-1" eid="0"/>
+        <error xtype="nonword" idx="24b-1" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="62">
   <w>Þrátt</w>
@@ -1370,7 +1377,13 @@
   <w>að</w>
   <w>finna</w>
   <w>í</w>
-  <w>föndur- og leikfangaverzlunum</w>
+  <revision id="28b">
+    <original><w>föndur- og leikfangaverzlunum</w></original>
+    <corrected><w>föndur- og leikfangaverslunum</w></corrected>
+      <errors>
+        <error xtype="letter-rep" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="65">
   <w>Þegar</w>
@@ -1578,7 +1591,14 @@
   <w>en</w>
   <w>innra</w>
   <w>viðnám</w>
-  <w>rafhlöðunar</w>
+  <revision id="29b">
+    <original><w>rafhlöðunar</w></original>
+    <corrected><w>rafhlöðunnar</w></corrected>
+      <errors>
+        <error xtype="n4nn" idx="29b-1" eid="0"/>
+        <error xtype="nonword" idx="29b-1" eid="0"/>
+      </errors>
+  </revision>
   <c>,</c>
   <w>sem</w>
   <w>er</w>
@@ -2302,7 +2322,13 @@
   <w>er</w>
   <w>notuð</w>
   <w>gerast</w>
-  <w>afturábak</w>
+  <revision id="46b">
+    <original><w>afturábak</w></original>
+    <corrected><w>aftur</w><w>á</w><w>bak</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="108">
   <w>Engin</w>

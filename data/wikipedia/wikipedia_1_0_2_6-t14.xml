@@ -29,8 +29,13 @@
   <w>símann</w>
   <c>.</c>
 </s><s n="3">
-  <w>Uppáhalds</w>
-  <w>frasinn</w>
+  <revision id="0">
+    <original><w>Uppáhalds</w><w>frasinn</w></original>
+    <corrected><w>Uppáhaldsfrasinn</w></corrected>
+      <errors>
+        <error xtype="compound-split" eid="0"/>
+      </errors>
+  </revision>
   <w>hans</w>
   <w>er</w>
   <revision id="1">
@@ -42,8 +47,13 @@
       </errors>
   </revision>
   <w>og</w>
-  <w>uppáhalds</w>
-  <w>vinur</w>
+  <revision id="1b">
+    <original><w>uppáhalds</w><w>vinur</w></original>
+    <corrected><w>uppáhaldsvinur</w></corrected>
+      <errors>
+        <error xtype="compound-split" eid="0"/>
+      </errors>
+  </revision>
   <w>hans</w>
   <w>er</w>
   <w>sparibaukurinn</w>
@@ -240,7 +250,14 @@
   <w>2002</w>
   <w>til</w>
   <w>2006</w>
-  <w>stafrækti</w>
+  <revision id="4b">
+    <original><w>stafrækti</w></original>
+    <corrected><w>starfrækti</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="4b-1" eid="0"/>
+        <error xtype="nonword" idx="4b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>Latibær</w>
   <w>í</w>
   <w>samvinnu</w>
@@ -873,8 +890,13 @@
   <w>sleikjubrjóstsykur</w>
   <c>.</c>
 </s><s n="47">
-  <w>Uppáhalds</w>
-  <w>frasinn</w>
+  <revision id="14b">
+    <original><w>Uppáhalds</w><w>frasinn</w></original>
+    <corrected><w>Uppáhaldsfrasinn</w></corrected>
+      <errors>
+        <error xtype="compound-split" eid="0"/>
+      </errors>
+  </revision>
   <w>hans</w>
   <w>er</w>
   <revision id="15">
@@ -1209,7 +1231,13 @@
   <w>frá</w>
   <w>eyju</w>
   <w>í</w>
-  <w>norðursjó</w>
+  <revision id="20b">
+    <original><w>norðursjó</w></original>
+    <corrected><w>Norðursjó</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
   <c>(</c>
   <w>tilvísun</w>
   <w>í</w>
@@ -1501,12 +1529,23 @@
   <w>leggjast</w>
   <w>í</w>
   <w>leti</w>
-  <w>eru</w>
-  <w>kaldhæðnislegar</w>
+  <revision id="27b">
+    <original><w>eru</w><w>kaldhæðnislegar</w></original>
+    <corrected><w>er</w><w>kaldhæðnisleg</w></corrected>
+      <errors>
+        <error xtype="agreement-pred" eid="0"/>
+      </errors>
+  </revision>
   <c>,</c>
   <w>því</w>
-  <w>þær</w>
-  <w>gera</w>
+  <revision id="27c">
+    <original><w>þær</w><w>gera</w></original>
+    <corrected><w>hún</w><w>gerir</w></corrected>
+      <errors>
+        <error xtype="agreement-pro" eid="0"/>
+        <error xtype="agreement-pred" eid="0"/>
+      </errors>
+  </revision>
   <w>hann</w>
   <w>eflaust</w>
   <w>að</w>

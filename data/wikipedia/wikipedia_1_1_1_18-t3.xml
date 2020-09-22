@@ -53,7 +53,13 @@
   <w>gert</w>
   <w>sínar</w>
   <w>merkustu</w>
-  <w>uppgvötanir</w>
+  <revision id="0">
+    <original><w>uppgvötanir</w></original>
+    <corrected><w>uppgötvanir</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="2">
   <revision id="1">
@@ -359,6 +365,13 @@
   <w>stórum</w>
   <w>hamförum</w>
   <w>eins</w>
+  <revision id="9b">
+    <original></original>
+    <corrected><w>og</w></corrected>
+      <errors>
+        <error xtype="missing-conjunction" eid="0"/>
+      </errors>
+  </revision>
   <w>margir</w>
   <w>trúðu</w>
   <w>á</w>
@@ -600,7 +613,14 @@
   <w>að</w>
   <w>öll</w>
   <w>persónueinkenni</w>
-  <w>mannskepnunar</w>
+  <revision id="16b">
+    <original><w>mannskepnunar</w></original>
+    <corrected><w>mannskepnunnar</w></corrected>
+      <errors>
+        <error xtype="n4nn" idx="16b-1" eid="0"/>
+        <error xtype="nonword" idx="16b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>og</w>
   <w>jafnvel</w>
   <w>háþróaðir</w>
@@ -760,7 +780,13 @@
   <w>sér</w>
   <w>aðallega</w>
   <w>að</w>
-  <w>atferlum</w>
+  <revision id="17b">
+    <original><w>atferlum</w></original>
+    <corrected><w>atferli</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0"/>
+      </errors>
+  </revision>
   <w>og</w>
   <w>hegðun</w>
   <w>og</w>

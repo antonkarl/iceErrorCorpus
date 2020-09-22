@@ -104,10 +104,22 @@
 </s><s n="5">
   <w>Þrátt</w>
   <w>fyrir</w>
-  <w>afbragðs</w>
-  <w>dóma</w>
+  <w>afbragðs</w><w>dóma</w>
+  <revision id="0">
+    <original><w>afbragðs</w><w>dóma</w></original>
+    <corrected><w>afbragðsdóma</w></corrected>
+      <errors>
+        <error xtype="compound-split" eid="0"/>
+      </errors>
+  </revision>
   <w>og</w>
-  <w>vinsældir</w>
+  <revision id="0b">
+    <original><w>vinsældir</w></original>
+    <corrected><w>-vinsældir</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0"/>
+      </errors>
+  </revision>
   <w>erlendis</w>
   <revision id="1">
     <original><c>,</c></original>

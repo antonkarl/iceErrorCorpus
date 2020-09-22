@@ -60,7 +60,13 @@
   <w>gera</w>
   <c>.</c>
 </s><s n="3">
-  <w>Dómstólinn</w>
+  <revision id="1b">
+    <original><w>Dómstólinn</w></original>
+    <corrected><w>Dómstóllinn</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0"/>
+      </errors>
+  </revision>
   <w>var</w>
   <w>stofnaður</w>
   <w>1994</w>
@@ -82,14 +88,7 @@
 </s><s n="4">
   <w>EFTA-dómstóllinn</w>
   <w>hefur</w>
-  <revision id="2">
-    <original><w>t</w><c>.</c><w>d.</w></original>
-    <corrected><w>t.d.</w></corrected>
-      <errors>
-        <error xtype="extra-space" idx="6-1" eid="0"/>
-        <error xtype="extra-space" idx="6-1" eid="0"/>
-      </errors>
-  </revision>
+  <w>t.d.</w>
   <w>þrengra</w>
   <w>valdsvið</w>
   <w>en</w>
@@ -460,7 +459,13 @@
   <w>skylt</w>
   <c>.</c>
 </s><s n="20">
-  <w>Dómstólinn</w>
+  <revision id="10b">
+    <original><w>Dómstólinn</w></original>
+    <corrected><w>Dómstóllinn</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0"/>
+      </errors>
+  </revision>
   <w>er</w>
   <w>skipaður</w>
   <w>þremur</w>
@@ -711,14 +716,7 @@
 </s><s n="33">
   <w>Frumsamningurinn</w>
   <w>er</w>
-  <revision id="15">
-    <original><w>t</w><c>.</c><w>d.</w></original>
-    <corrected><w>t.d.</w></corrected>
-      <errors>
-        <error xtype="extra-space" idx="4-1" eid="0"/>
-        <error xtype="extra-space" idx="4-1" eid="0"/>
-      </errors>
-  </revision>
+  <w>t.d.</w>
   <w>lög</w>
   <w>á</w>
   <w>Íslandi</w>

@@ -75,7 +75,13 @@
   <w>Aðalsteinssyni</w>
   <c>.</c>
 </s><s n="4">
-  <w>Ennfremur</w>
+  <revision id="1b">
+    <original><w>Ennfremur</w></original>
+    <corrected><w>Enn</w><w>fremur</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0"/>
+      </errors>
+  </revision>
   <w>sótti</w>
   <w>hún</w>
   <w>framhaldsnám</w>
@@ -390,7 +396,13 @@
 </s><s n="18">
   <w>Hún</w>
   <w>var</w>
-  <w>ennfremur</w>
+  <revision id="10b">
+    <original><w>ennfremur</w></original>
+    <corrected><w>enn</w><w>fremur</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0"/>
+      </errors>
+  </revision>
   <w>varamaður</w>
   <w>í</w>
   <w>Norðurlandaráði</w>

@@ -268,8 +268,13 @@
   <w>mark</w>
   <c>,</c>
   <w>kallað</w>
-  <w>Curie</w>
-  <w>hitastig</w>
+  <revision id="5b">
+    <original><w>Curie</w><w>hitastig</w></original>
+    <corrected><w>Curie-hitastig</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0"/>
+      </errors>
+  </revision>
   <c>,</c>
   <w>raða</w>
   <w>segulvægin</w>
@@ -280,7 +285,14 @@
   <w>stór</w>
   <w>svæði</w>
   <c>(</c>
-  <w>yfirleit</w>
+  <revision id="5c">
+    <original><w>yfirleit</w></original>
+    <corrected><w>yfirleitt</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="5c-1" eid="0"/>
+        <error xtype="nonword" idx="5c-1" eid="0"/>
+      </errors>
+  </revision>
   <w>fleiri</w>
   <w>þúsund</w>
   <w>frumeindir</w>
@@ -1021,7 +1033,13 @@
   <c>,</c>
   <w>vökva-</w>
   <w>og</w> 
-  <w>gashamir</w>
+  <revision id="28b">
+    <original><w>gashamir</w></original>
+    <corrected><w>gashami</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0"/>
+      </errors>
+  </revision>
   <w>efna</w>
   <c>;</c>
   <w>í</w>

@@ -275,14 +275,7 @@
   <w>um</w>
   <w>lönd</w>
   <c>,</c>
-  <revision id="9">
-    <original><w>m.</w><w>a</w><c>.</c></original>
-    <corrected><w>m.a.</w></corrected>
-      <errors>
-        <error xtype="extra-space" idx="68-1" eid="0"/>
-        <error xtype="extra-space" idx="68-1" eid="0"/>
-      </errors>
-  </revision>
+  <w>m.a.</w>
   <w>til</w>
   <w>Íslands</w>
   <c>.</c>
@@ -308,15 +301,6 @@
   <w>ágangs</w>
   <w>sjávar</w>
   <c>.</c>
-</s><s n="10">
-  <c>(</c>
-  <w>Mjöll</w>
-  <c>,</c>
-  <w>1987</w>
-  <c>:</c>
-  <w>13</w>
-  <c>)</c>
-  <c>.</c>
 </s><s n="11">
   <w>Steinninn</w>
   <w>er</w>
@@ -324,7 +308,14 @@
   <w>staðsettur</w>
   <w>fyrir</w>
   <w>framan</w>
-  <w>skrúðshúsið</w>
+  <revision id="8b">
+    <original><w>skrúðshúsið</w></original>
+    <corrected><w>skrúðhúsið</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="8b-1" eid="0"/>
+        <error xtype="compound-nonword" idx="8b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>við</w>
   <w>Skógarkirkju</w>
   <w>eins</w>
@@ -347,7 +338,13 @@
   <c>:</c>
   <w>Ljósmynd</w>
   <w>af</w>
-  <w>nokkurskonar</w>
+  <revision id="8c">
+    <original><w>nokkurskonar</w></original>
+    <corrected><w>nokkurs</w><w>konar</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0"/>
+      </errors>
+  </revision>
   <w>grímu</w>
   <w>sem</w>
   <w>fannst</w>
@@ -725,15 +722,6 @@
   <w>í</w>
   <w>garðinum</w>
   <c>.</c>
-</s><s n="22">
-  <c>(</c>
-  <w>Mjöll</w>
-  <c>,</c>
-  <w>1987</w>
-  <c>:</c>
-  <w>8</w>
-  <c>)</c>
-  <c>.</c>
 </s><s n="23">
   <c>„</c>
   <w>Ritspjaldið</w>
@@ -845,16 +833,6 @@
   <w>moldum</w>
   <c>.</c>
   <c>“</c>
-</s><s n="28">
-  <c>(</c>
-  <w>Þ.</w>
-  <w>T.</w>
-  <c>,</c>
-  <w>2008</w>
-  <c>:</c>
-  <w>112</w>
-  <c>)</c>
-  <c>.</c>
 </s><s n="29">
   <w>Í</w>
   <w>uppgreftri</w>
@@ -1224,22 +1202,6 @@
   <w>Þórðar</w>
   <w>Tómassonar</w>
   <c>.</c>
-</s><s n="42">
-  <c>(</c>
-  <w>Þ.</w>
-  <w>T.</w>
-  <c>,</c>
-  <w>2008</w>
-  <c>:</c>
-  <w>99</w>
-  <c>,</c>
-  <w>mynd</w>
-  <c>:</c>
-  <w>2008</w>
-  <c>:</c>
-  <w>100</w>
-  <c>)</c>
-  <c>.</c>
 </s><s n="43">
   <w>Þórður</w>
   <w>segir</w>
@@ -1383,15 +1345,6 @@
   <w>úr</w>
   <w>kirkjustæðinu</w>
   <c>.</c>
-</s><s n="48">
-  <c>(</c>
-  <w>Mjöll</w>
-  <c>,</c>
-  <w>1987</w>
-  <c>:</c>
-  <w>9</w>
-  <c>)</c>
-  <c>.</c>
 </s><s n="49">
   <w>Leifar</w>
   <w>fundust</w>
@@ -1501,15 +1454,6 @@
   <w>í</w>
   <w>Rangárvallasýslu</w>
   <c>.</c>
-</s><s n="53">
-  <c>(</c>
-  <w>Mjöll</w>
-  <c>,</c>
-  <w>1987</w>
-  <c>:</c>
-  <w>7</w>
-  <c>)</c>
-  <c>.</c>
 </s><s n="54">
   <w>Í</w>
   <w>bók</w>
@@ -1541,15 +1485,6 @@
   <w>gömlum</w>
   <w>rústum</w>
   <c>“</c>
-  <c>.</c>
-</s><s n="55">
-  <c>(</c>
-  <w>Mjöll</w>
-  <c>,</c>
-  <w>1987</w>
-  <c>:</c>
-  <w>10</w>
-  <c>)</c>
   <c>.</c>
 </s><s n="56">
   <w>Meðal</w>
@@ -1643,18 +1578,6 @@
   <w>varan</w>
   <w>væri</w>
   <c>.</c>
-</s><s n="58">
-  <c>(</c>
-  <w>Mjöll</w>
-  <w>Snæsdóttir</w>
-  <c>,</c>
-  <w>1994</w>
-  <c>:</c>
-  <w>246</w>
-  <c>-</c>
-  <w>47</w>
-  <c>)</c>
-  <c>.</c>
 </s><s n="59">
   <w>Þegar</w>
   <w>þessi</w>
@@ -1664,16 +1587,6 @@
   <w>er</w>
   <w>bæjarheitið</w>
   <w>Arnarbæli</w>
-  <c>.</c>
-</s><s n="60">
-  <c>(</c>
-  <w>Þ.</w>
-  <w>T.</w>
-  <c>,</c>
-  <w>2008</w>
-  <c>:</c>
-  <w>100</w>
-  <c>)</c>
   <c>.</c>
 </s><s n="61">
   <w>Um</w>
@@ -1837,20 +1750,17 @@
   <w>18.</w>
   <w>öld</w>
   <c>.</c>
-</s><s n="69">
-  <c>(</c>
-  <w>Þ.</w>
-  <w>T.</w>
-  <c>,</c>
-  <w>2008</w>
-  <c>:</c>
-  <w>98</w>
-  <c>)</c>
-  <c>.</c>
 </s><s n="70">
   <w>Sama</w>
   <w>hlutverki</w>
-  <w>gengdu</w>
+  <revision id="54b">
+    <original><w>gengdu</w></original>
+    <corrected><w>gegndu</w></corrected>
+      <errors>
+        <error xtype="swapped-letters" idx="54b-1" eid="0"/>
+        <error xtype="nonword" idx="54b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>vaxspjöld</w>
   <w>á</w>
   <w>miðöldum</w>
@@ -2034,15 +1944,6 @@
   <w>11</w>
   <w>vikur</w>
   <c>.</c>
-</s><s n="75">
-  <c>(</c>
-  <w>Mjöll</w>
-  <c>,</c>
-  <w>1987</w>
-  <c>:</c>
-  <w>13</w>
-  <c>)</c>
-  <c>.</c>
 </s><s n="76">
   <w>Árlega</w>
   <w>brýtur</w>
@@ -2163,16 +2064,6 @@
   <w>Byggðasafnsins</w>
   <w>að</w>
   <w>Skógum</w>
-  <c>.</c>
-</s><s n="79">
-  <c>(</c>
-  <w>Þ.</w>
-  <w>T.</w>
-  <c>,</c>
-  <w>2008</w>
-  <c>:</c>
-  <w>99</w>
-  <c>)</c>
   <c>.</c>
 </s><s n="80">
   <c>„</c>
@@ -2374,15 +2265,6 @@
   <w>hólinn</w>
   <c>.</c>
   <c>“</c>
-</s><s n="87">
-  <c>(</c>
-  <w>Mjöll</w>
-  <c>,</c>
-  <w>1987</w>
-  <c>:</c>
-  <w>10</w>
-  <c>)</c>
-  <c>.</c>
 </s><s n="88">
   <c>„</c>
   <w>Ekki</w>
@@ -2628,15 +2510,6 @@
   <w>margvíslegir</w>
   <w>smáhlutir</w>
   <c>.</c>
-</s><s n="96">
-  <c>(</c>
-  <w>Mjöll</w>
-  <c>,</c>
-  <w>1987</w>
-  <c>:</c>
-  <w>14</w>
-  <c>)</c>
-  <c>.</c>
 </s><s n="97">
   <w>Fram</w>
   <w>hefur</w>
@@ -2715,7 +2588,14 @@
   <w>ágangur</w>
   <w>brims</w>
   <w>og</w>
-  <w>óverðurs</w>
+  <revision id="80b">
+    <original><w>óverðurs</w></original>
+    <corrected><w>óveðurs</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="80b-1" eid="0"/>
+        <error xtype="nonword" idx="80b-1" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="100">
   <w>Þau</w>
@@ -2830,14 +2710,7 @@
   <w>grafa</w>
   <w>gæti</w>
   <w>nálgast</w>
-  <w>150.</w>
-  <c>(</c>
-  <w>Mjöll</w>
-  <c>,</c>
-  <w>1987</w>
-  <c>:</c>
-  <w>14</w>
-  <c>)</c>
+  <w>150</w>
   <c>.</c>
 </s><s n="104">
   <w>Þessi</w>
@@ -3049,6 +2922,14 @@
   <w>koma</w>
   <w>þar</w>
   <w>ekki</w>
+  <revision id="88b">
+    <original></original>
+    <corrected><w>í</w></corrected>
+      <errors>
+        <error xtype="missing-word" idx="88b-1" eid="0"/>
+        <error xtype="collocation" idx="88b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>ljós</w>
   <w>fyrr</w>
   <w>en</w>
@@ -3362,25 +3243,6 @@
   <w>lauk</w>
   <w>formlega</w>
   <w>1990</w>
-  <c>.</c>
-</s><s n="122">
-  <c>(</c>
-  <w>Þ.</w>
-  <w>T.</w>
-  <c>,</c>
-  <w>2008</w>
-  <c>:</c>
-  <w>99</w>
-  <c>)</c>
-  <c>.</c>
-</s><s n="123">
-  <c>(</c>
-  <w>Mjöll</w>
-  <c>,</c>
-  <w>1987</w>
-  <c>:</c>
-  <w>15</w>
-  <c>)</c>
   <c>.</c>
 </s><s n="124">
   <w>Við</w>
@@ -3984,22 +3846,20 @@
   <w>lítillega</w>
   <w>sveigður</w>
   <c>,</c>
-  <w>etv.</w>
+  <revision id="118b">
+    <original><w>etv.</w></original>
+    <corrected><w>e.t.v.</w></corrected>
+      <errors>
+        <error xtype="missing-period" idx="118b-1" eid="0"/>
+        <error xtype="abbreviation-period" idx="118b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>þannig</w>
   <w>að</w>
   <w>hann</w>
   <w>fylgdi</w>
   <w>lögun</w>
   <w>hólsins</w>
-  <c>.</c>
-</s><s n="139">
-  <c>(</c>
-  <w>Mjöll</w>
-  <c>,</c>
-  <w>1987</w>
-  <c>:</c>
-  <w>19</w>
-  <c>)</c>
   <c>.</c>
 </s><s n="140">
   <w>Í</w>

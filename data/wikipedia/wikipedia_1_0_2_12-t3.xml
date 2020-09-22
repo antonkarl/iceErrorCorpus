@@ -160,10 +160,6 @@
   <w>og</w>
   <w>linsum</w>
   <c>.</c>
-</s><s n="6">
-  <w><hi>–</hi></w>
-  <w><hi>Hvenær</hi></w>
-  <c>?</c>
 </s><s n="7">
   <w>Frá</w>
   <w>1971</w>
@@ -281,13 +277,7 @@
   <w>alþjóðlegum</w>
   <w>vettvangi</w>
   <c>,</c>
-  <revision id="7">
-    <original><w>m.</w><w>a</w><c>.</c></original>
-    <corrected><w>m.a.</w></corrected>
-      <errors>
-        <error xtype="extra-space" eid="0"/>
-      </errors>
-  </revision>
+  <w>m.a.</w>
   <w>víða</w>
   <w>í</w>
   <w>Evrópu</w>
@@ -324,6 +314,18 @@
   <w>og</w>
   <w><hi>PARADÍS</hi></w>
   <c><hi>?</hi></c>
+  <w><hi>–</hi></w>
+  <w><hi>Hvenær</hi></w>
+  <c><hi>?</hi></c>
+  <w>sem</w>
+  <w>sýnt</w>
+  <w>var</w>
+  <w>á</w>
+  <w>Kjarvalsstöðum</w>
+  <w>fyrir</w>
+  <w>nokkrum</w>
+  <w>árum</w>
+  <c>.</c>
 </s><s n="13">
   <w>Rúrí</w>
   <w>hefur</w>
@@ -766,7 +768,13 @@
   <w>Dirfska</w>
   <w>Rúríar</w>
   <w>sem</w>
-  <w>tilraunalistamanns</w>
+  <revision id="22b">
+    <original><w>tilraunalistamanns</w></original>
+    <corrected><w>tilraunalistamaður</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0"/>
+      </errors>
+  </revision>
   <w>hefur</w>
   <w>birst</w>
   <w>í</w>
@@ -965,17 +973,6 @@
   <w>Grasagarðinum</w>
   <w>í</w>
   <w>Reykjavík</w>
-  <c>.</c>
-</s><s n="35">
-  <w><i/></w>
-  <w>sem</w>
-  <w>sýnt</w>
-  <w>var</w>
-  <w>á</w>
-  <w>Kjarvalsstöðum</w>
-  <w>fyrir</w>
-  <w>nokkrum</w>
-  <w>árum</w>
   <c>.</c>
 </s><s n="36">
   <w>Hún</w>

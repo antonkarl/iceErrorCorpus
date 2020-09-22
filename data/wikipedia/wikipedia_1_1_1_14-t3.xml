@@ -187,7 +187,14 @@
   <w>vatni</w>
   <w>þar</w>
   <w>til</w>
-  <w>eggjahvítunar</w>
+  <revision id="0">
+    <original><w>eggjahvítunar</w></original>
+    <corrected><w>eggjahvíturnar</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="0-1" eid="0"/>
+        <error xtype="nonword" idx="0-1" eid="0"/>
+      </errors>
+  </revision>
   <w>fara</w>
   <w>að</w>
   <w>hitna</w>
@@ -402,7 +409,13 @@
   <w>marensinn</w>
   <c>.</c>
 </s><s n="14">
-  <w>Ein</w>
+  <revision id="3b">
+    <original><w>Ein</w></original>
+    <corrected><w>Einn</w></corrected>
+      <errors>
+        <error xtype="agreement-concord" eid="0"/>
+      </errors>
+  </revision>
   <w>frægasti</w>
   <w>marensrétturinn</w>
   <w>er</w>

@@ -41,7 +41,13 @@
   <w>á</w>
   <w>fyrstu</w>
   <w>mánuðum</w>
-  <w>einangruninnar</w>
+  <revision id="1b">
+    <original><w>einangruninnar</w></original>
+    <corrected><w>einangrunarinnar</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0"/>
+      </errors>
+  </revision>
   <w>var</w>
   <w>nokkuð</w>
   <w>erfitt</w>
@@ -125,7 +131,14 @@
   <w>til</w>
   <w>að</w>
   <w>koma</w>
-  <w>efnahaginum</w>
+  <revision id="2b">
+    <original><w>efnahaginum</w></original>
+    <corrected><w>efnahaginum</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="2b-1" eid="0"/>
+        <error xtype="nonword" idx="2b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>aftur</w>
   <w>í</w>
   <w>gang</w>
@@ -1113,7 +1126,13 @@
   <c>,</c>
   <w>núna</w>
   <w>voru</w>
-  <w>hinsvegar</w>
+  <revision id="35b">
+    <original><w>hinsvegar</w></original>
+    <corrected><w>hins</w><w>vegar</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0"/>
+      </errors>
+  </revision>
   <w>fleiri</w>
   <w>en</w>
   <w>fimmtíu</w>

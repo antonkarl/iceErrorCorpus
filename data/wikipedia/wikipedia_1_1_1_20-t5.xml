@@ -25,7 +25,14 @@
   <w>veruleika</w>
   <w>fyrir</w>
   <w>báða</w>
-  <w>þáttakendur</w>
+  <revision id="0">
+    <original><w>þáttakendur</w></original>
+    <corrected><w>þátttakendur</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="0-1" eid="0"/>
+        <error xtype="nonword" idx="0-1" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="2">
   <w>Þannig</w>
@@ -48,14 +55,7 @@
   <w>um</w>
   <w>akstursstefnu</w>
   <c>,</c>
-  <revision id="1">
-    <original><w>t</w><c>.</c><w>d.</w></original>
-    <corrected><w>t.d.</w></corrected>
-      <errors>
-        <error xtype="extra-space" idx="5-1" eid="0"/>
-        <error xtype="extra-space" idx="5-1" eid="0"/>
-      </errors>
-  </revision>
+  <w>t.d.</w>
   <w>með</w>
   <w>því</w>
   <w>að</w>
@@ -157,7 +157,13 @@
   <w>er</w>
   <w>ákveðin</w>
   <w>tegund</w>
-  <w>leikjar</w>
+  <revision id="0b">
+    <original><w>leikjar</w></original>
+    <corrected><w>leiks</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0"/>
+      </errors>
+  </revision>
   <w>innan</w>
   <w>leikjafræði</w>
   <c>.</c>
@@ -213,7 +219,14 @@
   <w>að</w>
   <w>lenda</w>
   <w>í</w>
-  <w>hræðulegum</w>
+  <revision id="0c">
+    <original><w>hræðulegum</w></original>
+    <corrected><w>hræðilegum</w></corrected>
+      <errors>
+        <error xtype="letter-rep" idx="0c-1" eid="0"/>
+        <error xtype="nonword" idx="0c-1" eid="0"/>
+      </errors>
+  </revision>
   <w>árekstri</w>
   <c>,</c>
   <w>kjósi</w>
@@ -303,16 +316,7 @@
   <w>andstæðingum</w>
   <w>sínum</w>
   <w>og</w>
-  <revision id="2">
-    <original><w>þ.</w><w>a</w><c>.</c><w>l</w><c>.</c></original>
-    <corrected><w>þ.a.l.</w></corrected>
-      <errors>
-        <error xtype="extra-space" idx="6-1" eid="0"/>
-        <error xtype="extra-space" idx="6-1" eid="0"/>
-        <error xtype="extra-space" idx="6-1" eid="0"/>
-        <error xtype="extra-space" idx="6-1" eid="0"/>
-      </errors>
-  </revision>
+  <w>þ.a.l.</w>
   <w>notið</w>
   <w>hærri</w>
   <w>ávinnings</w>
@@ -400,7 +404,13 @@
 </s><s n="15">
   <w>Þeir</w>
   <w>nálgast</w>
-  <w>hvor</w>
+  <revision id="4b">
+    <original><w>hvor</w></original>
+    <corrected><w>hvorn</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0"/>
+      </errors>
+  </revision>
   <w>annan</w>
   <w>á</w>
   <w>ofsahraða</w>

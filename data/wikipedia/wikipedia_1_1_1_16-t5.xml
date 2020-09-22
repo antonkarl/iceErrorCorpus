@@ -530,7 +530,14 @@
 </s><s n="28">
   <w>Í</w>
   <w>þeirri</w>
-  <w>framvæmdaáætlun</w>
+  <revision id="4b">
+    <original><w>framvæmdaáætlun</w></original>
+    <corrected><w>framkvæmdaáætlun</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="4b-1" eid="0"/>
+        <error xtype="nonword" idx="4b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>voru</w>
   <w>sjö</w>
   <w>meginatriði</w>
@@ -643,14 +650,7 @@
   <w>skátahreyfingarinnar</w>
   <c>,</c>
   <w>var</w>
-  <revision id="6">
-    <original><w>m.</w><w>a</w><c>.</c></original>
-    <corrected><w>m.a.</w></corrected>
-      <errors>
-        <error xtype="extra-space" idx="1-1" eid="0"/>
-        <error xtype="extra-space" idx="1-1" eid="0"/>
-      </errors>
-  </revision>
+  <w>m.a.</w>
   <w>kosinn</w>
   <w>ritari</w>
   <w>Skátafélags</w>
@@ -983,14 +983,7 @@
   <w>Þór</w>
   <w>Herbertsson</w>
   <w>benti</w>
-  <revision id="8">
-    <original><w>m.</w><w>a</w><c>.</c></original>
-    <corrected><w>m.a.</w></corrected>
-      <errors>
-        <error xtype="extra-space" idx="9-1" eid="0"/>
-        <error xtype="extra-space" idx="9-1" eid="0"/>
-      </errors>
-  </revision>
+  <w>m.a.</w>
   <w>á</w>
   <w>að</w>
   <w>myndi</w>

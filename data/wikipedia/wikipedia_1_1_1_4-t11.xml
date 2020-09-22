@@ -225,7 +225,14 @@
   <w>2.954 m</w>
   <w>hátt</w>
   <w>og</w>
-  <w>þarmeð</w>
+  <revision id="9b">
+    <original><w>þarmeð</w></original>
+    <corrected><w>þar</w><w>með</w></corrected>
+      <errors>
+        <error xtype="merged-words" idx="9b-1" eid="0"/>
+        <error xtype="nonword" idx="9b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>hæsta</w>
   <w>fjall</w>
   <w>Filippseyja</w>
@@ -443,7 +450,13 @@
   <w>vesturs</w>
   <c>.</c>
 </s><s n="21">
-  <w>Hundruðir</w>
+  <revision id="18b">
+    <original><w>Hundruðir</w></original>
+    <corrected><w>Hundruð</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0"/>
+      </errors>
+  </revision>
   <w>manna</w>
   <w>fara</w>
   <w>á</w>

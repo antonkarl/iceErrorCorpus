@@ -43,10 +43,6 @@
 <s n="3">
   <w>965 km</w>
   <w>²</w>
-  <w>km</w>
-  <w>sup</w>
-  <w>2</w>
-  <w>sup</w>
   <w>að</w>
   <w>stærð</w>
   <c>,</c>
@@ -85,7 +81,13 @@
   <w>og</w>
   <w>Sambíu</w>
   <w>til</w>
-  <w>Mósambíkur</w>
+  <revision id="0">
+    <original><w>Mósambíkur</w></original>
+    <corrected><w>Mósambík</w></corrected>
+      <errors>
+        <error xtype="nonword" idx="1-1" eid="0" />
+      </errors>
+  </revision>
   <w>þar</w>
   <w>sem</w>
   <w>það</w>

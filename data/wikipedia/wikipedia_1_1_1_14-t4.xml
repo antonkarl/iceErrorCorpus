@@ -98,7 +98,9 @@
   <w>og</w>
   <w>Súmötru-órangútan</w>
   <c>(</c>
-  <w>ZP</w>
+  <w>ZP.</w>
+  <w><hi>abelii</hi></w>
+  <c>)</c>
   <c>.</c>
 </s><s n="6">
   <w>Hreiðrin</w>
@@ -213,10 +215,6 @@
   <w>órangútansins</w>
   <w>eru</w>
   <w>ávextir</w>
-  <c>.</c>
-</s><s n="13">
-  <w><hi>abelii</hi></w>
-  <c>)</c>
   <c>.</c>
 </s><s n="14">
   <w>Ávöxturinn</w>
@@ -379,7 +377,13 @@
   <w>Asíu</w>
   <c>.</c>
 </s><s n="25">
-  <w>Órangútan</w>
+  <revision id="9b">
+    <original><w>Órangútan</w></original>
+    <corrected><w>Órangútanar</w></corrected>
+      <errors>
+        <error xtype="singular4plural" eid="0"/>
+      </errors>
+  </revision>
   <w>tilheyra</w>
   <w>mannættinni</w>
   <c>,</c>

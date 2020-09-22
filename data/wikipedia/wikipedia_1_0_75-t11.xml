@@ -1023,7 +1023,13 @@
   <w>um</w>
   <w>hvort</w>
   <w>þau</w>
-  <w>fara</w>
+  <revision id="43b">
+    <original><w>fara</w></original>
+    <corrected><w>fari</w></corrected>
+      <errors>
+        <error xtype="ind4sub" eid="0" />
+      </errors>
+  </revision>
   <w>áfram</w>
   <w>um</w>
   <w>einn</w>
@@ -1145,6 +1151,13 @@
   <w>að</w>
   <w>hreyfa</w>
   <w>sig</w>
+  <revision id="45b">
+    <original></original>
+    <corrected><w>á</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
   <w>ská</w>
   <w>og</w>
   <w>lenda</w>

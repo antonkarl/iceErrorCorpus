@@ -483,12 +483,12 @@
   <w>York</w>
   <w>og</w>
   <w>Washington</w>
+  <w>D.C.</w>
   <revision id="28">
-    <original><w>D.</w><w>C.</w><c>.</c></original>
-    <corrected><w>D.C.</w></corrected>
+    <original><c>.</c></original>
+    <corrected></corrected>
       <errors>
-        <error xtype="extra-space" idx="17-1" eid="0"/>
-        <error xtype="extra-space" idx="17-1" eid="0"/>
+        <error xtype="extra-period" eid="0"/>
       </errors>
   </revision>
 </s><s n="14">
@@ -617,7 +617,13 @@
   <w>akurlendi</w>
   <w>skemmdust</w>
   <w>og</w>
-  <w>hundruðir</w>
+  <revision id="32b">
+    <original><w>hundruðir</w></original>
+    <corrected><w>hundruð</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0"/>
+      </errors>
+  </revision>
   <w>þúsunda</w>
   <w>flosnuðu</w>
   <w>upp</w>
