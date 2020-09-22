@@ -85,7 +85,13 @@
   <w>fúl</w>
   <w>yfir</w>
   <w>framtaksleysi</w>
-  <w>sveitarstjórinnar</w>
+  <revision id="1a">
+    <original><w>sveitastjórinnar</w></original>
+    <corrected><w>sveitastjórnarinnar</w></corrected>
+      <errors>
+        <error xtype="compound-nonword" idx="1a-1" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>nú</w>
   <w>vilji</w>
