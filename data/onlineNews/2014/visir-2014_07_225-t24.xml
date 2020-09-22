@@ -138,7 +138,13 @@
   <w>hann</w>
   <w>rífi</w>
   <w>ölduhæð</w>
-  <w>uppí</w>
+  <revision id="3a">
+    <original><w>uppí</w></original>
+    <corrected><w>upp</w><w>í</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>eina</w>
   <w>14</w>
   <w>metra</w>
