@@ -603,10 +603,7 @@
   <w>menningarhreyfingu</w>
   <w>Berba</w>
   <c>(</c>
-  <w>fr</w>
-  <c>.</c>
-</s>
-<s n="20">
+  <w>fr.</w>
   <revision id="16">
     <original><w>Mouvement</w><w>Culturel</w><w>Berbère</w></original>
     <corrected><w><hi>Mouvement</hi></w><w><hi>Culturel</hi></w><w><hi>Berbère</hi></w></corrected>
@@ -629,10 +626,7 @@
   <w>heimsþingi</w>
   <w>Amazigh</w>
   <c>(</c>
-  <w>fr</w>
-  <c>.</c>
-</s>
-<s n="21">
+  <w>fr.</w>
   <revision id="17">
     <original><w>Congrès</w><w>Mondial</w><w>Amazigh</w></original>
     <corrected><w><hi>Congrès</hi></w><w><hi>Mondial</hi></w><w><hi>Amazigh</hi></w></corrected>
@@ -716,7 +710,13 @@
   <w>sem</w>
   <w>intifada</w>
   <w>Berba</w>
-  <w>i</w>
+  <revision id="18b">
+    <original><w>i</w></original>
+    <corrected><w>í</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <w>Kabylíu</w>
   <c>.</c>
 </s>
@@ -886,10 +886,7 @@
   <w>franskir</w>
   <w>landnámssinnar</w>
   <c>(</c>
-  <w>fr</w>
-  <c>.</c>
-</s>
-<s n="28">
+  <w>fr.</w>
   <revision id="27">
     <original><w>Les</w><w>colons</w></original>
     <corrected><w><hi>Les</hi></w><w><hi>colons</hi></w></corrected>
