@@ -26,7 +26,14 @@
   <w>mátt</w>
   <w>afhenda</w>
   <w>brugghúsinu</w>
-  <w>hvalamjöl</w>
+  <revision id="1a">
+    <original><w>hvalamjöl</w></original>
+    <corrected><w>hvalmjöl</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="1a-1" eid="0" />
+        <error xtype="compound-nonword" idx="1a-1" eid="0" />
+      </errors>
+  </revision>
   <w>þar</w>
   <w>sem</w>
   <w>Hvalur</w>
@@ -38,7 +45,14 @@
   <w>framleiða</w>
   <w>og</w>
   <w>afhenda</w>
-  <w>hvalamjöl</w>
+  <revision id="1b">
+    <original><w>hvalamjöl</w></original>
+    <corrected><w>hvalmjöl</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="1b-1" eid="0" />
+        <error xtype="compound-nonword" idx="1b-1" eid="0" />
+      </errors>
+  </revision>
   <w>sem</w>
   <w>matvæli</w>
   <c>.</c>
@@ -77,7 +91,14 @@
   </revision>
   <w>við</w>
   <w>meðhöndlun</w>
-  <w>hvalamjölsins</w>
+  <revision id="1c">
+    <original><w>hvalamjölsins</w></original>
+    <corrected><w>hvalmjölsins</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="1c-1" eid="0" />
+        <error xtype="compound-nonword" idx="1c-1" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="4">
   <w>Atvinnuvega- og nýsköpunarráðuneytið</w>
@@ -149,6 +170,14 @@
   <w>að</w>
   <w>hann</w>
   <w>innihélt</w>
+  <revision id="3a">
+    <original><w>hvalamjöl</w></original>
+    <corrected><w>hvalmjöl</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="3a-1" eid="0" />
+        <error xtype="compound-nonword" idx="3a-1" eid="0" />
+      </errors>
+  </revision>
   <w>hvalamjöl</w>
   <c>.</c>
 </s><s n="8">
