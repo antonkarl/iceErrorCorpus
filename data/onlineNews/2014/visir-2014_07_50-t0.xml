@@ -438,7 +438,13 @@
 </s>
 <s n="19">
   <w>Hjálmari</w>
-  <w>lýst</w>
+  <revision id="8a">
+    <original><w>lýst</w></original>
+    <corrected><w>líst</w></corrected>
+      <errors>
+        <error xtype="ý4í" eid="0" />
+      </errors>
+  </revision>
   <w>vel</w>
   <w>á</w>
   <w>hugmyndir</w>
