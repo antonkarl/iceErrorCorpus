@@ -111,7 +111,14 @@
   <w>að</w>
   <w>í</w>
   <w>nýjum</w>
-  <w>kjarasamningin</w>
+  <revision id="1a">
+    <original><w>kjarasamningin</w></original>
+    <corrected><w>kjarasamningi</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="1a-1" eid="0" />
+        <error xtype="nonword" idx="1a-1" eid="0" />
+      </errors>
+  </revision>
   <w>sé</w>
   <w>vinnufyrirkomulagið</w>
   <w>nokkuð</w>
