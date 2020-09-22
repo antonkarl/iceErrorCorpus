@@ -137,7 +137,14 @@
   <c>,</c>
   <w>Alþýðubandalags</w>
   <c>,</c>
-  <w>Frasmóknarflokks</w>
+  <revision id="3b">
+    <original><w>Frasmóknarflokks</w></original>
+    <corrected><w>Framsóknarflokks</w></corrected>
+      <errors>
+        <error xtype="swapped-letters" idx="3b-1" eid="0"/>
+        <error xtype="nonword" idx="3b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>og</w>
   <w>Kvennalista</w>
   <w>bauð</w>
