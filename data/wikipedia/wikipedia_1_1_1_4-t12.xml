@@ -151,8 +151,13 @@
   <c>.</c>
 </s><s n="6">
   <w>Með</w>
-  <w>popp</w>
-  <w>pönkinu</w>
+  <revision id="2b">
+    <original><w>popp</w><w>pönkinu</w></original>
+    <corrected><w>popppönkinu</w></corrected>
+      <errors>
+        <error xtype="split-compound" eid="0"/>
+      </errors>
+  </revision>
   <w>fylgdi</w>
   <w>svo</w>
   <w>önnur</w>
@@ -165,8 +170,13 @@
   <w>hefur</w>
   <w>flest</w>
   <w>einkenni</w>
-  <w>popp</w>
-  <w>pönks</w>
+  <revision id="2c">
+    <original><w>popp</w><w>pönkinu</w></original>
+    <corrected><w>popppönkinu</w></corrected>
+      <errors>
+        <error xtype="split-compound" eid="0"/>
+      </errors>
+  </revision>
   <w>en</w>
   <w>þar</w>
   <w>eru</w>
@@ -235,7 +245,14 @@
   </revision>
   <w>helstu</w>
   <w>listamenn</w>
-  <w>stefnunar</w>
+  <revision id="3b">
+    <original><w>stefnunar</w></original>
+    <corrected><w>stefnunnar</w></corrected>
+      <errors>
+        <error xtype="n4nn" idx="3b-1" eid="0"/>
+        <error xtype="nonword" idx="3b-1" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="10">
   <w>Árið 1997</w>
@@ -332,16 +349,29 @@
   <w>Plöturnar</w>
   <w>voru</w>
   <w>nefndar</w>
-  <w><i/></w>
-  <w>¡</w>
-  <w>UNO</w>
-  <c>!</c>
+  <w><hi>¡</hi></w>
+  <w><hi>UNO</hi></w>
+  <c><hi>!</hi></c>
+  <c>,</c>
+  <w><hi>¡</hi></w>
+  <w><hi>DOS</hi></w>
+  <c><hi>!</hi></c>
+  <w>og</w>
+  <w><hi>¡</hi></w>
+  <w><hi>TRÉ</hi></w>
+  <c><hi>!</hi></c>
+</s>
 </s><s n="15">
   <w>Dæmi</w>
   <w>um</w>
   <w>þekktar</w>
-  <w>ska-pönk</w>
-  <w>sveitir</w>
+  <revision id="4b">
+    <original><w>ska-pönk</w><w>sveitir</w></original>
+    <corrected><w>ska-pönksveitir</w></corrected>
+      <errors>
+        <error xtype="split-compound" eid="0"/>
+      </errors>
+  </revision>
   <w>eru</w>
   <w>No</w>
   <w>Doubt</w>
@@ -669,7 +699,7 @@
     <original><w>pönk</w><w>senunni</w></original>
     <corrected><w>pönksenunni</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>á</w>
@@ -913,7 +943,14 @@
         <error xtype="wording" idx="25-1" eid="0"/>
       </errors>
   </revision>
-  <w>poppaðari</w>
+  <revision id="31b">
+    <original><w>poppaðari</w></original>
+    <corrected><w>poppaðri</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="31b-1" eid="0"/>
+        <error xtype="nonword" idx="31b-1" eid="0"/>
+      </errors>
+  </revision>
   <revision id="32">
     <original><w>melódíum</w></original>
     <corrected><w>melódíur</w></corrected>
@@ -947,9 +984,14 @@
       </errors>
   </revision>
   <w>kölluð</w>
-  <w>popp</w>
-  <w>pönk</w>
-  <w>sveit</w>
+  <revision id="34b">
+    <original><w>popp</w><w>pönk</w><w>sveit</w></original>
+    <corrected><w>popppönksveit</w></corrected>
+      <errors>
+        <error xtype="split-compound" idx="34b-1" eid="0"/>
+        <error xtype="split-compound" idx="34b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>í</w>
   <w>dag</w>
   <c>.</c>
@@ -1374,7 +1416,7 @@
     <original><w>platínum</w><w>sölur</w></original>
     <corrected><w>platínusölu</w></corrected>
       <errors>
-        <error xtype="compound-split" idx="58-1" eid="0"/>
+        <error xtype="split-compound" idx="58-1" eid="0"/>
         <error xtype="plural4singular" idx="58-1" eid="0"/>
       </errors>
   </revision>
@@ -1552,8 +1594,13 @@
   <c>.</c>
 </s><s n="60">
   <w>Vinsældir</w>
-  <w>popp</w>
-  <w>pönks</w>
+  <revision id="58b">
+    <original><w>popp</w><w>pönks</w></original>
+    <corrected><w>popppönks</w></corrected>
+      <errors>
+        <error xtype="split-compound" eid="0"/>
+      </errors>
+  </revision>
   <w>dvínuðu</w>
   <w>á</w>
   <w>þessum</w>
@@ -1568,13 +1615,6 @@
   <w>út</w>
   <w>plötur</w>
   <c>.</c>
-</s><s n="61">
-  <w><i/></w>
-  <w>og</w>
-  <w><i/></w>
-  <w>¡</w>
-  <w>TRÉ</w>
-  <c>!</c>
 </s><s n="62">
   <revision id="59">
     <original><w>En</w><w>hugtakið</w></original>
@@ -1647,13 +1687,6 @@
   <w>The</w>
   <w>Offspring</w>
   <c>.</c>
-</s><s n="65">
-  <w><i/></w>
-  <c>,</c>
-  <w><i/></w>
-  <w>¡</w>
-  <w>DOS</w>
-  <c>!</c>
 </s><s n="66">
   <w>Um</w>
   <w>árið 2005</w>
@@ -1708,7 +1741,7 @@
     <original><w>plötu</w><w>þríleik</w></original>
     <corrected><w>plötuþríleik</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>á</w>
@@ -1926,7 +1959,7 @@
     <original><w>platinum</w><w>plötur</w></original>
     <corrected><w>platínuplötur</w></corrected>
       <errors>
-        <error xtype="compound-split" idx="68-1" eid="0"/>
+        <error xtype="split-compound" idx="68-1" eid="0"/>
         <error xtype="missing-accent" idx="68-1" eid="0"/>
         <error xtype="extra-letter" idx="68-1" eid="0"/>
       </errors>

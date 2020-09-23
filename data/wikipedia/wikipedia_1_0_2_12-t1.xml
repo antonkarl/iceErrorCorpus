@@ -308,8 +308,13 @@
   <w>og</w>
   <w>ísaðar</w>
   <w>og</w>
-  <w>annað</w>
-  <w>hvort</w>
+  <revision id="14b">
+    <original><w>annað</w><w>hvort</w></original>
+    <corrected><w>annaðhvort</w></corrected>
+      <errors>
+        <error xtype="split-word" eid="0"/>
+      </errors>
+  </revision>
   <w>settar</w>
   <w>á</w>
   <w>markað</w>

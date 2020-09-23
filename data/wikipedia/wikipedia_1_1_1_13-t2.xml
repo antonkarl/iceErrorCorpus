@@ -962,7 +962,13 @@
   <w>og</w>
   <w>í</w>
   <w>öðrum</w>
-  <w>þungarokks-stefnum</w>
+  <revision id="53b">
+    <original><w>þungarokks-stefnum</w></original>
+    <corrected><w>þungarokksstefnum</w></corrected>
+      <errors>
+        <error xtype="extra-dash" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="37">
   <w>Seinna</w>

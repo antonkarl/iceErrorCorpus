@@ -604,7 +604,13 @@
   <w>Bobs</w>
   <w>Dylans</w>
   <w>hafði</w>
-  <w>þjóðlagapopp-hópurinn</w>
+  <revision id="25b">
+    <original><w>þjóðlagapopp-hópurinn</w></original>
+    <corrected><w>þjóðlagapopphópurinn</w></corrected>
+      <errors>
+        <error xtype="extra-dash" eid="0"/>
+      </errors>
+  </revision>
   <w>Peter</w>
   <c>,</c>
   <w>Paul</w>
@@ -1280,7 +1286,14 @@
   <w>fleiri</w>
   <w>hljómsveitir</w>
   <w>að</w>
-  <w>notafæra</w>
+  <revision id="55b">
+    <original><w>notafæra</w></original>
+    <corrected><w>notfæra</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="55b-1" eid="0"/>
+        <error xtype="nonword" idx="55b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>sér</w>
   <w>órafmögnuð</w>
   <w>hljóðfæri</w>

@@ -714,7 +714,13 @@
   <w>liggur</w>
   <w>á</w>
   <w>123</w>
-  <w>ja</w>
+  <revision id="9b">
+    <original><w>ja</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="number-fail" eid="0"/>
+      </errors>
+  </revision>
   <w>metra</w>
   <w>hárri</w>
   <w>hæð</w>
@@ -1154,7 +1160,14 @@
   <w>gangur</w>
   <w>allt</w>
   <w>í</w>
-  <w>hring</w>
+  <revision id="12b">
+    <original><w>hring</w></original>
+    <corrected><w>kring</w></corrected>
+      <errors>
+        <error xtype="letter-rep" idx="12b-1" eid="0"/>
+        <error xtype="collocation" idx="12b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>en</w>
   <w>frá</w>
   <w>honum</w>
@@ -1239,7 +1252,14 @@
   <w>meðan</w>
   <w>heimstyrjöldin</w>
   <w>fyrri</w>
-  <w>geysaði</w>
+  <revision id="13b">
+    <original><w>geysaði</w></original>
+    <corrected><w>geisaði</w></corrected>
+      <errors>
+        <error xtype="y4i" idx="13b-1" eid="0"/>
+        <error xtype="nonword" idx="13b-1" eid="0"/>
+      </errors>
+  </revision>
   <c>,</c>
   <w>voru</w>
   <w>sérstakar</w>

@@ -1159,10 +1159,6 @@
   <w>100</w>
   <w>árum</w>
   <c>.</c>
-</s><s n="34">
-  <w>þ.</w>
-  <w>b</w>
-  <c>.</c>
 </s><s n="35">
   <revision id="91">
     <original><w>Kallast</w><w>hún</w><w>hefbundna</w><w>tónlist</w></original>
@@ -2012,7 +2008,14 @@
 </s><s n="59">
   <w>Í</w>
   <w>miðhluta</w>
-  <w>Mósambíks</w>
+  <revision id="151b">
+    <original><w>Mósambíks</w></original>
+    <corrected><w>Mósambík</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="151b-1" eid="0"/>
+        <error xtype="nonword" idx="151b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>býr</w>
   <w>fólk</w>
   <w>sem</w>
@@ -2371,13 +2374,7 @@
   <w>Tonga-fólkið</w>
   <c>,</c>
   <w>sem</w>
-  <revision id="175">
-    <original><w>m.</w><w>a</w><c>.</c></original>
-    <corrected><w>m.a.</w></corrected>
-      <errors>
-        <error xtype="extra-space" eid="0"/>
-      </errors>
-  </revision>
+  <w>m.a.</w>
   <w>skiptist</w>
   <w>í</w>
   <w>Ronga</w>

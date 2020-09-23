@@ -237,7 +237,13 @@
   <w>sjálfstæði</w>
   <w>landsins</w>
   <w>frá</w>
-  <w>Breska</w>
+  <revision id="0d">
+    <original><w>Breska</w></original>
+    <corrected><w>breska</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
   <w>heimsveldinu</w>
   <w>og</w>
   <w>Indlandi</w>
@@ -342,8 +348,13 @@
   <c>,</c>
   <w>Mógúlveldinu</w>
   <w>og</w>
-  <w>Breska</w>
-  <w>heimsveldinu</w>
+  <revision id="0e">
+    <original><w>Breska</w></original>
+    <corrected><w>breska</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>  <w>heimsveldinu</w>
   <c>.</c>
 </s><s n="17">
   <w>Indusdalsmenningin</w>

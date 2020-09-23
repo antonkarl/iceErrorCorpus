@@ -81,8 +81,13 @@
   <w>frá</w>
   <w>San</w>
   <w>Diego</w>
-  <w>State</w>
-  <w>háskólanum</w>
+  <revision id="4b">
+    <original><w>State</w><w>háskólanum</w></original>
+    <corrected><w>State-háskólanum</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
   <w>með</w>
   <w>gráðu</w>
   <w>í</w>

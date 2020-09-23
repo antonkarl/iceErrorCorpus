@@ -223,7 +223,13 @@
   <w>Mið-Ameríku</w>
   <c>.</c>
 </s><s n="9">
-  <w>Heimafyrir</w>
+  <revision id="8b">
+    <original><w>Heimafyrir</w></original>
+    <corrected><w>Heima</w><w>fyrir</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0"/>
+      </errors>
+  </revision>
   <w>höfðu</w>
   <w>fregnir</w>
   <w>af</w>

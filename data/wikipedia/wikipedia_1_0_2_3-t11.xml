@@ -567,7 +567,14 @@
   <w>inn</w>
   <w>á</w>
   <w>af</w>
-  <w>varamennabekknum</w>
+  <revision id="30b">
+    <original><w>varamennabekknum</w></original>
+    <corrected><w>varamannabekknum</w></corrected>
+      <errors>
+        <error xtype="letter-rep" idx="30b-1" eid="0"/>
+        <error xtype="nonword" idx="30b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>í</w>
   <w>leik</w>
   <w>gegn</w>
@@ -853,14 +860,7 @@
   <w>leiksins</w>
   <w>og</w>
   <w>átti</w>
-  <revision id="42">
-    <original><w>m.</w><w>a</w><c>.</c></original>
-    <corrected><w>m.a.</w></corrected>
-      <errors>
-        <error xtype="extra-space" idx="31-1" eid="0"/>
-        <error xtype="extra-space" idx="31-1" eid="0"/>
-      </errors>
-  </revision>
+  <w>m.a.</w>
   <w>stoðsendingu</w>
   <w>á</w>
   <w>John</w>

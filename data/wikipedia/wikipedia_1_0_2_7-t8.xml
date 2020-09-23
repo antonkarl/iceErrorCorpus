@@ -100,7 +100,13 @@
   <w>í</w>
   <w>tengslum</w>
   <w>við</w>
-  <w>margskonar</w>
+  <revision id="1b">
+    <original><w>margskonar</w></original>
+    <corrected><w>margs</w><w>konar</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0"/>
+      </errors>
+  </revision>
   <w>framkvæmdir</w>
   <c>,</c>
   <w>svo</w>
