@@ -312,7 +312,7 @@
     <original><w>trega</w><w>tilfinning</w><w>sem</w></original>
     <corrected><w>tregatilfinningu</w><w>og</w></corrected>
       <errors>
-        <error xtype="compound-split" idx="9-1" eid="0" />
+        <error xtype="split-compound" idx="9-1" eid="0" />
         <error xtype="conjunction" idx="9-2" eid="0" />
       </errors>
   </revision>

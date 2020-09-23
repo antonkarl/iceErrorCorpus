@@ -153,7 +153,7 @@
     <original><w>harðkjarna</w><w>teknó</w></original>
     <corrected><w>harðkjarnateknó</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0" />
+        <error xtype="split-compound" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -306,7 +306,7 @@
     <corrected><w>Raftónlist</w></corrected>
       <errors>
         <error xtype="fw4ice" idx="23-1" eid="0" />
-        <error xtype="compound-split" idx="23-1" eid="0" />
+        <error xtype="split-compound" idx="23-1" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -385,7 +385,7 @@
     <original><w>bóhema</w><w>partý</w></original>
     <corrected><w>bóhemapartý</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0" />
+        <error xtype="split-compound" eid="0" />
       </errors>
   </revision>
   <w>bítnikka</w>
@@ -712,7 +712,7 @@
     <original><w>raftónlistar</w><w>viðburði</w></original>
     <corrected><w>raftónlistarviðburði</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0" />
+        <error xtype="split-compound" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
@@ -1066,7 +1066,7 @@
       <errors>
         <error xtype="extra-letter" idx="59-1" eid="0" />
         <error xtype="nonword" idx="59-1" eid="0" />
-        <error xtype="compound-split" idx="59-1" eid="0" />
+        <error xtype="split-compound" idx="59-1" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -2113,7 +2113,7 @@
         <error xtype="missing-quots" idx="107-1" eid="0" />
         <error xtype="wording" idx="107-1" eid="0" />
         <error xtype="extra-letter" idx="107-1" eid="0" />
-        <error xtype="compound-split" idx="107-1" eid="0" />
+        <error xtype="split-compound" idx="107-1" eid="0" />
       </errors>
   </revision>
   <c>.</c>

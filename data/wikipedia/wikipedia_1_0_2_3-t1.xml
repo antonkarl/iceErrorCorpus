@@ -253,7 +253,7 @@
     <original><w>Panama</w><w>menn</w></original>
     <corrected><w>Panamabúar</w></corrected>
       <errors>
-        <error xtype="compound-split" idx="8-1" eid="0"/>
+        <error xtype="split-compound" idx="8-1" eid="0"/>
         <error xtype="gendered" idx="8-1" eid="0"/>
       </errors>
   </revision>

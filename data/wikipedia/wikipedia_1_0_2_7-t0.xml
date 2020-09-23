@@ -748,7 +748,7 @@
     <original><w>Berlínar</w><w>trílógían</w></original>
     <corrected><w>Berlínarþríleikurinn</w></corrected>
       <errors>
-        <error xtype="compound-split" idx="34-1" eid="0"/>
+        <error xtype="split-compound" idx="34-1" eid="0"/>
         <error xtype="fw" idx="34-1" eid="0"/>
       </errors>
   </revision>
@@ -1453,7 +1453,7 @@
     <original><w>synth</w><w>pop</w></original>
     <corrected><w>synthpop</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <c>.</c>

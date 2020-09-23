@@ -173,7 +173,7 @@
     <original><w>tilfinningarokks</w><w>aðdáenda</w></original>
     <corrected><w>tilfinningarokksaðdáenda</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -323,7 +323,7 @@
     <corrected><w>emo-poppplata</w><w>ársins 2007</w></corrected>
       <errors>
         <error xtype="wording" idx="73-1" eid="0"/>
-        <error xtype="compound-split" idx="73-1" eid="0"/>
+        <error xtype="split-compound" idx="73-1" eid="0"/>
         <error xtype="wording" idx="73-2" eid="0"/>
       </errors>
   </revision>
@@ -758,7 +758,7 @@
     <original><w>emo-popp</w><w>lag</w></original>
     <corrected><w>emo-popplag</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>áratugarins</w>
@@ -821,7 +821,7 @@
     <original><w>harðkjarnapönk</w><w>samfélagið</w></original>
     <corrected><w>harðkjarnapönksamfélagið</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -881,7 +881,7 @@
     <original><w>harðkjarnapönk</w><w>hljómsveitir</w></original>
     <corrected><w>harðkjarnapönkhljómsveitir</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>á</w>
@@ -1813,7 +1813,7 @@
     <original><w>jakkafata</w><w>buxum</w></original>
     <corrected><w>jakkafatabuxum</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -2969,7 +2969,7 @@
     <original><w>rokk</w><w>hljóðfæraleik</w></original>
     <corrected><w>rokkhljóðfæraleik</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>en</w>
@@ -3009,8 +3009,8 @@
     <original><w>nýbylgju</w><w>popp-pönk</w><w>hljómsveitin</w></original>
     <corrected><w>nýbylgjupopp-pönkhljómsveitin</w></corrected>
       <errors>
-        <error xtype="compound-split" idx="95-1" eid="0"/>
-        <error xtype="compound-split" idx="95-1" eid="0"/>
+        <error xtype="split-compound" idx="95-1" eid="0"/>
+        <error xtype="split-compound" idx="95-1" eid="0"/>
       </errors>
   </revision>
   <w>í</w>

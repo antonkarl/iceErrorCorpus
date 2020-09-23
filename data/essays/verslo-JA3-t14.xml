@@ -223,7 +223,7 @@
     <original><w>atvinnu</w><w>möguleikum</w></original>
     <corrected><w>atvinnumöguleikum</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>fækkað</w>
@@ -395,7 +395,7 @@
     <corrected><w>meistaranám</w></corrected>
       <errors>
         <error xtype="fw" idx="38-1" eid="0"/>
-        <error xtype="compound-split" idx="38-1" eid="0"/>
+        <error xtype="split-compound" idx="38-1" eid="0"/>
       </errors>
   </revision>
   <w>í</w>
@@ -684,7 +684,7 @@
     <original><w>upplýsingar</w><w>flæði</w></original>
     <corrected><w>upplýsingaflæði</w></corrected>
       <errors>
-        <error xtype="compound-split" idx="61-1" eid="0"/>
+        <error xtype="split-compound" idx="61-1" eid="0"/>
         <error xtype="compound-collocation" idx="61-1" eid="0"/>
       </errors>
   </revision>
@@ -723,7 +723,7 @@
     <original><w>loka</w><w>ári</w></original>
     <corrected><w>lokaárinu</w></corrected>
       <errors>
-        <error xtype="compound-split" idx="64-1" eid="0"/>
+        <error xtype="split-compound" idx="64-1" eid="0"/>
         <error xtype="ind4def" idx="64-1" eid="0"/>
       </errors>
   </revision>
@@ -802,7 +802,7 @@
     <original><w>háskóla</w><w>námi</w></original>
     <corrected><w>háskólanámi</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <c>?</c>
@@ -1019,7 +1019,7 @@
     <original><w>stá</w><w>kofum</w></original>
     <corrected><w>strákofum</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <c>?</c>
@@ -1749,7 +1749,7 @@
     <original><w>loka</w><w>ári</w></original>
     <corrected><w>lokaári</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>í</w>
@@ -1766,7 +1766,7 @@
     <original><w>raungreina</w><w>áfanga</w></original>
     <corrected><w>raungreinaáfanga</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>eða</w>

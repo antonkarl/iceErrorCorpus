@@ -320,7 +320,7 @@
     <corrected><w>endurreisnar- og miðaldartónlistar</w></corrected>
       <errors>
         <error xtype="missing-dash" eid="0"/>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>varð</w>
@@ -345,7 +345,7 @@
     <original><w>rokk</w><w>tónlist</w></original>
     <corrected><w>rokktónlist</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>fyrir</w>
@@ -377,7 +377,7 @@
     <original><w>miðaldar</w><w>tónlist</w></original>
     <corrected><w>miðaldartónlist</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
@@ -517,7 +517,7 @@
     <original><w>Þjóðlaga</w><w>tónlist</w></original>
     <corrected><w>Þjóðlagatónlist</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>hafði</w>
@@ -757,7 +757,7 @@
     <original><w>nútíma</w><w>tónlist</w></original>
     <corrected><w>nútímatónlist</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>með</w>
@@ -784,7 +784,7 @@
     <original><w>þjóðlaga</w><w>stefnunni</w></original>
     <corrected><w>þjóðlagastefnunni</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
@@ -1110,7 +1110,7 @@
     <original><w>rokk</w><w>lag</w></original>
     <corrected><w>rokklag</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>órafmagnað</w>
@@ -1187,7 +1187,7 @@
     <original><w>þjóðlaga</w><w>tónlistarstíl</w></original>
     <corrected><w>þjóðlagastíl</w></corrected>
       <errors>
-        <error xtype="compound-split" idx="80-1" eid="0"/>
+        <error xtype="split-compound" idx="80-1" eid="0"/>
         <error xtype="wording" idx="80-1" eid="0"/>
       </errors>
   </revision>
@@ -1355,7 +1355,7 @@
     <original><w>rokk</w><w>hljóðfæri</w></original>
     <corrected><w>rokkhljóðfæri</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>eru</w>
@@ -1367,7 +1367,7 @@
     <original><w>nútíma</w><w>þjóðlagi</w></original>
     <corrected><w>nútímaþjóðlagi</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -1429,7 +1429,7 @@
     <original><w>rokk</w><w>tónlist</w></original>
     <corrected><w>rokktónlist</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
@@ -1555,7 +1555,7 @@
     <original><w>rokk</w><w>ballaða</w></original>
     <corrected><w>rokkballaða</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -1640,7 +1640,7 @@
     <corrected><w>bandaríska</w><w>smáskífulistanum</w></corrected>
       <errors>
         <error xtype="upper4lower-common" eid="0"/>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <c>.</c>

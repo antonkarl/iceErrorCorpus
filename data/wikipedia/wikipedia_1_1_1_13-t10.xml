@@ -1267,7 +1267,7 @@
     <corrected><w>framtíðarútgáfu</w></corrected>
       <errors>
         <error xtype="extra-quots" eid="0"/>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>Charlie</w>
@@ -1305,7 +1305,7 @@
     <original><w>eiturefnaúrgangs</w><w>brennsluofninu</w></original>
     <corrected><w>eiturefnaúrgangsbrennsluofninum</w></corrected>
       <errors>
-        <error xtype="compound-split" idx="29-1" eid="0"/>
+        <error xtype="split-compound" idx="29-1" eid="0"/>
         <error xtype="missing-letter" idx="29-1" eid="0"/>
       </errors>
   </revision>

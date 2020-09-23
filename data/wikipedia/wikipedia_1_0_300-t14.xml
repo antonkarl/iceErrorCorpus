@@ -2870,7 +2870,7 @@
     <corrected><w>Austurrétttrúnaðarkirkjan</w></corrected>
       <errors>
         <error xtype="extra-dash" idx="81-1" eid="0" />
-        <error xtype="compound-split" idx="81-1" eid="0" />
+        <error xtype="split-compound" idx="81-1" eid="0" />
         <error xtype="plural4singular" idx="81-1" eid="0" />
       </errors>
   </revision>
@@ -3090,8 +3090,8 @@
     <original><w>Austur</w><w>rétttrúnaðar</w><w>kirkjan</w></original>
     <corrected><w>Austurrétttrúnaðarkirkjan</w></corrected>
       <errors>
-        <error xtype="compound-split" idx="89-1" eid="0" />
-        <error xtype="compound-split" idx="89-1" eid="0" />
+        <error xtype="split-compound" idx="89-1" eid="0" />
+        <error xtype="split-compound" idx="89-1" eid="0" />
       </errors>
   </revision>
   <w>er</w>
@@ -3122,7 +3122,7 @@
     <original><w>rétttrúnaðar</w><w>kirkju</w></original>
     <corrected><w>rétttrúnaðarkirkju</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0" />
+        <error xtype="split-compound" eid="0" />
       </errors>
   </revision>
   <c>(</c>
@@ -3183,7 +3183,7 @@
     <original><w>Býsans</w><w>keisari</w></original>
     <corrected><w>Býsanskeisari</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0" />
+        <error xtype="split-compound" eid="0" />
       </errors>
   </revision>
   <w>patríarka</w>
@@ -3231,7 +3231,7 @@
     <corrected><w>oríental-rétttrúnaður</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="97-1" eid="0" />
-        <error xtype="compound-split" idx="97-1" eid="0" />
+        <error xtype="split-compound" idx="97-1" eid="0" />
         <error xtype="missing-dash" idx="97-1" eid="0" />
       </errors>
   </revision>
@@ -3272,7 +3272,7 @@
         <error xtype="upper4lower-common" idx="99-1" eid="0" />
         <error xtype="missing-dash" idx="99-1" eid="0" />
         <error xtype="upper4lower-common" idx="99-1" eid="0" />
-        <error xtype="compound-split" idx="99-1" eid="0" />
+        <error xtype="split-compound" idx="99-1" eid="0" />
         <error xtype="missing-dash" idx="99-1" eid="0" />
       </errors>
   </revision>
@@ -3302,7 +3302,7 @@
     <original><w>rétttrúnaðar</w><w>kirkjan</w></original>
     <corrected><w>rétttrúnaðarkirkjan</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0" />
+        <error xtype="split-compound" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -3314,7 +3314,7 @@
     <corrected><w>koptíska</w><w>rétttrúnaðarkirkjan</w></corrected>
       <errors>
         <error xtype="upper4lower-common" eid="0" />
-        <error xtype="compound-split" eid="0" />
+        <error xtype="split-compound" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -3478,7 +3478,7 @@
     <original><w>Austur</w><w>rétttrúnaðarkirkjan</w></original>
     <corrected><w>Austurrétttrúnaðarkirkjan</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0" />
+        <error xtype="split-compound" eid="0" />
       </errors>
   </revision>
   <w>fordæmdu</w>
@@ -3631,7 +3631,7 @@
     <original><w>jizya</w><w>skattinn</w></original>
     <corrected><w>jizya-skattinn</w></corrected>
       <errors>
-        <error xtype="compound-split" idx="117-1" eid="0" />
+        <error xtype="split-compound" idx="117-1" eid="0" />
         <error xtype="missing-dash" idx="117-1" eid="0" />
       </errors>
   </revision>
@@ -3769,7 +3769,7 @@
     <original><w>grundvallar</w><w>hugmyndafræði</w></original>
     <corrected><w>grundvallarhugmyndafræði</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0" />
+        <error xtype="split-compound" eid="0" />
       </errors>
   </revision>
   <w>trúarinnar</w>
@@ -4561,7 +4561,7 @@
     <original><w>undantekningar</w><w>tilfellum</w></original>
     <corrected><w>undantekningartilfellum</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0" />
+        <error xtype="split-compound" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -4591,7 +4591,7 @@
     <original><w>heildar</w><w>eignum</w></original>
     <corrected><w>heildareignum</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0" />
+        <error xtype="split-compound" eid="0" />
       </errors>
   </revision>
   <w>einstaklings</w>
@@ -4672,7 +4672,7 @@
     <original><w>ramadan</w><w>mánuðinum</w></original>
     <corrected><w>ramadan-mánuðinum</w></corrected>
       <errors>
-        <error xtype="compound-split" idx="156-1" eid="0" />
+        <error xtype="split-compound" idx="156-1" eid="0" />
         <error xtype="missing-dash" idx="156-1" eid="0" />
       </errors>
   </revision>
@@ -4715,7 +4715,7 @@
     <original><w>ramadan</w><w>mánuði</w></original>
     <corrected><w>ramadan-mánuði</w></corrected>
       <errors>
-        <error xtype="compound-split" idx="157-1" eid="0" />
+        <error xtype="split-compound" idx="157-1" eid="0" />
         <error xtype="missing-dash" idx="157-1" eid="0" />
       </errors>
   </revision>
@@ -5000,7 +5000,7 @@
     <original><w>Loka</w><w>stigið</w></original>
     <corrected><w>Lokastigið</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0" />
+        <error xtype="split-compound" eid="0" />
       </errors>
   </revision>
   <w>er</w>
@@ -5094,7 +5094,7 @@
     <corrected><w>klerkaveldisríkið</w></corrected>
       <errors>
         <error xtype="fw" idx="172-1" eid="0" />
-        <error xtype="compound-split" idx="172-1" eid="0" />
+        <error xtype="split-compound" idx="172-1" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
@@ -5482,7 +5482,7 @@
         <error xtype="letter-rep" idx="188-1" eid="0" />
         <error xtype="missing-accent" idx="188-1" eid="0" />
         <error xtype="extra-accent" idx="188-1" eid="0" />
-        <error xtype="compound-split" idx="188-1" eid="0" />
+        <error xtype="split-compound" idx="188-1" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -5511,7 +5511,7 @@
         <error xtype="missing-accent" idx="190-1" eid="0" />
         <error xtype="extra-accent" idx="190-1" eid="0" />
         <error xtype="missing-accent" idx="190-1" eid="0" />
-        <error xtype="compound-split" idx="190-1" eid="0" />
+        <error xtype="split-compound" idx="190-1" eid="0" />
       </errors>
   </revision>
   <w>fóru</w>
@@ -5696,7 +5696,7 @@
     <original><w>loka</w><w>dómurinn</w></original>
     <corrected><w>lokadómurinn</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0" />
+        <error xtype="split-compound" eid="0" />
       </errors>
   </revision>
   <w>yfir</w>
@@ -5711,7 +5711,7 @@
     <original><w>hreintrúar</w><c>(</c><w>e.</w><w>puritan</w><c>)</c><w>hreyfing</w></original>
     <corrected><w>hreintrúarhreyfing</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0" />
+        <error xtype="split-compound" eid="0" />
         <error xtype="extra-words" idx="202-1" eid="0" />
         <error xtype="extra-bracket" idx="202-1" eid="0" />
         <error xtype="extra-bracket" idx="202-1" eid="0" />
@@ -5761,7 +5761,7 @@
     <original><w>Saudi</w><w>fjölskyldunni</w></original>
     <corrected><w>Saud-fjölskyldunni</w></corrected>
       <errors>
-        <error xtype="compound-split" idx="205-1" eid="0" />
+        <error xtype="split-compound" idx="205-1" eid="0" />
         <error xtype="missing-dash" idx="182-1" eid="0" />
         <error xtype="extra-letter" idx="182-1" eid="0" />
       </errors>
@@ -5779,7 +5779,7 @@
     <corrected><w>hafði</w><w>Saud-fjölskyldan</w></corrected>
       <errors>
         <error xtype="agreement-pred" eid="0" />
-        <error xtype="compound-split" idx="206-1" eid="0" />
+        <error xtype="split-compound" idx="206-1" eid="0" />
         <error xtype="missing-dash" idx="206-1" eid="0" />
       </errors>
   </revision>
@@ -5791,7 +5791,7 @@
     <original><w>Najd</w><w>svæðið</w></original>
     <corrected><w>Najd-svæðið</w></corrected>
       <errors>
-        <error xtype="compound-split" idx="207-1" eid="0" />
+        <error xtype="split-compound" idx="207-1" eid="0" />
         <error xtype="missing-dash" idx="207-1" eid="0" />
       </errors>
   </revision>
@@ -5848,7 +5848,7 @@
     <corrected><w>wahhabi-trúarinnar</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="209-1" eid="0" />
-        <error xtype="compound-split" idx="209-1" eid="0" />
+        <error xtype="split-compound" idx="209-1" eid="0" />
         <error xtype="missing-dash" idx="209-1" eid="0" />
         <error xtype="missing-letter" idx="209-1" eid="0" />
         <error xtype="nonword" idx="209-1" eid="0" />
@@ -5875,7 +5875,7 @@
     <corrected><w>wahhabi-hreyfingarinnar</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="211-1" eid="0" />
-        <error xtype="compound-split" idx="211-1" eid="0" />
+        <error xtype="split-compound" idx="211-1" eid="0" />
         <error xtype="missing-dash" idx="211-1" eid="0" />
       </errors>
   </revision>
@@ -6031,7 +6031,7 @@
     <original><w>bókstafs</w><w>trú</w></original>
     <corrected><w>bókstafstrú</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0" />
+        <error xtype="split-compound" eid="0" />
       </errors>
   </revision>
   <w>á</w>
@@ -6545,7 +6545,7 @@
     <corrected><w>sjöundualdarhreyfingar</w></corrected>
       <errors>
         <error xtype="split-word" idx="248-1" eid="0" />
-        <error xtype="compound-split" idx="248-1" eid="0" />
+        <error xtype="split-compound" idx="248-1" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
@@ -7137,7 +7137,7 @@
         <error xtype="extra-accent" idx="280-1" eid="0" />
         <error xtype="extra-space" idx="280-1" eid="0" />
         <error xtype="extra-letter" idx="280-1" eid="0" />
-        <error xtype="compound-split" idx="280-1" eid="0" />
+        <error xtype="split-compound" idx="280-1" eid="0" />
         <error xtype="missing-dash" idx="280-1" eid="0" />
         <error xtype="missing-comma" idx="280-2" eid="0" />
       </errors>
@@ -8290,7 +8290,7 @@
     <corrected><w>ríkisstjórn</w></corrected>
       <errors>
         <error xtype="compound-collocation" idx="330-1" eid="0" />
-        <error xtype="compound-split" idx="330-1" eid="0" />
+        <error xtype="split-compound" idx="330-1" eid="0" />
       </errors>
   </revision>
   <w>Írak</w>
@@ -8464,7 +8464,7 @@
     <original><w>stjórnsýslu</w><w>stofnanna</w></original>
     <corrected><w>stjórnsýslustofnana</w></corrected>
       <errors>
-        <error xtype="compound-split" idx="339-1" eid="0" />
+        <error xtype="split-compound" idx="339-1" eid="0" />
         <error xtype="nn4n" idx="339-1" eid="0" />
         <error xtype="nonword" idx="339-1" eid="0" />
       </errors>
@@ -9876,7 +9876,7 @@
     <original><w>trúarbragða</w><w>sérfræðingum</w></original>
     <corrected><w>trúarbragðasérfræðingum</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0" />
+        <error xtype="split-compound" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -10689,7 +10689,7 @@
       <errors>
         <error xtype="period4colon" eid="0" />
         <error xtype="split-word" idx="426-1" eid="0" />
-        <error xtype="compound-split" idx="426-1" eid="0" />
+        <error xtype="split-compound" idx="426-1" eid="0" />
       </errors>
   </revision>
   <c>(</c>
@@ -11121,7 +11121,7 @@
         <error xtype="split-word" idx="440-1" eid="0" />
         <error xtype="missing-dash" idx="440-1" eid="0" />
         <error xtype="upper4lower-common" idx="440-2" eid="0" />
-        <error xtype="compound-split" idx="440-2" eid="0" />
+        <error xtype="split-compound" idx="440-2" eid="0" />
       </errors>
   </revision>
   <c>.</c>

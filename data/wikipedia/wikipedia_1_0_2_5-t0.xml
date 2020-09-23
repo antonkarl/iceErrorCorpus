@@ -69,7 +69,7 @@
     <corrected><w>svuntupoppslögum</w><w>heldur</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="63-1" eid="0"/>
-        <error xtype="compound-split" idx="63-1" eid="0"/>
+        <error xtype="split-compound" idx="63-1" eid="0"/>
         <error xtype="compound-collocation" idx="63-1" eid="0"/>
         <error xtype="extra-period" eid="0"/>
       </errors>
@@ -786,7 +786,7 @@
     <original><w>svuntupopp</w><w>hljómsveitir</w></original>
     <corrected><w>svuntupoppshljómsveitir</w></corrected>
       <errors>
-        <error xtype="compound-split" idx="91-1" eid="0"/>
+        <error xtype="split-compound" idx="91-1" eid="0"/>
         <error xtype="compound-collocation" idx="91-1" eid="0"/>
       </errors>
   </revision>
@@ -1372,7 +1372,7 @@
     <corrected><w>pönkhljómsveitin</w></corrected>
       <errors>
         <error xtype="fw4ice" idx="93-1" eid="0"/>
-        <error xtype="compound-split" idx="93-1" eid="0"/>
+        <error xtype="split-compound" idx="93-1" eid="0"/>
       </errors>
   </revision>
   <w>Tubeway</w>
@@ -1384,7 +1384,7 @@
     <original><w>synthpop</w><w>hljómsveit</w><c>.</c><w>En</w></original>
     <corrected><w>synthpop-hljómsveit</w><w>en</w></corrected>
       <errors>
-        <error xtype="compound-split" idx="94-1" eid="0"/>
+        <error xtype="split-compound" idx="94-1" eid="0"/>
         <error xtype="missing-dash" idx="94-1" eid="0"/>
         <error xtype="extra-period" eid="0"/>
       </errors>
@@ -1533,7 +1533,7 @@
     <corrected><w>nýbylgjuraftónlist</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="97-1" eid="0"/>
-        <error xtype="compound-split" idx="97-1" eid="0"/>
+        <error xtype="split-compound" idx="97-1" eid="0"/>
       </errors>
   </revision>
   <c>.</c>

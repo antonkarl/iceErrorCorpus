@@ -147,7 +147,7 @@
     <original><w>þrjú</w><w>leitið</w></original>
     <corrected><w>þrjúleytið</w></corrected>
       <errors>
-        <error xtype="compound-split" idx="7-1" eid="0" />
+        <error xtype="split-compound" idx="7-1" eid="0" />
         <error xtype="i4y" idx="7-1" eid="0" />
       </errors>
   </revision>
@@ -193,7 +193,7 @@
     <original><w>klukkan hálf eitt</w></original>
     <corrected><w>klukkan hálfeitt</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0" />
+        <error xtype="split-compound" eid="0" />
       </errors>
   </revision>
   <w>í</w>

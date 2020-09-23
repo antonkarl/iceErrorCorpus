@@ -310,7 +310,7 @@
     <original><w>dáleiðslu</w><w>hæfileika</w></original>
     <corrected><w>dáleiðsluhæfileika</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>Raspútíns</w>
@@ -851,7 +851,7 @@
     <original><w>innanlands</w><w>málum</w></original>
     <corrected><w>innanlandsmálum</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>Rússlands</w>

@@ -135,7 +135,7 @@
         <error xtype="extra-dash" idx="4-1" eid="0" />
         <error xtype="missing-letter" idx="4-1" eid="0" />
         <error xtype="missing-letter" idx="4-1" eid="0" />
-        <error xtype="compound-split" idx="4-1" eid="0" />
+        <error xtype="split-compound" idx="4-1" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -171,7 +171,7 @@
     <original><w>götu</w><w>menningu</w></original>
     <corrected><w>götumenningu</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0" />
+        <error xtype="split-compound" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -225,7 +225,7 @@
         <error xtype="extra-dash" idx="9-1" eid="0" />
         <error xtype="missing-letter" idx="9-1" eid="0" />
         <error xtype="missing-letter" idx="9-1" eid="0" />
-        <error xtype="compound-split" idx="9-1" eid="0" />
+        <error xtype="split-compound" idx="9-1" eid="0" />
       </errors>
   </revision>
   <c>“</c>
@@ -412,7 +412,7 @@
         <error xtype="extra-dash" idx="20-1" eid="0" />
         <error xtype="missing-letter" idx="20-1" eid="0" />
         <error xtype="missing-letter" idx="20-1" eid="0" />
-        <error xtype="compound-split" idx="20-1" eid="0" />
+        <error xtype="split-compound" idx="20-1" eid="0" />
       </errors>
   </revision>
   <c>:</c>
@@ -518,7 +518,7 @@
     <corrected><w>hipphoppmenningar</w></corrected>
       <errors>
         <error xtype="split-word" idx="27-1" eid="0" />
-        <error xtype="compound-split" idx="27-1" eid="0" />
+        <error xtype="split-compound" idx="27-1" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -563,7 +563,7 @@
         <error xtype="extra-dash" idx="28-1" eid="0" />
         <error xtype="missing-letter" idx="28-1" eid="0" />
         <error xtype="missing-letter" idx="28-1" eid="0" />
-        <error xtype="compound-split" idx="28-1" eid="0" />
+        <error xtype="split-compound" idx="28-1" eid="0" />
       </errors>
   </revision>
   <c>“</c>

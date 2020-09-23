@@ -293,7 +293,7 @@
     <original><w>tölvuleikja</w><w>tónlist</w></original>
     <corrected><w>tölvuleikjatónlist</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
@@ -593,7 +593,7 @@
     <original><w>örflögu</w><w>byggðum</w></original>
     <corrected><w>örflögubyggðum</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>búnaði</w>
@@ -633,7 +633,7 @@
     <original><w>vínyl</w><w>plötum</w></original>
     <corrected><w>vínylplötum</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>en</w>
@@ -735,7 +735,7 @@
     <original><w>neðanjarðar</w><w>tónlistarstefna</w></original>
     <corrected><w>neðanjarðartónlistarstefna</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>en</w>
@@ -1026,7 +1026,7 @@
     <original><w>kubbatónlistar</w><w>laglínum</w></original>
     <corrected><w>kubbatónlistarlaglínum</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>við</w>
@@ -1213,7 +1213,7 @@
     <original><w>Gameboy-tónlist</w></original>
     <corrected><w>Game</w><w>Boy-tónlist</w></corrected>
       <errors>
-        <error xtype="compound-split" idx="51-1" eid="0"/>
+        <error xtype="split-compound" idx="51-1" eid="0"/>
         <error xtype="upper4lower-proper" idx="51-1" eid="0"/>
         <error xtype="foreign-error" idx="51-1" eid="0"/>
       </errors>
@@ -1532,7 +1532,7 @@
     <original><w>tölvuleikja</w><w>markaðinum</w></original>
     <corrected><w>tölvuleikjamarkaðinum</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <c>.</c>

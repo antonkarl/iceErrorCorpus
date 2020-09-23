@@ -563,7 +563,7 @@
     <original><w>botn</w><w>sæliljur</w></original>
     <corrected><w>botnsæliljur</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <c>,</c>
@@ -1047,7 +1047,7 @@
     <original><w>kóral</w><w>rifi</w></original>
     <corrected><w>kóralrifi</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>í</w>
@@ -1123,7 +1123,7 @@
     <original><w>kóral</w><w>svæðum</w></original>
     <corrected><w>kóralsvæðum</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <c>.</c>

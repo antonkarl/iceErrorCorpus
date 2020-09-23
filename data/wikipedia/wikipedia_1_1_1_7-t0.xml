@@ -445,7 +445,7 @@
     <original><w>keramík</w><w>gripi</w></original>
     <corrected><w>keramíkgripi</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <c>,</c>
@@ -1719,7 +1719,7 @@
     <original><w>janúar</w><w>mánuður</w></original>
     <corrected><w>janúarmánuður</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>1881</w>
@@ -1859,7 +1859,7 @@
     <original><w>keramík</w><w>gripunum</w></original>
     <corrected><w>keramíkgripunum</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>leiddi</w>

@@ -1044,7 +1044,7 @@
     <original><w>staðar</w><w>haldara</w></original>
     <corrected><w>staðarhaldara</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>í</w>
@@ -1137,7 +1137,7 @@
     <original><w>viðar</w><w>minjar</w></original>
     <corrected><w>viðarminjar</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>sem</w>
@@ -2322,7 +2322,7 @@
     <corrected><w>til</w><w>jafns</w><w>björgunaraðgerðir</w></corrected>
       <errors>
         <error xtype="wording" eid="0"/>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>sem</w>
@@ -2331,7 +2331,7 @@
     <original><w>rannsóknar</w><w>uppgröftur</w></original>
     <corrected><w>rannsóknaruppgröftur</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -2529,7 +2529,7 @@
     <original><w>Stóru-Borgar</w><w>hólnum</w></original>
     <corrected><w>Stóru-Borgar-hólnum</w></corrected>
       <errors>
-        <error xtype="compound-split" idx="51-1" eid="0"/>
+        <error xtype="split-compound" idx="51-1" eid="0"/>
         <error xtype="missing-dash" idx="51-1" eid="0"/>
       </errors>
   </revision>
@@ -2907,7 +2907,7 @@
     <original><w>Límoges</w><w>verk</w></original>
     <corrected><w>Límoges-verk</w></corrected>
       <errors>
-        <error xtype="compound-split" idx="38-1" eid="0"/>
+        <error xtype="split-compound" idx="38-1" eid="0"/>
         <error xtype="missing-dash" idx="38-1" eid="0"/>
       </errors>
   </revision>
@@ -3966,7 +3966,7 @@
       <errors>
         <error xtype="swapped-letters" idx="88-1" eid="0"/>
         <error xtype="nonword" idx="88-1" eid="0"/>
-        <error xtype="compound-split" idx="88-1" eid="0"/>
+        <error xtype="split-compound" idx="88-1" eid="0"/>
       </errors>
   </revision>
   <w>og</w>

@@ -278,7 +278,7 @@
     <original><w>samruna</w><w>stefna</w></original>
     <corrected><w>samrunastefna</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>sem</w>
@@ -386,7 +386,7 @@
     <original><w>sölu</w><w>met</w></original>
     <corrected><w>sölumet</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>fyrir</w>
@@ -394,7 +394,7 @@
     <original><w>rokk</w><w>plötu</w></original>
     <corrected><w>rokkplötu</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <c>,</c>
@@ -546,7 +546,7 @@
     <original><w>rokk</w><w>hljómsveitum</w></original>
     <corrected><w>rokkhljómsveitum</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>frá</w>
@@ -583,7 +583,7 @@
     <original><w>gítar</w><w>riff</w></original>
     <corrected><w>gítarriff</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <c>,</c>
@@ -599,7 +599,7 @@
     <corrected><w>raftónlistar</w></corrected>
       <errors>
         <error xtype="fw4ice" idx="18-1" eid="0"/>
-        <error xtype="compound-split" idx="6181" eid="0"/>
+        <error xtype="split-compound" idx="6181" eid="0"/>
       </errors>
   </revision>
   <c>,</c>

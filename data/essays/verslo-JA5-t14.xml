@@ -876,7 +876,7 @@
     <original><w>nútíma</w><w>samfélagi</w></original>
     <corrected><w>nútímasamfélagi</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -1517,7 +1517,7 @@
     <original><w>manngreiningar</w><w>álit</w></original>
     <corrected><w>manngreinarálit</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>þegar</w>

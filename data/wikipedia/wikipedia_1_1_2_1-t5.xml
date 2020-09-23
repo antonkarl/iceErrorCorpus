@@ -136,7 +136,7 @@
     <original><w>rokk</w><w>tónlistarmanna</w></original>
     <corrected><w>rokktónlistarmanna</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0" />
+        <error xtype="split-compound" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -300,7 +300,7 @@
     <original><w>rokk</w><w>tónlistarmanna</w></original>
     <corrected><w>rokktónlistarmanna</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0" />
+        <error xtype="split-compound" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -723,7 +723,7 @@
     <corrected><w>neðanjarðarhljómsveitum</w></corrected>
       <errors>
         <error xtype="wording" idx="14-1" eid="0" />
-        <error xtype="compound-split" idx="14-1" eid="0" />
+        <error xtype="split-compound" idx="14-1" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
@@ -1324,7 +1324,7 @@
     <original><w>neðanjarðar</w><w>pönksenunnar</w></original>
     <corrected><w>neðanjarðarpönksenunnar</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0" />
+        <error xtype="split-compound" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -1783,7 +1783,7 @@
     <original><w>pönk</w><w>tónlist</w></original>
     <corrected><w>pönktónlist</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0" />
+        <error xtype="split-compound" eid="0" />
       </errors>
   </revision>
   <w>fyrir</w>
@@ -1813,7 +1813,7 @@
     <original><w>tónlistar</w><w>samfélag</w></original>
     <corrected><w>tónlistarsamfélag</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0" />
+        <error xtype="split-compound" eid="0" />
       </errors>
   </revision>
   <c>.</c>

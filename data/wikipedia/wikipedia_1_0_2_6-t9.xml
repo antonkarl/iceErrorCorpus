@@ -228,7 +228,7 @@
     <original><w>Charleston</w><w>háskólann</w></original>
     <corrected><w>Charleston-háskólann</w></corrected>
       <errors>
-        <error xtype="compound-split" idx="8-1" eid="0"/>
+        <error xtype="split-compound" idx="8-1" eid="0"/>
         <error xtype="missing-dash" idx="8-1" eid="0"/>
       </errors>
   </revision>
@@ -436,7 +436,7 @@
     <original><w>Julliard</w><w>skólann</w></original>
     <corrected><w>Julliard-skólann</w></corrected>
       <errors>
-        <error xtype="compound-split" idx="10-1" eid="0"/>
+        <error xtype="split-compound" idx="10-1" eid="0"/>
         <error xtype="missing-dash" idx="10-1" eid="0"/>
       </errors>
   </revision>

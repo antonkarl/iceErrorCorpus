@@ -416,7 +416,7 @@
     <original><w>æsku</w><w>ástinni</w></original>
     <corrected><w>æskuástinni</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>sinni</w>
@@ -445,7 +445,7 @@
     <original><w>gyðinga</w><w>fjölskylda</w></original>
     <corrected><w>gyðingafjölskylda</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>sem</w>
@@ -820,7 +820,7 @@
     <original><w>sirkus</w><w>fólk</w></original>
     <corrected><w>sirkusfólk</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <c>)</c>

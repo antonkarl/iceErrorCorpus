@@ -128,7 +128,7 @@
     <original><w>saxafón</w><w>leikaranum</w></original>
     <corrected><w>saxafónleikaranum</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>Stan</w>
@@ -1163,7 +1163,7 @@
     <original><w>píanó</w><w>tækni</w></original>
     <corrected><w>píanótækni</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>hans</w>

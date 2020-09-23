@@ -224,7 +224,7 @@
     <original><w>harðspjalda</w><w>bókar</w></original>
     <corrected><w>harðspjaldabókar</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
@@ -1154,7 +1154,7 @@
     <corrected><w>VÍ-MR-daginn</w></corrected>
       <errors>
       	<error xtype="lower4upper-acro" idx="48-1" eid="0"/>
-      	<error xtype="compound-split" idx="48-1" eid="0"/>
+      	<error xtype="split-compound" idx="48-1" eid="0"/>
         <error xtype="missing-dash" idx="48-1" eid="0"/>
       </errors>
   </revision>

@@ -409,7 +409,7 @@
     <original><w>tóbaks</w><w>flöskur</w></original>
     <corrected><w>tóbaksflöskur</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -451,7 +451,7 @@
     <original><w>silfur</w><w>munur</w><w>Navajó</w><w>indíánanna</w></original>
     <corrected><w>silfurmunur</w><w>Navajó-indíánanna</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
         <error xtype="missing-dash" eid="0"/>
       </errors>
   </revision>
@@ -727,7 +727,7 @@
     <original><w>vopnahlés</w><w>ráðstefnu</w></original>
     <corrected><w>vopnahlésráðstefnu</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>er</w>
@@ -743,7 +743,7 @@
     <corrected><w>þessara</w><w>kóðahvíslara</w></corrected>
       <errors>
         <error xtype="agreement-concord" eid="0"/>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>var</w>
@@ -833,7 +833,7 @@
     <original><w>ættbálka</w><w>athafnir</w></original>
     <corrected><w>ættbálkaathafnir</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
@@ -1007,7 +1007,7 @@
     <original><w>indíána</w><w>ættbálka</w></original>
     <corrected><w>indíánaættbálka</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -1084,7 +1084,7 @@
     <original><w>Ljós</w><w>brúna</w></original>
     <corrected><w>Ljósbrúna</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>svæðið</w>
@@ -1131,7 +1131,7 @@
     <original><w>nútíma</w><w>heimili</w></original>
     <corrected><w>nútímaheimili</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -1253,7 +1253,7 @@
     <original><w>landbúnaðar</w><w>lifnaðarhátt</w><w>Navajó</w><w>indíánanna</w></original>
     <corrected><w>landbúnaðarlifnaðarhátt</w><w>Navajó-indíánanna</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
         <error xtype="missing-dash" eid="0"/>
       </errors>
   </revision>

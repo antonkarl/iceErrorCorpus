@@ -489,7 +489,7 @@
     <original><w>aldurs</w><w>ári</w></original>
     <corrected><w>aldursári</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -1374,7 +1374,7 @@
     <original><w>bréfa</w><w>sendingum</w></original>
     <corrected><w>bréfasendingum</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <c>,</c>

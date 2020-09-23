@@ -146,7 +146,7 @@
       <errors>
         <error xtype="agreement-pred" eid="0"/>
         <error xtype="wording" idx="17-1" eid="0"/>
-        <error xtype="compound-split" idx="17-1" eid="0"/>
+        <error xtype="split-compound" idx="17-1" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -276,7 +276,7 @@
     <corrected><w>Botzon-bræðrum</w></corrected>
       <errors>
         <error xtype="missing-dash" idx="44-1" eid="0"/>
-        <error xtype="compound-split" idx="44-1" eid="0"/>
+        <error xtype="split-compound" idx="44-1" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -346,7 +346,7 @@
     <corrected><w>Botzen-bræðrunum</w></corrected>
       <errors>
         <error xtype="missing-dash" idx="12-1" eid="0"/>
-        <error xtype="compound-split" idx="12-1" eid="0"/>
+        <error xtype="split-compound" idx="12-1" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
@@ -627,7 +627,7 @@
     <original><w>spíral</w><w>turni</w><w>Sant'lvo</w></original>
     <corrected><w>spíralturni</w><w>Sant'Ivo</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
         <error xtype="letter-rep" idx="22-1" eid="0"/>
         <error xtype="nonword" idx="22-1" eid="0"/>
       </errors>
@@ -729,7 +729,7 @@
     <original><w>bráðabirgða</w><w>altari</w></original>
     <corrected><w>bráðabirgðaaltari</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>en</w>

@@ -324,7 +324,7 @@
     <original><w>Uppáhalds</w><w>frasinn</w></original>
     <corrected><w>Uppáhaldsfrasinn</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>hans</w>
@@ -1255,7 +1255,7 @@
     <original><w>Latabæjar</w><w>bókina</w></original>
     <corrected><w>Latabæjarbókina</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w><hi>Áfram</hi></w>
@@ -1396,7 +1396,7 @@
     <original><w>uppáhalds</w><w>vinur</w></original>
     <corrected><w>uppáhaldsvinur</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>hans</w>
@@ -1521,7 +1521,7 @@
       <errors>
         <error xtype="compound-collocation" idx="20-1" eid="0"/>
         <error xtype="compound-nonword" idx="20-1" eid="0"/>
-        <error xtype="compound-split" idx="20-1" eid="0"/>
+        <error xtype="split-compound" idx="20-1" eid="0"/>
       </errors>
   </revision>
   <w>á</w>
