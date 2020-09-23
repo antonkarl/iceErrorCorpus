@@ -27,7 +27,14 @@
   <w>í</w>
   <w>Gainesville</w>
   <c>,</c>
-  <w>Florída</w>
+  <revision id="0">
+    <original><w>Florída</w></original>
+    <corrected><w>Flórída</w></corrected>
+      <errors>
+        <error xtype="missing-accent" idx="0-1" eid="0" />
+        <error xtype="nonword" idx="0-1" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>21. desember 1982</w>
   <c>)</c>

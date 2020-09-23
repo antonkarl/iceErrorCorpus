@@ -166,7 +166,13 @@
   <w>að</w>
   <w>Lúðvík</w>
   <w>XVI</w>
-  <w>frakkakonungur</w>
+  <revision id="4b">
+    <original><w>frakkakonungur</w></original>
+    <corrected><w>Frakkakonungur</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
   <w>lýsti</w>
   <w>því</w>
   <w>yfir</w>

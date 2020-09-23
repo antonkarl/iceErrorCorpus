@@ -32,7 +32,13 @@
   <w>núverandi</w>
   <w>landamærum</w>
   <w>Hvíta-Rússlands</w>
-  <w>urðu</w>
+  <revision id="0">
+    <original><w>urðu</w></original>
+    <corrected><w>varð</w></corrected>
+      <errors>
+        <error xtype="agreement-pred" eid="0"/>
+      </errors>
+  </revision>
   <w>til</w>
   <w>þegar</w>
   <w>Sovétríkin</w>
@@ -331,7 +337,13 @@
   <c>.</c>
 </s><s n="19">
   <w>Eftir</w>
-  <w>Rússnesku</w>
+  <revision id="6b">
+    <original><w>Rússnesku</w></original>
+    <corrected><w>rússnesku</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0"/>
+      </errors>
+  </revision>
   <w>byltinguna</w>
   <w>lýsti</w>
   <w>Hvíta-Rússland</w>
@@ -364,7 +376,13 @@
   <w>Stórhertogadæmisins</w>
   <w>Litháen</w>
   <w>og</w>
-  <w>Rússneska</w>
+  <revision id="6c">
+    <original><w>Rússneska</w></original>
+    <corrected><w>rússneska</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0"/>
+      </errors>
+  </revision>
   <w>keisaradæmisins</w>
   <c>.</c>
 </s><s n="21">

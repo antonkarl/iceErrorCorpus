@@ -37,7 +37,13 @@
   <c>.</c>
 </s><s n="2">
   <w>Að</w>
-  <w>afloknu</w>
+  <revision id="0">
+    <original><w>afloknu</w></original>
+    <corrected><w>loknu</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
   <w>herþjónustuhléi</w>
   <revision id="1">
     <original/>
@@ -74,9 +80,13 @@
   <w>við</w>
   <w>teymi</w>
   <w>Turpins</w>
-  <w>að</w>
-  <w>herþjónustu</w>
-  <w>lokinni</w>
+  <revision id="2b">
+    <original><w>að</w><w>herþjónustu</w><w>lokinni</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-words" eid="0"/>
+      </errors>
+  </revision>
   <w>og</w>
   <w>vann</w>
   <w>hann</w>
@@ -236,7 +246,14 @@
   <w>finna</w>
   <w>orsök</w>
   <c>„</c>
-  <w>mongolisma</w>
+  <revision id="5b">
+    <original><w>mongolisma</w></original>
+    <corrected><w>mongólisma</w></corrected>
+      <errors>
+        <error xtype="missing-accent" idx="5b-1" eid="0"/>
+        <error xtype="nonword" idx="5b-1" eid="0"/>
+      </errors>
+  </revision>
   <c>“</c>
   <c>(</c>
   <w>Downs-heilkennis</w>

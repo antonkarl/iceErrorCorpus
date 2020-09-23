@@ -125,14 +125,7 @@
   <w>og</w>
   <w>eftir</w>
   <w>verða</w>
-  <revision id="4">
-    <original><w>t</w><c>.</c><w>d.</w></original>
-    <corrected><w>t.d.</w></corrected>
-      <errors>
-        <error xtype="extra-space" idx="4-1" eid="0"/>
-        <error xtype="extra-space" idx="4-1" eid="0"/>
-      </errors>
-  </revision>
+  <w>t.d.</w>
   <w>bergtegundir</w>
   <w>eins</w>
   <w>og</w>
@@ -312,7 +305,14 @@
   <w>Fe2O3</w>
   <c>)</c>
   <c>,</c>
-  <w>límonít</w>
+  <revision id="7b">
+    <original><w>límonít</w></original>
+    <corrected><w>límónít</w></corrected>
+      <errors>
+        <error xtype="missing-accent" idx="7b-1" eid="0"/>
+        <error xtype="nonword" idx="7b-1" eid="0"/>
+      </errors>
+  </revision>
   <c>(</c>
   <w>HFeO2</w>
   <c>)</c>

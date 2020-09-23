@@ -111,8 +111,13 @@
   <w>tilfinningalega</w>
   <w>tengdir</w>
   <w>gengi</w>
-  <w>uppáhalds</w>
-  <w>keppenda</w>
+  <revision id="3b">
+    <original><w>uppáhalds</w><w>keppenda</w></original>
+    <corrected><w>uppáhaldskeppenda</w></corrected>
+      <errors>
+        <error xtype="compound-split" eid="0"/>
+      </errors>
+  </revision>
   <w>sinna</w>
   <w>en</w>
   <w>eru</w>

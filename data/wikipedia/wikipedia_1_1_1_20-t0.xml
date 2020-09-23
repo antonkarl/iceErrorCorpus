@@ -125,7 +125,14 @@
   <c>,</c>
   <w>rómantík</w>
   <c>,</c>
-  <w>feminisma</w>
+  <revision id="4b">
+    <original><w>feminisma</w></original>
+    <corrected><w>femínisma</w></corrected>
+      <errors>
+        <error xtype="missing-accent" idx="4b-1" eid="0"/>
+        <error xtype="nonword" idx="4b-1" eid="0"/>
+      </errors>
+  </revision>
   <c>,</c>
   <w>pólitík</w>
   <w>og</w>
@@ -536,7 +543,20 @@
   <w>The</w>
   <w>Square</w>
   <c>,</c>
-  <w>Pg</w>
+  <w>Pg.</w>
+  <w>99</w>
+  <c>,</c>
+  <w>Ampere</w>
+  <w>og</w>
+  <w>City</w>
+  <w>Of</w>
+  <w>Caterpillar</w>
+  <w>og</w>
+  <w>frá</w>
+  <w>Kanada</w>
+  <w>kom</w>
+  <w>hljómsveitin</w>
+  <w>Alexisonfire</w>
   <c>.</c>
 </s><s n="18">
   <w>Svo</w>
@@ -596,6 +616,17 @@
   <w>Hljómsveitin</w>
   <w>Panic</w>
   <c>!</c>
+  <w>At</w>
+  <w>The</w>
+  <w>Disco</w>
+  <c>,</c>
+  <w>The</w>
+  <w>Red</w>
+  <w>Jumpsuit</w>
+  <w>Apparatus</w>
+  <w>og</w>
+  <w>Paramore</w>
+  <c>.</c>
 </s><s n="22">
   <w>Þessi</w>
   <w>hljómsveit</w>
@@ -1149,18 +1180,6 @@
   <w>sorg</w>
   <w>eftir</w>
   <w>sambandsslit</w>
-  <c>.</c>
-</s><s n="46">
-  <w>At</w>
-  <w>The</w>
-  <w>Disco</w>
-  <w>og</w>
-  <w>að</w>
-  <w>tala</w>
-  <w>um</w>
-  <w>þá</w>
-  <w>í</w>
-  <w>viðtölum</w>
   <c>.</c>
 </s><s n="47">
   <revision id="42">
@@ -1971,21 +1990,6 @@
   <w>eða</w>
   <w>ekki</w>
   <c>.</c>
-</s><s n="80">
-  <w>99</w>
-  <c>,</c>
-  <w>Ampere</w>
-  <w>og</w>
-  <w>City</w>
-  <w>Of</w>
-  <w>Caterpillar</w>
-  <w>og</w>
-  <w>frá</w>
-  <w>Kanada</w>
-  <w>kom</w>
-  <w>hljómsveitin</w>
-  <w>Alexisonfire</w>
-  <c>.</c>
 </s><s n="81">
   <w>Plötufyrirtækin</w>
   <w>vildu</w>
@@ -2053,18 +2057,6 @@
   <w>og</w>
   <w>hefðbundnu</w>
   <w>rokki</w>
-  <c>.</c>
-</s><s n="84">
-  <w>At</w>
-  <w>The</w>
-  <w>Disco</w>
-  <c>,</c>
-  <w>The</w>
-  <w>Red</w>
-  <w>Jumpsuit</w>
-  <w>Apparatus</w>
-  <w>og</w>
-  <w>Paramore</w>
   <c>.</c>
 </s><s n="85">
   <w>Samt</w>
@@ -3046,6 +3038,17 @@
   <w>auglýsa</w>
   <w>Panic</w>
   <c>!</c>
+  <w>At</w>
+  <w>The</w>
+  <w>Disco</w>
+  <w>og</w>
+  <w>að</w>
+  <w>tala</w>
+  <w>um</w>
+  <w>þá</w>
+  <w>í</w>
+  <w>viðtölum</w>
+  <c>.</c>
 </s><s n="125">
   <w>Nú</w>
   <w>voru</w>

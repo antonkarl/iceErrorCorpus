@@ -241,7 +241,13 @@
   <w>heimshluta</w>
   <w>frá</w>
   <w>því</w>
-  <w>í</w>
+  <revision id="8b">
+    <original><w>í</w></original>
+    <corrected><w>á</w></corrected>
+      <errors>
+        <error xtype="wrong-prep" eid="0" />
+      </errors>
+  </revision>
   <w>fornöld</w>
   <w>og</w>
   <w>þar</w>

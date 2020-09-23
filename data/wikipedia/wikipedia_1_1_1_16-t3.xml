@@ -137,7 +137,14 @@
   <w>dýpi</w>
   <w>og</w>
   <w>lögun</w>
-  <w>sjávarbotnins</w>
+  <revision id="1b">
+    <original><w>sjávarbotnins</w></original>
+    <corrected><w>sjávarbotnsins</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="1b-1" eid="0"/>
+        <error xtype="nonword" idx="1b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>hefur</w>
   <w>áhrif</w>
   <w>á</w>
@@ -288,7 +295,13 @@
   <w>neðan</w>
   <w>1000 m</w>
   <w>eru</w>
-  <w>knúðir</w>
+  <revision id="1c">
+    <original><w>knúðir</w></original>
+    <corrected><w>knúnir</w></corrected>
+      <errors>
+        <error xtype="letter-rep" eid="0"/>
+      </errors>
+  </revision>
   <w>í</w>
   <w>ferli</w>
   <w>sem</w>

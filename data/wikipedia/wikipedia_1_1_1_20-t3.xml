@@ -416,7 +416,13 @@
   <w>byggður</w>
   <w>að</w>
   <w>mestu</w>
-  <w>leiti</w>
+  <revision id="14b">
+    <original><w>leiti</w></original>
+    <corrected><w>leyti</w></corrected>
+      <errors>
+        <error xtype="i4y" eid="0"/>
+      </errors>
+  </revision>
   <w>á</w>
   <w>FreeBSD</w>
   <w>og</w>
