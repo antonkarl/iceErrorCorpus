@@ -123,7 +123,14 @@
   <w>í</w>
   <w>sagnfræði</w>
   <w>frá</w>
-  <w>háskólanu</w>
+  <revision id="1b">
+    <original><w>háskólanu</w></original>
+    <corrected><w>háskólanum</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="1b-1" eid="0" />
+        <error xtype="nonword" idx="1b-1" eid="0" />
+      </errors>
+  </revision>
   <w>í</w>
   <w>Tartu</w>
   <w>2005</w>

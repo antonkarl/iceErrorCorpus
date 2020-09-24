@@ -158,7 +158,13 @@
   <w>útgáfu</w>
   <w>Wiséns</w>
   <w>á</w>
-  <w>Íslensku</w>
+  <revision id="0">
+    <original><w>Íslensku</w></original>
+    <corrected><w>íslensku</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
   <w>hómilíubókinni</w>
   <c>,</c>
   <w>1872</w>
@@ -195,13 +201,7 @@
   <w>það</w>
   <c>,</c>
   <w>sjá</w>
-  <revision id="2">
-    <original><w>t</w><c>.</c><w>d.</w></original>
-    <corrected><w>t.d.</w></corrected>
-      <errors>
-        <error xtype="extra-space" eid="0" />
-      </errors>
-  </revision>
+  <w>t.d.</w>
   <w>formála</w>
   <w>Andreu</w>
   <w>van</w>

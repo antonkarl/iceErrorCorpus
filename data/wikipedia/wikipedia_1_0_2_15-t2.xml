@@ -218,7 +218,13 @@
   <w>er</w>
   <w>að</w>
   <w>sinna</w>
-  <w>ungabarni</w>
+  <revision id="3b">
+    <original><w>ungabarni</w></original>
+    <corrected><w>ungbarni</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="12">
   <w>Símtalið</w>

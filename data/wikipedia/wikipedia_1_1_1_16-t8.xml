@@ -540,7 +540,10 @@
   <w>1378</w>
   <w>og</w>
   <w>staðfest</w>
-  <w>1637.</w>
+  <w>1637</w>
+  <c>.</c>
+</s>
+<s n="29b">
   <w>1939</w>
   <w>var</w>
   <w>skjaldarberunum</w>
@@ -1018,8 +1021,13 @@
   <w>er</w>
   <w>mikill</w>
   <w>fjöldi</w>
-  <w>heyrnarskertra</w>
-  <w>manna</w>
+  <revision id="28b">
+    <original><w>heyrnarskertra</w><w>manna</w></original>
+    <corrected><w>heyrnarskerts</w><w>fólks</w></corrected>
+      <errors>
+        <error xtype="gendered" eid="0"/>
+      </errors>
+  </revision>
   <c>,</c>
   <w>sá</w>
   <w>mesti</w>

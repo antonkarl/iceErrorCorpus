@@ -491,7 +491,13 @@
   <w>hefur</w>
   <w>Underwood</w>
   <w>átt</w>
-  <w>mikill</w>
+  <revision id="17b">
+    <original><w>mikill</w></original>
+    <corrected><w>mikilli</w></corrected>
+      <errors>
+        <error xtype="agreement-concord" eid="0"/>
+      </errors>
+  </revision>
   <w>velgengni</w>
   <w>að</w>
   <w>fagna</w>
@@ -761,13 +767,7 @@
   <w>verðlaun</w>
   <w>fékk</w>
   <w>hún</w>
-  <revision id="24">
-    <original><w>m.</w><w>a</w><c>.</c></original>
-    <corrected><w>m.a.</w></corrected>
-      <errors>
-        <error xtype="extra-space" eid="0"/>
-      </errors>
-  </revision>
+  <w>m.a.</w>
   <w>plötusamning</w>
   <w>að</w>
   <w>andvirði</w>

@@ -963,7 +963,13 @@
   <w>prestsins</w>
   <c>,</c>
   <w>húsi</w>
-  <w>Símons</w>
+  <revision id="13b">
+    <original><w>Símons</w></original>
+    <corrected><w>Símonar</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0"/>
+      </errors>
+  </revision>
   <w>líkþráa</w>
   <c>,</c>
   <w>á</w>

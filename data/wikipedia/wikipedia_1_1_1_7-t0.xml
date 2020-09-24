@@ -645,6 +645,13 @@
   <c>.</c>
 </s><s n="29">
   <w>Til</w>
+  <revision id="7c">
+    <original></original>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="missing-inf-part" eid="0"/>
+      </errors>
+  </revision>
   <w>heiðra</w>
   <w>minningu</w>
   <w>þeirra</w>
@@ -1199,7 +1206,14 @@
   <w>fjarlægja</w>
   <w>útlimi</w>
   <w>nokkurra</w>
-  <w>skipsbrotsmanna</w>
+  <revision id="17b">
+    <original><w>skipsbrotsmanna</w></original>
+    <corrected><w>skipbrotsmanna</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="17b-1" eid="0"/>
+        <error xtype="compound-nonword" idx="17b-1" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="52">
   <w>Tvö</w>
@@ -1445,7 +1459,13 @@
   <c>.</c>
 </s><s n="64">
   <w>Samkvæmt</w>
-  <w>farmsskrá</w>
+  <revision id="21b">
+    <original><w>farmsskrá</w></original>
+    <corrected><w>farmskrá</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" eid="0"/>
+      </errors>
+  </revision>
   <w>skipsins</w>
   <w>voru</w>
   <w>einnig</w>
@@ -1470,7 +1490,14 @@
   <w>Íslands</w>
   <w>var</w>
   <w>7.</w>
-  <w>júni</w>
+  <revision id="21c">
+    <original><w>júni</w></original>
+    <corrected><w>júní</w></corrected>
+      <errors>
+        <error xtype="missing-accent" idx="21c-1" eid="0"/>
+        <error xtype="nonword" idx="21c-1" eid="0"/>
+      </errors>
+  </revision>
   <w>1864</w>
   <w>og</w>
   <w>var</w>
@@ -1528,7 +1555,14 @@
   <w>kom</w>
   <w>í</w>
   <w>ljós</w>
-  <w>talverður</w>
+  <revision id="21d">
+    <original><w>talverður</w></original>
+    <corrected><w>talsverður</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="21d-1" eid="0"/>
+        <error xtype="nonword" idx="21d-1" eid="0"/>
+      </errors>
+  </revision>
   <w>fjöldi</w>
   <w>gripa</w>
   <c>,</c>
@@ -2053,7 +2087,13 @@
   <w>skipið</w>
   <w>var</w>
   <w>statt</w>
-  <w>útaf</w>
+  <revision id="39b">
+    <original><w>útaf</w></original>
+    <corrected><w>út</w><w>af</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0"/>
+      </errors>
+  </revision>
   <w>Löngufjörum</w>
   <c>,</c>
   <w>Snæfellsnesi</w>

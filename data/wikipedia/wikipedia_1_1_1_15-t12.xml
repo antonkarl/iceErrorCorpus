@@ -552,7 +552,13 @@
   <w>um</w>
   <w>1,8 milljón</w>
   <w>árum</w>
-  <w>síðan</w>
+  <revision id="10b">
+    <original><w>síðan</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="29">
   <w>Jafnvel</w>
@@ -623,7 +629,13 @@
   <w>eru</w>
   <w>Mýkenumenningin</w>
   <w>og</w>
-  <w>mínóísk</w>
+  <revision id="10c">
+    <original><w>mínóísk</w></original>
+    <corrected><w>mínósk</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0"/>
+      </errors>
+  </revision>
   <w>menning</w>
   <w>sem</w>
   <w>blómstruðu</w>

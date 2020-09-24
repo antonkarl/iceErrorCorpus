@@ -29,7 +29,13 @@
   <w>hér</w>
   <w>áður</w>
   <w>fyrr</w>
-  <w>tugthúsið</w>
+  <revision id="0">
+    <original><w>tugthúsið</w></original>
+    <corrected><w>tukthúsið</w></corrected>
+      <errors>
+        <error xtype="letter-rep" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>fangahúsið</w>
   <w>eða</w>

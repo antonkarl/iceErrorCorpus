@@ -28,7 +28,13 @@
   <w>ökuprófi</w>
   <w>í</w>
   <w>Bandarísku</w>
-  <w>Jómfrúreyjum</w>
+  <revision id="0">
+    <original><w>Jómfrúreyjum</w></original>
+    <corrected><w>Jómfrúaeyjum</w></corrected>
+      <errors>
+        <error xtype="letter-rep" eid="0"/>
+      </errors>
+  </revision>
   <revision id="1">
     <original><w>út</w><w>af</w><w>því</w><w>að</w><w>þetta</w></original>
     <corrected><w>þar</w><w>sem</w><w>það</w></corrected>

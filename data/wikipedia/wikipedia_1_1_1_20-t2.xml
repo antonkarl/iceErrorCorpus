@@ -125,7 +125,13 @@
   <w>kreppunnar</w>
   <w>á</w>
   <w>tónlistina</w>
-  <w>var</w>
+  <revision id="3b">
+    <original><w>var</w></original>
+    <corrected><w>voru</w></corrected>
+      <errors>
+        <error xtype="agreement-pred" eid="0"/>
+      </errors>
+  </revision>
   <w>peningaleg</w>
   <c>,</c>
   <w>það</w>
@@ -959,7 +965,7 @@
   <w>hljóðfæraleikur</w>
   <revision id="34">
     <original/>
-    <corrected><w>syrktist</w></corrected>
+    <corrected><w>styrktist</w></corrected>
       <errors>
         <error xtype="dep" depId="27-1" eid="0"/>
       </errors>
@@ -975,7 +981,13 @@
   <w>komu</w>
   <w>fram</w>
   <w>á</w>
-  <w>allskyns</w>
+  <revision id="34b">
+    <original><w>allskyns</w></original>
+    <corrected><w>alls</w><w>kyns</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0"/>
+      </errors>
+  </revision>
   <w>blústónlistarviðburðum</w>
   <c>,</c>
   <w>sem</w>

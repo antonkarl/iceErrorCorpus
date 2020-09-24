@@ -391,7 +391,14 @@
       </errors>
   </revision>
   <w>að</w>
-  <w>a.m.k</w>
+  <revision id="8b">
+    <original><w>a.m.k</w></original>
+    <corrected><w>a.m.k.</w></corrected>
+      <errors>
+        <error xtype="missing-period" idx="8b-1" eid="0"/>
+        <error xtype="abbreviation-period" idx="8b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>baðstofan</w>
   <w>hefur</w>
   <w>verið</w>
@@ -717,7 +724,13 @@
 </s><s n="37">
   <w>Vestast</w>
   <w>í</w>
-  <w>skálatótt</w>
+  <revision id="13b">
+    <original><w>skálatótt</w></original>
+    <corrected><w>skálatóft</w></corrected>
+      <errors>
+        <error xtype="letter-rep" eid="0"/>
+      </errors>
+  </revision>
   <w>voru</w>
   <w>merki</w>
   <w>um</w>
@@ -1024,7 +1037,14 @@
   <w>forstofuna</w>
   <w>var</w>
   <w>svo</w>
-  <w>búrtótt</w>
+  <revision id="17b">
+    <original><w>búrtótt</w></original>
+    <corrected><w>búrtóft</w></corrected>
+      <errors>
+        <error xtype="letter-rep" idx="17b-1" eid="0"/>
+        <error xtype="nonword" idx="17b-1" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="54">
   <w>Veggir</w>
@@ -1139,7 +1159,13 @@
   <w>ljósum</w>
   <w>gjóskukornum</w>
   <c>,</c>
-  <w>samskonar</w>
+  <revision id="20">
+    <original><w>samskonar</w></original>
+    <corrected><w>sams</w><w>konar</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0"/>
+      </errors>
+  </revision>
   <w>og</w>
   <w>þau</w>
   <w>sem</w>

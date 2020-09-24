@@ -684,7 +684,14 @@
   <w>líma</w>
   <w>við</w>
   <w>hann</w>
-  <w>festuþræði</w>
+  <revision id="51b">
+    <original><w>festuþræði</w></original>
+    <corrected><w>festiþræði</w></corrected>
+      <errors>
+        <error xtype="letter-rep" idx="51b-1" eid="0"/>
+        <error xtype="nonword" idx="51b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>til</w>
   <w>að</w>
   <w>gera</w>

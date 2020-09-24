@@ -143,11 +143,11 @@
   <w>á</w>
   <w>borð</w>
   <w>við</w>
-  <c>:</c>
   <revision id="12">
-    <original><w>Macbeth</w></original>
+    <original><c>:</c><w>Macbeth</w></original>
     <corrected><w><hi>Macbeth</hi></w></corrected>
       <errors>
+        <error xtype="extra-colon" eid="0" />
         <error xtype="nonit4it" eid="0" />
       </errors>
   </revision>

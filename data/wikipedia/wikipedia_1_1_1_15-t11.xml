@@ -211,7 +211,13 @@
   <w>klukkunni</w>
   <w>hringt</w>
   <w>með</w>
-  <w>mannafli</w>
+  <revision id="1b">
+    <original><w>mannafli</w></original>
+    <corrected><w>handafli</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
   <w>en</w>
   <w>það</w>
   <w>tekur</w>
@@ -473,14 +479,7 @@
 </s><s n="27">
   <w>Hún</w>
   <w>er</w>
-  <revision id="8">
-    <original><w>t</w><c>.</c><w>d.</w></original>
-    <corrected><w>t.d.</w></corrected>
-      <errors>
-        <error xtype="extra-space" idx="9-1" eid="0"/>
-        <error xtype="extra-space" idx="9-1" eid="0"/>
-      </errors>
-  </revision>
+  <w>t.d.</w>
   <w>skreytt</w>
   <w>1300</w>
   <w>eðalsteinum</w>
@@ -573,7 +572,13 @@
   <w>í</w>
   <w>og</w>
   <w>allt</w>
-  <w>innviðið</w>
+  <revision id="7b">
+    <original><w>innviðið</w></original>
+    <corrected><w>innra</w><w>byrði</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0"/>
+      </errors>
+  </revision>
   <w>fullklárað</w>
   <c>.</c>
 </s><s n="33">

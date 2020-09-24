@@ -192,8 +192,13 @@
   <w>1998</w>
   <c>.</c>
 </s><s n="7">
-  <w>Aðal</w>
-  <w>stjórnmálaflokkarnir</w>
+  <revision id="8b">
+    <original><w>Aðal</w><w>stjórnmálaflokkarnir</w></original>
+    <corrected><w>Aðalstjórnmálaflokkarnir</w></corrected>
+      <errors>
+        <error xtype="split-word" eid="0"/>
+      </errors>
+  </revision>
   <w>hunsuðu</w>
   <w>sáttmálann</w>
   <c>.</c>
@@ -4289,7 +4294,14 @@
   <w>stuðnings</w>
   <w>sjálfstæði</w>
   <w>fyrir</w>
-  <w>þjóðaratkvæðagreiðlsuna</w>
+  <revision id="278b">
+    <original><w>þjóðaratkvæðagreiðlsuna</w></original>
+    <corrected><w>þjóðaratkvæðagreiðsluna</w></corrected>
+      <errors>
+        <error xtype="swapped-letters" idx="278b-1" eid="0"/>
+        <error xtype="nonword" idx="278b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>þegar</w>
   <w>herferðin</w>
   <w><hi>Yes</hi></w>

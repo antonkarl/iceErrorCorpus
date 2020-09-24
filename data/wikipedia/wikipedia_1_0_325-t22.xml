@@ -69,8 +69,13 @@
   <w>að</w>
   <w>mestu</w>
   <c>,</c>
-  <w>næst</w>
-  <w>elst</w>
+  <revision id="2b">
+    <original><w>næst</w><w>elst</w></original>
+    <corrected><w>næstelst</w></corrected>
+      <errors>
+        <error xtype="split-word" eid="0" />
+      </errors>
+  </revision>
   <w>fimm</w>
   <w>systkina</w>
   <c>.</c>
@@ -142,10 +147,7 @@
   <w>varð</w>
   <w>hún</w>
   <w>cand.</w>
-  <w>philol</w>
-  <c>.</c>
-</s>
-<s n="6">
+  <w>philol.</w>
   <w>1924</w>
   <w>með</w>
   <w>norsku</w>
@@ -325,19 +327,15 @@
   <w><hi>fra</hi></w>
   <w><hi>det</hi></w>
   <w><hi></hi></w>
-  <w>12</w>
-  <c>.</c>
-</s>
-<s n="13">
-  <w><hi></hi></w>
+  <w><hi>12.</hi></w>
   <w><hi>århundrede</hi></w>
   <c>,</c>
-  <w><hi>sem</hi></w>
-  <w><hi>fjallar</hi></w>
-  <w><hi>um</hi></w>
-  <w><hi>höfund</hi></w>
-  <w><hi>fyrstu</hi></w>
-  <w><hi>málfræðiritgerðarinnar</hi></w>
+  <w>sem</w>
+  <w>fjallar</w>
+  <w>um</w>
+  <w>höfund</w>
+  <w>fyrstu</w>
+  <w>málfræðiritgerðarinnar</w>
   <c>.</c>
 </s>
 <s n="14">
@@ -454,6 +452,13 @@
   </revision>
   <w>en</w>
   <w>einnig</w>
+  <revision id="12b">
+    <original></original>
+    <corrected><w>er</w></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
+      </errors>
+  </revision>
   <w>stuðst</w>
   <w>við</w>
   <w>forna</w>

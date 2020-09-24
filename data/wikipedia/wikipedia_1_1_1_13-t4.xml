@@ -581,7 +581,13 @@
   <w>frá</w>
   <w>þungarokkshljómsveitum</w>
   <w>8.</w>
-  <w>áratugsins</w>
+  <revision id="19b">
+    <original><w>áratugsins</w></original>
+    <corrected><w>áratugsarins</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0"/>
+      </errors>
+  </revision>
   <c>,</c>
   <w>Led</w>
   <w>Zeppelin</w>
@@ -617,12 +623,24 @@
 </s><s n="25">
   <w>Rapp-þungarokk</w>
   <w>er</w>
-  <w>einskonar</w>
+  <revision id="19c">
+    <original><w>einskonar</w></original>
+    <corrected><w>eins</w><w>konar</w></corrected>
+      <errors>
+        <error xtype="extra-dash" eid="0"/>
+      </errors>
+  </revision>
   <w>blanda</w>
   <w>af</w>
   <w>rappi</w>
   <c>,</c>
-  <w>rapp-rokki</w>
+  <revision id="19d">
+    <original><w>rapp-rokki</w></original>
+    <corrected><w>rapprokki</w></corrected>
+      <errors>
+        <error xtype="extra-dash" eid="0"/>
+      </errors>
+  </revision>
   <w>og</w>
   <w>þungarokki</w>
   <c>.</c>
@@ -1175,7 +1193,14 @@
   <w>þó</w>
   <w>skýrari</w>
   <w>og</w>
-  <w>staðlaðari</w>
+  <revision id="34b">
+    <original><w>staðlaðari</w></original>
+    <corrected><w>staðlaðri</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="34b-1" eid="0"/>
+        <error xtype="nonword" idx="34b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>einkenni</w>
   <c>.</c>
 </s><s n="46">
@@ -1648,7 +1673,13 @@
   <w>í</w>
   <w>upphafi</w>
   <w>10.</w>
-  <w>áratugsins</w>
+  <revision id="50b">
+    <original><w>áratugsins</w></original>
+    <corrected><w>áratugarins</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0"/>
+      </errors>
+  </revision>
   <w>hefðu</w>
   <w>þeir</w>
   <w>verið</w>
@@ -1694,7 +1725,13 @@
   <w>í</w>
   <w>fönk-þungarokki</w>
   <w>9.</w>
-  <w>áratugsins</w>
+  <revision id="52b">
+    <original><w>áratugsins</w></original>
+    <corrected><w>áratugarins</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0"/>
+      </errors>
+  </revision>
   <c>,</c>
   <w>þar</w>
   <w>sem</w>

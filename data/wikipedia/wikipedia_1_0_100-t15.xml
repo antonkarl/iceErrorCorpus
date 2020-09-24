@@ -122,7 +122,13 @@
   <w>fengið</w>
   <w>frelsi</w>
   <w>innan</w>
-  <w>Breska</w>
+  <revision id="1b">
+    <original><w>Breska</w></original>
+    <corrected><w>breska</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
   <w>heimsveldisins</w>
   <c>.</c>
 </s>

@@ -1007,7 +1007,14 @@
   <c>)</c>
   <c>,</c>
   <w>sem</w>
-  <w>fyldgi</w>
+  <revision id="9b">
+    <original><w>fyldgi</w></original>
+    <corrected><w>fylgdi</w></corrected>
+      <errors>
+        <error xtype="swapped-letters" idx="9b-1" eid="0"/>
+        <error xtype="nonword" idx="9b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>móður</w>
   <w>sinni</w>
   <w>í</w>

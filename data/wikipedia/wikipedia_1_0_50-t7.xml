@@ -676,10 +676,6 @@
   <c>.</c>
 </s>
 <s n="22">
-  <c>&lt;</c>
-  <c>/</c>
-  <w>onlyinclude</w>
-  <c>&gt;</c>
   <w>Samkvæmt</w>
   <w>Hauksbók</w>
   <w>var</w>
@@ -1297,16 +1293,7 @@
   <w>þær</w>
   <w>elstu</w>
   <w>fyrir</w>
-  <revision id="58">
-    <original><w>u</w><c>.</c><w>þ.</w><w>b</w><c>.</c></original>
-    <corrected><w>u.þ.b.</w></corrected>
-      <errors>
-        <error xtype="extra-space" idx="58-1" eid="0" />
-        <error xtype="extra-space" idx="58-1" eid="0" />
-        <error xtype="extra-space" idx="58-1" eid="0" />
-        <error xtype="extra-space" idx="58-1" eid="0" />
-      </errors>
-  </revision>
+  <w>u.þ.b.</w>
   <w>12 þúsund</w>
   <w>árum</w>
   <c>.</c>
@@ -1663,6 +1650,14 @@
   <w>ekki</w>
   <w>fyrr</w>
   <w>en</w>
+  <revision id="65b">
+    <original></original>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="missing-word" idx="65b-1" eid="0" />
+        <error xtype="collocation" idx="65b-1" eid="0" />
+      </errors>
+  </revision>
   <w>gosinu</w>
   <w>loknu</w>
   <w>og</w>
@@ -2127,7 +2122,14 @@
   <c>,</c>
   <w>en</w>
   <w>í</w>
-  <w>júni</w>
+  <revision id="70b">
+    <original><w>júni</w></original>
+    <corrected><w>júní</w></corrected>
+      <errors>
+        <error xtype="missing-accent" idx="70b-1" eid="0" />
+        <error xtype="nonword" idx="70b-1" eid="0" />
+      </errors>
+  </revision>
   <w>árið 1999</w>
   <w>mældist</w>
   <w>hitinn</w>
@@ -3480,7 +3482,13 @@
   <w>var</w>
   <w>há</w>
   <w>meðal</w>
-  <w>ungabarna</w>
+  <revision id="114b">
+    <original><w>ungabarna</w></original>
+    <corrected><w>ungbarna</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>um</w>
   <w>60</w>

@@ -165,7 +165,13 @@
   <w>og</w>
   <w>jafnvel</w>
   <w>stundum</w>
-  <w>austurfyrir</w>
+  <revision id="1b">
+    <original><w>austurfyrir</w></original>
+    <corrected><w>austur</w><w>fyrir</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="11">
   <w>Ýsa</w>
@@ -512,7 +518,13 @@
   <w>ýsa</w>
   <w>étur</w>
   <w>frekar</w>
-  <w>ýmis</w>
+  <revision id="4b">
+    <original><w>ýmis</w></original>
+    <corrected><w>ýmiss</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0"/>
+      </errors>
+  </revision>
   <w>konar</w>
   <w>fiskmeti</w>
   <c>,</c>

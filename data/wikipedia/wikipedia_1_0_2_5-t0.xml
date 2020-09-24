@@ -691,7 +691,13 @@
   <w>partur</w>
   <w>af</w>
   <w>mótun</w>
-  <w>svuntupops</w>
+  <revision id="40b">
+    <original><w>svuntupops</w></original>
+    <corrected><w>svuntupopps</w></corrected>
+      <errors>
+        <error xtype="missing-letter" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="21">
   <w>Lögin</w>
@@ -1218,7 +1224,7 @@
   </revision>
   <w>í</w>
   <revision id="76">
-    <original><w>t</w><c>.</c><w>d.</w></original>
+    <original><w>t.d.</w></original>
     <corrected/>
       <errors>
         <error xtype="dep" depId="106-1" eid="0"/>

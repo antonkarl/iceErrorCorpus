@@ -426,7 +426,13 @@
 </s>
 <s n="12">
   <w>Þessir</w>
-  <w>fólksflutningur</w>
+  <revision id="19">
+    <original><w>fólksflutningur</w></original>
+    <corrected><w>fólksflutningar</w></corrected>
+      <errors>
+        <error xtype="singular4plural" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>átök</w>
   <w>hafa</w>

@@ -882,11 +882,22 @@
   </revision>
   <c>.</c>
 </s><s n="18">
-  <w>Stofnað</w>
-  <w>árið 1872</w>
-  <c>,</c>
+  <revision id="83b">
+    <original><w>Stofnað</w><w>árið 1872</w><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wording" idx="83b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>Rangers</w>
   <w>var</w>
+  <revision id="83c">
+    <original/>
+    <corrected><w>stofnað</w><w>árið</w><w>1872</w><w>og</w><w>var</w></corrected>
+      <errors>
+        <error xtype="dep" depId="83b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>einn</w>
   <w>af</w>
   <w>tíu</w>
@@ -904,7 +915,13 @@
   <w>efstu</w>
   <w>deild</w>
   <w>Skotlands</w>
-  <w>þar</w>
+  <revision id="84b">
+    <original><w>þar</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0"/>
+      </errors>
+  </revision>
   <w>í</w>
   <w>lok</w>
   <w>2011</w>

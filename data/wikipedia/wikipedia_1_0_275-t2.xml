@@ -419,7 +419,13 @@
   <w>af</w>
   <w>um</w>
   <w>helmingur</w>
-  <w>rómversk-kaþólskir</w>
+  <revision id="6b">
+    <original><w>rómversk-kaþólskir</w></original>
+    <corrected><w>rómversk-kaþólskur</w></corrected>
+      <errors>
+        <error xtype="agreement-pred" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="23">

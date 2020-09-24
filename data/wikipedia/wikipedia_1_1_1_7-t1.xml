@@ -130,11 +130,12 @@
   <w>þar</w>
   <w>væri</w>
   <w>töluð</w>
-  <w>lúxemborgíska</w>
   <revision id="6">
-    <original><c>,</c></original>
-    <corrected/>
+    <original><w>lúxemborgíska</w><c>,</c></original>
+    <corrected><w>lúxemborgska</w></corrected>
       <errors>
+        <error xtype="extra-letter" idx="6b-1" eid="0"/>
+        <error xtype="nonword" idx="6b-1" eid="0"/>
         <error xtype="extra-comma" eid="0"/>
       </errors>
   </revision>

@@ -233,14 +233,34 @@
   <w>útvarpi</w>
   <c>.</c>
 </s><s n="11">
-  <w>Mótmæli</w>
+  <revision id="8b">
+    <original><w>Mótmæli</w></original>
+    <corrected><w><hi>Mótmæli</hi></w></corrected>
+      <errors>
+        <error xtype="nonit4it" eid="0"/>
+      </errors>
+  </revision>
   <w>fjallar</w>
   <w>um</w>
   <w>tvo</w>
   <w>rithöfunda</w>
+  <revision id="8c">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-commas" idx="8c-1" eid="0"/>
+      </errors>
+  </revision>
   <w>Stanek</w>
   <w>og</w>
   <w>Vanek</w>
+  <revision id="8d">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="dep" depId="8c-1" eid="0"/>
+      </errors>
+  </revision>
   <w>og</w>
   <w>er</w>
   <w>sá</w>

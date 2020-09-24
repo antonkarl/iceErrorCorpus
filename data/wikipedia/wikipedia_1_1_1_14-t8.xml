@@ -465,7 +465,14 @@
   <w>steina</w>
   <c>.</c>
 </s><s n="15">
-  <w>Kynkyrtlar</w>
+  <revision id="21b">
+    <original><w>Kynkyrtlar</w></original>
+    <corrected><w>Kynkirtlar</w></corrected>
+      <errors>
+        <error xtype="y4i" idx="21b-1" eid="0"/>
+        <error xtype="nonword" idx="21b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>eru</w>
   <w>í</w>
   <w>raun</w>
@@ -508,8 +515,13 @@
   <w>Ekki</w>
   <w>eru</w>
   <w>allir</w>
-  <w>á</w>
-  <w>eitt</w>
+  <revision id="21c">
+    <original><w>á</w><w>eitt</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-words" eid="0"/>
+      </errors>
+  </revision>
   <w>sammála</w>
   <w>um</w>
   <w>það</w>
@@ -539,7 +551,14 @@
       </errors>
   </revision>
   <w>eru</w>
-  <w>sumstaðar</w>
+  <revision id="22b">
+    <original><w>sumstaðar</w></original>
+    <corrected><w>sums</w><w>staðar</w></corrected>
+      <errors>
+        <error xtype="merged-words" idx="22b-1" eid="0"/>
+        <error xtype="missing-letter" idx="22b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>í</w>
   <w>meira</w>
   <w>magni</w>
@@ -793,7 +812,13 @@
   <w>rifflum</w>
   <w>eða</w>
   <w>þaktar</w>
-  <w>einskonar</w>
+  <revision id="29b">
+    <original><w>einskonar</w></original>
+    <corrected><w>eins</w><w>konar</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0"/>
+      </errors>
+  </revision>
   <w>plötum</w>
   <c>.</c>
 </s><s n="27">
@@ -1255,7 +1280,13 @@
   <w>Steingervingar</w>
   <w>þeirra</w>
   <w>eru</w>
-  <w>hinsvegar</w>
+  <revision id="47b">
+    <original><w>hinsvegar</w></original>
+    <corrected><w>hins</w><w>vegar</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0"/>
+      </errors>
+  </revision>
   <w>athyglisverðir</w>
   <w>og</w>
   <w>vinsælir</w>
@@ -1362,7 +1393,14 @@
   <w>sem</w>
   <w>ekki</w>
   <w>hafa</w>
-  <w>liðmót</w>
+  <revision id="47c">
+    <original><w>liðmót</w></original>
+    <corrected><w>liðamót</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="47c-1" eid="0"/>
+        <error xtype="compound-nonword" idx="47c-1" eid="0"/>
+      </errors>
+  </revision>
   <w>gera</w>
   <w>það</w>
   <w>með</w>
@@ -1543,7 +1581,14 @@
   <w>festa</w>
   <w>sig</w>
   <w>við</w>
-  <w>undarlag</w>
+  <revision id="51b">
+    <original><w>undarlag</w></original>
+    <corrected><w>undirlag</w></corrected>
+      <errors>
+        <error xtype="letter-rep" idx="51b-1" eid="0"/>
+        <error xtype="nonword" idx="51b-1" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="51">
   <w>Þau</w>
