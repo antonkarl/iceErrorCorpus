@@ -1948,10 +1948,6 @@
   <w>526</w>
   <c>)</c>
   <c>.</c>
-</s><s n="81">
-  <w>013</w>
-  <c>)</c>
-  <c>.</c>
 </s><s n="82">
   <w>Raddirnar</w>
   <w>eru</w>
@@ -2393,10 +2389,6 @@
   <w>Rossini</w>
   <w>og</w>
   <w>Orff</w>
-  <c>.</c>
-</s><s n="103">
-  <w>010</w>
-  <c>)</c>
   <c>.</c>
 </s><s n="104">
   <w>Arnaldur</w>
@@ -3757,9 +3749,6 @@
   <w>með</w>
   <w>völdum</w>
   <w>köflum</w>
-  <c>(</c>
-  <w>sjá</w>
-  <w>POL</w>
   <c>.</c>
 </s><s n="168">
   <w>Pólýfónkórinn</w>
@@ -4073,12 +4062,6 @@
   <w>um</w>
   <w>bil</w>
   <c>.</c>
-</s><s n="185">
-  <w>015</w>
-  <c>/</c>
-  <w>16</w>
-  <c>)</c>
-  <c>.</c>
 </s><s n="186">
   <w>Þetta</w>
   <w>var</w>
@@ -4161,7 +4144,14 @@
   <w>tengslum</w>
   <w>við</w>
   <w>starfsemi</w>
-  <w>kórins</w>
+  <revision id="54b">
+    <original><w>kórins</w></original>
+    <corrected><w>kórsins</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="54b-1" eid="0"/>
+        <error xtype="nonword" idx="54b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>var</w>
   <w>Kórskóli</w>
   <w>Pólýfónkórsins</w>
@@ -4355,7 +4345,13 @@
   <w>kórsins</w>
   <w>voru</w>
   <w>oft</w>
-  <w>á</w>
+  <revision id="54c">
+    <original><w>á</w></original>
+    <corrected><w>og</w></corrected>
+      <errors>
+        <error xtype="collocation" eid="0"/>
+      </errors>
+  </revision>
   <w>tíðum</w>
   <w>mjög</w>
   <w>mannmargar</w>
@@ -4958,7 +4954,14 @@
   <w>metnaðarfullur</w>
   <w>leiðtogi</w>
   <w>og</w>
-  <w>drifkrafur</w>
+  <revision id="64b">
+    <original><w>drifkrafur</w></original>
+    <corrected><w>drifkraftur</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="64b-1" eid="0"/>
+        <error xtype="nonword" idx="64b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>kórsins</w>
   <w>alla</w>
   <w>tíð</w>
@@ -5074,9 +5077,6 @@
   <w>af</w>
   <w>Pólýfónfélaginu</w>
   <w>árið 2007</w>
-  <c>(</c>
-  <w>sjá</w>
-  <w>POL</w>
   <c>.</c>
 </s><s n="229">
   <w>Rut</w>
@@ -5647,7 +5647,14 @@
   <w>að</w>
   <w>þessi</w>
   <w>plata</w>
-  <w>skula</w>
+  <revision id="80b">
+    <original><w>skula</w></original>
+    <corrected><w>skuli</w></corrected>
+      <errors>
+        <error xtype="letter-rep" idx="80b-1" eid="0"/>
+        <error xtype="nonword" idx="80b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>koma</w>
   <w>út</w>
   <w>á</w>
@@ -6241,7 +6248,14 @@
   <w>þess</w>
   <w>kost</w>
   <w>að</w>
-  <w>sækju</w>
+  <revision id="96b">
+    <original><w>sækju</w></original>
+    <corrected><w>sækja</w></corrected>
+      <errors>
+        <error xtype="letter-rep" idx="96b-1" eid="0"/>
+        <error xtype="nonword" idx="96b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>um</w>
   <w>inngöngu</w>
   <w>í</w>
@@ -6472,9 +6486,6 @@
   <w>af</w>
   <w>Pólýfónfélaginu</w>
   <w>árið 2008</w>
-  <c>(</c>
-  <w>sjá</w>
-  <w>POL</w>
   <c>.</c>
 </s><s n="274">
   <w>Í</w>
@@ -6740,12 +6751,6 @@
   <w>og</w>
   <w>strangan</w>
   <w>undirbúning</w>
-  <c>.</c>
-</s><s n="285">
-  <w>011</w>
-  <c>/</c>
-  <w>12</w>
-  <c>)</c>
   <c>.</c>
 </s><s n="286">
   <w>Kórinn</w>

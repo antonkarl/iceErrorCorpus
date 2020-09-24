@@ -166,13 +166,19 @@
   <w>gerist</w>
   <w>einkum</w>
   <w>á</w>
-  <w>tvennskonar</w>
+  <revision id="5b">
+    <original><w>tvennskonar</w></original>
+    <corrected><w>tvenns</w><w>konar</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>hátt</w>
-  <c>:</c>
-  <w>1</w>
   <c>.</c>
 </s>
 <s n="7">
+  <w>1</w>
+  <c>.</c>
   <w>Loftið</w>
   <w>kólnar</w>
   <w>og</w>

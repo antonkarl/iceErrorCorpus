@@ -286,7 +286,14 @@
   <w>tölvur</w>
   <w>tilkynntu</w>
   <w>um</w>
-  <w>feiknarmikla</w>
+  <revision id="6b">
+    <original><w>feiknarmikla</w></original>
+    <corrected><w>feiknamikla</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="6b-1" eid="0"/>
+        <error xtype="nonword" idx="6b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>kjarnorkuárás</w>
   <w>frá</w>
   <w>Sovétríkjunum</w>

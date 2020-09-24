@@ -83,8 +83,13 @@
   <w>lifandi</w>
   <w>í</w>
   <w>gegnum</w>
-  <w>mest</w>
-  <w>allt</w>
+  <revision id="0">
+    <original><w>mest</w><w>allt</w></original>
+    <corrected><w>mestallt</w></corrected>
+      <errors>
+        <error xtype="split-word" eid="0"/>
+      </errors>
+  </revision>
   <w>lagið</w>
   <c>.</c>
 </s><s n="3">
@@ -1113,7 +1118,14 @@
   <c>.</c>
 </s><s n="37">
   <w>Ef</w>
-  <w>að</w>
+  <revision id="24b">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="24b-1" eid="0"/>
+        <error xtype="style" idx="24b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>hljóðmaðurinn</w>
   <w>var</w>
   <w>flinkur</w>

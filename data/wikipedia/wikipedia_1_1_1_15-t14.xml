@@ -118,11 +118,25 @@
   <w>og</w>
   <w>afi</w>
   <w>Wuornos</w>
-  <w>ætttleiddu</w>
+  <revision id="0">
+    <original><w>ætttleiddu</w></original>
+    <corrected><w>ættleiddu</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="0-1" eid="0"/>
+        <error xtype="nonword" idx="0-1" eid="0"/>
+      </errors>
+  </revision>
   <w>þau</w>
   <c>.</c>
 </s><s n="6">
-  <w>Enginn</w>
+  <revision id="0b">
+    <original><w>Enginn</w></original>
+    <corrected><w>Engin</w></corrected>
+      <errors>
+        <error xtype="nn4n" idx="0b-1" eid="0"/>
+        <error xtype="agreement-concord" idx="0b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>vitni</w>
   <w>voru</w>
   <w>að</w>
@@ -348,7 +362,14 @@
   <w>árslöngu</w>
   <w>morðæði</w>
   <w>sem</w>
-  <w>geysaði</w>
+  <revision id="3b">
+    <original><w>geysaði</w></original>
+    <corrected><w>geisaði</w></corrected>
+      <errors>
+        <error xtype="y4i" idx="3b-1" eid="0"/>
+        <error xtype="nonword" idx="3b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>fram</w>
   <w>að</w>
   <w>handtöku</w>

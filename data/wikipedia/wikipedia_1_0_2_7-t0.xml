@@ -346,7 +346,13 @@
   <w>seinni</w>
   <w>hluta</w>
   <w>áttunda</w>
-  <w>áratugsins</w>
+  <revision id="6b">
+    <original><w>áratugsins</w></original>
+    <corrected><w>áratugarins</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0"/>
+      </errors>
+  </revision>
   <w>hvarf</w>
   <w>krátrokk</w>
   <w>úr</w>
@@ -399,6 +405,30 @@
   <w>við</w>
   <w>Neu</w>
   <c>!</c>
+  <c>,</c>
+  <w>Can</w>
+  <c>,</c>
+  <w>Harmonia</w>
+  <c>,</c>
+  <w>Faust</w>
+  <w>og</w>
+  <w>Kraftwerk</w>
+  <w>sem</w>
+  <w>áhrifavalda</w>
+  <w>en</w>
+  <w>þau</w>
+  <w>spila</w>
+  <w>tónlist</w>
+  <w>sem</w>
+  <w>er</w>
+  <w>blanda</w>
+  <w>af</w>
+  <w>krátrokki</w>
+  <c>,</c>
+  <w>sýrurokki</w>
+  <w>og</w>
+  <w>síðpönki</w>
+  <c>.</c>
 </s><s n="18">
   <w>Árið 1971</w>
   <w>voru</w>
@@ -564,32 +594,6 @@
   <w>Schnitzler</w>
   <w>í</w>
   <w>hljómsveitinni</w>
-  <c>.</c>
-</s><s n="26">
-  <c>,</c>
-  <w>sem</w>
-  <w>einnig</w>
-  <w>hafði</w>
-  <w>unnið</w>
-  <w>með</w>
-  <w>Brian</w>
-  <w>Eno</w>
-  <c>,</c>
-  <w>og</w>
-  <w>ætlaði</w>
-  <w>hann</w>
-  <w>að</w>
-  <w>fá</w>
-  <w>meðlimi</w>
-  <w>hennar</w>
-  <w>til</w>
-  <w>að</w>
-  <w>spila</w>
-  <w>með</w>
-  <w>sér</w>
-  <w>á</w>
-  <w>plötunni</w>
-  <w><hi>Heroes</hi></w>
   <c>.</c>
 </s><s n="27">
   <w>Krátrokk</w>
@@ -794,8 +798,13 @@
   <w>lagið</w>
   <w>Hero</w>
   <w>væri</w>
-  <w>uppáhalds</w>
-  <w>lagið</w>
+  <revision id="15b">
+    <original><w>uppáhalds</w><w>lagið</w></original>
+    <corrected><w>uppáhaldslagið</w></corrected>
+      <errors>
+        <error xtype="split-compound" eid="0"/>
+      </errors>
+  </revision>
   <w>sitt</w>
   <w>með</w>
   <w>Neu</w>
@@ -953,17 +962,6 @@
   <w>þessari</w>
   <w>stefnu</w>
   <c>.</c>
-</s><s n="43">
-  <c>,</c>
-  <w>sem</w>
-  <w>á</w>
-  <w>íslensku</w>
-  <w>þýðir</w>
-  <w>hreinlega</w>
-  <c>„</c>
-  <w>Nýtt</w>
-  <c>!</c>
-  <c>“</c>
 </s><s n="44">
   <w>Á</w>
   <w>þessum</w>
@@ -1025,6 +1023,16 @@
   <c>,</c>
   <w>Neu</w>
   <c>!</c>
+  <c>,</c>
+  <w>sem</w>
+  <w>á</w>
+  <w>íslensku</w>
+  <w>þýðir</w>
+  <w>hreinlega</w>
+  <c>„</c>
+  <w>Nýtt</w>
+  <c>!</c>
+  <c>“</c>
 </s><s n="48">
   <w>Árið 1968</w>
   <w>mynduðu</w>
@@ -1080,6 +1088,31 @@
   <w>krátrokkhljómsveitinni</w>
   <w>Neu</w>
   <c>!</c>
+  <c>,</c>
+  <w>sem</w>
+  <w>einnig</w>
+  <w>hafði</w>
+  <w>unnið</w>
+  <w>með</w>
+  <w>Brian</w>
+  <w>Eno</w>
+  <c>,</c>
+  <w>og</w>
+  <w>ætlaði</w>
+  <w>hann</w>
+  <w>að</w>
+  <w>fá</w>
+  <w>meðlimi</w>
+  <w>hennar</w>
+  <w>til</w>
+  <w>að</w>
+  <w>spila</w>
+  <w>með</w>
+  <w>sér</w>
+  <w>á</w>
+  <w>plötunni</w>
+  <w><hi>Heroes</hi></w>
+  <c>.</c>
 </s><s n="51">
   <w>Can</w>
   <w>spilaði</w>
@@ -1456,31 +1489,6 @@
         <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
-  <c>.</c>
-</s><s n="65">
-  <c>,</c>
-  <w>Can</w>
-  <c>,</c>
-  <w>Harmonia</w>
-  <c>,</c>
-  <w>Faust</w>
-  <w>og</w>
-  <w>Kraftwerk</w>
-  <w>sem</w>
-  <w>áhrifavalda</w>
-  <w>en</w>
-  <w>þau</w>
-  <w>spila</w>
-  <w>tónlist</w>
-  <w>sem</w>
-  <w>er</w>
-  <w>blanda</w>
-  <w>af</w>
-  <w>krátrokki</w>
-  <c>,</c>
-  <w>sýrurokki</w>
-  <w>og</w>
-  <w>síðpönki</w>
   <c>.</c>
 </s><s n="66">
   <w>Zodiak</w>
