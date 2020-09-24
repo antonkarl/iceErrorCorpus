@@ -525,7 +525,13 @@
 </s><s n="14">
   <w>Wagner</w>
   <w>var</w>
-  <w>uppgvötaður</w>
+  <revision id="34b">
+    <original><w>uppgvötaður</w></original>
+    <corrected><w>uppgötvaður</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0"/>
+      </errors>
+  </revision>
   <w>á</w>
   <w>veitingastað</w>
   <w>með</w>

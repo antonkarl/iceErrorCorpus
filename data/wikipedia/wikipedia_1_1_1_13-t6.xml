@@ -733,7 +733,14 @@
   <w>ára</w>
   <w>jarðlögum</w>
   <w>frá</w>
-  <w>kambríumtímbilinu</w>
+  <revision id="20b">
+    <original><w>kambríumtímbilinu</w></original>
+    <corrected><w>kambríumtímabilinu</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="20b-1" eid="0"/>
+        <error xtype="nonword" idx="20b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>sem</w>
   <w>gerir</w>
   <w>þau</w>

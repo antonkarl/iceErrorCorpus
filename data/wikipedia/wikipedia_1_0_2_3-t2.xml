@@ -350,7 +350,13 @@
   <w>fari</w>
   <w>yfir</w>
   <w>landgrunn</w>
-  <w>íslands</w>
+  <revision id="22b">
+    <original><w>íslands</w></original>
+    <corrected><w>Íslands</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
   <w>vestan</w>
   <w>og</w>
   <w>norðan</w>

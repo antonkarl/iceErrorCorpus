@@ -321,7 +321,14 @@
   <w>breiðperulaga</w>
   <c>,</c>
   <w>útrönd</w>
-  <w>hanns</w>
+  <revision id="4b">
+    <original><w>hanns</w></original>
+    <corrected><w>hans</w></corrected>
+      <errors>
+        <error xtype="nn4n" idx="4b-1" eid="0" />
+        <error xtype="nonword" idx="4b-2" eid="0" />
+      </errors>
+  </revision>
   <w>fláalaus</w>
   <w>og</w>
   <w>jafnt</w>
@@ -414,6 +421,13 @@
   <w>við</w>
   <w>Ísland</w>
   <w>eitt</w>
+  <revision id="4b">
+    <original></original>
+    <corrected><w>eru</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
   <w>talin</w>
   <w>vera</w>
   <w>þrjú</w>
@@ -478,7 +492,13 @@
 </s>
 <s n="24">
   <w>Klettadoppa</w>
-  <w>eru</w>
+  <revision id="7">
+    <original><w>eru</w></original>
+    <corrected><w>er</w></corrected>
+      <errors>
+        <error xtype="agreement-pred" eid="0" />
+      </errors>
+  </revision>
   <w>mikilvæg</w>
   <w>fæða</w>
   <w>margra</w>

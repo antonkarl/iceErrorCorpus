@@ -140,7 +140,14 @@
   <w>eftirfarandi</w>
   <w>lönd</w>
   <w>staðfest</w>
-  <w>þáttöku</w>
+  <revision id="1b">
+    <original><w>þáttöku</w></original>
+    <corrected><w>þátttöku</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="1b-1" eid="0"/>
+        <error xtype="nonword" idx="1b-1" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="6">
   <w>Íhugað</w>

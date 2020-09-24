@@ -144,7 +144,13 @@
   <w>fylkið</w>
   <w>landamæri</w>
   <w>að</w>
-  <c>:</c>
+  <revision id="9b">
+    <original><c>:</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-colon" eid="0" />
+      </errors>
+  </revision>
   <w>Nýju-Brúnsvík</w>
   <w>og</w>
   <w>bandarísku</w>

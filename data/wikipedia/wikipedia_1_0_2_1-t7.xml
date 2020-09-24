@@ -37,8 +37,15 @@
   <w>og</w>
   <w>spilar</w>
   <w>á</w>
-  <w>allskonar</w>
-  <w>hjóðfæri</w>
+  <revision id="0">
+    <original><w>allskonar</w><w>hjóðfæri</w></original>
+    <corrected><w>alls</w><w>konar</w><w>hljóðfæri</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+        <error xtype="missing-letter" idx="0-1" eid="0" />
+        <error xtype="nonword" idx="0-1" eid="0" />
+      </errors>
+  </revision>
   <w>þó</w>
   <w>aðallega</w>
   <w>gítar</w>
@@ -175,8 +182,13 @@
   <w>Hljómsveitin</w>
   <w>varð</w>
   <w>strax</w>
-  <w>óhemju</w>
-  <w>vinsæl</w>
+  <revision id="5b">
+    <original><w>óhemju</w><w>vinsæl</w></original>
+    <corrected><w>óhemjuvinsæl</w></corrected>
+      <errors>
+        <error xtype="split-compound" eid="0" />
+      </errors>
+  </revision>
   <w>á</w>
   <w>skemmtistöðum</w>
   <w>enda</w>
@@ -647,6 +659,13 @@
   <w>Björgvins</w>
   <c>,</c>
   <w><hi>Glettur</hi></w>
+  <revision id="25b">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
   <w>kom</w>
   <w>út</w>
   <w>hjá</w>

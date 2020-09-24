@@ -174,13 +174,7 @@
   <w>á</w>
   <w>fyrstu</w>
   <w>öld</w>
-  <revision id="9">
-    <original><w>e.</w><w>k</w><c>.</c></original>
-    <corrected><w>e.Kr.</w></corrected>
-      <errors>
-        <error xtype="extra-space" eid="0"/>
-      </errors>
-  </revision>
+  <w>e.Kr.</w>
   <w>var</w>
   <w>haldið</w>
   <w>upp</w>
@@ -586,7 +580,13 @@
   <w>var</w>
   <w>einnig</w>
   <w>ekki</w>
-  <w>feld</w>
+  <revision id="22b">
+    <original><w>feld</w></original>
+    <corrected><w>felld</w></corrected>
+      <errors>
+        <error xtype="missing-letter" eid="0"/>
+      </errors>
+  </revision>
   <w>niður</w>
   <w>úr</w>
   <w>tölu</w>
@@ -609,7 +609,13 @@
   <w>deginum</w>
   <w>hafi</w>
   <w>ríkt</w>
-  <w>þónokkur</w>
+  <revision id="22c">
+    <original><w>þónokkur</w></original>
+    <corrected><w>þó</w><w>nokkur</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0"/>
+      </errors>
+  </revision>
   <w>helgi</w>
   <w>langt</w>
   <w>umfram</w>

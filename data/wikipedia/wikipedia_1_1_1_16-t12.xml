@@ -407,12 +407,13 @@
   <w>og</w>
   <w>kvendýrið</w>
   <w>er</w>
-  <w>frjógvað</w>
   <revision id="11">
-    <original><w>gefur</w></original>
-    <corrected><w>seytir</w></corrected>
+    <original><w>frjógvað</w><w>gefur</w></original>
+    <corrected><w>frjóvgað</w><w>seytir</w></corrected>
       <errors>
-        <error xtype="wording" idx="13-1" eid="0"/>
+        <error xtype="swapped-letters" idx="11-1" eid="0"/>
+        <error xtype="nonword" idx="11-1" eid="0"/>
+        <error xtype="wording" idx="11-2" eid="0"/>
       </errors>
   </revision>
   <w>það</w>
@@ -420,7 +421,7 @@
     <original><w>frá</w><w>sér</w><w>þúsundir</w></original>
     <corrected><w>þúsundum</w></corrected>
       <errors>
-        <error xtype="dep" depId="13-1" eid="0"/>
+        <error xtype="dep" depId="11-1" eid="0"/>
       </errors>
   </revision>
   <w>eggja</w>
@@ -602,7 +603,13 @@
   <w>með</w>
   <w>því</w>
   <w>að</w>
-  <w>þykja</w>
+  <revision id="15b">
+    <original><w>þykja</w></original>
+    <corrected><w>þekja</w></corrected>
+      <errors>
+        <error xtype="letter-rep" eid="0"/>
+      </errors>
+  </revision>
   <w>örlítinn</w>
   <w>sníkil</w>
   <w>með</w>
@@ -627,7 +634,14 @@
   <w>Þó</w>
   <w>að</w>
   <w>sumar</w>
-  <w>ostrategundir</w>
+  <revision id="15c">
+    <original><w>ostrategundir</w></original>
+    <corrected><w>ostrutegundir</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="15c-1" eid="0"/>
+        <error xtype="compound-nonword" idx="15c-1" eid="0"/>
+      </errors>
+  </revision>
   <w>séu</w>
   <revision id="16">
     <original><w>til</w><w>í</w><w>tveimur</w><w>kynjum</w></original>

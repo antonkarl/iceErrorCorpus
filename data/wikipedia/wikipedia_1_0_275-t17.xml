@@ -39,7 +39,13 @@
   <w>ekki</w>
   <w>telst</w>
   <w>heimsálfa</w>
-  <w>útaf</w>
+  <revision id="0">
+    <original><w>útaf</w></original>
+    <corrected><w>út</w><w>af</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>fyrir</w>
   <w>sig</w>
   <c>.</c>
@@ -55,7 +61,13 @@
   <c>,</c>
   <w>austan</w>
   <w>við</w>
-  <w>Kanadíska</w>
+  <revision id="0b">
+    <original><w>Kanadíska</w></original>
+    <corrected><w>kanadíska</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
   <w>eyjaklasann</w>
   <c>.</c>
 </s>
@@ -452,7 +464,13 @@
   <c>,</c>
   <w>Hvarfi</w>
   <c>,</c>
-  <w>eru</w>
+  <revision id="7b">
+    <original><w>eru</w></original>
+    <corrected><w>er</w></corrected>
+      <errors>
+        <error xtype="agreement-pred" eid="0" />
+      </errors>
+  </revision>
   <w>2.650 km</w>
   <c>.</c>
 </s>
@@ -629,7 +647,15 @@
   <w>og</w>
   <w>er</w>
   <w>þar</w>
-  <w>stæsti</w>
+  <revision id="10b">
+    <original><w>stæsti</w></original>
+    <corrected><w>stærsti</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="10b-1" eid="0" />
+        <error xtype="pronun-writing" idx="10b-1" eid="0" />
+        <error xtype="nonword" idx="10b-1" eid="0" />
+      </errors>
+  </revision>
   <w>þjóðgarður</w>
   <w>í</w>
   <w>heimi</w>
@@ -1249,8 +1275,13 @@
   <c>.</c>
 </s>
 <s n="56">
-  <w>Flest</w>
-  <w>allir</w>
+  <revision id="27b">
+    <original><w>Flest</w><w>allir</w></original>
+    <corrected><w>Flestallir</w></corrected>
+      <errors>
+        <error xtype="split-word" eid="0" />
+      </errors>
+  </revision>
   <w>fundir</w>
   <w>tengdir</w>
   <w>þessu</w>
@@ -1554,7 +1585,14 @@
   <w>98%</w>
   <w>íbúanna</w>
   <w>eru</w>
-  <w>Lútherstrúar</w>
+  <revision id="31b">
+    <original><w>Lútherstrúar</w></original>
+    <corrected><w>Lúterstrúar</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="31b-1" eid="0" />
+        <error xtype="nonword" idx="31b-1" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>tilheyra</w>
   <w>dönsku</w>

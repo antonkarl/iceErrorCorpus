@@ -129,7 +129,13 @@
   <w>hafa</w>
   <w>verið</w>
   <w>ákveðin</w>
-  <w>fyrirfram</w>
+  <revision id="2b">
+    <original><w>fyrirfram</w></original>
+    <corrected><w>fyrir</w><w>fram</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="6">
   <w>Í</w>

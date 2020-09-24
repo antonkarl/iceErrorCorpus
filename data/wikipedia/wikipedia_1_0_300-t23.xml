@@ -21,7 +21,13 @@
   <w>gríðarstórt</w>
   <w>misgengi</w>
   <w>á</w>
-  <w>plötuskilum</w>
+  <revision id="1">
+    <original><w>plötuskilum</w></original>
+    <corrected><w>flekaskilum</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0"/>
+      </errors>
+  </revision>
   <w>Afríkuflekans</w>
   <c>,</c>
   <w>Arabíuflekans</w>

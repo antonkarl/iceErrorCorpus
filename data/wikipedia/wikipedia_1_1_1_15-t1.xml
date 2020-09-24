@@ -605,7 +605,14 @@
   <w>áhorfs</w>
   <c>.</c>
 </s><s n="25">
-  <w>Þættirnar</w>
+  <revision id="20b">
+    <original><w>Þættirnar</w></original>
+    <corrected><w>Þættirnir</w></corrected>
+      <errors>
+        <error xtype="letter-rep" idx="20b-1" eid="0"/>
+        <error xtype="nonword" idx="20b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>fjalla</w>
   <w>um</w>
   <w>Malcolm</w>
@@ -683,7 +690,14 @@
   <c>.</c>
 </s><s n="29">
   <w>Vegna</w>
-  <w>offjölgunnar</w>
+  <revision id="21b">
+    <original><w>offjölgunnar</w></original>
+    <corrected><w>offjölgunar</w></corrected>
+      <errors>
+        <error xtype="n4nn" idx="21b-1" eid="0"/>
+        <error xtype="nonword" idx="21b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>varð</w>
   <w>mannfólkið</w>
   <w>að</w>
@@ -850,7 +864,14 @@
   <w>systkinunum</w>
   <w>að</w>
   <w>vera</w>
-  <w>umborð</w>
+  <revision id="23b">
+    <original><w>umborð</w></original>
+    <corrected><w>um</w><w>borð</w></corrected>
+      <errors>
+        <error xtype="merged-words" idx="23b-1" eid="0"/>
+        <error xtype="nonword" idx="23b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>og</w>
   <w>gefur</w>
   <w>Simon</w>

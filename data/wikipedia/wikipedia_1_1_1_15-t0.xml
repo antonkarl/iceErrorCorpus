@@ -28,7 +28,23 @@
   <w>sem</w>
   <w>var</w>
   <w>ekkja</w>
+  <revision id="0">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0"/>
+      </errors>
+  </revision>
   <w>árið 2005</w>
+  <revision id="0b">
+    <original></original>
+    <corrected><c>.</c></corrected>
+      <errors>
+        <error xtype="missing-period" eid="0"/>
+      </errors>
+  </revision>
+</s>
+<s n="1b">
   <w>Helsta</w>
   <w>framlag</w>
   <w>Aumann</w>

@@ -18,8 +18,13 @@
   <w>Við</w>
   <w>Dijle</w>
   <w>er</w>
-  <w>ágætis</w>
-  <w>höfn</w>
+  <revision id="0">
+    <original><w>ágætis</w><w>höfn</w></original>
+    <corrected><w>ágætishöfn</w></corrected>
+      <errors>
+        <error xtype="split-compound" eid="0"/>
+      </errors>
+  </revision>
   <c>,</c>
   <w>þaðan</w>
   <w>sem</w>
@@ -1398,7 +1403,14 @@
   <w>sem</w>
   <w>vísar</w>
   <w>til</w>
-  <w>dómsstaðar</w>
+  <revision id="55b">
+    <original><w>dómsstaðar</w></original>
+    <corrected><w>dómstaðar</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="55b-1" eid="0"/>
+        <error xtype="compound-nonword" idx="55b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>eða</w>
   <w>dómshúss</w>
   <c>.</c>

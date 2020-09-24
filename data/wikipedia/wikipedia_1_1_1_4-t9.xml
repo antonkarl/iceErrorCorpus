@@ -437,14 +437,13 @@
 </s><s n="16">
   <w>Einn</w>
   <revision id="19">
-    <original><w>af</w><w>tilgöngum</w></original>
-    <corrected><w>tilgangur</w></corrected>
+    <original><w>af</w><w>tilgöngum</w><w>samba</w><w>tónlistar</w></original>
+    <corrected><w>tilgangur</w><w>sambatónlistar</w></corrected>
       <errors>
         <error xtype="wording" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
-  <w>samba</w>
-  <w>tónlistar</w>
   <w>er</w>
   <w>að</w>
   <w>búa</w>
@@ -1127,7 +1126,14 @@
   <w>á</w>
   <w>bjartari</w>
   <w>strengjum</w>
-  <w>gítarins</w>
+  <revision id="50b">
+    <original><w>gítarins</w></original>
+    <corrected><w>gítarsins</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="50b-1" eid="0"/>
+        <error xtype="nonword" idx="50b-1" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="43">
   <w>Píanó</w>
@@ -1574,7 +1580,14 @@
   <w>á</w>
   <w>dýpri</w>
   <w>strengi</w>
-  <w>gítarins</w>
+  <revision id="71b">
+    <original><w>gítarins</w></original>
+    <corrected><w>gítarsins</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="71b-1" eid="0"/>
+        <error xtype="nonword" idx="71b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>með</w>
   <w>þumalfingri</w>
   <w>og</w>

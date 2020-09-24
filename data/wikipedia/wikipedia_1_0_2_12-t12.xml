@@ -14,14 +14,7 @@
   </fileDesc>
 </teiHeader>
 <text><body><p n="1">
-<s n="1">
-  <w><hi>Til</hi></w>
-  <w><hi>að</hi></w>
-  <w><hi>drepa</hi></w>
-  <w><hi>tímann</hi></w>
-  <c>)</c>
-  <c>.</c>
-</s><s n="2">
+<s n="2">
   <w>Einnig</w>
   <w>voru</w>
   <w>til</w>
@@ -253,7 +246,14 @@
   <w>og</w>
   <w>því</w>
   <w>felst</w>
-  <w>þrautinn</w>
+  <revision id="5b">
+    <original><w>þrautinn</w></original>
+    <corrected><w>þrautin</w></corrected>
+      <errors>
+        <error xtype="nn4n" idx="5b-1" eid="0"/>
+        <error xtype="nonword" idx="5b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>í</w>
   <w>því</w>
   <w>að</w>
@@ -540,11 +540,25 @@
   <w>Wynne</w>
   <w>og</w>
   <w>var</w>
+  <revision id="14b">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-commas" idx="14b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>hún</w>
   <w>eins</w>
   <w>og</w>
   <w>krossgáta</w>
   <w>Airoldi</w>
+  <revision id="14c">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="dep" depId="14b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>ólík</w>
   <w>krossgátum</w>
   <w>eins</w>
@@ -562,7 +576,13 @@
   </revision>
   <w>að</w>
   <w>því</w>
-  <w>leiti</w>
+  <revision id="15">
+    <original><w>leiti</w></original>
+    <corrected><w>leyti</w></corrected>
+      <errors>
+        <error xtype="i4y" eid="0"/>
+      </errors>
+  </revision>
   <w>að</w>
   <w>hún</w>
   <w>var</w>
@@ -729,7 +749,12 @@
   <w><hi>il</hi></w>
   <w><hi>tempo</hi></w>
   <c>(</c>
-  <w>ísl</w>
+  <w>ísl.</w>
+  <w><hi>Til</hi></w>
+  <w><hi>að</hi></w>
+  <w><hi>drepa</hi></w>
+  <w><hi>tímann</hi></w>
+  <c>)</c>
   <c>.</c>
 </s><s n="27">
   <w>Gáta</w>

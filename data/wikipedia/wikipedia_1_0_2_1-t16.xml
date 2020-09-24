@@ -713,7 +713,13 @@
   <w>Marie</w>
   <c>,</c>
   <w>aðeins</w>
-  <w>31s</w>
+  <revision id="16b">
+    <original><w>31s</w></original>
+    <corrected><w>31</w></corrected>
+      <errors>
+        <error xtype="number-fail" eid="0" />
+      </errors>
+  </revision>
   <w>árs</w>
   <w>gamall</w>
   <c>.</c>

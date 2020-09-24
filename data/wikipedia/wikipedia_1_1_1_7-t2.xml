@@ -1317,8 +1317,29 @@
   <w>íslenskum</w>
   <w>danshljómsveitum</w>
   <c>,</c>
-  <w>m.</w>
-  <w>a</w>
+  <w>m.a.</w>
+  <w>í</w>
+  <w>Þórskaffi</w>
+  <c>,</c>
+  <w>Gúttó</w>
+  <c>,</c>
+  <w>og</w>
+  <w>Breiðfirðingabúð</w>
+  <c>,</c>
+  <w>lék</w>
+  <w>og</w>
+  <w>söng</w>
+  <w>í</w>
+  <w>kabarettsýningum</w>
+  <w>í</w>
+  <w>Sjálfstæðishúsinu</w>
+  <w>og</w>
+  <w>á</w>
+  <w>vegum</w>
+  <w>Íslenzkra</w>
+  <w>tóna</w>
+  <w>í</w>
+  <w>Austurbæjarbíói</w>
   <c>.</c>
 </s><s n="42">
   <revision id="43">
@@ -2420,30 +2441,6 @@
   <w>í</w>
   <w>Þjóðleikhúsinu</w>
   <c>.</c>
-</s><s n="77">
-  <w>í</w>
-  <w>Þórskaffi</w>
-  <c>,</c>
-  <w>Gúttó</w>
-  <c>,</c>
-  <w>og</w>
-  <w>Breiðfirðingabúð</w>
-  <c>,</c>
-  <w>lék</w>
-  <w>og</w>
-  <w>söng</w>
-  <w>í</w>
-  <w>kabarettsýningum</w>
-  <w>í</w>
-  <w>Sjálfstæðishúsinu</w>
-  <w>og</w>
-  <w>á</w>
-  <w>vegum</w>
-  <w>Íslenzkra</w>
-  <w>tóna</w>
-  <w>í</w>
-  <w>Austurbæjarbíói</w>
-  <c>.</c>
 </s><s n="78">
   <w>Þar</w>
   <w>nýtur</w>
@@ -2458,14 +2455,7 @@
   <w>og</w>
   <w>syngja</w>
   <w>þau</w>
-  <revision id="91">
-    <original><w>m.</w><w>a</w><c>.</c></original>
-    <corrected><w>m.a.</w></corrected>
-      <errors>
-        <error xtype="extra-space" idx="140-1" eid="0"/>
-        <error xtype="extra-space" idx="140-1" eid="0"/>
-      </errors>
-  </revision>
+  <w>m.a.</w>
   <w>saman</w>
   <w>á</w>
   <w>þeirri</w>
@@ -2623,14 +2613,7 @@
   <c>,</c>
   <w><hi>Brúnaljósin</hi></w>
   <w><hi>brúnu</hi></w>
-  <revision id="98">
-    <original><w>o</w><c>.</c><w>fl</w></original>
-    <corrected><w>o.fl</w></corrected>
-      <errors>
-        <error xtype="extra-space" idx="5-1" eid="0"/>
-        <error xtype="extra-space" idx="5-1" eid="0"/>
-      </errors>
-  </revision>
+  <w>o.fl</w>
   <c>.</c>
 </s><s n="83">
   <revision id="99">
@@ -2953,7 +2936,13 @@
   <w>við</w>
   <c>.</c>
 </s><s n="94">
-  <w>Sigurður</w>
+  <revision id="114b">
+    <original><w>Sigurður</w></original>
+    <corrected><w>Sigurð</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0"/>
+      </errors>
+  </revision>
   <w>dreymdi</w>
   <w>um</w>
   <w>að</w>
@@ -4092,14 +4081,7 @@
   <w>sem</w>
   <w>hann</w>
   <w>segir</w>
-  <revision id="157">
-    <original><w>m.</w><w>a</w><c>.</c></original>
-    <corrected><w>m.a.</w></corrected>
-      <errors>
-        <error xtype="extra-space" idx="146-1" eid="0"/>
-        <error xtype="extra-space" idx="146-1" eid="0"/>
-      </errors>
-  </revision>
+  <w>m.a.</w>
   <c>:</c>
   <c>„</c>
   <w>Lögin</w>
@@ -4327,14 +4309,7 @@
 </s><s n="143">
   <w>Þar</w>
   <w>segir</w>
-  <revision id="165">
-    <original><w>m.</w><w>a</w><c>.</c></original>
-    <corrected><w>m.a.</w></corrected>
-      <errors>
-        <error xtype="extra-space" idx="77-1" eid="0"/>
-        <error xtype="extra-space" idx="77-1" eid="0"/>
-      </errors>
-  </revision>
+  <w>m.a.</w>
   <c>:</c>
   <c>„</c>
   <w>En</w>

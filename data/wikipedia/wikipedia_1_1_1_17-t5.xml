@@ -25,7 +25,14 @@
 </s><s n="2">
   <w>Í</w>
   <w>safninu</w>
-  <w>gefur</w>
+  <revision id="0">
+    <original><w>gefur</w></original>
+    <corrected><w>getur</w></corrected>
+      <errors>
+        <error xtype="letter-rep" idx="0-1" eid="0"/>
+        <error xtype="collocation" idx="0-1" eid="0"/>
+      </errors>
+  </revision>
   <w>að</w>
   <w>líta</w>
   <w>á</w>
@@ -301,7 +308,14 @@
   <w>og</w>
   <w>2007</w>
   <w>var</w>
-  <w>andyrið</w>
+  <revision id="2b">
+    <original><w>andyrið</w></original>
+    <corrected><w>anddyrið</w></corrected>
+      <errors>
+        <error xtype="missing-letter" depId="2b-1" eid="0"/>
+        <error xtype="nonword" depId="2b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>endurbætt</w>
   <c>.</c>
 </s><s n="20">
@@ -472,7 +486,14 @@
   <w>tónlistarklúbbnum</w>
   <w>þar</w>
   <w>sem</w>
-  <w>Bítlanir</w>
+  <revision id="3b">
+    <original><w>Bítlanir</w></original>
+    <corrected><w>Bítlarnir</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="3b-1" eid="0"/>
+        <error xtype="nonword" idx="3b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>spiluðu</w>
   <w>í</w>
   <w>þrjú</w>
@@ -767,7 +788,14 @@
   <w>sú</w>
   <w>að</w>
   <w>skipin</w>
-  <w>leggðust</w>
+  <revision id="5b">
+    <original><w>leggðust</w></original>
+    <corrected><w>legðust</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="5b-1" eid="0"/>
+        <error xtype="nonword" idx="5b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>að</w>
   <w>bryggju</w>
   <w>og</w>
@@ -1078,12 +1106,30 @@
   <w>frá</w>
   <w>þrælasölunni</w>
   <c>,</c>
-  <w>vesturferðir</w>
+  <revision id="9b">
+    <original><w>vesturferðir</w></original>
+    <corrected><w>vesturferðum</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0"/>
+      </errors>
+  </revision>
   <w>Evrópumanna</w>
   <c>,</c>
-  <w>kaupskipaflotann</w>
+  <revision id="9c">
+    <original><w>kaupskipaflotann</w></original>
+    <corrected><w>kaupskipaflotanum</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0"/>
+      </errors>
+  </revision>
   <w>og</w>
-  <w>farþegaskipið</w>
+  <revision id="9d">
+    <original><w>farþegaskipið</w></original>
+    <corrected><w>farþegaskipinu</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0"/>
+      </errors>
+  </revision>
   <w>Titanic</w>
   <w>sem</w>
   <w>skráð</w>
@@ -1102,7 +1148,14 @@
   <w>safninu</w>
   <c>,</c>
   <w>en</w>
-  <w>röddinn</w>
+  <revision id="9e">
+    <original><w>röddinn</w></original>
+    <corrected><w>röddin</w></corrected>
+      <errors>
+        <error xtype="nn4n" idx="9e-1" eid="0"/>
+        <error xtype="nonword" idx="9e-1" eid="0"/>
+      </errors>
+  </revision>
   <w>sem</w>
   <w>heyrist</w>
   <w>tilheyrir</w>
@@ -1129,7 +1182,13 @@
 </s><s n="67">
   <w>Þá</w>
   <w>voru</w>
-  <w>hundruðir</w>
+  <revision id="9b">
+    <original><w>hundruðir</w></original>
+    <corrected><w>hundruð</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0"/>
+      </errors>
+  </revision>
   <w>verkamanna</w>
   <w>fengnir</w>
   <w>til</w>
@@ -1250,7 +1309,13 @@
   <w>Dagur</w>
   <w>þessi</w>
   <w>var</w>
-  <w>meiriháttar</w>
+  <revision id="12">
+    <original><w>meiriháttar</w></original>
+    <corrected><w>meiri</w><w>háttar</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0"/>
+      </errors>
+  </revision>
   <w>hátíðisdagur</w>
   <w>í</w>
   <w>borginni</w>

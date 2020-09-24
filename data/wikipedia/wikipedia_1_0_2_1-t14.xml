@@ -457,7 +457,13 @@
   <w>og</w>
   <w>hafa</w>
   <w>margar</w>
-  <w>afríkuþjóðir</w>
+  <revision id="24b">
+    <original><w>afríkuþjóðir</w></original>
+    <corrected><w>Afríkuþjóðir</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
   <w>fordæmt</w>
   <w>vestrænar</w>
   <w>þjóðir</w>
