@@ -85,8 +85,15 @@
   <w>fyrir</w>
   <w>að</w>
   <w>vera</w>
-  <w>alveg</w>
-  <w>stórkosleg</w>
+  <revision id="1b">
+    <original><w>alveg</w><w>stórkosleg</w></original>
+    <corrected><w>stórkostleg</w></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+        <error xtype="missing-letter" idx="1b-1" eid="0" />
+        <error xtype="nonword" idx="1b-1" eid="0" />
+      </errors>
+  </revision>
   <w>söngkona</w>
   <c>.</c>
 </s>

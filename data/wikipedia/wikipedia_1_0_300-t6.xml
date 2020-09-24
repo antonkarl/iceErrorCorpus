@@ -434,7 +434,14 @@
   <w>Hann</w>
   <w>byrjar</w>
   <w>á</w>
-  <w>menúettnum</w>
+  <revision id="12b">
+    <original><w>menúettnum</w></original>
+    <corrected><w>menúettinum</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="12b-1" eid="0" />
+        <error xtype="nonword" idx="12b-1" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>því</w>
   <w>næst</w>

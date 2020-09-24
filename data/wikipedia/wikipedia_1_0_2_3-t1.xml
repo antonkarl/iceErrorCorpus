@@ -443,13 +443,13 @@
   <w>Mikilvægasta</w>
   <w>fæða</w>
   <revision id="19">
-    <original><w>tegundarinnar</w></original>
-    <corrected><w>ansjósunnar</w></corrected>
+    <original><w>tegundarinnar</w><w>eru</w></original>
+    <corrected><w>ansjósunnar</w><w>er</w></corrected>
       <errors>
         <error xtype="wording" eid="0"/>
+        <error xtype="agreement-pred" eid="0"/>
       </errors>
   </revision>
-  <w>eru</w>
   <w>kísilþörungar</w>
   <c>,</c>
   <w>en</w>

@@ -903,7 +903,14 @@
   <w>þessum</w>
   <w>vírmöskva</w>
   <w>á</w>
-  <w>næturna</w>
+  <revision id="18b">
+    <original><w>næturna</w></original>
+    <corrected><w>næturnar</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="18b-1" eid="0"/>
+        <error xtype="nonword" idx="18b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>sem</w>
   <w>skapar</w>
   <w>ánægjulega</w>
@@ -1108,7 +1115,13 @@
   <c>.</c>
 </s><s n="42">
   <w>Þegar</w>
-  <w>bílinn</w>
+  <revision id="23b">
+    <original><w>bílinn</w></original>
+    <corrected><w>bíllinn</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0"/>
+      </errors>
+  </revision>
   <w>er</w>
   <w>sýndur</w>
   <w>glóir</w>
@@ -2415,7 +2428,14 @@
   <w>með</w>
   <w>Einari</w>
   <w>Þorsteini</w>
-  <w>arkitekti</w>
+  <revision id="49b">
+    <original><w>arkitekti</w></original>
+    <corrected><w>arkitekt</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="49b-1" eid="0"/>
+        <error xtype="nonword" idx="49b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>og</w>
   <w>sérfræðingi</w>
   <w>í</w>

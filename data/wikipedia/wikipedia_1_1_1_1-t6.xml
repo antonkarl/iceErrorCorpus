@@ -123,8 +123,13 @@
   <w>hlutfallskosningar</w>
   <c>,</c>
   <w>er</w>
-  <w>persónukjörs</w>
-  <w>kosningaaðferð</w>
+  <revision id="3b">
+    <original><w>persónukjörs</w><w>kosningaaðferð</w></original>
+    <corrected><w>persónukjörskosningaaðferð</w></corrected>
+      <errors>
+        <error xtype="split-compound" eid="0"/>
+      </errors>
+  </revision>
   <w>þar</w>
   <w>sem</w>
   <w>kjósandi</w>
@@ -193,7 +198,13 @@
   <w>og</w>
   <w>Sambands</w>
   <w>ungra</w>
-  <w>sjálfstæðismanna</w>
+  <revision id="5b">
+    <original><w>sjálfstæðismanna</w></original>
+    <corrected><w>Sjálfstæðismanna</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
   <c>,</c>
   <w>skilaði</w>
   <w>sameiginlegri</w>

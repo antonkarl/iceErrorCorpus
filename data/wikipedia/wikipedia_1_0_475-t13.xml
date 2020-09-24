@@ -209,11 +209,11 @@
   <w>á</w>
   <w>borð</w>
   <w>við</w>
-  <c>:</c>
   <revision id="16">
-    <original><w>A</w><w>Judgment</w><w>in</w><w>Stone</w></original>
+    <original><c>:</c><w>A</w><w>Judgment</w><w>in</w><w>Stone</w></original>
     <corrected><w><hi>A</hi></w><w><hi>Judgment</hi></w><w><hi>in</hi></w><w><hi>Stone</hi></w></corrected>
       <errors>
+        <error xtype="extra-colon" eid="0"/>
         <error xtype="nonit4it" eid="0"/>
       </errors>
   </revision>

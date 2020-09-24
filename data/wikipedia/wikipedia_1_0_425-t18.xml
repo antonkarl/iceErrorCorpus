@@ -21,6 +21,15 @@
   <c>(</c>
   <w>breiðskífa</w>
   <c>)</c>
+  <revision id="0">
+    <original></original>
+    <corrected><c>.</c></corrected>
+      <errors>
+        <error xtype="missing-period" eid="0" />
+      </errors>
+  </revision>
+</s>
+<s n="1b">
   <w>Árið 1992</w>
   <w>kom</w>
   <revision id="1">
@@ -243,13 +252,14 @@
   <w>Robert</w>
   <w>Plant</w>
   <revision id="13">
-    <original><c>,</c></original>
-    <corrected></corrected>
+    <original><c>,</c><w>ofl</w></original>
+    <corrected><w>o.fl</w></corrected>
       <errors>
         <error xtype="extra-comma" eid="0" />
+        <error xtype="missing-period" idx="13-1" eid="0" />
+        <error xtype="abbreviation-period" idx="13-1" eid="0" />
       </errors>
   </revision>
-  <w>ofl</w>
   <c>.</c>
 </s>
 <s n="7">

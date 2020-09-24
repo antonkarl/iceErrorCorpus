@@ -819,7 +819,13 @@
   <w>sem</w>
   <w>margir</w>
   <w>tóku</w>
-  <w>Íslam</w>
+  <revision id="21b">
+    <original><w>Íslam</w></original>
+    <corrected><w>íslam</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <revision id="22">
     <original><w>líklegt</w></original>
@@ -1292,7 +1298,13 @@
   <w>yfir</w>
   <w>eyðimörkina</w>
   <w>og</w>
-  <w>réðist</w>
+  <revision id="41b">
+    <original><w>réðist</w></original>
+    <corrected><w>réðst</w></corrected>
+      <errors>
+        <error xtype="verb-inflection" eid="0" />
+      </errors>
+  </revision>
   <w>á</w>
   <w>Timbúktú</w>
   <c>,</c>

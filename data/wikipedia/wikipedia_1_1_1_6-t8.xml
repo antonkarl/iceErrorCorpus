@@ -169,7 +169,15 @@
   <w>er</w>
   <w>einstætt</w>
   <w>meðal</w>
-  <w>oratoría</w>
+  <revision id="7b">
+    <original><w>oratoría</w></original>
+    <corrected><w>óratóría</w></corrected>
+      <errors>
+        <error xtype="missing-accent" idx="7b-1" eid="0"/>
+        <error xtype="missing-accent" idx="7b-1" eid="0"/>
+        <error xtype="nonword" idx="7b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>Händels</w>
   <c>,</c>
   <w>þar</w>
@@ -422,7 +430,13 @@
   <w>Upphafnir</w>
   <w>hljómar</w>
   <c>,</c>
-  <w>sern</w>
+  <revision id="15b">
+    <original><w>sern</w></original>
+    <corrected><w>sem</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0"/>
+      </errors>
+  </revision>
   <w>ýmist</w>
   <w>voru</w>
   <w>mildir</w>

@@ -549,7 +549,14 @@
   <w>klóþangi</w>
   <w>og</w>
   <w>hvergi</w>
-  <w>annarstaðar</w>
+  <revision id="23b">
+    <original><w>annarstaðar</w></original>
+    <corrected><w>annars</w><w>staðar</w></corrected>
+      <errors>
+        <error xtype="merged-words" idx="23b-1" eid="0"/>
+        <error xtype="missing-letter" idx="23b-1" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="20">
   <w>Ekki</w>

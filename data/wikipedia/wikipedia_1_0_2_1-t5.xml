@@ -340,13 +340,7 @@
   <w>kom</w>
   <w>á</w>
   <w>stöðina</w>
-  <revision id="5">
-    <original><w>u</w><c>.</c><w>þ.</w><w>b</w><c>.</c></original>
-    <corrected><w>u.þ.b.</w></corrected>
-      <errors>
-        <error xtype="extra-space" eid="0" />
-      </errors>
-  </revision>
+  <w>u.þ.b.</w>
   <w>hálftíma</w>
   <w>eftir</w>
   <w>að</w>
@@ -366,7 +360,14 @@
   <w>í</w>
   <w>skjölum</w>
   <w>innra</w>
-  <w>eftirlitisins</w>
+  <revision id="4b">
+    <original><w>eftirlitisins</w></original>
+    <corrected><w>eftirlitsins</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="4b-1" eid="0" />
+        <error xtype="nonword" idx="4b-1" eid="0" />
+      </errors>
+  </revision>
   <w>sem</w>
   <w>lekið</w>
   <w>var</w>
@@ -490,7 +491,14 @@
   <w>þeim</w>
   <w>en</w>
   <w>einn</w>
-  <w>lögreglumannannna</w>
+  <revision id="7b">
+    <original><w>lögreglumannannna</w></original>
+    <corrected><w>lögreglumannanna</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="7b-1" eid="0" />
+        <error xtype="nonword" idx="7b-1" eid="0" />
+      </errors>
+  </revision>
   <w>tók</w>
   <w>þá</w>
   <w>utan</w>
@@ -644,13 +652,7 @@
   <w>stað</w>
   <w>inn</w>
   <w>og</w>
-  <revision id="13">
-    <original><w>m.</w><w>a</w><c>.</c></original>
-    <corrected><w>m.a.</w></corrected>
-      <errors>
-        <error xtype="extra-space" eid="0" />
-      </errors>
-  </revision>
+  <w>m.a.</w>
   <w>stokkið</w>
   <w>yfir</w>
   <w>gjaldhliðið</w>
@@ -791,13 +793,7 @@
   <w>þessarar</w>
   <w>stefnu</w>
   <c>,</c>
-  <revision id="14">
-    <original><w>t</w><c>.</c><w>d.</w></original>
-    <corrected><w>t.d.</w></corrected>
-      <errors>
-        <error xtype="extra-space" eid="0" />
-      </errors>
-  </revision>
+  <w>t.d.</w>
   <w>Múslimaráð</w>
   <w>Bretlands</w>
   <c>.</c>

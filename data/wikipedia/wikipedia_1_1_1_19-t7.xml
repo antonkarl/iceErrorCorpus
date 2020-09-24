@@ -45,16 +45,7 @@
   <c>,</c>
   <w>sem</w>
   <w>er</w>
-  <revision id="1">
-    <original><w>u</w><c>.</c><w>þ.</w><w>b</w><c>.</c></original>
-    <corrected><w>u.þ.b.</w></corrected>
-      <errors>
-        <error xtype="extra-space" idx="3-1" eid="0"/>
-        <error xtype="extra-space" idx="3-1" eid="0"/>
-        <error xtype="extra-space" idx="3-1" eid="0"/>
-        <error xtype="extra-space" idx="3-1" eid="0"/>
-      </errors>
-  </revision>
+  <w>u.þ.b.</w>
   <w>0,5 milljón</w>
   <w>rúmmetrar</w>
   <w>á</w>
@@ -70,15 +61,7 @@
   <w>undir</w>
   <w>hafsbotni</w>
   <w>á</w>
-  <revision id="2">
-    <original><w>s</w><c>.</c><w>k</w><c>.</c></original>
-    <corrected><w>s.k.</w></corrected>
-      <errors>
-        <error xtype="extra-space" idx="1-1" eid="0"/>
-        <error xtype="extra-space" idx="1-1" eid="0"/>
-        <error xtype="extra-space" idx="1-1" eid="0"/>
-      </errors>
-  </revision>
+  <w>s.k.</w>
   <w>Drekasvæði</w>
   <w>norðaustur</w>
   <w>af</w>
@@ -131,16 +114,7 @@
   <w>milljarðar</w>
   <w>tunna</w>
   <c>(</c>
-  <revision id="3">
-    <original><w>u</w><c>.</c><w>þ.</w><w>b</w><c>.</c></original>
-    <corrected><w>u.þ.b.</w></corrected>
-      <errors>
-        <error xtype="extra-space" idx="2-1" eid="0"/>
-        <error xtype="extra-space" idx="2-1" eid="0"/>
-        <error xtype="extra-space" idx="2-1" eid="0"/>
-        <error xtype="extra-space" idx="2-1" eid="0"/>
-      </errors>
-  </revision>
+  <w>u.þ.b.</w>
   <w>1,5</w>
   <w>milljarðar</w>
   <w>rúmmetra</w>
@@ -211,7 +185,14 @@
   <w>að</w>
   <w>olíu</w>
   <w>og</w>
-  <w>jarðagasi</w>
+  <revision id="3">
+    <original><w>jarðagasi</w></original>
+    <corrected><w>jarðgasi</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="3-1" eid="0"/>
+        <error xtype="compound-nonword" idx="3-1" eid="0"/>
+      </errors>
+  </revision>
   <w>og</w>
   <w>hvort</w>
   <w>skuli</w>

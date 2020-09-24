@@ -48,6 +48,13 @@
   <c>.</c>
 </s><s n="2">
   <w>Þó</w>
+  <revision id="0">
+    <original></original>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
   <w>Petrucci</w>
   <w>sé</w>
   <w>eflaust</w>
@@ -309,7 +316,13 @@
   <c>.</c>
 </s><s n="9">
   <w>Hann</w>
-  <w>singur</w>
+  <revision id="9b">
+    <original><w>singur</w></original>
+    <corrected><w>syngur</w></corrected>
+      <errors>
+        <error xtype="i4y" eid="0"/>
+      </errors>
+  </revision>
   <w>einnig</w>
   <w>bakraddir</w>
   <w>í</w>
@@ -549,8 +562,13 @@
   <c>,</c>
   <w>hljóma</w>
   <w>og</w>
-  <w>aðrar</w>
-  <w>tæknir</w>
+  <revision id="19b">
+    <original><w>aðrar</w><w>tæknir</w></original>
+    <corrected><w>önnur</w><w>tækni</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0"/>
+      </errors>
+  </revision>
   <w>til</w>
   <w>að</w>
   <w>þróa</w>

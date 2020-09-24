@@ -116,11 +116,11 @@
   <w>stór</w>
   <w>gestahlutverk</w>
   <w>í</w>
-  <c>:</c>
   <revision id="7">
-    <original><w>NCIS</w></original>
+    <original><c>:</c><w>NCIS</w></original>
     <corrected><w><hi>NCIS</hi></w></corrected>
       <errors>
+        <error xtype="extra-colon" eid="0"/>
         <error xtype="nonit4it" eid="0"/>
       </errors>
   </revision>

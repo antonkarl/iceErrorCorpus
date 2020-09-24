@@ -855,14 +855,7 @@
   <w>eins</w>
   <w>og</w>
   <w>í</w>
-  <revision id="31">
-    <original><w>t</w><c>.</c><w>d.</w></original>
-    <corrected><w>t.d.</w></corrected>
-      <errors>
-        <error xtype="extra-space" idx="13-1" eid="0"/>
-        <error xtype="extra-space" idx="13-1" eid="0"/>
-      </errors>
-  </revision>
+  <w>t.d.</w>
   <w>Gameboy</w>
   <w>eða</w>
   <w>Nintendo</w>
@@ -907,7 +900,13 @@
   <w>Til</w>
   <w>dæmis</w>
   <w>má</w>
-  <w>nefnina</w>
+  <revision id="32b">
+    <original><w>nefnina</w></original>
+    <corrected><w>nefna</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0"/>
+      </errors>
+  </revision>
   <w>þættina</w>
   <revision id="33">
     <original><w>Adventure</w><w>Time</w></original>
@@ -1478,7 +1477,13 @@
   <w>hefur</w>
   <w>aukist</w>
   <w>í</w>
-  <w>margskonar</w>
+  <revision id="51b">
+    <original><w>margskonar</w></original>
+    <corrected><w>margs</w><w>konar</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0"/>
+      </errors>
+  </revision>
   <w>raftónlist</w>
   <c>.</c>
 </s><s n="46">

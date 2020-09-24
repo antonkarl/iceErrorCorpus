@@ -876,7 +876,14 @@
   <w>nýrri</w>
   <w>og</w>
   <w>nokkuð</w>
-  <w>fágaðari</w>
+  <revision id="20b">
+    <original><w>fágaðari</w></original>
+    <corrected><w>fágaðri</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="20b-1" eid="0" />
+        <error xtype="nonword" idx="20b-1" eid="0" />
+      </errors>
+  </revision>
   <w>hljómsveit</w>
   <c>,</c>
   <w>Public</w>
@@ -1152,7 +1159,13 @@
   <w>Margar</w>
   <w>síðpönksveitir</w>
   <w>voru</w>
-  <w>stuttlífar</w>
+  <revision id="28b">
+    <original><w>stuttlífar</w></original>
+    <corrected><w>skammlífar</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>þær</w>
   <w>sem</w>
@@ -1311,7 +1324,13 @@
   <w>að</w>
   <w>hinni</w>
   <w>mun</w>
-  <w>stílhreinnari</w>
+  <revision id="32b">
+    <original><w>stílhreinnari</w></original>
+    <corrected><w>stílhreinni</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
   <w>Nick</w>
   <w>Cave</w>
   <c>&amp;</c>
@@ -1369,8 +1388,13 @@
   <w>bítandi</w>
   <w>út</w>
   <w>úr</w>
-  <w>aðal</w>
-  <w>tónlistarsenunni</w>
+  <revision id="34b">
+    <original><w>aðal</w><w>tónlistarsenunni</w></original>
+    <corrected><w>aðaltónlistarsenunni</w></corrected>
+      <errors>
+        <error xtype="split-word" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="44">
@@ -1579,7 +1603,13 @@
   <w>túlkun</w>
   <w>þeirra</w>
   <w>á</w>
-  <w>and-fasisma</w>
+  <revision id="40b">
+    <original><w>and-fasisma</w></original>
+    <corrected><w>andfasisma</w></corrected>
+      <errors>
+        <error xtype="extra-dash" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="50">

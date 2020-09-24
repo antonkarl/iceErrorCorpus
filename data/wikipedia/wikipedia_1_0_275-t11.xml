@@ -171,7 +171,14 @@
   <c>.</c>
 </s>
 <s n="6">
-  <w>Portúgalir</w>
+  <revision id="5b">
+    <original><w>Portúgalir</w></original>
+    <corrected><w>Portúgalar</w></corrected>
+      <errors>
+        <error xtype="letter-rep" idx="5b-1" eid="0" />
+        <error xtype="nonword" idx="5b-1" eid="0" />
+      </errors>
+  </revision>
   <w>náðu</w>
   <w>Múskat</w>
   <w>á</w>
@@ -470,7 +477,14 @@
 </s>
 <s n="20">
   <w>Önnur</w>
-  <w>trúarbröð</w>
+  <revision id="9b">
+    <original><w>trúarbröð</w></original>
+    <corrected><w>trúarbrögð</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="9b-1" eid="0" />
+        <error xtype="nonword" idx="9b-1" eid="0" />
+      </errors>
+  </revision>
   <w>sem</w>
   <w>íbúar</w>
   <w>aðhyllast</w>

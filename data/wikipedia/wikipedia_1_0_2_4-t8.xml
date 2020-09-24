@@ -755,7 +755,13 @@
       </errors>
   </revision>
   <w>verið</w>
-  <w>einhverskonar</w>
+  <revision id="27b">
+    <original><w>einhverskonar</w></original>
+    <corrected><w>einhvers</w><w>konar</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0"/>
+      </errors>
+  </revision>
   <w>afdrep</w>
   <w>fyrir</w>
   <w>prestinn</w>

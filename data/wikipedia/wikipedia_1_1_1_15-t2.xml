@@ -511,7 +511,14 @@
   <w>hún</w>
   <w>nám</w>
   <w>við</w>
-  <w>Myndlistar- og handíðarskóla</w>
+  <revision id="9b">
+    <original><w>Myndlistar- og handíðarskóla</w></original>
+    <corrected><w>Myndlistar- og handíðaskóla</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="9b-1" eid="0"/>
+        <error xtype="compound-nonword" idx="9b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>Íslands</w>
   <w>og</w>
   <w>útskrifaðist</w>

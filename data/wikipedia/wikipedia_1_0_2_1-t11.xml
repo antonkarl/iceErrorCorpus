@@ -196,7 +196,10 @@
   <w>2</w>
   <w>mL</w>
   <c>/</c>
-  <w>L.</w>
+  <w>L</w>
+  <c>.</c>
+</s>
+<s n="8b">
   <w>Helsta</w>
   <w>fæða</w>
   <w>bjúgorma</w>
@@ -216,7 +219,14 @@
   <w>ormar</w>
   <w>eins</w>
   <w>og</w>
-  <w>burstormar</w>
+  <revision id="6b">
+    <original><w>burstormar</w></original>
+    <corrected><w>burstaormar</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="6b-1" eid="0" />
+        <error xtype="compound-nonword" idx="6b-1" eid="0" />
+      </errors>
+  </revision>
   <c>(</c>
   <w>fræðiheiti</w>
   <c>:</c>

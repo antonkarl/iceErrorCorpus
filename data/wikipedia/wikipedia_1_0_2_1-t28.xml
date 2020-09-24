@@ -253,7 +253,14 @@
 <s n="13">
   <w>Árið 1789</w>
   <w>hafði</w>
-  <w>pólítísk</w>
+  <revision id="1b">
+    <original><w>pólítísk</w></original>
+    <corrected><w>pólitísk</w></corrected>
+      <errors>
+        <error xtype="extra-accent" idx="1b-1" eid="0" />
+        <error xtype="nonword" idx="1b-1" eid="0" />
+      </errors>
+  </revision>
   <w>spenna</w>
   <w>aukist</w>
   <w>mjög</w>
@@ -265,7 +272,13 @@
   <w>bylting</w>
   <w>þar</w>
   <w>sem</w>
-  <w>fjölda</w>
+  <revision id="1c">
+    <original><w>fjölda</w></original>
+    <corrected><w>fjöldi</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
   <w>manna</w>
   <w>tókst</w>
   <w>að</w>

@@ -269,7 +269,14 @@
   <c>.</c>
 </s>
 <s n="13">
-  <w>Úgáfu</w>
+  <revision id="5b">
+    <original><w>Úgáfu</w></original>
+    <corrected><w>Útgáfu</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="5b-1" eid="0" />
+        <error xtype="nonword" idx="5b-1" eid="0" />
+      </errors>
+  </revision>
   <w>þess</w>
   <w>var</w>
   <w>þó</w>

@@ -537,7 +537,13 @@
   <w>hannar</w>
   <w>ævintýranleg</w>
   <w>verk</w>
-  <w>útfrá</w>
+  <revision id="22b">
+    <original><w>útfrá</w></original>
+    <corrected><w>út</w><w>frá</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0"/>
+      </errors>
+  </revision>
   <w>jarðbundnum</w>
   <w>hlutum</w>
   <w>eins</w>

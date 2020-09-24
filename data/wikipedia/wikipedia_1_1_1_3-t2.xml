@@ -543,7 +543,13 @@
   <w>að</w>
   <w>opinbera</w>
   <w>þessar</w>
-  <w>fyrirfram</w>
+  <revision id="15b">
+    <original><w>fyrirfram</w></original>
+    <corrected><w>fyrir</w><w>fram</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0"/>
+      </errors>
+  </revision>
   <w>skilgreindu</w>
   <w>hugsanir</w>
   <w>sínar</w>

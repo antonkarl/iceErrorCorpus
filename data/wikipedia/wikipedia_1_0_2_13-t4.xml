@@ -91,7 +91,14 @@
   <w>eilífum</w>
   <w>forseta</w>
   <w>samkvæmt</w>
-  <w>stjórnaskránni</w>
+  <revision id="2b">
+    <original><w>stjórnaskránni</w></original>
+    <corrected><w>stjórnarskránni</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="2b-1" eid="0"/>
+        <error xtype="compound-nonword" idx="2b-1" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="4">
   <w>Hann</w>
@@ -231,7 +238,13 @@
   <w>landsföður</w>
   <w>samkvæmt</w>
   <w>hefð</w>
-  <w>konfúsíanisma</w>
+  <revision id="7b">
+    <original><w>konfúsíanisma</w></original>
+    <corrected><w>konfúsisma</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0"/>
+      </errors>
+  </revision>
   <w>og</w>
   <w>krafðist</w>
   <w>að</w>
@@ -420,7 +433,14 @@
 </s><s n="18">
   <w>Áætlunarbúskapur</w>
   <w>og</w>
-  <w>einangrunastefna</w>
+  <revision id="13b">
+    <original><w>einangrunastefna</w></original>
+    <corrected><w>einangrunarstefna</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="13b-1" eid="0"/>
+        <error xtype="compound-nonword" idx="13b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>Kim</w>
   <w>Il</w>
   <w>Sungs</w>

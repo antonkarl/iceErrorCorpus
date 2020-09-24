@@ -854,7 +854,13 @@
   <w>áhættubréf</w>
   <w>aftur</w>
   <w>um</w>
-  <w>hundruði</w>
+  <revision id="26b">
+    <original><w>hundruði</w></original>
+    <corrected><w>hundruð</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0"/>
+      </errors>
+  </revision>
   <w>ára</w>
   <c>,</c>
   <w>allt</w>
@@ -909,8 +915,13 @@
   <w>Áhættuskuldabréf</w>
   <w>fylgja</w>
   <w>vanalega</w>
-  <w>langtíma</w>
-  <w>vöxtum</w>
+  <revision id="26c">
+    <original><w>langtíma</w><w>vöxtum</w></original>
+    <corrected><w>langtímavöxtum</w></corrected>
+      <errors>
+        <error xtype="split-compound" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="38">
   <w>Michael</w>

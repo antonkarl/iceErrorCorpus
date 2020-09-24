@@ -258,7 +258,13 @@
   <w>orðinn</w>
   <w>38</w>
   <w>ára</w>
-  <w>ára</w>
+  <revision id="6b">
+    <original><w>ára</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="repeat-word" eid="0"/>
+      </errors>
+  </revision>
   <w>gamall</w>
   <c>.</c>
 </s><s n="9">
@@ -1556,7 +1562,6 @@
   <w>sumardögum</w>
   <w>á</w>
   <c>,</c>
-</s><s n="51">
   <w>þótt</w>
   <w>það</w>
   <w>kosti</w>
@@ -1675,8 +1680,13 @@
 </s><s n="56">
   <w>Hann</w>
   <w>þótti</w>
-  <w>óvenju</w>
-  <w>afkastamikill</w>
+  <revision id="55b">
+    <original><w>óvenju</w><w>afkastamikill</w></original>
+    <corrected><w>óvenjuafkastamikill</w></corrected>
+      <errors>
+        <error xtype="split-word" eid="0"/>
+      </errors>
+  </revision>
   <w>og</w>
   <w>hugmyndaríkur</w>
   <w>smiður</w>

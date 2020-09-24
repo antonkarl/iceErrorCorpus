@@ -93,7 +93,14 @@
 </s><s n="3">
   <w>Leynifélagið</w>
   <w>var</w>
-  <w>upprunarlega</w>
+  <revision id="4b">
+    <original><w>upprunarlega</w></original>
+    <corrected><w>upprunalega</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="4b-1" eid="0"/>
+        <error xtype="nonword" idx="4b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>stofnað</w>
   <w>1843</w>
   <revision id="5">
@@ -597,7 +604,14 @@
   <w>en</w>
   <w>jafnframt</w>
   <w>jókst</w>
-  <w>velmegnun</w>
+  <revision id="45b">
+    <original><w>velmegnun</w></original>
+    <corrected><w>velmegun</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="45b-1" eid="0"/>
+        <error xtype="nonword" idx="45b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>á</w>
   <w>svæðinu</w>
   <c>.</c>
