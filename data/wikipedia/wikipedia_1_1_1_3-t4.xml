@@ -119,7 +119,14 @@
   <w>í</w>
   <w>rafgeymum</w>
   <w>eða</w>
-  <w>díselolíu</w>
+  <revision id="1b">
+    <original><w>díselolíu</w></original>
+    <corrected><w>dísilolíu</w></corrected>
+      <errors>
+        <error xtype="letter-rep" idx="1b-1" eid="0"/>
+        <error xtype="nonword" idx="1b-1" eid="0"/>
+      </errors>
+  </revision>
   <c>;</c>
   <w>úr</w>
   <w>kjarnorku</w>
@@ -286,7 +293,7 @@
   <w>sem</w>
   <revision id="6">
     <original><w>dísil</w><c>-</c><w>rafmagns</w><w>tvinn-knúningur</w></original>
-    <corrected><w>dísil-rafmagns- eða tvinn-knúningur</w></corrected>
+    <corrected><w>dísil-rafmagns- eða tvinnknúningur</w></corrected>
       <errors>
         <error xtype="extra-space" idx="14-1" eid="0"/>
         <error xtype="missing-conjunction" idx="14-2" eid="0"/>
@@ -562,7 +569,14 @@
   <w>kjarnakljúf</w>
   <w>í</w>
   <w>stað</w>
-  <w>díselvarmavélarinnar</w>
+  <revision id="10b">
+    <original><w>díselvarmavélarinnar</w></original>
+    <corrected><w>dísilvarmavélarinnar</w></corrected>
+      <errors>
+        <error xtype="letter-rep" idx="10b-1" eid="0"/>
+        <error xtype="nonword" idx="10b-1" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="26">
   <w>Kjarnakljúfurinn</w>
@@ -1027,7 +1041,13 @@
   <w>í</w>
   <w>rafmagn</w>
   <w>með</w>
-  <w>rafali</w>
+  <revision id="22b">
+    <original><w>rafali</w></original>
+    <corrected><w>rafal</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0"/>
+      </errors>
+  </revision>
   <c>,</c>
   <w>sem</w>
   <w>framleiðir</w>

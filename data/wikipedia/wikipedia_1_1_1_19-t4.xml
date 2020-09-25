@@ -465,7 +465,14 @@
   <w>sem</w>
   <w>gekk</w>
   <w>meðal</w>
-  <w>afríkskra</w>
+  <revision id="10b">
+    <original><w>afríkskra</w></original>
+    <corrected><w>afrískra</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="10b-1" eid="0"/>
+        <error xtype="nonword" idx="10b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>þræla</w>
   <w>að</w>
   <w>Zumbi</w>

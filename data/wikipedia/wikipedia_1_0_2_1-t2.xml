@@ -689,7 +689,13 @@
   <w>eru</w>
   <w>4</w>
   <w>mál</w>
-  <w>eru</w>
+  <revision id="12b">
+    <original><w>eru</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="repeat-word-split" eid="0" />
+      </errors>
+  </revision>
   <w>enn</w>
   <w>óupplýst</w>
   <w>og</w>

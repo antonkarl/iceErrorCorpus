@@ -1472,9 +1472,21 @@
   <w>lofað</w>
   <w>mat</w>
   <c>,</c>
-  <w>vatni</w>
+  <revision id="78">
+    <original><w>vatni</w></original>
+    <corrected><w>vatn</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0"/>
+      </errors>
+  </revision>
   <w>og</w>
-  <w>húsaskjóli</w>
+  <revision id="79">
+    <original><w>húsaskjóli</w></original>
+    <corrected><w>húsaskjól</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s></p></body></text>
 </TEI>

@@ -297,13 +297,7 @@
   <w>við</w>
   <w>erlendar</w>
   <w>rannsóknir</w>
-  <revision id="10">
-    <original><w>þ.</w><w>e.</w><w>a</w><c>.</c><w>s</w><c>.</c></original>
-    <corrected><w>þ.e.a.s.</w></corrected>
-      <errors>
-        <error xtype="extra-space" eid="0"/>
-      </errors>
-  </revision>
+  <w>þ.e.a.s.</w>
   <w>að</w>
   <w>þau</w>
   <w>óhöpp</w>
@@ -1017,7 +1011,13 @@
   <w>ætlar</w>
   <w>að</w>
   <w>aka</w>
-  <w>framhjá</w>
+  <revision id="23b">
+    <original><w>framhjá</w></original>
+    <corrected><w>fram</w><w>hjá</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0"/>
+      </errors>
+  </revision>
   <w>fyrstu</w>
   <w>gatnamótunum</w>
   <w>og</w>
@@ -1088,13 +1088,25 @@
   <w>13</w>
   <w>óhöpp</w>
   <w>með</w>
-  <w>minniháttar</w>
+  <revision id="24b">
+    <original><w>minniháttar</w></original>
+    <corrected><w>minni</w><w>háttar</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0"/>
+      </errors>
+  </revision>
   <w>meiðslum</w>
   <c>,</c>
   <w>6</w>
   <w>óhöpp</w>
   <w>með</w>
-  <w>meiriháttar</w>
+  <revision id="24c">
+    <original><w>meiriháttar</w></original>
+    <corrected><w>meiri</w><w>háttar</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0"/>
+      </errors>
+  </revision>
   <w>meiðslum</w>
   <w>og</w>
   <w>eitt</w>

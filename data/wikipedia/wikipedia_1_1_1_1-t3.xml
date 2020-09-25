@@ -168,7 +168,13 @@
   <c>.</c>
 </s><s n="11">
   <w>Sýrlendingar</w>
-  <w>settust</w>
+  <revision id="1b">
+    <original><w>settust</w></original>
+    <corrected><w>sátu</w></corrected>
+      <errors>
+        <error xtype="collocation" eid="0"/>
+      </errors>
+  </revision>
   <w>um</w>
   <w>borgina</w>
   <w>og</w>
@@ -224,7 +230,13 @@
   <w>frá</w>
   <w>1943</w>
   <w>sem</w>
-  <w>byggðist</w>
+  <revision id="1c">
+    <original><w>byggðist</w></original>
+    <corrected><w>byggði</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
   <w>á</w>
   <w>manntali</w>
   <w>frá</w>
@@ -240,7 +252,7 @@
   <w>febrúar 1984</w>
   <w>hurfu</w>
   <w>margir</w>
-  <revision id="1b">
+  <revision id="1d">
     <original><w>múslimar</w></original>
     <corrected><w>múslímar</w></corrected>
       <errors>
@@ -310,7 +322,7 @@
   <w>líbanskra</w>
   <w>drúsa</w>
   <w>og</w>
-  <revision id="1b">
+  <revision id="1e">
     <original><w>múslima</w></original>
     <corrected><w>múslíma</w></corrected>
       <errors>
@@ -850,8 +862,13 @@
   <w>var</w>
   <w>byggður</w>
   <w>upp</w>
-  <w>á</w>
-  <w>ný</w>
+  <revision id="15b">
+    <original><w>á</w><w>ný</w></original>
+    <corrected><w>að</w><w>nýju</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
   <w>þótt</w>
   <w>landið</w>
   <w>væri</w>

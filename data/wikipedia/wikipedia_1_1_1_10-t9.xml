@@ -461,8 +461,13 @@
   <w>sóst</w>
   <w>eftir</w>
   <w>svokölluðum</w>
-  <w>mjúkskelja</w>
-  <w>krabba</w>
+  <revision id="17b">
+    <original><w>mjúkskelja</w><w>krabba</w></original>
+    <corrected><w>mjúkskeljakrabba</w></corrected>
+      <errors>
+        <error xtype="split-compound" eid="0"/>
+      </errors>
+  </revision>
   <w>en</w>
   <w>það</w>
   <w>eru</w>

@@ -880,7 +880,14 @@
   <w>Austurríkismenn</w>
   <w>í</w>
   <w>nokkrum</w>
-  <w>orrstum</w>
+  <revision id="11b">
+    <original><w>orrstum</w></original>
+    <corrected><w>orrustum</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="11b-1" eid="0"/>
+        <error xtype="nonword" idx="11b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>og</w>
   <w>ráku</w>
   <w>þá</w>
@@ -1786,7 +1793,14 @@
   <w>limburgíska</w>
   <w><hi>Luuk</hi></w>
   <c>,</c>
-  <w>lúxemborgíska</w>
+  <revision id="27b">
+    <original><w>lúxemborgíska</w></original>
+    <corrected><w>lúxemborgska</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="27b-1" eid="0"/>
+        <error xtype="nonword" idx="27b-1" eid="0"/>
+      </errors>
+  </revision>
   <w><hi>Léck</hi></w>
   <c>)</c>
   <w>er</w>

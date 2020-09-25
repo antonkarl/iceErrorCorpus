@@ -216,7 +216,14 @@
   <w>ný</w>
   <c>.</c>
 </s><s n="11">
-  <w>Austraumar</w>
+  <revision id="10b">
+    <original><w>Austraumar</w></original>
+    <corrected><w>Aurstraumar</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="10b-1" eid="0"/>
+        <error xtype="nonword" idx="10b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>náðu</w>
   <w>að</w>
   <w>borginni</w>
@@ -324,7 +331,13 @@
 </s><s n="19">
   <w>Það</w>
   <w>er</w>
-  <w>filippínska</w>
+  <revision id="13b">
+    <original><w>filippínska</w></original>
+    <corrected><w>filippseyska</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0"/>
+      </errors>
+  </revision>
   <w>eldfjallastofnunin</w>
   <c>,</c>
   <w>PHIVOLCS</w>
@@ -710,7 +723,10 @@
   <w>og</w>
   <w>2009</w>
   <c>-</c>
-  <w>10.</w>
+  <w>10</w>
+  <c>.</c>
+</s>
+<s n="32b">
   <w>18. júlí 2006</w>
   <w>hófst</w>
   <w>gos</w>

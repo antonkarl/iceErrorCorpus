@@ -252,7 +252,13 @@
   <w>greind</w>
   <w>barna</w>
   <w>og</w>
-  <w>fullorðna</w>
+  <revision id="6b">
+    <original><w>fullorðna</w></original>
+    <corrected><w>fullorðinna</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
   <w>ekki</w>
   <w>fólgin</w>
   <w>í</w>
@@ -268,7 +274,13 @@
       </errors>
   </revision>
   <w>en</w>
-  <w>þessi</w>
+  <revision id="7b">
+    <original><w>þessi</w></original>
+    <corrected><w>þessir</w></corrected>
+      <errors>
+        <error xtype="agreement-concord" eid="0"/>
+      </errors>
+  </revision>
   <w>þættir</w>
   <w>höfðu</w>
   <w>verið</w>
@@ -358,7 +370,14 @@
   <w>deila</w>
   <w>greindaraldri</w>
   <w>í</w>
-  <w>lífsaldur</w>
+  <revision id="7c">
+    <original><w>lífsaldur</w></original>
+    <corrected><w>lífaldur</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="7c-1" eid="0"/>
+        <error xtype="compound-nonword" idx="7c-1" eid="0"/>
+      </errors>
+  </revision>
   <w>og</w>
   <w>margfaldaði</w>
   <w>það</w>
@@ -470,14 +489,7 @@
   <w>hugarstarfsemi</w>
   <w>en</w>
   <w>ekki</w>
-  <revision id="11">
-    <original><w>t</w><c>.</c><w>d.</w></original>
-    <corrected><w>t.d.</w></corrected>
-      <errors>
-        <error xtype="extra-space" idx="6-1" eid="0"/>
-        <error xtype="extra-space" idx="6-1" eid="0"/>
-      </errors>
-  </revision>
+  <w>t.d.</w>
   <w>skynjunarhæfileikum</w>
   <w>eins</w>
   <w>og</w>
