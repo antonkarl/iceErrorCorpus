@@ -91,7 +91,14 @@
   <w>fallið</w>
   <w>niður</w>
   <w>í</w>
-  <w>fiskimóttökuna</w>
+  <revision id="1">
+    <original><w>fiskimóttökuna</w></original>
+    <corrected><w>fiskmóttökuna</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="1-1" eid="0" />
+        <error xtype="compound-nonword" idx="1-1" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="5">

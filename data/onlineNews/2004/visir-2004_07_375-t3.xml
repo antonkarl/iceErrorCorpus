@@ -16,9 +16,14 @@
 <text><body><p n="1">
 <s n="1">
   <w>Mín</w>
-  <w>skoðun-Gunnar</w>
+  <w>skoðun</w>
+  <c>-</c>
+  <w>Gunnar</w>
   <w>Smári</w>
   <w>Egilsson</w>
+  <c>.</c>
+</s>
+<s n="1b">
   <w>Þegar</w>
   <w>ríkisstjórnin</w>
   <w>kom</w>
@@ -595,7 +600,13 @@
   <w>reynslu</w>
   <w>undanfarinna</w>
   <w>mánuða</w>
-  <w>mun</w>
+  <revision id="1">
+    <original><w>mun</w></original>
+    <corrected><w>munu</w></corrected>
+      <errors>
+        <error xtype="agreement-pred" eid="0" />
+      </errors>
+  </revision>
   <w>framlengdir</w>
   <w>lífdagar</w>
   <w>aðeins</w>

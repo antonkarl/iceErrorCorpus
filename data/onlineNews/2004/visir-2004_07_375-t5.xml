@@ -109,7 +109,13 @@
   <w>því</w>
   <w>að</w>
   <w>gera</w>
-  <w>minniháttar</w>
+  <revision id="0c">
+    <original><w>minniháttar</original>
+    <corrected><w>minni</w><w>háttar</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>breytingar</w>
   <w>á</w>
   <w>þeim</w>

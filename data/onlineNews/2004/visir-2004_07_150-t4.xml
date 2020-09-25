@@ -226,7 +226,7 @@
       </errors>
   </revision>
   <w>25</w>
-
+  <c>-</c>
   <w>44%</w>
   <revision id="10">
     <original><w>atkvæðisbærra</w><w>manna</w></original>
@@ -351,7 +351,13 @@
   <w>forystumenn</w>
   <w>í</w>
   <w>ráðherraliði</w>
-  <w>sjálfstæðismanna</w>
+  <revision id="14b">
+    <original><w>sjálfstæðismanna</w></original>
+    <corrected><w>Sjálfstæðismanna</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>þeir</w>
   <w>Geir</w>
@@ -436,7 +442,13 @@
   <w>þessum</w>
   <w>efnum</w>
   <w>en</w>
-  <w>sjálfstæðismenn</w>
+  <revision id="15b">
+    <original><w>sjálfstæðismenn</w></original>
+    <corrected><w>Sjálfstæðismenn</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="15">

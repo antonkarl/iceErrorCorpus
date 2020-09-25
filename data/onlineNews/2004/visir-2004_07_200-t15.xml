@@ -196,7 +196,13 @@
   <w>Thierry</w>
   <w>Normand</w>
   <c>,</c>
-  <w>sagist</w>
+  <revision id="3b">
+    <original><w>sagist</w></original>
+    <corrected><w>segist</w></corrected>
+      <errors>
+        <error xtype="letter-rep" eid="0" />
+      </errors>
+  </revision>
   <w>ekki</w>
   <w>líta</w>
   <w>svo</w>

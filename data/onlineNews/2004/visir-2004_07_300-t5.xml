@@ -103,7 +103,13 @@
   <w>Wilson</w>
   <w>Kipketer</w>
   <w>náði</w>
-  <w>bestum</w>
+  <revision id="1b">
+    <original><w>bestum</w></original>
+    <corrected><w>besta</w></corrected>
+      <errors>
+        <error xtype="agreement-concord" eid="0" />
+      </errors>
+  </revision>
   <w>tíma</w>
   <w>ársins</w>
   <w>í</w>

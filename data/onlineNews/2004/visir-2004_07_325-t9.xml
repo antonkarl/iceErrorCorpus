@@ -108,7 +108,14 @@
   <w>lýsir</w>
   <w>leiknum</w>
   <w>á</w>
-  <w>útarpsstöðvunum</w>
+  <revision id="1">
+    <original><w>útarpsstöðvunum</w></original>
+    <corrected><w>útvarpsstöðvunum</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="1-1" eid="0" />
+        <error xtype="nonword" idx="1-1" eid="0" />
+      </errors>
+  </revision>
   <w>X-inu</w>
   <w>97.7</w>
   <w>og</w>

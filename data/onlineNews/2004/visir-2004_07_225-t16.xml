@@ -37,7 +37,7 @@
   <w>í</w>
   <w>flokki</w>
   <w>15</w>
-
+  <c>-</c>
   <w>16</w>
   <w>ára</w>
   <w>á</w>
@@ -105,6 +105,13 @@
   <w>Óskarsson</w>
   <w>7,41</w>
   <w>meter</w>
+  <revision id="1b">
+    <original><w>meter</w></original>
+    <corrected><w>metra</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 </p></body></text>

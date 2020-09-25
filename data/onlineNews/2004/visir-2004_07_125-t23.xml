@@ -69,11 +69,23 @@
   <w>Búsáhöldum</w>
   <w>í</w>
   <w>Kringlunni</w>
+  <revision id="0c">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
   <w>þar</w>
   <w>sem</w>
   <w>Le</w>
-  <w>Creuset</w>
-  <w>pottarnir</w>
+  <revision id="0d">
+    <original><w>Creuset</w><w>pottarnir</w></original>
+    <corrected><w>Creuset-pottarnir</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
   <w>fást</w>
   <c>,</c>
   <w>og</w>
@@ -92,8 +104,13 @@
   <w>fórum</w>
   <w>sínum</w>
   <w>Le</w>
-  <w>Creuset</w>
-  <w>potta</w>
+  <revision id="0e">
+    <original><w>Creuset</w><w>potta</w></original>
+    <corrected><w>Creuset-potta</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
   <w>sem</w>
   <w>hafa</w>
   <w>verið</w>

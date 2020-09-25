@@ -106,7 +106,14 @@
   <w>Þorgerður</w>
   <w>Katrín</w>
   <w>Gunnarsdóttir</w>
-  <w>menntamálaráðaherra</w>
+  <revision id="0">
+    <original><w>menntamálaráðaherra</w></original>
+    <corrected><w>menntamálaráðherra</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="0-1" eid="0" />
+        <error xtype="nonword" idx="0-1" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>að</w>
   <w>það</w>

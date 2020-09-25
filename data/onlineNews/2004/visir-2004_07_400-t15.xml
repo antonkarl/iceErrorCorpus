@@ -177,15 +177,27 @@
   <w>Hver</w>
   <w>RE</w>
   <c>/</c>
-  <w>MAX</w>
-  <w>fasteignasala</w>
+  <revision id="1b">
+    <original><w>MAX</w><w>fasteignasala</w></original>
+    <corrected><w>MAX-fasteignasala</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
   <w>á</w>
   <w>Íslandi</w>
   <w>er</w>
   <w>sjálfstætt</w>
   <w>rekin</w>
   <w>samkvæmt</w>
-  <w>sérleyfisamningi</w>
+  <revision id="1c">
+    <original><w>sérleyfisamningi</w></original>
+    <corrected><w>sérleyfissamningi</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="1c-1" eid="0" />
+        <error xtype="compound-nonword" idx="1c-1" eid="0" />
+      </errors>
+  </revision>
   <w>við</w>
   <w>móðurfélagið</w>
   <c>,</c>
@@ -196,7 +208,7 @@
   <c>.</c>
 </s>
 <s n="9">
-  <revision id="1b">
+  <revision id="1d">
     <original><c>"</c></original>
     <corrected><c>„</c></corrected>
       <errors>
@@ -236,7 +248,7 @@
   <w>á</w>
   <w>Íslandi</w>
   <c>,</c>
-  <revision id="1c">
+  <revision id="1e">
     <original><c>"</c></original>
     <corrected><c>“</c></corrected>
       <errors>
@@ -275,7 +287,7 @@
   <c>.</c>
 </s>
 <s n="12">
-  <revision id="1d">
+  <revision id="1f">
     <original><c>"</c></original>
     <corrected><c>„</c></corrected>
       <errors>
@@ -360,7 +372,7 @@
   <w>MAX</w>
   <w>keðjunnar</w>
   <c>,</c>
-  <revision id="1e">
+  <revision id="1g">
     <original><c>"</c></original>
     <corrected><c>“</c></corrected>
       <errors>
@@ -398,7 +410,7 @@
   <c>.</c>
 </s>
 <s n="17">
-  <revision id="1f">
+  <revision id="1h">
     <original><c>"</c></original>
     <corrected><c>„</c></corrected>
       <errors>
@@ -477,7 +489,7 @@
   <w>góðri</w>
   <w>þjónustu</w>
   <c>,</c>
-  <revision id="1g">
+  <revision id="1i">
     <original><c>"</c></original>
     <corrected><c>“</c></corrected>
       <errors>
@@ -490,7 +502,7 @@
   <c>.</c>
 </s>
 <s n="21">
-  <revision id="1h">
+  <revision id="1j">
     <original><c>"</c></original>
     <corrected><c>„</c></corrected>
       <errors>

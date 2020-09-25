@@ -219,7 +219,14 @@
   <w>að</w>
   <w>Grikkland</w>
   <w>verðskuldaði</w>
-  <w>Evrópumeistaratitlinn</w>
+  <revision id="3b">
+    <original><w>Evrópumeistaratitlinn</w></original>
+    <corrected><w>Evrópumeistaratitilinn</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="3b-1" eid="0" />
+        <error xtype="nonword" idx="3b-1" eid="0" />
+      </errors>
+  </revision>
   <w>en</w>
   <w>Haristeas</w>
   <w>hefur</w>

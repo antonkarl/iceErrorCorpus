@@ -98,7 +98,13 @@
   <w>Afrakstur</w>
   <w>þess</w>
   <w>spjalls</w>
-  <w>gefur</w>
+  <revision id="2b">
+    <original><w>gefur</w></original>
+    <corrected><w>getur</w></corrected>
+      <errors>
+        <error xtype="collocation" eid="0" />
+      </errors>
+  </revision>
   <w>að</w>
   <w>líta</w>
   <w>í</w>

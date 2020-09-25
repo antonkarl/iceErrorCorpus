@@ -36,7 +36,7 @@
   <w>mörk</w>
   <w>í</w>
   <w>Evrópukeppninni</w>
-
+  <c>-</c>
   <w>í</w>
   <w>sex</w>
   <w>leikjum</w>
@@ -68,11 +68,24 @@
   <c>.</c>
 </s>
 <s n="4">
-  <w>Portúgalir</w>
+  <revision id="0">
+    <original><w>Portúgalir</w></original>
+    <corrected><w>Portúgalar</w></corrected>
+      <errors>
+        <error xtype="letter-rep" idx="0-1" eid="0" />
+        <error xtype="nonword" idx="0-1" eid="0" />
+      </errors>
+  </revision>
   <w>fundu</w>
   <w>engar</w>
   <w>leiðir</w>
-  <w>framhjá</w>
+  <revision id="0b">
+    <original><w>framhjá</w></original>
+    <corrected><w>fram</w><w>hjá</w></corrected>
+      <errors>
+        <error xtype="split-word" eid="0" />
+      </errors>
+  </revision>
   <w>sterkum</w>
   <w>varnarmúr</w>
   <w>Grikkja</w>
@@ -141,19 +154,19 @@
   <w>unnu</w>
   <w>þeir</w>
   <w>1</w>
-
+  <c>-</c>
   <w>0</w>
   <w>sigur</w>
   <w>á</w>
   <w>Frökkum</w>
   <w>í</w>
   <w>8</w>
-
+  <c>-</c>
   <w>liða</w>
   <w>úrslitum</w>
   <c>,</c>
   <w>1</w>
-
+  <c>-</c>
   <w>0</w>
   <w>sigur</w>
   <w>á</w>
@@ -168,7 +181,7 @@
   </revision>
   <w>og</w>
   <w>1</w>
-  
+  <c>-</c>
   <w>0</w>
   <w>sigur</w>
   <w>á</w>

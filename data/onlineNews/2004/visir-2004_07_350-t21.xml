@@ -57,8 +57,13 @@
 <s n="3">
   <w>Nokkur</w>
   <w>þúsund</w>
-  <w>tyrkneskir</w>
-  <w>hermenn</w>
+  <revision id="1">
+    <original><w>tyrkneskir</w><w>hermenn</w></original>
+    <corrected><w>tyrkneskra</w><w>hermanna</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
   <w>eru</w>
   <w>einnig</w>
   <w>í</w>

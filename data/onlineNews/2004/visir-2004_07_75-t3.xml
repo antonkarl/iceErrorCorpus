@@ -256,6 +256,15 @@
   <w>Áróður</w>
   <w>sem</w>
   <w>skemmtiefni</w>
+  <revision id="1b">
+    <original></original>
+    <corrected><c>.</c></corrected>
+      <errors>
+        <error xtype="missing-period" eid="0" />
+      </errors>
+  </revision>
+</s>
+<s n="7b">
   <w>Tilgangurinn</w>
   <w>helgar</w>
   <w>meðalið</w>
@@ -435,15 +444,14 @@
 </s>
 <s n="12">
   <revision id="5">
-    <original><w>Menn</w><w>eru</w></original>
-    <corrected><w>Fólk</w><w>er</w></corrected>
+    <original><w>Menn</w><w>eru</w><w>annað</w><w>hvort</w></original>
+    <corrected><w>Fólk</w><w>er</w><w>annaðhvort</w></corrected>
       <errors>
         <error xtype="gendered" idx="5-1" eid="0" />
         <error xtype="dep" depId="5-1" eid="0" />
+        <error xtype="split-word" idx="5-2" eid="0" />
       </errors>
   </revision>
-  <w>annað</w>
-  <w>hvort</w>
   <revision id="6">
     <original><w>góðir</w></original>
     <corrected><w>gott</w></corrected>
@@ -469,15 +477,14 @@
   <w>á</w>
   <w>heiminn</w>
   <revision id="8">
-    <original><w>eru</w><w>menn</w></original>
-    <corrected><w>er</w><w>fólk</w></corrected>
+    <original><w>eru</w><w>menn</w><w>annað</w><w>hvort</w></original>
+    <corrected><w>er</w><w>fólk</w><w>annaðhvort</w></corrected>
       <errors>
         <error xtype="dep" depId="8-1" eid="0" />
         <error xtype="gendered" idx="8-1" eid="0" />
+        <error xtype="split-word" idx="8-2" eid="0" />
       </errors>
   </revision>
-  <w>annað</w>
-  <w>hvort</w>
   <w>með</w>
   <w>honum</w>
   <w>í</w>
@@ -898,7 +905,14 @@
   </revision>
   <w>rangtúlkanirnar</w>
   <w>og</w>
-  <w>hræsina</w>
+  <revision id="11bb">
+    <original><w>hræsina</w></original>
+    <corrected><w>hræsnina</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="11bb-1" eid="0" />
+        <error xtype="nonword" idx="11bb-1" eid="0" />
+      </errors>
+  </revision>
   <w>sem</w>
   <w>hafa</w>
   <w>einkennt</w>

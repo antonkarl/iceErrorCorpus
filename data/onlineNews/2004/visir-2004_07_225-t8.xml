@@ -98,7 +98,13 @@
   <c>.</c>
 </s>
 <s n="5">
-  <w>Þettur</w>
+  <revision id="0">
+    <original><w>Þettur</original>
+    <corrected><w>Þetta</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
   <w>kemur</w>
   <w>fram</w>
   <w>á</w>

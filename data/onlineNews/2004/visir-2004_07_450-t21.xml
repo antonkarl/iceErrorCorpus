@@ -321,7 +321,13 @@
   <w>málsins</w>
   <w>týnist</w>
   <w>í</w>
-  <w>tilganglausu</w>
+  <revision id="1c">
+    <original><w>tilganglausu</w></original>
+    <corrected><w>tilgangslausu</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
   <w>blaðri</w>
   <w>sem</w>
   <w>skiptir</w>

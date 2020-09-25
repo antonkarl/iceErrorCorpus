@@ -373,7 +373,14 @@
   <w>út</w>
   <w>og</w>
   <w>sú</w>
-  <w>ákvöxtunarkrafa</w>
+  <revision id="6b">
+    <original><w>ákvöxtunarkrafa</w></original>
+    <corrected><w>ávöxtunarkrafa</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="6b-1" eid="0" />
+        <error xtype="nonword" idx="6b-1" eid="0" />
+      </errors>
+  </revision>
   <w>sem</w>
   <w>markaðsaðilar</w>
   <w>vilja</w>
@@ -503,9 +510,16 @@
   <w>mögulegu</w>
   <w>leiðina</w>
   <w>í</w>
-  <w>lánatöku</w>
-  <c>,</c>
   <revision id="7d">
+    <original><w>lánatöku</w></original>
+    <corrected><w>lántöku</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="7d-1" eid="0" />
+        <error xtype="compound-nonword" idx="7d-1" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <revision id="7e">
     <original><c>"</c></original>
     <corrected><c>“</c></corrected>
       <errors>

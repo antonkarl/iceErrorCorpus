@@ -34,7 +34,14 @@
   <w>um</w>
   <w>að</w>
   <w>ræða</w>
-  <w>upreisnarmenn</w>
+  <revision id="1">
+    <original><w>upreisnarmenn</original>
+    <corrected><w>uppreisnarmenn</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="1-1" eid="0" />
+        <error xtype="nonword" idx="1-1" eid="0" />
+      </errors>
+  </revision>
   <w>sem</w>
   <w>leiddir</w>
   <w>eru</w>

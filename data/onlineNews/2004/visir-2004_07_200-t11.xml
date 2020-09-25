@@ -226,7 +226,13 @@
   <w>mótsgestum</w>
   <w>að</w>
   <w>þessar</w>
-  <w>stjórstjörnum</w>
+  <revision id="3b">
+    <original><w>stjórstjörnum</w></original>
+    <corrected><w>stjórstjörnur</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
   <w>hafi</w>
   <w>fallið</w>
   <w>í</w>

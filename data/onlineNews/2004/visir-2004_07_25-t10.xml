@@ -77,7 +77,14 @@
 <s n="4">
   <w>Skemmdir</w>
   <w>á</w>
-  <w>skútinni</w>
+  <revision id="3">
+    <original><w>skútunni</w></original>
+    <corrected><w>skútunnu</w></corrected>
+      <errors>
+        <error xtype="letter-rep" depId="3-1" eid="0" />
+        <error xtype="nonword" depId="3-1" eid="0" />
+      </errors>
+  </revision>
   <w>verða</w>
   <w>kannaðar</w>
   <w>í</w>

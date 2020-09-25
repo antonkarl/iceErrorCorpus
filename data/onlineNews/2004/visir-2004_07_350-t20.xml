@@ -37,8 +37,15 @@
 <s n="2">
   <w>Bandarísk</w>
   <w>kona</w>
-  <w>á</w>
-  <w>fertugsaldi</w>
+  <w>á</w>>
+  <revision id="1">
+    <original><w>fertugsaldi</w></original>
+    <corrected><w>fertugsaldri</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="1-1" eid="0" />
+        <error xtype="nonword" idx="1-1" eid="0" />
+      </errors>
+  </revision>
   <w>veitir</w>
   <w>honum</w>
   <w>nú</w>
@@ -49,7 +56,7 @@
   <w>vegi</w>
   <w>aðeins</w>
   <w>45</w>
-  
+  <c>-</c>
   <w>50</w>
   <w>kíló</w>
   <c>,</c>

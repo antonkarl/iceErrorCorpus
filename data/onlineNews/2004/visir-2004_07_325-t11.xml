@@ -68,7 +68,7 @@
   <w>konur</w>
   <w>árunum</w>
   <w>1987</w>
-  
+  <c>-</c>
   <w>2001</w>
   <c>.</c>
 </s>
@@ -77,7 +77,13 @@
   <w>sögn</w>
   <w>lögreglu</w>
   <w>leikur</w>
-  <w>ennfremur</w>
+  <revision id="0">
+    <original><w>ennfremur</w></original>
+    <corrected><w>enn</w><w>fremur</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>grunur</w>
   <w>á</w>
   <w>að</w>

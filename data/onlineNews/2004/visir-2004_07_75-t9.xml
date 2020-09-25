@@ -25,7 +25,14 @@
   <w>frá</w>
   <w>Kabúl</w>
   <w>í</w>
-  <w>Afghanistan</w>
+  <revision id="0">
+    <original><w>Afghanistan</w></original>
+    <corrected><w>Afganistan</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="0-1" eid="0" />
+        <error xtype="nonword" idx="0-1" eid="0" />
+      </errors>
+  </revision>
   <w>þar</w>
   <w>sem</w>
   <w>hann</w>
@@ -403,6 +410,13 @@
   </revision>
   <c>,</c>
   <w>vísifingrinum</w>
+  <revision id="3d">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
   <w>að</w>
   <w>Guðjóni</w>
   <w>og</w>
@@ -541,7 +555,14 @@
   <w>kosningarnar</w>
   <w>verða</w>
   <w>í</w>
-  <w>Afghanistan</w>
+  <revision id="6cb">
+    <original><w>Afghanistan</w></original>
+    <corrected><w>Afganistan</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="6cb-1" eid="0" />
+        <error xtype="nonword" idx="6cb-1" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>það</w>
   <w>er</w>

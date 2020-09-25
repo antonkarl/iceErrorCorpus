@@ -241,7 +241,14 @@
   <w>nú</w>
   <w>tæplega</w>
   <w>14 þúsund</w>
-  <w>husgsanlegra</w>
+  <revision id="6b">
+    <original><w>husgsanlegra</w></original>
+    <corrected><w>hugsanlegra</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="6b-1" eid="0" />
+        <error xtype="nonword" idx="6b-1" eid="0" />
+      </errors>
+  </revision>
   <w>skotmarka</w>
   <c>.</c>
 </s>

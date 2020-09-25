@@ -119,7 +119,13 @@
   <w>mínútur</w>
   <w>en</w>
   <w>ráðherrar</w>
-  <w>sjálfstæðisflokksins</w>
+  <revision id="0">
+    <original><w>sjálfstæðisflokksins</w></original>
+    <corrected><w>Sjálfstæðisflokksins</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
   <w>sátu</w>
   <w>sem</w>
   <w>fastast</w>

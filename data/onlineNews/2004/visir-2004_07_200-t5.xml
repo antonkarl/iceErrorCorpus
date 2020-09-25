@@ -94,7 +94,13 @@
   <w>sé</w>
   <w>á</w>
   <w>ríkisstjórninni</w>
-  <w>ogi</w>
+  <revision id="0">
+    <original><w>ogi</w></original>
+    <corrected><w>og</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
   <w>endurspeglaðist</w>
   <w>í</w>
   <w>atburðarás</w>
@@ -275,6 +281,13 @@
   <w>liðinn</w>
   <w>frá</w>
   <w>því</w>
+  <revision id="0b">
+    <original></original>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
   <w>forsetinn</w>
   <w>synjaði</w>
   <w>fjölmiðlalögunum</w>

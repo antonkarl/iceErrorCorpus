@@ -17,9 +17,15 @@
 <s n="1">
   <w>Mín</w>
   <w>skoðun</w>
+  <c>.</c>
+</s>
+<s n="1b">
   <w>Gunnar</w>
   <w>Smári</w>
   <w>Egilsson</w>
+  <c>.</c>
+</s>
+<s n="1c">
   <w>Forystumenn</w>
   <w>stjórnarflokkanna</w>
   <w>hljóta</w>
@@ -221,7 +227,13 @@
   <w>komið</w>
   <w>fram</w>
   <w>að</w>
-  <w>sjálfstæðismenn</w>
+  <revision id="0">
+    <original><w>sjálfstæðismenn</w></original>
+    <corrected><w>Sjálfstæðismenn</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
   <w>ákváðu</w>
   <w>það</w>
   <w>snemma</w>
@@ -383,6 +395,14 @@
   <w>til</w>
   <w>að</w>
   <w>dagblaðsútgáfa</w>
+  <revision id="0b">
+    <original><w>dagblaðsútgáfa</w></original>
+    <corrected><w>dagblaðaútgáfa</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="0b-1" eid="0" />
+        <error xtype="compound-nonword" idx="0b-1" eid="0" />
+      </errors>
+  </revision>
   <w>yrði</w>
   <w>gerð</w>
   <w>leyfisskyld</w>

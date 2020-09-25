@@ -158,7 +158,7 @@
   <c>„</c>
   <w>barbeque</w>
   <c>“</c>
-
+  <c>-</c>
   <w>grillmat</w>
   <w>með</w>
   <w>fólkinu</w>
@@ -188,7 +188,13 @@
   <w>eru</w>
   <w>að</w>
   <w>mati</w>
-  <w>repúblíkana</w>
+  <revision id="4b">
+    <original><w>repúblíkana</w></original>
+    <corrected><w>repúblikana</corrected>
+      <errors>
+        <error xtype="extra-accent" eid="0" />
+      </errors>
+  </revision>
   <w>einmitt</w>
   <w>ein</w>
   <w>af</w>
@@ -277,7 +283,13 @@
   <c>.</c>
 </s>
 <s n="9">
-  <w>Repúblíkanar</w>
+  <revision id="7b">
+    <original><w>Repúblíkanar</w></original>
+    <corrected><w>Repúblikanar</w></corrected>
+      <errors>
+        <error xtype="extra-accent" eid="0" />
+      </errors>
+  </revision>
   <w>ætla</w>
   <w>að</w>
   <w>verja</w>

@@ -74,7 +74,13 @@
   <w>að</w>
   <w>athuga</w>
   <w>hvort</w>
-  <w>undirbúngsvinnan</w>
+  <revision id="2b">
+    <original><w>undirbúngsvinnan</w></original>
+    <corrected><w>undirbúningsvinnan</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
   <w>væri</w>
   <w>langt</w>
   <w>á</w>

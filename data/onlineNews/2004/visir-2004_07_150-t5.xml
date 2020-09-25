@@ -191,7 +191,13 @@
   <w>af</w>
   <w>henni</w>
   <w>samþykkti</w>
-  <w>þingvallanefnd</w>
+  <revision id="4b">
+    <original><w>þingvallanefnd</w></original>
+    <corrected><w>Þingvallanefnd</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
   <w>í</w>
   <w>síðasta</w>
   <w>mánuði</w>

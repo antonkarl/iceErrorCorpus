@@ -109,7 +109,14 @@
   <w>Steingrímur</w>
   <w>segir</w>
   <w>deilur</w>
-  <w>stjórnarflokkannan</w>
+  <revision id="1b">
+    <original><w>stjórnarflokkannan</w></original>
+    <corrected><w>stjórnarflokkanna</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="1b-1" eid="0" />
+        <error xtype="nonword" idx="1b-1" eid="0" />
+      </errors>
+  </revision>
   <w>sýna</w>
   <w>fáránleg</w>
   <w>viðbrögð</w>
@@ -233,7 +240,13 @@
   <w>Það</w>
   <w>er</w>
   <w>reyndar</w>
-  <w>svoldið</w>
+  <revision id="5b">
+    <original><w>svoldið</w></original>
+    <corrected><w>svolítið</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
   <w>fyndið</w>
   <w>ef</w>
   <w>það</w>

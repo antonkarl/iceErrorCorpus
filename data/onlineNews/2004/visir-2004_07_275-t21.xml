@@ -139,7 +139,13 @@
   <w>gegn</w>
   <w>tveimur</w>
   <w>dætrum</w>
-  <w>sinna</w>
+  <revision id="1">
+    <original><w>sinna</w></original>
+    <corrected><w>sínum</w></corrected>
+      <errors>
+        <error xtype="agreement-concord" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>var</w>
   <w>talið</w>

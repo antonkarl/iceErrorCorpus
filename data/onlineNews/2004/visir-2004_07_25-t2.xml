@@ -94,7 +94,14 @@
   <c>.</c>
 </s>
 <s n="6">
-  <w>Heiðskýr</w>
+  <revision id="1b">
+    <original><w>Heiðskýr</w></original>
+    <corrected><w>Heiðskír</w></corrected>
+      <errors>
+        <error xtype="ý4í" idx="1b-1" eid="0" />
+        <error xtype="nonword" idx="1b-1" eid="0" />
+      </errors>
+  </revision>
   <w>himinn</w>
   <w>og</w>
   <w>sólin</w>
