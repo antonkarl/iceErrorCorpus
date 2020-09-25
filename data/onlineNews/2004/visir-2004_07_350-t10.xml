@@ -121,7 +121,7 @@
   <w>80</w>
   <c>/</c>
   <w>1</w>
-
+  <c>-</c>
   <w>sá</w>
   <w>sem</w>
   <w>veðjaði</w>
@@ -383,7 +383,14 @@
   <w>Eftir</w>
   <w>markið</w>
   <w>reyndu</w>
-  <w>Portúgalir</w>
+  <revision id="4b">
+    <original><w>Portúgalir</w></original>
+    <corrected><w>Portúgalar</w></corrected>
+      <errors>
+        <error xtype="letter-rep" idx="4b-1" eid="0" />
+        <error xtype="nonword" idx="4b-1" eid="0" />
+      </errors>
+  </revision>
   <w>allt</w>
   <w>hvað</w>
   <w>þeir</w>
@@ -461,7 +468,13 @@
   <w>Figo</w>
   <w>skot</w>
   <w>rétt</w>
-  <w>framhjá</w>
+  <revision id="5b">
+    <original><w>framhjá</w></original>
+    <corrected><w>fram</w><w>hjá</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>gríska</w>
   <w>markinu</w>
   <w>og</w>

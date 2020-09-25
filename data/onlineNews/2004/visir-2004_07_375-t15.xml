@@ -75,7 +75,14 @@
   <w>Jón</w>
   <w>Garðar</w>
   <w>Bjarnason</w>
-  <w>hjjá</w>
+  <revision id="1c">
+    <original><w>hjjá</w></original>
+    <corrected><w>hjá</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="0-1" eid="0" />
+        <error xtype="nonword" idx="0-1" eid="0" />
+      </errors>
+  </revision>
   <w>lögreglunni</w>
   <w>á</w>
   <w>Höfn</w>
@@ -104,7 +111,7 @@
   <c>.</c>
 </s>
 <s n="4">
-  <revision id="1c">
+  <revision id="1d">
     <original><c>&quot;</c></original>
     <corrected><c>„</c></corrected>
       <errors>
@@ -114,7 +121,13 @@
   <w>Við</w>
   <w>lentum</w>
   <w>í</w>
-  <w>minniháttar</w>
+  <revision id="2">
+    <original><w>minniháttar</w></original>
+    <corrected><w>minni</w><w>háttar</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>ólátum</w>
   <w>hjá</w>
   <w>ungmennum</w>
@@ -146,7 +159,7 @@
   <w>með</w>
   <w>hana</w>
   <c>,</c>
-  <revision id="1d">
+  <revision id="2b">
     <original><c>&quot;</c></original>
     <corrected><c>“</c></corrected>
       <errors>

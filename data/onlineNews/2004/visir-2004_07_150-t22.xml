@@ -597,7 +597,13 @@
   <w>meira</w>
   <w>vald</w>
   <w>en</w>
-  <w>danakonungur</w>
+  <revision id="10c">
+    <original><w>danakonungur</w></original>
+    <corrected><w>Danakonungur</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
   <w>hafði</w>
   <w>áður</w>
   <w>haft</w>

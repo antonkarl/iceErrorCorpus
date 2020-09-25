@@ -97,8 +97,13 @@
   <w>frá</w>
   <w>Abu</w>
   <w>Hafs</w>
-  <w>al-Masri</w>
-  <w>herdeildinni</w>
+  <revision id="2">
+    <original><w>al-Masri</w><w>herdeildinni</w></original>
+    <corrected><w>al-Masri-herdeildinni</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
   <w>sem</w>
   <w>stóð</w>
   <w>fyrir</w>

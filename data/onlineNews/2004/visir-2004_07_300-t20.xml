@@ -122,6 +122,14 @@
   <w>verið</w>
   <w>hjá</w>
   <w>kepppendum</w>
+  <revision id="0">
+    <original><w>kepppendum</w></original>
+    <corrected><w>keppendum</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="0-1" eid="0" />
+        <error xtype="nonword" idx="0-1" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="7">
@@ -257,6 +265,14 @@
   <w>fengið</w>
   <w>að</w>
   <w>pufukeyra</w>
+  <revision id="0b">
+    <original><w>pufukeyra</w></original>
+    <corrected><w>prufukeyra</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="0b-1" eid="0" />
+        <error xtype="nonword" idx="0b-1" eid="0" />
+      </errors>
+  </revision>
   <w>í</w>
   <w>morgun</w>
   <w>glænýjan</w>

@@ -51,7 +51,13 @@
   <w>dansaranum</w>
   <w>eftir</w>
   <w>að</w>
-  <w>haft</w>
+  <revision id="1b">
+    <original><w>haft</w></original>
+    <corrected><w>hafa</w></corrected>
+      <errors>
+        <error xtype="letter-rep" eid="0" />
+      </errors>
+  </revision>
   <w>kysst</w>
   <c>,</c>
   <w>að</w>

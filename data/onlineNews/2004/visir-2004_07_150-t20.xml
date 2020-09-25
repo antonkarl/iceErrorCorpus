@@ -256,7 +256,13 @@
 <s n="10">
   <w>Úthlutanir</w>
   <w>menningarsjóðs</w>
-  <w>Í</w>
+  <revision id="2b">
+    <original><w>Í</w></original>
+    <corrected><w>í</w></corrected>
+      <errors>
+        <error xtype="upper4lower-noninitial" eid="0" />
+      </errors>
+  </revision>
   <w>lok</w>
   <w>maí</w>
   <w>var</w>

@@ -36,7 +36,14 @@
   <w>Varað</w>
   <w>var</w>
   <w>við</w>
-  <w>hryðjuverkárásum</w>
+  <revision id="0">
+    <original><w>hryðjuverkárásum</w></original>
+    <corrected><w>hryðjuverkaárásum</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="0-1" eid="0" />
+        <error xtype="nonword" idx="0-1" eid="0" />
+      </errors>
+  </revision>
   <w>á</w>
   <w>vegum</w>
   <w>al-Kaída</w>

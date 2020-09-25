@@ -80,7 +80,14 @@
   <c>,</c>
   <w>stökk</w>
   <w>46 sm</w>
-  <w>lenga</w>
+  <revision id="1">
+    <original><w>lenga</w></original>
+    <corrected><w>lengra</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="1-1" eid="0" />
+        <error xtype="nonword" idx="1-1" eid="0" />
+      </errors>
+  </revision>
   <w>en</w>
   <w>næsti</w>
   <w>keppandi</w>

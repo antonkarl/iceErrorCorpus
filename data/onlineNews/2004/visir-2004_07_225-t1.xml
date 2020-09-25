@@ -111,7 +111,14 @@
   <w>er</w>
   <w>eigandi</w>
   <w>Gunnars</w>
-  <w>majones</w>
+  <revision id="3b">
+    <original><w>majones</w></original>
+    <corrected><w>majónes</w></corrected>
+      <errors>
+        <error xtype="missing-accent" idx="3b-1" eid="0" />
+        <error xtype="nonword" idx="3b-1" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="5">

@@ -150,7 +150,13 @@
   <w>verða</w>
   <w>ríkisstjórninni</w>
   <w>mjög</w>
-  <w>þungbæra</w>
+  <revision id="2b">
+    <original><w>þungbæra</w></original>
+    <corrected><w>þungbær</w></corrected>
+      <errors>
+        <error xtype="agreement-pred" eid="0" />
+      </errors>
+  </revision>
   <w>því</w>
   <w>flokkarnir</w>
   <w>tveir</w>

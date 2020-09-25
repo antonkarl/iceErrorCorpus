@@ -497,8 +497,15 @@
       </errors>
   </revision>
   <w>reykfylltum</w>
-  <w>bakherbergum</w>
   <revision id="4c">
+    <original><w>bakherbergum</w></original>
+    <corrected><w>bakherbergjum</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="4c-1" eid="0" />
+        <error xtype="nonword" idx="4c-1" eid="0" />
+      </errors>
+  </revision>
+  <revision id="4d">
     <original><c>"</c></original>
     <corrected><c>“</c></corrected>
       <errors>

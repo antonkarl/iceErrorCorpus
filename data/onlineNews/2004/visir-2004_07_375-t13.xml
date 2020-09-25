@@ -227,9 +227,16 @@
   <w>ætti</w>
   <w>að</w>
   <w>hegða</w>
-  <w>þjóðarakvæðagreiðslu</w>
-  <c>.</c>
   <revision id="3b">
+    <original><w>þjóðarakvæðagreiðslu</w></original>
+    <corrected><w>þjóðaratkvæðagreiðslu</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="3b-1" eid="0" />
+        <error xtype="nonword" idx="3b-1" eid="0" />
+      </errors>
+  </revision>
+  <c>.</c>
+  <revision id="3c">
     <original><c>&quot;</c></original>
     <corrected><c>“</c></corrected>
       <errors>

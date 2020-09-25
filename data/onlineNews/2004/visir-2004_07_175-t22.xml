@@ -14,7 +14,7 @@
   </fileDesc>
 </teiHeader>
 <text><body><p n="1">
-<s>
+<s n="0">
   <revision id="1">
     <original><c>...</c></original>
     <corrected><w>Vissir</w><w>þú</w></corrected>
@@ -206,6 +206,13 @@
   <w>þú</w>
   <w>neytir</w>
   <w>einum</w>
+  <revision id="10b">
+    <original><w>einum</w></original>
+    <corrected><w>eins</w></corrected>
+      <errors>
+        <error xtype="agreement-concord" eid="0" />
+      </errors>
+  </revision>
   <w>tíunda</w>
   <w>af</w>
   <w>kaloríu</w>
@@ -214,6 +221,15 @@
   <w>að</w>
   <w>sleikja</w>
   <w>frímerki</w>
+  <revision id="10c">
+    <original></original>
+    <corrected><c>?</c></corrected>
+      <errors>
+        <error xtype="missing-qm" eid="0" />
+      </errors>
+  </revision>
+</s>
+<s n="8b">
   <revision id="11">
     <original><c>...</c></original>
     <corrected><w>Vissir</w><w>þú</w></corrected>
@@ -290,7 +306,13 @@
   <w>skerð</w>
   <w>lauk</w>
   <w>þá</w>
-  <w>græturðu</w>
+  <revision id="13b">
+    <original><w>græturðu</w></original>
+    <corrected><w>grætur</w><w>þú</w></corrected>
+      <errors>
+        <error xtype="bad-contraction" eid="0" />
+      </errors>
+  </revision>
   <w>ekkert</w>
   <w>á</w>
   <w>meðan</w>

@@ -72,7 +72,13 @@
   <w>getið</w>
   <w>að</w>
   <w>ekki</w>
-  <w>værið</w>
+  <revision id="0">
+    <original><w>værið</w></original>
+    <corrected><w>væri</w></corrected>
+      <errors>
+        <error xtype="extra-letter" eid="0" />
+      </errors>
+  </revision>
   <w>búið</w>
   <w>að</w>
   <w>ganga</w>

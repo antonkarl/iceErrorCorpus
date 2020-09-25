@@ -94,7 +94,13 @@
   <w>yfir</w>
   <w>á</w>
   <w>24.</w>
-  <w>mínútur</w>
+  <revision id="0">
+    <original><w>mínútur</w></original>
+    <corrected><w>mínútu</w></corrected>
+      <errors>
+        <error xtype="plural4singular" eid="0" />
+      </errors>
+  </revision>
   <w>þegar</w>
   <w>Björgólfur</w>
   <w>skoraði</w>
@@ -103,7 +109,14 @@
   <w>færi</w>
   <w>eftir</w>
   <w>góðan</w>
-  <w>undirbúing</w>
+  <revision id="0b">
+    <original><w>undirbúing</w></original>
+    <corrected><w>undirbúning</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="0b-1" eid="0" />
+        <error xtype="nonword" idx="0b-1" eid="0" />
+      </errors>
+  </revision>
   <w>Sævars</w>
   <w>Þórs</w>
   <w>Gíslasonar</w>
@@ -522,8 +535,13 @@
   <w>þegar</w>
   <w>fyrirgjöf</w>
   <w>Ágústs</w>
-  <w>Þór</w>
-  <w>Gylfason</w>
+  <revision id="0">
+    <original><w>Þór</w><w>Gylfason</w></original>
+    <corrected><w>Þórs</w><w>Gylfasonar</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
   <w>sigldi</w>
   <w>alla</w>
   <w>leið</w>

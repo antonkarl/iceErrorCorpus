@@ -62,7 +62,14 @@
   <w>eigi</w>
   <w>eftir</w>
   <w>að</w>
-  <w>legga</w>
+  <revision id="0">
+    <original><w>legga</w></original>
+    <corrected><w>leggja</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="0-1" eid="0" />
+        <error xtype="nonword" idx="0-1" eid="0" />
+      </errors>
+  </revision>
   <w>leið</w>
   <w>sína</w>
   <w>þangað</w>
@@ -147,7 +154,13 @@
   <w>hvítt</w>
   <w>steinhús</w>
   <w>á</w>
-  <w>bakvið</w>
+  <revision id="4b">
+    <original><w>bakvið</w></original>
+    <corrected><w>bak</w><w>við</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>Þjóðleikhúsið</w>
   <c>,</c>
   <w>milli</w>

@@ -95,7 +95,13 @@
 </s>
 <s n="5">
   <w>Síðan</w>
-  <w>ferð</w>
+  <revision id="1b">
+    <original><w>fer</w></original>
+    <corrected><w>ferð</w></corrected>
+      <errors>
+        <error xtype="extra-letter" eid="0" />
+      </errors>
+  </revision>
   <w>það</w>
   <w>til</w>
   <w>Nordkapp</w>

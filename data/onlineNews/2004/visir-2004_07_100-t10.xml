@@ -51,7 +51,13 @@
 <s n="2">
   <w>Hann</w>
   <w>sagðist</w>
-  <w>ennþá</w>
+  <revision id="1b">
+    <original><w>ennþá</w></original>
+    <corrected><w>enn</w><w>þá</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>vera</w>
   <w>forseti</w>
   <w>Íraks</w>

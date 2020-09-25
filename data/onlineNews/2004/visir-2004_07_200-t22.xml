@@ -263,7 +263,14 @@
   <w>í</w>
   <w>riðli</w>
   <w>með</w>
-  <w>Búlgörum</w>
+  <revision id="2">
+    <original><w>Búlgörum</w></original>
+    <corrected><w>Búlgurum</w></corrected>
+      <errors>
+        <error xtype="letter-rep" idx="2-1" eid="0" />
+        <error xtype="nonword" idx="2-1" eid="0" />
+      </errors>
+  </revision>
   <w>í</w>
   <w>undankeppni</w>
   <w>HM</w>

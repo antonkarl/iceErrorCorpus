@@ -191,7 +191,14 @@
   <w>umfjöllun</w>
   <w>Alþingis</w>
   <w>um</w>
-  <w>stjórarskrárfrumvarpið</w>
+  <revision id="2b">
+    <original><w>stjórarskrárfrumvarpið</w></original>
+    <corrected><w>stjórnarskrárfrumvarpið</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="2b-1" eid="0" />
+        <error xtype="nonword" idx="2b-1" eid="0" />
+      </errors>
+  </revision>
   <w>frá</w>
   <w>árinu 1944</w>
   <c>,</c>
@@ -276,13 +283,21 @@
   <w>tiltekið</w>
   <w>lágmark</w>
   <w>kosningaþátttökur</w>
+  <revision id="2c">
+    <original><w>kosningaþátttökur</w></original>
+    <corrected><w>kosningaþátttöku</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="2c-1" eid="0" />
+        <error xtype="nonword" idx="2c-1" eid="0" />
+      </errors>
+  </revision>
   <w>eða</w>
   <w>við</w>
   <w>samþykki</w>
   <w>aukins</w>
   <w>meirihluta</w>
   <c>.</c>
-  <revision id="2c">
+  <revision id="2d">
     <original><c>"</c></original>
     <corrected><c>“</c></corrected>
       <errors>
@@ -307,6 +322,14 @@
   <w>skilyrði</w>
   <w>um</w>
   <w>lágmarksþáttöku</w>
+  <revision id="2e">
+    <original><w>lágmarksþáttöku</w></original>
+    <corrected><w>lágmarksþátttöku</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="2e-1" eid="0" />
+        <error xtype="nonword" idx="2e-1" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>aukinn</w>
   <w>meirihluta</w>
@@ -433,7 +456,13 @@
   <w>snúi</w>
   <w>að</w>
   <w>stjórnarskránni</w>
-  <w>verða</w>
+  <revision id="3b">
+    <original><w>verða</w></original>
+    <corrected><w>verði</w></corrected>
+      <errors>
+        <error xtype="agreement-pred" eid="0" />
+      </errors>
+  </revision>
   <w>að</w>
   <w>bíða</w>
   <w>síns</w>

@@ -178,7 +178,14 @@
   <c>.</c>
 </s>
 <s n="7">
-  <w>Fjörtíu</w>
+  <revision id="4b">
+    <original><w>Fjörtíu</w></original>
+    <corrected><w>Fjörutíu</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="4b-1" eid="0" />
+        <error xtype="nonword" idx="4b-1" eid="0" />
+      </errors>
+  </revision>
   <w>þúsund</w>
   <w>lögreglumenn</w>
   <c>,</c>
@@ -190,7 +197,13 @@
   <w>gæta</w>
   <w>leikvanganna</w>
   <c>,</c>
-  <w>ólympíuþorpsins</w>
+  <revision id="4c">
+    <original><w>ólympíuþorpsins</w></original>
+    <corrected><w>Ólympíuþorpsins</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>þar</w>
   <w>sem</w>
