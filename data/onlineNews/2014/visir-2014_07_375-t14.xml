@@ -256,7 +256,14 @@
   <w>Hann</w>
   <w>segir</w>
   <w>að</w>
-  <w>kúbændur</w>
+  <revision id="5a">
+    <original><w>kúbændur</w></original>
+    <corrected><w>kúabændur</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="5a-1" eid="0" />
+        <error xtype="compound-nonword" idx="5a-1" eid="0" />
+      </errors>
+  </revision>
   <w>megi</w>
   <w>mjólka</w>
   <w>eins</w>
@@ -274,7 +281,13 @@
   <w>mikil</w>
   <w>eftirspurn</w>
   <w>eftir</w>
-  <w>hverskyns</w>
+  <revision id="5a">
+    <original><w>hverskyns</w></original>
+    <corrected><w>hvers</w><w>kyns</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>mjólkurafurðum</w>
   <c>.</c>
 </s>
@@ -340,7 +353,14 @@
   <w>vegna</w>
   <w>aukins</w>
   <w>fjölda</w>
-  <w>ferðmanna</w>
+  <revision id="7a">
+    <original><w>ferðmanna</w></original>
+    <corrected><w>ferðamanna</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="7a-1" eid="0" />
+        <error xtype="compound-nonword" idx="7a-1" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>líka</w>
   <w>vegna</w>
