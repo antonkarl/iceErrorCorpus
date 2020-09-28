@@ -241,7 +241,13 @@
   <w>þar</w>
   <w>má</w>
   <w>finna</w>
-  <w>margskonar</w>
+  <revision id="2a">
+    <original><w>margskonar</w></original>
+    <corrected><w>margs</w><w>konar</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>brúkshluti</w>
   <c>,</c>
   <w>ljósmyndir</w>
