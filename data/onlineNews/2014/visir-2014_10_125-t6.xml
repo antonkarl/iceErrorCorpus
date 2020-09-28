@@ -840,7 +840,13 @@
   <w>fólk</w>
   <w>vilji</w>
   <w>oft</w>
-  <w>á</w>
+  <revision id="11c">
+    <original><w>á</w></original>
+    <corrected><w>og</w></corrected>
+      <errors>
+        <error xtype="collocation-idiom" eid="0" />
+      </errors>
+  </revision>
   <w>tíðum</w>
   <w>sem</w>
   <w>minnst</w>
