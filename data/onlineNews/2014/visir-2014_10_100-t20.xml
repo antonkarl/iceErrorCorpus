@@ -69,7 +69,13 @@
   <w>var</w>
   <w>að</w>
   <w>syngja</w>
-  <w>inná</w>
+  <revision id="3a">
+    <original><w>inná</w></original>
+    <corrected><w>inn</w><w>á</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>teiknimynd</w>
   <revision id="4">
     <original><c>,</c></original>
