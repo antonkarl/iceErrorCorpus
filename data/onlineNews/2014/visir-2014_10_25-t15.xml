@@ -267,7 +267,13 @@
   <w>ákveðnu</w>
   <w>tímabili</w>
   <w>á</w>
-  <w>fyrirfram</w>
+  <revision id="2a">
+    <original><w>fyrirfram</w></original>
+    <corrected><w>fyrir</w><w>fram</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>ákveðnu</w>
   <w>gengi</w>
   <c>.</c>
