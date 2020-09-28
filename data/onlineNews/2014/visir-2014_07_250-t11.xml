@@ -46,7 +46,14 @@
   <w>inn</w>
   <w>rúm</w>
   <w>400</w>
-  <w>tonnn</w>
+  <revision id="1a">
+    <original><w>tonnn</w></original>
+    <corrected><w>tonn</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="1a-1" eid="0" />
+        <error xtype="nonword" idx="1a-1" eid="0" />
+      </errors>
+  </revision>
   <w>af</w>
   <w>svínakjöti</w>
   <c>,</c>
@@ -81,7 +88,14 @@
   <w>hefur</w>
   <w>verið</w>
   <w>um</w>
-  <w>innfluting</w>
+  <revision id="1b">
+    <original><w>innflutning</w></original>
+    <corrected><w>innflutning</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="1b-1" eid="0" />
+        <error xtype="compound-nonword" idx="1b-1" eid="0" />
+      </errors>
+  </revision>
   <w>á</w>
   <w>kjöti</w>
   <w>að</w>
