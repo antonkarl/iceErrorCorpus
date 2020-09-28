@@ -114,7 +114,14 @@
   <c>.</c>
 </s>
 <s n="5">
-  <w>Samanlangt</w>
+  <revision id="1a">
+    <original><w>samanlangt</w></original>
+    <corrected><w>samanlagt</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="1a-1" eid="0" />
+        <error xtype="nonword" idx="1a-1" eid="0" />
+      </errors>
+  </revision>
   <w>er</w>
   <w>Ísland</w>
   <w>í</w>
