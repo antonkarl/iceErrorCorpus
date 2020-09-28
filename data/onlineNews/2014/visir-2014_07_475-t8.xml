@@ -236,7 +236,14 @@
   <w>er</w>
   <w>þekktur</w>
   <w>fyrir</w>
-  <w>skemmtlegan</w>
+  <revision id="16">
+    <original><w>skemmtlegan</w></original>
+    <corrected><w>skemmtilegan</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="16a-1" eid="0" />
+        <error xtype="nonword" idx="16a-1" eid="0" />
+      </errors>
+  </revision>
   <w>karate</w>
   <w>stíl</w>
   <w>í</w>
@@ -594,7 +601,14 @@
   <w>styrkleikalista</w>
   <w>UFC</w>
   <w>í</w>
-  <w>þyngdarflokkinum</w>
+  <revision id="21a">
+    <original><w>þyngdarflokkinum</w></original>
+    <corrected><w>þyngdarflokknum</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="21a-1" eid="0" />
+        <error xtype="compound-nonword" idx="21a-1" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="19">
