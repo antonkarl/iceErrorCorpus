@@ -53,7 +53,14 @@
   <w>lýsa</w>
   <w>þá</w>
   <w>upp</w>
-  <w>himininnn</w>
+  <revision id="1b">
+    <original><w>himininnn</w></original>
+    <corrected><w>himininn</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="1a-1" eid="0" />
+        <error xtype="nonword" idx="1a-1" eid="0" />
+      </errors>
+  </revision>
   <w>yfir</w>
   <w>hafi</w>
   <revision id="2">
