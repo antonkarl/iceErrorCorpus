@@ -156,7 +156,14 @@
   <c>,</c>
   <w>fyrrverandi</w>
   <w>forseta</w>
-  <w>Úrkarínu</w>
+  <revision id="3a">
+    <original><w>Úrkarínu</w></original>
+    <corrected><w>Úkraínu</w></corrected>
+      <errors>
+        <error xtype="swapped-letters" idx="3a-1" eid="0" />
+        <error xtype="nonword" idx="3a-1" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>eða</w>
   <w>hafa</w>
