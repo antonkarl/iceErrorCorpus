@@ -236,7 +236,14 @@
   <c>,</c>
   <w>nú</w>
   <w>eða</w>
-  <w>jarðaberjamjólk</w>
+  <revision id="6a">
+    <original><w>jarðaberjamjólk</w></original>
+    <corrected><w>jarðarberjamjólk</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="6a-1" eid="0" />
+        <error xtype="compound-nonword" idx="6a-1" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="9">
