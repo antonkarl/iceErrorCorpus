@@ -114,7 +114,14 @@
   <w>heimavelli</w>
   <w>á</w>
   <w>móti</w>
-  <w>Kasaktsan</w>
+  <revision id="3a">
+    <original><w>Kasaktsan</w></original>
+    <corrected><w>Kasakstan</w></corrected>
+      <errors>
+        <error xtype="swapped-letter" idx="3a-1" eid="0" />
+        <error xtype="nonword" idx="3a-1" eid="0" />
+      </errors>
+  </revision>
   <w>í</w>
   <w>síðasta</w>
   <w>leik</w>
