@@ -141,7 +141,14 @@
   <w>Gunnarssonar</w>
   <c>,</c>
   <w>þáverandi</w>
-  <w>hreppsstjóra</w>
+  <revision id="2a">
+    <original><w>hreppsstjóra</w></original>
+    <corrected><w>hreppstjóra</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="2a-1" eid="0" />
+        <error xtype="compound-nonword" idx="2a-1" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>en</w>
   <w>Ólafur</w>
