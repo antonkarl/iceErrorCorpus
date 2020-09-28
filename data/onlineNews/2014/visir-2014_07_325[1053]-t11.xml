@@ -670,7 +670,14 @@
 </s>
 <s n="23">
   <w>Þegar</w>
-  <w>ungmennana</w>
+  <revision id="7a">
+    <original><w>ungmennana</w></original>
+    <corrected><w>ungmennanna</w></corrected>
+      <errors>
+        <error xtype="n4nn" idx="7a-1" eid="0" />
+        <error xtype="nonword" idx="7a-1" eid="0" />
+      </errors>
+  </revision>
   <w>var</w>
   <w>saknað</w>
   <w>fordæmdi</w>
