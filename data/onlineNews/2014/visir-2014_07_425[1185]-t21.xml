@@ -67,8 +67,13 @@
   <w>öðru</w>
   <w>sæti</w>
   <w>í</w>
-  <w>næst</w>
-  <w>efstu</w>
+    <revision id="1a">
+    <original><w>næst</w><w>efstu</w></original>
+    <corrected><w>næstefstu</w></corrected>
+      <errors>
+        <error xtype="split-word" eid="0" />
+      </errors>
+  </revision>
   <w>deild</w>
   <w>þar</w>
   <w>í</w>
