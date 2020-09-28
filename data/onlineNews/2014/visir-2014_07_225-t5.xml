@@ -557,7 +557,13 @@
   <w>hann</w>
   <w>Hemma</w>
   <w>á</w>
-  <w>háfinum</w>
+  <revision id="7a">
+    <original><w>háfinum</w></original>
+    <corrected><w>háfnum</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="21">
