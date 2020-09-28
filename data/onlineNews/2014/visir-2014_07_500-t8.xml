@@ -327,7 +327,13 @@
   <w>engan</w>
   <w>veginn</w>
   <w>í</w>
-  <w>takt</w>
+  <revision id="8a">
+    <original><w>takt</w></original>
+    <corrected><w>takti</w></corrected>
+      <errors>
+        <error xtype="collocation-idiom" eid="0" />
+      </errors>
+  </revision>
   <w>við</w>
   <w>leikinn</w>
   <w>og</w>
