@@ -188,7 +188,13 @@
 </s><s n="9">
   <c>„</c>
   <w>Ertu</w>
-  <w>ennþá</w>
+  <revision id="4a">
+    <original><w>ennþá</w></original>
+    <corrected><w>enn</w><w>þá</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>að</w>
   <w>búa</w>
   <w>til</w>
