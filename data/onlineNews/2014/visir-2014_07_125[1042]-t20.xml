@@ -392,7 +392,14 @@
   <c>,</c>
   <w>deildarstjóri</w>
   <w>hjá</w>
-  <w>forvarnardeild</w>
+  <revision id="3a">
+    <original><w>forvarnardeild</w></original>
+    <corrected><w>forvarnadeild</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="3a-1" eid="0" />
+        <error xtype="compound-nonword" idx="3a-1" eid="0" />
+      </errors>
+  </revision>
   <w>Slökkviliðsins</w>
   <w>sem</w>
   <w>sinnir</w>
@@ -447,7 +454,13 @@
   <w>hefur</w>
   <w>lagt</w>
   <w>mikið</w>
-  <w>i</w>
+  <revision id="3b">
+    <original><w>i</w></original>
+    <corrected><w>í</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <w>eldvarnir</w>
   <w>og</w>
   <w>er</w>
@@ -495,7 +508,14 @@
 </s>
 <s n="17">
   <w>Mikill</w>
-  <w>samhjómur</w>
+  <revision id="5a">
+    <original><w>samhjómur</w></original>
+    <corrected><w>samhljómur</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="5a-1" eid="0" />
+        <error xtype="compound-nonword" idx="5a-1" eid="0" />
+      </errors>
+  </revision>
   <w>þarf</w>
   <w>því</w>
   <w>væntanlega</w>
