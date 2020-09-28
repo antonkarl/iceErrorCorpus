@@ -413,7 +413,6 @@
   <w>með</w>
   <w>Airbus</w>
   <w>A</w>
-
   <w>319</w>
   <c>.</c>
 </s>
@@ -429,7 +428,14 @@
   <w>sögu</w>
   <w>Færeyjaflugs</w>
   <w>frá</w>
-  <w>Reykjavk</w>
+  <revision id="6a">
+    <original><w>Reykjavk</w></original>
+    <corrected><w>Reykjavík</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="6a-1" eid="0" />
+        <error xtype="nonword" idx="6a-1" eid="0" />
+      </errors>
+  </revision>
   <w>ljúki</w>
   <w>endanlega</w>
   <w>eftir</w>
