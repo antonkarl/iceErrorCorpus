@@ -120,7 +120,14 @@
   <w>vil</w>
   <w>ég</w>
   <w>bara</w>
-  <w>fra</w>
+  <revision id="1a">
+    <original><w>fra</w></original>
+    <corrected><w>fara</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="1a-1" eid="0" />
+        <error xtype="nonword" idx="1a-1" eid="0" />
+      </errors>
+  </revision>
   <w>í</w>
   <w>frí</w>
   <w>og</w>
