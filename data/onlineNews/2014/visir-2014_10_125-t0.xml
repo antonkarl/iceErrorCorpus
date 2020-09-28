@@ -172,7 +172,13 @@
   <w>á</w>
   <w>Laugardalsvellinum</w>
   <w>en</w>
-  <w>framundan</w>
+  <revision id="5a">
+    <original><w>framundan</w></original>
+    <corrected><w>fram</w><w>undan</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>er</w>
   <w>leikur</w>
   <w>við</w>
