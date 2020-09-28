@@ -136,7 +136,14 @@
   <w>mark</w>
   <w>beint</w>
   <w>úr</w>
-  <w>aukspyrnu</w>
+  <revision id="2a">
+    <original><w>aukspyrnu</w></original>
+    <corrected><w>aukaspyrnu</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="2a-1" eid="0" />
+        <error xtype="compound-nonword" idx="2a-1" eid="0" />
+      </errors>
+  </revision>
   <w>í</w>
   <w>leiknum</w>
   <w>og</w>
