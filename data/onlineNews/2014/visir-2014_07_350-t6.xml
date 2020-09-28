@@ -568,7 +568,13 @@
   <w>sprungu</w>
   <w>gaskútar</w>
   <w>og</w>
-  <w>allskonar</w>
+  <revision id="15a">
+    <original><w>allskonar</w></original>
+    <corrected><w>alls</w><w>konar</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>þannig</w>
   <w>efni</w>
   <c>.</c>
