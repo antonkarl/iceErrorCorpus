@@ -85,7 +85,13 @@
   <w>þegar</w>
   <w>hann</w>
   <w>var</w>
-  <w>ungabarn</w>
+  <revision id="0">
+    <original><w>ungabarn</w></original>
+    <corrected><w>ungbarn</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="5">

@@ -52,7 +52,13 @@
 <s n="2">
   <w>Að</w>
   <w>sögn</w>
-  <w>finnskra</w>
+  <revision id="1b">
+    <original><w>finnskra</w></original>
+    <corrected><w>finnska</w></corrected>
+      <errors>
+        <error xtype="agreement-concord" eid="0" />
+      </errors>
+  </revision>
   <w>dagblaðsins</w>
   <w>Salomat</w>
   <w>fjárfesti</w>
@@ -139,7 +145,13 @@
   <w>hafa</w>
   <w>hleypt</w>
   <w>af</w>
-  <w>tvemur</w>
+  <revision id="1c">
+    <original><w>tvemur</w></original>
+    <corrected><w>tveimur</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
   <w>til</w>
   <w>þremur</w>
   <w>skotum</w>

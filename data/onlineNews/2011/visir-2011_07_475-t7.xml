@@ -65,7 +65,13 @@
   <w>og</w>
   <w>kókaín</w>
   <w>fundust</w>
-  <w>i</w>
+  <revision id="1">
+    <original><w>i</w></original>
+    <corrected><w>í</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <w>fórum</w>
   <w>hennar</w>
   <c>.</c>

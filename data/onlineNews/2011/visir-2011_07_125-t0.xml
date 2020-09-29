@@ -136,7 +136,13 @@
   <w>þverbrjóti</w>
   <w>reglur</w>
   <w>um</w>
-  <w>myndrétt</w>
+  <revision id="2b">
+    <original><w>myndrétt</w></original>
+    <corrected><w>höfundarrétt</corrected>
+      <errors>
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>elti</w>
   <w>uppi</w>

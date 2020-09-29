@@ -97,7 +97,14 @@
   <w>stærsta</w>
   <w>hvað</w>
   <w>íslenska</w>
-  <w>loðdýrbændur</w>
+  <revision id="0">
+    <original><w>loðdýrbændur</w></original>
+    <corrected><w>loðdýrabændur</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="0-1" eid="0" />
+        <error xtype="compound-nonword" idx="0-1" eid="0" />
+      </errors>
+  </revision>
   <w>varðar</w>
   <c>.</c>
 </s>
@@ -120,7 +127,7 @@
   <w>á</w>
   <w>lofti</w>
   <c>,</c>
-  <revision id="0">
+  <revision id="0b">
     <original><c>&quot;</c></original>
     <corrected><c>“</c></corrected>
       <errors>

@@ -30,7 +30,13 @@
         <error xtype="wording" eid="0" />
       </errors>
   </revision>
-  <w>Aga- og úrskurðarnefnd</w>
+  <revision id="1b">
+    <original><w>Aga- og úrskurðarnefnd</w></original>
+    <corrected><w>aga- og úrskurðarnefnd</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
   <w>KSÍ</w>
   <w>vegna</w>
   <w>ummæla</w>

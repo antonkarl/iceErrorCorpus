@@ -68,6 +68,13 @@
 <s n="4">
   <w>Verk</w>
   <w>ítalans</w>
+  <revision id="2b">
+    <original><w>ítalans</w></original>
+    <corrected><w>Ítalans</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
   <w>Claudio</w>
   <w>Parmaggiani</w>
   <w>var</w>

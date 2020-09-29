@@ -53,7 +53,14 @@
   <w>lokunarinnar</w>
   <w>og</w>
   <w>fyrirhugaðs</w>
-  <w>elgoss</w>
+  <revision id="0">
+    <original><w>elgoss</w></original>
+    <corrected><w>eldgoss</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="0-1" eid="0" />
+        <error xtype="nonword" idx="0-1" eid="0" />
+      </errors>
+  </revision>
   <w>er</w>
   <w>bent</w>
   <w>á</w>

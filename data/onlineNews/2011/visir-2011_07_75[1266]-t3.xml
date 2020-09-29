@@ -125,7 +125,13 @@
   <w>Ekki</w>
   <w>sé</w>
   <w>vitað</w>
-  <w>ennþá</w>
+  <revision id="3b">
+    <original><w>ennþá</w></original>
+    <corrected><w>enn</w><w>þá</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>hve</w>
   <w>mörgum</w>
   <c>.</c>

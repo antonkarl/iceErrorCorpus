@@ -203,7 +203,14 @@
   <w>stærsta</w>
   <w>nafninu</w>
   <w>í</w>
-  <w>tískuheiminun</w>
+  <revision id="4b">
+    <original><w>tískuheiminun</w></original>
+    <corrected><w>tískuheiminum</w></corrected>
+      <errors>
+        <error xtype="letter-rep" idx="4b-1" eid="0" />
+        <error xtype="nonword" idx="4b-1" eid="0" />
+      </errors>
+  </revision>
   <c>„</c>
   <w>segir</w>
   <w>Arnar</w>
@@ -225,7 +232,16 @@
   <w>sem</w>
   <w>og</w>
   <w>erlendis</w>
+  <revision id="4c">
+    <original></original>
+    <corrected><c>.</c></corrected>
+      <errors>
+        <error xtype="missing-period" eid="0" />
+      </errors>
+  </revision>
   <c>“</c>
+</s>
+<s n="8b">
   <w>Aukið</w>
   <w>fjármagn</w>
   <w>hefur</w>
@@ -243,7 +259,13 @@
   <w>verkefni</w>
   <w>sem</w>
   <w>eru</w>
-  <w>framundan</w>
+  <revision id="4d">
+    <original><w>framundan</w></original>
+    <corrected><w>fram</w><w>undan</w></corrected>
+      <errors>
+        <error xtype="repeat-word" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="9">

@@ -262,8 +262,13 @@
   <w>Heimir</w>
   <w>Már</w>
   <w>er</w>
-  <w>ágætis</w>
-  <w>textahöfundur</w>
+  <revision id="5b">
+    <original><w>ágætis</w><w>textahöfundur</w></original>
+    <corrected><w>ágætistextahöfundur</w></corrected>
+      <errors>
+        <error xtype="split-compound" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>textarnir</w>
   <w>gefa</w>
