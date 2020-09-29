@@ -337,7 +337,14 @@
   <w>mjólkurtorg</w>
   <w>í</w>
   <w>miðbæ</w>
-  <w>Reyjavíkur</w>
+  <revision id="3a">
+    <original><w>Reyjavíkur</w></original>
+    <corrected><w>Reykjavíkur</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="3a-1" eid="0" />
+        <error xtype="nonword" idx="3a-1" eid="0" />
+      </errors>
+  </revision>
   <w>í</w>
   <w>sumar</w>
   <w>þar</w>
