@@ -145,7 +145,13 @@
   <c>.</c>
 </s>
 <s n="5">
-  <w>Blaðmannernir</w>
+  <revision id="1">
+    <original><w>Blaðmannernir</w></original>
+    <corrected><w>Blaðamennirnir</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
   <w>eyddu</w>
   <w>nokkrum</w>
   <w>skilaboðum</w>

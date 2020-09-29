@@ -118,7 +118,13 @@
   <w>mikil</w>
   <w>lyftistöng</w>
   <w>fyrir</w>
-  <w>tælenskan</w>
+  <revision id="4b">
+    <original><w>tælenskan</w></original>
+    <corrected><w>taílenskan</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
   <w>fótbolta</w>
   <w>fyrst</w>
   <w>jafn</w>

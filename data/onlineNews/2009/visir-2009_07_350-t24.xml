@@ -75,14 +75,28 @@
   <c>.</c>
 </s>
 <s n="4">
-  <w>Bensínssprengjum</w>
+  <revision id="1b">
+    <original><w>Bensínssprengjum</w></original>
+    <corrected><w>Bensínsprengjum</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="1b-1" eid="0" />
+        <error xtype="compound-nonword" idx="1b-1" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>grjóti</w>
   <w>hefur</w>
   <w>verið</w>
   <w>hent</w>
   <w>í</w>
-  <w>lögregluþjónanna</w>
+  <revision id="1c">
+    <original><w>lögregluþjónanna</w></original>
+    <corrected><w>lögregluþjónana</w></corrected>
+      <errors>
+        <error xtype="nn4n" idx="1c-1" eid="0" />
+        <error xtype="nominal-inflection" idx="1c-1" eid="0" />
+      </errors>
+  </revision>
   <w>en</w>
   <w>fjórir</w>
   <w>einstaklingar</w>

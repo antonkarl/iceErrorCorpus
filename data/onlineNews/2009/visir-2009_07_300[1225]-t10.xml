@@ -140,7 +140,14 @@
   <w>bjóst</w>
   <w>við</w>
   <w>þeim</w>
-  <w>brjálaðari</w>
+  <revision id="2d">
+    <original><w>brjálaðari</w></original>
+    <corrected><w>brjálaðri</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="2d-1" eid="0" />
+        <error xtype="nonword" idx="2d-1" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="5">
@@ -162,7 +169,7 @@
   <w>það</w>
   <w>ekki</w>
   <c>.</c>
-  <revision id="2d">
+  <revision id="2e">
     <original><c>&quot;</c></original>
     <corrected><c>“</c></corrected>
       <errors>

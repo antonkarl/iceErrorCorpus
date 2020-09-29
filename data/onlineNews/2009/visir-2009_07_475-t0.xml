@@ -150,7 +150,13 @@
       </errors>
   </revision>
   <w>unnu</w>
-  <w>ennfremur</w>
+  <revision id="3b">
+    <original><w>ennfremur</w></original>
+    <corrected><w>enn</w><w>fremur</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>leik</w>
   <w>liðanna</w>
   <w>í</w>
@@ -345,7 +351,14 @@
 </s>
 <s n="12">
   <w>Leikir</w>
-  <w>kvöldins</w>
+  <revision id="10">
+    <original><w>kvöldins</w></original>
+    <corrected><w>kvöldsins</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="10-1" eid="0" />
+        <error xtype="nonword" idx="10-1" eid="0" />
+      </errors>
+  </revision>
   <c>:</c>
   <w>Völsungur-Valur</w>
   <w>kl. 18</w>

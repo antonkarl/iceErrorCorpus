@@ -120,10 +120,7 @@
   <w>hvorki</w>
   <w>á</w>
   <w>sviði</w>
-  <w>sjávarútvegs</w>
-  <c>-</c>
-  <w>né</w>
-  <w>landbúnaðarmála</w>
+  <w>sjávarútvegs- né landbúnaðarmála</w>
   <c>.</c>
 </s>
 <s n="4">
@@ -173,13 +170,6 @@
         <error xtype="wrong-quots" eid="0" />
       </errors>
   </revision>
-</s>
-<s n="5">
-  <c>(</c>
-  <w>bls.</w>
-  <w>66</w>
-  <c>)</c>
-  <c>.</c>
 </s>
 <s n="6">
   <w>Við</w>
@@ -289,7 +279,13 @@
   <w>er</w>
   <w>utanríkisráðherra</w>
   <w>að</w>
-  <w>að</w>
+  <revision id="6b">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="repeat-word" eid="0" />
+      </errors>
+  </revision>
   <w>segja</w>
   <revision id="7">
     <original></original>
@@ -629,9 +625,15 @@
   <w>þegar</w>
   <w>illa</w>
   <w>árar</w>
-  <w>annarsstaðar</w>
-  <c>,</c>
   <revision id="20b">
+    <original><w>annarsstaðar</w></original>
+    <corrected><w>annars</w><w>staðar</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
+  <c>,</c>
+  <revision id="20c">
     <original><c>&quot;</c></original>
     <corrected><c>“</c></corrected>
       <errors>

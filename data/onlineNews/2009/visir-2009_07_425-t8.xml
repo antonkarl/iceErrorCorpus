@@ -71,7 +71,13 @@
 </s>
 <s n="3">
   <w>Fjárfestar</w>
-  <w>víðsvegar</w>
+  <revision id="2b">
+    <original><w>víðsvegar</w></original>
+    <corrected><w>víðs</w><w>vegar</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>um</w>
   <w>heiminn</w>
   <w>héldu</w>
@@ -573,7 +579,13 @@
   <w>hver</w>
   <w>stendur</w>
   <w>á</w>
-  <w>bakvið</w>
+  <revision id="15b">
+    <original><w>bakvið</w></original>
+    <corrected><w>bak</w><w>við</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>það</w>
   <w>fyrirtæki</w>
   <w>sem</w>

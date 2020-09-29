@@ -157,8 +157,13 @@
   </revision>
   <w>þar</w>
   <w>sem</w>
-  <w>títaníum</w>
-  <w>platan</w>
+  <revision id="3b">
+    <original><w>títaníum</w><w>platan</w></original>
+    <corrected><w>títaníumplatan</w></corrected>
+      <errors>
+        <error xtype="split-compound" eid="0" />
+      </errors>
+  </revision>
   <w>er</w>
   <w>staðsett</w>
   <c>.</c>

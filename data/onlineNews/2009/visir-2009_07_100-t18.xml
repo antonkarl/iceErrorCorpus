@@ -193,7 +193,13 @@
   <w>yfir</w>
   <w>rekstur</w>
   <w>Straums</w>
-  <w>fjárfestingabanka</w>
+  <revision id="2">
+    <original><w>fjárfestingabanka</w></original>
+    <corrected><w>fjárfestingarbanka</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" eid="0" />
+      </errors>
+  </revision>
   <w>þann</w>
   <w>9. mars</w>
   <w>á</w>

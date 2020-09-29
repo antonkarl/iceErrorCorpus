@@ -287,7 +287,14 @@
   <w>að</w>
   <w>gögn</w>
   <w>vegna</w>
-  <w>Vaðlaheiðargagna</w>
+  <revision id="5b">
+    <original><w>Vaðlaheiðargagna</w></original>
+    <corrected><w>Vaðlaheiðarganga</w></corrected>
+      <errors>
+        <error xtype="swapped-letters" idx="5b-1" eid="0" />
+        <error xtype="nonword" idx="5b-1" eid="0" />
+      </errors>
+  </revision>
   <w>væru</w>
   <w>svo</w>
   <w>gott</w>

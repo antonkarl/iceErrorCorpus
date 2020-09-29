@@ -57,7 +57,13 @@
   <w>segir</w>
   <w>að</w>
   <w>raungengið</w>
-  <w>lækkaði</w>
+  <revision id="0">
+    <original><w>hafi</w><w>lækkað</w></original>
+    <corrected><w>lækkaði</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
   <w>um</w>
   <w>0,2%</w>
   <w>á</w>

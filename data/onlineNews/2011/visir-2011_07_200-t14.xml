@@ -207,7 +207,13 @@
   <w>Sýnatakan</w>
   <w>fór</w>
   <w>fram</w>
-  <w>seinnihluta</w>
+  <revision id="2b">
+    <original><w>seinnihluta</w></original>
+    <corrected><w>seinni</w><w>hluta</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>maímánaðar</w>
   <c>.</c>
 </s>

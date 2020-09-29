@@ -101,7 +101,13 @@
   <w>staðar</w>
   <w>því</w>
   <w>oft</w>
-  <w>á</w>
+  <revision id="1b">
+    <original><w>á</w></original>
+    <corrected><w>og</w></corrected>
+      <errors>
+        <error xtype="collocation" eid="0" />
+      </errors>
+  </revision>
   <w>tíðum</w>
   <w>var</w>
   <w>hrópað</w>

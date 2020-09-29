@@ -168,7 +168,14 @@
 </s>
 <s n="8">
   <w>Þrettán</w>
-  <w>mínutum</w>
+  <revision id="2b">
+    <original><w>mínutum</w></original>
+    <corrected><w>mínútum</w></corrected>
+      <errors>
+        <error xtype="missing-accent" idx="2b-1" eid="0" />
+        <error xtype="nonword" idx="2b-1" eid="0" />
+      </errors>
+  </revision>
   <w>síðar</w>
   <w>jafnaði</w>
   <w>Húsvíkingurinn</w>
@@ -268,7 +275,13 @@
   <w>í</w>
   <w>hálfleik</w>
   <w>og</w>
-  <w>framundan</w>
+  <revision id="3b">
+    <original><w>framundan</w></original>
+    <corrected><w>fram</w><w>undan</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>var</w>
   <w>fjörugur</w>
   <w>seinni</w>

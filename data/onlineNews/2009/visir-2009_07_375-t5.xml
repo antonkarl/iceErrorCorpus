@@ -93,7 +93,13 @@
   <w>sem</w>
   <w>það</w>
   <w>var</w>
-  <w>vísvandi</w>
+  <revision id="2b">
+    <original><w>vísvandi</w></original>
+    <corrected><w>vísvitandi</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
   <w>eða</w>
   <w>af</w>
   <w>völdum</w>

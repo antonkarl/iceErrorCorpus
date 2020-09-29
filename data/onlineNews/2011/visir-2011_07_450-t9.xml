@@ -152,18 +152,20 @@
   <w>aðrar</w>
   <w>fjármálastofnanir</w>
   <w>segir</w>
-  <w>m.</w>
-  <w>a</w>
-  <c>.</c>
-</s>
-<s n="7">
+  <w>m.a.</w>
   <w>í</w>
   <w>skýrslunni</w>
   <w>að</w>
   <w>í</w>
   <w>því</w>
   <w>tilliti</w>
-  <w>þarf</w>
+  <revision id="4b">
+    <original><w>þarf</w></original>
+    <corrected><w>þurfi</w></corrected>
+      <errors>
+        <error xtype="ind4sub" eid="0" />
+      </errors>
+  </revision>
   <w>að</w>
   <w>kanna</w>
   <w>betur</w>

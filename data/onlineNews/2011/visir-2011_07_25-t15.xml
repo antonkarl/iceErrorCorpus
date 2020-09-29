@@ -22,7 +22,7 @@
   <w>mark</w>
   <w>í</w>
   <w>4</w>
-
+  <c>-</c>
   <w>1</w>
   <w>sigrinum</w>
   <w>á</w>
@@ -58,7 +58,7 @@
   <w>Þrátt</w>
   <w>fyrir</w>
   <w>4</w>
-
+  <c>-</c>
   <w>1</w>
   <w>sigur</w>
   <w>var</w>
@@ -135,7 +135,14 @@
 <s n="8">
   <w>Kristinn</w>
   <w>átti</w>
-  <w>fjöldan</w>
+  <revision id="1b">
+    <original><w>fjöldan</w></original>
+    <corrected><w>fjöldann</w></corrected>
+      <errors>
+        <error xtype="n4nn" idx="1b-1" eid="0" />
+        <error xtype="nonword" idx="1b-1" eid="0" />
+      </errors>
+  </revision>
   <w>allan</w>
   <w>af</w>
   <w>marktilraunum</w>

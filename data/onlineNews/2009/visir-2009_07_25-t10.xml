@@ -79,12 +79,18 @@
   <w>og</w>
   <w>sjá</w>
   <w>hvernig</w>
-  <w>hvernig</w>
+  <revision id="2b">
+    <original><w>hvernig</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="repeat-word" eid="0" />
+      </errors>
+  </revision>
   <w>breytingartillögurnar</w>
   <w>verða</w>
   <w>afgreiddar</w>
   <c>,</c>
-  <revision id="2b">
+  <revision id="2c">
     <original><c>"</c></original>
     <corrected><c>“</c></corrected>
       <errors>
@@ -329,7 +335,13 @@
   <w>fólk</w>
   <w>eins</w>
   <w>og</w>
-  <w>Þorsteinn</w>
+  <revision id="10b">
+    <original><w>Þorsteinn</w></original>
+    <corrected><w>Þorstein</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
   <w>Pálsson</w>
   <c>,</c>
   <w>Benedikt</w>
@@ -342,7 +354,13 @@
   <w>Bjarnadóttur</w>
   <w>og</w>
   <w>marga</w>
-  <w>marga</w>
+  <revision id="10c">
+    <original><w>marga</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="repeat-word" eid="0" />
+      </errors>
+  </revision>
   <w>fleiri</w>
   <w>sem</w>
   <w>hægt</w>
@@ -350,7 +368,7 @@
   <w>að</w>
   <w>nefna</w>
   <c>.</c>
-  <revision id="10b">
+  <revision id="10d">
     <original><c>"</c></original>
     <corrected><c>“</c></corrected>
       <errors>

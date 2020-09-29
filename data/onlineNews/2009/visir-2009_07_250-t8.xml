@@ -163,7 +163,14 @@
 </s>
 <s n="7">
   <w>Sú</w>
-  <w>ákörðun</w>
+  <revision id="1b">
+    <original><w>ákörðun</w></original>
+    <corrected><w>ákvörðun</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="1b-1" eid="0" />
+        <error xtype="nonword" idx="1b-1" eid="0" />
+      </errors>
+  </revision>
   <w>að</w>
   <w>deila</w>
   <w>kvótanum</w>

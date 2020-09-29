@@ -436,7 +436,14 @@
   <c>.</c>
 </s>
 <s n="19">
-  <w>Sandflæmin</w>
+  <revision id="12b">
+    <original><w>Sandflæmin</w></original>
+    <corrected><w>Sandflæmið</w></corrected>
+      <errors>
+        <error xtype="letter-rep" idx="12b-1" eid="0" />
+        <error xtype="nonword" idx="12b-1" eid="0" />
+      </errors>
+  </revision>
   <w>umhverfis</w>
   <w>Mýrdalsjökul</w>
   <c>,</c>
@@ -448,7 +455,13 @@
   <w>og</w>
   <w>Mýrdalssandur</w>
   <c>,</c>
-  <w>bera</w>
+  <revision id="13">
+    <original><w>bera</w></original>
+    <corrected><w>ber</w></corrected>
+      <errors>
+        <error xtype="dep" depId="12b-1" eid="0" />
+      </errors>
+  </revision>
   <w>afleiðingum</w>
   <w>Kötlugosa</w>
   <w>vitni</w>

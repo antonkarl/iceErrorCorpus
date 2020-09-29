@@ -138,7 +138,13 @@
   <w>stóran</w>
   <w>þátt</w>
   <w>í</w>
-  <w>þetta</w>
+  <revision id="2d">
+    <original><w>þetta</w></original>
+    <corrected><w>því</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
   <w>að</w>
   <w>hinn</w>
   <w>18</w>

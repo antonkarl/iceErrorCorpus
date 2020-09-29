@@ -498,7 +498,14 @@
   <w>byggja</w>
   <w>síðan</w>
   <w>sjálfa</w>
-  <w>brágðabirgðabrúna</w>
+  <revision id="14b">
+    <original><w>brágðabirgðabrúna</w></original>
+    <corrected><w>bráðabirgðabrúna</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="11b-1" eid="0" />
+        <error xtype="nonword" idx="11b-1" eid="0" />
+      </errors>
+  </revision>
   <w>á</w>
   <c>.</c>
 </s>

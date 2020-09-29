@@ -108,7 +108,13 @@
   <w>hrósandi</w>
   <c>:</c>
   <c>„</c>
-  <w>Sjáiði</w>
+  <revision id="4b">
+    <original><w>Sjáiði</w></original>
+    <corrected><w>Sjáið</w><w>þið</w></corrected>
+      <errors>
+        <error xtype="bad-conraction" eid="0" />
+      </errors>
+  </revision>
   <w>bara</w>
   <c>,</c>
   <w>ég</w>
@@ -131,7 +137,14 @@
 <s n="3">
   <c>„</c>
   <w>Winston</w>
-  <w>churchill</w>
+  <revision id="4c">
+    <original><w>churchill</w></original>
+    <corrected><w>Churchill</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" idx="4c-1" eid="0" />
+        <error xtype="foreign-error" idx="4c-1" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>einu</w>
   <w>sinni</w>
@@ -196,9 +209,7 @@
   <w>að</w>
   <w>draga</w>
   <w>Geir</w>
-  <c>.</c>
-</s>
-<s n="6">
+  <c>H.</c>
   <w>Haarde</w>
   <c>,</c>
   <w>fyrrverandi</w>

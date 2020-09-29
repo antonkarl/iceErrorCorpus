@@ -67,8 +67,13 @@
 </s>
 <s n="3">
   <w>Stand</w>
-  <w>Tall</w>
-  <w>samtökin</w>
+  <revision id="7">
+    <original><w>Tall</w><w>samtökin</w></original>
+    <corrected><w>Tall-samtökin</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
   <w>voru</w>
   <w>stofnuð</w>
   <w>af</w>

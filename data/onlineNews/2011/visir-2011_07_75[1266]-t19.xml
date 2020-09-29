@@ -85,7 +85,14 @@
   <w>hné</w>
   <w>á</w>
   <w>æfingu</w>
-  <w>félagins</w>
+  <revision id="0">
+    <original><w>félagins</w></original>
+    <corrected><w>félagsins</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="0-1" eid="0" />
+        <error xtype="nonword" idx="0-1" eid="0" />
+      </errors>
+  </revision>
   <w>í</w>
   <w>vikunni</w>
   <c>.</c>

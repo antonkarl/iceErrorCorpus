@@ -33,7 +33,13 @@
   <w>í</w>
   <w>bága</w>
   <w>við</w>
-  <w>Dönsku</w>
+  <revision id="0">
+    <original><w>Dönsku</w></original>
+    <corrected><w>dönsku</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
   <w>stjórnarskrána</w>
   <w>og</w>
   <w>þýði</w>

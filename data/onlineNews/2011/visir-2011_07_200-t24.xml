@@ -732,6 +732,14 @@
   <w>eða</w>
   <w>er</w>
   <w>lýðræðistefna</w>
+  <revision id="33b">
+    <original><w>lýðræðistefna</w></original>
+    <corrected><w>lýðræðisstefna</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="33b-1" eid="0" />
+        <error xtype="compound-nonword" idx="33b-1" eid="0" />
+      </errors>
+  </revision>
   <w>Garðabæjar</w>
   <w>aðeins</w>
   <w>stafir</w>
@@ -818,13 +826,7 @@
   <w>að</w>
   <w>lýðræðisstefnunni</w>
   <w>segir</w>
-  <revision id="36">
-    <original><w>m.</w><w>a</w><c>.</c></original>
-    <corrected><w>m.a.</w></corrected>
-      <errors>
-        <error xtype="extra-space" eid="0" />
-      </errors>
-  </revision>
+  <w>m.a.</w>
   <c>:</c>
   <revision id="36b">
     <original><c>&quot;</c></original>
@@ -859,13 +861,7 @@
   <w>ólíkum</w>
   <w>hætti</w>
   <c>,</c>
-  <revision id="37">
-    <original><w>t</w><c>.</c><w>d.</w></original>
-    <corrected><w>t.d.</w></corrected>
-      <errors>
-        <error xtype="extra-space" eid="0" />
-      </errors>
-  </revision>
+  <w>t.d.</w>
   <w>með</w>
   <w>íbúafundum</w>
   <c>,</c>
@@ -1756,8 +1752,13 @@
 <s n="57">
   <w>Umferð</w>
   <w>bæði</w>
-  <w>gangandi-og</w>
-  <w>hjólandi</w>
+  <revision id="59b">
+    <original><w>gangandi-og</w><w>hjólandi</w></original>
+    <corrected><w>gangandi</w><w>og</w><w>hjólandi</w></corrected>
+      <errors>
+        <error xtype="extra-dash" eid="0" />
+      </errors>
+  </revision>
   <w>vegfarenda</w>
   <w>hefur</w>
   <w>aukist</w>
@@ -1802,10 +1803,24 @@
   <w>ekki</w>
   <w>þvælast</w>
   <w>fyrir</w>
-  <w>bæjarfulltrúm</w>
+  <revision id="60b">
+    <original><w>bæjarfulltrúm</w></original>
+    <corrected><w>bæjarfulltrúum</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="60b-1" eid="0" />
+        <error xtype="nonword" idx="60b-1" eid="0" />
+      </errors>
+  </revision>
   <w>þótt</w>
   <w>3</w>
-  <w>miljónir</w>
+  <revision id="60c">
+    <original><w>miljónir</w></original>
+    <corrected><w>milljónir</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="60c-1" eid="0" />
+        <error xtype="nonword" idx="60c-1" eid="0" />
+      </errors>
+  </revision>
   <w>til</w>
   <w>viðbótar</w>
   <w>áætluðum</w>
@@ -2606,7 +2621,14 @@
   <w>verði</w>
   <w>tillit</w>
   <w>til</w>
-  <w>athugsemda</w>
+  <revision id="90b">
+    <original><w>athugsemda</w></original>
+    <corrected><w>athugasemda</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="90b-1" eid="0" />
+        <error xtype="nonword" idx="90b-1" eid="0" />
+      </errors>
+  </revision>
   <w>okkar</w>
   <c>.</c>
 </s>
@@ -2617,7 +2639,13 @@
   <w>og</w>
   <w>Hrefna</w>
   <w>Geirsdóttir</w>
-  <w>Íbúar</w>
+  <revision id="91">
+    <original><w>Íbúar</w></original>
+    <corrected><w>íbúar</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
   <w>í</w>
   <w>Faxatúni</w>
 </s>

@@ -158,8 +158,13 @@
   <w>Lýsu</w>
   <w>glæðst</w>
   <w>og</w>
-  <w>ágætis</w>
-  <w>veiði</w>
+  <revision id="3b">
+    <original><w>ágætis</w><w>veiði</w></original>
+    <corrected><w>ágætisveiði</w></corrected>
+      <errors>
+        <error xtype="split-compound" eid="0" />
+      </errors>
+  </revision>
   <w>hefur</w>
   <w>verið</w>
   <w>í</w>

@@ -323,7 +323,13 @@
   <w>að</w>
   <w>hugsa</w>
   <w>áður</w>
-  <w>áður</w>
+  <revision id="7b">
+    <original><w>áður</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="repeat-word" eid="0" />
+      </errors>
+  </revision>
   <w>en</w>
   <w>hann</w>
   <w>skrifar</w>

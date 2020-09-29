@@ -15,7 +15,13 @@
 </teiHeader>
 <text><body><p n="1">
 <s n="1">
-  <w>Hundruðir</w>
+  <revision id="0">
+    <original><w>Hundruði</w></original>
+    <corrected><w>Hundruð</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
   <w>Egypta</w>
   <w>ráðast</w>
   <w>nú</w>

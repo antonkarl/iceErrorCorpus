@@ -362,7 +362,13 @@
   <w>og</w>
   <w>10%</w>
   <w>niðurskurði</w>
-  <w>annarsstaðar</w>
+  <revision id="6">
+    <original><w>annarsstaðar</w></original>
+    <corrected><w>annars</w><w>staðar</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>í</w>
   <w>opinberum</w>
   <w>rekstri</w>

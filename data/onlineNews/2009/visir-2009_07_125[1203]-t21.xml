@@ -24,7 +24,7 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-inf-part" eid="0" />
       </errors>
   </revision>
   <w>endurskapa</w>
@@ -111,7 +111,13 @@
   <w>hópurinn</w>
   <w>standi</w>
   <w>á</w>
-  <w>bakvið</w>
+  <revision id="2b">
+    <original><w>bakvið</w></original>
+    <corrected><w>bak</w><w>við</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>sprengingarnar</w>
   <w>en</w>
   <w>það</w>

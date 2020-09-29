@@ -159,11 +159,19 @@
   <w>í</w>
   <w>sjó</w>
   <w>en</w>
-  <w>áður-en</w>
+  <w>áður</w>
+  <c>-</c>
+  <w>en</w>
   <w>ekki</w>
   <w>síður</w>
   <w>af</w>
-  <w>umgengi</w>
+  <revision id="1">
+    <original><w>umgengi</w></original>
+    <corrected><w>umgengni</w></corrected>
+      <errors>
+        <error xtype="missing-letter" eid="0" />
+      </errors>
+  </revision>
   <w>borgarbúa</w>
   <c>.</c>
 </s>

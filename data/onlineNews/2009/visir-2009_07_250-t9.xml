@@ -58,6 +58,14 @@
   <w>Friðrik</w>
   <w>var</w>
   <w>endurrráðinn</w>
+  <revision id="2b">
+    <original><w>endurrráðinn</w></original>
+    <corrected><w>endurráðinn</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="2b-1" eid="0" />
+        <error xtype="nonword" idx="2b-1" eid="0" />
+      </errors>
+  </revision>
   <w>síðastliðið</w>
   <w>haust</w>
   <c>,</c>

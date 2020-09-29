@@ -257,6 +257,14 @@
   <w>nokkur</w>
   <w>Bates</w>
   <w>fjárhesti</w>
+  <revision id="2b">
+    <original><w>fjárhesti</w></original>
+    <corrected><w>fjárfesti</w></corrected>
+      <errors>
+        <error xtype="letter-rep" idx="2b-1" eid="0" />
+        <error xtype="nonword" idx="2b-1" eid="0" />
+      </errors>
+  </revision>
   <w>í</w>
   <w>knattspyrnufélaginu</w>
   <w>Chelsea</w>

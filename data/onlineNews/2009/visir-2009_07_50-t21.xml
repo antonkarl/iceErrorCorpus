@@ -156,7 +156,14 @@
   </revision>
 </s>
 <s n="5">
-  <w>Breytingartillga</w>
+  <revision id="1c">
+    <original><w>Breytingartillga</w></original>
+    <corrected><w>Breytingartillaga</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="1c-1" eid="0" />
+        <error xtype="nonword" idx="1c-1" eid="0" />
+      </errors>
+  </revision>
   <w>Vigdísar</w>
   <w>hljómar</w>
   <w>hins</w>
@@ -318,10 +325,23 @@
   <w>má</w>
   <w>telja</w>
   <w>að</w>
-  <w>breytingartillga</w>
+  <revision id="2b">
+    <original><w>breytingartillga</w></original>
+    <corrected><w>breytingartillaga</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="2b-1" eid="0" />
+        <error xtype="nonword" idx="2b-1" eid="0" />
+      </errors>
+  </revision>
   <w>Vigdísar</w>
   <w>verði</w>
-  <w>samþykktar</w>
+  <revision id="2c">
+    <original><w>samþykktar</w></original>
+    <corrected><w>samþykkt</w></corrected>
+      <errors>
+        <error xtype="agreement-pred" eid="0" />
+      </errors>
+  </revision>
   <w>enda</w>
   <w>tók</w>
   <w>það</w>

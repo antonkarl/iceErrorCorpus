@@ -22,7 +22,14 @@
   <w>fyrir</w>
   <w>rétti</w>
   <w>í</w>
-  <w>Kalíforníu</w>
+  <revision id="0">
+    <original><w>Kalíforníu</w></original>
+    <corrected><w>Kaliforníu</w></corrected>
+      <errors>
+        <error xtype="extra-accent" idx="0-1" eid="0" />
+        <error xtype="nonword" idx="0-1" eid="0" />
+      </errors>
+  </revision>
   <w>ásakaður</w>
   <w>um</w>
   <w>að</w>

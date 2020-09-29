@@ -103,6 +103,13 @@
   <w>í</w>
   <w>fyrra</w>
   <c>,</c>
+  <revision id="0b">
+    <original></original>
+    <corrected><w>er</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
   <w>orðinn</w>
   <w>löglegur</w>
   <c>.</c>
@@ -117,7 +124,13 @@
   <w>spila</w>
   <w>og</w>
   <w>mér</w>
-  <w>lýst</w>
+  <revision id="0c">
+    <original><w>lýst</w></original>
+    <corrected><w>líst</w></corrected>
+      <errors>
+        <error xtype="ý4í" eid="0" />
+      </errors>
+  </revision>
   <w>ljómandi</w>
   <w>vel</w>
   <w>á</w>
@@ -255,8 +268,13 @@
   <w>eru</w>
   <w>að</w>
   <w>vinna</w>
-  <w>óhemju</w>
-  <w>mikla</w>
+  <revision id="2c">
+    <original><w>óhemju</w><w>mikla</w></original>
+    <corrected><w>óhemjumikla</w></corrected>
+      <errors>
+        <error xtype="split-compound" eid="0" />
+      </errors>
+  </revision>
   <w>vinnu</w>
   <w>á</w>
   <w>vellinum</w>
@@ -279,7 +297,7 @@
   <w>í</w>
   <w>kvöld</w>
   <c>.</c>
-  <revision id="2c">
+  <revision id="2d">
     <original><c>&quot;</c></original>
     <corrected><c>“</c></corrected>
       <errors>

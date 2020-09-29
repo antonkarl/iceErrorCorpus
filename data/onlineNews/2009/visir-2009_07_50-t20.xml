@@ -119,6 +119,13 @@
   <w>þúsund</w>
   <w>í</w>
   <w>mánartekjur</w>
+  <revision id="0">
+    <original><w>mánartekjur</w></original>
+    <corrected><w>mánaðartekjur</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>Dorrit</w>
   <w>Mousaieff</w>
@@ -197,7 +204,14 @@
   <w>er</w>
   <w>Þórhallur</w>
   <w>Gunnarsson</w>
-  <w>dagsskrárstjóri</w>
+  <revision id="0b">
+    <original><w>dagsskrárstjóri</w></original>
+    <corrected><w>dagskrárstjóri</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="0b-1" eid="0" />
+        <error xtype="compound-nonword" idx="0b-1" eid="0" />
+      </errors>
+  </revision>
   <w>Rúv</w>
   <w>með</w>
   <w>rúm</w>

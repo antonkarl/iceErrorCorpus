@@ -235,8 +235,13 @@
   <w>fyrir</w>
   <w>átta</w>
   <w>Formúlu</w>
-  <w>1</w>
-  <w>lið</w>
+  <revision id="2b">
+    <original><w>1</w><w>lið</original>
+    <corrected><w>1-lið</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 </p></body></text>

@@ -102,7 +102,13 @@
   <w>og</w>
   <w>Ibrahimovic</w>
   <w>kveðst</w>
-  <w>ennfremur</w>
+  <revision id="1b">
+    <original><w>ennfremur</w></original>
+    <corrected><w>enn</w><w>fremur</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>sjálfur</w>
   <w>vera</w>
   <w>ánægður</w>

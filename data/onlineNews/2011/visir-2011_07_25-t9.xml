@@ -50,7 +50,14 @@
   <w>og</w>
   <w>tveir</w>
   <w>fengu</w>
-  <w>bónsuvinning</w>
+  <revision id="0">
+    <original><w>bónsuvinning</w></original>
+    <corrected><w>bónusvinning</w></corrected>
+      <errors>
+        <error xtype="swapped-letters" idx="0-1" eid="0" />
+        <error xtype="nonword" idx="0-1" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>fengu</w>
   <w>rúmlega</w>

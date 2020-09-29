@@ -24,8 +24,13 @@
   <w>því</w>
   <w>að</w>
   <w>breyta</w>
-  <w>JL</w>
-  <w>húsinu</w>
+  <revision id="0">
+    <original><w>JL</w><w>húsinu</w></original>
+    <corrected><w>JL-húsinu</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
   <w>í</w>
   <w>listaverk</w>
   <c>.</c>
@@ -64,8 +69,13 @@
   <c>.</c>
 </s>
 <s n="4">
-  <w>JL</w>
-  <w>húsið</w>
+  <revision id="0b">
+    <original><w>JL</w><w>húsið</w></original>
+    <corrected><w>JL-húsið</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
   <w>skartar</w>
   <w>nú</w>
   <w>sínu</w>
@@ -84,8 +94,13 @@
   <w>góða</w>
   <w>upplyftingu</w>
   <w>fyrir</w>
-  <w>JL</w>
-  <w>húsið</w>
+  <revision id="0c">
+    <original><w>JL</w><w>húsið</w></original>
+    <corrected><w>JL-húsið</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>sem</w>
   <w>hefur</w>
@@ -95,7 +110,7 @@
   <c>.</c>
 </s>
 <s n="5">
-  <revision id="0">
+  <revision id="0d">
     <original><c>&quot;</c></original>
     <corrected><c>„</c></corrected>
       <errors>

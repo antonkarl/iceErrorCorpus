@@ -127,7 +127,14 @@
   <w>þrjú</w>
   <w>ár</w>
   <w>af</w>
-  <w>samingi</w>
+  <revision id="1">
+    <original><w>samingi</w></original>
+    <corrected><w>samningi</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="1-1" eid="0" />
+        <error xtype="nonword" idx="1-1" eid="0" />
+      </errors>
+  </revision>
   <w>sínum</w>
   <w>við</w>
   <w>Man</w>

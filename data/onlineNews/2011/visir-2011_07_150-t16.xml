@@ -69,7 +69,14 @@
   <w>milljónir</w>
   <w>punda</w>
   <w>fyrir</w>
-  <w>markvörðunn</w>
+  <revision id="0">
+    <original><w>markvörðunn</w></original>
+    <corrected><w>markvörðinn</w></corrected>
+      <errors>
+        <error xtype="letter-rep" idx="0-1" eid="0" />
+        <error xtype="nonword" idx="0-1" eid="0" />
+      </errors>
+  </revision>
   <w>en</w>
   <w>Villa</w>
   <w>vantar</w>

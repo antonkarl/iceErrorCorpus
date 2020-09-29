@@ -274,7 +274,14 @@
   <w>eitt</w>
   <w>vinsælasta</w>
   <w>ferðamannasvæði</w>
-  <w>landins</w>
+  <revision id="4b">
+    <original><w>landins</w></original>
+    <corrected><w>landsins</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="4b-1" eid="0" />
+        <error xtype="nonword" idx="4b-1" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>þar</w>
   <w>er</w>
