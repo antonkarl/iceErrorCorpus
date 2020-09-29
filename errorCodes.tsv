@@ -43,11 +43,15 @@ missing-period	punkt vantar	punctuation	Tónlistin varð ekki vinsæl strax þa�
 missing-qm	spurningamerki vantar	punctuation	„Skilur þú mig“ spurði Halldór > „Skilur þú mig?“ spurði Halldór
 missing-conjunction	samtengingu vantar	punctuation	í Noregi suður að Gíbraltarsundi > í Noregi og suður að Gíbraltarsundi
 missing-quot	gæsalöpp vantar	punctuation	„I'm winning > „I'm winning“
-missing-quots	gæsalappir vantar	punctuation	„I'm winning > „I'm winning“
-misplaced-quot	gæsalöpp á röngum stað	punctuation	...í lok dags“. > ...í lok dags.“
-wrong-quots	rangar gæsalappir	punctuation	"takið þennan svarta" > „takið þennan svarta“
+missing-quots	gæsalappir vantar	punctuation	"I'm winning > „I'm winning“
+"
+misplaced-quot	gæsalöpp á röngum stað	punctuation	"í lok dags“. > í lok dags.“
+"
+wrong-quots	rangar gæsalappir	punctuation	"""takið þennan svarta"" > „takið þennan svarta“
+"
 extra-quot	gæsalöpp ofaukið	punctuation	hún hófst 1. júlí“. > hún hófst 1. júlí.
-extra-quots	gæsalöppum ofaukið	punctuation	„I'm winning“ > I'm winning
+extra-quots	gæsalöppum ofaukið	punctuation	"„I'm winning“ > I'm winning
+"
 punctuation	greinarmerki	punctuation	hún mætti og hann var ekki tilbúinn > hún mætti en hann var ekki tilbúinn
 extra-punctuation	auka greinarmerki	punctuation	... að > að
 extra-comma	auka komma	punctuation	stríð, við náttúruna > stríð við náttúruna
@@ -181,7 +185,7 @@ comma4dash	komma fyrir bandstrik	punctuation	Einar Ólafur, Haukum > Einar Ólaf
 dash4semicolon	bandstrik fyrir semíkommu	punctuation	núna - þetta > núna; þetta
 wrong-dash	rangt bandstrik	punctuation	- > –
 it4nonit	skáletrað fyrir óskáletrað		Studdi Isma'il > Studdi Isma'il
-hypercorr	ofvöndun, t.d. "dróg" í stað "dró"	punctuation	- > : 
+hypercorr	"ofvöndun, t.d. ""dróg"" í stað ""dró"""	punctuation	- > : 
 dash4colon	bandstrik fyrir tvípunkt	punctuation	Margar hljómsveitir - Beach Boys, ... > Margar hljómsveitir: Beach Boys, ...
 extra-symbol	tákn ofaukið	other	Dalvík + gaf... > Dalvík gaf...
 dots4comma	þrípunktur fyrir kommu	punctuation	nútímalegu þjálfurum ... en hvað... > nútímalegu þjálfurum, en hvað...
@@ -209,4 +213,5 @@ extra-commas	kommur ofaukið utan um innskot	punctuation	Lárus Dagur, framkvæm
 number4symbol	númer fyrir tákn		5. >  V
 conjunction4semicolon	samtenging fyrir semíkommu	punctuation	en > ;
 repeat-word	orð endurtekið, orðin eru hliðstæð		maður sem sem fór > maður sem fór
-repeat-word-split	orð endurtekið en orð kemur á milli		var eitt ár var eftir > eitt ár var eftir			
+repeat-word-split	orð endurtekið en orð kemur á milli		var eitt ár var eftir > eitt ár var eftir
+number-fail			123ja metra > 123 metra
