@@ -18,7 +18,15 @@
   <w>Christine</w>
   <w>Lagarde</w>
   <c>,</c>
-  <w>nýji</w>
+  <revision id="0">
+    <original><w>nýji</w></original>
+    <corrected><w>nýi</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="0-1" eid="0" />
+        <error xtype="pronun-writing" idx="0-1" eid="0" />
+        <error xtype="nonword" idx="0-1" eid="0" />
+      </errors>
+  </revision>
   <w>forstjóri</w>
   <w>Alþjóðagjaldeyrissjóðsins</w>
   <c>,</c>

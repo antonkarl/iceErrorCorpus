@@ -70,7 +70,14 @@
   <w>kemur</w>
   <w>fram</w>
   <w>í</w>
-  <w>þjóðhagspá</w>
+  <revision id="1b">
+    <original><w>þjóðhagspá</w></original>
+    <corrected><w>þjóðhagsspá</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="1b-1" eid="0" />
+        <error xtype="nonword" idx="1b-1" eid="0" />
+      </errors>
+  </revision>
   <w>Hagstofunnar</w>
   <c>.</c>
 </s>
@@ -242,7 +249,13 @@
   <w>er</w>
   <w>ráð</w>
   <w>fyrir</w>
-  <w>lítilsháttar</w>
+  <revision id="4b">
+    <original><w>lítilsháttar</w></original>
+    <corrected><w>lítils</w><w>háttar</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>raunhækkun</w>
   <w>í</w>
   <w>lok</w>

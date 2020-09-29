@@ -73,7 +73,13 @@
       </errors>
   </revision>
   <w>á</w>
-  <w>samskonar</w>
+  <revision id="1b">
+    <original><w>samskonar</w></original>
+    <corrected><w>sams</w><w>konar</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>bíl</w>
   <revision id="2">
     <original></original>

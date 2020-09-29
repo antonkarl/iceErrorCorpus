@@ -217,7 +217,13 @@
   <w>birt</w>
   <w>ummælin</w>
   <w>á</w>
-  <w>Fésbókar-síðum</w>
+  <revision id="4b">
+    <original><w>Fésbókar-síðum</w></original>
+    <corrected><w>Fésbókarsíðum</w></corrected>
+      <errors>
+        <error xtype="extra-dash" eid="0" />
+      </errors>
+  </revision>
   <w>sínum</w>
   <c>.</c>
 </s>

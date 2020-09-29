@@ -17,8 +17,13 @@
 <s n="1">
   <w>Fyrrum</w>
   <w>Formúlu</w>
-  <w>1</w>
-  <w>ökumaðurinn</w>
+  <revision id="0">
+    <original><w>1</w><w>ökumaðurinn</original>
+    <corrected><w>1-ökumaðurinn</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>Bretinn</w>
   <w>Nigel</w>
@@ -65,7 +70,14 @@
   <w>titilslagnum</w>
   <w>á</w>
   <w>sínum</w>
-  <w>tima</w>
+  <revision id="0b">
+    <original><w>tima</w></original>
+    <corrected><w>tíma</w></corrected>
+      <errors>
+        <error xtype="missing-accent" idx="0b-1" eid="0" />
+        <error xtype="nonword" idx="0b-1" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="3">

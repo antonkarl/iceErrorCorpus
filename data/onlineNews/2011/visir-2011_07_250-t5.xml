@@ -19,7 +19,13 @@
   <c>,</c>
   <w>fyrir</w>
   <w>utan</w>
-  <w>Íslands</w>
+  <revision id="0">
+    <original><w>Íslands</w></original>
+    <corrected><w>Ísland</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>eru</w>
   <w>í</w>

@@ -24,8 +24,13 @@
   <w>í</w>
   <w>breska</w>
   <w>Formúlu</w>
-  <w>1</w>
-  <w>kappakstrinum</w>
+  <revision id="0">
+    <original><w>1</w><w>kappakstrinum</w></original>
+    <corrected><w>1-kappakstrinum</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
   <w>sem</w>
   <w>fer</w>
   <w>fram</w>
@@ -80,6 +85,13 @@
   <w>FIA</w>
   <w>um</w>
   <w>hvað</w>
+  <revision id="1b">
+    <original></original>
+    <corrected><w>má</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>hvað</w>
   <w>má</w>
@@ -246,7 +258,14 @@
   <w>og</w>
   <w>nú</w>
   <w>er</w>
-  <w>rauninn</w>
+  <revision id="4c">
+    <original><w>rauninn</w></original>
+    <corrected><w>raunin</w></corrected>
+      <errors>
+        <error xtype="nn4n" idx="4c-1" eid="0" />
+        <error xtype="nonword" idx="4c-1" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="8">

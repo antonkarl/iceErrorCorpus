@@ -191,8 +191,13 @@
   <w>að</w>
   <w>fyrsta</w>
   <w>Formúlu</w>
-  <w>1</w>
-  <w>mótið</w>
+  <revision id="10b">
+    <original><w>1</w><w>mótið</w></original>
+    <corrected><w>1-mótið</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
   <w>mitt</w>
   <revision id="11">
     <original><w>er</w></original>

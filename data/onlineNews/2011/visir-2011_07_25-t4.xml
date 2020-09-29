@@ -125,7 +125,13 @@
 <s n="6">
   <w>Svíar</w>
   <w>þykja</w>
-  <w>fyrirfram</w>
+  <revision id="1b">
+    <original><w>fyrirfram</w></original>
+    <corrected><w>fyrir</w><w>fram</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>líklegri</w>
   <w>en</w>
   <w>líkt</w>

@@ -87,6 +87,13 @@
 </s>
 <s n="3">
   <w>Þó</w>
+  <revision id="0b">
+    <original></original>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
   <w>þau</w>
   <w>hafi</w>
   <w>verið</w>
@@ -110,7 +117,7 @@
   <w>til</w>
   <w>Hjálpræðishersins</w>
   <c>.</c>
-  <revision id="0b">
+  <revision id="0c">
     <original><c>&quot;</c></original>
     <corrected><c>“</c></corrected>
       <errors>
@@ -188,7 +195,14 @@
   <w>Gibbs</w>
   <c>,</c>
   <w>fyrrum</w>
-  <w>upplýsingaafulltrúi</w>
+  <revision id="2b">
+    <original><w>upplýsingaafulltrúi</w></original>
+    <corrected><w>upplýsingafulltrúi</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="2b-1" eid="0" />
+        <error xtype="nonword" idx="2b-1" eid="0" />
+      </errors>
+  </revision>
   <w>Hvíta</w>
   <w>Hússins</w>
   <c>,</c>

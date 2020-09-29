@@ -113,7 +113,13 @@
   <w>sé</w>
   <w>ljóst</w>
   <w>að</w>
-  <w>að</w>
+  <revision id="2">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="repeat-word" eid="0" />
+      </errors>
+  </revision>
   <w>fjallið</w>
   <w>sé</w>
   <w>tilbúið</w>

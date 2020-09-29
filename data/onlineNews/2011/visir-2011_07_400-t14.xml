@@ -63,7 +63,13 @@
   <w>enn</w>
   <w>er</w>
   <w>leitað</w>
-  <w>af</w>
+  <revision id="1b">
+    <original><w>af</w></original>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="af4að" eid="0" />
+      </errors>
+  </revision>
   <w>eftirlifendum</w>
   <c>.</c>
 </s>
@@ -92,7 +98,14 @@
   <w>bátsins</w>
   <c>,</c>
   <w>sem</w>
-  <w>silgdi</w>
+  <revision id="2b">
+    <original><w>silgdi</w></original>
+    <corrected><w>sigldi</w></corrected>
+      <errors>
+        <error xtype="swapped-letters" idx="2b-1" eid="0" />
+        <error xtype="nonword" idx="2b-1" eid="0" />
+      </errors>
+  </revision>
   <w>undir</w>
   <w>kúbönskum</w>
   <w>fána</w>

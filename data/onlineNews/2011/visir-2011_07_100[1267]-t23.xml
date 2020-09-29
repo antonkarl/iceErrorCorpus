@@ -57,7 +57,13 @@
   <w>og</w>
   <w>tvö</w>
   <w>börn</w>
-  <w>víðsvegar</w>
+  <revision id="1">
+    <original><w>víðsvegar</w></original>
+    <corrected><w>víðs</w><w>vegar</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>um</w>
   <w>borgina</w>
   <c>.</c>

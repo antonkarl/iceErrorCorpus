@@ -85,8 +85,13 @@
   <w>að</w>
   <w>skera</w>
   <w>barnið</w>
-  <w>sitthvoru</w>
-  <w>megin</w>
+  <revision id="0">
+    <original><w>sitthvoru</w><w>megin</w></original>
+    <corrected><w>hvort</w><w>sínu</w><w>megin</w></corrected>
+      <errors>
+        <error xtype="each" eid="0" />
+      </errors>
+  </revision>
   <w>við</w>
   <w>munnvikin</w>
   <w>þegar</w>

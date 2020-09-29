@@ -16,8 +16,13 @@
 <text><body><p n="1">
 <s n="1">
   <w>Formúlu</w>
-  <w>1</w>
-  <w>lið</w>
+  <revision id="0">
+    <original><w>1</w><w>lið</w></original>
+    <corrected><w>1-lið</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
   <w>Williams</w>
   <w>hefur</w>
   <w>samið</w>
@@ -39,14 +44,24 @@
   <w>Red</w>
   <w>Bull</w>
   <w>notar</w>
-  <w>Renault</w>
-  <w>vélar</w>
+  <revision id="0b">
+    <original><w>Renault</w><w>vélar</w></original>
+    <corrected><w>Renault-vélar</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>rétt</w>
   <w>eins</w>
   <w>og</w>
-  <w>Renault</w>
-  <w>liðið</w>
+  <revision id="0c">
+    <original><w>Renault</w><w>liðið</w></original>
+    <corrected><w>Renault-liðið</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
   <w>sjálft</w>
   <w>og</w>
   <w>Lotus</w>
@@ -131,15 +146,27 @@
   <w>vann</w>
   <w>Williams</w>
   <w>fjóra</w>
-  <w>meistaratitila</w>
+  <revision id="2b">
+    <original><w>meistaratitila</w></original>
+    <corrected><w>meistaratitla</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="2b-1" eid="0" />
+        <error xtype="nonword" idx="2b-1" eid="0" />
+      </errors>
+  </revision>
   <w>ökumanna</w>
   <w>og</w>
   <w>fjóra</w>
   <w>titla</w>
   <w>bílasmiða</w>
   <w>með</w>
-  <w>Renault</w>
-  <w>vélar</w>
+  <revision id="2c">
+    <original><w>Renault</w><w>vélar</w></original>
+    <corrected><w>Renault-vélar</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
   <revision id="3">
     <original><w>um</w><w>borð</w></original>
     <corrected></corrected>

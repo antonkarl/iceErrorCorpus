@@ -375,7 +375,14 @@
 <s n="14">
   <w>Það</w>
   <w>er</w>
-  <w>minnig</w>
+  <revision id="9b">
+    <original><w>minnig</w></original>
+    <corrected><w>minning</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="9b-1" eid="0" />
+        <error xtype="nonword" idx="9b-1" eid="0" />
+      </errors>
+  </revision>
   <w>sem</w>
   <w>verður</w>
   <w>alltaf</w>
@@ -522,7 +529,14 @@
   <w>annasöm</w>
   <w>helgi</w>
   <w>fyrir</w>
-  <w>tækimenn</w>
+  <revision id="10b">
+    <original><w>tækimenn</w></original>
+    <corrected><w>tæknimenn</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="10b-1" eid="0" />
+        <error xtype="nonword" idx="10b-1" eid="0" />
+      </errors>
+  </revision>
   <w>okkar</w>
   <w>og</w>
   <w>þeir</w>

@@ -16,7 +16,13 @@
 <text><body><p n="1">
 <s n="1">
   <w>Kanadíski</w>
-  <w>læknirnir</w>
+  <revision id="0">
+    <original><w>læknirnir</w></original>
+    <corrected><w>læknirinn</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
   <w>Anthony</w>
   <w>Galea</w>
   <w>hefur</w>
@@ -105,7 +111,14 @@
   <c>.</c>
 </s>
 <s n="5">
-  <w>Saknsóknari</w>
+  <revision id="1b">
+    <original><w>Saknsóknari</w></original>
+    <corrected><w>Saksóknari</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="1b-1" eid="0" />
+        <error xtype="nonword" idx="1b-1" eid="0" />
+      </errors>
+  </revision>
   <w>í</w>
   <w>Buffalo</w>
   <w>í</w>
