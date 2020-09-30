@@ -104,8 +104,13 @@
   <c>„</c>
   <w>Khan</w>
   <w>er</w>
-  <w>óvenju</w>
-  <w>hrokafullur</w>
+  <revision id="0">
+    <original><w>óvenju</w><w>hrokafullur</w></original>
+    <corrected><w>óvenjuhrokafullur</w></corrected>
+      <errors>
+        <error xtype="split-word" eid="0" />
+      </errors>
+  </revision>
   <w>miðað</w>
   <w>við</w>
   <w>hnefaleikamann</w>
@@ -117,7 +122,13 @@
   <w>barist</w>
   <w>um</w>
   <w>belti</w>
-  <w>ennþá</w>
+  <revision id="2b">
+    <original><w>ennþá</w></original>
+    <corrected><w>enn</w><w>þá</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>ég</w>
   <w>ætla</w>

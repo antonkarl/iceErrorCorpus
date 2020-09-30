@@ -235,7 +235,13 @@
   <w>skoraði</w>
   <w>af</w>
   <w>öryggi</w>
-  <w>framhjá</w>
+  <revision id="2b">
+    <original><w>framhjá</w></original>
+    <corrected><w>fram</w><w>hjá</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>Ingvari</w>
   <w>Þór</w>
   <w>Kale</w>

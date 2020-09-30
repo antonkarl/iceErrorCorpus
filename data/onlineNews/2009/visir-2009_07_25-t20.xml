@@ -205,7 +205,13 @@
   <w>eða</w>
   <w>Írland</w>
   <w>en</w>
-  <w>en</w>
+  <revision id="0b">
+    <original><w>en</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="repeat-word" eid="0" />
+      </errors>
+  </revision>
   <w>við</w>
   <w>erum</w>
   <w>nær</w>
@@ -213,7 +219,7 @@
   <w>en</w>
   <w>Bandaríkjunum</w>
   <c>,</c>
-  <revision id="0b">
+  <revision id="0c">
     <original><c>"</c></original>
     <corrected><c>“</c></corrected>
       <errors>
@@ -237,7 +243,14 @@
   <w>þjóðargjaldþrot</w>
   <w>eftir</w>
   <w>hrun</w>
-  <w>viðsiptabanka</w>
+  <revision id="0d">
+    <original><w>viðsiptabanka</w></original>
+    <corrected><w>viðskiptabanka</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="0d-1" eid="0" />
+        <error xtype="nonword" idx="0d-1" eid="0" />
+      </errors>
+  </revision>
   <w>sinna</w>
   <w>og</w>
   <w>Írar</w>

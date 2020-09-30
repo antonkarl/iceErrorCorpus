@@ -110,7 +110,13 @@
   <w>ríkissjóðs</w>
   <w>til</w>
   <w>nýju</w>
-  <w>bankana</w>
+  <revision id="2b">
+    <original><w>bankana</w></original>
+    <corrected><w>bankanna</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="5">
@@ -213,7 +219,13 @@
 </s>
 <s n="8">
   <w>Endurskipulagning</w>
-  <w>bankana</w>
+  <revision id="2b">
+    <original><w>bankana</w></original>
+    <corrected><w>bankanna</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
   <w>verður</w>
   <w>kynnt</w>
   <w>á</w>

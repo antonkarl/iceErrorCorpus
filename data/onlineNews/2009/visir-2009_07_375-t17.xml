@@ -175,7 +175,13 @@
 <s n="7">
   <w>Togga</w>
   <w>áskotnaðist</w>
-  <w>vínyl-plata</w>
+  <revision id="2b">
+    <original><w>vínyl-plata</w></original>
+    <corrected><w>vínylplata</w></corrected>
+      <errors>
+        <error xtype="extra-dash" eid="0" />
+      </errors>
+  </revision>
   <w>með</w>
   <w>Grafík</w>
   <w>sem</w>

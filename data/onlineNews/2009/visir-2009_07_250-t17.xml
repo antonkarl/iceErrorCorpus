@@ -52,7 +52,13 @@
   <c>,</c>
   <w>sem</w>
   <w>er</w>
-  <w>forvarnastarf</w>
+  <revision id="0">
+    <original><w>forvarnastarf</w></original>
+    <corrected><w>forvarnarstarf</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" eid="0" />
+      </errors>
+  </revision>
   <w>læknanema</w>
   <c>,</c>
   <w>kemur</w>
@@ -303,7 +309,13 @@
   <w>í</w>
   <w>skóla</w>
   <w>með</w>
-  <w>forvarnastarf</w>
+  <revision id="7">
+    <original><w>forvarnastarf</w></original>
+    <corrected><w>forvarnarstarf</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" eid="0" />
+      </errors>
+  </revision>
   <w>á</w>
   <w>haustin</w>
   <c>.</c>

@@ -28,7 +28,13 @@
   <w>sem</w>
   <w>leiðir</w>
   <w>að</w>
-  <w>ábendingaformi</w>
+  <revision id="0">
+    <original><w>ábendingaformi</w></original>
+    <corrected><w>ábendingarformi</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" eid="0" />
+      </errors>
+  </revision>
   <w>fyrir</w>
   <w>meint</w>
   <w>bótasvik</w>

@@ -270,8 +270,13 @@
   <w>á</w>
   <w>svæðum</w>
   <w>sem</w>
-  <w>ADSL</w>
-  <w>þjónustu</w>
+  <revision id="2">
+    <original><w>ADSL</w><w>þjónustu</original>
+    <corrected><w>ADSL-þjónustu</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
   <w>nýtur</w>
   <w>ekki</w>
   <w>en</w>
