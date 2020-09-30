@@ -147,7 +147,13 @@
   <w>verkefni</w>
   <w>sem</w>
   <w>eru</w>
-  <w>framundan</w>
+  <revision id="6a">
+    <original><w>framundan</w></original>
+    <corrected><w>fram</w><w>undan</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="6">
@@ -376,7 +382,13 @@
   <w>Seventure</w>
   <w>er</w>
   <w>í</w>
-  <w>takt</w>
+  <revision id="7a">
+    <original><w>takt</w></original>
+    <corrected><w>takti</w></corrected>
+      <errors>
+        <error xtype="collocation-idiom" eid="0" />
+      </errors>
+  </revision>
   <w>við</w>
   <w>það</w>
   <w>sem</w>
