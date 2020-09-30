@@ -129,7 +129,13 @@
   <w>ára</w>
   <w>og</w>
   <w>hljóðar</w>
-  <w>uppá</w>
+  <revision id="2a">
+    <original><w>uppá</w></original>
+    <corrected><w>upp</w><w>á</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>129</w>
   <w>milljónir</w>
   <w>dollara</w>
