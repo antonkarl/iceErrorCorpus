@@ -593,7 +593,13 @@
   <w>að</w>
   <w>það</w>
   <w>vantaði</w>
-  <w>uppá</w>
+  <revision id="17a">
+    <original><w>uppá</w></original>
+    <corrected><w>upp</w><w>á</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>leikformið</w>
   <c>.</c>
 </s>
@@ -731,7 +737,13 @@
   <w>hálfleik</w>
   <w>og</w>
   <w>töpum</w>
-  <w>eitthverju</w>
+  <revision id="20c">
+    <original><w>eitthverju</w></original>
+    <corrected><w>einhverju</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
   <w>öðru</w>
   <w>eins</w>
   <w>í</w>
@@ -1647,7 +1659,13 @@
   <w>og</w>
   <w>tölfræði</w>
   <w>koma</w>
-  <w>inná</w>
+  <revision id="20e">
+    <original><w>inná</w></original>
+    <corrected><w>inn</w><w>á</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>Vísi</w>
   <w>síðar</w>
   <w>í</w>
