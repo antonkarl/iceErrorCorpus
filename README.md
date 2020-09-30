@@ -1,6 +1,6 @@
 # Icelandic Error Corpus (IceEC)
 
-Version 0.9.4
+Version 1.0
 
 Copyright 2020 Anton Karl Ingason, Lilja Björk Stefánsdóttir, Þórunn Arnardóttir.
 
@@ -22,7 +22,7 @@ Anna Björk Nikulásdóttir, Jón Guðnason, Anton Karl Ingason, Hrafn Loftsson,
 
 # Íslensk villumálheild (IceEC)
 
-Útgáfa 0.9.4
+Útgáfa 1.0
 
 Höfundarréttur 2020 Anton Karl Ingason, Lilja Björk Stefánsdóttir, Þórunn Arnardóttir.
 
