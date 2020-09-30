@@ -431,7 +431,13 @@
   <w>við</w>
   <w>ekki</w>
   <w>litið</w>
-  <w>framhjá</w>
+  <revision id="2a">
+    <original><w>framhjá</w></original>
+    <corrected><w>fram</w><w>hjá</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>því</w>
   <w>að</w>
   <w>þetta</w>
