@@ -134,7 +134,13 @@
   <w>hvort</w>
   <w>bankarnir</w>
   <w>verði</w>
-  <w>verði</w>
+  <revision id="6b">
+    <original><w>verði</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="repeat-word" eid="0" />
+      </errors>
+  </revision>
   <w>áfram</w>
   <w>þrír</w>
   <c>.</c>
@@ -147,6 +153,13 @@
   <w>vegar</w>
   <w>ekki</w>
   <w>ekki</w>
+  <revision id="6c">
+    <original><w>ekki</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="repeat-word" eid="0" />
+      </errors>
+  </revision>
   <w>með</w>
   <w>endurfjármögnun</w>
   <w>þeirra</w>

@@ -369,7 +369,13 @@
   <w>sem</w>
   <w>er</w>
   <w>mesta</w>
-  <w>uppsagnarhrina</w>
+  <revision id="2">
+    <original><w>uppsagnarhrina</w></original>
+    <corrected><w>uppsagnahrina</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" eid="0" />
+      </errors>
+  </revision>
   <w>þar</w>
   <w>í</w>
   <w>landi</w>

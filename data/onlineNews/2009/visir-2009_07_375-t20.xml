@@ -90,7 +90,13 @@
 <s n="5">
   <w>FÍB</w>
   <w>Aðstoð</w>
-  <c>,</c>
+  <revision id="0">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
+      </errors>
+  </revision>
   <w>verður</w>
   <w>líka</w>
   <w>stórefld</w>
@@ -107,7 +113,13 @@
   <w>vandræðum</w>
   <w>vegna</w>
   <w>bilana</w>
-  <w>i</w>
+  <revision id="1">
+    <original><w>i</w></original>
+    <corrected><w>í</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <w>bílum</w>
   <c>.</c>
 </s>

@@ -19,8 +19,13 @@
   <w>McLaren</w>
   <w>í</w>
   <w>Formúlu</w>
-  <w>1</w>
-  <w>mótum</w>
+  <revision id="0">
+    <original><w>1</w><w>mótum</w></original>
+    <corrected><w>1-mótum</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
   <w>ársins</w>
   <w>hafa</w>
   <w>verið</w>

@@ -157,7 +157,14 @@
   <w>hefðu</w>
   <w>þeir</w>
   <w>getað</w>
-  <w>klafsað</w>
+  <revision id="2e">
+    <original><w>klafsað</w></original>
+    <corrected><w>krafsað</w></corrected>
+      <errors>
+        <error xtype="letter-rep" idx="2e-1" eid="0" />
+        <error xtype="nonword" idx="2e-1" eid="0" />
+      </errors>
+  </revision>
   <w>inn</w>
   <w>einu</w>
   <c>,</c>
@@ -169,7 +176,7 @@
   <w>það</w>
   <w>ekki</w>
   <c>.</c>
-  <revision id="2e">
+  <revision id="2f">
     <original><c>&quot;</c></original>
     <corrected><c>“</c></corrected>
       <errors>

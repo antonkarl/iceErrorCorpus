@@ -105,7 +105,13 @@
   <w>það</w>
   <w>fór</w>
   <w>naumlega</w>
-  <w>framhjá</w>
+  <revision id="1b">
+    <original><w>framhjá</w></original>
+    <corrected><w>fram</w><w>hjá</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>Víkingsmarkinu</w>
   <c>.</c>
 </s>
@@ -217,7 +223,14 @@
   <w>að</w>
   <w>ógna</w>
   <w>marki</w>
-  <w>gestana</w>
+  <revision id="1c">
+    <original><w>gestana</w></original>
+    <corrected><w>gestanna</w></corrected>
+      <errors>
+        <error xtype="n4nn" idx="1c-1" eid="0" />
+        <error xtype="nonword" idx="1c-1" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="11">

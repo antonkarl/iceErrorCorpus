@@ -66,7 +66,14 @@
   <w>einnig</w>
   <w>komið</w>
   <w>í</w>
-  <w>kaupphlaupið</w>
+  <revision id="0">
+    <original><w>kaupphlaupið</w></original>
+    <corrected><w>kauphlaupið</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="0-1" eid="0" />
+        <error xtype="nonword" idx="0-1" eid="0" />
+      </errors>
+  </revision>
   <w>um</w>
   <w>hinn</w>
   <w>25</w>

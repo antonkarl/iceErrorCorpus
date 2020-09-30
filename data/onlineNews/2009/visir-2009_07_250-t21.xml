@@ -40,7 +40,14 @@
   <w>kemur</w>
   <w>til</w>
   <w>spænska</w>
-  <w>félagssins</w>
+  <revision id="0">
+    <original><w>félagssins</w></original>
+    <corrected><w>félagsins</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="0-1" eid="0" />
+        <error xtype="nonword" idx="0-1" eid="0" />
+      </errors>
+  </revision>
   <w>á</w>
   <w>frjálsri</w>
   <w>sölu</w>
@@ -115,6 +122,13 @@
   <w>beðið</w>
   <w>eftir</w>
   <w>því</w>
+  <revision id="0b">
+    <original></original>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="missing-inf-part" eid="0" />
+      </errors>
+  </revision>
   <w>endurvekja</w>
   <w>feril</w>
   <w>minn</w>

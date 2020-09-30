@@ -202,7 +202,13 @@
   <c>.</c>
 </s>
 <s n="12">
-  <w>Framundan</w>
+  <revision id="5b">
+    <original><w>Framundan</w></original>
+    <corrected><w>Fram</w><w>undan</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>eru</w>
   <w>stórar</w>
   <w>ákvarðanir</w>

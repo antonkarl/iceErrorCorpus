@@ -202,7 +202,13 @@
   <w>þessum</w>
   <w>vettvangi</w>
   <w>gerir</w>
-  <w>útaf</w>
+  <revision id="0">
+    <original><w>útaf</w></original>
+    <corrected><w>út</w><w>af</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>við</w>
   <w>mörg</w>
   <w>fyrirtæki</w>

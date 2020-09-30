@@ -129,7 +129,14 @@
   <w>greiða</w>
   <w>fyrirtækin</w>
   <w>0,25%</w>
-  <w>ábyrgðagjald</w>
+  <revision id="2b">
+    <original><w>ábyrgðagjald</w></original>
+    <corrected><w>ábygrðargjald</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="2b-1" eid="0" />
+        <error xtype="compound-nonword" idx="2b-1" eid="0" />
+      </errors>
+  </revision>
   <w>af</w>
   <w>lánum</w>
   <w>sínum</w>
@@ -184,7 +191,13 @@
   <w>hafði</w>
   <w>ESA</w>
   <w>beint</w>
-  <w>samskonar</w>
+  <revision id="2c">
+    <original><w>samskonar</w></original>
+    <corrected><w>sams</w><w>konar</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>tilmælum</w>
   <w>til</w>
   <w>norskra</w>

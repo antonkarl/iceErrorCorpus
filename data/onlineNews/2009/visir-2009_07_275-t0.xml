@@ -160,7 +160,13 @@
   <w>segir</w>
   <w>að</w>
   <w>í</w>
-  <w>gengum</w>
+  <revision id="1c">
+    <original><w>gengum</w></original>
+    <corrected><w>gegnum</w></corrected>
+      <errors>
+        <error xtype="swapped-letters" eid="0" />
+      </errors>
+  </revision>
   <w>árin</w>
   <w>hafi</w>
   <w>ST</w>

@@ -117,7 +117,13 @@
   <w>í</w>
   <w>því</w>
   <w>að</w>
-  <w>að</w>
+  <revision id="1b">
+    <original><w>að</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="repeat-word" eid="0" />
+      </errors>
+  </revision>
   <w>leyfa</w>
   <w>sjálfum</w>
   <w>sér</w>

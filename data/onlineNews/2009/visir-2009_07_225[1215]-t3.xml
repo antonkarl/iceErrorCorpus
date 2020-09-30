@@ -241,7 +241,13 @@
 <s n="9">
   <w>Reuters</w>
   <w>segir</w>
-  <w>ennfremur</w>
+  <revision id="4b">
+    <original><w>ennfremur</w></original>
+    <corrected><w>enn</w><w>fremur</w></corrected>
+      <errors>
+        <error xtype="merged-words" idx="4b-1" eid="0" />
+      </errors>
+  </revision>
   <w>að</w>
   <w>nú</w>
   <w>hafi</w>
@@ -281,7 +287,13 @@
   <c>.</c>
 </s>
 <s n="11">
-  <w>Bítla-safnið</w>
+  <revision id="5">
+    <original><w>Bítla-safnið</w></original>
+    <corrected><w>Bítlasafnið</w></corrected>
+      <errors>
+        <error xtype="extra-dash" eid="0" />
+      </errors>
+  </revision>
   <w>er</w>
   <w>að</w>
   <w>sjálfsögðu</w>

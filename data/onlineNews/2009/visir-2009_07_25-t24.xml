@@ -16,8 +16,13 @@
 <text><body><p n="1">
 <s n="1">
   <w>Star</w>
-  <w>Wars</w>
-  <w>stjarnan</w>
+  <revision id="0">
+    <original><w>Wars</w><w>stjarnan</w></original>
+    <corrected><w>Wars-stjarnan</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
   <w>Natalie</w>
   <w>Portman</w>
   <w>hefur</w>
@@ -33,7 +38,14 @@
   <w>byggir</w>
   <w>á</w>
   <w>norræna</w>
-  <w>guðnum</w>
+  <revision id="0b">
+    <original><w>guðnum</w></original>
+    <corrected><w>guðinum</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="0b-1" eid="0" />
+        <error xtype="nonword" idx="0b-1" eid="0" />
+      </errors>
+  </revision>
   <w>Þór</w>
   <c>.</c>
 </s>

@@ -222,8 +222,21 @@
   <w>var</w>
   <w>að</w>
   <w>koma</w>
-  <w>erlendis</w>
+  <revision id="6b">
+    <original><w>erlendis</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="wording" idx="6b-1" eid="0" />
+      </errors>
+  </revision>
   <w>frá</w>
+  <revision id="6c">
+    <original></original>
+    <corrected><w>útlöndum</w></corrected>
+      <errors>
+        <error xtype="dep" depId="6b-1" eid="0" />
+      </errors>
+  </revision>
   <w>líklega</w>
   <w>smituð</w>
   <c>.</c>

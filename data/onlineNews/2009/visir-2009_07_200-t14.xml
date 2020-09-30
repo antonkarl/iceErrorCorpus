@@ -131,7 +131,15 @@
 </s>
 <s n="7">
   <w>Margvísleg</w>
-  <w>hátíðadagsrká</w>
+  <revision id="3">
+    <original><w>hátíðadagsrká</w></original>
+    <corrected><w>hátíðardagskrá</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="3-1" eid="0" />
+        <error xtype="swapped-letters" idx="3-1" eid="0" />
+        <error xtype="nonword" idx="3-1" eid="0" />
+      </errors>
+  </revision>
   <w>verður</w>
   <w>vegna</w>
   <w>afmælisins</w>

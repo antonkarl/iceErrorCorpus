@@ -201,7 +201,14 @@
   <w>á</w>
   <w>miðvikudagskvöldið</w>
   <w>í</w>
-  <w>siðustu</w>
+  <revision id="2c">
+    <original><w>siðustu</w></original>
+    <corrected><w>síðustu</w></corrected>
+      <errors>
+        <error xtype="missing-accent" idx="2c-1" eid="0" />
+        <error xtype="nonword" idx="2c-1" eid="0" />
+      </errors>
+  </revision>
   <w>viku</w>
   <w>að</w>
   <w>stúlkurnar</w>

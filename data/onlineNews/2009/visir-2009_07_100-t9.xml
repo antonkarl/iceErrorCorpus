@@ -189,7 +189,13 @@
   <w>það</w>
   <w>að</w>
   <w>ríkisstjórnin</w>
-  <w>leggur</w>
+  <revision id="2c">
+    <original><w>leggur</w></original>
+    <corrected><w>leggi</w></corrected>
+      <errors>
+        <error xtype="ind4sub" eid="0" />
+      </errors>
+  </revision>
   <w>mikla</w>
   <w>áherslu</w>
   <w>á</w>

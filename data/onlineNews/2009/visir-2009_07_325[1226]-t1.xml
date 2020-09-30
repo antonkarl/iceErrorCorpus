@@ -320,7 +320,14 @@
   <c>,</c>
   <w>hrá- og rekstrarvöru</w>
   <w>og</w>
-  <w>fjárfestingavöru</w>
+  <revision id="8">
+    <original><w>fjárfestingavöru</w></original>
+    <corrected><w>fjárfestingarvöru</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="8-1" eid="0" />
+        <error xtype="compound-nonword" idx="8-1" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 </p></body></text>
