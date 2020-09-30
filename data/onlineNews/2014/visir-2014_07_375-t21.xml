@@ -66,7 +66,14 @@
   <w>hestinum</w>
   <w>Veru</w>
   <w>frá</w>
-  <w>Þórodsstöðum</w>
+  <revision id="1a">
+    <original><w>Þórodsstöðum</w></original>
+    <corrected><w>Þóroddsstöðum</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="1a-1" eid="0" />
+        <error xtype="compound-nonword" idx="1a-1" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>runnu</w>
   <w>þær</w>
