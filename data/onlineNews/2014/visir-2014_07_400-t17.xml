@@ -460,7 +460,13 @@
   <w>áform</w>
   <w>um</w>
   <w>lestarsamgöngur</w>
-  <w>mili</w>
+  <revision id="6a">
+    <original><w>mili</w></original>
+    <corrected><w>milli</w></corrected>
+      <errors>
+        <error xtype="missing-letter" eid="0" />
+      </errors>
+  </revision>
   <w>Keflavíkur</w>
   <w>og</w>
   <w>Reykjavíkur</w>
