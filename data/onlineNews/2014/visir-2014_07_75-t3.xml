@@ -40,7 +40,13 @@
   <w>að</w>
   <w>krækja</w>
   <w>þarna</w>
-  <w>framhjá</w>
+  <revision id="1a">
+    <original><w>framhjá</w></original>
+    <corrected><w>fram</w><w>hjá</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>vörubíl</w>
   <c>,</c>
   <w>eins</w>
@@ -116,7 +122,13 @@
   <w>og</w>
   <w>slíku</w>
   <w>fer</w>
-  <w>framhjá</w>
+  <revision id="1b">
+    <original><w>framhjá</w></original>
+    <corrected><w>fram</w><w>hjá</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>húsinu</w>
   <c>.</c>
 </s>
@@ -170,7 +182,7 @@
   <w>stórslys</w>
   <c>,</c>
   <c>“</c>
-  <w>segir</w>
+  <w>Segir</w>
   <w>Valdimar</w>
   <c>.</c>
 </s>
