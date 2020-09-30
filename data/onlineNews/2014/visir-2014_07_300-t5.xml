@@ -117,7 +117,13 @@
   <w>hafa</w>
   <w>sprottið</w>
   <w>upp</w>
-  <w>víðsvegar</w>
+  <revision id="2a">
+    <original><w>víðsvegar</w></original>
+    <corrected><w>víðs</w><w>vegar</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>í</w>
   <w>rústunum</w>
   <w>frá</w>
