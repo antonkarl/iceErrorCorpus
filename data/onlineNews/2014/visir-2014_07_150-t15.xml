@@ -50,7 +50,14 @@
   <w>er</w>
   <w>skrifuð</w>
   <w>af</w>
-  <w>fréttasnápinum</w>
+  <revision id="1a">
+    <original><w>fréttasnápinum</w></original>
+    <corrected><w>fréttasnápnum</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="1a-1" eid="0" />
+        <error xtype="compound-nonword" idx="1a-1" eid="0" />
+      </errors>
+  </revision>
   <w>Ritu</w>
   <w>Skeeter</w>
   <w>sem</w>
