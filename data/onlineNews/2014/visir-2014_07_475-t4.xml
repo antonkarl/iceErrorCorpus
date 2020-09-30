@@ -278,14 +278,28 @@
   <c>.</c>
 </s>
 <s n="12">
-  <w>Holllenska</w>
+  <revision id="6b">
+    <original><w>Holllenska</w></original>
+    <corrected><w>Hollenska</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="6b-1" eid="0" />
+        <error xtype="nonword" idx="6b-1" eid="0" />
+      </errors>
+  </revision>
   <w>liðið</w>
   <w>mun</w>
   <w>berjast</w>
   <w>fram</w>
   <w>á</w>
   <w>síðustu</w>
-  <w>mínutu</w>
+  <revision id="6a">
+    <original><w>mínutu</w></original>
+    <corrected><w>mínútu</w></corrected>
+      <errors>
+        <error xtype="missing-accent" idx="6a-1" eid="0" />
+        <error xtype="nonword" idx="6a-1" eid="0" />
+      </errors>
+  </revision>
   <w>til</w>
   <w>þess</w>
   <w>að</w>
