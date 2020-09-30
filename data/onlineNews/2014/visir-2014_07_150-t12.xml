@@ -349,7 +349,14 @@
   <w>þarna</w>
   <w>niður</w>
   <w>í</w>
-  <w>grinverkið</w>
+  <revision id="7a">
+    <original><w>grinverkið</w></original>
+    <corrected><w>grindverkið</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="7a-1" eid="0" />
+        <error xtype="compound-nonword" idx="7a-1" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="15">
