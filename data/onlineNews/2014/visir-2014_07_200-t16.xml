@@ -18,7 +18,13 @@
   <w>Eldur</w>
   <w>kom</w>
   <w>upp</w>
-  <w>i</w>
+  <revision id="1a">
+    <original><w>i</w></original>
+    <corrected><w>í</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <w>fjárhúsi</w>
   <w>á</w>
   <w>Eyrarbakka</w>
@@ -28,7 +34,13 @@
   <w>á</w>
   <w>ellefta</w>
   <w>tímanum</w>
-  <w>i</w>
+  <revision id="1b">
+    <original><w>i</w></original>
+    <corrected><w>í</w></corrected>
+      <errors>
+        <error xtype="missing-accent" eid="0" />
+      </errors>
+  </revision>
   <w>morgun</w>
   <w>en</w>
   <w>inn</w>
