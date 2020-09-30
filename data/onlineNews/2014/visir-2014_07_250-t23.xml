@@ -86,7 +86,14 @@
   <w>fullyrt</w>
   <w>er</w>
   <w>í</w>
-  <w>fjömiðlum</w>
+  <revision id="1a">
+    <original><w>fjömiðlum</w></original>
+    <corrected><w>fjölmiðlum</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="1a-1" eid="0" />
+        <error xtype="compound-nonword" idx="1a-1" eid="0" />
+      </errors>
+  </revision>
   <w>ytra</w>
   <w>að</w>
   <w>hann</w>
@@ -118,7 +125,7 @@
       </errors>
   </revision>
   <w>átta</w>
-  <w>tímabil</w>
+  <w>tímabil</w> 
   <w>í</w>
   <w>herbúðum</w>
   <w>síðarnefnda</w>
