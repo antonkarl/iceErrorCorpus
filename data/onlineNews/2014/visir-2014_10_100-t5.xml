@@ -83,7 +83,13 @@
   <w>máltíð</w>
   <c>!</c>
 </s><s n="5">
-  <w>Fyrirfram</w>
+  <revision id="1a">
+    <original><w>Fyrirfram</w></original>
+    <corrected><w>Fyrir</w><w>fram</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>var</w>
   <w>talið</w>
   <w>að</w>
@@ -99,7 +105,7 @@
   <w>hlutdeild</w>
   <w>þess</w>
   <w>á</w>
-  <w>jógúrtmarkaðnum</w>
+  <w>jógúrtmarkaðinum</w>
   <w>hefur</w>
   <w>aukist</w>
   <w>um</w>
