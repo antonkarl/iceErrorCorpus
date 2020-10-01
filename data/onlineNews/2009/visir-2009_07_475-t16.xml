@@ -97,7 +97,13 @@
   <w>talað</w>
   <w>við</w>
   <w>okkur</w>
-  <w>ennþá</w>
+  <revision id="2b">
+    <original><w>ennþá</w></original>
+    <corrected><w>enn</w><w>þá</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>um</w>
   <w>möguleikann</w>
   <w>á</w>
@@ -118,7 +124,7 @@
   <w>hjá</w>
   <w>Barcelona</w>
   <c>,</c>
-  <revision id="2b">
+  <revision id="3">
     <original><c>&quot;</c></original>
     <corrected><c>“</c></corrected>
       <errors>

@@ -26,7 +26,13 @@
   <w>flokksins</w>
   <w>í</w>
   <w>Evrópumálum</w>
-  <w>skýra</w>
+  <revision id="0">
+    <original><w>skýra</w></original>
+    <corrected><w>skíra</w></corrected>
+      <errors>
+        <error xtype="ý4í" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="2">

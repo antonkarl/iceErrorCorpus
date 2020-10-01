@@ -175,12 +175,12 @@
   <w>voru</w>
   <w>keyptar</w>
   <w>650</w>
-  <w>iPad</w>
   <revision id="4">
-    <original><w>spjaldtölvurfyrir</w></original>
-    <corrected><w>spjaldtölvur</w><w>fyrir</w></corrected>
+    <original><w>iPad</w><w>spjaldtölvurfyrir</w></original>
+    <corrected><w>iPad-spjaldtölvur</w><w>fyrir</w></corrected>
       <errors>
-        <error xtype="missing-space" eid="0" />
+        <error xtype="missing-space" idx="4-1" eid="0" />
+        <error xtype="missing-dash" idx="4-1" eid="0" />
       </errors>
   </revision>
   <w>alla</w>

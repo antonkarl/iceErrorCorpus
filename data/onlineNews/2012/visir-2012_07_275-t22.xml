@@ -107,7 +107,14 @@
   <w>í</w>
   <w>vandræðum</w>
   <w>með</w>
-  <w>stýristöngina</w>
+  <revision id="6b">
+    <original><w>stýristöngina</w></original>
+    <corrected><w>stýrisstöngina</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="6b-1" eid="0" />
+        <error xtype="compound-nonword" idx="6b-1" eid="0" />
+      </errors>
+  </revision>
   <w>í</w>
   <w>Force</w>
   <w>India-bílnum</w>

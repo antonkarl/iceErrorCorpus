@@ -276,7 +276,13 @@
   <w>fyrir</w>
   <w>slíka</w>
   <w>ferð</w>
-  <w>svarði</w>
+  <revision id="5c">
+    <original><w>svarði</w></original>
+    <corrected><w>svaraði</w></corrected>
+      <errors>
+        <error xtype="missing-letter" eid="0" />
+      </errors>
+  </revision>
   <w>Nanna</w>
   <c>:</c>
   <c>„</c>

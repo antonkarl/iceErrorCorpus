@@ -476,7 +476,14 @@
   <w>stofna</w>
   <w>dýrahótel</w>
   <w>í</w>
-  <w>Vestmanneyjum</w>
+  <revision id="8d">
+    <original><w>Vestmanneyjum</w></original>
+    <corrected><w>Vestmannaeyjum</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="8d-1" eid="0" />
+        <error xtype="nonword" idx="8d-1" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="28">

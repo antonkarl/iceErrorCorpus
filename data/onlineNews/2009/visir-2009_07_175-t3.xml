@@ -17,7 +17,14 @@
 <s n="1">
   <w>Klifurgrind</w>
   <w>á</w>
-  <w>leikssvæði</w>
+  <revision id="0">
+    <original><w>leikssvæði</w></original>
+    <corrected><w>leiksvæði</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="0-1" eid="0" />
+        <error xtype="compound-nonword" idx="0-1" eid="0" />
+      </errors>
+  </revision>
   <w>við</w>
   <w>Engidalsskóla</w>
   <w>í</w>

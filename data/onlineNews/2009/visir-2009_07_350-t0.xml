@@ -99,7 +99,14 @@
   <c>.</c>
 </s>
 <s n="5">
-  <w>Umfjöllum</w>
+  <revision id="1b">
+    <original><w>Umfjöllum</w></original>
+    <corrected><w>Umfjöllun</w></corrected>
+      <errors>
+        <error xtype="letter-rep" idx="1b-1" eid="0" />
+        <error xtype="nonword" idx="1b-1" eid="0" />
+      </errors>
+  </revision>
   <w>um</w>
   <w>hugmynd</w>
   <w>Vidal</w>

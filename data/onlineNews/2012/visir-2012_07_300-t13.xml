@@ -23,13 +23,13 @@
   <w>og</w>
   <w>Rússlandi</w>
   <revision id="1">
-    <original><w>gengt</w></original>
-    <corrected><w>gegn</w></corrected>
+    <original><w>gengt</w><w>hvort</w></original>
+    <corrected><w>hvort</w><w>gegn</w></corrected>
       <errors>
-        <error xtype="wording" eid="0" />
+        <error xtype="each" idx="1-1" eid="0" />
+        <error xtype="wording" idx="1-2" eid="0" />
       </errors>
   </revision>
-  <w>hvort</w>
   <w>öðru</w>
   <w>í</w>
   <w>pókerspili</w>

@@ -180,13 +180,14 @@
   <w>á</w>
   <w>því</w>
   <w>núna</w>
-  <revision id="2">
-    <original><w>m.</w><w>a</w><c>.</c></original>
-    <corrected><w>m.a.</w></corrected>
+  <revision id="1b">
+    <original></original>
+    <corrected><c>,</c></corrected>
       <errors>
-        <error xtype="extra-space" eid="0" />
+        <error xtype="missing-comma" eid="0" />
       </errors>
   </revision>
+  <w>m.a.</w>
   <w>á</w>
   <w>sviði</w>
   <w>sjávarútvegs</w>
@@ -204,13 +205,7 @@
 <s n="8">
   <w>Það</w>
   <w>getur</w>
-  <revision id="3">
-    <original><w>m.</w><w>a</w><c>.</c></original>
-    <corrected><w>m.a.</w></corrected>
-      <errors>
-        <error xtype="extra-space" eid="0" />
-      </errors>
-  </revision>
+  <w>m.a.</w>
   <w>orðið</w>
   <w>framlag</w>
   <w>okkar</w>

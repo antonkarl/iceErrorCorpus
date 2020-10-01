@@ -195,7 +195,14 @@
   <w>þegar</w>
   <w>tilkynnt</w>
   <w>um</w>
-  <w>framtið</w>
+  <revision id="3">
+    <original><w>framtið</w></original>
+    <corrected><w>framtíð</w></corrected>
+      <errors>
+        <error xtype="missing-accent" idx="3-1" eid="0" />
+        <error xtype="nonword" idx="3-1" eid="0" />
+      </errors>
+  </revision>
   <w>til</w>
   <w>forseta</w>
   <w>FIA</w>

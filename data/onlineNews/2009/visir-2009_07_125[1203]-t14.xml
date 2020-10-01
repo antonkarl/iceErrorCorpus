@@ -36,9 +36,14 @@
   <w>ekki</w>
   <w>sitja</w>
   <w>leiðtogafund</w>
-  <w>G</w>
-  <w>8</w>
-  <w>ríkjanna</w>
+  <revision id="0">
+    <original><w>G</w><w>8</w><w>ríkjanna</w></original>
+    <corrected><w>G8-ríkjanna</w></corrected>
+      <errors>
+        <error xtype="extra-space" idx="0-1" eid="0" />
+        <error xtype="missing-dash" idx="0-1" eid="0" />
+      </errors>
+  </revision>
   <w>vegna</w>
   <w>ástandsins</w>
   <c>.</c>

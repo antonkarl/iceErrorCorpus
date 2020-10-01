@@ -26,8 +26,13 @@
   <c>.</c>
 </s>
 <s n="2">
-  <w>Nikkei</w>
-  <w>vísitalan</w>
+  <revision id="0">
+    <original><w>Nikkei</w><w>vísitalan</w></original>
+    <corrected><w>Nikkei-vísitalan</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
   <w>í</w>
   <w>Tókýó</w>
   <w>lækkaði</w>
@@ -35,8 +40,13 @@
   <w>1,4%</w>
   <w>og</w>
   <w>Hang</w>
-  <w>Seng</w>
-  <w>vísitalan</w>
+  <revision id="0b">
+    <original><w>Seng</w><w>vísitalan</w></original>
+    <corrected><w>Seng-vísitalan</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
   <w>í</w>
   <w>Hong</w>
   <w>Kong</w>

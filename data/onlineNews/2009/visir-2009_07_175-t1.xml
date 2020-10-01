@@ -35,7 +35,7 @@
   <w>staðan</w>
   <w>er</w>
   <w>1</w>
-
+  <c>-</c>
   <w>0</w>
   <w>heimamönnum</w>
   <w>í</w>
@@ -53,7 +53,7 @@
   <w>kunnugt</w>
   <w>er</w>
   <w>2</w>
-
+  <c>-</c>
   <w>0</w>
   <w>á</w>
   <w>KR-vellinum</w>
@@ -208,7 +208,7 @@
   <w>samt</w>
   <w>enn</w>
   <w>1</w>
-
+  <c>-</c>
   <w>0</w>
   <w>fyrir</w>
   <w>Larissa</w>
@@ -224,7 +224,13 @@
   <w>seinni</w>
   <w>hálfleikur</w>
   <w>er</w>
-  <w>framundan</w>
+  <revision id="2">
+    <original><w>framundan</w></original>
+    <corrected><w>fram</w><w>undan</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>þar</w>
   <w>sem</w>
   <w>KR-ingar</w>

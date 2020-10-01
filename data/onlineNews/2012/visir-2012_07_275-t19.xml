@@ -486,7 +486,13 @@
   <w>er</w>
   <w>það</w>
   <w>hulin</w>
-  <w>gáta</w>
+  <revision id="10b">
+    <original><w>gáta</w></original>
+    <corrected><w>ráðgáta</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
   <w>hvernig</w>
   <w>það</w>
   <w>að</w>

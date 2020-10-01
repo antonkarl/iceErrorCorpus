@@ -80,7 +80,13 @@
   <w>Ég</w>
   <w>hef</w>
   <w>oft</w>
-  <w>oft</w>
+  <revision id="0b">
+    <original><w>oft</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="repeat-word" eid="0" />
+      </errors>
+  </revision>
   <w>gagnrýnt</w>
   <w>FIA</w>
   <c>,</c>

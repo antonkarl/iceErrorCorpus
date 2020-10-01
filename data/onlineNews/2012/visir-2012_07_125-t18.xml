@@ -72,7 +72,14 @@
   <w>Það</w>
   <w>er</w>
   <w>mat</w>
-  <w>dómefndar</w>
+  <revision id="1b">
+    <original><w>dómefndar</w></original>
+    <corrected><w>dómnefndar</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="1b-1" eid="0" />
+        <error xtype="nonword" idx="1b-1" eid="0" />
+      </errors>
+  </revision>
   <w>að</w>
   <w>í</w>
   <w>sýningunni</w>

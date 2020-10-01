@@ -273,8 +273,13 @@
   <w>gær</w>
   <w>geta</w>
   <w>svokallaðir</w>
-  <w>acetylín</w>
-  <w>kútar</w>
+  <revision id="12b">
+    <original><w>acetylín</w><w>kútar</w></original>
+    <corrected><w>acetylín-kútar</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
   <w>kastast</w>
   <w>hátt</w>
   <w>í</w>

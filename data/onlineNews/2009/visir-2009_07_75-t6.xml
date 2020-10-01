@@ -117,7 +117,14 @@
   <c>.</c>
 </s>
 <s n="5">
-  <w>Landmótið</w>
+  <revision id="0b">
+    <original><w>Landmótið</w></original>
+    <corrected><w>Landsmótið</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="0b-1" eid="0" />
+        <error xtype="compoun-nonword" idx="0b-1" eid="0" />
+      </errors>
+  </revision>
   <w>hófst</w>
   <w>á</w>
   <w>fimmtudaginn</w>

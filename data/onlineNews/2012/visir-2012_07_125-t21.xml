@@ -118,7 +118,15 @@
 </s>
 <s n="6">
   <w>Það</w>
-  <w>ringdi</w>
+  <revision id="2b">
+    <original><w>ringdi</w></original>
+    <corrected><w>rigndi</w></corrected>
+      <errors>
+        <error xtype="swapped-letters" idx="2b-1" eid="0" />
+        <error xtype="pronun-writing" idx="2b-1" eid="0" />
+        <error xtype="nonword" idx="2b-1" eid="0" />
+      </errors>
+  </revision>
   <w>eldi</w>
   <w>og</w>
   <w>brennisteini</w>

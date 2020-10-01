@@ -98,7 +98,14 @@
   <w>í</w>
   <w>metfjölda</w>
   <w>á</w>
-  <w>unglingalandsmoti</w>
+  <revision id="1b">
+    <original><w>unglingalandsmoti</w></original>
+    <corrected><w>unglingalandsmóti</w></corrected>
+      <errors>
+        <error xtype="missing-accent" idx="1b-1" eid="0" />
+        <error xtype="nonword" idx="1b-1" eid="0" />
+      </errors>
+  </revision>
   <w>UMFÍ</w>
   <c>,</c>
   <w>sem</w>

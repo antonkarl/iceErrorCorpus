@@ -57,7 +57,14 @@
   <w>fram</w>
   <w>á</w>
   <w>heimasíðu</w>
-  <w>sambandins</w>
+  <revision id="1b">
+    <original><w>sambandins</w></original>
+    <corrected><w>sambandsins</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="1b-1" eid="0" />
+        <error xtype="nonword" idx="1b-1" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="3">

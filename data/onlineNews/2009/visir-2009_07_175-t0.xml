@@ -75,7 +75,13 @@
   <w>frest</w>
   <w>því</w>
   <w>ég</w>
-  <w>vill</w>
+  <revision id="3b">
+    <original><w>vill</w></original>
+    <corrected><w>vil</w></corrected>
+      <errors>
+        <error xtype="want" eid="0" />
+      </errors>
+  </revision>
   <w>fullvissa</w>
   <w>mig</w>
   <w>um</w>

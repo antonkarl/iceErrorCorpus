@@ -160,7 +160,14 @@
   <w>Þó</w>
   <w>svo</w>
   <w>að</w>
-  <w>hvítabjörnin</w>
+  <revision id="6b">
+    <original><w>hvítabjörnin</w></original>
+    <corrected><w>hvítabjörninn</w></corrected>
+      <errors>
+        <error xtype="n4nn" idx="6b-1" eid="0" />
+        <error xtype="nonword" idx="6b-1" eid="0" />
+      </errors>
+  </revision>
   <w>væri</w>
   <w>ekki</w>
   <w>sýnilegur</w>
@@ -186,7 +193,14 @@
   <w>er</w>
   <w>talið</w>
   <w>að</w>
-  <w>hvítabjörnin</w>
+  <revision id="7b">
+    <original><w>hvítabjörnin</w></original>
+    <corrected><w>hvítabjörninn</w></corrected>
+      <errors>
+        <error xtype="n4nn" idx="7b-1" eid="0" />
+        <error xtype="nonword" idx="7b-1" eid="0" />
+      </errors>
+  </revision>
   <w>hafi</w>
   <w>gengið</w>
   <w>á</w>

@@ -68,7 +68,14 @@
   <w>handtökunni</w>
   <w>og</w>
   <w>baðst</w>
-  <w>afsökunnar</w>
+  <revision id="2b">
+    <original><w>afsökunnar</w></original>
+    <corrected><w>afsökunar</w></corrected>
+      <errors>
+        <error xtype="nn4n" idx="2b-1" eid="0" />
+        <error xtype="nonword" idx="2b-1" eid="0" />
+      </errors>
+  </revision>
   <w>á</w>
   <w>hegðun</w>
   <w>sinni</w>

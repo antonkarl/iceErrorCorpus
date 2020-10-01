@@ -315,8 +315,13 @@
   <w>mikla</w>
   <w>pressu</w>
   <w>á</w>
-  <w>Brawn</w>
-  <w>liðið</w>
+  <revision id="4">
+    <original><w>Brawn</w><w>liðið</w></original>
+    <corrected><w>Brawn-liðið</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
   <w>sem</w>
   <w>réð</w>
   <w>lögum</w>
