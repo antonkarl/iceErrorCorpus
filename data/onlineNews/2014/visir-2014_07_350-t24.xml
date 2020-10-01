@@ -205,7 +205,13 @@
   <w>hefði</w>
   <w>verið</w>
   <w>tekinn</w>
-  <w>útaf</w>
+  <revision id="3a">
+    <original><w>útaf</w></original>
+    <corrected><w>út</w><w>af</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>fyrr</w>
   <w>í</w>
   <w>leiknum</w>
