@@ -395,7 +395,14 @@
   <w>Hilmarsson</w>
   <w>sigraði</w>
   <w>á</w>
-  <w>meistarmóti</w>
+  <revision id="5a">
+    <original><w>meistarmóti</w></original>
+    <corrected><w>meistaramóti</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="5a-1" eid="0" />
+        <error xtype="compound-nonword" idx="5a-1" eid="0" />
+      </errors>
+  </revision>
   <w>GKG</w>
   <w>en</w>
   <w>næstur</w>
