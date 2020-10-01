@@ -509,7 +509,14 @@
   <w>sagði</w>
   <w>ákvörðunina</w>
   <w>vera</w>
-  <w>foræmalausa</w>
+  <revision id="18a">
+    <original><w>foræmalausa</w></original>
+    <corrected><w>fordæmalausa</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="18a-1" eid="0" />
+        <error xtype="compound-nonword" idx="18a-1" eid="0" />
+      </errors>
+  </revision>
   <c>;</c>
   <w>þetta</w>
   <w>væri</w>
