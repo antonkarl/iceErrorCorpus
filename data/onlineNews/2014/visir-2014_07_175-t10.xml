@@ -504,7 +504,14 @@
 </s>
 <s n="20">
   <c>„</c>
-  <w>Aksturlagið</w>
+  <revision id="11a">
+    <original><w>Aksturlagið</w></original>
+    <corrected><w>Aksturslagið</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="11a-1" eid="0" />
+        <error xtype="compound-nonword" idx="11a-1" eid="0" />
+      </errors>
+  </revision>
   <w>var</w>
   <w>hættulegt</w>
   <w>fyrir</w>
