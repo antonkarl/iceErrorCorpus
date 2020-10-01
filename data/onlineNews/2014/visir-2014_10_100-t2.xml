@@ -72,7 +72,14 @@
   <w>síðari</w>
   <w>hálfleik</w>
   <w>eftir</w>
-  <w>viðburðarlítinn</w>
+  <revision id="1a">
+    <original><w>viðburðarlítinn</w></original>
+    <corrected><w>viðburðalítinn</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="1a-1" eid="0" />
+        <error xtype="compound-nonword" idx="1a-1" eid="0" />
+      </errors>
+  </revision>
   <w>fyrri</w>
   <w>hálfleik</w>
   <c>.</c>
