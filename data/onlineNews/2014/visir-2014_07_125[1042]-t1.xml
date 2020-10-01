@@ -19,7 +19,13 @@
   <w>varar</w>
   <w>enn</w>
   <w>við</w>
-  <w>minniháttar</w>
+  <revision id="1a">
+    <original><w>minniháttar</w></original>
+    <corrected><w>minni</w><w>háttar</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>jökulhlaupi</w>
   <w>í</w>
   <w>Múlakvísl</w>
@@ -149,7 +155,14 @@
   <w>þýðir</w>
   <w>að</w>
   <w>aukið</w>
-  <w>erfirlit</w>
+  <revision id="2a">
+    <original><w>erfirlit</w></original>
+    <corrected><w>eftirlit</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="2a-1" eid="0" />
+        <error xtype="nonword" idx="2a-1" eid="0" />
+      </errors>
+  </revision>
   <w>er</w>
   <w>haft</w>
   <w>með</w>
