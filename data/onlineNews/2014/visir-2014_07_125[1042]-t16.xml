@@ -336,7 +336,13 @@
   <w>ef</w>
   <w>eitthvað</w>
   <w>kom</w>
-  <w>uppá</w>
+  <revision id="8a">
+    <original><w>uppá</w></original>
+    <corrected><w>upp</w><w>á</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="15">
@@ -478,7 +484,14 @@
   <w>hefur</w>
   <w>gjarnan</w>
   <w>notað</w>
-  <w>frasan</w>
+  <revision id="10b">
+    <original><w>frasan</w></original>
+    <corrected><w>frasann</w></corrected>
+      <errors>
+        <error xtype="n4nn" idx="10b-1" eid="0" />
+        <error xtype="nonword" idx="10b-1" eid="0" />
+      </errors>
+  </revision>
   <c>„</c>
   <w>Sáuð</w>
   <w>þið</w>
@@ -491,7 +504,13 @@
   <w>svona</w>
   <w>lagað</w>
   <w>kemur</w>
-  <w>uppá</w>
+  <revision id="10a">
+    <original><w>uppá</w></original>
+    <corrected><w>upp</w><w>á</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="22">
@@ -699,7 +718,13 @@
   <w>var</w>
   <w>þá</w>
   <w>blaut</w>
-  <w>allstaðar</w>
+  <revision id="13a">
+    <original><w>allstaðar</w></original>
+    <corrected><w>alls</w><w>staðar</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>nema</w>
   <w>á</w>
   <w>síðasta</w>
@@ -770,7 +795,14 @@
   <w>hann</w>
   <w>lið</w>
   <w>sitt</w>
-  <w>afsökunnar</w>
+  <revision id="13b">
+    <original><w>afsökunnar</w></original>
+    <corrected><w>afsökunar</w></corrected>
+      <errors>
+        <error xtype="nn4n" idx="13b-1" eid="0" />
+        <error xtype="nonword" idx="13b-1" eid="0" />
+      </errors>
+  </revision>
   <w>á</w>
   <w>þessu</w>
   <w>eftir</w>
