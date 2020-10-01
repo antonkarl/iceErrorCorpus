@@ -408,7 +408,14 @@
   <w>afleggjara</w>
   <w>með</w>
   <w>hana</w>
-  <w>meðvitundalausa</w>
+  <revision id="5a">
+    <original><w>meðvitundalaus</w></original>
+    <corrected><w>meðvitundarlaus</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="5a-1" eid="0" />
+        <error xtype="compound-nonword" idx="5a-1" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>á</w>
   <w>móti</w>
