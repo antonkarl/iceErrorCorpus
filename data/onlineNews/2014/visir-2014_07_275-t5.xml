@@ -154,7 +154,13 @@
   <w>væntanlega</w>
   <w>ekki</w>
   <w>farið</w>
-  <w>framhjá</w>
+  <revision id="1a">
+    <original><w>framhjá</w></original>
+    <corrected><w>fram</w><w>hjá</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>neinum</w>
   <w>að</w>
   <w>verslunin</w>
@@ -175,7 +181,13 @@
   <w>mikil</w>
   <w>vinna</w>
   <w>er</w>
-  <w>framundan</w>
+  <revision id="1b">
+    <original><w>framundan</w></original>
+    <corrected><w>fram</w><w>undan</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>hjá</w>
   <w>okkur</w>
   <w>næstu</w>
@@ -183,7 +195,13 @@
   <c>.</c>
 </s>
 <s n="9">
-  <w>Ennþá</w>
+  <revision id="1c">
+    <original><w>Ennþá</w></original>
+    <corrected><w>Enn</w><w>þá</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>er</w>
   <w>margt</w>
   <w>varðandi</w>
