@@ -30,7 +30,14 @@
   <w>sé</w>
   <w>fylgjandi</w>
   <w>sölu</w>
-  <w>léttvins</w>
+  <revision id="1a">
+    <original><w>léttvins</w></original>
+    <corrected><w>léttvíns</w></corrected>
+      <errors>
+        <error xtype="missing-accent" idx="1a-1" eid="0" />
+        <error xtype="compound-nonword" idx="1a-1" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>bjórs</w>
   <w>í</w>
