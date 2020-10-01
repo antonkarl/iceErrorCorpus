@@ -365,7 +365,13 @@
   <w>langt</w>
   <w>á</w>
   <w>eftir</w>
-  <w>ennþá</w>
+  <revision id="3a">
+    <original><w>ennþá</w></original>
+    <corrected><w>enn</w><w>þá</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>þrátt</w>
   <w>fyrir</w>
