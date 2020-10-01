@@ -122,7 +122,13 @@
   <w>balsamik</w>
   <w>í</w>
   <w>heimagerða</w>
-  <w>saladdressingu</w>
+  <revision id="18a">
+    <original><w>saladdressingu</w></original>
+    <corrected><w>salatdressingu</w></corrected>
+      <errors>
+        <error xtype="compound-nonword" eid="0" />
+      </errors>
+  </revision>
   <w>eða</w>
   <w>til</w>
   <w>þess</w>
