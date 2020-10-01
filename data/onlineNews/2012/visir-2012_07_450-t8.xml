@@ -16,7 +16,13 @@
 <text><body><p n="1">
 <s n="1">
   <w>Yfir</w>
-  <w>þrjúhundruð</w>
+  <revision id="1a">
+    <original><w>þrjúhundruð</w></original>
+    <corrected><w>þrjú</w><w>hundruð</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>manns</w>
   <w>eru</w>
   <w>að</w>
