@@ -957,7 +957,13 @@
   <w>meðan</w>
   <w>Maradona</w>
   <w>skokkaði</w>
-  <w>framhjá</w>
+  <revision id="38a">
+    <original><w>framhjá</w></original>
+    <corrected><w>fram</w><w>hjá</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>þeim</w>
   <w>með</w>
   <w>guðdómlegum</w>
@@ -1132,7 +1138,13 @@
 <s n="45">
   <w>HM</w>
   <w>var</w>
-  <w>framundan</w>
+  <revision id="43a">
+    <original><w>framundan</w></original>
+    <corrected><w>fram</w><w>undan</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>í</w>
   <w>Sviss</w>
   <w>og</w>
