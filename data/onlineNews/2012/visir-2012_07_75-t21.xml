@@ -240,7 +240,13 @@
   <w>fyrir</w>
   <w>hönd</w>
   <w>slitastjórnar</w>
-  <w>Landsbankanks</w>
+  <revision id="4a">
+    <original><w>Landsbankanks</w></original>
+    <corrected><w>Landsbankans</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="10">
