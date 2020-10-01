@@ -134,7 +134,13 @@
   <c>.</c>
 </s>
 <s n="8">
-  <w>Hverskonar</w>
+  <revision id="1a">
+    <original><w>Hverskonar</w></original>
+    <corrected><w>Hvers</w><w>konar</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>lög</w>
   <w>eru</w>
   <w>það</w>
