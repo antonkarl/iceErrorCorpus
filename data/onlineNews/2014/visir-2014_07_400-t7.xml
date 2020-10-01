@@ -91,7 +91,13 @@
   <w>getum</w>
   <w>ekki</w>
   <w>kennt</w>
-  <w>eitthverjum</w>
+  <revision id="1c">
+    <original><w>eitthverjum</w></original>
+    <corrected><w>einhverjum</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
   <w>um</w>
   <w>því</w>
   <w>að</w>
