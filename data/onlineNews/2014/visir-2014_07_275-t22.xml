@@ -81,7 +81,13 @@
   <w>að</w>
   <w>komast</w>
   <w>í</w>
-  <w>takt</w>
+  <revision id="2a">
+    <original><w>takt</w></original>
+    <corrected><w>takti</w></corrected>
+      <errors>
+        <error xtype="collocation-idiom" eid="0" />
+      </errors>
+  </revision>
   <w>við</w>
   <w>leikinn</w>
   <c>.</c>
