@@ -138,7 +138,14 @@
   <w>aftur</w>
   <w>vel</w>
   <w>sjö</w>
-  <w>mínutum</w>
+  <revision id="4a">
+    <original><w>mínutum</w></original>
+    <corrected><w>mínútum</w></corrected>
+      <errors>
+        <error xtype="missing-accent" idx="4a-1" eid="0" />
+        <error xtype="nonword" idx="4a-1" eid="0" />
+      </errors>
+  </revision>
   <w>fyrir</w>
   <w>hálfleik</w>
   <w>þegar</w>
