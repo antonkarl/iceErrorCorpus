@@ -126,7 +126,14 @@
   <w>á</w>
   <w>sínu</w>
   <w>fyrsta</w>
-  <w>tímbili</w>
+  <revision id="0">
+    <original><w>tímbili</w></original>
+    <corrected><w>tímabili</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="0-1" eid="0" />
+        <error xtype="nonword" idx="0-1" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="7">

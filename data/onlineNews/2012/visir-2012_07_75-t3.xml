@@ -416,12 +416,12 @@
   <c>.</c>
 </s>
 <s n="18">
-  <w>Laxdal-bræður</w>
   <revision id="17">
-    <original></original>
-    <corrected><w>voru</w></corrected>
+    <original><w>Laxdal-bræður</w></original>
+    <corrected><w>Laxdalbræður</w><w>voru</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="extra-dash" idx="17-1" eid="0" />
+        <error xtype="missing-word" idx="17-2" eid="0" />
       </errors>
   </revision>
   <w>báðir</w>

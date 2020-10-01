@@ -61,7 +61,14 @@
   <w>gíslingu</w>
   <w>í</w>
   <w>tvo</w>
-  <w>tima</w>
+  <revision id="0">
+    <original><w>tima</w></original>
+    <corrected><w>tíma</w></corrected>
+      <errors>
+        <error xtype="missing-accent" idx="0-1" eid="0" />
+        <error xtype="nonword" idx="0-1" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="2">

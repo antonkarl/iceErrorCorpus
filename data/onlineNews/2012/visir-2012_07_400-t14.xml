@@ -313,7 +313,14 @@
   <w>Í</w>
   <w>framhaldi</w>
   <w>af</w>
-  <w>þvi</w>
+  <revision id="2b">
+    <original><w>þvi</w></original>
+    <corrected><w>því</w></corrected>
+      <errors>
+        <error xtype="missing-accent" idx="2b-1" eid="0" />
+        <error xtype="nonword" idx="2b-1" eid="0" />
+      </errors>
+  </revision>
   <w>flautar</w>
   <w>dómari</w>
   <revision id="3">

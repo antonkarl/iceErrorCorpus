@@ -99,7 +99,14 @@
   <w>um</w>
   <w>20%</w>
   <w>lægri</w>
-  <w>símkostnað</w>
+  <revision id="1b">
+    <original><w>símkostnað</w></original>
+    <corrected><w>símakostnað</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="1b-1" eid="0" />
+        <error xtype="compound-nonword" idx="1b-1" eid="0" />
+      </errors>
+  </revision>
   <w>væri</w>
   <w>ekki</w>
   <w>verið</w>
@@ -174,7 +181,14 @@
   <w>félagið</w>
   <w>gæti</w>
   <w>lækkað</w>
-  <w>símkostnað</w>
+  <revision id="2b">
+    <original><w>símkostnað</w></original>
+    <corrected><w>símakostnað</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="2b-1" eid="0" />
+        <error xtype="compound-nonword" idx="2b-1" eid="0" />
+      </errors>
+  </revision>
   <w>fyrirtækja</w>
   <w>um</w>
   <w>20%</w>
@@ -184,7 +198,14 @@
   <w>Þó</w>
   <w>gerði</w>
   <w>Neytendastofa</w>
-  <w>athugsemdir</w>
+  <revision id="2c">
+    <original><w>athugsemdir</w></original>
+    <corrected><w>athugasemdir</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="2c-1" eid="0" />
+        <error xtype="nonword" idx="2c-1" eid="0" />
+      </errors>
+  </revision>
   <w>við</w>
   <w>að</w>
   <w>í</w>

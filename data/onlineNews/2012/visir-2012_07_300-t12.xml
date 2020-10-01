@@ -82,7 +82,14 @@
   <w>og</w>
   <w>norður</w>
   <w>í</w>
-  <w>Bjarnafjörð</w>
+  <revision id="0">
+    <original><w>Bjarnafjörð</w></original>
+    <corrected><w>Bjarnarfjörð</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" idx="0-1" eid="0" />
+        <error xtype="compound-nonword" idx="0-1" eid="0" />
+      </errors>
+  </revision>
   <w>á</w>
   <w>Hornströndum</w>
   <c>.</c>

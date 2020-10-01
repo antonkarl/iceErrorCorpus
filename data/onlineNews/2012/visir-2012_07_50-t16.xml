@@ -295,7 +295,14 @@
   <w>erfitt</w>
   <w>í</w>
   <w>þeim</w>
-  <w>fjárhagsþrenginum</w>
+  <revision id="6">
+    <original><w>fjárhagsþrenginum</w></original>
+    <corrected><w>fjárhagsþrengingum</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="6-1" eid="0" />
+        <error xtype="nonword" idx="6-1" eid="0" />
+      </errors>
+  </revision>
   <w>sem</w>
   <w>hafa</w>
   <w>steðjað</w>

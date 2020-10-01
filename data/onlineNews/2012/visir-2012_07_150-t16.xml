@@ -294,7 +294,13 @@
   <c>,</c>
   <w>lyfið</w>
   <w>jók</w>
-  <w>semsagt</w>
+  <revision id="5b">
+    <original><w>semsagt</w></original>
+    <corrected><w>sem</w><w>sagt</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>ummál</w>
   <w>blöðrunnar</w>
   <w>sem</w>
@@ -390,7 +396,14 @@
   <w>rannsóknir</w>
   <w>á</w>
   <w>sviði</w>
-  <w>örverufræða</w>
+  <revision id="8b">
+    <original><w>örverufræða</w></original>
+    <corrected><w>örverufræði</w></corrected>
+      <errors>
+        <error xtype="letter-rep" idx="8b-1" eid="0" />
+        <error xtype="nonword" idx="8b-2" eid="0" />
+      </errors>
+  </revision>
   <w>í</w>
   <w>tengslum</w>
   <w>við</w>

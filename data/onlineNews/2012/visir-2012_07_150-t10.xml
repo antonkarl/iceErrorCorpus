@@ -93,8 +93,13 @@
 <s n="5">
   <w>Aldrei</w>
   <w>hefur</w>
-  <w>jafn</w>
-  <w>nákvæm</w>
+  <revision id="2b">
+    <original><w>jafn</w><w>nákvæm</w></original>
+    <corrected><w>jafnnákvæm</w></corrected>
+      <errors>
+        <error xtype="split-word" eid="0" />
+      </errors>
+  </revision>
   <w>mynd</w>
   <w>af</w>
   <w>yfirborði</w>

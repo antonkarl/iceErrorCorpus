@@ -401,7 +401,14 @@
   <w>Rúnar</w>
   <w>Arnórsson</w>
   <w>úr</w>
-  <w>Golklúbbnum</w>
+  <revision id="10b">
+    <original><w>Golklúbbnum</w></original>
+    <corrected><w>Golfklúbbnum</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="10b-1" eid="0" />
+        <error xtype="nonword" idx="10b-1" eid="0" />
+      </errors>
+  </revision>
   <w>Keili</w>
   <revision id="11">
     <original><c>,</c></original>

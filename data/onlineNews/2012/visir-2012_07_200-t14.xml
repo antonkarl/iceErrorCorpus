@@ -287,8 +287,13 @@
   <w>ökuþór</w>
   <w>fær</w>
   <w>aðeins</w>
-  <w>tvo</w>
-  <w>umganga</w>
+  <revision id="4b">
+    <original><w>tvo</w><w>umganga</w></original>
+    <corrected><w>tvö</w><w>sett</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
   <w>af</w>
   <w>regndekkjum</w>
   <w>til</w>

@@ -208,8 +208,14 @@
       </errors>
   </revision>
   <w>svo</w>
-  <w>annað</w>
-  <w>hvort</w>
+  <revision id="3b">
+    <original><w>annað</w><w>hvort</w></original>
+    <corrected><w>annaðhvort</w><w>við</w></corrected>
+      <errors>
+        <error xtype="split-word" idx="3b-1" eid="0" />
+        <error xtype="missing-word" idx="3b-2" eid="0" />
+      </errors>
+  </revision>
   <w>Frakklandi</w>
   <w>eða</w>
   <w>Túnis</w>

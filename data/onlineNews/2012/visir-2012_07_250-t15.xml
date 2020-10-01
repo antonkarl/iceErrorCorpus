@@ -111,14 +111,7 @@
   <w>selur</w>
   <w>Norðuráli</w>
   <w>felur</w>
-  <revision id="5">
-    <original><w>m.</w><w>a</w><c>.</c></original>
-    <corrected><w>m.a.</w></corrected>
-      <errors>
-        <error xtype="extra-space" idx="5-1" eid="0" />
-        <error xtype="extra-space" idx="5-1" eid="0" />
-      </errors>
-  </revision>
+  <w>m.a.</w>
   <w>í</w>
   <w>sér</w>
   <w>hönnun</w>
@@ -385,14 +378,13 @@
 </s>
 <s n="13">
   <revision id="18">
-    <original><w>Hefur</w><w>fyrirtækið</w><w>m.</w><w>a</w><c>.</c></original>
-    <corrected><w>Fyrirtækið</w><w>hefur</w><w>m.a.</w></corrected>
+    <original><w>Hefur</w><w>fyrirtækið</w></original>
+    <corrected><w>Fyrirtækið</w><w>hefur</w></corrected>
       <errors>
         <error xtype="wording" idx="18-1" eid="0" />
-        <error xtype="extra-space" idx="18-2" eid="0" />
-        <error xtype="extra-space" idx="18-2" eid="0" />
       </errors>
   </revision>
+  <w>m.a.</w>
   <w>selt</w>
   <w>lausnir</w>
   <w>sínar</w>

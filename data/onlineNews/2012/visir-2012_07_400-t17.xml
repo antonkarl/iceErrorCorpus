@@ -96,8 +96,13 @@
   <c>.</c>
 </s>
 <s n="3">
-  <w>N1</w>
-  <w>mótið</w>
+  <revision id="5b">
+    <original><w>N1</w><w>mótið</w></original>
+    <corrected><w>N1-mótið</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>sem</w>
   <w>hófst</w>

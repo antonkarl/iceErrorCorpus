@@ -113,8 +113,13 @@
   <w>landa</w>
   <w>urriðanum</w>
   <w>með</w>
-  <w>Winston</w>
-  <w>stöng</w>
+  <revision id="6b">
+    <original><w>Winston</w><w>stöng</w></original>
+    <corrected><w>Winston-stöng</w></corrected>
+      <errors>
+        <error xtype="missing-dash" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>línu</w>
   <w>númer</w>

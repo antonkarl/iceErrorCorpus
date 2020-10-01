@@ -33,12 +33,27 @@
   <c>.</c>
 </s>
 <s n="2">
+  <revision id="0">
+    <original></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="missing-quots" idx="0-1" eid="0" />
+      </errors>
+  </revision>
   <w>Reynt</w>
   <w>verður</w>
   <w>að</w>
   <w>verja</w>
   <w>hina</w>
   <w>efnaminni</w>
+  <revision id="0b">
+    <original></original>
+    <corrected><c>,</c><c>“</c></corrected>
+      <errors>
+        <error xtype="missing-comma" idx="0b-1" eid="0" />
+        <error xtype="dep" depId="0-1" eid="0" />
+      </errors>
+  </revision>
   <w>sagði</w>
   <w>forsætisráðherra</w>
   <w>Frakklands</w>
