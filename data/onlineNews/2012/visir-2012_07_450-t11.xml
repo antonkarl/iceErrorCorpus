@@ -275,7 +275,13 @@
   <w>mörkum</w>
   <w>á</w>
   <w>fyrsta</w>
-  <w>stundarfjórðunginum</w>
+  <revision id="5a">
+    <original><w>stundarfjórðunginum</w></original>
+    <corrected><w>stundarfjórðungnum</w></corrected>
+      <errors>
+        <error xtype="compound-nonword" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>bættu</w>
   <w>við</w>
