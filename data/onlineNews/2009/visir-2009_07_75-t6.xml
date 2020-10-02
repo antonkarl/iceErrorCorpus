@@ -85,7 +85,13 @@
   <w>alsæl</w>
   <w>með</w>
   <w>hvernig</w>
-  <w>tiltókst</w>
+  <revision id="0">
+    <original><w>tiltókst</w></original>
+    <corrected><w>til</w><w>tókst</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>þökkum</w>
   <w>því</w>
@@ -95,7 +101,7 @@
   <w>frábærum</w>
   <w>þátttakendum</w>
   <c>,</c>
-  <revision id="0">
+  <revision id="0b">
     <original><c>&quot;</c></original>
     <corrected><c>“</c></corrected>
       <errors>
@@ -117,12 +123,12 @@
   <c>.</c>
 </s>
 <s n="5">
-  <revision id="0b">
+  <revision id="0c">
     <original><w>Landmótið</w></original>
     <corrected><w>Landsmótið</w></corrected>
       <errors>
-        <error xtype="compound-collocation" idx="0b-1" eid="0" />
-        <error xtype="compoun-nonword" idx="0b-1" eid="0" />
+        <error xtype="compound-collocation" idx="0c-1" eid="0" />
+        <error xtype="compoun-nonword" idx="0c-1" eid="0" />
       </errors>
   </revision>
   <w>hófst</w>

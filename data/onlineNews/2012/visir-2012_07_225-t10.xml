@@ -135,7 +135,14 @@
   <w>má</w>
   <w>hvernig</w>
   <w>þeim</w>
-  <w>tiltókst</w>
+  <revision id="5">
+    <original><w>tiltókst</w></original>
+    <corrected><w>tókst</w><w>til</w></corrected>
+      <errors>
+        <error xtype="merged-words" idx="5-1" eid="0" />
+        <error xtype="wording" idx="5-1" eid="0" />
+      </errors>
+  </revision>
   <w>í</w>
   <w>myndbandinu</w>
   <w>sem</w>
