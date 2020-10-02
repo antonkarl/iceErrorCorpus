@@ -129,7 +129,14 @@
   <w>stofnað</w>
   <w>sér</w>
   <w>og</w>
-  <w>keppinauti</w>
+  <revision id="1a">
+    <original><w>keppinauti</w></original>
+    <corrected><w>keppinaut</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="1a-1" eid="0" />
+        <error xtype="compound-nonword" idx="1a-1" eid="0" />
+      </errors>
+  </revision>
   <w>sínum</w>
   <w>í</w>
   <w>hættu</w>
