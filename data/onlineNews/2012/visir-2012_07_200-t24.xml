@@ -89,7 +89,14 @@
   <w>þátt</w>
   <w>í</w>
   <w>úrslitum</w>
-  <w>tvíleiðaleiks</w>
+  <revision id="1a">
+    <original><w>tvíleiðaleiks</w></original>
+    <corrected><w>tvíliðaleiks</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="1a-1" eid="0" />
+        <error xtype="compound-nonword" idx="1a-1" eid="0" />
+      </errors>
+  </revision>
   <w>kvenna</w>
   <w>með</w>
   <w>systur</w>
