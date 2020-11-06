@@ -217,15 +217,15 @@ period4semicolon	punktur fyrir semíkommu	punctuation	. > ;
 period4dash	punktur fyrir bandstrik	punctuation	. > -
 gen-escape	eignarfallsflótti	grammar	neysla ávöxtum > neysla ávaxta
 genitive	villur tengdar eignarfalli	grammar	
-symbol4number	tákn fyrir númer		2 ½ > 2,5
+symbol4number	tákn fyrir númer	numbers	2 ½ > 2,5
 missing-square	vantar hornklofa	punctuation	þeir > [þeir]
 slash4dash	skástrik fyrir bandstrik	punctuation	bresk-bandarísk > bresk/bandarísk
 wrong-accent	broddur notaður vitlaust		óktober > október
 dem4noun	ábendingarfornafn í stað nafnorðs	grammar	hinn > maðurinn
 noun4dem	nafnorð í stað ábendingarfornafns	grammar	stærsta klukkan > sú stærsta
-ice4fw	íslenskt orð notað í staðinn erlends		Demókrata öldungarþings herferðarnefndina > Democratic Senatorial Campaign Committee
+ice4fw	íslenskt orð notað í staðinn erlends	style	Demókrata öldungarþings herferðarnefndina > Democratic Senatorial Campaign Committee
 extra-commas	kommur ofaukið utan um innskot	punctuation	Lárus Dagur, framkvæmdastjóri, ... > Lárus Dagur framkvæmdastjóri ...
-number4symbol	númer fyrir tákn		5. >  V
+number4symbol	númer fyrir tákn	numbers	5. >  V
 conjunction4semicolon	samtenging fyrir semíkommu	punctuation	en > ;
 interr-pro	rangt spurnarfornafn	lexical	
 repeat-word	orð endurtekið, orðin eru hliðstæð	insertion	maður sem sem fór > maður sem fór
@@ -237,7 +237,7 @@ missing-obj	vantar andlag í setningunni	omission/grammar
 geta	geta + nafnháttur eða nútíð	grammar	
 adj4noun	lo í stað no	grammar	Áhrif ensks > Áhrif enskunnar
 noun4adj	no í stað lo		Það eru jafnmörg orð sem eru endingarleysi og   >  ...sem eru endingarlaus og
-extra-subj	frumlagi ofaukið		
+extra-subj	frumlagi ofaukið	grammar	
 missing-fin-verb	persónubeygða sögn vantar		þótt hún mjög virk > þótt hún sé mjög virk
 number-fail			123ja metra > 123 metra
 zzz	to revisit	unannotated	
