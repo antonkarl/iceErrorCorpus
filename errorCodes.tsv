@@ -56,57 +56,57 @@ misplaced-quot	gæsalöpp á röngum stað	punctuation	"í lok dags“. > í lok
 "
 wrong-quots	rangar gæsalappir	punctuation	"""takið þennan svarta"" > „takið þennan svarta“
 "
-extra-quot  gæsalöpp ofaukið  punctuation hún hófst 1. júlí“. > hún hófst 1. júlí.
-extra-quots gæsalöppum ofaukið  punctuation "„I'm winning“ > I'm winning
+extra-quot	gæsalöpp ofaukið	punctuation	hún hófst 1. júlí“. > hún hófst 1. júlí.
+extra-quots	gæsalöppum ofaukið	punctuation	"„I'm winning“ > I'm winning
 "
 extra-punctuation	auka greinarmerki	punctuation	... að > að
 extra-comma	auka komma	punctuation	stríð, við náttúruna > stríð við náttúruna
-extra-period  auka punktur  punctuation á morgun. Og... > á morgun og...
-period4comma  punktur fyrir kommu punctuation meira en áður. Hella meira í sig > meira en áður, hella meira í sig
+extra-period	auka punktur	punctuation	á morgun. Og ... > á morgun og...
+period4comma	punktur fyrir kommu	punctuation	meira en áður. Hella meira í sig > meira en áður, hella meira í sig
 period4colon	punktur fyrir tvípunkt	punctuation	Hann hafði þetta að segja. „Við stóðum okkur vel > Hann hafði þetta að segja: „Við stóðum okkur vel
 period4conjunction	punktur fyrir samtengingu	punctuation	...maður vill gera. Vissulega > ...maður vill gera en vissulega
 conjunction4period	samtenging fyrir punkt	punctuation	...tónlist ár hvert og tónlistarstefnurnar eru orðnar... > ...tónlist ár hvert. Tónlistarstefnurnar eru orðnar...
-conjunction vitlaus notkun á samtengingu  grammar ég hef litla innsýn í líf dýra né manna > ég hef litla innsýn í líf dýra eða manna
-conjunction4comma samtenging fyrir kommu  punctuation ...geta orðið þröngvandi og erfitt getur verið... > ...geta orðið þröngvandi, erfitt getur verið...
+conjunction	vitlaus notkun á samtengingu	grammar	ég hef litla innsýn í líf dýra né manna > ég hef litla innsýn í líf dýra eða manna
+conjunction4comma	samtenging fyrir kommu 	punctuation	...geta orðið þröngvandi og erfitt getur verið... > ...geta orðið þröngvandi, erfitt getur verið...
 comma4conjunction	komma fyrir samtengingu	punctuation	...fara með vald Guðs, öll löggjöf byggir... > ...fara með vald Guðs og öll löggjöf byggir...
 period4qm	punktur fyrir spurningarmerki	punctuation	Þarf það að vera. > Þarft það að vera?
 period-plus-conjunction	punktur ranglega á undan aðaltengingu	punctuation	...næsti maður. Og það er... > ...næsti maður og það er...
-comma-plus-conjunction  komma ranglega á undan aðaltengingu punctuation ...þessum heimi, og af... > ...þessum heimi og af...
-abbreviation-period punktur ranglega notaður í skammstöfun  punctuation s.s > s.s.
+comma-plus-conjunction	komma ranglega á undan aðaltengingu	punctuation	...þessum heimi, og af... > ...þessum heimi og af...
+abbreviation-period	punktur ranglega notaður í skammstöfun 	punctuation	s.s > s.s.
 comma4ex	komma fyrir upphrópun	punctuation	Viti menn, almúginn... > Viti menn! Almúginn...
 period4ex	punktur fyrir upphrópun	punctuation	Viti menn. > Viti menn!
 semicolon4colon	semíkomma fyrir tvípunkt	punctuation	...gæti einhver spurt sig; > ...gæti einhver spurt sig:
-extra-semicolon semíkommu ofaukið punctuation ...uppfullur af; hjúkrunarkonum... > ...uppfullur af hjúkrunarkonum...
-ordinal-period  meðferð punkts með raðtölu  punctuation 3 bekk > 3. bekk
+extra-semicolon	semíkommu ofaukið	punctuation	...uppfullur af; hjúkrunarkonum... > ...uppfullur af hjúkrunarkonum...
+ordinal-period 	meðferð punkts með raðtölu 	punctuation	3 bekk > 3. bekk
 merged-words	orðum skeytt saman	spacing	hinsvegar > hins vegar
 split-compound	samsett orð slitið sundur	spacing	suðvestur horn > suðvesturhorn
 split-word	orð slitið sundur	spacing	lang efstir > langefstir
-split-words fleiri en tvö orð slitin sundur spacing því um líkt > þvíumlíkt
-missing-dash  bandstrik vantar í samsetningu  spacing Kyoto bókunin > Kyoto-bókunin
+split-words	fleiri en tvö orð slitin sundur	spacing	því um líkt > þvíumlíkt
+missing-dash 	bandstrik vantar í samsetningu 	spacing	Kyoto bókunin > Kyoto-bókunin
 extra-word	orði ofaukið	insertion	augun á mótherja > augu mótherja
 extra-words	orðum ofaukið	insertion	...ég fer að hugsa... > ...ég hugsa...
 extra-accent	broddi ofaukið	insertion	flétta > fletta
-extra-letter  bókstaf ofaukið insertion posturlín > postulín
-missing-accent  brodd/punkta fyrir ofan staf vantar omission  o > ö, i > í
+extra-letter 	bókstaf ofaukið	insertion	posturlín > postulín
+missing-accent	brodd/punkta fyrir ofan staf vantar	omission	o > ö, i > í
 wording	orðalag	wording	...gerðum allt í raun... > ...gerðum í raun allt...
 ngnk	breiður sérhljóði á undan ng/nk	spelling	eingin > engin
 i4y	i fyrir y	spelling	skilda > skylda
-y4i y fyrir i spelling  byðja > biðja
-í4ý í fyrir ý spelling  bíður > býður
+y4i	y fyrir i	spelling	byðja > biðja
+í4ý	í fyrir ý	spelling 	bíður > býður
 ý4í	ý fyrir í	spelling	ýmynda > ímynda
 aux	meðferð vera og verða, hjálparsagna	wording	mun verða eftirminnilegt > mun vera eftirminnilegt
 conjunction-drop	hluti orðs felldur niður í samsetningu	punctuation	grunnskóla- eða framhaldsskólanám > grunn- eða framhaldsskólanám
-adjective-inflection  lýsingarorð vitlaust beygt  grammar Þau eiga það sameiginleg > Þau eiga það sameiginlegt
-n4nn  n fyrir nn  spelling  fjöldin > fjöldinn
+adjective-inflection	lýsingarorð vitlaust beygt	grammar	Þau eiga það sameiginleg > Þau eiga það sameiginlegt
+n4nn	n fyrir nn 	spelling 	fjöldin > fjöldinn
 nn4n	nn fyrir n	spelling	menntunnar > menntunar
 fw	sletta, útlent orð	foreign	plís > gerðu það
 foreign-error	villa í útlendu orði	foreign	Supurbowl > Super Bowl
-dative-sub  þágufallshneigð grammar strákunum langar > strákana langar
-dir4loc stefna fyrir stöðu (directional for locative) grammar inn > inni
+dative-sub 	þágufallshneigð	grammar	strákunum langar > strákana langar
+dir4loc	stefna fyrir stöðu (directional for locative)	grammar	inn > inni
 loc4dir	staða fyrir stefnu (locative for directional)	grammar	úti > út
 gendered	kynjað mál, menn fyrir fólk	exclusion	menn hugsa oft > fólk hugsar oft
-number4word tala fyrir orðmynd  numbers 4 > fjórir
-word4number orðmynd fyrir tölu  numbers fjórða öld > 4. öld
+number4word	tala fyrir orðmynd 	numbers	4 > fjórir
+word4number	orðmynd fyrir tölu 	numbers	fjórða öld > 4. öld
 style	stíll	style	urðu ekkert frægir > urðu ekki frægir
 unicelandic	óíslenskuleg málnotkun	style	...fer eftir persónunni... > ...fer eftir manneskjunni...
 bad-contraction	samdráttarmynd ranglega notuð	grammar	mæliru > mælir maður
