@@ -56,13 +56,13 @@ misplaced-quot	gæsalöpp á röngum stað	punctuation	"í lok dags“. > í lok
 "
 wrong-quots	rangar gæsalappir	punctuation	"""takið þennan svarta"" > „takið þennan svarta“
 "
-extra-quot	gæsalöpp ofaukið	punctuation	hún hófst 1. júlí“. > hún hófst 1. júlí.
-extra-quots	gæsalöppum ofaukið	punctuation	"„I'm winning“ > I'm winning
+extra-quot  gæsalöpp ofaukið  punctuation hún hófst 1. júlí“. > hún hófst 1. júlí.
+extra-quots gæsalöppum ofaukið  punctuation "„I'm winning“ > I'm winning
 "
 extra-punctuation	auka greinarmerki	punctuation	... að > að
 extra-comma	auka komma	punctuation	stríð, við náttúruna > stríð við náttúruna
-extra-period	auka punktur	punctuation	á morgun. Og ... > á morgun og...
-period4comma	punktur fyrir kommu	punctuation	meira en áður. Hella meira í sig > meira en áður, hella meira í sig
+extra-period  auka punktur  punctuation á morgun. Og... > á morgun og...
+period4comma  punktur fyrir kommu punctuation meira en áður. Hella meira í sig > meira en áður, hella meira í sig
 period4colon	punktur fyrir tvípunkt	punctuation	Hann hafði þetta að segja. „Við stóðum okkur vel > Hann hafði þetta að segja: „Við stóðum okkur vel
 period4conjunction	punktur fyrir samtengingu	punctuation	...maður vill gera. Vissulega > ...maður vill gera en vissulega
 conjunction4period	samtenging fyrir punkt	punctuation	...tónlist ár hvert og tónlistarstefnurnar eru orðnar... > ...tónlist ár hvert. Tónlistarstefnurnar eru orðnar...
