@@ -32,7 +32,7 @@ v3-subordinate	sögn ranglega í þriðja sæti eftir aukasetningu	syntax
 compound-collocation	samsett orð gegn hefð	nonword	fyrirhafnalaust > fyrirhafnarlaust
 compound-nonword	samsett orð ekki til	nonword	ríkistjórn > ríkisstjórn
 nonword	orðmynd er ekki til	nonword	Eystrarsaltslöndunum > Eystrarsaltslöndunum
-missing-letter	vantar staf	omission	hafstaum > hafstraum
+missing-letter	vantar staf	typo	hafstaum > hafstraum
 missing-word	orð vantar	omission	í Donalda > í þorpinu Donalda
 missing-words	fleiri en eitt orð vantar	omission	því betri laun > því betri laun hlýtur maður
 swapped-letters	stöfum víxlað	typo	einngi > einnig
@@ -87,7 +87,7 @@ extra-word	orði ofaukið	insertion	augun á mótherja > augu mótherja
 extra-words	orðum ofaukið	insertion	...ég fer að hugsa... > ...ég hugsa...
 extra-accent	broddi ofaukið	insertion	flétta > fletta
 extra-letter 	bókstaf ofaukið	insertion	posturlín > postulín
-missing-accent	brodd/punkta fyrir ofan staf vantar	omission	o > ö, i > í
+missing-accent	brodd/punkta fyrir ofan staf vantar	typo	o > ö, i > í
 wording	orðalag	wording	...gerðum allt í raun... > ...gerðum í raun allt...
 ngnk	breiður sérhljóði á undan ng/nk	spelling	eingin > engin
 i4y	i fyrir y	spelling	skilda > skylda
@@ -152,8 +152,8 @@ bracket4slash	svigi fyrir skástrik	punctuation	sjálfa(n) > sjálfa/n
 að4af	að notað í stað af	tradition	að hafa gaman að > að hafa gaman af
 af4að	af notað í stað að	tradition	gert grín af > gert grín að
 missing-ex	vantar upphrópunarmerki	punctuation	Viti menn ég komst af > Viti menn! Ég komst af
-words4abbreviation	orð notuð í stað skammstöfunar	tradition	til dæmis > t.d.
-abbreviation4words	skammstöfun notuð í stað orða	tradition	e. fjórar mínútur > eftir fjórar mínútur
+words4abbreviation	orð notuð í stað skammstöfunar	style	til dæmis > t.d.
+abbreviation4words	skammstöfun notuð í stað orða	style	e. fjórar mínútur > eftir fjórar mínútur
 qm4ex	spurningarmerki fyrir upphrópun	punctuation	Algjört hrak sjálf? > Algjört hrak sjálf!
 qm4period	spurningarmerki fyrir punkt	punctuation	...af hverju það er svo erfitt? > ...af hverju það er svo erfitt.
 pers4dem	persónufornafn í staðinn fyrir ábendingarf.	grammar	það > þetta
@@ -220,7 +220,7 @@ genitive	villur tengdar eignarfalli	grammar
 symbol4number	tákn fyrir númer	numbers	2 ½ > 2,5
 missing-square	vantar hornklofa	punctuation	þeir > [þeir]
 slash4dash	skástrik fyrir bandstrik	punctuation	bresk-bandarísk > bresk/bandarísk
-wrong-accent	broddur notaður vitlaust		óktober > október
+wrong-accent	broddur notaður vitlaust	typo	óktober > október
 dem4noun	ábendingarfornafn í stað nafnorðs	grammar	hinn > maðurinn
 noun4dem	nafnorð í stað ábendingarfornafns	grammar	stærsta klukkan > sú stærsta
 ice4fw	íslenskt orð notað í staðinn erlends	style	Demókrata öldungarþings herferðarnefndina > Democratic Senatorial Campaign Committee
