@@ -135,7 +135,7 @@ extra-conjunction	samtengingu ofaukið	punctuation	hvort sem að > hvort sem
 pronun-writing	skrifað eftir framburði	spelling	kallar > karlar
 semicolon4comma	semíkomma fyrir kommu	punctuation	hundar; kettir og önnur dýr > hundar, kettir og önnur dýr
 conjunction4qm	samtenging fyrir spurningarmerki	punctuation	En er það sönn hamingja og hver eru... > En er það sönn hamingja? Hver eru...
-wrong-prep	röng notkun á forsetningu	tradition	Ég bý í Íslandi > Ég bý á Íslandi
+wrong-prep	röng notkun á forsetningu	grammar	Ég bý í Íslandi > Ég bý á Íslandi
 missing-prep	forsetningu vantar	omission	
 extra-prep	forsetningu ofaukið	insertion	
 pres4past	sögn í nútíð í stað þátíðar	grammar	Þeir fara út > Þeir fóru út
@@ -227,13 +227,13 @@ ice4fw	íslenskt orð notað í staðinn erlends	style	Demókrata öldungarþing
 extra-commas	kommur ofaukið utan um innskot	punctuation	Lárus Dagur, framkvæmdastjóri, ... > Lárus Dagur framkvæmdastjóri ...
 number4symbol	númer fyrir tákn	numbers	5. >  V
 conjunction4semicolon	samtenging fyrir semíkommu	punctuation	en > ;
-interr-pro	rangt spurnarfornafn	lexical	
+interr-pro	rangt spurnarfornafn	grammar	
 repeat-word	orð endurtekið, orðin eru hliðstæð	insertion	maður sem sem fór > maður sem fór
 repeat-word-split	orð endurtekið en orð kemur á milli	insertion	var eitt ár var eftir > eitt ár var eftir
 þar4það	þar í stað það		þar voru dæmi  (there were examples of...) 
 extra-munu	sögnin munu ofnotuð (bæði í nh og viðt.h.)		
-missing-subj	vantar frumlag í setningunni	omission/grammar	
-missing-obj	vantar andlag í setningunni	omission/grammar	
+missing-subj	vantar frumlag í setningunni	grammar	
+missing-obj	vantar andlag í setningunni	grammar	
 geta	geta + nafnháttur eða nútíð	grammar	
 adj4noun	lo í stað no	grammar	Áhrif ensks > Áhrif enskunnar
 noun4adj	no í stað lo		Það eru jafnmörg orð sem eru endingarleysi og   >  ...sem eru endingarlaus og
