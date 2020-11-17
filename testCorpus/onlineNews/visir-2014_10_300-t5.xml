@@ -371,7 +371,14 @@
   <w>Þessar</w>
   <w>efasemdir</w>
   <w>koma</w>
-  <w>t.d</w>
+  <revision id="10b">
+    <original><w>t.d</w></original>
+    <corrected><w>t.d.</w></corrected>
+      <errors>
+        <error xtype="missing-period" idx="10b-1" eid="0"/>
+        <error xtype="abbreviation-period" idx="10b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>fram</w>
   <w>hjá</w>
   <w>stýrihópi</w>

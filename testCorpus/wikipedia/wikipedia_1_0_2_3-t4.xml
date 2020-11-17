@@ -290,10 +290,19 @@
   <w>mikil</w>
   <w>surtarbrandslög</w>
   <revision id="14">
-    <original><w>og</w><w>þegar</w></original>
-    <corrected><c>.</c><w>Þegar</w></corrected>
+    <original><w>og</w></original>
+    <corrected><c>.</c></corrected>
       <errors>
-        <error xtype="conjunction4period" eid="0"/>
+        <error xtype="conjunction4period" idx="14-1" eid="0"/>
+      </errors>
+  </revision>
+</s>
+<s n="8b">
+  <revision id="14b">
+    <original><w>þegar</w></original>
+    <corrected><w>Þegar</w></corrected>
+      <errors>
+        <error xtype="dep" depId="14-1" eid="0"/>
       </errors>
   </revision>
   <w>eldsneytisskortur</w>

@@ -74,11 +74,11 @@
   <w>jafnaði</w>
   <w>leikinn</w>
   <w>á</w>
+  <w>4.</w>
   <revision id="2">
-    <original><w>4</w><c>.</c><w>Mínútu</w></original>
-    <corrected><w>4.</w><w>mínútu</w><c>,</c></corrected>
+    <original><w>Mínútu</w></original>
+    <corrected><w>mínútu</w><c>,</c></corrected>
       <errors>
-        <error xtype="extra-space" eid="0" />
         <error xtype="upper4lower-common" eid="0" />
         <error xtype="missing-comma" eid="0" />
       </errors>
@@ -183,7 +183,7 @@
   <w>2</w>
   <c>.</c>
 </s>
-<s n="7">
+<s n="7" exclude="1">
   <w>Lið</w>
   <w>Íslands</w>
   <w>á</w>

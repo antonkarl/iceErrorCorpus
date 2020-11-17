@@ -340,14 +340,16 @@
   <w>á</w>
   <w>okkur</w>
   <w>varnarlega</w>
+  <c>.</c>
   <revision id="10">
-    <original><c>.</c><c>"</c></original>
+    <original><c>"</c></original>
     <corrected><c>“</c></corrected>
       <errors>
-        <error xtype="extra-period" idx="10-1" eid="0" />
-        <error xtype="wrong-quots" idx="10-2" eid="0" />
+        <error xtype="wrong-quots" eid="0" />
       </errors>
   </revision>
+</s>
+<s n="14b">
   <w>Aðspurður</w>
   <w>um</w>
   <w>hvort</w>

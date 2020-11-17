@@ -932,10 +932,19 @@
   <w>í</w>
   <w>senn</w>
   <revision id="21">
-    <original><w>og</w><w>skólakerfi</w></original>
-    <corrected><c>.</c><w>Skólakerfi</w></corrected>
+    <original><w>og</w></original>
+    <corrected><c>.</c></corrected>
       <errors>
-        <error xtype="conjunction4period" eid="0"/>
+        <error xtype="conjunction4period" idx="21-1" eid="0"/>
+      </errors>
+  </revision>
+</s>
+<s n="29b">
+  <revision id="21b">
+    <original><w>skólakerfi</w></original>
+    <corrected><w>Skólakerfi</w></corrected>
+      <errors>
+        <error xtype="dep" depId="21-1" eid="0"/>
       </errors>
   </revision>
   <w>þar</w>
@@ -1412,7 +1421,10 @@
   <w>kvíðaköst</w>
   <w>fyrir</w>
   <w>svona</w>
-  <w>próf.</w>
+  <w>próf</w>
+  <c>.</c>
+</s>
+<s n="38b"
   <revision id="36">
     <original><w>En</w><w>auk</w></original>
     <corrected><w>Auk</w></corrected>
