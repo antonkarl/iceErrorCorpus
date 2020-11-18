@@ -28,7 +28,7 @@ pro-inflection	fornafn vitlaust beygt	grammar	á þann tíma > á þeim tíma
 plural4singular	fleirtala í stað eintölu	grammar	langtímaþurrkar > langtímaþurrkur
 singular4plural	eintala í stað fleirtala	grammar	í samræðu > í samræðum
 v3	sögn ranglega í þriðja sæti	syntax	kannski ég læt > kannski læt ég
-v3-subordinate	sögn ranglega í þriðja sæti eftir aukasetningu	syntax	
+v3-subordinate	sögn ranglega í þriðja sæti eftir aukasetningu	syntax	...þegar Kristbjörg í tvígang reyndi að sækja um > ...þegar Kristbjörg reyndi í tvígang að sækja um
 compound-collocation	samsett orð gegn hefð	nonword	fyrirhafnalaust > fyrirhafnarlaust
 compound-nonword	samsett orð ekki til	nonword	ríkistjórn > ríkisstjórn
 nonword	orðmynd er ekki til	nonword	Eystrarsaltslöndunum > Eystrarsaltslöndunum
@@ -42,7 +42,7 @@ comma4colon	komma fyrir tvípunkt	punctuation	...er í þremur heimsálfum, Así
 double-punctuation	tvöfalt greinarmerki	punctuation	.. > .,
 extra-abbreviation	skammstöfun ofaukið	punctuation	með kv., Daníel > með kveðju, Daníel
 extra-dash	bandstriki ofaukið	punctuation	-- > -
-iteration-colon	greinarmerki við upptalningu, tvíp.	punctuation	
+iteration-colon	greinarmerki við upptalningu, tvíp.	punctuation	við getum nánast allt, flogið, synt og klifrað > við getum nánast allt: flogið, synt og klifrað
 missing-colon	tvípunkt vantar	punctuation	Hann sagði við þá „Komið til mín“ > Hann sagði við þá: „Komið til mín“
 missing-comma	kommu vantar	punctuation	Hún vex á Íslandi Grænlandi og Færeyjum > Hún vex á Íslandi, Grænlandi og Færeyjum
 missing-commas	kommur vantar utan um innskot	punctuation	Hún er jafn verðmæt ef ekki verðmætari en háskólapróf > Hún er verðmæt, ef ekki verðmætari, en háskólapróf
