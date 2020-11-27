@@ -1026,17 +1026,21 @@
   <c>,</c>
   <w>það</w>
   <w>gefur</w>
+  <revision id="35b">
+    <original></original>
+    <corrected><w>fólki</w><w>í</w><w>kringum</w><w>sig</w></corrected>
+      <errors>
+        <error xtype="wording" idx="35b-1" eid="0"/>
+        <error xtype="pronoun4reflexive" idx="35b-2" eid="0"/>
+      </errors>
+  </revision>
   <w>mikla</w>
   <w>orku</w>
-  <w>til</w>
-  <w>fólksins</w>
-  <w>í</w>
-  <w>kringum</w>
   <revision id="36">
-    <original><w>það</w></original>
-    <corrected><w>sig</w></corrected>
+    <original><w>til</w><w>fólksins</w><w>í</w><w>kringum</w><w>það</w></original>
+    <corrected></corrected>
       <errors>
-        <error xtype="pronoun4reflexive" eid="0"/>
+        <error xtype="dep" depId="35b-1" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
