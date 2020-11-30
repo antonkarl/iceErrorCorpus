@@ -261,7 +261,7 @@
   <w>1</w>
   <c>.</c>
 </s>
-<s n="11">
+<s n="11" exclude="1">
   <w>Haraldur</w>
   <w>Franklín</w>
   <w>Magnús</w>
@@ -278,7 +278,7 @@
   <w>2</w>
   <c>.</c>
 </s>
-<s n="12">
+<s n="12" exclude="1">
   <w>Guðmundur</w>
   <w>Ágúst</w>
   <w>Kristjánsson</w>
@@ -295,7 +295,7 @@
   <w>3</w>
   <c>.</c>
 </s>
-<s n="13">
+<s n="13" exclude="1">
   <w>Andri</w>
   <w>Þór</w>
   <w>Björnsson</w>
@@ -312,7 +312,7 @@
   <w>4</w>
   <c>.</c>
 </s>
-<s n="14">
+<s n="14" exclude="1">
   <w>Arnór</w>
   <w>Ingi</w>
   <w>Finnbjörnsson</w>
@@ -329,7 +329,7 @@
   <w>5</w>
   <c>.</c>
 </s>
-<s n="15">
+<s n="15" exclude="1">
   <w>Birgir</w>
   <w>Guðjónsson</w>
   <c>,</c>
@@ -345,7 +345,7 @@
   <w>1</w>
   <c>.</c>
 </s>
-<s n="16">
+<s n="16" exclude="1">
   <w>Ólafía</w>
   <w>Þórunn</w>
   <w>Kristinsdóttir</w>
@@ -362,7 +362,7 @@
   <w>2</w>
   <c>.</c>
 </s>
-<s n="17">
+<s n="17" exclude="1">
   <w>Berglind</w>
   <w>Björnsdóttir</w>
   <c>,</c>
@@ -390,6 +390,8 @@
   <w>77</w>
   <c>)</c>
   <c>+</c>
+</s>
+<s n="18b">
   <w>10</w>
   <w>Rúnar</w>
   <w>fékk</w>
@@ -398,6 +400,9 @@
   <w>á</w>
   <w>24</w>
   <w>holum</w>
+  <c>.</c>
+</s>
+<s n="18c">
   <w>Rúnar</w>
   <w>Arnórsson</w>
   <w>úr</w>
@@ -789,7 +794,7 @@
   <w>1</w>
   <c>.</c>
 </s>
-<s n="31">
+<s n="31" exclude="1">
   <w>Rúnar</w>
   <w>Arnórsson</w>
   <w>135</w>
@@ -806,7 +811,7 @@
   <w>3</w>
   <c>.</c>
 </s>
-<s n="32">
+<s n="32" exclude="1">
   <w>Dagur</w>
   <w>Ebenezersson</w>
   <w>139</w>
@@ -823,7 +828,7 @@
   <w>3</w>
   <c>.</c>
 </s>
-<s n="33">
+<s n="33" exclude="1">
   <w>Axel</w>
   <w>Bóasson</w>
   <w>139</w>
@@ -838,7 +843,7 @@
   <w>4</w>
   <c>.</c>
 </s>
-<s n="34">
+<s n="34" exclude="1">
   <w>Björgvin</w>
   <w>Sigurbergsson</w>
   <w>142</w>
@@ -852,7 +857,7 @@
   <w>5</w>
   <c>.</c>
 </s>
-<s n="35">
+<s n="35" exclude="1">
   <w>Birgir</w>
   <w>Björn</w>
   <w>Magnússon</w>
@@ -868,7 +873,7 @@
   <w>1</w>
   <c>.</c>
 </s>
-<s n="36">
+<s n="36" exclude="1">
   <w>Tinna</w>
   <w>Jóhannsdóttir</w>
   <c>,</c>
@@ -884,7 +889,7 @@
   <w>2</w>
   <c>.</c>
 </s>
-<s n="37">
+<s n="37" exclude="1">
   <w>Signý</w>
   <w>Arnórsdóttir</w>
   <c>,</c>
@@ -900,7 +905,7 @@
   <w>3</w>
   <c>.</c>
 </s>
-<s n="38">
+<s n="38" exclude="1">
   <w>Þórdís</w>
   <w>Geirsdóttir</w>
   <c>,</c>
@@ -913,6 +918,8 @@
   <c>)</c>
   <c>+</c>
   <w>15</w>
+</s>
+<s n="38b">
   <w>Guðjón</w>
   <w>Henning</w>
   <revision id="28">
@@ -932,6 +939,8 @@
         <error xtype="missing-period" eid="0" />
       </errors>
   </revision>
+</s>
+<s n="38c">
   <w>Landsliðsmaðurinn</w>
   <w>Guðjón</w>
   <w>Henning</w>

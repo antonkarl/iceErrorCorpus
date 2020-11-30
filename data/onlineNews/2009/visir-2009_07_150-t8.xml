@@ -485,7 +485,15 @@
   <w>fyrir</w>
   <w>bankana</w>
   <c>?</c>
-  <w>ekki</w>
+</s>
+<s n="22">
+  <revision id="6b">
+    <original><w>ekki</w></original>
+    <corrected><w>Ekki</w></corrected>
+      <errors>
+        <error xtype="lower4upper-initial" eid="0" />
+      </errors>
+  </revision>
   <c>:</c>
   <w>hver</w>
   <w>er</w>

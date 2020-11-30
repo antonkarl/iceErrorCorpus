@@ -86,10 +86,9 @@
   <w>vísað</w>
   <w>í</w>
   <revision id="1">
-    <original><c>.</c><w>is</w></original>
+    <original><w>.is</w></original>
     <corrected><w><hi>.is</hi></w></corrected>
       <errors>
-        <error xtype="extra-space" idx="14-1" eid="0"/>
         <error xtype="nonit4it" idx="14-1" eid="0"/>
       </errors>
   </revision>
@@ -241,13 +240,15 @@
   <w>verja</w>
   <w>landslénið</w>
   <revision id="9">
-    <original><c>.</c><w>is</w><c>.</c></original>
-    <corrected><w><hi>.is.</hi></w></corrected>
+    <original><w>.is</w></original>
+    <corrected><w><hi>.is</hi></w></corrected>
       <errors>
-        <error xtype="extra-space" idx="9-1" eid="0"/>
         <error xtype="nonit4it" idx="9-1" eid="0"/>
       </errors>
   </revision>
+  <c>.</c>
+</s>
+<s n="7b">
   <w>Þeir</w>
   <w>aðilar</w>
   <w>sem</w>
@@ -259,7 +260,7 @@
   <w>þess</w>
   <w>að</w>
   <revision id="10">
-    <original><c>.</c><w>is</w></original>
+    <original><w>.is</w></original>
     <corrected><w><hi>.is</hi></w></corrected>
       <errors>
         <error xtype="extra-space" idx="10-1" eid="0"/>
@@ -351,20 +352,18 @@
   <w>á</w>
   <w>lénin</w>
   <revision id="15">
-    <original><w>khilafah</w><c>.</c><w>is</w></original>
+    <original><w>khilafah.is</w></original>
     <corrected><w><hi>khilafah.is</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="5-1" eid="0"/>
-        <error xtype="extra-space" idx="5-1" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
   <revision id="16">
-    <original><w>Kilafah</w><c>.</c><w>is</w></original>
+    <original><w>Kilafah.is</w></original>
     <corrected><w><hi>Kilafah.is</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="6-1" eid="0"/>
-        <error xtype="extra-space" idx="6-1" eid="0"/>
       </errors>
   </revision>
   <c>,</c>

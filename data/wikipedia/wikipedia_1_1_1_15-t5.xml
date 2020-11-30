@@ -171,14 +171,7 @@
   <w>tíma</w>
   <w>og</w>
   <w>hafði</w>
-  <revision id="4">
-    <original><w>m.</w><w>a</w><c>.</c></original>
-    <corrected><w>m.a.</w></corrected>
-      <errors>
-        <error xtype="extra-space" idx="2-1" eid="0"/>
-        <error xtype="extra-space" idx="2-1" eid="0"/>
-      </errors>
-  </revision>
+  <w>m.a.</w>
   <w>rannsakað</w>
   <w>greindarpróf</w>
   <w>Francis</w>
@@ -439,11 +432,9 @@
   <w>Binet</w>
   <w>komst</w>
   <revision id="10">
-    <original><w>t</w><c>.</c><w>d</w></original>
+    <original><w>t.d</w></original>
     <corrected><w>t.d.</w></corrected>
       <errors>
-        <error xtype="extra-space" idx="4-1" eid="0"/>
-        <error xtype="extra-space" idx="4-1" eid="0"/>
         <error xtype="abbreviation-period" idx="4-1" eid="0"/>
         <error xtype="missing-period" idx="4-1" eid="0"/>
       </errors>

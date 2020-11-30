@@ -544,10 +544,10 @@
   <w>segir</w>
   <w>á</w>
   <revision id="15">
-    <original><w>Kvikmyndir</w><c>.</c><w>is</w></original>
+    <original><w>Kvikmyndir.is</w></original>
     <corrected><w>kvikmyndir.is</w></corrected>
       <errors>
-        <error xtype="extra-space" eid="0" />
+        <error xtype="upper4lower-common" eid="0" />
       </errors>
   </revision>
   <c>.</c>

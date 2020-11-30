@@ -1406,12 +1406,15 @@
   <w>98</w>
   <c>-</c>
   <revision id="62">
-    <original><w>73</w><w>er</w><w>staðan</w><c>.</c></original>
-    <corrected><w>73.</w></corrected>
+    <original><w>73</w><w>er</w><w>staðan</w></original>
+    <corrected><w>73</w></corrected>
       <errors>
         <error xtype="dep" depId="61-1" eid="0" />
       </errors>
   </revision>
+  <c>.</c>
+</s>
+<s n="57b">
   <w>33.</w>
   <w>mínúta</w>
   <c>:</c>
@@ -1543,11 +1546,13 @@
   <c>-</c>
   <revision id="70">
     <original><w>58</w><w>er</w><w>staðan</w><c>!</c></original>
-    <corrected><w>58.</w></corrected>
+    <corrected><w>58</w><c>.</c></corrected>
       <errors>
         <error xtype="dep" depId="69-1" eid="0" />
       </errors>
   </revision>
+</s>
+<s n="60b">
   <w>28.</w>
   <w>mínúta</w>
   <c>:</c>
@@ -2126,12 +2131,15 @@
   <w>27</w>
   <c>-</c>
   <revision id="100">
-    <original><w>22</w><w>er</w><w>staðan</w><c>.</c></original>
-    <corrected><w>22.</w></corrected>
+    <original><w>22</w><w>er</w><w>staðan</w></original>
+    <corrected><w>22</w></corrected>
       <errors>
         <error xtype="dep" depId="99-1" eid="0" />
       </errors>
   </revision>
+  <c>.</c>
+</s>
+<s n="85b">
   <w>7.</w>
   <w>mínúta</w>
   <c>:</c>

@@ -736,7 +736,7 @@
 </s><s n="30">
   <w>Stjórn</w>
   <revision id="29">
-    <original><w>N.</w><w>F.</w><w>V.</w><w>Í.</w></original>
+    <original><w>N.F.V.Í.</w></original>
     <corrected><w>NFVÍ</w></corrected>
       <errors>
         <error xtype="abreviation-period" idx="26-1" eid="0"/>
@@ -864,7 +864,7 @@
 </s><s n="35">
   <w>Stjórn</w>
   <revision id="31">
-    <original><w>N.</w><w>F.</w><w>V.</w><w>Í.</w></original>
+    <original><w>N.F.V.Í.</w></original>
     <corrected><w>NFVÍ</w></corrected>
       <errors>
         <error xtype="abreviation-period" idx="14-1" eid="0"/>
@@ -1140,14 +1140,7 @@
   <w>kallað</w>
   <c>,</c>
   <w>sér</w>
-  <revision id="38">
-    <original><w>m.</w><w>a</w><c>.</c></original>
-    <corrected><w>m.a.</w></corrected>
-      <errors>
-        <error xtype="extra-space" idx="47-1" eid="0"/>
-        <error xtype="extra-space" idx="47-1" eid="0"/>
-      </errors>
-  </revision>
+  <w>m.a.</w>
   <w>um</w>
   <revision id="39">
     <original><w>VÍ-mr</w><w>daginn</w></original>
@@ -1179,6 +1172,8 @@
         <error xtype="missing-period" eid="0"/>
       </errors>
   </revision>
+</s>
+<s n="46b">
   <w>Fyrstu</w>
   <w>vikuna</w>
   <w>í</w>
@@ -1215,7 +1210,7 @@
 </s><s n="47">
   <w>Hlutverk</w>
   <revision id="42">
-    <original><w>N.</w><w>F.</w><w>V.</w><w>Í.</w></original>
+    <original><w>N.F.V.Í.</w></original>
     <corrected><w>NFVÍ</w></corrected>
       <errors>
         <error xtype="abreviation-period" idx="13-1" eid="0"/>
@@ -1399,7 +1394,7 @@
   <c>,</c>
   <w>skammstafað</w>
   <revision id="46">
-    <original><w>N.</w><w>F.</w><w>V.</w><w>Í.</w></original>
+    <original><w>N.F.V.Í.</w></original>
     <corrected><w>NFVÍ</w><c>.</c></corrected>
       <errors>
         <error xtype="abreviation-period" idx="12-1" eid="0"/>

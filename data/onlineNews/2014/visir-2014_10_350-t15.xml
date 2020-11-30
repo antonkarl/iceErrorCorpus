@@ -345,7 +345,7 @@
     <original><c>"</c></original>
     <corrected><c>“</c></corrected>
       <errors>
-        <error xtype="dep" dep="16-1" eid="0" />
+        <error xtype="dep" depId="16-1" eid="0" />
       </errors>
   </revision>
   <w>hjá</w>
@@ -442,7 +442,7 @@
     <original><w>svipuð</w><w>kveðja</w><w>svokölluð</w></original>
     <corrected><c>,</c><w>hin</w><w>svokallaða</w></corrected>
       <errors>
-        <error xtype="dep" dep="21-1" eid="0" />
+        <error xtype="dep" depId="21-1" eid="0" />
         <error xtype="missing-comma" eid="0" />
         <error xtype="missing-words" eid="0" />
       </errors>

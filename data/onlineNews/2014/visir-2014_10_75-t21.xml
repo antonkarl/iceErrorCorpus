@@ -140,15 +140,11 @@
   <w>úti</w>
   <w>bloggsíðunni</w>
   <revision id="3">
-    <original><w>bjorn</w><c>.</c><w>blog</w><c>.</c><w>isog</w></original>
+    <original><w>bjorn.blog.isog</w></original>
     <corrected><w>bjorn.blog.is</w><w>og</w></corrected>
       <errors>
-        <error xtype="extra-space" idx="1-1" eid="0"/>
-        <error xtype="extra-space" idx="1-1" eid="0"/>
-        <error xtype="extra-space" idx="1-1" eid="0"/>
-        <error xtype="extra-space" idx="1-1" eid="0"/>
-        <error xtype="missing-space" idx="1-2" eid="0"/>
-        <error xtype="nonword" idx="1-2" eid="0"/>
+        <error xtype="missing-space" idx="1-1" eid="0"/>
+        <error xtype="nonword" idx="1-1" eid="0"/>
       </errors>
   </revision>
   <w>birtir</w>

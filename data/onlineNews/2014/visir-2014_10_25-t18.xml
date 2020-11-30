@@ -165,7 +165,8 @@
   <w>það</w>
   <w>rannsóknasvið</w>
   <w>og</w>
-  <w>kvenna-og</w>
+  <w>kvenna-</w>
+  <w>og</w>
   <w>barnasvið</w>
   <w>þar</w>
   <w>sem</w>
@@ -197,12 +198,12 @@
   <w>óumflýjanlega</w>
   <w>önnur</w>
   <c>,</c>
+  <w>t.d.</w>
   <revision id="3">
-    <original><w>t</w><c>.</c><w>d.</w><w>rannsóknasviðs</w></original>
-    <corrected><w>t.d.</w><w>rannsóknasvið</w></corrected>
+    <original><w>rannsóknasviðs</w></original>
+    <corrected><w>rannsóknasvið</w></corrected>
       <errors>
-        <error xtype="extra-space" idx="3-1" eid="0"/>
-        <error xtype="nominal-inflection" idx="3-2" eid="0"/>
+        <error xtype="nominal-inflection" idx="3-1" eid="0"/>
       </errors>
   </revision>
   <c>.</c>

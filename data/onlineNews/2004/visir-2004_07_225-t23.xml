@@ -521,10 +521,11 @@
   <w>í</w>
   <revision id="16">
     <original><w>Íslendingapartí.Óðleðju</w></original>
-    <corrected><w>Íslendingapartí</w><c>,</c><w>óðleðju</w></corrected>
+    <corrected><w>Íslendingapartí</w><c>,</c><w>óð</w><w>leðju</w></corrected>
       <errors>
         <error xtype="period4comma" idx="16-1" eid="0" />
         <error xtype="missing-space" idx="16-2" eid="0" />
+        <error xtype="missing-space" idx="16-3" eid="0" />
       </errors>
   </revision>
   <w>upp</w>
@@ -653,10 +654,7 @@
   <c>,</c>
   <w>Slipknot</w>
   <c>,</c>
-  <w>N.</w>
-  <w>E.</w>
-  <w>R.</w>
-  <w>D.</w>
+  <w>N.E.R.D.</w>
   <c>,</c>
   <w>Pixies</w>
   <c>,</c>

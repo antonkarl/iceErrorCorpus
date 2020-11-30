@@ -29,11 +29,11 @@
   <w>lauk</w>
   <w>4. júlí</w>
   <revision id="1">
-    <original><w>s</w><c>.</c><w>l</w></original>
+    <original><w>s.l</w></original>
     <corrected><w>sl</w></corrected>
       <errors>
-        <error xtype="extra-space" idx="1-1" eid="0" />
-        <error xtype="extra-space" idx="1-1" eid="0" />
+        <error xtype="extra-period" idx="1-1" eid="0" />
+        <error xtype="abbreviation-period" idx="1-1" eid="0" />
       </errors>
   </revision>
   <c>.</c>

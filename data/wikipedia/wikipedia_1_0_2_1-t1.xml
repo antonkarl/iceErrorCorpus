@@ -241,13 +241,7 @@
   <w>náttúrulegt</w>
   <w>tákn</w>
   <w>er</w>
-  <revision id="8">
-    <original><w>t</w><c>.</c><w>d.</w></original>
-    <corrected><w>t.d.</w></corrected>
-      <errors>
-        <error xtype="extra-space" eid="0" />
-      </errors>
-  </revision>
+  <w>t.d.</w>
   <w>að</w>
   <w>borða</w>
   <c>.</c>
@@ -286,13 +280,13 @@
   <w>samræmd</w>
   <w>tákn</w>
   <w>er</w>
+  <w>t.d.</w>
   <revision id="10">
-    <original><w>t</w><c>.</c><w>d.</w></original>
-    <corrected><w>t.d.</w><w>táknið</w><c>:</c></corrected>
+    <original></original>
+    <corrected><w>táknið</w><c>:</c></corrected>
       <errors>
-        <error xtype="extra-space" idx="10-1" eid="0" />
-        <error xtype="missing-word" idx="10-2" eid="0" />
-        <error xtype="missing-colon" idx="10-3" eid="0" />
+        <error xtype="missing-word" idx="10-1" eid="0" />
+        <error xtype="missing-colon" idx="10-2" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -305,14 +299,10 @@
   <w>af</w>
   <w>síðunni</w>
   <c>:</c>
-  <revision id="11">
-    <original><w>http://www</w><c>.</c><w>tmt</w><c>.</c><w>is</w><c>/</c></original>
-    <corrected><w>http://www.tmt.is/</w></corrected>
-      <errors>
-        <error xtype="extra-space" idx="11-1" eid="0" />
-        <error xtype="extra-space" idx="11-2" eid="0" />
-      </errors>
-  </revision>
+  <w>http://www.tmt.is/</w>
+  <c>.</c>
+</s>
+<s n="12b">
   <w>Einnig</w>
   <revision id="12">
     <original><w>byggist</w></original>

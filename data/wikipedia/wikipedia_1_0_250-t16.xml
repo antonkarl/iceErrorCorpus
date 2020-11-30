@@ -467,7 +467,7 @@
   <w>metra</w>
   <w>hæð</w>
   <revision id="34">
-    <original><w>u</w><c>.</c><w>þ.</w><w>b</w><c>.</c></original>
+    <original><w>u.þ.b.</w></original>
     <corrected><w>er</w><w>um</w></corrected>
       <errors>
         <error xtype="missing-word" idx="42-1" eid="0"/>
@@ -493,7 +493,7 @@
   <w>2000</w>
   <w>metra</w>
   <revision id="37">
-    <original><w>u</w><c>.</c><w>þ.</w><w>b</w><c>.</c></original>
+    <original><w>u.þ.b.</w></original>
     <corrected><c>,</c><w>u.þ.b.</w></corrected>
       <errors>
         <error xtype="missing-comma" idx="45-1" eid="0"/>
@@ -816,7 +816,7 @@
   </revision>
   <w>Afríkuríkjum</w>
   <revision id="65">
-    <original><w>í</w><w>grendinni</w><w>t</w><c>.</c><w>d.</w></original>
+    <original><w>í</w><w>grendinni</w><w>t.d.</w></original>
     <corrected><w>t.d.</w><w>eru</w></corrected>
       <errors>
         <error xtype="wording" idx="105-1" eid="0"/>
@@ -1234,7 +1234,7 @@
   <w>enskumælandi</w>
   <w>nágrönnum</w>
   <revision id="95">
-    <original><w>landsins</w><w>s</w><c>.</c><w>s</w></original>
+    <original><w>landsins</w><w>s.s</w></original>
     <corrected><w>líkt</w><w>og</w><w>í</w></corrected>
       <errors>
         <error xtype="wording" eid="0"/>
@@ -1948,12 +1948,11 @@
   <w>1.</w>
   <w>til</w>
   <revision id="147">
-    <original><w>5</w><c>.</c><w>Bekk</w><w>u</w><c>.</c><w>þ.</w><w>b</w><c>.</c></original>
+    <original><w>5.</c><w>Bekk</w><w>u.þ.b.</w></original>
     <corrected><w>5.</w><w>bekk</w><w>um</w></corrected>
       <errors>
-        <error xtype="extra-space" idx="143-1" eid="0"/>
-        <error xtype="upper4lower-noninitial" idx="143-2" eid="0"/>
-        <error xtype="wording" idx="143-3" eid="0"/>
+        <error xtype="upper4lower-noninitial" idx="143-1" eid="0"/>
+        <error xtype="wording" idx="143-2" eid="0"/>
       </errors>
   </revision>
   <w>2</w>

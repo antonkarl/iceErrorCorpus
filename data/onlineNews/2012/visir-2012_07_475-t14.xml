@@ -303,14 +303,11 @@
   <w>á</w>
   <w>netfangið</w>
   <revision id="7">
-    <original><w>abending</w><c>@</c><w>lrh.</w><w>Is</w></original>
+    <original><w>abending@lrh.Is</w></original>
     <corrected><w>abending@lrh.is</w><c>.</c></corrected>
       <errors>
-        <error xtype="extra-space" idx="7-1" eid="0" />
-        <error xtype="extra-space" idx="7-2" eid="0" />
-        <error xtype="extra-space" idx="7-3" eid="0" />
-        <error xtype="upper4lower-common" idx="7-4" eid="0" />
-        <error xtype="missing-period" idx="7-5" eid="0" />
+        <error xtype="upper4lower-noninitial" idx="7-1" eid="0" />
+        <error xtype="missing-period" idx="7-2" eid="0" />
       </errors>
   </revision>
 </s>

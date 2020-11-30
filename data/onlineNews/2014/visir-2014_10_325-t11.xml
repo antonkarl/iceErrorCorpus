@@ -66,13 +66,7 @@
   <w>talið</w>
   <w>minna</w>
   <w>en</w>
-  <revision id="2">
-    <original><w>t</w><c>.</c><w>d.</w></original>
-    <corrected><w>t.d.</w></corrected>
-      <errors>
-        <error xtype="extra-space" eid="0"/>
-      </errors>
-  </revision>
+  <w>t.d.</w>
   <w>framleiðslufyrirtækja</w>
   <w>vegna</w>
   <w>þeirrar</w>
@@ -208,10 +202,11 @@
   <w>efnum</w>
   <w>er</w>
   <revision id="3">
-    <original><w>t</w><c>.</c><w>d</w></original>
-    <corrected><w>t.d</w></corrected>
+    <original><w>t.d</w></original>
+    <corrected><w>t.d.</w></corrected>
       <errors>
-        <error xtype="extra-space" eid="0"/>
+        <error xtype="missing-period" idx="3-1" eid="0"/>
+        <error xtype="abbreviation-period" idx="3-1" eid="0"/>
       </errors>
   </revision>
   <w>almennt</w>

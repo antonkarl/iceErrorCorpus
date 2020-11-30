@@ -148,13 +148,7 @@
 <s n="5">
   <w>Audi</w>
   <w>lauk</w>
-  <revision id="8">
-    <original><w>B.</w><w>A.</w></original>
-    <corrected><w>B.A.</w></corrected>
-      <errors>
-        <error xtype="extra-space" eid="0" />
-      </errors>
-  </revision>
+  <w>B.A.</w>
   <c>-</c>
   <w>gráðu</w>
   <w>frá</w>
@@ -163,21 +157,13 @@
   <w>New</w>
   <w>York-ríki</w>
   <w>og</w>
-  <revision id="9">
-    <original><w>M.</w><w>A.</w></original>
-    <corrected><w>M.A.</w></corrected>
-      <errors>
-        <error xtype="extra-space" eid="0" />
-      </errors>
-  </revision>
+  <w>M.A.</w>
   <c>-</c>
   <w>og</w>
   <revision id="10">
-    <original><w>Ph</w><c>.</c><w>D.</w><w>gráður</w></original>
+    <original><w>Ph.D.</w><w>gráður</w></original>
     <corrected><w>Ph.D.-gráðum</w></corrected>
       <errors>
-        <error xtype="extra-space" idx="10-1" eid="0" />
-        <error xtype="extra-space" idx="10-1" eid="0" />
         <error xtype="split-word" idx="10-1" eid="0" />
         <error xtype="missing-dash" idx="10-1" eid="0" />
         <error xtype="nominal-inflection" idx="10-1" eid="0" />
