@@ -118,30 +118,6 @@
   <w>til</w>
   <w>stúdentsprófs</w>
   <c>.</c>
-</s><s n="6">
-  <w>Danmörku</w>
-  <revision id="3">
-    <original/>
-    <corrected><c>,</c></corrected>
-      <errors>
-        <error xtype="dep" depId="13-1" eid="0"/>
-      </errors>
-  </revision>
-  <w>þá</w>
-  <w>er</w>
-  <w>menntaskólinn</w>
-  <w>þar</w>
-  <w>styttri</w>
-  <revision id="4">
-    <original/>
-    <corrected><w>heldur</w></corrected>
-      <errors>
-        <error xtype="missing-word" eid="0"/>
-      </errors>
-  </revision>
-  <w>en</w>
-  <w>hér</w>
-  <c>.</c>
 </s><s n="7">
   <w>Á</w>
   <w>síðustu</w>
@@ -339,12 +315,34 @@
   <w>okkar</w>
   <revision id="12">
     <original><w>sbr</w></original>
-    <corrected><c>,</c><w>t.d</w></corrected>
+    <corrected><c>,</c><w>t.d.</w></corrected>
       <errors>
         <error xtype="missing-commas" idx="13-1" eid="0"/>
         <error xtype="wording" idx="13-2" eid="0"/>
       </errors>
   </revision>
+  <w>Danmörku</w>
+  <revision id="3">
+    <original/>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="dep" depId="13-1" eid="0"/>
+      </errors>
+  </revision>
+  <w>þá</w>
+  <w>er</w>
+  <w>menntaskólinn</w>
+  <w>þar</w>
+  <w>styttri</w>
+  <revision id="4">
+    <original/>
+    <corrected><w>heldur</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
+  <w>en</w>
+  <w>hér</w>
   <c>.</c>
 </s><s n="18">
   <w>Við</w>

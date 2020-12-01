@@ -306,12 +306,10 @@
   <c>,</c>
   <w>skipunarpípu</w>
   <revision id="9">
-    <original><w>o</w><c>.</c><w>fl.</w></original>
+    <original><w>o.fl.</w></original>
     <corrected><w>o.fl</w></corrected>
       <errors>
-        <error xtype="extra-space" idx="11-1" eid="0"/>
-        <error xtype="extra-space" idx="11-1" eid="0"/>
-        <error xtype="extra-period" idx="11-1" eid="0"/>
+        <error xtype="extra-period" eid="0"/>
       </errors>
   </revision>
   <c>.</c>

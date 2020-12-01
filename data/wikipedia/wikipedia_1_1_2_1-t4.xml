@@ -403,7 +403,7 @@
     <original><w>og</w><w>er</w><w>það</w></original>
     <corrected><w>tókst</w><w>ætlunarverk</w><w>sitt</w><w>gegn</w><w>hinni</w></corrected>
       <errors>
-        <error xtype="dep" dep="12-1" eid="0" />
+        <error xtype="dep" depId="12-1" eid="0" />
       </errors>
   </revision>
   <w>28</w>
@@ -740,7 +740,7 @@
     <original></original>
     <corrected><w>kallaðist</w><w>sá</w><w>hópur</w></corrected>
       <errors>
-        <error xtype="dep" dep="36-1" eid="0" />
+        <error xtype="dep" depId="36-1" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
@@ -914,7 +914,7 @@
     <original><w>gæti</w></original>
     <corrected><w>geta</w></corrected>
       <errors>
-        <error xtype="dep" dep="53-1" eid="0" />
+        <error xtype="dep" depId="53-1" eid="0" />
       </errors>
   </revision>
   <w>verið</w>
@@ -932,7 +932,7 @@
     <original></original>
     <corrected><c>“</c></corrected>
       <errors>
-        <error xtype="dep" dep="55-1" eid="0" />
+        <error xtype="dep" depId="55-1" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -975,7 +975,7 @@
     <original><w>fór</w><w>hann</w><w>með</w></original>
     <corrected></corrected>
       <errors>
-        <error xtype="dep" dep="59-1" eid="0" />
+        <error xtype="dep" depId="59-1" eid="0" />
       </errors>
   </revision>
   <w>hamarinn</w>
@@ -986,7 +986,7 @@
     <original><w>og</w><w>faldi</w><w>það</w><w>og</w><w>kom</w><w>svo</w><w>tilbaka</w><w>þetta</w></original>
     <corrected><c>.</c><w>Þetta</w></corrected>
       <errors>
-        <error xtype="dep" dep="59-1" eid="0" />
+        <error xtype="dep" depId="59-1" eid="0" />
         <error xtype="conjunction4period" eid="0" />
       </errors>
   </revision>
@@ -1122,7 +1122,7 @@
     <original><w>hann</w></original>
     <corrected><w>þá</w></corrected>
       <errors>
-        <error xtype="dep" dep="71-1" eid="0" />
+        <error xtype="dep" depId="71-1" eid="0" />
       </errors>
   </revision>
   <w>vopnin</w>
@@ -1155,7 +1155,7 @@
     <original></original>
     <corrected><c>“</c></corrected>
       <errors>
-        <error xtype="dep" dep="73-1" eid="0" />
+        <error xtype="dep" depId="73-1" eid="0" />
       </errors>
   </revision>
   <c>.</c>

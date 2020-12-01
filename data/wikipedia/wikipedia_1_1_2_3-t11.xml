@@ -512,7 +512,7 @@
       <errors>
         <error xtype="extra-conjunction" idx="38-1" eid="0" />
         <error xtype="pro4noun" idx="38-2" eid="0" />
-        <error xtype="dep" depid="38-2" eid="0" />
+        <error xtype="dep" depId="38-2" eid="0" />
       </errors>
   </revision>
   <w>það</w>
@@ -2236,20 +2236,14 @@
     <corrected><w>Hljómsveitin</w><w>fór</w></corrected>
       <errors>
         <error xtype="pro4noun" idx="165-1" eid="0" />
-        <error xtype="dep" depId="165-2" eid="0" />
+        <error xtype="dep" depId="165-1" eid="0" />
       </errors>
   </revision>
   <w>í</w>
   <w>mörg</w>
   <w>tónleikaferðalög</w>
   <c>,</c>
-  <revision id="166">
-    <original><w>t</w><c>.</c><w>d.</w></original>
-    <corrected><w>t.d.</w></corrected>
-      <errors>
-        <error xtype="extra-space" eid="0" />
-      </errors>
-  </revision>
+  <w>t.d.</w>
   <w>til</w>
   <w>Japans</w>
   <w>og</w>

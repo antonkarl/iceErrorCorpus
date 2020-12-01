@@ -217,7 +217,7 @@
     <original><w>var</w><w>það</w><w>virkilega</w><w>vinsælt</w></original>
     <corrected><w>voru</w><w>þau</w><w>mjög</w><w>vinsæl</w></corrected>
       <errors>
-        <error xtype="dep" dep="17-1" eid="0" />
+        <error xtype="dep" depId="17-1" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -588,7 +588,7 @@
     <original><c>“</c></original>
     <corrected></corrected>
       <errors>
-        <error xtype="dep" dep="38-1" eid="0" />
+        <error xtype="dep" depId="38-1" eid="0" />
       </errors>
   </revision>
   <w>á</w>
@@ -835,7 +835,7 @@
     <original><w>mikilli</w></original>
     <corrected></corrected>
       <errors>
-        <error xtype="dep" dep="50-1" eid="0" />
+        <error xtype="dep" depId="50-1" eid="0" />
       </errors>
   </revision>
   <w>tísku</w>
@@ -1677,7 +1677,7 @@
     <original><w>rave</w></original>
     <corrected><w>menning</w></corrected>
       <errors>
-        <error xtype="dep" dep="87-1" eid="0" />
+        <error xtype="dep" depId="87-1" eid="0" />
       </errors>
   </revision>
   <w>og</w>

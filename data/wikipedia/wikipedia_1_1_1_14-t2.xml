@@ -261,10 +261,9 @@
   <w>á</w>
   <w>Bandaríkjunum</w>
   <revision id="6">
-    <original><w>c</w><c>.</c><w>a</w><c>.</c></original>
+    <original><w>c.a.</w></original>
     <corrected><w>ca.</w></corrected>
       <errors>
-        <error xtype="extra-space" idx="4-1" eid="0"/>
         <error xtype="abbreviation-period" idx="4-1" eid="0"/>
       </errors>
   </revision>
@@ -282,13 +281,7 @@
   <w>uppvakninga</w>
   <c>,</c>
   <w>djöfla</w>
-  <revision id="7">
-    <original><w>o</w><c>.</c><w>fl.</w></original>
-    <corrected><w>o.fl.</w></corrected>
-      <errors>
-        <error xtype="extra-space" eid="0"/>
-      </errors>
-  </revision>
+  <w>o.fl.</w>
 </s><s n="10">
   <w>Söguheimur</w>
   <w>er</w>
@@ -358,13 +351,7 @@
   <w>sem</w>
   <w>kemur</w>
   <w>fram</w>
-  <revision id="13">
-    <original><w>m.</w><w>a</w><c>.</c></original>
-    <corrected><w>m.a.</w></corrected>
-      <errors>
-        <error xtype="extra-space" eid="0"/>
-      </errors>
-  </revision>
+  <w>m.a.</w>
   <w>í</w>
   <revision id="14">
     <original><w>Snow</w><w>Crash</w></original>

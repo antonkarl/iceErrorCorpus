@@ -80,7 +80,7 @@
     <original/>
     <corrected><w>ekki</w></corrected>
       <errors>
-        <error xtype="wording" eid="0"/>
+        <error xtype="wording" idx="2-1" eid="0"/>
       </errors>
   </revision>
   <w>um</w>
@@ -88,7 +88,7 @@
     <original><w>engann</w></original>
     <corrected><w>neinn</w></corrected>
       <errors>
-        <error xtype="dep" depId="24" eid="0"/>
+        <error xtype="dep" depId="2-1" eid="0"/>
       </errors>
   </revision>
   <w>nema</w>
@@ -122,7 +122,7 @@
     <original><w>menn</w><w>eru</w><w>nýbyrjaðir</w></original>
     <corrected><w>fólk</w><w>er</w><w>nýbyrjað</w></corrected>
       <errors>
-        <error xtype="gendered" eid="0"/>
+        <error xtype="gendered" idx="4-1" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -132,7 +132,7 @@
     <corrected><w>og</w><w>er</w></corrected>
       <errors>
         <error xtype="extra-comma" eid="0"/>
-        <error xtype="dep" depId="37" eid="0"/>
+        <error xtype="dep" depId="4-1" eid="0"/>
       </errors>
   </revision>
   <w>bara</w>
@@ -152,7 +152,7 @@
     <original><w>takast</w><w>þeir</w></original>
     <corrected><w>tekst</w><w>það</w></corrected>
       <errors>
-        <error xtype="dep" depId="37" eid="0"/>
+        <error xtype="dep" depId="4-1" eid="0"/>
       </errors>
   </revision>
   <w>oft</w>
@@ -1420,7 +1420,7 @@
     <original><w>Menn</w></original>
     <corrected><w>Fólk</w></corrected>
       <errors>
-        <error xtype="gendered" eid="0"/>
+        <error xtype="gendered" idx="40-1" eid="0"/>
       </errors>
   </revision>
   <w>í</w>
@@ -1431,8 +1431,8 @@
     <original><w>þurfa</w><w>einhverskonar</w></original>
     <corrected><w>þarf</w><w>einhvers</w><w>konar</w></corrected>
       <errors>
-        <error xtype="dep" depId="19" eid="0"/>
-		<error xtype="merged-word" eid="0"/>
+        <error xtype="dep" depId="40-1" eid="0"/>
+		    <error xtype="merged-word" eid="0"/>
       </errors>
   </revision>
   <w>leiðtogahæfileika</w>
@@ -1441,7 +1441,7 @@
     <original><w>þeir</w><w>þurfa</w></original>
     <corrected><w>það</w><w>þarf</w></corrected>
       <errors>
-        <error xtype="dep" depId="19" eid="0"/>
+        <error xtype="dep" depId="40-1" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
