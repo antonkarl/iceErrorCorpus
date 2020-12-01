@@ -266,7 +266,7 @@
     <original><w>útaf</w><w>kampi</w></original>
     <corrected><w>út</w><w>úr</w><w>herbúðunum</w></corrected>
       <errors>
-        <error xtype="merged-word" idx="3-1" eid="0" />
+        <error xtype="merged-words" idx="3-1" eid="0" />
         <error xtype="wrong-prep" idx="3-1" eid="0" />
         <error xtype="fw" eid="0" />
       </errors>
@@ -464,7 +464,7 @@
     <original><w>einhvernveginn</w></original>
     <corrected><w>einhvern</w><w>veginn</w></corrected>
       <errors>
-        <error xtype="merged-word" eid="0" />
+        <error xtype="merged-words" eid="0" />
       </errors>
   </revision>
   <w>sýnt</w>

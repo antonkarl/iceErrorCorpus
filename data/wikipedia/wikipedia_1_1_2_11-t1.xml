@@ -1085,7 +1085,7 @@
     <original><w>standinu</w></original>
     <corrected><w>standinum</w></corrected>
       <errors>
-        <error xtype="misisng-letter" idx="60-1" eid="0" />
+        <error xtype="missing-letter" idx="60-1" eid="0" />
         <error xtype="nominal-inflection" idx="60-1" eid="0" />
       </errors>
   </revision>
@@ -1665,7 +1665,7 @@
     <original><w>og</w><w>er</w></original>
     <corrected><c>,</c></corrected>
       <errors>
-        <error xtype="conjunctin4comma" idx="96-1" eid="0" />
+        <error xtype="conjunction4comma" idx="96-1" eid="0" />
         <error xtype="wording" idx="96-2" eid="0" />
       </errors>
   </revision>

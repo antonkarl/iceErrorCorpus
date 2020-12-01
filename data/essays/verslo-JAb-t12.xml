@@ -1094,7 +1094,7 @@
     <original/>
     <corrected><c>,</c></corrected>
       <errors>
-        <error xtype="missig-comma" eid="0"/>
+        <error xtype="missing-comma" eid="0"/>
       </errors>
   </revision>
   <w>ef</w>
@@ -1160,7 +1160,7 @@
     <corrected><w>sína</w></corrected>
       <errors>
         <error xtype="plural4singular" idx="20-1" eid="0"/>
-        <error xtype="pronoun4reflexive" idx="20-1" eid="0"/>
+        <error xtype="pro4reflexive" idx="20-1" eid="0"/>
         <error xtype="agreement-concord" idx="20-1" eid="0"/>
       </errors>
   </revision>

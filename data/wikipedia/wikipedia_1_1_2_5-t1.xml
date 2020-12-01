@@ -7460,7 +7460,7 @@
     <original><w>á</w><w>hurðina</w><w>svaraði</w></original>
     <corrected><w>hefði</w></corrected>
       <errors>
-        <error xtype="404-1" eid="0" />
+        <error xtype="wording" idx="408-1" eid="0" />
       </errors>
   </revision>
   <w>enginn</w>
@@ -7468,7 +7468,7 @@
     <original></original>
     <corrected><w>svarað</w></corrected>
       <errors>
-        <error xtype="404-1" eid="0" />
+        <error xtype="dep" depId="408-1" eid="0" />
       </errors>
   </revision>
   <c>.</c>

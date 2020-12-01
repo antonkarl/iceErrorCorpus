@@ -156,7 +156,8 @@
     <original><w>og</w></original>
     <corrected><c>.</c><w>Og</w><w>loks</w></corrected>
       <errors>
-        <error xtype="word4conjunction" eid="0" />
+        <error xtype="period-plus-conjunction" idx="6-1" eid="0" />
+        <error xtype="missing-word" idx="6-2" eid="0" />
       </errors>
   </revision>
   <w>mat</w>

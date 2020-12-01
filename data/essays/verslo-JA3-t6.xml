@@ -402,7 +402,7 @@
     <corrected><w>lífsins</w></corrected>
       <errors>
         <error xtype="missing-letter" idx="6a-1" eid="0" />
-        <error xtype="nonwords" idx="6a-1" eid="0" />
+        <error xtype="nonword" idx="6a-1" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -651,7 +651,7 @@
     <corrected><w>mannskepnunni</w></corrected>
       <errors>
         <error xtype="extra-letter" idx="14a-1" eid="0" />
-        <error xtype="compound-nonwords" idx="14a-1" eid="0" />
+        <error xtype="compound-nonword" idx="14a-1" eid="0" />
       </errors>
   </revision>
   <w>að</w>

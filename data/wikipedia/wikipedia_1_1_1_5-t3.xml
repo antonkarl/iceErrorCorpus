@@ -154,7 +154,7 @@
     <original><w>Sambandslögunum</w></original>
     <corrected><w>sambandslögunum</w></corrected>
       <errors>
-        <error xtype="upper4lower-comma" eid="0"/>
+        <error xtype="upper4lower-common" eid="0"/>
       </errors>
   </revision>
   <w>1707</w>
@@ -2970,7 +2970,7 @@
     <original><w>Áætluð</w></original>
     <corrected><w>Áætlað</w></corrected>
       <errors>
-        <error xtype="marked4ummarked" eid="0"/>
+        <error xtype="marked4unmarked" eid="0"/>
       </errors>
   </revision>
   <w>var</w>

@@ -845,7 +845,7 @@
     <original><w>múslimskir</w></original>
     <corrected><w>múslímskir</w></corrected>
       <errors>
-        <error xtype="i4í" idx="13-1" eid="0"/>
+        <error xtype="missing-accent" idx="13-1" eid="0"/>
         <error xtype="nonword" idx="13-1" eid="0"/>
       </errors>
   </revision>
@@ -970,8 +970,8 @@
     <original><w>múslima</w></original>
     <corrected><w>múslíma</w></corrected>
       <errors>
-        <error xtype="i4í" idx="11-1" eid="0"/>
-        <error xtype="non" idx="11-1" eid="0"/>
+        <error xtype="missing-accent" idx="11-1" eid="0"/>
+        <error xtype="nonword" idx="11-1" eid="0"/>
       </errors>
   </revision>
   <w>en</w>
@@ -986,7 +986,7 @@
     <original><w>múslimskum</w></original>
     <corrected><w>múslímskum</w></corrected>
       <errors>
-        <error xtype="i4í" idx="12-1" eid="0"/>
+        <error xtype="missing-accent" idx="12-1" eid="0"/>
         <error xtype="nonword" idx="12-1" eid="0"/>
       </errors>
   </revision>

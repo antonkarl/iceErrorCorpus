@@ -267,7 +267,7 @@
     <original><w>vellaunuðu</w></original>
     <corrected><w>vel</w><w>launuðu</w></corrected>
       <errors>
-        <error xtype="merged-word" eid="0"/>
+        <error xtype="merged-words" eid="0"/>
       </errors>
   </revision>
   <w>starfi</w>
@@ -366,7 +366,7 @@
     <original><w>janfvel</w></original>
     <corrected><w>jafnvel</w></corrected>
       <errors>
-        <error xtype="swapped-letter" idx="7a-1" eid="0" />
+        <error xtype="swapped-letters" idx="7a-1" eid="0" />
         <error xtype="nonword" idx="7a-1" eid="0" />
       </errors>
   </revision>
@@ -416,7 +416,7 @@
     <original><w>allavega</w></original>
     <corrected><w>alla</w><w>vega</w></corrected>
       <errors>
-        <error xtype="merged-word" eid="0"/>
+        <error xtype="merged-words" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -707,7 +707,7 @@
     <original><w>hlýturu</w></original>
     <corrected><w>hlýtur</w><w>þú</w></corrected>
       <errors>
-        <error xtype="merged-word" idx="45-1" eid="0"/>
+        <error xtype="merged-words" idx="45-1" eid="0"/>
         <error xtype="style" idx="45-1" eid="0"/>
       </errors>
   </revision>
@@ -787,7 +787,7 @@
     <original><w>útí</w></original>
     <corrected><w>út</w><w>í</w></corrected>
       <errors>
-        <error xtype="merged-word" eid="0"/>
+        <error xtype="merged-words" eid="0"/>
       </errors>
   </revision>
   <w>það</w>
@@ -1048,7 +1048,7 @@
     <original><w>útí</w></original>
     <corrected><w>út</w><w>í</w></corrected>
       <errors>
-        <error xtype="merged-word" eid="0"/>
+        <error xtype="merged-words" eid="0"/>
       </errors>
   </revision>
   <w>hálfgerða</w>
