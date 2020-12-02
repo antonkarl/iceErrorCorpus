@@ -1685,7 +1685,7 @@
     <corrected><w><hi>Reykjavíkurævintýri</hi></w><w><hi>Bakkabræðra</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0"/>
-        <error xtype="compound-split" idx="115-1" eid="0"/>
+        <error xtype="split-compound" idx="115-1" eid="0"/>
         <error xtype="nonit4it" idx="115-1" eid="0"/>
       </errors>
   </revision>
@@ -1872,7 +1872,7 @@
     <original><w>föður</w><w>stað</w></original>
     <corrected><w>föðurstað</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -2375,7 +2375,7 @@
     <original><w>afbragðs</w><w>lausn</w></original>
     <corrected><w>afbragðslausn</w></corrected>
       <errors>
-        <error xtype="compound-split" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>á</w>

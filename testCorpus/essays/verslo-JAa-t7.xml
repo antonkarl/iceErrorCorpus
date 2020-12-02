@@ -369,7 +369,7 @@
     <corrected><w>brattann</w><w>sækir</w></corrected>
       <errors>
         <error xtype="n4nn" eid="0"/>
-        <error xtype="pronoun-writing" idx="16-1" eid="0"/>
+        <error xtype="pronun-writing" idx="16-1" eid="0"/>
         <error xtype="nonword" idx="16-1" eid="0"/>
       </errors>
   </revision>
@@ -565,7 +565,7 @@
     <original><w>Hvað</w></original>
     <corrected><w>hvað</w></corrected>
       <errors>
-        <error xtype="upper4lower" eid="0"/>
+        <error xtype="upper4lower-noninitial" eid="0"/>
       </errors>
   </revision>
   <w>ætla</w>
