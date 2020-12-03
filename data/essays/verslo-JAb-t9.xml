@@ -604,9 +604,10 @@
   <w>á</w>
   <revision id="9">
     <original><w>margskonarar</w></original>
-    <corrected><w>margskonar</w></corrected>
+    <corrected><w>margs</w><w>konar</w></corrected>
       <errors>
         <error xtype="extra-letters" idx="1-1" eid="0"/>
+        <error xtype="merged-words" idx="1-1" eid="0"/>
         <error xtype="nonword" idx="1-1" eid="0"/>
       </errors>
   </revision>

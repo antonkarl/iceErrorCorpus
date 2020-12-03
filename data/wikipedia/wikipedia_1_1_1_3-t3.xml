@@ -156,7 +156,7 @@
     <original><w>Norður–Ameríku</w></original>
     <corrected><w>Norður-Ameríku</w></corrected>
       <errors>
-        <error xtype="wrong-dash" eid="0"/>
+        <error xtype="shortdash4hyphen" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -406,7 +406,7 @@
     <original><w>Norður–Kyrrahafs</w></original>
     <corrected><w>Norður-Kyrrahafs</w></corrected>
       <errors>
-        <error xtype="wrong-dash" eid="0"/>
+        <error xtype="shortdash4hyphen" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
@@ -436,7 +436,7 @@
     <original><w>Norður–Alaska</w></original>
     <corrected><w>Norður-Alaska</w></corrected>
       <errors>
-        <error xtype="wrong-dash" eid="0"/>
+        <error xtype="shortdash4hyphen" eid="0"/>
       </errors>
   </revision>
   <w>í</w>
@@ -444,7 +444,7 @@
     <original><w>Austur–Kyrrahafi</w></original>
     <corrected><w>Austur-Kyrrahafi</w></corrected>
       <errors>
-        <error xtype="wrong-dash" eid="0"/>
+        <error xtype="shortdash4hyphen" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
@@ -482,7 +482,7 @@
     <original><w>Vestur–kyrrahafi</w></original>
     <corrected><w>Vestur-Kyrrahafi</w></corrected>
       <errors>
-        <error xtype="wrong-dash" idx="8-1" eid="0"/>
+        <error xtype="shortdash4hyphen" idx="8-1" eid="0"/>
         <error xtype="lower4upper-proper" idx="8-1" eid="0"/>
       </errors>
   </revision>
@@ -579,18 +579,18 @@
   <w>svokallaða</w>
   <revision id="23">
     <original><w>straum–týpa</w></original>
-    <corrected><w>straum-týpa</w></corrected>
+    <corrected><w>straumtýpa</w></corrected>
       <errors>
-        <error xtype="wrong-dash" eid="0"/>
+        <error xtype="extra-dash" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
   <revision id="24">
     <original><w>hinsvegar</w><w>sjó–týpa</w></original>
-    <corrected><w>hins</w><w>vegar</w><w>sjó-týpa</w></corrected>
+    <corrected><w>hins</w><w>vegar</w><w>sjótýpa</w></corrected>
       <errors>
         <error xtype="merged-words" idx="18-1" eid="0"/>
-        <error xtype="wrong-dash" idx="18-2" eid="0"/>
+        <error xtype="extra-dash" idx="18-2" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -1318,7 +1318,7 @@
     <original><w>Suðaustur–Alaska</w></original>
     <corrected><w>Suðaustur-Alaska</w></corrected>
       <errors>
-        <error xtype="wrong-dash" eid="0"/>
+        <error xtype="shortdash4hyphen" eid="0"/>
       </errors>
   </revision>
   <w>en</w>

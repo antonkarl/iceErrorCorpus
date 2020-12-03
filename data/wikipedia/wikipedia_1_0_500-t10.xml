@@ -1888,7 +1888,7 @@
     <original><c>-</c><c>„</c><w>Surfin'USA</w><c>“</c></original>
     <corrected><c>—</c><w><hi>Surfin'USA</hi></w></corrected>
       <errors>
-        <error xtype="wrong-dash" idx="60-1" eid="0"/>
+        <error xtype="hyphen4shortdash" idx="60-1" eid="0"/>
         <error xtype="extra-quots" idx="60-2" eid="0"/>
         <error xtype="nonit4it" idx="60-3" eid="0"/>
         <error xtype="dep" depId="60-2" eid="0"/>
