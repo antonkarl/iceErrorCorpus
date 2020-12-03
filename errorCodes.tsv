@@ -206,7 +206,11 @@ extra-inf-part	nafnháttarmerki ofaukið	grammar	Bæði lið að sækja .. > Bæ
 extra-qm	spurningarmerki ofaukið	punctuation	Þú gerðir hvað fyrstu árin? > Aðspurður um fyrstu árin
 comma4dash	komma fyrir bandstrik	punctuation	Einar Ólafur, Haukum > Einar Ólafur - Haukum
 dash4semicolon	bandstrik fyrir semíkommu	punctuation	"núna - þetta > núna; þetta"
-wrong-dash	rangt bandstrik	punctuation	- > –
+hyphen4shortdash	bandstrik fyrir millistrik	punctuation	- > –
+shortdash4hyphen	millistrik fyrir bandstrik	punctuation	– > -
+hyphen4longdash	bandstrik fyrir þankastrik	punctuation	- > —
+longdash4hyphen	þankastrik fyrir bandstrik	punctuation	— > -
+longdash4shortdash	þankastrik fyrir millistrik	punctuation	— > –
 it4nonit	skáletrað fyrir óskáletrað	style	Studdi Isma'il > Studdi Isma'il
 hypercorr	"ofvöndun, t.d. ""dróg"" í stað ""dró"""	punctuation	- > : 
 dash4colon	bandstrik fyrir tvípunkt	punctuation	Margar hljómsveitir - Beach Boys, ... > Margar hljómsveitir: Beach Boys, ...
