@@ -369,9 +369,9 @@
   <w>orðhlutinn</w>
   <revision id="10">
     <original><w>biblio-vísar</w></original>
-    <corrected><w>biblio</w><c>-</c><w>vísar</w></corrected>
+    <corrected><w>biblio</w><w>vísar</w></corrected>
       <errors>
-        <error xtype="extra-dash" idx="10-1" eid="0"/>
+        <error xtype="extra-hyphen" idx="10-1" eid="0"/>
         <error xtype="missing-space" idx="10-1" eid="0"/>
       </errors>
   </revision>

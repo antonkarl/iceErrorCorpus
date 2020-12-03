@@ -378,8 +378,8 @@
     <original><w>masajar</w><w>og</w><w>lúó-mælandi</w><w>fólk</w></original>
     <corrected><w>masajar- og lúómælandi</w></corrected>
       <errors>
-        <error xtype="missing-dash" idx="62-1" eid="0"/>
-        <error xtype="extra-dash" idx="62-2" eid="0"/>
+        <error xtype="missing-hyphen" idx="62-1" eid="0"/>
+        <error xtype="extra-hyphen" idx="62-2" eid="0"/>
         <error xtype="extra-word" idx="62-3" eid="0"/>
       </errors>
   </revision>

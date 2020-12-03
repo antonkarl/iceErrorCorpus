@@ -659,7 +659,7 @@
     <original><w>Framsækni-Íhaldsflokkurinn</w></original>
     <corrected><w>Framsækni</w><w>íhaldsflokkurinn</w></corrected>
       <errors>
-        <error xtype="extra-dash" idx="22-1" eid="0" />
+        <error xtype="extra-hyphen" idx="22-1" eid="0" />
         <error xtype="upper4lower-proper" idx="22-2" eid="0" />
       </errors>
   </revision>
@@ -774,7 +774,7 @@
     <original><w>Calgary-Edmonton</w><w>gangurinn</w></original>
     <corrected><w>Calgary-Edmonton-gangurinn</w></corrected>
       <errors>
-        <error xtype="extra-dash" eid="0" />
+        <error xtype="missing-hyphen" eid="0" />
       </errors>
   </revision>
   <w>er</w>
@@ -885,7 +885,7 @@
     <original><w>Lakes-þjóðgarðurinn</w></original>
     <corrected><w>Lakes</w></corrected>
       <errors>
-        <error xtype="extra-dash" idx="28-1" eid="0" />
+        <error xtype="extra-hyphen" idx="28-1" eid="0" />
         <error xtype="extra-word" idx="28-1" eid="0" />
       </errors>
   </revision>

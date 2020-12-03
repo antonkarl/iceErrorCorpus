@@ -527,7 +527,7 @@
     <original><w>hip-hoppi</w></original>
     <corrected><w>hipphoppi</w></corrected>
       <errors>
-        <error xtype="extra-dash" idx="15-1" eid="0"/>
+        <error xtype="extra-hyphen" idx="15-1" eid="0"/>
         <error xtype="missing-letter" idx="15-1" eid="0"/>
       </errors>
   </revision>
@@ -627,7 +627,8 @@
     <original><w>einskonar</w></original>
     <corrected><w>eins</w><w>konar</w></corrected>
       <errors>
-        <error xtype="extra-dash" eid="0"/>
+        <error xtype="merged-words" idx="19c-1" eid="0"/>
+        <error xtype="nonword" idx="19c-1" eid="0"/>
       </errors>
   </revision>
   <w>blanda</w>
@@ -638,7 +639,7 @@
     <original><w>rapp-rokki</w></original>
     <corrected><w>rapprokki</w></corrected>
       <errors>
-        <error xtype="extra-dash" eid="0"/>
+        <error xtype="extra-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
@@ -650,7 +651,7 @@
     <corrected><w>Nýþungarokkið</w></corrected>
       <errors>
         <error xtype="fw4ice" idx="40-1" eid="0"/>
-        <error xtype="extra-dash" idx="40-1" eid="0"/>
+        <error xtype="extra-hyphen" idx="40-1" eid="0"/>
       </errors>
   </revision>
   <w>var</w>
@@ -1252,7 +1253,7 @@
     <corrected><w>nýþungarokkinu</w></corrected>
       <errors>
         <error xtype="fw4ice" idx="43-1" eid="0"/>
-        <error xtype="extra-dash" idx="43-1" eid="0"/>
+        <error xtype="extra-hyphen" idx="43-1" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -1449,7 +1450,7 @@
     <corrected><w>nýþungarokk</w></corrected>
       <errors>
         <error xtype="fw4ice" idx="37-1" eid="0"/>
-        <error xtype="extra-dash" idx="37-1" eid="0"/>
+        <error xtype="extra-hyphen" idx="37-1" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -1647,7 +1648,7 @@
     <original><w>hip-hopps</w></original>
     <corrected><w>hipphopps</w></corrected>
       <errors>
-        <error xtype="extra-dash" idx="60-1" eid="0"/>
+        <error xtype="extra-hyphen" idx="60-1" eid="0"/>
         <error xtype="missing-letter" idx="60-1" eid="0"/>
       </errors>
   </revision>
@@ -1858,7 +1859,7 @@
     <corrected><w>nýþungarokksins</w><c>,</c><w>t.d.</w></corrected>
       <errors>
         <error xtype="fw4ice" idx="44-1" eid="0"/>
-        <error xtype="extra-dash" idx="44-1" eid="0"/>
+        <error xtype="extra-hyphen" idx="44-1" eid="0"/>
         <error xtype="missing-comma" eid="0"/>
         <error xtype="wording" eid="0"/>
       </errors>

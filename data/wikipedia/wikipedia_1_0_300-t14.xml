@@ -185,7 +185,7 @@
     <original><w>Arabíu-ríkjunum</w></original>
     <corrected><w>Arabíuríkjunum</w></corrected>
       <errors>
-        <error xtype="extra-dash" eid="0" />
+        <error xtype="extra-hyphen" eid="0" />
       </errors>
   </revision>
   <w>bæði</w>
@@ -449,7 +449,7 @@
     <original><c>,</c></original>
     <corrected></corrected>
       <errors>
-        <error xtype="extra-dash" eid="0" />
+        <error xtype="extra-comma" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -711,7 +711,7 @@
     <original><c>,</c></original>
     <corrected></corrected>
       <errors>
-        <error xtype="extra-dash" eid="0" />
+        <error xtype="extra-comma" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -2877,7 +2877,7 @@
     <original><w>Austur-rétttrúnaðar</w><w>kirkjurnar</w></original>
     <corrected><w>Austurrétttrúnaðarkirkjan</w></corrected>
       <errors>
-        <error xtype="extra-dash" idx="81-1" eid="0" />
+        <error xtype="extra-hyphen" idx="81-1" eid="0" />
         <error xtype="split-compound" idx="81-1" eid="0" />
         <error xtype="plural4singular" idx="81-1" eid="0" />
       </errors>
