@@ -901,7 +901,7 @@
     <original><w>þá-fyrst</w></original>
     <corrected><w>þá</w><c>.</c><w>Fyrst</w><w>með</w></corrected>
       <errors>
-        <error xtype="dash4period" eid="0" />
+        <error xtype="hyphen4period" eid="0" />
         <error xtype="missing-word" eid="0" />
       </errors>
   </revision>
@@ -3738,7 +3738,7 @@
     <corrected><w>grasinu</w><c>.</c><w>Það</w></corrected>
       <errors>
         <error xtype="missing-space" eid="0" />
-        <error xtype="dash4period" eid="0" />
+        <error xtype="hyphen4period" eid="0" />
         <error xtype="missing-space" eid="0" />
       </errors>
   </revision>
