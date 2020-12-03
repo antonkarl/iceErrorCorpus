@@ -982,9 +982,9 @@
   <w>sjálf</w>
   <revision id="22">
     <original><c>,</c><w>eða</w></original>
-    <corrected><c>-</c></corrected>
+    <corrected><c>–</c></corrected>
       <errors>
-        <error xtype="comma4dash" idx="26-1" eid="0"/>
+        <error xtype="comma4shortdash" idx="26-1" eid="0"/>
         <error xtype="extra-conjunction" idx="26-2" eid="0"/>
       </errors>
   </revision>
@@ -999,9 +999,9 @@
   <w>öld</w>
   <revision id="23">
     <original><c>,</c></original>
-    <corrected><c>-</c></corrected>
+    <corrected><c>–</c></corrected>
       <errors>
-        <error xtype="comma4dash" eid="0"/>
+        <error xtype="comma4shortdash" eid="0"/>
       </errors>
   </revision>
   <w>hafa</w>
