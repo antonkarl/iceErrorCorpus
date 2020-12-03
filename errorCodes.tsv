@@ -43,6 +43,7 @@ comma4colon	komma fyrir tvípunkt	punctuation	...er í þremur heimsálfum, Así
 double-punctuation	tvöfalt greinarmerki	punctuation	.. > .,
 extra-abbreviation	skammstöfun ofaukið	punctuation	með kv., Daníel > með kveðju, Daníel
 extra-dash	bandstriki ofaukið	punctuation	-- > -
+extra-shortdash	millistriki ofaukið	punctuation	barna–skapur > barnaskapur
 iteration-colon	greinarmerki við upptalningu, tvíp.	punctuation	við getum nánast allt, flogið, synt og klifrað > við getum nánast allt: flogið, synt og klifrað
 missing-colon	tvípunkt vantar	punctuation	Hann sagði við þá „Komið til mín“ > Hann sagði við þá: „Komið til mín“
 missing-comma	kommu vantar	punctuation	Hún vex á Íslandi Grænlandi og Færeyjum > Hún vex á Íslandi, Grænlandi og Færeyjum
@@ -85,7 +86,8 @@ merged-words	orðum skeytt saman	spacing	hinsvegar > hins vegar
 split-compound	samsett orð slitið sundur	spacing	suðvestur horn > suðvesturhorn
 split-word	orð slitið sundur	spacing	lang efstir > langefstir
 split-words	fleiri en tvö orð slitin sundur	spacing	því um líkt > þvíumlíkt
-missing-dash 	bandstrik vantar í samsetningu 	spacing	Kyoto bókunin > Kyoto-bókunin
+missing-hyphen 	bandstrik vantar	spacing	Kyoto bókunin > Kyoto-bókunin
+missing-shortdash	millistrik vantar	spacing	Kuldinn getur farið niður fyrir 65 gráður > kuldinn getur farið niður fyrir –65 gráður
 extra-word	orði ofaukið	insertion	augun á mótherja > augu mótherja
 extra-words	orðum ofaukið	insertion	...ég fer að hugsa... > ...ég hugsa...
 extra-accent	broddi ofaukið	typo	flétta > fletta
