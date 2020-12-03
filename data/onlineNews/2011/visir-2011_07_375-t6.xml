@@ -200,7 +200,7 @@
     <corrected><w>opnir</w><c>,</c><w>hún</w></corrected>
       <errors>
         <error xtype="missing-space" idx="2-1" eid="0" />
-        <error xtype="dash4comma" idx="2-1" eid="0" />
+        <error xtype="hyphen4comma" idx="2-1" eid="0" />
         <error xtype="missing-space" idx="2-1" eid="0" />
       </errors>
   </revision>
@@ -246,7 +246,7 @@
     <original><c>-</c><w>svo</w></original>
     <corrected><c>,</c></corrected>
       <errors>
-        <error xtype="dash4comma" eid="0" />
+        <error xtype="hyphen4comma" eid="0" />
         <error xtype="extra-word" eid="0" />
       </errors>
   </revision>

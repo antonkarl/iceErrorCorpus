@@ -527,7 +527,7 @@
     <original><w>síðar-árið</w><w>342</w></original>
     <corrected><w>síðar</w><c>,</c><w>árið 342</w></corrected>
       <errors>
-        <error xtype="dash4comma" idx="13-1" eid="0" />
+        <error xtype="hyphen4comma" idx="13-1" eid="0" />
         <error xtype="missing-space" idx="13-2" eid="0" />
         <error xtype="missing-word" idx="13-3" eid="0" />
       </errors>
@@ -538,7 +538,7 @@
     <original><c>-</c></original>
     <corrected><c>,</c></corrected>
       <errors>
-        <error xtype="dash4comma" eid="0" />
+        <error xtype="hyphen4comma" eid="0" />
       </errors>
   </revision>
   <w>þegar</w>
