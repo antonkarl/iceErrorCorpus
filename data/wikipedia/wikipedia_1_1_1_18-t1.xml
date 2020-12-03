@@ -168,9 +168,9 @@
   <w>150</w>
   <revision id="1">
     <original><w>til</w></original>
-    <corrected><c>-</c></corrected>
+    <corrected><c>–</c></corrected>
       <errors>
-        <error xtype="word4dash" eid="0"/>
+        <error xtype="word4shortdash" eid="0"/>
       </errors>
   </revision>
   <w>180</w>
@@ -206,7 +206,8 @@
     <original><w>sem</w><w>hafast</w></original>
     <corrected><w>að</w><w>hafist</w></corrected>
       <errors>
-        <error xtype="word4dash" eid="0"/>
+        <error xtype="conjunction" idx="4-1" eid="0"/>
+        <error xtype="dep" depId="4-1" eid="0"/>
       </errors>
   </revision>
   <w>við</w>
