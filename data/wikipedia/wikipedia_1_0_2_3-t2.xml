@@ -686,7 +686,7 @@
     <original><w>seltu</w><w>hita</w></original>
     <corrected><w>seltu-hita</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>hringrás</w>
@@ -708,7 +708,7 @@
     <corrected><w>kallað</w><w>hita-seltu</w></corrected>
       <errors>
         <error xtype="dep" depId="49-1" eid="0"/>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>hringrásin</w>
@@ -819,7 +819,7 @@
     <corrected><w>Austur-Grænlandsstraumurinn</w></corrected>
       <errors>
         <error xtype="lower4upper-proper" idx="35-1" eid="0"/>
-        <error xtype="missing-dash" idx="35-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="35-1" eid="0"/>
         <error xtype="lower4upper-proper" idx="35-1" eid="0"/>
       </errors>
   </revision>

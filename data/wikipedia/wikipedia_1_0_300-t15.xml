@@ -143,7 +143,7 @@
     <original><w>Ottómanveldið</w></original>
     <corrected><w>Ottóman-veldið</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0" />
+        <error xtype="missing-hyphen" eid="0" />
       </errors>
   </revision>
   <w>réði</w>
@@ -169,7 +169,7 @@
     <original><w>Miðausturlöndum</w></original>
     <corrected><w>Mið-Austurlöndum</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0" />
+        <error xtype="missing-hyphen" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -457,7 +457,7 @@
     <corrected><w>Suður- og Austur-Asíu</w></corrected>
       <errors>
         <error xtype="lower4upper-proper" idx="9-1" eid="0" />
-        <error xtype="missing-dash" idx="9-1" eid="0" />
+        <error xtype="missing-hyphen" idx="9-1" eid="0" />
         <error xtype="lower4upper-proper" idx="9-1" eid="0" />
       </errors>
   </revision>

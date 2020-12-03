@@ -133,7 +133,7 @@
         <error xtype="wording" eid="0"/>
         <error xtype="it4nonit" idx="55-1" eid="0"/>
         <error xtype="fw4ice" idx="55-1" eid="0"/>
-        <error xtype="missing-dash" idx="55-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="55-1" eid="0"/>
       </errors>
   </revision>
   <w>eru</w>
@@ -153,7 +153,7 @@
     <corrected><w>Goa-trans</w></corrected>
       <errors>
         <error xtype="fw4ice" idx="56-1" eid="0"/>
-        <error xtype="missing-dash" idx="56-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="56-1" eid="0"/>
       </errors>
   </revision>
   <w>frá</w>
@@ -390,7 +390,7 @@
     <original><w>Goa</w><w>trance</w></original>
     <corrected><w>Goa-trans</w></corrected>
       <errors>
-        <error xtype="missing-dash" idx="60-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="60-1" eid="0"/>
         <error xtype="fw4ice" idx="60-1" eid="0"/>
       </errors>
   </revision>
@@ -822,7 +822,7 @@
     <original><w>Goa</w><w>trance</w><w>eiga</w></original>
     <corrected><w>Goa-trans</w><w>á</w></corrected>
       <errors>
-        <error xtype="missing-dash" idx="50-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="50-1" eid="0"/>
         <error xtype="fw4ice" idx="50-1" eid="0"/>
         <error xtype="agreement-pred" eid="0"/>
       </errors>
@@ -835,8 +835,8 @@
     <original><w>iðnaðar</w><c>,</c><w>sýru</w><w>trance</w><w>og</w><w>indjána</w></original>
     <corrected><w>iðnaðar-, sýru- og Indverjatranstónlistar</w></corrected>
       <errors>
-        <error xtype="missing-dash" idx="51-1" eid="0"/>
-        <error xtype="missing-dash" idx="51-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="51-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="51-1" eid="0"/>
         <error xtype="wording" idx="51-2" eid="0"/>
         <error xtype="fw4ice" idx="51-2" eid="0"/>
         <error xtype="split-compound" idx="51-2" eid="0"/>

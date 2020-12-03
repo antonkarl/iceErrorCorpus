@@ -101,7 +101,7 @@
     <original><w>Windward</w><w>eyjaklasanum</w></original>
     <corrected><w>Windward-eyjaklasanum</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0" />
+        <error xtype="missing-hyphen" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -489,7 +489,7 @@
     <original><w>flutninga</w></original>
     <corrected><c>-flutningum</c></corrected>
       <errors>
-        <error xtype="missing-dash" idx="22-1" eid="0" />
+        <error xtype="missing-hyphen" idx="22-1" eid="0" />
         <error xtype="nominal-inflection" idx="22-1" eid="0" />
       </errors>
   </revision>
@@ -591,7 +591,7 @@
     <original><w>Norður</w><w>Írland</w></original>
     <corrected><w>Norður-Írland</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0" />
+        <error xtype="missing-hyphen" eid="0" />
       </errors>
   </revision>
   <c>.</c>

@@ -89,7 +89,7 @@
     <corrected><w>bay-félagið</w></corrected>
       <errors>
         <error xtype="split-word" idx="2-1" eid="0" />
-        <error xtype="missing-dash" idx="2-1" eid="0" />
+        <error xtype="missing-hyphen" idx="2-1" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
@@ -306,7 +306,7 @@
     <corrected><w>Vancouver-eyju</w></corrected>
       <errors>
         <error xtype="merged-words" idx="14-1" eid="0" />
-        <error xtype="missing-dash" idx="14-1" eid="0" />
+        <error xtype="missing-hyphen" idx="14-1" eid="0" />
       </errors>
   </revision>
   <w>úrkomusamasti</w>
@@ -367,7 +367,7 @@
     <corrected><w>Vancouver-eyju</w></corrected>
       <errors>
         <error xtype="merged-words" idx="19-1" eid="0" />
-        <error xtype="missing-dash" idx="19-1" eid="0" />
+        <error xtype="missing-hyphen" idx="19-1" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -409,14 +409,7 @@
   <c>,</c>
   <w>degli</w>
   <w>og</w>
-  <revision id="20">
-    <original><w>sitkagreni</w></original>
-    <corrected><w>sitka-greni</w></corrected>
-      <errors>
-        <error xtype="merged-words" idx="20-1" eid="0" />
-        <error xtype="missing-dash" idx="20-1" eid="0" />
-      </errors>
-  </revision>
+  <w>sitkagreni</w>
   <w>finnast</w>
   <w>í</w>
   <w>tempruðu</w>

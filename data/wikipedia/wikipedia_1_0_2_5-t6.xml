@@ -405,7 +405,7 @@
       <errors>
         <error xtype="fw4ice" idx="85-1" eid="0"/>
         <error xtype="split-word" idx="85-1" eid="0"/>
-        <error xtype="missing-dash" idx="85-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="85-1" eid="0"/>
       </errors>
   </revision>
   <c>,</c>
@@ -853,7 +853,7 @@
     <original><w>Firm</w><w>Leikurinn</w></original>
     <corrected><w>Firm-leikurinn</w></corrected>
       <errors>
-        <error xtype="missing-dash" idx="75-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="75-1" eid="0"/>
         <error xtype="split-word" idx="75-1" eid="0"/>
         <error xtype="upper4lower-common" idx="75-1" eid="0"/>
       </errors>

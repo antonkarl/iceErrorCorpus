@@ -66,7 +66,7 @@
     <corrected><w>Norðvestur-Kyrrahafssvæðinu</w></corrected>
       <errors>
         <error xtype="lower4upper-proper" idx="5-1" eid="0"/>
-        <error xtype="missing-dash" idx="5-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="5-1" eid="0"/>
       </errors>
   </revision>
   <w>frá</w>
@@ -848,7 +848,7 @@
     <corrected><w>Austur-Rússland</w></corrected>
       <errors>
         <error xtype="lower4upper-proper" idx="50-1" eid="0"/>
-        <error xtype="missing-dash" idx="50-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="50-1" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -965,7 +965,7 @@
     <original><w>norður</w><w>kyrrahafinu</w></original>
     <corrected><w>Norður-Kyrrahafinu</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
@@ -1057,7 +1057,7 @@
     <original><w>plöntu</w><w>og</w><w>dýrasvifi</w></original>
     <corrected><w>plöntu- og dýrasvifi</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <c>.</c>

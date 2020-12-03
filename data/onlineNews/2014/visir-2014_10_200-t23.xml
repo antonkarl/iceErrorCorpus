@@ -98,9 +98,9 @@
   <w>á</w>
   <revision id="4">
     <original><w>skortöflunni</w></original>
-    <corrected><w>skor-töflunni</w></corrected>
+    <corrected><w>stigatöflunni</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="wording" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
@@ -137,7 +137,7 @@
     <original><w>Silverado</w><w>velli</w></original>
     <corrected><w>Silverado-velli</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <c>,</c>
@@ -291,7 +291,7 @@
     <original><w>Frys.com</w><w>mótinu</w></original>
     <corrected><w>Frys.com-mótinu</w></corrected>
       <errors>
-        <error xtype="missing-dash" idx="3-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="3-1" eid="0"/>
       </errors>
   </revision>
   <w>sem</w>
@@ -302,7 +302,7 @@
     <original><w>Silverado</w><w>vellinum</w></original>
     <corrected><w>Silverado-vellinum</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>í</w>

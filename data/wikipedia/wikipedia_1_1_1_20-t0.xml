@@ -339,7 +339,7 @@
     <original><w>Day</w><w>plötunni</w><w>American</w><w>Idiot</w></original>
     <corrected><w>Day-plötunni</w><w><hi>American</hi></w><w><hi>Idiot</hi></w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
         <error xtype="nonit4it" eid="0"/>
       </errors>
   </revision>
@@ -462,8 +462,8 @@
       <errors>
         <error xtype="extra-quots" eid="0"/>
         <error xtype="extra-words" eid="0"/>
-        <error xtype="missing-dash" idx="40-1" eid="0"/>
-        <error xtype="missing-dash" idx="40-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="40-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="40-1" eid="0"/>
       </errors>
   </revision>
   <w>meira</w>
@@ -836,7 +836,7 @@
     <original><w>popp</w><w>pönki</w><w>heldur</w></original>
     <corrected><w>popp-pönki</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
         <error xtype="extra-word" eid="0"/>
       </errors>
   </revision>
@@ -1130,7 +1130,7 @@
     <original><w>emopopp</w><w>hljómsveitir</w></original>
     <corrected><w>emopopp-hljómsveitir</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>fram</w>
@@ -1313,7 +1313,7 @@
     <original/>
     <corrected><c>-</c></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>listanum</w>
@@ -1719,7 +1719,7 @@
     <original/>
     <corrected><c>-</c></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>unglinga</w>
@@ -2710,7 +2710,7 @@
     <original><w>nútímascreamo</w></original>
     <corrected><w>nútíma-screamo</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -2911,9 +2911,9 @@
     <corrected><w>harðkjarnapönks- og metalcore-áhrif</w></corrected>
       <errors>
         <error xtype="fw4ice" idx="84-1" eid="0"/>
-        <error xtype="missing-dash" idx="84-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="84-1" eid="0"/>
         <error xtype="fw4ice" idx="84-1" eid="0"/>
-        <error xtype="missing-dash" idx="84-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="84-1" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -2986,7 +2986,7 @@
     <original/>
     <corrected><c>-</c></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>hljómsveit</w>

@@ -20,7 +20,7 @@
     <original><w>1</w><w>heimsmeistarinn</w></original>
     <corrected><w>1-heimsmeistarinn</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0" />
+        <error xtype="missing-hyphen" eid="0" />
       </errors>
   </revision>
   <w>Sebastian</w>
@@ -301,7 +301,7 @@
     <original><w>rás</w><w>og</w><w>endmarkskaflann</w></original>
     <corrected><w>rás- og endamarkskaflann</w></corrected>
       <errors>
-        <error xtype="missing-dash" idx="6-1" eid="0" />
+        <error xtype="missing-hyphen" idx="6-1" eid="0" />
         <error xtype="missing-letter" idx="6-1" eid="0" />
         <error xtype="nonword" idx="6-1" eid="0" />
       </errors>

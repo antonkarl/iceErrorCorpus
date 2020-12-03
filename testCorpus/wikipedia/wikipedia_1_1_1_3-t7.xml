@@ -159,7 +159,7 @@
     <original><w>Silva</w><w>stræti</w></original>
     <corrected><w>Silva-stræti</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
@@ -175,7 +175,7 @@
     <original><w>Martins</w><w>stræti</w></original>
     <corrected><w>Martins-stræti</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>sem</w>
@@ -201,7 +201,7 @@
     <original><w>Carneiro</w><w>stræti</w></original>
     <corrected><w>Carneiro-stræti</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
@@ -211,8 +211,8 @@
     <original><w>Lapa</w><w>og</w><w>Santa</w><w>Teresa</w><w>hverfin</w></original>
     <corrected><w>Lapa- og Santa</w><w>Teresa-hverfin</w></corrected>
       <errors>
-        <error xtype="missing-dash" idx="7-1" eid="0"/>
-        <error xtype="missing-dash" idx="7-2" eid="0"/>
+        <error xtype="missing-hyphen" idx="7-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="7-2" eid="0"/>
       </errors>
   </revision>
   <w>í</w>

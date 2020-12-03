@@ -730,9 +730,9 @@
   <w>í</w>
   <revision id="36">
     <original><w>jogging</w><w>buxum</w></original>
-    <corrected><w>jogging-buxum</w></corrected>
+    <corrected><w>joggingbuxum</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>frá</w>

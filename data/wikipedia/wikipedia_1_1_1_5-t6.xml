@@ -110,7 +110,7 @@
     <original><w>Maluku</w><w>eyjunumog</w></original>
     <corrected><w>Maluku-eyjum</w><w>og</w></corrected>
       <errors>
-        <error xtype="missing-dash" idx="16-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="16-1" eid="0"/>
         <error xtype="missing-space" idx="16-2" eid="0"/>
       </errors>
   </revision>
@@ -668,7 +668,7 @@
     <original><w>her</w><w>og</w><w>sjóstöðvar</w></original>
     <corrected><w>her- og sjóstöðvar</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>á</w>
@@ -688,7 +688,7 @@
     <original><w>landa</w><w>og</w><w>stjörnufræði</w></original>
     <corrected><w>landa- og stjörnufræði</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <c>,</c>

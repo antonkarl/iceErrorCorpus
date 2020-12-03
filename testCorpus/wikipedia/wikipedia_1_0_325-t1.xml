@@ -230,7 +230,7 @@
     <corrected><w>klónahermenn</w></corrected>
       <errors>
         <error xtype="extra-quots" idx="8-1" eid="0" />
-        <error xtype="extra-dash" idx="8-2" eid="0" />
+        <error xtype="extra-hyphen" idx="8-2" eid="0" />
         <error xtype="dep" depId="8-1" eid="0" />
       </errors>
   </revision>
@@ -1210,7 +1210,7 @@
         <error xtype="missing-word" idx="61-1" eid="0" />
         <error xtype="extra-quots" idx="61-2" eid="0" />
         <error xtype="letter-rep" idx="61-3" eid="0" />
-        <error xtype="missing-dash" idx="61-4" eid="0" />
+        <error xtype="missing-hyphen" idx="61-4" eid="0" />
         <error xtype="dep" depId="61-2" eid="0" />
       </errors>
   </revision>
@@ -1650,7 +1650,7 @@
     <original><w>geisla-sverðs</w></original>
     <corrected><w>geislasverðum</w></corrected>
       <errors>
-        <error xtype="extra-dash" idx="93-1" eid="0" />
+        <error xtype="extra-hyphen" idx="93-1" eid="0" />
         <error xtype="nominal-inflection" idx="93-1" eid="0" />
       </errors>
   </revision>
@@ -1945,7 +1945,7 @@
         <error xtype="extra-quots" idx="111-1" eid="0" />
         <error xtype="fw4ice" idx="111-2" eid="0" />
         <error xtype="dep" depId="111-1" eid="0" />
-        <error xtype="missing-dash" idx="111-3" eid="0" />
+        <error xtype="missing-hyphen" idx="111-3" eid="0" />
         <error xtype="extra-comma" idx="111-4" eid="0" />
       </errors>
   </revision>

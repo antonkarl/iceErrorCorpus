@@ -100,7 +100,7 @@
     <original><w>Grammy</w><w>verðlauna</w></original>
     <corrected><w>Grammy-verðlauna</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>fyrir</w>
@@ -437,7 +437,7 @@
     <original/>
     <corrected><c>-</c></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>lista</w>
@@ -1762,7 +1762,7 @@
     <original><w>Minimoog</w><w>hljóðgervli</w></original>
     <corrected><w>Minimoog-hljóðgervli</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>með</w>

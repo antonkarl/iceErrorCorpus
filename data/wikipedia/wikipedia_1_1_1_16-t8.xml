@@ -191,7 +191,7 @@
     <original><w>Royce</w><w>samsteypan</w></original>
     <corrected><w>Royce-samsteypan</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>opnaði</w>
@@ -623,7 +623,7 @@
     <original><w>Royce</w><w>verksmiðjunni</w></original>
     <corrected><w>Royce-verksmiðjunni</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>einni</w>
@@ -768,7 +768,7 @@
     <original><w>Zeppelin</w><w>loftfari</w></original>
     <corrected><w>zeppelin-loftfari</w></corrected>
       <errors>
-        <error xtype="missing-dash" idx="22-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="22-1" eid="0"/>
         <error xtype="upper4lower-common" idx="22-1" eid="0"/>
       </errors>
   </revision>

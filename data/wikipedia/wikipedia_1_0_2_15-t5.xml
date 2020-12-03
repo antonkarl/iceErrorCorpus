@@ -319,7 +319,7 @@
     <original><w>endurreisnar</w><w>og</w><w>miðaldar</w><w>tónlistar</w></original>
     <corrected><w>endurreisnar- og miðaldartónlistar</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
         <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
@@ -1653,7 +1653,7 @@
     <original><w>Urubamba</w><w>tónlistarhópinn</w></original>
     <corrected><w>Urubamba-tónlistarhópinn</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>frá</w>

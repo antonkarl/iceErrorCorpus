@@ -216,7 +216,7 @@
     <original><w>átaka</w><w>og</w><w>samvinnufræði</w></original>
     <corrected><w>átaka- og samvinnufræði</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>þar</w>
@@ -240,7 +240,7 @@
     <original><w>Brook</w><w>Háskólann</w></original>
     <corrected><w>Brook-háskólann</w></corrected>
       <errors>
-        <error xtype="missing-dash" idx="2-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="2-1" eid="0"/>
         <error xtype="upper4lower-common" idx="2-1" eid="0"/>
       </errors>
   </revision>
@@ -264,7 +264,7 @@
     <original><w>Brook</w><w>skólann</w></original>
     <corrected><w>Brook-skólann</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <c>.</c>

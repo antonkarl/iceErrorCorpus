@@ -85,7 +85,7 @@
     <original><w>State</w><w>háskólanum</w></original>
     <corrected><w>State-háskólanum</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0" />
+        <error xtype="missing-hyphen" eid="0" />
       </errors>
   </revision>
   <w>með</w>
@@ -300,7 +300,7 @@
     <original><w>Circle</w></original>
     <corrected><w>Circle-verðlaunanna</w><c>.</c></corrected>
       <errors>
-        <error xtype="missing-dash" idx="15-1" eid="0" />
+        <error xtype="missing-hyphen" idx="15-1" eid="0" />
         <error xtype="missing-word" idx="15-1" eid="0" />
         <error xtype="missing-period" idx="15-1" eid="0" />
       </errors>

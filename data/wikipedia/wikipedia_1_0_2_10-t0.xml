@@ -40,9 +40,8 @@
   <w>fyrstu</w>
   <revision id="2">
     <original><w>drungarokkshljómsveitanna</w><w>á</w><w>miðjum</w></original>
-    <corrected><w>drungarokks-hljómsveitum</w><w>miðs</w></corrected>
+    <corrected><w>drungarokkshljómsveitum</w><w>miðs</w></corrected>
       <errors>
-        <error xtype="missing-dash" idx="2-1" eid="0" />
         <error xtype="nominal-inflection" idx="2-1" eid="0" />
         <error xtype="wording" idx="2-2" eid="0" />
       </errors>
@@ -179,9 +178,10 @@
   <w>frá</w>
   <revision id="9">
     <original><w>bylturokks</w><w>hljómsveitum</w></original>
-    <corrected><w>þarssrokks-hljómsveitum</w></corrected>
+    <corrected><w>þarssrokkshljómsveitum</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0" />
+        <error xtype="split-compound" idx="9-1" eid="0" />
+        <error xtype="wording" idx="9-1" eid="0" />
       </errors>
   </revision>
   <w>á</w>
@@ -191,13 +191,7 @@
   <w>og</w>
   <w>Kreator</w>
   <w>og</w>
-  <revision id="10">
-    <original><w>drungarokkshljómsveitum</w></original>
-    <corrected><w>drungarokks-hljómsveitum</w></corrected>
-      <errors>
-        <error xtype="missing-dash" eid="0" />
-      </errors>
-  </revision>
+  <w>drungarokkshljómsveitum</w>
   <w>á</w>
   <w>borð</w>
   <w>við</w>
@@ -254,9 +248,9 @@
   <w>fyrstu</w>
   <revision id="11">
     <original><w>dauðarokks</w><w>hljómsveitanna</w></original>
-    <corrected><w>dauðarokks-hljómsveitanna</w></corrected>
+    <corrected><w>dauðarokkshljómsveitanna</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0" />
+        <error xtype="split-compound" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -373,14 +367,14 @@
   <w>kramið</w>
   <w>hjá</w>
   <revision id="15">
-    <original><w>öfgakendum</w><w>þungarokkshljómsveitum</w></original>
-    <corrected><w>öfgakenndum</w><w>þungarokks-hljómsveitum</w></corrected>
+    <original><w>öfgakendum</w></original>
+    <corrected><w>öfgakenndum</w></corrected>
       <errors>
         <error xtype="n4nn" idx="15-1" eid="0" />
         <error xtype="nonword" idx="15-1" eid="0" />
-        <error xtype="missing-dash" idx="15-2" eid="0" />
       </errors>
   </revision>
+  <w>þungarokkshljómsveitum</w>
   <c>.</c>
 </s>
 <s n="12">
@@ -453,9 +447,9 @@
   <w>fyrstu</w>
   <revision id="20">
     <original><w>dauðarokks</w><w>sveitirnar</w></original>
-    <corrected><w>dauðarokks-sveitirnar</w></corrected>
+    <corrected><w>dauðarokkssveitirnar</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0" />
+        <error xtype="split-compound" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -472,9 +466,9 @@
   <w>fyrstu</w>
   <revision id="21">
     <original><w>dauðarokks</w><w>sveitirnar</w></original>
-    <corrected><w>dauðarokks-sveitirnar</w></corrected>
+    <corrected><w>dauðarokkssveitirnar</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0" />
+        <error xtype="split-compound" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -540,9 +534,9 @@
   <w>áhrifamestu</w>
   <revision id="24">
     <original><w>dauðarokks</w><w>sveitirnar</w></original>
-    <corrected><w>dauðarokks-sveitirnar</w></corrected>
+    <corrected><w>dauðarokkssveitirnar</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0" />
+        <error xtype="split-compound" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -570,13 +564,7 @@
       </errors>
   </revision>
   <w>fyrsta</w>
-  <revision id="26">
-    <original><w>dauðarokkssveitin</w></original>
-    <corrected><w>dauðarokks-sveitin</w></corrected>
-      <errors>
-        <error xtype="missing-dash" eid="0" />
-      </errors>
-  </revision>
+  <w>dauðarokkssveitin</w>
   <w>fyrir</w>
   <w>hröðu</w>
   <w>og</w>
@@ -707,9 +695,9 @@
   <w>ensku</w>
   <revision id="34">
     <original><w>þungarokks</w><w>sveitinni</w></original>
-    <corrected><w>þungarokks-sveitinni</w></corrected>
+    <corrected><w>þungarokkssveitinni</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0" />
+        <error xtype="split-compound" eid="0" />
       </errors>
   </revision>
   <w>Motörhead</w>
@@ -717,9 +705,10 @@
   <w>bandarísku</w>
   <revision id="35">
     <original><w>bylturokks</w><w>sveitinni</w></original>
-    <corrected><w>þrass-sveitinni</w></corrected>
+    <corrected><w>þrasssveitinni</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0" />
+        <error xtype="split-compound" idx="35-1" eid="0" />
+        <error xtype="wording" idx="35-1" eid="0" />
       </errors>
   </revision>
   <w>Exodus</w>
@@ -737,9 +726,9 @@
   <w>er</w>
   <revision id="36">
     <original><w>dauðarokks</w><w>hljómsveit</w></original>
-    <corrected><w>dauðarokks-hljómsveit</w></corrected>
+    <corrected><w>dauðarokkshljómsveit</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0" />
+        <error xtype="split-compound" eid="0" />
       </errors>
   </revision>
   <w>stofnuð</w>
@@ -755,13 +744,7 @@
   <w>vera</w>
   <w>ein</w>
   <w>áhrifamesta</w>
-  <revision id="37">
-    <original><w>þungarokkshljómsveit</w></original>
-    <corrected><w>þungarokks-hljómsveit</w></corrected>
-      <errors>
-        <error xtype="missing-dash" eid="0" />
-      </errors>
-  </revision>
+  <w>þungarokkshljómsveit</w>
   <w>allra</w>
   <w>tíma</w>
   <w>og</w>
@@ -926,9 +909,9 @@
   <w>eina</w>
   <revision id="46">
     <original><w>dauðarokks</w><w>sveitin</w></original>
-    <corrected><w>dauðarokks-sveitin</w></corrected>
+    <corrected><w>dauðarokkssveitin</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0" />
+        <error xtype="split-compound" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
@@ -969,13 +952,7 @@
   <w>Mikið</w>
   <w>varð</w>
   <w>um</w>
-  <revision id="48">
-    <original><w>dauðarokkssveitir</w></original>
-    <corrected><w>dauðarokks-sveitir</w></corrected>
-      <errors>
-        <error xtype="missing-dash" eid="0" />
-      </errors>
-  </revision>
+  <w>dauðarokkssveitir</w>
   <w>í</w>
   <w>Flórída</w>
   <c>,</c>
@@ -1201,9 +1178,9 @@
   <w>innan</w>
   <revision id="58">
     <original><w>Gautaborgar</w><w>stefnunnar</w></original>
-    <corrected><w>Gautaborgar-stefnunnar</w></corrected>
+    <corrected><w>Gautaborgarstefnunnar</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0" />
+        <error xtype="split-compound" eid="0" />
       </errors>
   </revision>
   <c>.</c>

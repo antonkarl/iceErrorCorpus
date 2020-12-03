@@ -878,7 +878,7 @@
     <original><w>prionsjúkdómur</w></original>
     <corrected><w>prion-sjúkdómur</w><c>,</c></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0" />
+        <error xtype="missing-hyphen" eid="0" />
         <error xtype="missing-comma" eid="0" />
       </errors>
   </revision>
@@ -912,7 +912,7 @@
     <corrected><w>Nýju-Gíneu</w></corrected>
       <errors>
         <error xtype="split-word" idx="43-1" eid="0" />
-        <error xtype="missing-dash" idx="43-1" eid="0" />
+        <error xtype="missing-hyphen" idx="43-1" eid="0" />
       </errors>
   </revision>
   <w>um</w>
@@ -930,7 +930,7 @@
     <corrected><w>prion-sjúkdómi</w></corrected>
       <errors>
         <error xtype="split-word" idx="44-1" eid="0" />
-        <error xtype="missing-dash" idx="44-1" eid="0" />
+        <error xtype="missing-hyphen" idx="44-1" eid="0" />
       </errors>
   </revision>
   <w>smitaðist</w>

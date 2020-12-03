@@ -475,9 +475,9 @@
     <original><w>Tony</w><w>verðlauna</w><w>og</w><w>Grammy</w><w>verðlauna</w></original>
     <corrected><w>Tony- og Grammy-verðlauna</w><c>,</c></corrected>
       <errors>
-        <error xtype="missing-dash" idx="72-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="72-1" eid="0"/>
         <error xtype="extra-word" idx="72-1" eid="0"/>
-        <error xtype="missing-dash" idx="72-2" eid="0"/>
+        <error xtype="missing-hyphen" idx="72-2" eid="0"/>
         <error xtype="missing-comma" eid="0"/>
       </errors>
   </revision>
@@ -706,7 +706,7 @@
     <original><w>Gilman</w><w>stræti</w></original>
     <corrected><w>Gilman-stræti</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>númer</w>
@@ -877,7 +877,7 @@
     <original><w>Gilmanstræti</w></original>
     <corrected><w>Gilman-stræti</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>voru</w>
@@ -917,7 +917,7 @@
     <original><w>Gilmanstræti</w></original>
     <corrected><w>Gilman-stræti</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -1284,7 +1284,7 @@
     <original><w>pönk</w><w>stefnunni</w></original>
     <corrected><w>pönk-stefnunni</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -1532,7 +1532,7 @@
     <original><w>grunge</w><w>stefnan</w></original>
     <corrected><w>grunge-stefnan</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>hafði</w>
@@ -1815,7 +1815,7 @@
     <original><w>Soundwave</w><w>tónlistarhátíðinni</w></original>
     <corrected><w>Soundwave-tónlistarhátíðinni</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>í</w>

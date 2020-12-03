@@ -192,7 +192,7 @@
     <original><w>karlkyns</w><w>og</w><w>kvenkyns</w><w>öpunum</w></original>
     <corrected><w>karlkyns- og kvenkynsapanna</w></corrected>
       <errors>
-        <error xtype="missing-dash" idx="5-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="5-1" eid="0"/>
         <error xtype="split-compound" idx="5-2" eid="0"/>
       </errors>
   </revision>

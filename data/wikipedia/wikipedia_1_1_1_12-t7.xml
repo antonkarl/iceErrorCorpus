@@ -290,7 +290,7 @@
     <original><w>Norður</w><w>Afríku</w></original>
     <corrected><w>Norður-Afríku</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0" />
+        <error xtype="missing-hyphen" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -648,7 +648,7 @@
     <original><w>texta</w><w>og</w><w>mynda</w><w>kostir</w></original>
     <corrected><w>texta- og myndakostir</w></corrected>
       <errors>
-        <error xtype="missing-dash" idx="23-1" eid="0" />
+        <error xtype="missing-hyphen" idx="23-1" eid="0" />
         <error xtype="split-compound" idx="23-2" eid="0" />
       </errors>
   </revision>

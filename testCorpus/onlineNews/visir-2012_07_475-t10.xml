@@ -31,7 +31,7 @@
     <original><w>Hollywoodstjörnur</w></original>
     <corrected><w>Hollywood-stjörnur</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0" />
+        <error xtype="missing-hyphen" eid="0" />
       </errors>
   </revision>
   <w>mæta</w>
@@ -170,7 +170,7 @@
     <original><w>Touch</w><w>tímaritinu</w><w>og</w></original>
     <corrected><w>Touch-tímaritinu</w><w>að</w></corrected>
       <errors>
-        <error xtype="missing-dash" idx="10-1" eid="0" />
+        <error xtype="missing-hyphen" idx="10-1" eid="0" />
         <error xtype="missing-conjunction" idx="10-2" eid="0" />
       </errors>
   </revision>

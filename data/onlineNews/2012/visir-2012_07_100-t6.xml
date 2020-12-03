@@ -30,7 +30,7 @@
     <original><w>Nikkei</w><w>vísitalan</w></original>
     <corrected><w>Nikkei-vísitalan</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0" />
+        <error xtype="missing-hyphen" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -44,7 +44,7 @@
     <original><w>Seng</w><w>vísitalan</w></original>
     <corrected><w>Seng-vísitalan</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0" />
+        <error xtype="missing-hyphen" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -84,7 +84,7 @@
     <original><w>Brent</w><w>olian</w></original>
     <corrected><w>Brent-olíunnar</w></corrected>
       <errors>
-        <error xtype="missing-dash" idx="3-1" eid="0" />
+        <error xtype="missing-hyphen" idx="3-1" eid="0" />
         <error xtype="missing-accent" idx="3-2" eid="0" />
         <error xtype="dep" depId="2-1" eid="0" />
       </errors>
@@ -112,7 +112,7 @@
     <original><w>Brent</w><w>olíunni</w></original>
     <corrected><w>Brent-olíunni</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0" />
+        <error xtype="missing-hyphen" eid="0" />
       </errors>
   </revision>
   <w>var</w>

@@ -107,7 +107,7 @@
     <original><w>Boy</w><w>tónlist</w></original>
     <corrected><w>Boy-tónlist</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>sem</w>
@@ -141,7 +141,7 @@
     <original><w>Boy</w><w>tölvu</w></original>
     <corrected><w>Boy-tölvu</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
@@ -677,7 +677,7 @@
     <original><w>Boy</w><w>leik</w></original>
     <corrected><w>Boy-leik</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>sem</w>
@@ -692,7 +692,7 @@
     <original><w>Boy</w><w>leikjatölvuna</w><c>,</c><w>en</w><w>kubburinn</w></original>
     <corrected><w>Boy-leikjatölvuna</w><c>.</c><w>Kubburinn</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
         <error xtype="comma4period" eid="0"/>
         <error xtype="period-plus-conjunction" eid="0"/>
       </errors>
@@ -711,7 +711,7 @@
     <original><w>SID</w><w>flögum</w></original>
     <corrected><w>SID-flögum</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>svipuðum</w>
@@ -994,8 +994,8 @@
     <original><w>bitpopp</w><w>og</w><w>chiptune</w><w>hljómsveitin</w></original>
     <corrected><w>bitpopp- og chiptune-hljómsveitin</w></corrected>
       <errors>
-        <error xtype="missing-dash" idx="33-1" eid="0"/>
-        <error xtype="missing-dash" idx="33-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="33-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="33-1" eid="0"/>
       </errors>
   </revision>
   <w>í</w>
@@ -1161,7 +1161,7 @@
     <original><w>hljómsveit</w></original>
     <corrected><c>-hljómsveit</c></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>frá</w>
@@ -1254,7 +1254,7 @@
     <original><w>austur</w><w>Gautlandi</w></original>
     <corrected><w>austur-Gautlandi</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -1630,7 +1630,7 @@
     <original><w>Operators</w><w>hópurinn</w></original>
     <corrected><w>Operators-hópurinn</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>hafa</w>

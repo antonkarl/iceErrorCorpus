@@ -131,7 +131,7 @@
     <original><w>diskó</w><w>plötufyrirtækin</w></original>
     <corrected><w>diskó-plötufyrirtækin</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>urðu</w>
@@ -153,7 +153,7 @@
     <original><w>Ítaló</w><w>diskó</w></original>
     <corrected><w>Ítaló-diskó</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>er</w>
@@ -207,7 +207,7 @@
     <original><w>ítaló</w><w>diskó</w><w>eru</w></original>
     <corrected><w>ítaló-diskó</w><w>voru</w></corrected>
       <errors>
-        <error xtype="missing-dash" idx="97-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="97-1" eid="0"/>
         <error xtype="pres4past" idx="97-2" eid="0"/>
       </errors>
   </revision>
@@ -419,7 +419,7 @@
     <original><w>ítaló</w><w>diskó</w><c>”</c></original>
     <corrected><w>ítaló-diskó</w><c>“</c></corrected>
       <errors>
-        <error xtype="missing-dash" idx="161-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="161-1" eid="0"/>
         <error xtype="wrong-quots" idx="161-2" eid="0"/>
       </errors>
   </revision>
@@ -486,7 +486,7 @@
     <original><w>Ítaló</w><w>fönk</w><w>á</w><w>Ítalíu</w></original>
     <corrected><w><hi>Ítaló-fönk</hi></w><w>þar</w><w>í</w><w>landi</w></corrected>
       <errors>
-        <error xtype="missing-dash" idx="85-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="85-1" eid="0"/>
         <error xtype="nonit4it" idx="85-1" eid="0"/>
         <error xtype="wording" idx="85-2" eid="0"/>
       </errors>
@@ -785,7 +785,7 @@
     <original><w>ítaló</w><w>plötur</w></original>
     <corrected><w>ítaló-diskóplötur</w></corrected>
       <errors>
-        <error xtype="missing-dash" idx="191-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="191-1" eid="0"/>
         <error xtype="wording" idx="191-1" eid="0"/>
       </errors>
   </revision>
@@ -1118,7 +1118,7 @@
       <errors>
         <error xtype="conjunction4period" idx="20-1" eid="0"/>
         <error xtype="missing-words" idx="20-2" eid="0"/>
-        <error xtype="missing-dash" idx="20-3" eid="0"/>
+        <error xtype="missing-hyphen" idx="20-3" eid="0"/>
       </errors>
   </revision>
   <w>þann</w>
@@ -1316,7 +1316,7 @@
     <corrected><w>varð</w><w>ítaló-diskó</w></corrected>
       <errors>
         <error xtype="wording" idx="178-1" eid="0"/>
-        <error xtype="missing-dash" idx="178-2" eid="0"/>
+        <error xtype="missing-hyphen" idx="178-2" eid="0"/>
       </errors>
   </revision>
   <w>aldrei</w>
@@ -1837,7 +1837,7 @@
     <original><w>ítaló</w><w>diskó</w></original>
     <corrected><w>ítaló-diskó</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>miklum</w>
@@ -1881,7 +1881,7 @@
     <original><w>Ítaló</w><w>diskó</w></original>
     <corrected><w>Ítaló-diskó</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>náði</w>
@@ -2148,7 +2148,7 @@
     <corrected><w>fjöruðu</w><w>vinsældir</w><w>ítaló-diskó</w></corrected>
       <errors>
         <error xtype="wording" idx="186-1" eid="0"/>
-        <error xtype="missing-dash" idx="186-2" eid="0"/>
+        <error xtype="missing-hyphen" idx="186-2" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -2160,7 +2160,7 @@
     <original><w>Ítaló</w><w>diskó</w></original>
     <corrected><w>Ítaló-diskó</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>er</w>

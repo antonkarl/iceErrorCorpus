@@ -421,7 +421,7 @@
     <original><w>Ventura</w><w>ánni</w></original>
     <corrected><w>Ventura-ánni</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>í</w>
@@ -453,7 +453,7 @@
     <original><w>Hokkaido</w><w>eyju</w></original>
     <corrected><w>Hokkaido-eyju</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>í</w>
@@ -465,7 +465,7 @@
     <original><w>Anadyr</w><w>ár</w></original>
     <corrected><w>Anadyr-ár</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>í</w>
@@ -532,7 +532,7 @@
     <original/>
     <corrected><c>-</c></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>vítamíni</w>
@@ -886,7 +886,7 @@
     <corrected><c>.</c><w>Straumlaxinn</w></corrected>
       <errors>
         <error xtype="conjunction4period" idx="27-1" eid="0"/>
-        <error xtype="missing-dash" idx="27-2" eid="0"/>
+        <error xtype="missing-hyphen" idx="27-2" eid="0"/>
       </errors>
   </revision>
   <w>kemur</w>

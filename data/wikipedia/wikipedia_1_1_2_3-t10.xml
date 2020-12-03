@@ -1372,7 +1372,7 @@
     <original><w>Montague</w><w>og</w><w>Capulet</w></original>
     <corrected><w>Montague- og Capulet</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0" />
+        <error xtype="missing-hyphen" eid="0" />
       </errors>
   </revision>
   <w>fjölskyldurnar</w>
@@ -1891,7 +1891,7 @@
     <original><w>Broadway</w><w>söngleikur</w></original>
     <corrected><w>Broadway-söngleikurinn</w></corrected>
       <errors>
-        <error xtype="missing-dash" idx="132-1" eid="0" />
+        <error xtype="missing-hyphen" idx="132-1" eid="0" />
         <error xtype="ind4def" idx="132-2" eid="0" />
       </errors>
   </revision>
@@ -3045,7 +3045,7 @@
     <original><w>B-mynda</w><w>árana</w></original>
     <corrected><w>B-mynda-áranna</w></corrected>
       <errors>
-        <error xtype="missing-dash" idx="219-1" eid="0" />
+        <error xtype="missing-hyphen" idx="219-1" eid="0" />
         <error xtype="n4nn" idx="219-2" eid="0" />
         <error xtype="nominal-inflection" idx="219-2" eid="0" />
       </errors>
@@ -3110,7 +3110,7 @@
       <errors>
         <error xtype="extra-quots" idx="224-1" eid="0" />
         <error xtype="nonit4it" idx="224-2" eid="0" />
-        <error xtype="missing-dash" idx="224-3" eid="0" />
+        <error xtype="missing-hyphen" idx="224-3" eid="0" />
       </errors>
   </revision>
   <w>urðu</w>
@@ -4288,7 +4288,7 @@
     <original><w>Tony</w><w>verðlaun</w></original>
     <corrected><w>Tony-verðlaunin</w></corrected>
       <errors>
-        <error xtype="missing-dash" idx="290-1" eid="0" />
+        <error xtype="missing-hyphen" idx="290-1" eid="0" />
         <error xtype="ind4def" idx="290-2" eid="0" />
       </errors>
   </revision>
@@ -4332,7 +4332,7 @@
     <original><w>West-End</w><w>söngleikur</w></original>
     <corrected><w><hi>West-End-söngleikur</hi></w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0" />
+        <error xtype="missing-hyphen" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
@@ -4435,7 +4435,7 @@
     <original><w>AIDS</w><w>faraldrains</w></original>
     <corrected><w>AIDS-faraldursins</w></corrected>
       <errors>
-        <error xtype="missing-dash" idx="300-1" eid="0" />
+        <error xtype="missing-hyphen" idx="300-1" eid="0" />
         <error xtype="nonword" idx="300-2" eid="0" />
       </errors>
   </revision>

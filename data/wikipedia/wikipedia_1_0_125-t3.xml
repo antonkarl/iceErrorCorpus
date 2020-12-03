@@ -122,7 +122,8 @@
     <original><w>þarsem</w></original>
     <corrected><w>þar</w><w>sem</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0" />
+        <error xtype="merged-words" idx="8-1" eid="0" />
+        <error xtype="nonword" idx="8-1" eid="0" />
       </errors>
   </revision>
   <w>hann</w>
@@ -405,7 +406,8 @@
     <original><w>þarsem</w></original>
     <corrected><w>þar</w><w>sem</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0" />
+        <error xtype="merged-words" idx="27-1" eid="0" />
+        <error xtype="nonword" idx="27-1" eid="0" />
       </errors>
   </revision>
   <w>stjórnendur</w>

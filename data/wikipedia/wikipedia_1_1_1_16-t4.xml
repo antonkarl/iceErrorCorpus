@@ -535,7 +535,7 @@
     <original><w>ESE</w><w>samningsins</w></original>
     <corrected><w>ESE-samningsins</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>eru</w>
@@ -556,8 +556,8 @@
     <original><w>EES</w><w>eða</w><w>ESE</w><w>samningunum</w></original>
     <corrected><w>EES- eða ESE-samningunum</w></corrected>
       <errors>
-        <error xtype="missing-dash" idx="14-1" eid="0"/>
-        <error xtype="missing-dash" idx="14-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="14-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="14-1" eid="0"/>
       </errors>
   </revision>
   <w>eða</w>

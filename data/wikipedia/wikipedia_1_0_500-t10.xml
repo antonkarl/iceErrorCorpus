@@ -1232,7 +1232,7 @@
     <original><w>vor</w><w>og</w><w>sumar</w><w>smellur</w></original>
     <corrected><w>vor- og sumarsmellur</w></corrected>
       <errors>
-        <error xtype="missing-dash" idx="40-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="40-1" eid="0"/>
         <error xtype="split-compound" idx="40-2" eid="0"/>
       </errors>
   </revision>
@@ -1416,7 +1416,7 @@
     <original><w>song</w></original>
     <corrected><w>song-stíll</w></corrected>
       <errors>
-        <error xtype="missing-dash" idx="49-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="49-1" eid="0"/>
         <error xtype="missing-word" idx="49-1" eid="0"/>
       </errors>
   </revision>

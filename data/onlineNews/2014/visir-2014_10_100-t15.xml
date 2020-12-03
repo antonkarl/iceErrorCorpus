@@ -33,12 +33,11 @@
   <w>réttindagæslu</w>
   <w>og</w>
   <w>barnaverndarmálum</w>
-  <c>,</c>
   <revision id="1">
-    <original/>
-    <corrected><c>-</c></corrected>
+    <original><c>,</c></original>
+    <corrected><c>—</c></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="comma4longdash" eid="0"/>
       </errors>
   </revision>
   <w>sérfræðingar</w>
@@ -47,9 +46,9 @@
   <w>málum</w>
   <revision id="2">
     <original><w>eru</w></original>
-    <corrected><c>–</c><w>er</w><w>að</w><w>finna</w></corrected>
+    <corrected><c>—</c><w>er</w><w>að</w><w>finna</w></corrected>
       <errors>
-        <error xtype="missing-dash" idx="8-1" eid="0"/>
+        <error xtype="missing-longdash" idx="8-1" eid="0"/>
         <error xtype="wording" idx="8-2" eid="0"/>
       </errors>
   </revision>

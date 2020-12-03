@@ -50,7 +50,7 @@
     <original><w>ska</w><w>búning</w></original>
     <corrected><w>ska-búning</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -77,7 +77,7 @@
     <original><w>Ska</w><w>tónlist</w></original>
     <corrected><w>Ska-tónlist</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>var</w>
@@ -93,7 +93,7 @@
     <original><w>ska</w><w>tónlistarinnar</w></original>
     <corrected><w>ska-tónlistarinnar</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>voru</w>
@@ -438,9 +438,9 @@
   <w>spiluðu</w>
   <revision id="20">
     <original><w>nútíma</w><w>ska</w></original>
-    <corrected><w>nútíma-ska</w></corrected>
+    <corrected><w>nútímaska</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>en</w>
@@ -449,13 +449,7 @@
   <w>líka</w>
   <w>nokkrir</w>
   <w>gamalreyndir</w>
-  <revision id="21">
-    <original><w>skatónlistarmenn</w></original>
-    <corrected><w>ska-tónlistarmenn</w></corrected>
-      <errors>
-        <error xtype="missing-dash" eid="0"/>
-      </errors>
-  </revision>
+  <w>skatónlistarmenn</w>
   <w>sem</w>
   <w>voru</w>
   <w>vel</w>
@@ -597,7 +591,7 @@
     <corrected><w><hi>rocksteady-stefnunnar</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="7-1" eid="0"/>
-        <error xtype="missing-dash" idx="7-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="7-1" eid="0"/>
         <error xtype="missing-word" idx="7-1" eid="0"/>
       </errors>
   </revision>
@@ -611,7 +605,7 @@
       <errors>
         <error xtype="extra-comma" idx="28-1" eid="0"/>
         <error xtype="missing-word" idx="28-2" eid="0"/>
-        <error xtype="missing-dash" idx="28-3" eid="0"/>
+        <error xtype="missing-hyphen" idx="28-3" eid="0"/>
         <error xtype="number4word" idx="28-4" eid="0"/>
       </errors>
   </revision>
@@ -628,7 +622,7 @@
     <original><w>Ska</w><w>hátíð</w></original>
     <corrected><w>Ska-hátíð</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>allra</w>
@@ -650,7 +644,7 @@
     <original><w>Ska</w><w>hljómsveit</w></original>
     <corrected><w>Ska-hljómsveit</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>þessa</w>
@@ -780,7 +774,7 @@
     <original><w>Ska</w><w>tónlistarstefnunni</w></original>
     <corrected><w>Ska-tónlistarstefnunni</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>hefur</w>
@@ -986,7 +980,7 @@
     <original><w>ska</w><w>hljómsveitir</w></original>
     <corrected><w>ska-hljómsveitir</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>innihalda</w>
@@ -1043,7 +1037,7 @@
     <corrected><w>arfleifð</w><w>Ska-tónlistar</w></corrected>
       <errors>
         <error xtype="wording" idx="66-1" eid="0"/>
-        <error xtype="missing-dash" idx="66-2" eid="0"/>
+        <error xtype="missing-hyphen" idx="66-2" eid="0"/>
       </errors>
   </revision>
   <w>í</w>
@@ -1307,7 +1301,7 @@
     <original><w>ska</w><w>taktinn</w><w>með</w></original>
     <corrected><w>ska-taktinn</w><w>á</w></corrected>
       <errors>
-        <error xtype="missing-dash" idx="55-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="55-1" eid="0"/>
         <error xtype="wrong-prep" idx="55-2" eid="0"/>
       </errors>
   </revision>

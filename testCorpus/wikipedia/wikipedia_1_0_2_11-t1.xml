@@ -63,8 +63,8 @@
     <original><w>Stóner</w><w>rokk</w><c>,</c><w>Stóner</w><w>metall</w></original>
     <corrected><w>Stóner-rokk</w><c>,</c><w>stóner-metal</w></corrected>
       <errors>
-        <error xtype="missing-dash" idx="1-1" eid="0"/>
-        <error xtype="missing-dash" idx="1-2" eid="0"/>
+        <error xtype="missing-hyphen" idx="1-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="1-2" eid="0"/>
         <error xtype="upper4lower-common" idx="1-2" eid="0"/>
       </errors>
   </revision>
@@ -89,7 +89,7 @@
     <original><w>Stóner</w><w>rokk</w></original>
     <corrected><w>stóner-rokk</w></corrected>
       <errors>
-        <error xtype="missing-dash" idx="8-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="8-1" eid="0"/>
         <error xtype="upper4lower-common" idx="8-1" eid="0"/>
       </errors>
   </revision>
@@ -239,7 +239,7 @@
     <corrected><w>stóner-rokkið</w><w>sé</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="35-1" eid="0"/>
-        <error xtype="missing-dash" idx="35-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="35-1" eid="0"/>
         <error xtype="ind4sub" idx="35-2" eid="0"/>
       </errors>
   </revision>
@@ -308,7 +308,7 @@
       <errors>
         <error xtype="wording" idx="18-1" eid="0"/>
         <error xtype="upper4lower-common" idx="18-2" eid="0"/>
-        <error xtype="missing-dash" idx="18-2" eid="0"/>
+        <error xtype="missing-hyphen" idx="18-2" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -353,7 +353,7 @@
     <original><w>stóner</w><w>rokks</w></original>
     <corrected><w>stóner-rokks</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
@@ -398,7 +398,7 @@
     <corrected><w>stóner-rokksenuna</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="53-1" eid="0"/>
-        <error xtype="missing-dash" idx="53-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="53-1" eid="0"/>
         <error xtype="split-compound" idx="53-2" eid="0"/>
       </errors>
   </revision>
@@ -415,7 +415,7 @@
     <corrected><w>stóner-rokks</w><w>felist</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="38-1" eid="0"/>
-        <error xtype="missing-dash" idx="38-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="38-1" eid="0"/>
         <error xtype="ind4sub" idx="38-2" eid="0"/>
       </errors>
   </revision>
@@ -482,7 +482,7 @@
     <original><w>Stóner</w><w>metal</w><w>bönd</w></original>
     <corrected><w>Stóner-metalhljómsveitir</w></corrected>
       <errors>
-        <error xtype="missing-dash" idx="41-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="41-1" eid="0"/>
         <error xtype="wording" idx="41-2" eid="0"/>
         <error xtype="split-compound" idx="41-2" eid="0"/>
       </errors>
@@ -494,7 +494,7 @@
     <corrected><c>„</c><w>hugarbjagandi</w><c>“</c><w>stefin</w></corrected>
       <errors>
         <error xtype="wrong-quots" idx="42-1" eid="0"/>
-        <error xtype="extra-dash" idx="42-2" eid="0"/>
+        <error xtype="extra-hyphen" idx="42-2" eid="0"/>
         <error xtype="dep" depId="42-1" eid="0"/>
         <error xtype="missing-word" idx="42-3" eid="0"/>
       </errors>
@@ -579,7 +579,7 @@
     <corrected><w>stóner-rokks</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="34-1" eid="0"/>
-        <error xtype="missing-dash" idx="34-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="34-1" eid="0"/>
       </errors>
   </revision>
   <c>“</c>
@@ -635,7 +635,7 @@
     <corrected><w>stóner-rokksafnplötuna</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="9-1" eid="0"/>
-        <error xtype="missing-dash" idx="9-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="9-1" eid="0"/>
         <error xtype="split-compound" idx="9-1" eid="0"/>
       </errors>
   </revision>
@@ -706,7 +706,7 @@
     <corrected><w>stóner-rokks</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="30-1" eid="0"/>
-        <error xtype="missing-dash" idx="30-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="30-1" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
@@ -725,7 +725,7 @@
       <errors>
         <error xtype="wording" idx="31-1" eid="0"/>
         <error xtype="upper4lower-common" idx="31-2" eid="0"/>
-        <error xtype="missing-dash" idx="31-2" eid="0"/>
+        <error xtype="missing-hyphen" idx="31-2" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -751,7 +751,7 @@
     <corrected><w>stóner-rokki</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="28-1" eid="0"/>
-        <error xtype="missing-dash" idx="28-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="28-1" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
@@ -845,7 +845,7 @@
     <corrected><w>stóner-rokk</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="84-1" eid="0"/>
-        <error xtype="missing-dash" idx="84-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="84-1" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
@@ -1097,7 +1097,7 @@
     <corrected><w>stóner-rokk</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="55-1" eid="0"/>
-        <error xtype="missing-dash" idx="55-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="55-1" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -1109,7 +1109,7 @@
     <corrected><w>stóner-rokkhljómsveita</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="68-1" eid="0"/>
-        <error xtype="missing-dash" idx="68-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="68-1" eid="0"/>
         <error xtype="split-compound" idx="68-2" eid="0"/>
       </errors>
   </revision>
@@ -1151,7 +1151,7 @@
     <corrected><w>stóner-rokks</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="12-1" eid="0"/>
-        <error xtype="missing-dash" idx="12-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="12-1" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -1231,7 +1231,7 @@
     <original><w>Kyuss</w><w>aðdáenda</w></original>
     <corrected><w>Kyuss-aðdáenda</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -1278,7 +1278,7 @@
     <original><w>Desert</w><w>senunni</w></original>
     <corrected><w>Desert-senunni</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
@@ -1306,7 +1306,7 @@
     <corrected><w>stóner-rokksenuna</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="64-1" eid="0"/>
-        <error xtype="missing-dash" idx="64-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="64-1" eid="0"/>
         <error xtype="split-compound" idx="64-2" eid="0"/>
       </errors>
   </revision>
@@ -1348,7 +1348,7 @@
     <corrected><w>stóner-rokkhljómsveitum</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="101-1" eid="0"/>
-        <error xtype="missing-dash" idx="101-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="101-1" eid="0"/>
         <error xtype="split-compound" idx="101-2" eid="0"/>
       </errors>
   </revision>
@@ -1439,7 +1439,7 @@
       <errors>
         <error xtype="wording" idx="60-1" eid="0"/>
         <error xtype="upper4lower-common" idx="60-2" eid="0"/>
-        <error xtype="missing-dash" idx="60-2" eid="0"/>
+        <error xtype="missing-hyphen" idx="60-2" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
@@ -1547,7 +1547,7 @@
     <corrected><w>stóner-rokk</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="88-1" eid="0"/>
-        <error xtype="missing-dash" idx="88-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="88-1" eid="0"/>
       </errors>
   </revision>
   <w>fyrir</w>
@@ -1586,7 +1586,7 @@
     <original><w>Stóner</w><w>rokkið</w></original>
     <corrected><w>Stóner-rokkið</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>myndaðist</w>
@@ -1602,7 +1602,7 @@
     <corrected><w>Desert-senuna</w></corrected>
       <errors>
         <error xtype="lower4upper-proper" idx="57-1" eid="0"/>
-        <error xtype="missing-dash" idx="57-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="57-1" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -1664,7 +1664,7 @@
     <original><w>Desert</w><w>senuni</w></original>
     <corrected><w>Desert-senunni</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
@@ -1837,7 +1837,7 @@
     <corrected><w>stóner-rokks</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="67-1" eid="0"/>
-        <error xtype="missing-dash" idx="67-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="67-1" eid="0"/>
       </errors>
   </revision>
   <w>í</w>
@@ -1873,7 +1873,7 @@
     <corrected><w>stóner-rokk</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="23-1" eid="0"/>
-        <error xtype="missing-dash" idx="23-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="23-1" eid="0"/>
       </errors>
   </revision>
   <w>þá</w>
@@ -1922,7 +1922,7 @@
     <corrected><w>metal-plata</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="97-1" eid="0"/>
-        <error xtype="missing-dash" idx="97-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="97-1" eid="0"/>
       </errors>
   </revision>
   <w>allra</w>

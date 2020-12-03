@@ -233,7 +233,7 @@
     <corrected><w>Do</w><w>Something-verðlaunahátíðinni</w></corrected>
       <errors>
         <error xtype="it4nonit" idx="10-1" eid="0"/>
-        <error xtype="missing-dash" idx="10-2" eid="0"/>
+        <error xtype="missing-hyphen" idx="10-2" eid="0"/>
       </errors>
   </revision>
   <w>sem</w>
@@ -542,7 +542,7 @@
     <original><w>MFA</w><w>gráðu</w></original>
     <corrected><w>MFA-gráðu</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>í</w>

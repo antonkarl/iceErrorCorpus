@@ -118,7 +118,7 @@
     <corrected><w><hi>B-Movie</hi></w></corrected>
       <errors>
         <error xtype="split-word" idx="14-1" eid="0"/>
-        <error xtype="missing-dash" idx="14-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="14-1" eid="0"/>
       </errors>
   </revision>
   <w><hi>Actor</hi></w>
@@ -307,7 +307,7 @@
       <errors>
         <error xtype="nonit4it" idx="7-1" eid="0"/>
         <error xtype="split-compound" idx="7-1" eid="0"/>
-        <error xtype="missing-dash" idx="7-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="7-1" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -595,7 +595,7 @@
     <original><w>myndunum</w></original>
     <corrected><c>-myndunum</c></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <c>.</c>

@@ -121,8 +121,8 @@
     <original><w>Adidas</w><w>og</w><w>Nike</w><w>umboðin</w></original>
     <corrected><w>Adidas- og Nike-umboðin</w></corrected>
       <errors>
-        <error xtype="missing-dash" idx="4-1" eid="0"/>
-        <error xtype="missing-dash" idx="4-2" eid="0"/>
+        <error xtype="missing-hyphen" idx="4-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="4-2" eid="0"/>
       </errors>
   </revision>
   <w>á</w>

@@ -47,7 +47,7 @@
     <original><w>Heilsu</w><w>goth</w></original>
     <corrected><w>Heilsu-goth</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>byggir</w>
@@ -96,7 +96,7 @@
     <original><w>Heilsu</w><w>goth</w></original>
     <corrected><w>Heilsu-goth</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>varð</w>
@@ -109,7 +109,7 @@
     <original><w>Facebooksíðan</w></original>
     <corrected><w>Facebook-síðan</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w><hi>Health</hi></w>
@@ -144,7 +144,7 @@
     <original><w>heilsu</w><w>goth</w></original>
     <corrected><w>heilsu-goth</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -188,7 +188,7 @@
     <original><w>goth</w><w>lífsstíllinn</w></original>
     <corrected><w>goth-lífsstílinn</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>sem</w>
@@ -236,7 +236,7 @@
     <original><w>heilsu</w><w>goth</w></original>
     <corrected><w>heilsu-goth</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -295,7 +295,7 @@
     <corrected><w>boðorð</w><w>heilsu-gotharans</w><c>.</c></corrected>
       <errors>
         <error xtype="upper4lower-noninitial" idx="19-1" eid="0"/>
-        <error xtype="missing-dash" idx="19-2" eid="0"/>
+        <error xtype="missing-hyphen" idx="19-2" eid="0"/>
         <error xtype="missing-period" idx="19-3" eid="0"/>
       </errors>
   </revision>
@@ -335,7 +335,7 @@
     <original><w>heilsu</w><w>goth</w></original>
     <corrected><w>heilsu-goth</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <c>,</c>
@@ -507,8 +507,8 @@
     <original><w>health</w><w>goth</w><w>stíl</w></original>
     <corrected><w>heilsu-goth-stíl</w></corrected>
       <errors>
-        <error xtype="missing-dash" idx="16-1" eid="0"/>
-        <error xtype="missing-dash" idx="16-2" eid="0"/>
+        <error xtype="missing-hyphen" idx="16-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="16-2" eid="0"/>
       </errors>
   </revision>
   <c>,</c>
@@ -616,7 +616,7 @@
     <original><w>health</w><w>goth</w><c>,</c></original>
     <corrected><w>heilsu-goth</w></corrected>
       <errors>
-        <error xtype="missing-dash" idx="18-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="18-1" eid="0"/>
         <error xtype="extra-comma" idx="18-2" eid="0"/>
       </errors>
   </revision>

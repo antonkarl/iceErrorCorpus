@@ -258,7 +258,7 @@
     <original><w>efnahags</w><w>og</w><w>herðnaðarlega</w></original>
     <corrected><w>efnahags- og hernaðarlega</w></corrected>
       <errors>
-        <error xtype="missing-dash" idx="30-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="30-1" eid="0"/>
         <error xtype="extra-letter" idx="30-2" eid="0"/>
         <error xtype="nonword" idx="30-2" eid="0"/>
       </errors>
@@ -970,7 +970,7 @@
     <corrected><w>Austur-Asíu</w></corrected>
       <errors>
         <error xtype="lower4upper-proper" idx="32-1" eid="0"/>
-        <error xtype="missing-dash" idx="32-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="32-1" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -1009,7 +1009,7 @@
     <original><w>Silla</w><w>konungsveldisins</w></original>
     <corrected><w>Silla-konungsveldisins</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>og</w>

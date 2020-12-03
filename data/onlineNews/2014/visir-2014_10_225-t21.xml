@@ -214,7 +214,7 @@
     <original><w>PGA</w></original>
     <corrected><w>PGA-sambandsins</w></corrected>
       <errors>
-        <error xtype="missing-dash" idx="2-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="2-1" eid="0"/>
         <error xtype="missing-word" idx="2-1" eid="0"/>
       </errors>
   </revision>
@@ -227,7 +227,7 @@
     <original><w>PGA</w><w>sambandið</w></original>
     <corrected><w>PGA-sambandið</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w>skilur</w>

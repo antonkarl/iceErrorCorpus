@@ -222,7 +222,7 @@
     <original><w>Libor</w><w>vextina</w></original>
     <corrected><w>Libor-vextina</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0" />
+        <error xtype="missing-hyphen" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -370,7 +370,7 @@
     <corrected><w>Libor-vextirnir</w></corrected>
       <errors>
         <error xtype="missing-space" idx="9-1" eid="0" />
-        <error xtype="missing-dash" idx="9-1" eid="0" />
+        <error xtype="missing-hyphen" idx="9-1" eid="0" />
       </errors>
   </revision>
   <w>ákveðinn</w>

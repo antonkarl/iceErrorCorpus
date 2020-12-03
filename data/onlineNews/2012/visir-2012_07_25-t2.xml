@@ -71,7 +71,7 @@
     <original><w>Stóru</w><w>Laxá</w></original>
     <corrected><w>Stóru-Laxá</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0" />
+        <error xtype="missing-hyphen" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -634,7 +634,7 @@
     <corrected><w>Í</w><w>Stóru-Laxá</w><c>,</c></corrected>
       <errors>
         <error xtype="missing-word" idx="29-1" eid="0" />
-        <error xtype="missing-dash" idx="29-2" eid="0" />
+        <error xtype="missing-hyphen" idx="29-2" eid="0" />
         <error xtype="missing-comma" idx="29-3" eid="0" />
       </errors>
   </revision>
@@ -1098,7 +1098,7 @@
     <original><w>Stóru</w><w>laxá</w></original>
     <corrected><w>Stóru-Laxá</w></corrected>
       <errors>
-        <error xtype="missing-dash" eid="0" />
+        <error xtype="missing-hyphen" eid="0" />
       </errors>
   </revision>
   <c>.</c>
