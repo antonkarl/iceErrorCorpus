@@ -214,9 +214,9 @@
   <w>5</w>
   <revision id="1">
     <original><w>til</w></original>
-    <corrected><c>-</c></corrected>
+    <corrected><c>–</c></corrected>
       <errors>
-        <error xtype="word4dash" idx="1-1" eid="0" />
+        <error xtype="word4shortdash" idx="1-1" eid="0" />
         <error xtype="style" idx="1-1" eid="0" />
       </errors>
   </revision>
@@ -235,9 +235,9 @@
   <w>15</w>
   <revision id="2">
     <original><w>til</w></original>
-    <corrected></corrected>
+    <corrected>–</corrected>
       <errors>
-        <error xtype="word4dash" idx="2-1" eid="0" />
+        <error xtype="word4shortdash" idx="2-1" eid="0" />
         <error xtype="style" idx="2-1" eid="0" />
       </errors>
   </revision>
