@@ -626,14 +626,14 @@
   <w>að</w>
   <w>nota</w>
   <revision id="9">
-    <original><w>tvö</w><w>prósent</w><w>meira</w></original>
-    <corrected><w>tveimur</w><w>prósentum</w><w>meir</w></corrected>
+    <original><w>tvö</w><w>prósent</w></original>
+    <corrected><w>tveimur</w><w>prósentum</w></corrected>
       <errors>
         <error xtype="dep" depId="10-1" eid="0"/>
         <error xtype="nominal-inflection" idx="10-1" eid="0"/>
-        <error xtype="wording" idx="10-2" eid="0"/>
       </errors>
   </revision>
+  <w>meira</w>
   <w>af</w>
   <w>áburði</w>
   <w>á</w>
