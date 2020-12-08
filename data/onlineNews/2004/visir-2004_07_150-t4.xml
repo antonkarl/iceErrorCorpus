@@ -264,19 +264,25 @@
   </revision>
   <w>eru</w>
   <w>um</w>
-  <w>53 þúsund</w>
+  <revision id="11b">
+    <original><w>53 þúsund</w></original>
+    <corrected><w>53.000</w></corrected>
+      <errors>
+        <error xtype="word4number" eid="0" />
+      </errors>
+  </revision>
   <w>atkvæði</w>
   <w>og</w>
   <w>44</w>
   <w>prósent</w>
   <w>eru</w>
+  <w>94.000</w>
   <revision id="12">
-    <original><w>94.000</w><w>kjósendur</w></original>
-    <corrected><w>94 þúsund</w><c>,</c></corrected>
+    <original><w>kjósendur</w></original>
+    <corrected><c>,</c></corrected>
       <errors>
-        <error xtype="number4word" idx="12-1" eid="0" />
-        <error xtype="extra-word" idx="12-2" eid='0' />
-        <error xtype="missing-comma" idx="12-3" eid="0" />
+        <error xtype="extra-word" idx="12-1" eid='0' />
+        <error xtype="missing-comma" idx="12-2" eid="0" />
       </errors>
   </revision>
   <w>eða</w>

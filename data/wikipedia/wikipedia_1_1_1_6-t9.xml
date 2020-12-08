@@ -433,9 +433,9 @@
 </s><s n="24">
   <revision id="13">
     <original><w>100 þúsund</w></original>
-    <corrected><w>Hundrað þúsund</w></corrected>
+    <corrected><w>100.000</w></corrected>
       <errors>
-        <error xtype="number4word" eid="0"/>
+        <error xtype="word4number" eid="0"/>
       </errors>
   </revision>
   <w>manns</w>

@@ -46,18 +46,10 @@
   <w>í</w>
   <w>kringum</w>
   <revision id="3">
-    <original><w>6 þúsund</w></original>
-    <corrected><w>sex þúsund</w></corrected>
+    <original><w>6 þúsund</w><w>og</w><w>500</w></original>
+    <corrected><w>6500</w></corrected>
       <errors>
-        <error xtype="number4word" eid="0" />
-      </errors>
-  </revision>
-  <w>og</w>
-  <revision id="4">
-    <original><w>500</w></original>
-    <corrected><w>fimmhundruð</w></corrected>
-      <errors>
-        <error xtype="number4word" eid="0" />
+        <error xtype="word4number" eid="0" />
       </errors>
   </revision>
   <w>pund</w>
@@ -69,13 +61,7 @@
   <w>gegn</w>
   <w>Chile</w>
   <w>í</w>
-  <revision id="5">
-    <original><w>16</w></original>
-    <corrected><w>sextán</w></corrected>
-      <errors>
-        <error xtype="number4word" eid="0" />
-      </errors>
-  </revision>
+  <w>16</w>
   <w>liða</w>
   <w>úrslitum</w>
   <w>HM</w>

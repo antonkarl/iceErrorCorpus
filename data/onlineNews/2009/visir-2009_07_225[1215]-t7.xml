@@ -98,7 +98,14 @@
 <s n="7">
   <w>Samkvæmt</w>
   <w>dómi</w>
-  <w>þá</w>
+  <revision id="1b">
+    <original><w>þá</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="1b-1" eid="0" />
+        <error xtype="style" idx="1b-1" eid="0" />
+      </errors>
+  </revision>
   <w>er</w>
   <w>greiðslugeta</w>
   <w>mannsins</w>
@@ -106,9 +113,9 @@
   <w>tæpar</w>
   <revision id="2">
     <original><w>5000 þúsund krónur</w></original>
-    <corrected><w>fimm þúsund krónur</w></corrected>
+    <corrected><w>5000 krónur</w></corrected>
       <errors>
-        <error xtype="number4word" eid="0" />
+        <error xtype="extra-word" eid="0" />
       </errors>
   </revision>
   <w>á</w>
