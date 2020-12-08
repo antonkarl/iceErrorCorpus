@@ -276,7 +276,7 @@
     <original><w>Alþingi–ekkert</w></original>
     <corrected><w>Alþingi</w><c>;</c><w>ekkert</w></corrected>
       <errors>
-        <error xtype="shortdash4semicolon" idx="3-1" eid="0"/>
+        <error xtype="endash4semicolon" idx="3-1" eid="0"/>
         <error xtype="missing-space" idx="3-2" eid="0"/>
       </errors>
   </revision>
@@ -303,7 +303,7 @@
     <original><c>,</c></original>
     <corrected><c>–</c></corrected>
       <errors>
-        <error xtype="comma4shortdash" eid="0"/>
+        <error xtype="comma4dash" eid="0"/>
       </errors>
   </revision>
   <w>allt</w>
@@ -423,7 +423,7 @@
     <original><c>–</c></original>
     <corrected><c>;</c></corrected>
       <errors>
-        <error xtype="shortdash4semicolon" eid="0"/>
+        <error xtype="endash4semicolon" eid="0"/>
       </errors>
   </revision>
   <w>afleiðingin</w>
