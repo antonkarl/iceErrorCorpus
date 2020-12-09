@@ -24,15 +24,9 @@
       </errors>
   </revision>
   <w>um</w>
-  <revision id="2">
-    <original><w>1</w><c>-1,5 m</c></original>
-    <corrected><w>eins</w><w>til</w><w>eins</w><w>og</w><w>hálfs</w><w>metra</w></corrected>
-      <errors>
-        <error xtype="number4word" eid="0"/>
-        <error xtype="hyphen4word" eid="0"/>
-        <error xtype="number4word" eid="0"/>
-      </errors>
-  </revision>
+  <w>1</w>
+  <c>-</c>
+  <w>1,5 m</w>
   <w>þykkir</w>
   <w>og</w>
   <w>hlaðnir</w>
@@ -263,10 +257,9 @@
   <w>um</w>
   <revision id="11">
     <original><w>50m</w><w>²</w></original>
-    <corrected><w>fimmtíu</w><w>fermetrar</w></corrected>
+    <corrected><w>50</w><w>m²</w></corrected>
       <errors>
-        <error xtype="number4word" eid="0"/>
-        <error xtype="abbreviation4words" eid="0"/>
+        <error xtype="missing-space" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -274,10 +267,9 @@
   <w>og</w>
   <revision id="12">
     <original><w>4m</w><w>að</w></original>
-    <corrected><w>fjórir</w><w>metrar</w><w>á</w></corrected>
+    <corrected><w>4</w><w>m</w><w>á</w></corrected>
       <errors>
-        <error xtype="number4word" eid="0"/>
-        <error xtype="abbreviation4words" eid="0"/>
+        <error xtype="missing-space" eid="0"/>
         <error xtype="wrong-prep" eid="0"/>
       </errors>
   </revision>

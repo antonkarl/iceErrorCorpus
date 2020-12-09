@@ -64,7 +64,13 @@
   <c>.</c>
 </s>
 <s n="3">
-  <w>Tólf</w>
+  <revision id="2b">
+    <original><w>Tólf</w></original>
+    <corrected><w>12</w></corrected>
+      <errors>
+        <error xtype="word4number" eid="0" />
+      </errors>
+  </revision>
   <w>bestu</w>
   <w>leikmenn</w>
   <w>í</w>
@@ -102,13 +108,7 @@
   <w>Gylfason</w>
   <w>hjá</w>
   <w>Wilhelmshaven</w>
-  <revision id="4">
-    <original><w>12.</w></original>
-    <corrected><w>tólfti</w></corrected>
-      <errors>
-        <error xtype="number4word" eid="0" />
-      </errors>
-  </revision>
+  <w>12.</w>
   <w>besti</w>
   <w>örvhenti</w>
   <w>hornamaðurinn</w>

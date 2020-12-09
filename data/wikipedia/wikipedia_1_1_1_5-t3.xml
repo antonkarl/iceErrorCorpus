@@ -1380,12 +1380,12 @@
   <w>að</w>
   <w>heimsókn</w>
   <w>Georgs</w>
+  <w>4.</w>
   <revision id="100">
-    <original><w>4.</w></original>
-    <corrected><w>fjórða</w><c>,</c></corrected>
+    <original></original>
+    <corrected><c>,</c></corrected>
       <errors>
-        <error xtype="number4word" idx="13-1" eid="0"/>
-        <error xtype="missing-comma" idx="13-2" eid="0"/>
+        <error xtype="missing-comma" eid="0"/>
       </errors>
   </revision>
   <w>konungs</w>
@@ -1979,13 +1979,7 @@
   <c>,</c>
   <w>þegar</w>
   <w>Jakob</w>
-  <revision id="134">
-    <original><w>6</w><c>.</c></original>
-    <corrected><w>sjötti</w></corrected>
-      <errors>
-        <error xtype="number4word" eid="0"/>
-      </errors>
-  </revision>
+  <w>6.</w>
   <w>Skotakonungur</w>
   <w>varð</w>
   <w>konungur</w>
@@ -1995,14 +1989,7 @@
   <w>eftir</w>
   <w>dauða</w>
   <w>Elísabetar</w>
-  <revision id="135">
-    <original><w>1</w></original>
-    <corrected><w>fyrstu</w></corrected>
-      <errors>
-        <error xtype="number4word" eid="0"/>
-      </errors>
-  </revision>
-  <c>.</c>
+  <w>1.</w>
 </s><s n="56">
   <w>Donald</w>
   <w>Dewear</w>

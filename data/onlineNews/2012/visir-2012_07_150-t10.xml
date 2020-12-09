@@ -26,9 +26,9 @@
   <w>í</w>
   <revision id="1">
     <original><w>3 þúsund</w></original>
-    <corrected><w>þrjú</w><w>þúsund</w></corrected>
+    <corrected><w>3000</w></corrected>
       <errors>
-        <error xtype="number4word" eid="0" />
+        <error xtype="word4number" eid="0" />
       </errors>
   </revision>
   <w>daga</w>

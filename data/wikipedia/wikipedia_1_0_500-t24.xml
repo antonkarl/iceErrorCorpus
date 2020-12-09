@@ -231,13 +231,19 @@
   <w>punktur</w>
   <w>fylkisins</w>
   <w>er</w>
-  <revision id="13">
-    <original><w>í</w><w>2</w><w>metra</w></original>
-    <corrected><w>tveimur</w><w>metrum</w></corrected>
+  <revision id="12b">
+    <original><w>í</w></original>
+    <corrected></corrected>
       <errors>
-        <error xtype="extra-word" idx="7-1" eid="0"/>
-        <error xtype="number4word" idx="7-2" eid="0"/>
-        <error xtype="dep" depId="7-1" eid="0"/>
+        <error xtype="extra-word" eid="0"/>
+      </errors>
+  </revision>
+  <w>2</w>
+  <revision id="13">
+    <original><w>metra</w></original>
+    <corrected><w>metrum</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0"/>
       </errors>
   </revision>
   <w>yfir</w>

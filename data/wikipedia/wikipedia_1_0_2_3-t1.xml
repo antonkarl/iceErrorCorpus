@@ -831,22 +831,15 @@
   </revision>
   <c>,</c>
   <revision id="41">
-    <original><w>9</w></original>
-    <corrected><w>en</w><w>þau</w><w>eru</w><w>níu</w></corrected>
+    <original></original>
+    <corrected><w>en</w><w>þau</w><w>eru</w><w>9</w></corrected>
       <errors>
         <error xtype="missing-conjunction" eid="0"/>
         <error xtype="missing-words" eid="0"/>
-        <error xtype="number4word" eid="0"/>
       </errors>
   </revision>
   <w>til</w>
-  <revision id="42">
-    <original><w>18</w></original>
-    <corrected><w>átján</w></corrected>
-      <errors>
-        <error xtype="number4word" eid="0"/>
-      </errors>
-  </revision>
+  <w>18</w>
   <w>metrar</w>
   <revision id="43">
     <original/>
