@@ -1091,14 +1091,15 @@
   <w>og</w>
   <w>málshátturinn</w>
   <w>segir</w>
-  <c>„</c>
   <revision id="39">
-    <original><w>Allt</w></original>
-    <corrected><w>allt</w></corrected>
+    <original></original>
+    <corrected><c>:</c></corrected>
       <errors>
-        <error xtype="upper4lower-common" eid="0"/>
+        <error xtype="missing-colon" eid="0"/>
       </errors>
   </revision>
+  <c>„</c>
+  <w>Allt</w>
   <w>er</w>
   <w>best</w>
   <w>í</w>

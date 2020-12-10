@@ -144,8 +144,8 @@
     <original><c>.</c><w>Iceberg</w></original>
     <corrected><c>,</c><w>iceberg</w></corrected>
       <errors>
-        <error xtype="period4comma" eid="0" />
-        <error xtype="upper4lower-common" eid="0" />
+        <error xtype="period4comma" idx="9-1" eid="0" />
+        <error xtype="dep" depId="9-1" eid="0" />
       </errors>
   </revision>
   <c>,</c>

@@ -114,12 +114,12 @@
       </errors>
   </revision>
   <w>og</w>
-  <w>Sérsveitar</w>
   <revision id="2">
-    <original><w>Ríkislögreglustjóra</w></original>
-    <corrected><w>ríkislögreglustjóra</w></corrected>
+    <original><w>Sérsveitar</w><w>Ríkislögreglustjóra</w></original>
+    <corrected><w>sérsveitar</w><w>ríkislögreglustjóra</w></corrected>
       <errors>
-        <error xtype="upper4lower-common" eid="0" />
+        <error xtype="upper4lower-common" idx="2-1" eid="0" />
+        <error xtype="upper4lower-common" idx="2-2" eid="0" />
       </errors>
   </revision>
   <c>.</c>

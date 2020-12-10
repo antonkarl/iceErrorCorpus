@@ -35,7 +35,9 @@
     <original><w>Word</w></original>
     <corrected><w>World</w></corrected>
       <errors>
-        <error xtype="upper4lower-common" eid="0" />
+        <error xtype="missing-letter" idx="1-1" eid="0" />
+        <error xtype="foreign-error" idx="1-1" eid="0" />
+        <error xtype="name-error" idx="1-1" eid="0" />
       </errors>
   </revision>
   <w>að</w>
