@@ -202,10 +202,9 @@
   <w>tengd</w>
   <revision id="2">
     <original><w>Valentínusardegi</w></original>
-    <corrected><w>valentínusardeginum</w></corrected>
+    <corrected><w>Valentínusardeginum</w></corrected>
       <errors>
-        <error xtype="upper4lower-common" idx="2-1" eid="0" />
-        <error xtype="ind4def" idx="2-1" eid="0" /> 
+        <error xtype="ind4def" eid="0" /> 
       </errors>
   </revision>
   <c>,</c>
@@ -217,13 +216,7 @@
       </errors>
   </revision>
   <w>heilags</w>
-  <revision id="4">
-    <original><w>Patreks</w></original>
-    <corrected><w>patreks</w></corrected>
-      <errors>
-        <error xtype="upper4lower-common" eid="0" />
-      </errors>
-  </revision>
+  <w>Patreks</w>
   <c>,</c>
   <w>4. júlí</w>
   <c>,</c>

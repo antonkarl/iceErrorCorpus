@@ -34,10 +34,11 @@
   <w>um</w>
   <revision id="1">
     <original><w>Sator</w><w>orðaferningin</w></original>
-    <corrected><w>sator-orðaferningin</w></corrected>
+    <corrected><w>sator-orðaferninginn</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="17-1" eid="0"/>
         <error xtype="missing-hyphen" idx="17-1" eid="0"/>
+        <error xtype="n4nn" idx="17-1" eid="0"/>
       </errors>
   </revision>
   <w>í</w>

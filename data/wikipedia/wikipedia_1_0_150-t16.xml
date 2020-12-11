@@ -422,7 +422,13 @@
 </s>
 <s n="18">
   <w>Þegar</w>
-  <w>Keníabúar</w>
+  <revision id="20b">
+    <original><w>Keníabúar</w></original>
+    <corrected><w>Keníubúar</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" eid="0" />
+      </errors>
+  </revision>
   <w>fara</w>
   <w>til</w>
   <w>vinnu</w>
@@ -442,7 +448,7 @@
     <original><w>Heldur</w></original>
     <corrected><w>heldur</w><w>fara</w><w>þeir</w></corrected>
       <errors>
-        <error xtype="upper4lower-common" eid="0" />
+        <error xtype="upper4lower-noninitial" eid="0" />
         <error xtype="missing-words" eid="0" />
       </errors>
   </revision>
