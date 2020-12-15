@@ -133,7 +133,13 @@
   <w>Sama</w>
   <w>ár</w>
   <w>var</w>
-  <w>MORFÍS</w>
+  <revision id="2B">
+    <original><w>MORFÍS</w></original>
+    <corrected><w>MORFÍs</w></corrected>
+      <errors>
+        <error xtype="caps4low" eid="0"/>
+      </errors>
+  </revision>
   <w>keppnin</w>
   <w>alveg</w>
   <w>jafn</w>
