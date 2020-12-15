@@ -70,8 +70,15 @@
   <w>Hið</w>
   <w>nýstofnaða</w>
   <w>flugfélag</w>
-  <w>Wow</w>
-  <w>Air</w>
+  <revision id="2b">
+    <original><w>Wow</w><w>Air</w></original>
+    <corrected><w>WOW</w><w>air</w></corrected>
+      <errors>
+        <error xtype="low4caps" idx="2b-1" eid="0" />
+        <error xtype="upper4lower-proper" idx="2b-1" eid="0" />
+        <error xtype="name-error" idx="2b-1" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>KFS</w>
   <c>,</c>
@@ -107,8 +114,15 @@
   </revision>
   <c>,</c>
   <w>sem</w>
-  <w>Wow</w>
-  <w>Air</w>
+  <revision id="3b">
+    <original><w>Wow</w><w>Air</w></original>
+    <corrected><w>WOW</w><w>air</w></corrected>
+      <errors>
+        <error xtype="low4caps" idx="3b-1" eid="0" />
+        <error xtype="upper4lower-proper" idx="3b-1" eid="0" />
+        <error xtype="name-error" idx="3b-1" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>KFS</w>
   <w>notuðu</w>
@@ -136,13 +150,14 @@
   <w>snýr</w>
   <w>að</w>
   <w>starfsemi</w>
-  <w>Wow</w>
-  <w>Air</w>
   <revision id="4">
-    <original><w>og</w></original>
-    <corrected><c>,</c></corrected>
+    <original><w>Wow</w><w>Air</w><w>og</w></original>
+    <corrected><w>WOW</w><w>air</w><c>,</c></corrected>
       <errors>
-        <error xtype="conjunction4comma" eid="0" />
+        <error xtype="low4caps" idx="4-1" eid="0" />
+        <error xtype="upper4lower-proper" idx="4-1" eid="0" />
+        <error xtype="name-error" idx="4-1" eid="0" />
+        <error xtype="conjunction4comma" idx="4-2" eid="0" />
       </errors>
   </revision>
   <w>mögulega</w>
@@ -266,8 +281,15 @@
   <w>ófyrirleitnar</w>
   <w>þar</w>
   <w>sem</w>
-  <w>Wow</w>
-  <w>Air</w>
+  <revision id="7">
+    <original><w>Wow</w><w>Air</w></original>
+    <corrected><w>WOW</w><w>air</w></corrected>
+      <errors>
+        <error xtype="low4caps" idx="4-1" eid="0" />
+        <error xtype="upper4lower-proper" idx="4-1" eid="0" />
+        <error xtype="name-error" idx="4-1" eid="0" />
+      </errors>
+  </revision>
   <w>hefur</w>
   <w>nýverið</w>
   <w>hafið</w>

@@ -544,7 +544,8 @@
     <original><w>Wowair</w></original>
     <corrected><w>WOW</w><w>air</w></corrected>
       <errors>
-        <error xtype="lower4upper-acro" idx="10-1" eid="0" />
+        <error xtype="low4caps" idx="10-1" eid="0" />
+        <error xtype="name-error" idx="10-1" eid="0" />
         <error xtype="merged-words" idx="10-1" eid="0" />
       </errors>
   </revision>

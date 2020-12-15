@@ -220,9 +220,11 @@
   <w>Nova</w>
   <revision id="5">
     <original><c>.</c><w>Stjórnarformaður</w><w>Wow</w></original>
-    <corrected><c>,</c><w>stjórnarformaður</w><w>Wow</w></corrected>
+    <corrected><c>,</c><w>stjórnarformaður</w><w>WOW</w></corrected>
       <errors>
-        <error xtype="period4comma" eid="0" />
+        <error xtype="period4comma" idx="5-1" eid="0" />
+        <error xtype="low4caps" idx="5-2" eid="0" />
+        <error xtype="name-error" idx="5-2" eid="0" />
       </errors>
   </revision>
   <w>air</w>
