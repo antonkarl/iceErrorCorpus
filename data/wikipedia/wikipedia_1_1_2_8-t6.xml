@@ -1351,10 +1351,11 @@
   <w>nafnið</w>
   <revision id="50">
     <original><c>„</c><w>Máttur</w><w>Ásana</w><c>“</c></original>
-    <corrected><c>‚</c><w>máttur</w><w>ásana</w><c>‘</c></corrected>
+    <corrected><c>‚</c><w>máttur</w><w>ásanna</w><c>‘</c></corrected>
       <errors>
         <error xtype="wrong-quots" idx="50-1" eid="0" />
         <error xtype="upper4lower-common" idx="50-2" eid="0" />
+        <error xtype="n4nn" idx="50-2" eid="0" />
       </errors>
   </revision>
   <c>.</c>

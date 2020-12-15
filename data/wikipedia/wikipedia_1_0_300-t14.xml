@@ -7934,7 +7934,13 @@
   <w>er</w>
   <w>í</w>
   <w>höndum</w>
-  <w>Þjóðþingsins</w>
+  <revision id="310b">
+    <original><w>Þjóðþingsins</w></original>
+    <corrected><w>þjóðþingsins</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
   <c>(</c>
   <w>e.</w>
   <revision id="311">
@@ -7954,6 +7960,8 @@
         <error xtype="missing-period" eid="0" />
       </errors>
   </revision>
+</s>
+<s n="258b">
   <w>Þjóðþingið</w>
   <w>situr</w>
   <w>í</w>
@@ -9988,7 +9996,13 @@
   <w>efri</w>
   <w>deildin</w>
   <w>og</w>
-  <w>Þjóðþinginu</w>
+  <revision id="396b">
+    <original><w>Þjóðþinginu</w></original>
+    <corrected><w>þjóðþinginu</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
   <w>sem</w>
   <w>er</w>
   <w>neðri</w>
@@ -10836,7 +10850,13 @@
   <w>Neðri</w>
   <w>deildin</w>
   <w>kallast</w>
-  <w>Þjóðþingið</w>
+  <revision id="431b">
+    <original><w>Þjóðþingið</w></original>
+    <corrected><w>þjóðþingið</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
   <c>(</c>
   <w>e.</w>
   <w>the</w>

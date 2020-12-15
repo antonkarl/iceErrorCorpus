@@ -450,12 +450,12 @@
   <w>deildar</w>
   <w>þingsins</w>
   <c>,</c>
-  <w>Landsþingsins</w>
   <revision id="17">
-    <original/>
-    <corrected><c>,</c></corrected>
+    <original><w>Landsþingsins</w></original>
+    <corrected><w>landsþingsins</w><c>,</c></corrected>
       <errors>
-        <error xtype="missing-comma" eid="0"/>
+        <error xtype="upper4lower-common" idx="17-1" eid="0"/>
+        <error xtype="missing-comma" idx="17-2" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
