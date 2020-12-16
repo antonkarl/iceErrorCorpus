@@ -1361,9 +1361,9 @@
   <w>í</w>
   <revision id="38">
     <original><w>háskólinn</w></original>
-    <corrected><w>Háskólanum</w></corrected>
+    <corrected><w>háskólanum</w></corrected>
       <errors>
-        <error xtype="lower4upper-proper" eid="0" />
+        <error xtype="nominal-inflection" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -1401,24 +1401,15 @@
   <w>og</w>
   <w>sykursýki</w>
   <revision id="39">
-    <original><w>2.</w></original>
-    <corrected><w>2</w></corrected>
+    <original><w>2</w></original>
+    <corrected><w>tvö</w></corrected>
       <errors>
-        <error xtype="extra-period" eid="0" />
+        <error xtype="number4word" eid="0" />
       </errors>
   </revision>
-  <c>(</c>
-  <w>Fiskifréttir</w>
-  <c>,</c>
-  <w>2010</w>
-  <c>)</c>
-  <revision id="40">
-    <original></original>
-    <corrected><c>.</c></corrected>
-      <errors>
-        <error xtype="missing-period" eid="0" />
-      </errors>
-  </revision>
+  <c>.</c>
+</s>
+<s n="51b">
   <w>Tilraunirnar</w>
   <w>með</w>
   <w>rauðátulýsið</w>
@@ -1657,30 +1648,6 @@
   <c>.</c>
 </s>
 <s n="56">
-  <c>(</c>
-  <w>Jónína</w>
-  <w>Þ.</w>
-  <w>Jóhannsdóttir</w>
-  <c>,</c>
-  <w>Hugrún</w>
-  <w>Lísa</w>
-  <w>Heimisdóttir</w>
-  <c>,</c>
-  <w>Friðbjörn</w>
-  <w>Möller</w>
-  <w>og</w>
-  <w>Rannveig</w>
-  <w>Björnsdóttir</w>
-  <c>,</c>
-  <w>2010</w>
-  <c>)</c>
-  <revision id="49">
-    <original></original>
-    <corrected><c>.</c></corrected>
-      <errors>
-        <error xtype="missing-period" eid="0" />
-      </errors>
-  </revision>
   <w>Árið 2009</w>
   <w>var</w>
   <w>gerð</w>
