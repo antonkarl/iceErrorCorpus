@@ -54,18 +54,18 @@
   <w>voru</w>
   <w>opnaðar</w>
   <w>í</w>
-  <revision id="3">
-    <original><w>grunnskólanum</w></original>
-    <corrected><w>Grunnskólanum</w></corrected>
-      <errors>
-        <error xtype="lower4upper-proper" eid="0" />
-      </errors>
-  </revision>
+  <w>grunnskólanum</w>
   <w>á</w>
   <w>Kirkjubæjarklaustri</w>
   <w>og</w>
   <w>í</w>
-  <w>Grunnskólanum</w>
+  <revision id="3">
+    <original><w>Grunnskólanum</w></original>
+    <corrected><w>grunnskólanum</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
   <w>í</w>
   <w>Vík</w>
   <w>vegna</w>

@@ -100,7 +100,13 @@
   <w>milli</w>
   <w>Han</w>
   <w>Kínverja</w>
-  <c>,</c>
+  <revision id="2b">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
+      </errors>
+  </revision>
   <w>annars</w>
   <w>vegar</w>
   <w>og</w>

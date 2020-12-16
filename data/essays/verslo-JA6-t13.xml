@@ -885,13 +885,14 @@
   <w>hár</w>
   <w>og</w>
   <revision id="24">
-    <original><w>skálarklippingu</w><c>.</c><w>Svona</w><w>alpastrákur</w></original>
-    <corrected><w>skálaklippingu</w><c>,</c><w>svona</w><w>Alpastrákur</w></corrected>
+    <original><w>skálarklippingu</w><c>.</c><w>Svona</w></original>
+    <corrected><w>skálaklippingu</w><c>,</c><w>svona</w></corrected>
       <errors>
-        <error xtype="compound-collocation" idx="4-1" eid="0"/>
-        <error xtype="upper4lower-common" idx="4-2" eid="0"/>
+        <error xtype="compound-collocation" idx="24-1" eid="0"/>
+        <error xtype="period4comma" idx="24-2" eid="0"/>
       </errors>
   </revision>
+  <w>alpastrákur</w>
   <c>.</c>
 </s><s n="50">
   <w>Það</w>

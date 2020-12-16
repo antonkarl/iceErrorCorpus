@@ -63,7 +63,13 @@
   <w>settar</w>
   <w>upp</w>
   <w>í</w>
-  <w>Grunnskólanum</w>
+  <revision id="0">
+    <original><w>Grunnskólanum</w></original>
+    <corrected><w>grunnskólanum</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
   <w>í</w>
   <w>Vík</w>
   <w>og</w>
