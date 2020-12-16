@@ -413,7 +413,13 @@
   <w>hans</w>
   <w>var</w>
   <w>þetta</w>
-  <w>Gleðin</w>
+  <revision id="18b">
+    <original><w>Gleðin</w></original>
+    <corrected><w>gleðin</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="15">
   <w>Þar</w>
@@ -531,28 +537,35 @@
   <w>upp</w>
   <w>í</w>
   <revision id="22">
-    <original><w>efra</w></original>
-    <corrected><w>Efra</w></corrected>
+    <original><w>efra</w><w>Breiðholt</w></original>
+    <corrected><w>Efra-Breiðholt</w></corrected>
       <errors>
-        <error xtype="lower4upper-proper" eid="0"/>
+        <error xtype="lower4upper-proper" idx="22-1" eid="0"/>
+        <error xtype="missing-dash" idx="22-1" eid="0"/>
       </errors>
   </revision>
-  <w>Breiðholt</w>
   <w>hugsaði</w>
   <w>hann</w>
   <w>með</w>
   <w>sér</w>
-  <c>„</c>
   <revision id="23">
-    <original><w>Þetta</w></original>
-    <corrected><w>þetta</w></corrected>
+    <original></original>
+    <corrected><c>:</c></corrected>
       <errors>
-        <error xtype="upper4lower-noninitial" eid="0"/>
+        <error xtype="missing-colon" eid="0"/>
       </errors>
   </revision>
+  <c>„</c>
+  <w>Þetta</w>
   <w>var</w>
   <w>sko</w>
-  <w>Gleði</w>
+  <revision id="23b">
+    <original><w>Gleði</w></original>
+    <corrected><w>gleði</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0"/>
+      </errors>
+  </revision>
   <c>“</c>
   <c>.</c>
 </s><s n="20">
@@ -595,7 +608,13 @@
 </s><s n="21">
   <w>Þessi</w>
   <w>tiltekna</w>
-  <w>Gleði</w>
+  <revision id="24b">
+    <original><w>Gleði</w></original>
+    <corrected><w>gleði</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0"/>
+      </errors>
+  </revision>
   <w>var</w>
   <w>eftirminnileg</w>
   <w>í</w>
@@ -1213,7 +1232,13 @@
   <w>vegna</w>
   <w>þess</w>
   <w>að</w>
-  <w>Gleðin</w>
+  <revision id="46b">
+    <original><w>Gleðin</w></original>
+    <corrected><w>gleðin</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0"/>
+      </errors>
+  </revision>
   <w>stóðst</w>
   <w>allar</w>
   <w>væntingar</w>
