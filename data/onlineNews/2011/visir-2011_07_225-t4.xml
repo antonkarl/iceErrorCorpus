@@ -346,7 +346,13 @@
   <w>stuðningsmannafélagið</w>
   <w>Blár</w>
   <w>og</w>
-  <w>Marinn</w>
+  <revision id="15d">
+    <original><w>Marinn</w></original>
+    <corrected><w>marinn</w></corrected>
+      <errors>
+        <error xtype="upper4lower-proper" eid="0" />
+      </errors>
+  </revision>
   <w>hafi</w>
   <w>einungis</w>
   <w>verið</w>
