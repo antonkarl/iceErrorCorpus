@@ -453,9 +453,10 @@
   <w>leiðtoga</w>
   <revision id="9">
     <original><w>mongóla</w></original>
-    <corrected><w>Mongóla</w></corrected>
+    <corrected><w>Mongólíumanna</w></corrected>
       <errors>
-        <error xtype="lower4upper-proper" eid="0"/>
+        <error xtype="lower4upper-proper" idx="9-1" eid="0"/>
+        <error xtype="wording" idx="9-1" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
