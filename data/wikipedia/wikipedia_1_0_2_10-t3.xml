@@ -1355,7 +1355,13 @@
   <w>sama</w>
   <w>tíma</w>
   <w>og</w>
-  <w>norður-ameríska</w>
+  <revision id="67b">
+    <original><w>norður-ameríska</w></original>
+    <corrected><w>norðurameríska</w></corrected>
+      <errors>
+        <error xtype="extra-hyphen" eid="0" />
+      </errors>
+  </revision>
   <w>útgáfan</w>
   <w>af</w>
   <w><hi>Lights</hi></w>

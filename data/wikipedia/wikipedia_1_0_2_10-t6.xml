@@ -379,8 +379,13 @@
   <w>mikilvægum</w>
   <w>viðkomustað</w>
   <w>á</w>
-  <w>norður-suður</w>
-  <w>leiðinni</w>
+  <revision id="6b">
+    <original><w>norður-suður</w><w>leiðinni</w></original>
+    <corrected><w>leiðinni</w><w>milli</w><w>norðurs</w><w>og</w><w>suðurs</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
   <w>vestast</w>
   <w>í</w>
   <w>Hollandi</w>

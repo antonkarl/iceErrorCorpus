@@ -841,7 +841,13 @@
   <c>,</c>
   <w>fönki</w>
   <w>og</w>
-  <w>suður-amerískri</w>
+  <revision id="73b">
+    <original><w>suður-amerískri</w></original>
+    <corrected><w>suðuramerískri</w></corrected>
+      <errors>
+        <error xtype="extra-hyphen" eid="0"/>
+      </errors>
+  </revision>
   <w>tónlist</w>
   <c>.</c>
 </s><s n="17">

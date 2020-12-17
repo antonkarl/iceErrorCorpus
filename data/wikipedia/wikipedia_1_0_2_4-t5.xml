@@ -106,7 +106,13 @@
   <w>Þar</w>
   <w>bjuggu</w>
   <w>þá</w>
-  <w>vestur-slavneskar</w>
+  <revision id="2b">
+    <original><w>vestur-slavneskar</w></original>
+    <corrected><w>vesturslavneskar</w></corrected>
+      <errors>
+        <error xtype="extra-hyphen" eid="0"/>
+      </errors>
+  </revision>
   <w>þjóðir</w>
   <c>.</c>
 </s><s n="7">

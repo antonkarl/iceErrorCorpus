@@ -187,7 +187,13 @@
   <w>hún</w>
   <w>sé</w>
   <w>upprunalega</w>
-  <w>vestur-indversk</w>
+  <revision id="12b">
+    <original><w>vestur-indversk</w></original>
+    <corrected><w>vesturindversk</w></corrected>
+      <errors>
+        <error xtype="extra-hyphen" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="5">

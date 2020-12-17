@@ -264,7 +264,13 @@
   <w>aðallega</w>
   <w>mótuð</w>
   <w>úr</w>
-  <w>vestur-grænlenskum</w>
+  <revision id="3b">
+    <original><w>vestur-grænlenskum</w></original>
+    <corrected><w>vesturgrænlenskum</w></corrected>
+      <errors>
+        <error xtype="extra-hyphen" eid="0" />
+      </errors>
+  </revision>
   <w>mállýskum</w>
   <c>.</c>
 </s>

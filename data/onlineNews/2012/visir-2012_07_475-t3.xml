@@ -46,9 +46,10 @@
   <w>staðfesti</w>
   <revision id="1">
     <original><w>Suður-Afríska</w></original>
-    <corrected><w>suður-afríska</w></corrected>
+    <corrected><w>suðurafríska</w></corrected>
       <errors>
-        <error xtype="upper4lower-common" eid="0" />
+        <error xtype="upper4lower-common" idx="1-1" eid="0" />
+        <error xtype="extra-hyphen" idx="1-1" eid="0" />
       </errors>
   </revision>
   <w>frjálsíþróttasambandið</w>

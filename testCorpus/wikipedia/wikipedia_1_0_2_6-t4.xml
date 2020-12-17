@@ -78,7 +78,13 @@
   <w>síðari</w>
   <w>árum</w>
   <w>einnig</w>
-  <w>suður-amerískri</w>
+  <revision id="1b">
+    <original><w>suður-amerískri</w></original>
+    <corrected><w>suðuramerískri</w></corrected>
+      <errors>
+        <error xtype="extra-hyphen" eid="0"/>
+      </errors>
+  </revision>
   <w>tónlist</w>
   <c>.</c>
 </s><s n="3">

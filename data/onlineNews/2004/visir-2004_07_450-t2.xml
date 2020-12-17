@@ -617,7 +617,13 @@
   <w>að</w>
   <w>roaccutan-meðferðir</w>
   <w>í</w>
-  <w>norður-evrópskum</w>
+  <revision id="2">
+    <original><w>norður-evrópskum</w></original>
+    <corrected><w>norðurevrópskum</w></corrected>
+      <errors>
+        <error xtype="extra-hyphen" eid="0" />
+      </errors>
+  </revision>
   <w>löndum</w>
   <w>þurfi</w>
   <w>því</w>
@@ -632,7 +638,7 @@
   <w>minni</w>
   <w>dagsskömmtum</w>
   <c>.</c>
-  <revision id="1h">
+  <revision id="3">
     <original><c>"</c></original>
     <corrected><c>“</c></corrected>
       <errors>

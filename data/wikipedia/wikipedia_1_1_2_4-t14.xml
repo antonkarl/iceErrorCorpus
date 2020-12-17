@@ -677,7 +677,13 @@
 <s n="29">
   <w>Hann</w>
   <w>giftist</w>
-  <w>suður-afrísku</w>
+  <revision id="7b">
+    <original><w>suður-afrísku</w></original>
+    <corrected><w>suðurafrísku</w></corrected>
+      <errors>
+        <error xtype="extra-hyphen" eid="0" />
+      </errors>
+  </revision>
   <w>sunddrottningunni</w>
   <w>Charlene</w>
   <w>Wittstock</w>

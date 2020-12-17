@@ -310,7 +310,13 @@
   <w>dýr</w>
   <w>og</w>
   <w>stofn</w>
-  <w>austur-grænlenska</w>
+  <revision id="9b">
+    <original><w>austur-grænlenska</w></original>
+    <corrected><w>austurgrænlenska</w></corrected>
+      <errors>
+        <error xtype="extra-hyphen" eid="0" />
+      </errors>
+  </revision>
   <w>stofnsins</w>
   <w>er</w>
   <w>að</w>

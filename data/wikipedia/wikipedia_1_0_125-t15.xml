@@ -47,7 +47,13 @@
   <w>frönskumælandi</w>
   <w>fylki</w>
   <w>í</w>
-  <w>austur-Kanada</w>
+  <revision id="3b">
+    <original><w>austur-Kanada</w></original>
+    <corrected><w>Austur-Kanada</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="2">

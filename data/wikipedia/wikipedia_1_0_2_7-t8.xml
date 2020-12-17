@@ -272,7 +272,13 @@
   <w>vestur</w>
   <w>en</w>
   <w>ekki</w>
-  <w>norður-suður</w>
+  <revision id="4b">
+    <original><w>norður-suður</w></original>
+    <corrected><w>norður</w><w>og</w><w>suður</w></corrected>
+      <errors>
+        <error xtype="hyphen4word" eid="0"/>
+      </errors>
+  </revision>
   <w>eins</w>
   <w>og</w>
   <w>venja</w>

@@ -431,7 +431,13 @@
   <w>úr</w>
   <w>keppni</w>
   <w>fyrir</w>
-  <w>vestur-þýska</w>
+  <revision id="3b">
+    <original><w>vestur-þýska</w></original>
+    <corrected><w>vesturþýska</w></corrected>
+      <errors>
+        <error xtype="extra-hyphen" eid="0" />
+      </errors>
+  </revision>
   <w>liðinu</w>
   <w>Nettelstedt</w>
   <c>,</c>

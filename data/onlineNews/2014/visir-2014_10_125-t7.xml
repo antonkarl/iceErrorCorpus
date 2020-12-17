@@ -230,9 +230,10 @@
   <w>lofað</w>
   <revision id="3">
     <original><w>Suður-afrísku</w></original>
-    <corrected><w>suður-afrísku</w></corrected>
+    <corrected><w>suðurafrísku</w></corrected>
       <errors>
-        <error xtype="upper4lower-common" eid="0"/>
+        <error xtype="upper4lower-common" idx="3-1" eid="0"/>
+        <error xtype="extra-hyphen" idx="3-1" eid="0"/>
       </errors>
   </revision>
   <w>þjóðinni</w>

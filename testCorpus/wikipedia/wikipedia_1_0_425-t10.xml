@@ -742,7 +742,13 @@
   <w>hlutverk</w>
   <w>sem</w>
   <w>hinn</w>
-  <w>suður-afríski</w>
+  <revision id="36b">
+    <original><w>suður-afríski</w></original>
+    <corrected><w>suðurafríski</w></corrected>
+      <errors>
+        <error xtype="extra-hyphen" eid="0" />
+      </errors>
+  </revision>
   <w>Al</w>
   <w>Patterson</w>
   <w>í</w>
