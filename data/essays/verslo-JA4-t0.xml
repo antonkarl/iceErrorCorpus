@@ -1262,8 +1262,8 @@
     <original><w>þeir</w><w>nota</w></original>
     <corrected><w>það</w><w>notar</w></corrected>
       <errors>
-        <error xtype="agreement-pro" eid="0"/>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement-pro" idx="33-1" eid="0"/>
+        <error xtype="dep" depId="33-1" eid="0"/>
       </errors>
   </revision>
   <w>til</w>
