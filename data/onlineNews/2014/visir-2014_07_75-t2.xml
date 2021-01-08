@@ -82,7 +82,13 @@
 <s n="4">
   <w>Að</w>
   <w>sögn</w>
-  <w>eru</w>
+  <revision id="3">
+    <original><w>eru</w></original>
+    <corrected><w>er</w></corrected>
+      <errors>
+        <error xtype="agreement-pred" eid="0" />
+      </errors>
+  </revision>
   <w>um</w>
   <w>helmingur</w>
   <w>fórnarlamba</w>
