@@ -907,7 +907,7 @@
         <error xtype="missing-quots" idx="50-1" eid="0"/>
         <error xtype="it4nonit" idx="50-1" eid="0"/>
         <error xtype="missing-comma" idx="50-2" eid="0"/>
-        <error xtype="name-error" idx="50-2" eid="0"/>
+        <error xtype="foreign-name" idx="50-2" eid="0"/>
         <error xtype="dep" depId="50-1" eid="0"/>
       </errors>
   </revision>
@@ -1022,7 +1022,7 @@
     <corrected><w>Checotah</w></corrected>
       <errors>
         <error xtype="foreign-error" idx="11-1" eid="0"/>
-        <error xtype="name-error" idx="11-1" eid="0"/>
+        <error xtype="foreign-name" idx="11-1" eid="0"/>
         <error xtype="swapped-letters" idx="11-1" eid="0"/>
       </errors>
   </revision>
@@ -1058,7 +1058,7 @@
     <corrected><w>Checotah</w></corrected>
       <errors>
         <error xtype="foreign-error" idx="8-1" eid="0"/>
-        <error xtype="name-error" idx="8-1" eid="0"/>
+        <error xtype="foreign-name" idx="8-1" eid="0"/>
       </errors>
   </revision>
   <c>,</c>
@@ -1110,7 +1110,7 @@
     <original><w>Cectoah-menntaskólann</w></original>
     <corrected><w>Checotah-menntaskólann</w></corrected>
       <errors>
-        <error xtype="name-error" idx="18-1" eid="0"/>
+        <error xtype="foreign-name" idx="18-1" eid="0"/>
         <error xtype="foreign-error" idx="18-1" eid="0"/>
       </errors>
   </revision>
@@ -1633,7 +1633,7 @@
         <error xtype="missing-quots" idx="51-1" eid="0"/>
         <error xtype="it4nonit" idx="51-1" eid="0"/>
         <error xtype="missing-comma" idx="51-2" eid="0"/>
-        <error xtype="name-error" idx="51-2" eid="0"/>
+        <error xtype="foreign-name" idx="51-2" eid="0"/>
         <error xtype="dep" depId="51-1" eid="0"/>
       </errors>
   </revision>
@@ -1883,7 +1883,7 @@
     <corrected><w>Stephanie</w></corrected>
       <errors>
         <error xtype="missing-letter" idx="9-1" eid="0"/>
-        <error xtype="name-error" idx="9-1" eid="0"/>
+        <error xtype="foreign-name" idx="9-1" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
