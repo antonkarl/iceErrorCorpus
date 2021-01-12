@@ -65,9 +65,9 @@
     <original><w>vef</w><w>the</w></original>
     <corrected><w>vefmiðli</w><w>The</w></corrected>
       <errors>
-        <error xtype="wording" eid="0" />
-        <error xtype="foreign-error" idx="2-1" eid="0" />
-        <error xtype="lower4upper-proper" idx="2-1" eid="0" />
+        <error xtype="wording" idx="2-1" eid="0" />
+        <error xtype="foreign-name" idx="2-2" eid="0" />
+        <error xtype="lower4upper-proper" idx="2-2" eid="0" />
       </errors>
   </revision>
   <w>Washington</w>

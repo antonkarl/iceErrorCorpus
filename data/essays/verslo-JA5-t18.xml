@@ -865,7 +865,9 @@
     <original><w>Al-Quaida</w></original>
     <corrected><w>Al-Qaeda</w></corrected>
       <errors>
-        <error xtype="foreign-error" eid="0"/>
+        <error xtype="extra-letter" idx="4-1" eid="0"/>
+        <error xtype="letter-rep" idx="4-1" eid="0"/>
+        <error xtype="foreign-name" idx="4-1" eid="0"/>
       </errors>
   </revision>
   <c>,</c>

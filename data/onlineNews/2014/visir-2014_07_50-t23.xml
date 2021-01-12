@@ -701,7 +701,9 @@
     <original><w>Pitsa</w></original>
     <corrected><w>Pizza</w></corrected>
       <errors>
-        <error xtype="foreign-error" eid="0" />
+        <error xtype="letter-rep" idx="25-1" eid="0" />
+        <error xtype="letter-rep" idx="25-1" eid="0" />
+        <error xtype="foreign-name" idx="25-1" eid="0" />
       </errors>
   </revision>
   <w>Hut</w>

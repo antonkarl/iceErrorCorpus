@@ -465,7 +465,10 @@
     <original><w>Supurbowl</w></original>
     <corrected><w>Super</w><w>Bowl</w></corrected>
       <errors>
-        <error xtype="foreign-error" eid="0"/>
+        <error xtype="letter-rep" idx="11-1" eid="0"/>
+        <error xtype="merged-words" idx="11-1" eid="0"/>
+        <error xtype="lower4upper-proper" idx="11-1" eid="0"/>
+        <error xtype="foreign-name" idx="11-1" eid="0"/>
       </errors>
   </revision>
   <w>í</w>

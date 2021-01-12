@@ -1021,15 +1021,19 @@
     <original><w>Chectoah</w></original>
     <corrected><w>Checotah</w></corrected>
       <errors>
-        <error xtype="foreign-error" idx="11-1" eid="0"/>
         <error xtype="foreign-name" idx="11-1" eid="0"/>
         <error xtype="swapped-letters" idx="11-1" eid="0"/>
       </errors>
   </revision>
   <c>,</c>
-  <w>þ.</w>
-  <w>á</w>
-  <w>m.</w>
+  <revision id="29b">
+    <original><w>þ.ám.</w></original>
+    <corrected><w>þ.á.m.</w></corrected>
+      <errors>
+        <error xtype="missing-period" idx="29b-1" eid="0"/>
+        <error xtype="abbreviation-period" idx="29b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>fyrir</w>
   <w>Old</w>
   <revision id="30">
@@ -1057,8 +1061,8 @@
     <original><w>Cectoah</w></original>
     <corrected><w>Checotah</w></corrected>
       <errors>
-        <error xtype="foreign-error" idx="8-1" eid="0"/>
-        <error xtype="foreign-name" idx="8-1" eid="0"/>
+        <error xtype="foreign-name" idx="31-1" eid="0"/>
+        <error xtype="swapped-letters" idx="31-1" eid="0"/>
       </errors>
   </revision>
   <c>,</c>
@@ -1111,7 +1115,7 @@
     <corrected><w>Checotah-menntaskólann</w></corrected>
       <errors>
         <error xtype="foreign-name" idx="18-1" eid="0"/>
-        <error xtype="foreign-error" idx="18-1" eid="0"/>
+        <error xtype="swapped-letters" idx="18-1" eid="0"/>
       </errors>
   </revision>
   <w>var</w>

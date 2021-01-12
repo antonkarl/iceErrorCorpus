@@ -265,7 +265,6 @@
     <corrected><w>LeBron</w></corrected>
       <errors>
         <error xtype="foreign-name" idx="15-1" eid="0" />
-        <error xtype="foreign-error" idx="15-1" eid="0" />
       </errors>
   </revision>
   <w>er</w>
@@ -521,8 +520,7 @@
     <original><w>Lebron-vagninn</w></original>
     <corrected><w>LeBron-vagninn</w></corrected>
       <errors>
-        <error xtype="foreign-name" idx="27-1" eid="0" />
-        <error xtype="foreign-error" idx="27-1" eid="0" />
+        <error xtype="foreign-name" eid="0" />
       </errors>
   </revision>
   <w>og</w>

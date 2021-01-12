@@ -42,7 +42,8 @@
     <original><w>Neymer</w></original>
     <corrected><w>Neymar</w></corrected>
       <errors>
-        <error xtype="foreign-error" eid="0" />
+        <error xtype="letter-rep" idx="1-1" eid="0" />
+        <error xtype="foreign-name" idx="1-1" eid="0" />
       </errors>
   </revision>
   <w>segir</w>
@@ -247,7 +248,7 @@
     <corrected><w>Neymars</w></corrected>
       <errors>
         <error xtype="nominal-inflection" idx="8-1" eid="0" />
-        <error xtype="foreign-error" idx="8-1" eid="0" />
+        <error xtype="foreign-name" idx="8-1" eid="0" />
       </errors>
   </revision>
   <w>og</w>

@@ -43,7 +43,10 @@
     <original><w>Poerce</w><w>bifreið</w></original>
     <corrected><w>Porsche-bifreið</w><w>var</w></corrected>
       <errors>
-        <error xtype="foreign-error" idx="1-1" eid="0" />
+        <error xtype="extra-letter" idx="1-1" eid="0" />
+        <error xtype="missing-letter" idx="1-1" eid="0" />
+        <error xtype="missing-letter" idx="1-1" eid="0" />
+        <error xtype="foreign-name" idx="1-1" eid="0" />
         <error xtype="missing-hyphen" idx="1-1" eid="0" />
         <error xtype="missing-word" eid="0" />
       </errors>

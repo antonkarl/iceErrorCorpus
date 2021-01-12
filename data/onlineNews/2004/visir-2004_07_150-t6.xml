@@ -225,7 +225,8 @@
     <original><w>Al-Kaída</w></original>
     <corrected><w>al-Kaída</w></corrected>
       <errors>
-        <error xtype="foreign-error" idx="3-1" eid="0" />
+        <error xtype="upper4lower-proper" idx="3-1" eid="0" />
+        <error xtype="foreign-name" idx="3-1" eid="0" />
       </errors>
   </revision>
   <w>en</w>
