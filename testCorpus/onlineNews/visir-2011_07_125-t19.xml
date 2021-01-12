@@ -65,7 +65,8 @@
     <original><w>Adebayour</w></original>
     <corrected><w>Adebayor</w></corrected>
       <errors>
-        <error xtype="foreign-error" idx="1-1" eid="0" />
+        <error xtype="missing-letter" idx="1-1" eid="0" />
+        <error xtype="foreign-name" idx="1-1" eid="0" />
       </errors>
   </revision>
   <w>var</w>
