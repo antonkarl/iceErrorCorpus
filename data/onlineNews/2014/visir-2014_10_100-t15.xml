@@ -37,7 +37,7 @@
     <original><c>,</c></original>
     <corrected><c>—</c></corrected>
       <errors>
-        <error xtype="comma4emdash" eid="0"/>
+        <error xtype="comma4dash" eid="0"/>
       </errors>
   </revision>
   <w>sérfræðingar</w>
@@ -48,7 +48,7 @@
     <original><w>eru</w></original>
     <corrected><c>—</c><w>er</w><w>að</w><w>finna</w></corrected>
       <errors>
-        <error xtype="missing-emdash" idx="8-1" eid="0"/>
+        <error xtype="missing-endash" idx="8-1" eid="0"/>
         <error xtype="wording" idx="8-2" eid="0"/>
       </errors>
   </revision>
