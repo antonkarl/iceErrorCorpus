@@ -526,10 +526,16 @@
   <w>og</w>
   <w>hóf</w>
   <revision id="17">
-    <original><w>af</w><w>pródúsera</w></original>
-    <corrected><w>að</w><w>framleiða</w></corrected>
+    <original><w>af</w></original>
+    <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="af4að" eid="0"/>
+        <error xtype="letter-rep" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="17b">
+    <original><w>pródúsera</w></original>
+    <corrected><w>framleiða</w></corrected>
+      <errors>
         <error xtype="fw" eid="0"/>
       </errors>
   </revision>
