@@ -565,11 +565,23 @@
   <w>19</w>
   <w>þætti</w>
   <revision id="26">
-    <original><w>að</w><w>læknahersþættinum</w><w>MASH</w></original>
-    <corrected><w>af</w><w>læknaherþættinum</w><w><hi>MASH</hi></w></corrected>
+    <original><w>að</w></original>
+    <corrected><w>af</w></corrected>
       <errors>
         <error xtype="að4af" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="26b">
+    <original><w>læknahersþættinum</w></original>
+    <corrected><w>læknaherþættinum</w></corrected>
+      <errors>
         <error xtype="compound-collocation" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="26c">
+    <original><w>MASH</w></original>
+    <corrected><w><hi>MASH</hi></w></corrected>
+      <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
   </revision>

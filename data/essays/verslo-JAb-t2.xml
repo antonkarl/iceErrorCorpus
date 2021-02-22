@@ -1399,12 +1399,18 @@
   <w>hefur</w>
   <w>fólk</w>
   <revision id="35">
-    <original><w>áhyggju</w><w>að</w></original>
-    <corrected><w>áhyggjur</w><w>af</w></corrected>
+    <original><w>áhyggju</w></original>
+    <corrected><w>áhyggjur</w></corrected>
       <errors>
-        <error xtype="singular4plural" idx="22-1" eid="0"/>
-        <error xtype="að4af" idx="22-2" eid="0"/>
-        <error xtype="collocation" idx="22-2" eid="0"/>
+        <error xtype="singular4plural" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="35">
+    <original><w>að</w></original>
+    <corrected><w>af</w></corrected>
+      <errors>
+        <error xtype="að4af" idx="35-1" eid="0"/>
+        <error xtype="collocation" idx="35-1" eid="0"/>
       </errors>
   </revision>
   <w>drykkju</w>
