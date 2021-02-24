@@ -51,10 +51,16 @@
   <w>dýr</w>
   <w>leita</w>
   <revision id="2">
-    <original><w>af</w><w>önnur</w></original>
-    <corrected><w>að</w><w>öðrum</w></corrected>
+    <original><w>af</w></original>
+    <corrected><w>að</w></corrected>
       <errors>
         <error xtype="af4að" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="2b">
+    <original><w>önnur</w></original>
+    <corrected><w>öðrum</w></corrected>
+      <errors>
         <error xtype="nominal-inflection" eid="0"/>
       </errors>
   </revision>
