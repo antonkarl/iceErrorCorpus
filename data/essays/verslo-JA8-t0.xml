@@ -251,13 +251,14 @@
   <w>að</w>
   <w>ríkið</w>
   <revision id="7">
-    <original><w>sé</w><w>bara</w><w>að</w><w>fá</w><w>einhverjar</w></original>
-    <corrected><w>fái</w><w>einungis</w><w>einhverjar</w></corrected>
+    <original><w>sé</w><w>bara</w><w>að</w><w>fá</w></original>
+    <corrected><w>fái</w><w>einungis</w></corrected>
       <errors>
         <error xtype="cont4simple" eid="0"/>
         <error xtype="wording" eid="0"/>
       </errors>
   </revision>
+  <w>einhverjar</w>
   <w>20 krónur</w>
   <w>af</w>
   <w>hverjum</w>
@@ -1604,13 +1605,12 @@
   <w>sem</w>
   <w>þau</w>
   <revision id="59">
-    <original><w>eru</w><w>að</w></original>
-    <corrected/>
+    <original><w>eru</w><w>að</w><w>taka</w></original>
+    <corrected><w>taka</w><corrected/>
       <errors>
         <error xtype="cont4simple" eid="0"/>
       </errors>
   </revision>
-  <w>taka</w>
   <w>inn</w>
   <c>.</c>
 </s><s n="57">
@@ -1895,26 +1895,17 @@
   <w>En</w>
   <w>þau</w>
   <revision id="70">
-    <original><w>eru</w><w>ekkert</w><w>að</w></original>
-    <corrected/>
+    <original><w>eru</w><w>ekkert</w><w>að</w><w>hagnast</w></original>
+    <corrected><w>hagnast</w><w>ekkert</w><corrected/>
       <errors>
         <error xtype="cont4simple" eid="0"/>
-        <error xtype="wording" idx="70-1" eid="0"/>
-      </errors>
-  </revision>
-  <w>hagnast</w>
-  <revision id="71">
-    <original/>
-    <corrected><w>ekki</w></corrected>
-      <errors>
-        <error xtype="dep" depId="70-1" eid="0"/>
       </errors>
   </revision>
   <w>neitt</w>
   <w>rosalega</w>
   <w>á</w>
   <w>þessu</w>
-  <revision id="72">
+  <revision id="71">
     <original><c>,</c></original>
     <corrected/>
       <errors>
@@ -1923,12 +1914,12 @@
   </revision>
   <w>þar</w>
   <w>sem</w>
-  <revision id="73">
+  <revision id="72">
     <original><w>að</w></original>
     <corrected/>
       <errors>
-        <error xtype="extra-word" idx="73-1" eid="0"/>
-        <error xtype="style" idx="73-1" eid="0"/>
+        <error xtype="extra-word" idx="72-1" eid="0"/>
+        <error xtype="style" idx="72-1" eid="0"/>
       </errors>
   </revision>
   <w>það</w>
@@ -1936,7 +1927,7 @@
   <w>lykilatriði</w>
   <w>í</w>
   <w>góðu</w>
-  <revision id="74">
+  <revision id="73">
     <original><w>fyririrtæki</w></original>
     <corrected><w>fyrirtæki</w></corrected>
       <errors>
@@ -1945,7 +1936,7 @@
   </revision>
   <w>að</w>
   <w>hafa</w>
-  <revision id="75">
+  <revision id="74">
     <original/>
     <corrected><w>nægt</w></corrected>
       <errors>
@@ -2009,7 +2000,7 @@
   <w>á</w>
   <w>við</w>
   <w>um</w>
-  <revision id="76">
+  <revision id="75">
     <original><w>stjórnvöldin</w><w>sjálf</w></original>
     <corrected><w>stjórnvöld</w></corrected>
       <errors>

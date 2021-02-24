@@ -140,18 +140,10 @@
   <w>annar</w>
   <w>sem</w>
   <revision id="4">
-    <original><w>er</w></original>
-    <corrected></corrected>
+    <original><w>er</w><w>enn</w><w>að</w><w>spila</w></original>
+    <corrected><w>spilar</w><w>enn</w></corrected>
       <errors>
-        <error xtype="cont4simple" idx="4-1" eid="0" />
-      </errors>
-  </revision>
-  <w>enn</w>
-  <revision id="5">
-    <original><w>að</w><w>spila</w></original>
-    <corrected><w>spilar</w></corrected>
-      <errors>
-        <error xtype="dep" depId="4-1" eid="0" />
+        <error xtype="cont4simple" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -218,7 +210,7 @@
   <w>sér</w>
   <w>inn</w>
   <w>viðureignina</w>
-  <revision id="6">
+  <revision id="5">
     <original><w>á</w></original>
     <corrected></corrected>
       <errors>
@@ -226,7 +218,7 @@
       </errors>
   </revision>
   <w>nú</w>
-  <revision id="7">
+  <revision id="6">
     <original></original>
     <corrected><c>,</c></corrected>
       <errors>
@@ -255,7 +247,7 @@
   <w>hafa</w>
   <w>slegið</w>
   <w>Serenu</w>
-  <revision id="8">
+  <revision id="7">
     <original></original>
     <corrected><w>út</w></corrected>
       <errors>
@@ -271,7 +263,7 @@
   <w>hversu</w>
   <w>öflug</w>
   <w>hún</w>
-  <revision id="9">
+  <revision id="8">
     <original><w>er</w></original>
     <corrected><w>var</w></corrected>
       <errors>

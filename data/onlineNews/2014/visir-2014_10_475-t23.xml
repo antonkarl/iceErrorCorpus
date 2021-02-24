@@ -185,18 +185,10 @@
 <s n="5">
   <w>Doumbia</w>
   <revision id="6">
-    <original><w>var</w></original>
-    <corrected><w>fékk</w></corrected>
+    <original><w>var</w><w>að</w><w>fá</w></original>
+    <corrected><w>fékk</w><w>þarna</w></corrected>
       <errors>
-        <error xtype="cont4simple" idx="6-1" eid="0" />
-      </errors>
-  </revision>
-  <w>þarna</w>
-  <revision id="7">
-    <original><w>að</w><w>fá</w></original>
-    <corrected></corrected>
-      <errors>
-        <error xtype="dep" depId="6-1" eid="0" />
+        <error xtype="cont4simple" eid="0" />
       </errors>
   </revision>
   <w>sitt</w>
@@ -206,7 +198,7 @@
   <w>í</w>
   <w>sumar</w>
   <w>og</w>
-  <revision id="8">
+  <revision id="7">
     <original><w>er</w></original>
     <corrected><w>mun</w></corrected>
       <errors>
@@ -215,7 +207,7 @@
   </revision>
   <w>að</w>
   <w>öllum</w>
-  <revision id="9">
+  <revision id="8">
     <original><w>líkingum</w><w>að</w><w>fara</w><w>að</w></original>
     <corrected><w>líkindum</w></corrected>
       <errors>
@@ -230,24 +222,24 @@
   <c>.</c>
 </s>
 <s n="6">
-  <revision id="10">
+  <revision id="9">
     <original><w>Öryggisvörðum</w><w>í</w><w>tengslum</w><w>við</w><w>leikinn</w></original>
     <corrected><w>Þá</w></corrected>
       <errors>
-        <error xtype="wording" idx="10-1" eid="0" />
+        <error xtype="wording" idx="9-1" eid="0" />
       </errors>
   </revision>
   <w>tókst</w>
-  <revision id="11">
+  <revision id="10">
     <original><w>ennfremur</w></original>
     <corrected><w>öryggisvörðum</w><w>á</w><w>svæðinu</w><w>heldur</w></corrected>
       <errors>
-        <error xtype="dep" depId="10-1" eid="0" />
+        <error xtype="dep" depId="9-1" eid="0" />
       </errors>
   </revision>
   <w>ekki</w>
   <w>að</w>
-  <revision id="12">
+  <revision id="11">
     <original><w>koma</w><w>í</w><w>veg</w><w>fyrir</w></original>
     <corrected><w>stöðva</w></corrected>
       <errors>
@@ -255,7 +247,7 @@
       </errors>
   </revision>
   <w>áhorfendur</w>
-  <revision id="13">
+  <revision id="12">
     <original></original>
     <corrected><w>sem</w></corrected>
       <errors>
@@ -278,7 +270,7 @@
   <w>líka</w>
   <w>búist</w>
   <w>við</w>
-  <revision id="14">
+  <revision id="13">
     <original><w>að</w><w>fá</w></original>
     <corrected></corrected>
       <errors>

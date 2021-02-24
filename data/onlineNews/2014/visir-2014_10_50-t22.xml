@@ -62,10 +62,9 @@
   <w>þá</w>
   <revision id="3">
     <original><w>ertu</w><w>að</w><w>missa</w></original>
-    <corrected><w>missir</w><w>þú</w></corrected>
+    <corrected><w>missirðu</w></corrected>
       <errors>
         <error xtype="cont4simple" idx="19-1" eid="0"/>
-        <error xtype="missing-word" idx="19-2" eid="0"/>
       </errors>
   </revision>
   <w>af</w>
@@ -259,7 +258,7 @@
   <w>við</w>
   <revision id="11">
     <original><w>erum</w><w>ekki</w><w>að</w><w>nýta</w></original>
-    <corrected><w>nýtum</w></corrected>
+    <corrected><w>nýtum</w><w>ekki</w></corrected>
       <errors>
         <error xtype="cont4simple" idx="5-1" eid="0"/>
         <error xtype="wording" idx="5-1" eid="0"/>

@@ -317,18 +317,10 @@
 <s n="14">
   <w>Við</w>
   <revision id="8">
-    <original><w>erum</w></original>
-    <corrected><w>sjáum</w></corrected>
+    <original><w>erum</w><w>líka</w><w>að</w><w>sjá</w></original>
+    <corrected><w>sjáum</w><w>líka</w></corrected>
       <errors>
-        <error xtype="cont4simple" idx="8-1" eid="0" />
-      </errors>
-  </revision>
-  <w>líka</w>
-  <revision id="9">
-    <original><w>að</w><w>sjá</w></original>
-    <corrected></corrected>
-      <errors>
-        <error xtype="dep" depId="8-1" eid="0" />
+        <error xtype="cont4simple" eid="0" />
       </errors>
   </revision>
   <w>hversu</w>
@@ -336,7 +328,7 @@
   <w>hektarar</w>
   <w>þetta</w>
   <w>eru</w>
-  <revision id="10">
+  <revision id="9">
     <original></original>
     <corrected><c>,</c></corrected>
       <errors>
@@ -374,7 +366,7 @@
   <c>,</c>
   <w>hvaða</w>
   <w>fuglar</w>
-  <revision id="11">
+  <revision id="10">
     <original><w>þetta</w><w>eru</w></original>
     <corrected><w>um</w><w>ræðir</w></corrected>
       <errors>
@@ -386,12 +378,12 @@
   <c>,</c>
   <w>grágæs</w>
   <c>,</c>
-  <revision id="12">
+  <revision id="11">
     <original><w>heiðargæs</w></original>
     <corrected><w>heiðagæs</w></corrected>
       <errors>
-        <error xtype="compound-collocation" idx="12-1" eid="0" />
-        <error xtype="nonword" idx="12-1" eid="0" />
+        <error xtype="compound-collocation" idx="11-1" eid="0" />
+        <error xtype="nonword" idx="11-1" eid="0" />
       </errors>
   </revision>
   <w>og</w>

@@ -229,18 +229,10 @@
 <s n="9">
   <w>Óðinn</w>
   <revision id="5">
-    <original><w>var</w></original>
-    <corrected><w>sóttist</w></corrected>
+    <original><w>var</w><w>sífellt</w><w>að</w><w>sækjast</w></original>
+    <corrected><w>sóttist</w><w>sífellt</w></corrected>
       <errors>
-        <error xtype="cont4simple" idx="5-1" eid="0" />
-      </errors>
-  </revision>
-  <w>sífellt</w>
-  <revision id="6">
-    <original><w>að</w><w>sækjast</w></original>
-    <corrected></corrected>
-      <errors>
-        <error xtype="dep" depId="5-1" eid="0" />
+        <error xtype="cont4simple" eid="0" />
       </errors>
   </revision>
   <w>eftir</w>
@@ -256,7 +248,7 @@
   <w>við</w>
   <w>Mímisbrunn</w>
   <w>einn</w>
-  <revision id="7">
+  <revision id="6">
     <original><w>daginn</w></original>
     <corrected><w>dag</w></corrected>
       <errors>
@@ -289,7 +281,7 @@
   <w>Óðinn</w>
   <w>átti</w>
   <w>spjót</w>
-  <revision id="8">
+  <revision id="7">
     <original><c>(</c><w>Gungnir</w><c>)</c></original>
     <corrected><c>,</c><w>Gungni</w><c>,</c></corrected>
       <errors>
@@ -347,7 +339,7 @@
   <w>samanstendur</w>
   <w>af</w>
   <w>liðunum</w>
-  <revision id="9">
+  <revision id="8">
     <original></original>
     <corrected><c>‚</c></corrected>
       <errors>
@@ -355,7 +347,7 @@
       </errors>
   </revision>
   <w>óð</w>
-  <revision id="10">
+  <revision id="9">
     <original></original>
     <corrected><c>‘</c></corrected>
       <errors>
@@ -363,7 +355,7 @@
       </errors>
   </revision>
   <w>og</w>
-  <revision id="11">
+  <revision id="10">
     <original></original>
     <corrected><c>‚</c><c>-</c></corrected>
       <errors>
@@ -372,7 +364,7 @@
       </errors>
   </revision>
   <w>inn</w>
-  <revision id="12">
+  <revision id="11">
     <original></original>
     <corrected><c>‘</c></corrected>
       <errors>
@@ -421,7 +413,7 @@
   <c>,</c>
   <w>Valföður</w>
   <c>,</c>
-  <revision id="13">
+  <revision id="12">
     <original><w>Bölverkur</w></original>
     <corrected><w>Bölverk</w></corrected>
       <errors>
@@ -429,7 +421,7 @@
       </errors>
   </revision>
   <c>,</c>
-  <revision id="14">
+  <revision id="13">
     <original><w>Síðhöttur</w></original>
     <corrected><w>Síðhött</w></corrected>
       <errors>
@@ -437,7 +429,7 @@
       </errors>
   </revision>
   <c>,</c>
-  <revision id="15">
+  <revision id="14">
     <original><w>Vegtamur</w></original>
     <corrected><w>Vegtam</w></corrected>
       <errors>
@@ -445,7 +437,7 @@
       </errors>
   </revision>
   <c>,</c>
-  <revision id="16">
+  <revision id="15">
     <original><w>Grímnir</w></original>
     <corrected><w>Grímni</w></corrected>
       <errors>
@@ -453,7 +445,7 @@
       </errors>
   </revision>
   <w>og</w>
-  <revision id="17">
+  <revision id="16">
     <original><w>Herjafaðir</w></original>
     <corrected><w>Herjaföður</w></corrected>
       <errors>
@@ -669,7 +661,7 @@
   <w>illa</w>
   <w>kveðið</w>
   <c>)</c>
-  <revision id="18">
+  <revision id="17">
     <original><w><hi>aftur</hi></w><w><hi>af</hi></w><w><hi>Óðni</hi></w></original>
     <corrected><c>„</c><w>aftur</w><w>af</w><w>Óðni</w><c>“</c></corrected>
       <errors>
