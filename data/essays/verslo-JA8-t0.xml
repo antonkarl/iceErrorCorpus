@@ -1896,9 +1896,10 @@
   <w>þau</w>
   <revision id="70">
     <original><w>eru</w><w>ekkert</w><w>að</w><w>hagnast</w></original>
-    <corrected><w>hagnast</w><w>ekkert</w><corrected/>
+    <corrected><w>hagnast</w><w>ekki</w><corrected/>
       <errors>
-        <error xtype="cont4simple" eid="0"/>
+        <error xtype="cont4simple" idx="70-1" eid="0"/>
+        <error xtype="wording" idx="70-2" eid="0" />
       </errors>
   </revision>
   <w>neitt</w>

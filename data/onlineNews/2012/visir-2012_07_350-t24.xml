@@ -325,9 +325,10 @@
   <w>Rúnar</w>
   <revision id="13">
     <original><w>var</w><w>ekkert</w><w>að</w><w>bíða</w></original>
-    <corrected><w>beið</w><w>ekkert</w></corrected>
+    <corrected><w>beið</w><w>ekki</w></corrected>
       <errors>
-        <error xtype="cont4simple" eid="0" />
+        <error xtype="cont4simple" idx="13-1" eid="0" />
+        <error xtype="wording" idx="13-2" eid="0" />
       </errors>
   </revision>
   <c>.</c>
