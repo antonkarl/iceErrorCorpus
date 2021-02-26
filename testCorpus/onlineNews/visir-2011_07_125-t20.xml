@@ -155,19 +155,10 @@
   <w>Framan</w>
   <w>af</w>
   <revision id="4">
-    <original><w>var</w></original>
-    <corrected><w>gaf</w></corrected>
+    <original><w>var</w><w>miðsvæði</w><w>árinnar</w><w>að</w><w>gefa</w></original>
+    <corrected><w>gaf</w><w>miðsvæði</w><w>árinnar</w></corrected>
       <errors>
-        <error xtype="cont4simple" idx="4-1" eid="0" />
-      </errors>
-  </revision>
-  <w>miðsvæði</w>
-  <w>árinnar</w>
-  <revision id="5">
-    <original><w>að</w><w>gefa</w></original>
-    <corrected></corrected>
-      <errors>
-        <error xtype="dep" depId="4-1" eid="0" />
+        <error xtype="cont4simple" eid="0" />
       </errors>
   </revision>
   <w>mest</w>

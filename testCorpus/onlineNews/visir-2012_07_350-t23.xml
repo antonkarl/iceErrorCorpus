@@ -546,18 +546,10 @@
   <c>„</c>
   <w>Við</w>
   <revision id="16">
-    <original><w>vorum</w></original>
-    <corrected><w>spiluðum</w></corrected>
+    <original><w>vorum</w><w>ekki</w><w>að</w><w>spila</w></original>
+    <corrected><w>spiluðum</w><w>ekki</w></corrected>
       <errors>
-        <error xtype="cont4simple" idx="16-1" eid="0" />
-      </errors>
-  </revision>
-  <w>ekki</w>
-  <revision id="17">
-    <original><w>að</w><w>spila</w></original>
-    <corrected></corrected>
-      <errors>
-        <error xtype="dep" depId="16-1" eid="0" />
+        <error xtype="cont4simple" eid="0" />
       </errors>
   </revision>
   <w>nægilega</w>
@@ -736,7 +728,8 @@
     <original><w>erum</w><w>að</w><w>fá</w></original>
     <corrected><w>fengum</w></corrected>
       <errors>
-        <error xtype="cont4simple" eid="0" />
+        <error xtype="cont4simple" idx="28-1" eid="0" />
+        <error xtype="pres4past" idx="28-1" eid="0" />
       </errors>
   </revision>
   <w>á</w>
