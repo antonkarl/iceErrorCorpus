@@ -18,12 +18,17 @@
   <w>Tottenham</w>
   <revision id="1">
     <original><w>var</w><w>að</w><w>kaupa</w></original>
-    <corrected><w>keypti</w><w>á</w><w>dögunum</w></corrected>
+    <corrected><w>keypti</w></corrected>
       <errors>
-        <error xtype="cont4simple" idx="1-1" eid="0" />
-        <error xtype="missing-words" idx="1-2" eid="0" />
+        <error xtype="cont4simple" eid="0" />
       </errors>
   </revision>
+  <revision id="2">
+    <original></original>
+    <corrected><w>á</w><w>dögunum</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0" />
+      </errors>
   <w>tvo</w>
   <w>unga</w>
   <w>varnarleikmenn</w>
@@ -45,7 +50,7 @@
   <w>og</w>
   <w>Kyle</w>
   <w>Walker</w>
-  <revision id="2">
+  <revision id="3">
     <original><w>er</w></original>
     <corrected></corrected>
       <errors>
@@ -124,7 +129,7 @@
   <w>sem</w>
   <w>liðið</w>
   <w>var</w>
-  <revision id="3">
+  <revision id="4">
     <original><w>svo</w></original>
     <corrected><w>mjög</w></corrected>
       <errors>

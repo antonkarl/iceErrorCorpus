@@ -1036,30 +1036,22 @@
   <w>og</w>
   <w>nú</w>
   <revision id="15">
-    <original><w>er</w></original>
-    <corrected><w>prófar</w></corrected>
+    <original><w>er</w><w>hún</w><w>að</w><w>prófa</w></original>
+    <corrected><w>prófar</w><w>hún</w></corrected>
       <errors>
-        <error xtype="cont4simple" idx="15-1" eid="0" />
-        <error xtype="wording" idx="15-1" eid="0" />
+        <error xtype="cont4simple" eid="0" />
       </errors>
   </revision>
-  <w>hún</w>
-  <revision id="16">
-    <original><w>að</w><w>prófa</w></original>
-    <corrected></corrected>
-      <errors>
-        <error xtype="dep" depId="15-1" eid="0" />
-      </errors>
   </revision>
   <w>sig</w>
   <w>áfram</w>
   <w>með</w>
-  <revision id="17">
+  <revision id="16">
     <original><w>klarinett</w></original>
     <corrected><w>klarínett</w></corrected>
       <errors>
-        <error xtype="missing-accent" idx="17-1" eid="0" />
-        <error xtype="nonword" idx="17-1" eid="0" />
+        <error xtype="missing-accent" idx="16-1" eid="0" />
+        <error xtype="nonword" idx="16-1" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -1076,7 +1068,7 @@
   <w>sem</w>
   <w>ég</w>
   <w>hef</w>
-  <revision id="18">
+  <revision id="17">
     <original><w>safnað</w></original>
     <corrected><w>sankað</w></corrected>
       <errors>
@@ -1085,13 +1077,7 @@
   </revision>
   <w>að</w>
   <w>mér</w>
-  <revision id="19">
-    <original><c>.</c></original>
-    <corrected><c>,</c></corrected>
-      <errors>
-        <error xtype="period4comma" eid="0" />
-      </errors>
-  </revision>
+  <c>.</c>
   <c>“</c>
 </s>
 </p></body></text>
