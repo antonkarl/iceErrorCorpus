@@ -231,12 +231,18 @@
   <w>undanfarið</w>
   <w>að</w>
   <revision id="2">
-    <original><w>Dv</w><w>ýkji</w></original>
-    <corrected><w>DV</w><w>ýki</w></corrected>
+    <original><w>Dv</w></original>
+    <corrected><w>DV</w></corrected>
       <errors>
         <error xtype="lower4upper-acro" eid="0"/>
-        <error xtype="extra-letter" idx="9-1" eid="0"/>
-        <error xtype="nonword" idx="9-1" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="2b">
+    <original><w>ýkji</w></original>
+    <corrected><w>ýki</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="2b-1" eid="0"/>
+        <error xtype="nonword" idx="2b-1" eid="0"/>
       </errors>
   </revision>
   <w>fréttirnar</w>

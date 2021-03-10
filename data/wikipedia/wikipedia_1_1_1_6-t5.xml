@@ -2073,11 +2073,23 @@
   <w>mælskukeppninni</w>
   <revision id="75">
     <original><w>Morfís</w></original>
-    <corrected><w>MORFÍs</w><c>,</c><w>mælsku- og rökræðukeppni</w><w>framhaldsskóla</w><w>á</w><w>Íslandi</w></corrected>
+    <corrected><w>MORFÍs</w></corrected>
       <errors>
-        <error xtype="lower4upper-acro" idx="33-1" eid="0"/>
-        <error xtype="missing-comma" idx="33-2" eid="0"/>
-        <error xtype="missing-words" idx="33-3" eid="0"/>
+        <error xtype="lower4upper-acro" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="75b">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="75c">
+    <original></original>
+    <corrected><w>mælsku- og rökræðukeppni</w><w>framhaldsskóla</w><w>á</w><w>Íslandi</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
