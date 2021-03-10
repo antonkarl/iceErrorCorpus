@@ -679,9 +679,15 @@
   <w>á</w>
   <revision id="24">
     <original><w>Ríkissjónvarpinu</w></original>
-    <corrected><w>ríkissjónvarpinu</w><c>,</c></corrected>
+    <corrected><w>ríkissjónvarpinu</w></corrected>
       <errors>
-        <error xtype="upper4lower-common" idx="19-1" eid="0"/>
+        <error xtype="upper4lower-common" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="24b">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
         <error xtype="dep" depId="18-1" eid="0"/>
       </errors>
   </revision>

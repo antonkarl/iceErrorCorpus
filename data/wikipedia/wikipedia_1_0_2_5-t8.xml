@@ -744,11 +744,11 @@
   <w>eldri</w>
   <w>en</w>
   <w>frá</w>
+  <w>19.</w>
   <revision id="24">
-    <original><w>19</w><c>.</c><w>Öld</w></original>
-    <corrected><w>19.</w><w>öld</w></corrected>
+    <original><w>Öld</w></original>
+    <corrected><w>öld</w></corrected>
       <errors>
-        <error xtype="extra-space" eid="0"/>
         <error xtype="upper4lower-common" eid="0"/>
       </errors>
   </revision>
@@ -3967,13 +3967,19 @@
 </s><s n="144">
   <w>Munngígja</w>
   <w>frá</w>
+  <w>16.</w>
   <revision id="124">
-    <original><w>16</w><c>.</c><w>Eða</w><w>17</w><c>.</c><w>Öld</w></original>
-    <corrected><w>16.</w><w>eða</w><w>17.</w><w>öld</w></corrected>
+    <original><w>Eða</w></original>
+    <corrected><w>eða</w></corrected>
       <errors>
-        <error xtype="extra-space" eid="0"/>
         <error xtype="upper4lower-common" eid="0"/>
-        <error xtype="extra-space" eid="0"/>
+      </errors>
+  </revision>
+  <w>17.</w>
+  <revision id="124b">
+    <original><w>Öld</w></original>
+    <corrected><w>öld</w></corrected>
+      <errors>
         <error xtype="upper4lower-common" eid="0"/>
       </errors>
   </revision>

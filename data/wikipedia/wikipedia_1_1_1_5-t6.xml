@@ -312,13 +312,13 @@
   <w>Portúgal</w>
   <c>.</c>
 </s><s n="8">
-  <w>Sjötta</w>
   <revision id="18">
-    <original><w>September</w></original>
-    <corrected><w>september</w><c>,</c></corrected>
+    <original><w>Sjötta</w><w>September</w></original>
+    <corrected><w>6.</w><w>september</w><c>,</c></corrected>
       <errors>
-        <error xtype="upper4lower-common" idx="43-1" eid="0"/>
-        <error xtype="missing-comma" idx="43-2" eid="0"/>
+        <error xtype="word4number" idx="43-1" eid="0"/>
+        <error xtype="upper4lower-common" idx="43-2" eid="0"/>
+        <error xtype="missing-comma" idx="43-3" eid="0"/>
       </errors>
   </revision>
   <w>1522</w>

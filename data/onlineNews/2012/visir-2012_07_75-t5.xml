@@ -496,13 +496,20 @@
   <w>skref</w>
   <w>er</w>
   <revision id="24">
-    <original><w>Uumboðsmaður</w></original>
-    <corrected><w>að</w><w>hafa</w><w>samband</w><w>við</w><w>Umboðsmann</w></corrected>
+    <original></original>
+    <corrected><w>að</w><w>hafa</w><w>samband</w><w>við</w></corrected>
       <errors>
-        <error xtype="missing-words" idx="24-1" eid="0" />
-        <error xtype="upper4lower-common" idx="24-2" eid="0" />
-        <error xtype="extra-letter" idx="24-2" eid="0" />
-        <error xtype="nonword" idx="24-2" eid="0" />
+        <error xtype="wording" idx="24-1" eid="0" />
+      </errors>
+  </revision>
+  <revision id="24b">
+    <original><w>Uumboðsmaður</w></original>
+    <corrected><w>Umboðsmann</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" idx="24b-1" eid="0" />
+        <error xtype="extra-letter" idx="24b-1" eid="0" />
+        <error xtype="nonword" idx="24b-1" eid="0" />
+        <error xtype="dep" depId="24b-1" eid="0" />
       </errors>
   </revision>
   <w>alþingis</w>

@@ -1270,11 +1270,17 @@
   <w>við</w>
   <w>eyðileggingu</w>
   <revision id="22">
-    <original><w>Sálar</w><w>sjálf</w></original>
-    <corrected><w>sálar</w><w>sjálfs</w></corrected>
+    <original><w>Sálar</w></original>
+    <corrected><w>sálar</w></corrected>
       <errors>
-        <error xtype="upper4lower-common" idx="15-1" eid="0"/>
-        <error xtype="agreement-concord" idx="15-2" eid="0"/>
+        <error xtype="upper4lower-common" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="22b">
+    <original><w>sjálf</w></original>
+    <corrected><w>sjálfs</w></corrected>
+      <errors>
+        <error xtype="agreement-concord" eid="0"/>
       </errors>
   </revision>
   <w>síns</w>

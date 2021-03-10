@@ -169,13 +169,19 @@
   <w>við</w>
   <w>svokallað</w>
   <revision id="15">
-    <original><c>„</c><w>Bílskúrs-Pönk</w><c>“</c><c>,</c></original>
+    <original><c>„</c><w>Bílskúrs-Pönk</w><c>“</c></original>
     <corrected><w>bílskúrspönk</w></corrected>
       <errors>
         <error xtype="extra-quots" eid="0"/>
         <error xtype="upper4lower-common" idx="33-1" eid="0"/>
         <error xtype="upper4lower-common" idx="33-1" eid="0"/>
         <error xtype="extra-hyphen" idx="33-1" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="15b">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
         <error xtype="extra-comma" eid="0"/>
       </errors>
   </revision>

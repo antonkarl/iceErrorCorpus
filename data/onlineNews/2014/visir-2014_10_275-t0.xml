@@ -20,11 +20,30 @@
   <w>Trap</w>
   <w>Team</w>
   <revision id="1">
-    <original><w>Ævintýraleikur</w><w>Spilaður</w></original>
-    <corrected><w>er</w><w>ævintýraleikur</w><w>sem</w><w>er</w><w>spilaður</w></corrected>
+    <original></original>
+    <corrected><w>er</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <revision id="1b">
+    <original><w>Ævintýraleikur</w></original>
+    <corrected><w>ævintýraleikur</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
+  <revision id="1c">
+    <original></original>
+    <corrected><w>sem</w><w>er</w></corrected>
       <errors>
         <error xtype="missing-words" eid="0" />
-        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
+  <revision id="1d">
+    <original><w>Spilaður</w></original>
+    <corrected><w>spilaður</w></corrected>
+      <errors>
         <error xtype="upper4lower-common" eid="0" />
       </errors>
   </revision>

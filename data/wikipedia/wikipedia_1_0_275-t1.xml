@@ -662,9 +662,10 @@
   <w>í</w>
   <revision id="7">
     <original><w>Líbýsku</w></original>
-    <corrected><w>líbýsku</w></corrected>
+    <corrected><w>líbísku</w></corrected>
       <errors>
-        <error xtype="upper4lower-common" eid="0" />
+        <error xtype="upper4lower-common" idx="7-1" eid="0" />
+        <error xtype="ý4í" idx="7-1" eid="0" />
       </errors>
   </revision>
   <w>borgarastyrjöldinni</w>

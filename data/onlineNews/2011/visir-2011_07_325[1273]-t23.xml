@@ -957,10 +957,16 @@
   </revision>
   <w>stofnunin</w>
   <revision id="32">
-    <original><w>eða</w><w>Vaktstöð</w></original>
-    <corrected><w>né</w><w>vaktstöð</w></corrected>
+    <original><w>eða</w></original>
+    <corrected><w>né</w></corrected>
       <errors>
         <error xtype="dep" depId="31-1" eid="0" />
+      </errors>
+  </revision>
+  <revision id="32b">
+    <original><w>Vaktstöð</w></original>
+    <corrected><w>vaktstöð</w></corrected>
+      <errors>
         <error xtype="upper4lower-common" eid="0" />
       </errors>
   </revision>

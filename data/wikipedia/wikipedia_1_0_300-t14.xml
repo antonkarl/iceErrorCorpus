@@ -3318,10 +3318,16 @@
   <c>,</c>
   <w>eða</w>
   <revision id="102">
-    <original><w>Koptíska</w><w>rétttrúnaðar</w><w>kirkjan</w></original>
-    <corrected><w>koptíska</w><w>rétttrúnaðarkirkjan</w></corrected>
+    <original><w>Koptíska</w></original>
+    <corrected><w>koptíska</w></corrected>
       <errors>
-        <error xtype="upper4lower-common" eid="0" />
+        <error xtype="upper4lower-common" eid="0" />>
+      </errors>
+  </revision>
+  <revision id="102b">
+    <original><w>rétttrúnaðar</w><w>kirkjan</w></original>
+    <corrected><w>rétttrúnaðarkirkjan</w></corrected>
+      <errors>
         <error xtype="split-compound" eid="0" />
       </errors>
   </revision>
@@ -7143,7 +7149,13 @@
         <error xtype="extra-letter" idx="280-1" eid="0" />
         <error xtype="split-compound" idx="280-1" eid="0" />
         <error xtype="missing-hyphen" idx="280-1" eid="0" />
-        <error xtype="missing-comma" idx="280-2" eid="0" />
+      </errors>
+  </revision>
+  <revision id="280b">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
       </errors>
   </revision>
   <w>biðja</w>
@@ -9378,15 +9390,21 @@
   <w>byggir</w>
   <w>á</w>
   <revision id="369">
-    <original><w>Sharia</w><w>lögum</w><w>Íslamstrúar</w></original>
-    <corrected><w>sjaría-lögum</w><w>íslamstrúar</w></corrected>
+    <original><w>Sharia</w><w>lögum</w></original>
+    <corrected><w>sjaría-lögum</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="369-1" eid="0" />
         <error xtype="letter-rep" idx="369-1" eid="0" />
         <error xtype="missing-accent" idx="369-1" eid="0" />
         <error xtype="split-word" idx="369-1" eid="0" />
         <error xtype="missing-hyphen" idx="369-1" eid="0" />
-        <error xtype="upper4lower-common" idx="369-2" eid="0" />
+      </errors>
+  </revision>
+  <revision id="369b">
+    <original><w>Íslamstrúar</w></original>
+    <corrected><w>íslamstrúar</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
       </errors>
   </revision>
   <w>ásamt</w>
@@ -9809,14 +9827,20 @@
   <w>á</w>
   <w>hinum</w>
   <revision id="389">
-    <original><w>Íslömsku</w><w>sharia</w><w>lögum</w></original>
-    <corrected><w>íslömsku</w><w>sjaría-lögum</w></corrected>
+    <original><w>Íslömsku</w></original>
+    <corrected><w>íslömsku</w></corrected>
       <errors>
         <error xtype="upper4lower-common" eid="0" />
-        <error xtype="letter-rep" idx="389-1" eid="0" />
-        <error xtype="missing-accent" idx="389-1" eid="0" />
-        <error xtype="split-word" idx="389-1" eid="0" />
-        <error xtype="missing-hyphen" idx="389-1" eid="0" />
+      </errors>
+  </revision>
+  <revision id="389b">
+    <original><w>sharia</w><w>lögum</w></original>
+    <corrected><w>sjaría-lögum</w></corrected>
+      <errors>
+        <error xtype="letter-rep" idx="389b-1" eid="0" />
+        <error xtype="missing-accent" idx="389b-1" eid="0" />
+        <error xtype="split-word" idx="389b-1" eid="0" />
+        <error xtype="missing-hyphen" idx="389b-1" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -10673,15 +10697,21 @@
   <w>Sádí-Arabíu</w>
   <w>fylgir</w>
   <revision id="424">
-    <original><w>Sharia</w><w>lögum</w><w>Íslamstrúar</w></original>
-    <corrected><w>sjaría-lögum</w><w>íslamstrúar</w></corrected>
+    <original><w>Sharia</w><w>lögum</w></original>
+    <corrected><w>sjaría-lögum</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="424-1" eid="0" />
         <error xtype="letter-rep" idx="424-1" eid="0" />
         <error xtype="missing-accent" idx="424-1" eid="0" />
         <error xtype="split-word" idx="424-1" eid="0" />
         <error xtype="missing-hyphen" idx="424-1" eid="0" />
-        <error xtype="upper4lower-common" idx="424-2" eid="0" />
+      </errors>
+  </revision>
+  <revision id="424b">
+    <original><w>Íslamstrúar</w></original>
+    <corrected><w>íslamstrúar</w></corrected>
+      <errors>>
+        <error xtype="upper4lower-common" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -11136,16 +11166,22 @@
   <w>lögum</w>
   <w>og</w>
   <revision id="440">
-    <original><w>Sharia</w><w>lögum</w><w>Íslams</w><w>trúar</w></original>
-    <corrected><w>sjaría-lögum</w><w>íslamstrúar</w></corrected>
+    <original><w>Sharia</w><w>lögum</w></original>
+    <corrected><w>sjaría-lögum</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="440-1" eid="0" />
         <error xtype="letter-rep" idx="440-1" eid="0" />
         <error xtype="missing-accent" idx="440-1" eid="0" />
         <error xtype="split-word" idx="440-1" eid="0" />
         <error xtype="missing-hyphen" idx="440-1" eid="0" />
-        <error xtype="upper4lower-common" idx="440-2" eid="0" />
-        <error xtype="split-compound" idx="440-2" eid="0" />
+      </errors>
+  </revision>
+  <revision id="440b">
+    <original><w>Íslams</w><w>trúar</w></original>
+    <corrected><w>íslamstrúar</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" idx="440b-1" eid="0" />
+        <error xtype="split-compound" idx="440b-1" eid="0" />
       </errors>
   </revision>
   <c>.</c>

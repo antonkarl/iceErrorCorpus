@@ -569,12 +569,18 @@
   <w>var</w>
   <w>í</w>
   <revision id="20">
-    <original><w>Seinni</w><w>heimstyrjöldinni</w></original>
-    <corrected><w>seinni</w><w>heimsstyrjöldinni</w></corrected>
+    <original><w>Seinni</w></original>
+    <corrected><w>seinni</w></corrected>
       <errors>
-        <error xtype="upper4lower-common" idx="20-1" eid="0" />
-        <error xtype="missing-letter" idx="20-2" eid="0" />
-        <error xtype="compound-collocation" idx="20-2" eid="0" />
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
+  <revision id="20b">
+    <original><w>heimstyrjöldinni</w></original>
+    <corrected><w>heimsstyrjöldinni</w></corrected>
+      <errors>
+        <error xtype="missing-letter" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <c>.</c>

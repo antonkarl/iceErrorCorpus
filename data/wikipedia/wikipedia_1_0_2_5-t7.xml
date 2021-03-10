@@ -263,12 +263,18 @@
   <w>Þórs</w>
   <w>Ve.</w>
   <w>í</w>
+  <w>2.</w>
   <revision id="4">
-    <original><w>2</w><c>.</c><w>Deild</w><c>,</c></original>
-    <corrected><w>2.</w><w>deild</w><c>;</c></corrected>
+    <original><w>Deild</w></original>
+    <corrected><w>deild</w></corrected>
       <errors>
-        <error xtype="extra-space" eid="0"/>
         <error xtype="upper4lower-common" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="4b">
+    <original><c>,</c></original>
+    <corrected><c>;</c></corrected>
+      <errors>
         <error xtype="comma4semicolon" eid="0"/>
       </errors>
   </revision>

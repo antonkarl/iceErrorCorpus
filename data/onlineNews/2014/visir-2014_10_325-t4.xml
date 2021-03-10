@@ -112,12 +112,18 @@
   <w>Landspítalanum</w>
   <w>og</w>
   <revision id="6">
-    <original><w>Fæðingardeild</w><w>Landspítlans</w></original>
-    <corrected><w>fæðingardeild</w><w>Landspítalans</w></corrected>
+    <original><w>Fæðingardeild</w></original>
+    <corrected><w>fæðingardeild</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="21-1" eid="0"/>
-        <error xtype="missing-letter" idx="21-2" eid="0"/>
-        <error xtype="nonword" idx="21-2" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="6b">
+    <original><w>Landspítlans</w></original>
+    <corrected><w>Landspítalans</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="6b-1" eid="0"/>
+        <error xtype="nonword" idx="6b-1" eid="0"/>
       </errors>
   </revision>
   <c>,</c>

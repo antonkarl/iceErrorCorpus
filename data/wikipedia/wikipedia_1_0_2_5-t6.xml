@@ -1017,11 +1017,23 @@
   <c>.</c>
 </s><s n="21">
   <revision id="94">
-    <original><w>Fjögur</w><w>Stofnendur</w><w>Rangers-bræður</w><w>Móse</w></original>
-    <corrected><w>Fjórir</w><w>stofnendur</w><w>Rangers</w><w>voru</w><w>bræðurnir</w><w>Moses</w></corrected>
+    <original><w>Fjögur</w></original>
+    <corrected><w>Fjórir</w></corrected>
       <errors>
         <error xtype="agreement-concord" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="94b">
+    <original><w>Stofnendur</w></original>
+    <corrected><w>stofnendur</w></corrected>
+      <errors>
         <error xtype="upper4lower-common" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="94c">
+    <original><w>Rangers-bræður</w><w>Móse</w></original>
+    <corrected><w>Rangers</w><w>voru</w><w>bræðurnir</w><w>Moses</w></corrected>
+      <errors>
         <error xtype="wording" eid="0"/>
       </errors>
   </revision>

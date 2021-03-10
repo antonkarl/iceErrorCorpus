@@ -1659,7 +1659,7 @@
     <original><w>Lág</w><w>skammta</w></original>
     <corrected><w>lágskammta</w></corrected>
       <errors>
-        <error xtype="upper4lower-common" idx="65-1" eid="0" />
+        <error xtype="upper4lower-noninitial" idx="65-1" eid="0" />
         <error xtype="split-compound" idx="65-1" eid="0" />
       </errors>
   </revision>

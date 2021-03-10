@@ -525,10 +525,16 @@
   <c>,</c>
   <w>á</w>
   <revision id="23">
-    <original><w>Austurströndinni</w><w>komu</w></original>
-    <corrected><w>austurströndinni</w><w>birtust</w></corrected>
+    <original><w>Austurströndinni</w></original>
+    <corrected><w>austurströndinni</w></corrected>
       <errors>
         <error xtype="upper4lower-common" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="23b">
+    <original><w>komu</w></original>
+    <corrected><w>birtust</w></corrected>
+      <errors>
         <error xtype="wording" eid="0"/>
       </errors>
   </revision>

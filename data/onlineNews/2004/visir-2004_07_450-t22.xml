@@ -375,10 +375,16 @@
   <w>Kevin</w>
   <w>Bray</w>
   <revision id="5">
-    <original><w>Aðalhlutverk</w></original>
-    <corrected><c>,</c><w>aðalhlutverk</w></corrected>
+    <original></original>
+    <corrected><c>,</c></corrected>
       <errors>
         <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <revision id="5b">
+    <original><w>Aðalhlutverk</w></original>
+    <corrected><w>aðalhlutverk</w></corrected>
+      <errors>
         <error xtype="upper4lower-common" eid="0" />
       </errors>
   </revision>

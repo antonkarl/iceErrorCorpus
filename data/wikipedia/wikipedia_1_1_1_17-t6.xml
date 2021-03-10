@@ -1655,12 +1655,18 @@
   <w>útsetning</w>
   <w>á</w>
   <revision id="59">
-    <original><w>tónlistarstefnuna</w><w>Britpopp</w></original>
-    <corrected><w>tónlistarstefnuheitinu</w><c>„</c><w>britpop</w><c>“</c></corrected>
+    <original><w>tónlistarstefnuna</w></original>
+    <corrected><w>tónlistarstefnuheitinu</w></corrected>
       <errors>
         <error xtype="wording" eid="0"/>
-        <error xtype="missing-quots" idx="26-1" eid="0"/>
-        <error xtype="upper4lower-common" idx="26-1" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="59b">
+    <original><w>Britpopp</w></original>
+    <corrected><c>„</c><w>britpop</w><c>“</c></corrected>
+      <errors>
+        <error xtype="missing-quots" idx="59b-1" eid="0"/>
+        <error xtype="upper4lower-common" idx="59b-1" eid="0"/>
       </errors>
   </revision>
   <c>.</c>

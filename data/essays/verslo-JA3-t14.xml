@@ -1278,14 +1278,26 @@
   <w>það</w>
   <w>var</w>
   <revision id="57">
-    <original><w>Viðskiptafræði</w><c>,</c><w>ég</w><w>héllt</w></original>
-    <corrected><w>viðskiptafræði</w><c>.</c><w>Ég</w><w>hélt</w></corrected>
+    <original><w>Viðskiptafræði</w></original>
+    <corrected><w>viðskiptafræði</w></corrected>
       <errors>
         <error xtype="upper4lower-common" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="57b">
+    <original><c>,</c><w>ég</w></original>
+    <corrected><c>.</c><w>Ég</w></corrected>
+      <errors>
         <error xtype="comma4period" eid="0"/>
-        <error xtype="extra-letter" idx="54-1" eid="0"/>
-        <error xtype="pronun-writing" idx="54-1" eid="0"/>
-        <error xtype="nonword" idx="54-1" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="57c">
+    <original><w>héllt</w></original>
+    <corrected><w>hélt</w></corrected>
+      <errors>
+        <error xtype="extra-letter" idx="57c-1" eid="0"/>
+        <error xtype="pronun-writing" idx="57c-1" eid="0"/>
+        <error xtype="nonword" idx="57c-1" eid="0"/>
       </errors>
   </revision>
   <w>í</w>
@@ -1719,9 +1731,10 @@
   </revision>
   <w>líkt</w>
   <w>og</w>
+  <w>t.d.</w>
   <revision id="75">
-    <original><w>t.d</w><c>.</c><w>Verkfræði</w></original>
-    <corrected><w>t.d.</w><w>verkfræði</w></corrected>
+    <original><w>Verkfræði</w></original>
+    <corrected><w>verkfræði</w></corrected>
       <errors>
         <error xtype="abbreviation-period" eid="0"/>
         <error xtype="upper4lower-common" eid="0"/>

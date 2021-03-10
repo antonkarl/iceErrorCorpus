@@ -1124,7 +1124,13 @@
   <w>þrettándu</w>
   <w>grein</w>
   <w>stjórnarskrár</w>
-  <w>bandaríkjanna</w>
+  <revision id="66b">
+    <original><w>bandaríkjanna</w></original>
+    <corrected><w>Bandaríkjanna</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
   <c>(</c>
   <revision id="67">
     <original><w>the</w><w>13</w><w>th</w><w>Amendment</w></original>

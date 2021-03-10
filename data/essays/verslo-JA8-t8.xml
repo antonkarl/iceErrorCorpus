@@ -1676,10 +1676,16 @@
   <w>gelluna</w>
   <w>mína</w>
   <revision id="29">
-    <original><w>Arabaskíturinn</w></original>
-    <corrected><c>,</c><w>arabaskíturinn</w></corrected>
+    <original></original>
+    <corrected><c>,</c></corrected>
       <errors>
         <error xtype="missing-comma" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="29b">
+    <original><w>Arabaskíturinn</w></original>
+    <corrected><w>arabaskíturinn</w></corrected>
+      <errors>
         <error xtype="upper4lower-common" eid="0"/>
       </errors>
   </revision>

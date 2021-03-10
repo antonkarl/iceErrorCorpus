@@ -93,10 +93,16 @@
   <w>lesa</w>
   <revision id="3">
     <original><w>Guðsorð</w></original>
-    <corrected><w>guðsorð</w><w>yfir</w><w>hausamótum</w><w>togarajaxlanna</w></corrected>
+    <corrected><w>guðsorð</w></corrected>
       <errors>
         <error xtype="upper4lower-common" eid="0" />
-        <error xtype="wording" idx="3-1" eid="0" />
+      </errors>
+  </revision>
+  <revision id="3b">
+    <original></original>
+    <corrected><w>yfir</w><w>hausamótum</w><w>togarajaxlanna</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
       </errors>
   </revision>
   <w>á</w>

@@ -392,10 +392,16 @@
   <w>Verzlunarskólablaðsins</w>
   <c>,</c>
   <revision id="19">
-    <original><w>Formaður</w><w>Nemendamótsnefndar</w></original>
-    <corrected><w>formaður</w><w>nemendamótsnefndar</w></corrected>
+    <original><w>Formaður</w></original>
+    <corrected><w>formaður</w></corrected>
       <errors>
         <error xtype="upper4lower-common" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="19b">
+    <original><w>Nemendamótsnefndar</w></original>
+    <corrected><w>nemendamótsnefndar</w></corrected>
+      <errors>
         <error xtype="upper4lower-common" eid="0"/>
       </errors>
   </revision>
@@ -410,28 +416,46 @@
   <w>Viljans</w>
   <c>,</c>
   <revision id="21">
-    <original><w>Formaður</w><w>Íþróttafélags</w></original>
-    <corrected><w>formaður</w><w>íþróttafélags</w></corrected>
+    <original><w>Formaður</w></original>
+    <corrected><w>formaður</w></corrected>
       <errors>
         <error xtype="upper4lower-common" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="21b">
+    <original><w>Íþróttafélags</w></original>
+    <corrected><w>íþróttafélags</w></corrected>
+      <errors>
         <error xtype="upper4lower-common" eid="0"/>
       </errors>
   </revision>
   <c>,</c>
   <revision id="22">
-    <original><w>Formaður</w><w>Listafélags</w></original>
-    <corrected><w>formaður</w><w>listafélags</w></corrected>
+    <original><w>Formaður</w></original>
+    <corrected><w>formaður</w></corrected>
       <errors>
         <error xtype="upper4lower-common" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="22b">
+    <original><w>Listafélags</w></original>
+    <corrected><w>listafélags</w></corrected>
+      <errors>
         <error xtype="upper4lower-common" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
   <revision id="23">
-    <original><w>Formaður</w><w>Skemmtinefndar</w></original>
-    <corrected><w>formaður</w><w>skemmtinefndar</w></corrected>
+    <original><w>Formaður</w></original>
+    <corrected><w>formaður</w></corrected>
       <errors>
         <error xtype="upper4lower-common" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="23b">
+    <original><w>Skemmtinefndar</w></original>
+    <corrected><w>skemmtinefndar</w></corrected>
+      <errors>
         <error xtype="upper4lower-common" eid="0"/>
       </errors>
   </revision>

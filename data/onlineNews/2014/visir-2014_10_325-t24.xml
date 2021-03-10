@@ -206,11 +206,17 @@
   <w>fyrir</w>
   <w>vefinn</w>
   <revision id="7">
-    <original><w>Deildu.net</w><c>,</c></original>
+    <original><w>Deildu.net</w></original>
     <corrected><w>deildu.net</w></corrected>
       <errors>
-        <error xtype="upper4lower-common" idx="2-1" eid="0"/>
-        <error xtype="extra-comma" idx="2-2" eid="0"/>
+        <error xtype="upper4lower-common" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="7b">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0"/>
       </errors>
   </revision>
   <w>eftir</w>

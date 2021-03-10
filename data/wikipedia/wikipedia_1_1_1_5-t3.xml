@@ -1704,7 +1704,13 @@
         <error xtype="upper4lower-common" eid="0"/>
       </errors>
   </revision>
-  <w>heimastjórnafrumvarpið</w>
+  <revision id="119b">
+    <original><w>heimastjórnafrumvarpið</w></original>
+    <corrected><w>heimastjórnarfrumvarpið</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" eid="0"/>
+      </errors>
+  </revision>
   <revision id="120">
     <original><w>voru</w></original>
     <corrected><w>var</w></corrected>

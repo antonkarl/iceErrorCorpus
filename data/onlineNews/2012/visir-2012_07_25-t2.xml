@@ -499,12 +499,18 @@
   </revision>
   <w>er</w>
   <revision id="20">
-    <original><w>Uppáhalds</w><w>áin</w><c>/</c></original>
-    <corrected><w>uppáhaldsáin</w><w>eða</w></corrected>
+    <original><w>Uppáhalds</w><w>áin</w></original>
+    <corrected><w>uppáhaldsáin</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="20-1" eid="0" />
-        <error xtype="split-compound" idx="20-2" eid="0" />
-        <error xtype="slash4or" idx="20-3" eid="0" />
+        <error xtype="split-compound" idx="20-1" eid="0" />
+      </errors>
+  </revision>
+  <revision id="20b">
+    <original><c>/</c></original>
+    <corrected><w>eða</w></corrected>
+      <errors>
+        <error xtype="slash4or" eid="0" />
       </errors>
   </revision>
   <w>vatnið</w>

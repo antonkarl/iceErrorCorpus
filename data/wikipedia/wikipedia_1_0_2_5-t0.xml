@@ -65,12 +65,18 @@
   <w>í</w>
   <w>flestum</w>
   <revision id="3">
-    <original><w>Svuntupopp</w><w>lögum</w><c>.</c><w>Heldur</w></original>
-    <corrected><w>svuntupoppslögum</w><w>heldur</w></corrected>
+    <original><w>Svuntupopp</w><w>lögum</w></original>
+    <corrected><w>svuntupoppslögum</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="63-1" eid="0"/>
         <error xtype="split-compound" idx="63-1" eid="0"/>
         <error xtype="compound-collocation" idx="63-1" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="3b">
+    <original><c>.</c><w>Heldur</w></original>
+    <corrected><w>heldur</w></corrected>
+      <errors>
         <error xtype="extra-period" eid="0"/>
       </errors>
   </revision>

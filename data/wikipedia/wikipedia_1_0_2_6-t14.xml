@@ -1099,10 +1099,16 @@
   <w>samning</w>
   <w>við</w>
   <revision id="17">
-    <original><w>Kínversku</w><w>sjónvarpstöðina</w></original>
-    <corrected><w>kínversku</w><w>sjónvarpsstöðina</w></corrected>
+    <original><w>Kínversku</w></original>
+    <corrected><w>kínversku</w></corrected>
       <errors>
         <error xtype="upper4lower-common" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="17b">
+    <original><w>sjónvarpstöðina</w></original>
+    <corrected><w>sjónvarpsstöðina</w></corrected>
+      <errors>
         <error xtype="compound-collocation" eid="0"/>
       </errors>
   </revision>
