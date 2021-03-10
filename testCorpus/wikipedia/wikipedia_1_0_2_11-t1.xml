@@ -60,12 +60,19 @@
   <c>.</c>
 </s><s n="3">
   <revision id="2">
-    <original><w>Stóner</w><w>rokk</w><c>,</c><w>Stóner</w><w>metall</w></original>
-    <corrected><w>Stóner-rokk</w><c>,</c><w>stóner-metal</w></corrected>
+    <original><w>Stóner</w><w>rokk</w></original>
+    <corrected><w>Stóner-rokk</w></corrected>
       <errors>
         <error xtype="missing-hyphen" idx="1-1" eid="0"/>
-        <error xtype="missing-hyphen" idx="1-2" eid="0"/>
-        <error xtype="upper4lower-common" idx="1-2" eid="0"/>
+      </errors>
+  </revision>
+  <c>,</c>
+  <revision id="2b">
+    <original><w>Stóner</w><w>metall</w></original>
+    <corrected><w>stóner-metal</w></corrected>
+      <errors>
+        <error xtype="missing-hyphen" idx="2b-1" eid="0"/>
+        <error xtype="upper4lower-common" idx="2b-1" eid="0"/>
       </errors>
   </revision>
   <w>eða</w>
@@ -235,12 +242,18 @@
   <w>segir</w>
   <w>að</w>
   <revision id="13">
-    <original><w>Stóner</w><w>rokkið</w><w>er</w></original>
-    <corrected><w>stóner-rokkið</w><w>sé</w></corrected>
+    <original><w>Stóner</w><w>rokkið</w></original>
+    <corrected><w>stóner-rokkið</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="35-1" eid="0"/>
         <error xtype="missing-hyphen" idx="35-1" eid="0"/>
-        <error xtype="ind4sub" idx="35-2" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="13b">
+    <original><w>er</w></original>
+    <corrected><w>sé</w></corrected>
+      <errors>
+        <error xtype="ind4sub" eid="0"/>
       </errors>
   </revision>
   <w>undir</w>
@@ -303,12 +316,18 @@
   <w>kenndar</w>
   <w>við</w>
   <revision id="16">
-    <original><w>stofnun</w><w>Stóner</w><w>rokksins</w></original>
-    <corrected><w>uppruna</w><w>stóner-rokksins</w></corrected>
+    <original><w>stofnun</w></original>
+    <corrected><w>uppruna</w></corrected>
       <errors>
-        <error xtype="wording" idx="18-1" eid="0"/>
-        <error xtype="upper4lower-common" idx="18-2" eid="0"/>
-        <error xtype="missing-hyphen" idx="18-2" eid="0"/>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="16b">
+    <original><w>Stóner</w><w>rokksins</w></original>
+    <corrected><w>stóner-rokksins</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" idx="16b-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="16b-1" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -411,12 +430,18 @@
   <w>að</w>
   <w>rætur</w>
   <revision id="23">
-    <original><w>Stóner</w><w>rokks</w><w>felast</w></original>
-    <corrected><w>stóner-rokks</w><w>felist</w></corrected>
+    <original><w>Stóner</w><w>rokks</w></original>
+    <corrected><w>stóner-rokks</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="38-1" eid="0"/>
         <error xtype="missing-hyphen" idx="38-1" eid="0"/>
-        <error xtype="ind4sub" idx="38-2" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="23b">
+    <original><w>felast</w></original>
+    <corrected><w>felist</w></corrected>
+      <errors>
+        <error xtype="ind4sub" eid="0"/>
       </errors>
   </revision>
   <w>í</w>
@@ -720,12 +745,18 @@
   <w>tengd</w>
   <w>við</w>
   <revision id="39">
-    <original><w>stofnun</w><w>Stóner</w><w>rokks</w></original>
-    <corrected><w>uppruna</w><w>stóner-rokks</w></corrected>
+    <original><w>stofnun</w></original>
+    <corrected><w>uppruna</w></corrected>
       <errors>
         <error xtype="wording" idx="31-1" eid="0"/>
-        <error xtype="upper4lower-common" idx="31-2" eid="0"/>
-        <error xtype="missing-hyphen" idx="31-2" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="39b">
+    <original><w>Stóner</w><w>rokks</w></original>
+    <corrected><w>stóner-rokks</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" idx="39b-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="39b-1" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -758,11 +789,17 @@
   <w>einnig</w>
   <w>mótun</w>
   <revision id="42">
-    <original><w>Þungarokks</w><w>yfir</w><w>höfuð</w></original>
-    <corrected><w>þungarokks</w><w>yfirhöfuð</w></corrected>
+    <original><w>Þungarokks</w></original>
+    <corrected><w>þungarokks</w></corrected>
       <errors>
-        <error xtype="upper4lower-common" idx="29-1" eid="0"/>
-        <error xtype="split-compound" idx="29-2" eid="0"/>
+        <error xtype="upper4lower-common" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="42b">
+    <original><w>yfir</w><w>höfuð</w></original>
+    <corrected><w>yfirhöfuð</w></corrected>
+      <errors>
+        <error xtype="split-word" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -1403,11 +1440,17 @@
   <w>áhuga</w>
   <w>á</w>
   <revision id="67">
-    <original><w>Þungarokki</w><c>,</c></original>
-    <corrected><w>þungarokki</w><w>og</w></corrected>
+    <original><w>Þungarokki</w></original>
+    <corrected><w>þungarokki</w></corrected>
       <errors>
-        <error xtype="upper4lower-common" idx="49-1" eid="0"/>
-        <error xtype="comma4conjunction" idx="49-2" eid="0"/>
+        <error xtype="upper4lower-common" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="67b">
+    <original><c>,</c></original>
+    <corrected><w>og</w></corrected>
+      <errors>
+        <error xtype="comma4conjunction" eid="0"/>
       </errors>
   </revision>
   <w>reyndi</w>
@@ -1434,12 +1477,18 @@
   <w>varð</w>
   <w>strax</w>
   <revision id="68">
-    <original><w>elskuð</w><w>af</w><w>aðdáendum</w><w>Stóner</w><w>rokks</w></original>
-    <corrected><w>vinsæl</w><w>meðal</w><w>aðdáenda</w><w>stóner-rokks</w></corrected>
+    <original><w>elskuð</w><w>af</w><w>aðdáendum</w></original>
+    <corrected><w>vinsæl</w><w>meðal</w><w>aðdáenda</w></corrected>
       <errors>
-        <error xtype="wording" idx="60-1" eid="0"/>
-        <error xtype="upper4lower-common" idx="60-2" eid="0"/>
-        <error xtype="missing-hyphen" idx="60-2" eid="0"/>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="68b">
+    <original><w>Stóner</w><w>rokks</w></original>
+    <corrected><w>stóner-rokks</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" idx="68b-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="68b-1" eid="0"/>
       </errors>
   </revision>
   <w>og</w>

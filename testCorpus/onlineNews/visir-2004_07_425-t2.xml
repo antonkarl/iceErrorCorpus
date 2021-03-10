@@ -302,10 +302,16 @@
   <w>bæklingurinn</w>
   <w>aðgengilegur</w>
   <revision id="8">
-    <original><w>Netinu</w></original>
-    <corrected><w>á</w><w>netinu</w></corrected>
+    <original></original>
+    <corrected><w>á</w></corrected>
       <errors>
         <error xtype="missing-word" eid="0" />
+      </errors>
+  </revision>
+  <revision id="8b">
+    <original><w>Netinu</w></original>
+    <corrected><w>netinu</w></corrected>
+      <errors>
         <error xtype="upper4lower-common" eid="0" />
       </errors>
   </revision>

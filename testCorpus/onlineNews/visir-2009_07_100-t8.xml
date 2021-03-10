@@ -77,9 +77,15 @@
   <w>4.</w>
   <revision id="2">
     <original><w>Mínútu</w></original>
-    <corrected><w>mínútu</w><c>,</c></corrected>
+    <corrected><w>mínútu</w>></corrected>
       <errors>
         <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
+  <revision id="2b">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
         <error xtype="missing-comma" eid="0" />
       </errors>
   </revision>

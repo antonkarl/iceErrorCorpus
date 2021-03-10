@@ -420,11 +420,17 @@
   <w>eða</w>
   <w>lægri</w>
   <revision id="21">
-    <original><w>Iífverur</w><c>,</c></original>
+    <original><w>Iífverur</w></original>
     <corrected><w>lífverur</w></corrected>
       <errors>
-        <error xtype="letter-rep" idx="123-1" eid="0"/>
-        <error xtype="upper4lower-common" idx="123-1" eid="0"/>
+        <error xtype="letter-rep" idx="21-1" eid="0"/>
+        <error xtype="upper4lower-common" idx="21-1" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="21b">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
         <error xtype="extra-comma" eid="0"/>
       </errors>
   </revision>

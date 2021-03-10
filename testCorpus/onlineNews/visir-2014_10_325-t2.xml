@@ -242,11 +242,17 @@
   <w>1983</w>
   <c>)</c>
   <revision id="9">
-    <original><w>Hrollvekja</w></original>
-    <corrected><w>er</w><w>hrollvekja</w></corrected>
+    <original></original>
+    <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="7-1" eid="0"/>
-        <error xtype="upper4lower-common" idx="7-2" eid="0"/>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="9">
+    <original><w>Hrollvekja</w></original>
+    <corrected><w>hrollvekja</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0"/>
       </errors>
   </revision>
   <w>eftir</w>
@@ -421,11 +427,17 @@
   <w>1985</w>
   <c>)</c>
   <revision id="14">
-    <original><w>Sjónvarpsmynd</w></original>
-    <corrected><w>er</w><w>sjónvarpsmynd</w></corrected>
+    <original></original>
+    <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="10-1" eid="0"/>
-        <error xtype="upper4lower-common" idx="10-2" eid="0"/>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="14b">
+    <original><w>Sjónvarpsmynd</w></original>
+    <corrected><w>sjónvarpsmynd</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0"/>
       </errors>
   </revision>
   <w>sem</w>
@@ -607,11 +619,17 @@
   <w>1988</w>
   <c>)</c>
   <revision id="20">
-    <original><w>Sjónvarpsmynd</w></original>
-    <corrected><w>er</w><w>sjónvarpsmynd</w></corrected>
+    <original></original>
+    <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="12-1" eid="0"/>
-        <error xtype="upper4lower-common" idx="12-2" eid="0"/>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="20">
+    <original><w>Sjónvarpsmynd</w></original>
+    <corrected><w>sjónvarpsmynd</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0"/>
       </errors>
   </revision>
   <w>sem</w>
