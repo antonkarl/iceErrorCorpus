@@ -857,7 +857,13 @@
   <c>,</c>
   <w>tölvur</w>
   <w>og</w>
-  <w>internet</w>
+  <revision id="11b">
+    <original><w>internet</w></original>
+    <corrected><w>Internet</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
   <revision id="12">
     <original/>
     <corrected><c>,</c></corrected>

@@ -734,7 +734,13 @@
 </s><s n="29">
   <w>Fyrir</w>
   <w>tíma</w>
-  <w>internetsins</w>
+  <revision id="20b">
+    <original><w>internetsins</w></original>
+    <corrected><w>Internetsins</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
   <w>var</w>
   <w>þetta</w>
   <w>einn</w>

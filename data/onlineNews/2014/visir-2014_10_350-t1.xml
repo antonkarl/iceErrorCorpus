@@ -645,7 +645,13 @@
   <w>tilveru</w>
   <w>mína</w>
   <w>á</w>
-  <w>internetinu</w>
+  <revision id="34b">
+    <original><w>internetinu</w></original>
+    <corrected><w>Internetinu</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>frekar</w>
   <w>en</w>

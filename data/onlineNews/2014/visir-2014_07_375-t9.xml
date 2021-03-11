@@ -98,7 +98,13 @@
   <w>tímabili</w>
   <w>voru</w>
   <w>venjulegir</w>
-  <w>internetnotendur</w>
+  <revision id="1b">
+    <original><w>internetnotendur</w></original>
+    <corrected><w>Internetnotendur</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
   <w>sem</w>
   <w>höfðu</w>
   <w>engin</w>
@@ -345,7 +351,13 @@
   <w>fimm</w>
   <w>öðrum</w>
   <w>leiðandi</w>
-  <w>internetfyrirtækjum</w>
+  <revision id="2">
+    <original><w>internetfyrirtækjum</w></original>
+    <corrected><w>Internetfyrirtækjum</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
   <w>vestanhafs</w>
   <w>og</w>
   <w>Upstream</w>

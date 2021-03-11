@@ -322,13 +322,25 @@
   <w>Þar</w>
   <w>er</w>
   <w>tilkoma</w>
-  <w>internetsins</w>
+  <revision id="8b">
+    <original><w>internetsins</w></original>
+    <corrected><w>Internetsins</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
   <w>gífurlega</w>
   <w>mikilvægur</w>
   <w>þáttur</w>
   <w>en</w>
   <w>á</w>
-  <w>internetinu</w>
+  <revision id="8c">
+    <original><w>internetinu</w></original>
+    <corrected><w>Internetinu</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
   <w>eru</w>
   <w>ótal</w>
   <w>leiðir</w>
@@ -942,7 +954,13 @@
   <w>kraft</w>
   <w>og</w>
   <w>áhrif</w>
-  <w>internetsins</w>
+  <revision id="20b">
+    <original><w>internetsins</w></original>
+    <corrected><w>Internetsins</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
   <w>á</w>
   <w>tónlistarheiminn</w>
   <c>.</c>

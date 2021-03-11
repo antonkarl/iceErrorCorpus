@@ -985,9 +985,9 @@
   <c>,</c>
   <revision id="28">
     <original><w>internetmiðla</w></original>
-    <corrected><w>internetmiðlar</w></corrected>
+    <corrected><w>Internetmiðlar</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" idx="3-1" eid="0"/>
+        <error xtype="lower4upper-proper" idx="3-1" eid="0"/>
         <error xtype="missing-letter" idx="3-1" eid="0"/>
       </errors>
   </revision>

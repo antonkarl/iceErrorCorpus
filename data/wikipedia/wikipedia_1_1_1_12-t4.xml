@@ -166,7 +166,13 @@
   <w>byltingakenndar</w>
   <w>eins</w>
   <w>og</w>
-  <w>internetið</w>
+  <revision id="7b">
+    <original><w>internetið</w></original>
+    <corrected><w>Internetið</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
   <w>þegar</w>
   <w>það</w>
   <w>fór</w>

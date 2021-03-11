@@ -1855,12 +1855,18 @@
   </revision>
   <w>heldur</w>
   <revision id="94">
-    <original><w>var</w><w>það</w><w>japaninn</w></original>
-    <corrected><w>má</w><w>einnig</w><w>nefna</w><w>Japanann</w></corrected>
+    <original><w>var</w><w>það</w></original>
+    <corrected><w>má</w><w>einnig</w></corrected>
       <errors>
         <error xtype="wording" idx="94-1" eid="0" />
-        <error xtype="lower4upper-proper" idx="94-2" eid="0" />
-        <error xtype="nominal-inflection" idx="94-2" eid="0" />
+      </errors>
+  </revision>
+  <revision id="94b">
+    <original><w>japaninn</w></original>
+    <corrected><w>Japanann</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+        <error xtype="dep" depId="94-1" eid="0" />
       </errors>
   </revision>
   <w>Nobuo</w>
@@ -2345,11 +2351,17 @@
   <w>Hann</w>
   <w>vann</w>
   <revision id="119">
-    <original><w>óskarsverðlaun</w><w>síðar</w></original>
+    <original><w>óskarsverðlaun</w></original>
     <corrected><w>Óskarsverðlaun</w></corrected>
       <errors>
-        <error xtype="lower4upper-proper" idx="119-1" eid="0" />
-        <error xtype="extra-word" idx="119-2" eid="0" />
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
+  <revision id="119b">
+    <original><w>síðar</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
       </errors>
   </revision>
   <w>árið 2011</w>

@@ -205,7 +205,13 @@
   <w>sem</w>
   <w>er</w>
   <w>sérhannað</w>
-  <w>internet</w>
+  <revision id="5b">
+    <original><w>internet</w></original>
+    <corrected><w>Internet</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
   <w>fyrir</w>
   <w>farsíma</w>
   <c>.</c>

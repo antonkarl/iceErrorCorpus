@@ -188,7 +188,13 @@
   <w>ekki</w>
   <w>geta</w>
   <w>tengst</w>
-  <w>internetinu</w>
+  <revision id="4">
+    <original><w>internetinu</w></original>
+    <corrected><w>Internetinu</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 </p></body></text>

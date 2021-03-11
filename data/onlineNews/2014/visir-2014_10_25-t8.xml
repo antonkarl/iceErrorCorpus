@@ -272,7 +272,13 @@
   <w>dag</w>
   <w>svo</w>
   <w>sem</w>
-  <w>interneti</w>
+  <revision id="5b">
+    <original><w>interneti</w></original>
+    <corrected><w>Interneti</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
   <w>og</w>
   <w>fleiru</w>
   <c>.</c>
