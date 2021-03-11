@@ -80,11 +80,17 @@
   <w>næsta</w>
   <w>þingi</w>
   <revision id="0">
-    <original><w>sameinuðu</w><w>þjóðana</w></original>
-    <corrected><w>Sameinuðu</w><w>þjóðanna</w></corrected>
+    <original><w>sameinuðu</w></original>
+    <corrected><w>Sameinuðu</w></corrected>
       <errors>
-        <error xtype="lower4upper-proper" idx="0-1" eid="0" />
-        <error xtype="n4nn" idx="0-2" eid="0" />
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
+  <revision id="0b">
+    <original><w>þjóðana</w></original>
+    <corrected><w>þjóðanna</w></corrected>
+      <errors>
+        <error xtype="n4nn" eid="0" />
       </errors>
   </revision>
   <c>.</c>

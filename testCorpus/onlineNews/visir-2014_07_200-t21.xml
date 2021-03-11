@@ -768,10 +768,16 @@
   <w>í</w>
   <revision id="32">
     <original><w>fellunum</w></original>
-    <corrected><w>Fellunum</w><c>,</c></corrected>
+    <corrected><w>Fellunum</w></corrected>
       <errors>
-        <error xtype="lower4upper-proper" idx="32-1" eid="0" />
-        <error xtype="missing-comma" idx="32-2" eid="0" />
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
+  <revision id="32b">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
       </errors>
   </revision>
   <w>þar</w>

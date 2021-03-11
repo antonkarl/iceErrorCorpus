@@ -98,11 +98,18 @@
   </revision>
   <c>,</c>
   <revision id="3">
-    <original><w>íslenski</w><w>draumurinn</w></original>
-    <corrected><w><hi>Íslenski</hi></w><w><hi>draumurinn</hi></w></corrected>
+    <original><w>íslenski</w></original>
+    <corrected><w><hi>Íslenski</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" idx="3-1" eid="0" />
         <error xtype="lower4upper-proper" idx="3-1" eid="0" />
+      </errors>
+  </revision>
+  <revision id="3b">
+    <original><w>draumurinn</w></original>
+    <corrected><w><hi>draumurinn</hi></w></corrected>
+      <errors>
+        <error xtype="nonit4it" eid="0" />
       </errors>
   </revision>
   <w>og</w>

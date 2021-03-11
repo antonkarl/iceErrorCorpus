@@ -52,7 +52,8 @@
     <original><w>manchu</w></original>
     <corrected><w>Manchu</w></corrected>
       <errors>
-        <error xtype="lower4upper-proper" eid="0"/>
+        <error xtype="lower4upper-proper" idx="1-1" eid="0"/>
+        <error xtype="foreign-name" idx="1-1" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
@@ -279,7 +280,8 @@
     <original><w>purple</w></original>
     <corrected><w>Purple</w></corrected>
       <errors>
-        <error xtype="lower4upper-proper" eid="0"/>
+        <error xtype="lower4upper-proper" idx="15-1" eid="0"/>
+        <error xtype="foreign-name" idx="15-1" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
@@ -1728,9 +1730,15 @@
   <w>frá</w>
   <revision id="84">
     <original><w>evrópu</w></original>
-    <corrected><w>Evrópu</w><w>og</w><w>víðar</w></corrected>
+    <corrected><w>Evrópu</w></corrected>
       <errors>
-        <error xtype="lower4upper-proper" idx="93-1" eid="0"/>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="84b">
+    <original></original>
+    <corrected><w>og</w><w>víðar</w></corrected>
+      <errors>
         <error xtype="dep" depId="92-1" eid="0"/>
       </errors>
   </revision>
@@ -1982,7 +1990,8 @@
     <original><w>records</w></original>
     <corrected><w>Records</w></corrected>
       <errors>
-        <error xtype="lower4upper-proper" eid="0"/>
+        <error xtype="lower4upper-proper" idx="102-1" eid="0"/>
+        <error xtype="foreign-name" idx="102-1" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
