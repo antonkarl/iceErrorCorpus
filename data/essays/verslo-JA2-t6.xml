@@ -732,10 +732,16 @@
   <w>Bush</w>
   <revision id="19">
     <original><w>bandaríkjaforseta</w></original>
-    <corrected><w>Bandaríkjaforseta</w><w>til</w></corrected>
+    <corrected><w>Bandaríkjaforseta</w></corrected>
       <errors>
-        <error xtype="lower4upper-proper" idx="3-1" eid="0"/>
-        <error xtype="nonword" idx="3-1" eid="0"/>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="19b">
+    <original></original>
+    <corrected><w>til</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
       </errors>
   </revision>
   <w>að</w>

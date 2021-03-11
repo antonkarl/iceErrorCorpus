@@ -671,9 +671,15 @@
   </revision>
   <revision id="20">
     <original><w><hi>stjörnuna</hi></w></original>
-    <corrected><w><hi>Stjörnuna</hi></w><c>,</c></corrected>
+    <corrected><w><hi>Stjörnuna</hi></w></corrected>
       <errors>
         <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="20b">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
         <error xtype="missing-comma" eid="0"/>
       </errors>
   </revision>

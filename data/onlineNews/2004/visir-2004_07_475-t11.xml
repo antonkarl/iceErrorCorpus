@@ -75,10 +75,16 @@
   <w>stjórnarandstöðunni</w>
   <w>á</w>
   <revision id="1">
-    <original><w>alþingi</w><w>í</w></original>
+    <original><w>alþingi</w></original>
     <corrected><w>Alþingi</w></corrected>
       <errors>
         <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
+  <revision id="1b">
+    <original><w>í</w></original>
+    <corrected></corrected>
+      <errors>
         <error xtype="extra-word" eid="0" />
       </errors>
   </revision>

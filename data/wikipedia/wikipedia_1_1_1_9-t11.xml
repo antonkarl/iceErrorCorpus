@@ -663,12 +663,19 @@
   <w>Stokkseyrarhreppi</w>
   <w>undir</w>
   <revision id="8">
-    <original><w>merkjum</w><c>"</c><w>sveitarfélagsins</w><w>Árborgar</w><c>"</c></original>
-    <corrected><w>nafninu</w><w>Sveitarfélagið</w><w>Árborg</w></corrected>
+    <original><w>merkjum</w></original>
+    <corrected><w>nafninu</w></corrected>
       <errors>
-        <error xtype="wording" idx="4-1" eid="0"/>
-        <error xtype="extra-quots" idx="4-2" eid="0"/>
-        <error xtype="lower4upper-proper" idx="4-3" eid="0"/>
+        <error xtype="wording" idx="8-1" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="9">
+    <original><c>"</c><w>sveitarfélagsins</w><w>Árborgar</w><c>"</c></original>
+    <corrected><w>Sveitarfélagið</w><w>Árborg</w></corrected>
+      <errors>
+        <error xtype="extra-quots" idx="9-1" eid="0"/>
+        <error xtype="lower4upper-proper" idx="9-2" eid="0"/>
+        <error xtype="dep" depId="8-1" eid="0"/>
       </errors>
   </revision>
   <c>.</c>

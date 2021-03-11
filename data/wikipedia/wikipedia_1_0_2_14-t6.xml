@@ -562,12 +562,24 @@
   <w>stendur</w>
   <w>á</w>
   <revision id="19">
-    <original><w>langahrygg</w><w>og</w><w>svo</w><w>beina</w><w>stefnu</w><w>úr</w><w>honum</w></original>
-    <corrected><w>Langahrygg</w><c>.</c><w>Þaðan</w><w>er</w><w>bein</w><w>leið</w></corrected>
+    <original><w>langahrygg</w></original>
+    <corrected><w>Langahrygg</w></corrected>
       <errors>
-        <error xtype="lower4upper-proper" idx="17-1" eid="0"/>
-        <error xtype="conjunction4period" idx="17-2" eid="0"/>
-        <error xtype="wording" idx="17-3" eid="0"/>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="19b">
+    <original><w>og</w><w>svo</w><w>beina</w><w>stefnu</w><w>úr</w><w>honum</w></original>
+    <corrected><c>.</c><w>Þaðan</w><w>er</w><w>bein</w><w>leið</w></corrected>
+      <errors>
+        <error xtype="conjunction4period" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="19c">
+    <original><w>svo</w><w>beina</w><w>stefnu</w><w>úr</w><w>honum</w></original>
+    <corrected><w>Þaðan</w><w>er</w><w>bein</w><w>leið</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
       </errors>
   </revision>
   <w>til</w>

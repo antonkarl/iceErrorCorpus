@@ -149,10 +149,16 @@
 </s><s n="6">
   <w>Kaflar</w>
   <revision id="4b">
-    <original><w>fyrstu</w><w>mósebókar</w></original>
-    <corrected><w>Fyrstu</w><w>Mósebókar</w></corrected>
+    <original><w>fyrstu</w></original>
+    <corrected><w>Fyrstu</w></corrected>
       <errors>
         <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="4c">
+    <original><w>mósebókar</w></original>
+    <corrected><w>Mósebókar</w></corrected>
+      <errors>
         <error xtype="lower4upper-proper" eid="0"/>
       </errors>
   </revision>

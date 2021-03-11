@@ -76,10 +76,16 @@
   <w>var</w>
   <w>starfsemi</w>
   <revision id="1">
-    <original><w>hegningarhússins</w><w>hætt</w></original>
-    <corrected><w>Hegningarhússins</w><w>lögð</w><w>niður</w></corrected>
+    <original><w>hegningarhússins</w></original>
+    <corrected><w>Hegningarhússins</w></corrected>
       <errors>
         <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
+  <revision id="1b">
+    <original><w>hætt</w></original>
+    <corrected><w>lögð</w><w>niður</w></corrected>
+      <errors>
         <error xtype="wording" eid="0" />
       </errors>
   </revision>

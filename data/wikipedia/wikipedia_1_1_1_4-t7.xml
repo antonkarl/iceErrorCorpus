@@ -698,10 +698,16 @@
   <w>sem</w>
   <w>hét</w>
   <revision id="29">
-    <original><c>"</c><w>leiðarvísir</w></original>
-    <corrected><c>„</c><w>Leiðarvísir</w></corrected>
+    <original><c>"</c></original>
+    <corrected><c>„</c></corrected>
       <errors>
-        <error xtype="wrong-quots" idx="13-1" eid="0"/>
+        <error xtype="wrong-quots" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="29b">
+    <original><w>leiðarvísir</w></original>
+    <corrected><w>Leiðarvísir</w></corrected>
+      <errors>
         <error xtype="lower4upper-proper" eid="0"/>
       </errors>
   </revision>

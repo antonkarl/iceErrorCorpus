@@ -173,11 +173,18 @@
   <w>Í</w>
   <w>tilkynningu</w>
   <revision id="1">
-    <original><w>fra</w><w>bandaríkjaher</w></original>
-    <corrected><w>frá</w><w>Bandaríkjaher</w></corrected>
+    <original><w>fra</w></original>
+    <corrected><w>frá</w></corrected>
       <errors>
         <error xtype="missing-accent" idx="1-1" eid="0" />
-        <error xtype="lower4upper-proper" idx="1-2" eid="0" />
+        <error xtype="nonword" idx="1-1" eid="0" />
+      </errors>
+  </revision>
+  <revision id="1b">
+    <original><w>bandaríkjaher</w></original>
+    <corrected><w>Bandaríkjaher</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
       </errors>
   </revision>
   <w>segir</w>

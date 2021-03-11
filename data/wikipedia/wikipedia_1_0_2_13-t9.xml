@@ -857,7 +857,8 @@
     <original><w><hi>scomber</hi></w></original>
     <corrected><w><hi>Scomber</hi></w></corrected>
       <errors>
-        <error xtype="lower4upper-proper" eid="0"/>
+        <error xtype="lower4upper-proper" idx="55-1" eid="0"/>
+        <error xtype="foreign-name" idx="55-1" eid="0"/>
       </errors>
   </revision>
   <w><hi>scombrus</hi></w>

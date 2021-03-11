@@ -2768,11 +2768,18 @@
   <w>fyrsta</w>
   <w>tölublaðs</w>
   <revision id="99">
-    <original><w><hi>playboy</hi></w><w>þar</w><w>sem</w><w>myndir</w><w>af</w><w>henni</w></original>
-    <corrected><w><hi>Playboy</hi></w><w>en</w><w>í</w><w>því</w><w>blaði</w></corrected>
+    <original><w><hi>playboy</hi></w></original>
+    <corrected><w><hi>Playboy</hi></w></corrected>
       <errors>
-        <error xtype="lower4upper-proper" eid="0" />
-        <error xtype="wording" idx="99-1" eid="0" />
+        <error xtype="lower4upper-proper" idx="99-1" eid="0" />
+        <error xtype="foreign-name" idx="99-1" eid="0" />
+      </errors>
+  </revision>
+  <revision id="99b">
+    <original><w>þar</w><w>sem</w><w>myndir</w><w>af</w><w>henni</w></original>
+    <corrected><w>en</w><w>í</w><w>því</w><w>blaði</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
       </errors>
   </revision>
   <w>voru</w>
@@ -4594,14 +4601,33 @@
   </revision>
   <w>leikritinu</w>
   <revision id="227">
-    <original><w>Anna</w><w>christie</w><w>sem</w></original>
-    <corrected><w><hi>Anna</hi></w><w><hi>Christie</hi></w><w>og</w><w>átti</w></corrected>
+    <original><w>Anna</w></original>
+    <corrected><w><hi>Anna</hi></w></corrected>
       <errors>
-        <error xtype="nonit4it" idx="227-1" eid="0" />
-        <error xtype="lower4upper-proper" idx="227-1" eid="0" />
-        <error xtype="foreign-name" idx="227-1" eid="0" />
+        <error xtype="nonit4it" eid="0" />
+      </errors>
+  </revision>
+  <revision id="227b">
+    <original><w>christie</w></original>
+    <corrected><w><hi>Christie</hi></w></corrected>
+      <errors>
+        <error xtype="nonit4it" idx="227b-1" eid="0" />
+        <error xtype="lower4upper-proper" idx="227b-1" eid="0" />
+        <error xtype="foreign-name" idx="227b-1" eid="0" />
+      </errors>
+  </revision>
+  <revision id="227c">
+    <original><w>sem</w></original>
+    <corrected><w>og</w></corrected>
+      <errors>
         <error xtype="conjunction" eid="0" />
-        <error xtype="wording" idx="227-2" eid="0" />
+      </errors>
+  </revision>
+  <revision id="227d">
+    <original></original>
+    <corrected><w>átti</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
       </errors>
   </revision>
   <w>Marilyn</w>
@@ -6793,7 +6819,8 @@
     <original><w><hi>cosmopolitan</hi></w></original>
     <corrected><w><hi>Cosmopolitan</hi></w></corrected>
       <errors>
-        <error xtype="lower4upper-proper" eid="0" />
+        <error xtype="lower4upper-proper" idx="362-1" eid="0" />
+        <error xtype="foreign-name" idx="362-1" eid="0" />
       </errors>
   </revision>
   <c>,</c>

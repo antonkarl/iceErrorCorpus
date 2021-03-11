@@ -2441,18 +2441,20 @@
     <original><w>a</w></original>
     <corrected><w>A</w></corrected>
       <errors>
-        <error xtype="lower4upper-proper" eid="0"/>
+        <error xtype="lower4upper-acro" eid="0"/>
       </errors>
   </revision>
   <w>til</w>
   <revision id="65">
-    <original><w>ö</w><c>.</c></original>
-    <corrected><w>Ö.</w></corrected>
+    <original><w>ö</w></original>
+    <corrected><w>Ö</w></corrected>
       <errors>
-        <error xtype="lower4upper-proper" idx="12-1" eid="0"/>
-        <erra xtype="extra-period" idx="12-2" eid="0"/>
+        <error xtype="lower4upper-acro" eid="0"/>
       </errors>
   </revision>
+  <c>.</c>
+</s>
+<s n="112c">
   <w>Við</w>
   <w>vorum</w>
   <w>bara</w>

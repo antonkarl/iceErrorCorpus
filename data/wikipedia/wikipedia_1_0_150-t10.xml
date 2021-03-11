@@ -566,11 +566,17 @@
   <w>sú</w>
   <w>að</w>
   <revision id="15">
-    <original><w>þjóðernishiggja</w><w>berba</w></original>
-    <corrected><w>þjóðernishyggja</w><w>Berba</w></corrected>
+    <original><w>þjóðernishiggja</w></original>
+    <corrected><w>þjóðernishyggja</w></corrected>
       <errors>
         <error xtype="nonword" idx="15-1" eid="0" />
         <error xtype="i4y" idx="15-1" eid="0" />
+      </errors>
+  </revision>
+  <revision id="15b">
+    <original><w>berba</w></original>
+    <corrected><w>Berba</w></corrected>
+      <errors>
         <error xtype="lower4upper-proper" eid="0" />
       </errors>
   </revision>

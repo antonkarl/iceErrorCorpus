@@ -165,12 +165,30 @@
   <w>Kadee</w>
   <c>,</c>
   <revision id="4">
-    <original><w>útlægum</w><w>leiðtoga</w><w>úígúra</w></original>
-    <corrected><w>útlægur</w><w>leiðtogi</w><w>Úígúra</w><c>,</c></corrected>
+    <original><w>útlægum</w></original>
+    <corrected><w>útlægur</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
+  <revision id="4b">
+    <original><w>leiðtoga</w></original>
+    <corrected><w>leiðtogi</w></corrected>
+      <errors>
         <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
+  <revision id="4c">
+    <original><w>úígúra</w></original>
+    <corrected><w>Úígúra</w></corrected>
+      <errors>
         <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
+  <revision id="4d">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
         <error xtype="missing-comma" eid="0" />
       </errors>
   </revision>

@@ -1132,10 +1132,16 @@
   <w>í</w>
   <w>eigu</w>
   <revision id="15">
-    <original><c>“</c><w>sameinaða</w></original>
+    <original><c>“</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-quots" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="15b">
+    <original><w>sameinaða</w></original>
     <corrected><w>Sameinaða</w></corrected>
       <errors>
-        <error xtype="extra-quots" idx="5-1" eid="0"/>
         <error xtype="lower4upper-proper" eid="0"/>
       </errors>
   </revision>

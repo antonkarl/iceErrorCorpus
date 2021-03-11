@@ -250,11 +250,17 @@
   <w>sælgæti</w>
   <c>,</c>
   <revision id="9">
-    <original><w>það</w><w>er</w><w>að</w><w>segja</w><w>ópal</w></original>
-    <corrected><w>þ.e.a.s</w><c>.</c><w>Ópal</w></corrected>
+    <original><w>það</w><w>er</w><w>að</w><w>segja</w></original>
+    <corrected><w>þ.e.a.s.</w></corrected>
       <errors>
-        <error xtype="words4abbreviation" idx="9-1" eid="0" />
-        <error xtype="lower4upper-proper" idx="9-2" eid="0" />
+        <error xtype="words4abbreviation" eid="0" />
+      </errors>
+  </revision>
+  <revision id="9b">
+    <original><w>ópal</w></original>
+    <corrected><w>Ópal</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
       </errors>
   </revision>
   <c>,</c>

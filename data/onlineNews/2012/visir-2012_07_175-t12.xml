@@ -377,10 +377,16 @@
   <w>í</w>
   <revision id="6">
     <original><w>suðvesturkjördæmi</w></original>
-    <corrected><w>Suðvesturkjördæmi</w><c>.</c></corrected>
+    <corrected><w>Suðvesturkjördæmi</w></corrected>
       <errors>
-        <error xtype="lower4upper-proper" idx="6-1" eid="0" />
-        <error xtype="missing-period" idx="6-2" eid="0" />
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
+  <revision id="6b">
+    <original></original>
+    <corrected><c>.</c></corrected>
+      <errors>
+        <error xtype="missing-period" eid="0" />
       </errors>
   </revision>
   <w>Öll</w>

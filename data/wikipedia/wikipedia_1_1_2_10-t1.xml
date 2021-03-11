@@ -1549,12 +1549,18 @@
   <w>síðar</w>
   <w>en</w>
   <revision id="53">
-    <original><w>ǫrn</w><c>.</c></original>
+    <original><c>.</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-period" eid="0" />
+      </errors>
+  </revision>
+  <revision id="53b">
+    <original><w>ǫrn</w></original>
     <corrected><w>Örn</w></corrected>
       <errors>
         <error xtype="lower4upper-proper" idx="53-1" eid="0" />
         <error xtype="letter-rep" idx="53-1" eid="0" />
-        <error xtype="extra-period" idx="53-2" eid="0" />
       </errors>
   </revision>
   <w>Ánn</w>

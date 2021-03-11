@@ -219,12 +219,18 @@
 </s><s n="7">
   <w>Þessi</w>
   <revision id="7">
-    <original><w>tilllaga</w><w>danska</w></original>
-    <corrected><w>tillaga</w><w>Danska</w></corrected>
+    <original><w>tilllaga</w></original>
+    <corrected><w>tillaga</w></corrected>
       <errors>
         <error xtype="extra-letter" idx="7-1" eid="0"/>
         <error xtype="nonword" idx="7-1" eid="0"/>
-        <error xtype="lower4upper-proper" idx="7-2" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="7">
+    <original><w>danska</w></original>
+    <corrected><w>Danska</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
       </errors>
   </revision>
   <w>þjóðarflokksins</w>

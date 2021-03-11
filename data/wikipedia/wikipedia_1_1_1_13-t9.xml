@@ -301,12 +301,30 @@
   <w>Vestur-Berlín</w>
   <c>,</c>
   <revision id="12">
-    <original><w>part</w><w>vesturveldanna</w><c>,</c></original>
-    <corrected><w>yfirráðasvæði</w><w>Vesturveldanna</w><c>(</c><w>þ.e.</w></corrected>
+    <original><w>part</w></original>
+    <corrected><w>yfirráðasvæði</w></corrected>
       <errors>
         <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="12b">
+    <original><w>vesturveldanna</w></original>
+    <corrected><w>Vesturveldanna</w></corrected>
+      <errors>
         <error xtype="lower4upper-proper" eid="0"/>
-        <error xtype="comma4bracket" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="12c">
+    <original><c>,</c></original>
+    <corrected><c>(</c></corrected>
+      <errors>
+        <error xtype="comma4bracket" idx="12c-1" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="12d">
+    <original></original>
+    <corrected><w>þ.e.</w></corrected>
+      <errors>
         <error xtype="missing-word" eid="0"/>
       </errors>
   </revision>
@@ -319,7 +337,7 @@
     <original/>
     <corrected><c>)</c></corrected>
       <errors>
-        <error xtype="missing-bracket" eid="0"/>
+        <error xtype="dep" depId="12c-1" eid="0"/>
       </errors>
   </revision>
   <c>,</c>
@@ -406,10 +424,16 @@
   <w>og</w>
   <w>þurftu</w>
   <revision id="17">
-    <original><w>vesturveldin</w><w>einhvernveginn</w></original>
-    <corrected><w>Vesturveldin</w><w>einhvern</w><w>veginn</w></corrected>
+    <original><w>vesturveldin</w></original>
+    <corrected><w>Vesturveldin</w></corrected>
       <errors>
         <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="17b">
+    <original><w>einhvernveginn</w></original>
+    <corrected><w>einhvern</w><w>veginn</w></corrected>
+      <errors>
         <error xtype="merged-words" eid="0"/>
       </errors>
   </revision>
@@ -1058,10 +1082,16 @@
   <w>Sovétmönnum</w>
   <w>að</w>
   <revision id="34">
-    <original><w>vesturveldin</w><w>tæki</w></original>
-    <corrected><w>Vesturveldin</w><w>tækju</w></corrected>
+    <original><w>vesturveldin</w></original>
+    <corrected><w>Vesturveldin</w></corrected>
       <errors>
         <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="34b">
+    <original><w>tæki</w></original>
+    <corrected><w>tækju</w></corrected>
+      <errors>
         <error xtype="agreement-pred" eid="0"/>
       </errors>
   </revision>

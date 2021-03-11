@@ -99,10 +99,16 @@
   <w>í</w>
   <w>sameinuð</w>
   <revision id="2">
-    <original><w>bandaríki</w><w>Norður</w><w>Ameríku</w></original>
-    <corrected><w>Bandaríki</w><w>Norður-Ameríku</w></corrected>
+    <original><w>bandaríki</w></original>
+    <corrected><w>Bandaríki</w></corrected>
       <errors>
         <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="2b">
+    <original><w>Norður</w><w>Ameríku</w></original>
+    <corrected><w>Norður-Ameríku</w></corrected>
+      <errors>
         <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>

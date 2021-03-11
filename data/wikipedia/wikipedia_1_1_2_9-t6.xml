@@ -152,13 +152,31 @@
   <w>mægðust</w>
   <w>innfæddum</w>
   <revision id="2">
-    <original><c>(</c><w>garífúnar</w><c>)</c></original>
-    <corrected><c>,</c><w>sem</w><w>voru</w><w>Garífúnar</w></corrected>
+    <original><c>(</c></original>
+    <corrected><c>,</c></corrected>
       <errors>
         <error xtype="bracket4comma" idx="2-1" eid="0" />
-        <error xtype="missing-words" idx="2-2" eid="0" />
-        <error xtype="lower4upper-proper" idx="2-3" eid="0" />
-        <error xtype="extra-bracket" idx="2-4" eid="0" />
+      </errors>
+  </revision>
+  <revision id="2b">
+    <original></original>
+    <corrected><w>sem</w><w>voru</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0" />
+      </errors>
+  </revision>
+  <revision id="2c">
+    <original><w>garífúnar</w></original>
+    <corrected><w>Garífúnar</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
+  <revision id="2d">
+    <original><c>)</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="2-1" eid="0" />
       </errors>
   </revision>
   <c>.</c>

@@ -136,10 +136,17 @@
   <w>forsætisráðherra</w>
   <w>með</w>
   <revision id="9">
-    <original><w>sjálfstæðismönnum</w><c>,</c></original>
+    <original><w>sjálfstæðismönnum</w></original>
     <corrected><w>Sjálfstæðismönnum</w></corrected>
       <errors>
         <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
+  <revision id="9b">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
       </errors>
   </revision>
   <w>samfelld</w>

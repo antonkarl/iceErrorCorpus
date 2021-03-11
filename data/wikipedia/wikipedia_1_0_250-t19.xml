@@ -387,12 +387,24 @@
   </revision>
   <w>líkari</w>
   <revision id="32">
-    <original><w>belgum</w><c>.</c><w>Hútú</w></original>
-    <corrected><w>Belgum</w><c>,</c><w>en</w><w>Hútúar</w></corrected>
+    <original><w>belgum</w></original>
+    <corrected><w>Belgum</w></corrected>
       <errors>
-        <error xtype="lower4upper-proper" idx="20-1" eid="0"/>
-        <error xtype="period4comma" idx="20-2" eid="0"/>
-        <error xtype="missing-conjunction" idx="20-3" eid="0"/>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="32b">
+    <original><c>.</c></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="period4comma" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="32c">
+    <original><w>Hútú</w></original>
+    <corrected><w>en</w><w>Hútúar</w></corrected>
+      <errors>
+        <error xtype="missing-conjunction" eid="0"/>
       </errors>
   </revision>
   <w>voru</w>
@@ -423,13 +435,25 @@
   <w>á</w>
   <w>milli</w>
   <revision id="35">
-    <original><w>þjóðarbrotana</w><w>hútúa</w></original>
-    <corrected><w>þjóðarbrotanna</w><c>,</c><w>Hútúa</w></corrected>
+    <original><w>þjóðarbrotana</w></original>
+    <corrected><w>þjóðarbrotanna</w></corrected>
       <errors>
         <error xtype="n4nn" idx="15-1" eid="0"/>
         <error xtype="nonword" idx="15-1" eid="0"/>
-        <error xtype="missing-comma" idx="15-2" eid="0"/>
-        <error xtype="lower4upper-proper" idx="15-3" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="35b">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="35c">
+    <original><w>hútúa</w></original>
+    <corrected><w>Hútúa</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
       </errors>
   </revision>
   <w>sem</w>
@@ -472,11 +496,17 @@
   <w>en</w>
   <w>þegar</w>
   <revision id="39">
-    <original><w>belgarnir</w><w>fóru</w></original>
-    <corrected><w>Belgarnir</w><w>yfirgáfu</w><w>valdsviðið</w></corrected>
+    <original><w>belgarnir</w></original>
+    <corrected><w>Belgarnir</w></corrected>
       <errors>
-        <error xtype="lower4upper-proper" idx="24-1" eid="0"/>
-        <error xtype="wording" idx="24-2" eid="0"/>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="39b">
+    <original><w>fóru</w></original>
+    <corrected><w>yfirgáfu</w><w>valdsviðið</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
       </errors>
   </revision>
   <w>létu</w>

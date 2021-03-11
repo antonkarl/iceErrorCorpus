@@ -218,10 +218,16 @@
   <w>þetta</w>
   <w>mesta</w>
   <revision id="3">
-    <original><w>sjóslyss</w><w>íslandssögunnar</w></original>
-    <corrected><w>sjóslys</w><w>Íslandssögunnar</w></corrected>
+    <original><w>sjóslyss</w></original>
+    <corrected><w>sjóslys</w></corrected>
       <errors>
-        <error xtype="extra-letter" eid="0" />
+        <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
+  <revision id="3b">
+    <original><w>íslandssögunnar</w></original>
+    <corrected><w>Íslandssögunnar</w></corrected>
+      <errors>
         <error xtype="lower4upper-proper" eid="0" />
       </errors>
   </revision>

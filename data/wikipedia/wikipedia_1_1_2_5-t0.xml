@@ -895,12 +895,24 @@
   <w><hi>Licensed</hi></w>
   <w><hi>to</hi></w>
   <revision id="82">
-    <original><w><hi>ill</hi></w><c>,</c><w>meiriháttar</w><w>partýplötu</w></original>
-    <corrected><w><hi>Ill</hi></w><c>.</c><w>Hún</w><w>var</w><w>meiri</w><w>háttar</w><w>stuðplata</w></corrected>
+    <original><w><hi>ill</hi></w></original>
+    <corrected><w><hi>Ill</hi></w></corrected>
       <errors>
         <error xtype="lower4upper-proper" idx="82-1" eid="0" />
         <error xtype="foreign-name" idx="82-1" eid="0" />
+      </errors>
+  </revision>
+  <revision id="82b">
+    <original><c>,</c></original>
+    <corrected><c>.</c></corrected>
+      <errors>
         <error xtype="comma4period" eid="0" />
+      </errors>
+  </revision>
+  <revision id="82c">
+    <original><w>meiriháttar</w><w>partýplötu</w></original>
+    <corrected><w>Hún</w><w>var</w><w>meiri</w><w>háttar</w><w>stuðplata</w></corrected>
+      <errors>
         <error xtype="merged-words" eid="0" />
         <error xtype="wording" eid="0" />
       </errors>

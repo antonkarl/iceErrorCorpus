@@ -786,10 +786,9 @@
   <w>ríkra</w>
   <revision id="37">
     <original><w>keníubúa</w></original>
-    <corrected><w>Keníumanna</w></corrected>
+    <corrected><w>Keníubúa</w></corrected>
       <errors>
-        <error xtype="lower4upper-proper" idx="37-1" eid="0" />
-        <error xtype="wording" idx="37-1" eid="0" />
+        <error xtype="lower4upper-proper" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -874,10 +873,16 @@
   <w>fjölmennustu</w>
   <w>þjóðinni</w>
   <revision id="40">
-    <original><w>kíkújú</w></original>
-    <corrected><c>,</c><w>Kíkújú</w></corrected>
+    <original></original>
+    <corrected><c>,</c></corrected>
       <errors>
         <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <revision id="40b">
+    <original><w>kíkújú</w></original>
+    <corrected><w>Kíkújú</w></corrected>
+      <errors>
         <error xtype="lower4upper-proper" eid="0" />
       </errors>
   </revision>

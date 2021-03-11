@@ -48,13 +48,7 @@
   <w>á</w>
   <w>sumardvalarstað</w>
   <w>ungliðahreyfingar</w>
-  <revision id="1">
-    <original><w>norska</w></original>
-    <corrected><w>Norska</w></corrected>
-      <errors>
-        <error xtype="lower4upper-proper" eid="0" />
-      </errors>
-  </revision>
+  <w>norska</w>
   <w>Verkamannaflokksins</w>
   <w>á</w>
   <w>Útey</w>
@@ -196,14 +190,14 @@
   <w>í</w>
   <w>eigu</w>
   <revision id="4">
-    <original><w>ungaliðahreyfingar</w><w>norska</w></original>
-    <corrected><w>ungliðahreyfingar</w><w>Norska</w></corrected>
+    <original><w>ungaliðahreyfingar</w></original>
+    <corrected><w>ungliðahreyfingar</w></corrected>
       <errors>
         <error xtype="compound-collocation" idx="4-1" eid="0" />
         <error xtype="compound-nonword" idx="4-1" eid="0" />
-        <error xtype="lower4upper-proper" eid="0" />
       </errors>
   </revision>
+  <w>norska</w>
   <w>Verkamannaflokksins</w>
   <c>.</c>
 </s>

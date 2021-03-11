@@ -631,11 +631,13 @@
   <c>.</c>
 </s><s n="20">
   <w>Alice</w>
+  <w>in</w>
   <revision id="13">
-    <original><w>in</w><w>chains</w></original>
-    <corrected><w>in</w><w>Chains</w></corrected>
+    <original><w>chains</w></original>
+    <corrected><w>Chains</w></corrected>
       <errors>
-        <error xtype="lower4upper-proper" eid="0"/>
+        <error xtype="lower4upper-proper" idx="13-1" eid="0"/>
+        <error xtype="foreign-name" idx="13-1" eid="0"/>
       </errors>
   </revision>
   <w>komu</w>

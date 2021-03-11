@@ -95,10 +95,16 @@
   </revision>
   <w>og</w>
   <revision id="5">
-    <original><w>berbar</w><c>)</c></original>
+    <original><w>berbar</w></original>
     <corrected><w>Berbar</w></corrected>
       <errors>
         <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
+  <revision id="5b">
+    <original><c>)</c></original>
+    <corrected></corrected>
+      <errors>
         <error xtype="extra-bracket" eid="0" />
       </errors>
   </revision>

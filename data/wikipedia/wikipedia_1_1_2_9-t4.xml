@@ -577,10 +577,16 @@
   <w>kænskubragða</w>
   <revision id="15">
     <original><w>repúblikana</w></original>
-    <corrected><w>Repúblikana</w><c>“</c></corrected>
+    <corrected><w>Repúblikana</w></corrected>
       <errors>
-        <error xtype="lower4upper-proper" idx="15-1" eid="0" />
-        <error xtype="missing-quots" idx="15-2" eid="0" />
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
+  <revision id="15b">
+    <original></original>
+    <corrected><c>“</c></corrected>
+      <errors>
+        <error xtype="missing-quots" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -960,10 +966,16 @@
   <w>Landsnefndar</w>
   <revision id="20">
     <original><w>repúblikana</w></original>
-    <corrected><w>Repúblikana</w><c>.</c></corrected>
+    <corrected><w>Repúblikana</w></corrected>
       <errors>
-        <error xtype="lower4upper-proper" idx="20-1" eid="0" />
-        <error xtype="missing-period" idx="20-2" eid="0" />
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
+  <revision id="20b">
+    <original></original>
+    <corrected><c>.</c></corrected>
+      <errors>
+        <error xtype="missing-period" eid="0" />
       </errors>
   </revision>
   <w>Tveimur</w>

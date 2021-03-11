@@ -91,12 +91,20 @@
   </revision>
   <w>og</w>
   <revision id="3">
-    <original><w>Criminal</w><w>minds</w></original>
-    <corrected><w><hi>Criminal</hi></w><w><hi>Minds</hi></w></corrected>
+    <original><w>Criminal</w></original>
+    <corrected><w><hi>Criminal</hi></w></corrected>
       <errors>
-        <error xtype="nonit4it" idx="4-1" eid="0"/>
-        <error xtype="lower4upper-proper" idx="4-1" eid="0"/>
-        <error xtype="foreign-name" idx="4-1" eid="0"/>
+        <error xtype="nonit4it" idx="3-1" eid="0"/>
+        <error xtype="foreign-name" idx="3-1" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="3b">
+    <original><w>minds</w></original>
+    <corrected><w><hi>Minds</hi></w></corrected>
+      <errors>
+        <error xtype="nonit4it" idx="3b-1" eid="0"/>
+        <error xtype="lower4upper-proper" idx="3b-1" eid="0"/>
+        <error xtype="foreign-name" idx="3b-1" eid="0"/>
       </errors>
   </revision>
   <c>.</c>

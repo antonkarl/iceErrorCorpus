@@ -301,11 +301,17 @@
   </revision>
   <w>er</w>
   <revision id="24">
-    <original><w>félagi</w><w>ísl.</w></original>
-    <corrected><w>Félagi</w><w>íslenskra</w></corrected>
+    <original><w>félagi</w></original>
+    <corrected><w>Félagi</w></corrected>
       <errors>
-        <error xtype="lower4upper-proper" idx="62-1" eid="0"/>
-        <error xtype="extra-abbreviation" idx="62-2" eid="0"/>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="24b">
+    <original><w>ísl.</w></original>
+    <corrected><w>íslenskra</w></corrected>
+      <errors>
+        <error xtype="abbreviation4words" eid="0"/>
       </errors>
   </revision>
   <w>myndlistarmanna</w>

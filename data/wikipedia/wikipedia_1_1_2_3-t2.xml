@@ -421,11 +421,17 @@
   <w>upp</w>
   <w>í</w>
   <revision id="10">
-    <original><w>4.</w><w>mósebók</w></original>
-    <corrected><w>fjórðu</w><w>Mósebók</w></corrected>
+    <original><w>4.</w></original>
+    <corrected><w>fjórðu</w></corrected>
       <errors>
-        <error xtype="number4word" idx="10-1" eid="0" />
-        <error xtype="lower4upper-proper" idx="10-2" eid="0" />
+        <error xtype="number4word" eid="0" />
+      </errors>
+  </revision>
+  <revision id="10b">
+    <original><w>mósebók</w></original>
+    <corrected><w>Mósebók</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
       </errors>
   </revision>
   <c>.</c>

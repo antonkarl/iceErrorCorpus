@@ -959,11 +959,17 @@
   <w>gera</w>
   <w>ef</w>
   <revision id="25">
-    <original><w>stöð</w><w>tvö</w></original>
-    <corrected><w>Stöð</w><w>2</w></corrected>
+    <original><w>stöð</w></original>
+    <corrected><w>Stöð</w></corrected>
       <errors>
-        <error xtype="lower4upper-proper" idx="17-1" eid="0"/>
-        <error xtype="word4number" idx="17-1" eid="0"/>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="25b">
+    <original><w>tvö</w></original>
+    <corrected><w>2</w></corrected>
+      <errors>
+        <error xtype="word4number" eid="0"/>
       </errors>
   </revision>
   <w>er</w>

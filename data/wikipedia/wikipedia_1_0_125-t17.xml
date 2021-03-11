@@ -1483,9 +1483,16 @@
   <w>þjóðernisvakningu</w>
   <revision id="47">
     <original><w>túarega</w></original>
-    <corrected><w>Túarega</w><c>,</c><w>sem</w><w>voru</w><w>hirðingjaþjóð</w><w>á</w><w>þessum</w><w>slóðum</w><c>,</c></corrected>
+    <corrected><w>Túarega</w></corrected>
       <errors>
         <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
+  <revision id="47b">
+    <original></original>
+    <corrected><c>,</c><w>sem</w><w>voru</w><w>hirðingjaþjóð</w><w>á</w><w>þessum</w><w>slóðum</w><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-commas" eid="0" />
         <error xtype="missing-words" eid="0" />
       </errors>
   </revision>

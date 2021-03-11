@@ -523,7 +523,14 @@
         <error xtype="dep" depId="35-1" eid="0"/>
       </errors>
   </revision>
-  <w>þá</w>
+  <revision id="27b">
+    <original><w>þá</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="27b-1" eid="0"/>
+        <error xtype="style" idx="27b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>er</w>
   <w>ástandið</w>
   <w>betra</w>
@@ -532,9 +539,11 @@
   <w>og</w>
   <revision id="28">
     <original><w>vestur</w><w>Ermasund</w></original>
-    <corrected><w>Vestur-Ermasund</w></corrected>
+    <corrected><w>Vestur-Ermarsund</w></corrected>
       <errors>
-        <error xtype="missing-hyphen" eid="0"/>
+        <error xtype="missing-hyphen" idx="28-1" eid="0"/>
+        <error xtype="missing-letter" idx="28-1" eid="0"/>
+        <error xtype="nonword" idx="28-1" eid="0"/>
       </errors>
   </revision>
   <w>en</w>
@@ -549,14 +558,21 @@
   </revision>
   <c>,</c>
   <revision id="30">
-    <original><w>austur</w></original>
-    <corrected><w>við</w><w>Austur</w></corrected>
+    <original></original>
+    <corrected><w>við</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="39-1" eid="0"/>
-        <error xtype="lower4upper-proper" idx="39-2" eid="0"/>
+        <error xtype="missing-word" eid="0"/>
       </errors>
   </revision>
-  <w>Ermasund</w>
+  <revision id="30b">
+    <original><w>austur</w><w>Ermasund</w></original>
+    <corrected><w>Austur-Ermarsund</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" idx="30b-1" eid="0"/>
+        <error xtype="missing-letter" idx="30b-1" eid="0"/>
+        <error xtype="nonword" idx="30b-1" eid="0"/>
+      </errors>
+  </revision>
   <revision id="31">
     <original><w>og</w><w>við</w></original>
     <corrected><c>,</c></corrected>

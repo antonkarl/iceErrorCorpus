@@ -1688,7 +1688,8 @@
     <original><w><hi>the</hi></w></original>
     <corrected><w><hi>The</hi></w></corrected>
       <errors>
-        <error xtype="lower4upper-proper" eid="0" />
+        <error xtype="lower4upper-proper" idx="94-1" eid="0" />
+        <error xtype="foreign-name" idx="94-1" eid="0" />
       </errors>
   </revision>
   <w><hi>City</hi></w>
@@ -1699,7 +1700,8 @@
     <original><w><hi>the</hi></w></original>
     <corrected><w><hi>The</hi></w></corrected>
       <errors>
-        <error xtype="lower4upper-proper" eid="0" />
+        <error xtype="lower4upper-proper" idx="95-1" eid="0" />
+        <error xtype="foreign-name" idx="95-1" eid="0" />
       </errors>
   </revision>
   <w><hi>Square</hi></w>

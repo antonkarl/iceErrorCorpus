@@ -1662,11 +1662,17 @@
   <w>á</w>
   <w>vegum</w>
   <revision id="51">
-    <original><w>matís</w><c>,</c></original>
+    <original><w>matís</w></original>
     <corrected><w>Matís</w></corrected>
       <errors>
-        <error xtype="lower4upper-proper" idx="51-1" eid="0" />
-        <error xtype="extra-comma" idx="51-2" eid="0" />
+        <error xtype="lower4upper-proper" eid="0" />
+      </errors>
+  </revision>
+  <revision id="51b">
+    <original><c>,</c></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-comma" eid="0" />
       </errors>
   </revision>
   <w>á</w>
@@ -1822,12 +1828,18 @@
   <w>munir</w>
   <w>milli</w>
   <revision id="57">
-    <original><w>verkefni</w><w>matísar</w></original>
-    <corrected><w>verkefna</w><w>Matís</w></corrected>
+    <original><w>verkefni</w></original>
+    <corrected><w>verkefna</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" idx="57-1" eid="0" />
-        <error xtype="lower4upper-proper" idx="57-2" eid="0" />
-        <error xtype="nominal-inflection" idx="57-2" eid="0" />
+        <error xtype="nominal-inflection" eid="0" />
+      </errors>
+  </revision>
+  <revision id="57b">
+    <original><w>matísar</w></original>
+    <corrected><w>Matís</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" idx="57b-1" eid="0" />
+        <error xtype="nominal-inflection" idx="57b-1" eid="0" />
       </errors>
   </revision>
   <w>og</w>

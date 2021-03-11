@@ -241,11 +241,17 @@
   <w>CCP</w>
   <w>og</w>
   <revision id="7">
-    <original><w>66</w><w>norður</w></original>
-    <corrected><w>66°</w><w>Norður</w></corrected>
+    <original><w>66</w></original>
+    <corrected><w>66°</w></corrected>
       <errors>
-        <error xtype="missing-symbol" idx="7-1" eid="0" />
-        <error xtype="lower4upper-proper" idx="7-2" eid="0" />
+        <error xtype="missing-symbol" eid="0" />
+      </errors>
+  </revision>
+  <revision id="7b">
+    <original><w>norður</w></original>
+    <corrected><w>Norður</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
       </errors>
   </revision>
   <c>.</c>

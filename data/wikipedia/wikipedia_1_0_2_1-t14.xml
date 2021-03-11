@@ -185,12 +185,18 @@
   <w>á</w>
   <w>milli</w>
   <revision id="4">
-    <original><w>þjóðarbrotana</w><w>hútúa</w></original>
-    <corrected><w>þjóðarbrotanna</w><w>Hútúa</w></corrected>
+    <original><w>þjóðarbrotana</w></original>
+    <corrected><w>þjóðarbrotanna</w></corrected>
       <errors>
         <error xtype="nominal-inflection" idx="4-1" eid="0" />
         <error xtype="n4nn" idx="4-1" eid="0" />
-        <error xtype="lower4upper-proper" idx="4-2" eid="0" />
+      </errors>
+  </revision>
+  <revision id="4b">
+    <original><w>hútúa</w></original>
+    <corrected><w>Hútúa</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
