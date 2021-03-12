@@ -362,13 +362,13 @@
   <w>sig</w>
   <w>til</w>
   <revision id="4">
-    <original><w>karíba</w></original>
-    <corrected><w>Karíba</w></corrected>
+    <original><w>karíba</w><w>búa</w></original>
+    <corrected><w>Karíbabúa</w></corrected>
       <errors>
-        <error xtype="lower4upper-proper" eid="0" />
+        <error xtype="lower4upper-proper" idx="4-1" eid="0" />
+        <error xtype="split-compound" idx="4-1" eid="0" />
       </errors>
   </revision>
-  <w>búa</w>
   <w>í</w>
   <w>átta</w>
   <w>þorpum</w>
