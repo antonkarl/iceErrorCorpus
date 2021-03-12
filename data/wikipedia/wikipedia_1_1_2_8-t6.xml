@@ -125,7 +125,13 @@
   <w>að</w>
   <w>syngja</w>
   <w>um</w>
-  <w>Satan</w>
+  <revision id="5b">
+    <original><w>Satan</w></original>
+    <corrected><w>satan</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>sóttu</w>
   <w>þá</w>
@@ -402,7 +408,13 @@
       </errors>
   </revision>
   <w>um</w>
-  <w>Satan</w>
+  <revision id="19b">
+    <original><w>Satan</w></original>
+    <corrected><w>satan</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <w>helvíti</w>
   <w>sem</w>
@@ -430,7 +442,13 @@
   <w>þungarokk</w>
   <w>og</w>
   <w>tilbáðu</w>
-  <w>Satan</w>
+  <revision id="19c">
+    <original><w>Satan</w></original>
+    <corrected><w>satan</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <w>drápu</w>
   <w>dýr</w>
