@@ -19,10 +19,10 @@
   <w>vegna</w>
   <revision id="1">
     <original><w>ólympíuleikana</w></original>
-    <corrected><w>ólympíuleikanna</w></corrected>
+    <corrected><w>Ólympíuleikanna</w></corrected>
       <errors>
         <error xtype="n4nn" idx="1-1" eid="0" />
-        <error xtype="nonword" idx="1-1" eid="0" />
+        <error xtype="lower4upper-proper" idx="1-1" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -197,13 +197,7 @@
   <w>gæta</w>
   <w>leikvanganna</w>
   <c>,</c>
-  <revision id="4c">
-    <original><w>ólympíuþorpsins</w></original>
-    <corrected><w>Ólympíuþorpsins</w></corrected>
-      <errors>
-        <error xtype="lower4upper-proper" eid="0" />
-      </errors>
-  </revision>
+  <w>ólympíuþorpsins</w>
   <c>,</c>
   <w>þar</w>
   <w>sem</w>
