@@ -582,7 +582,7 @@
     <original><w>Þeir</w><w>komast</w></original>
     <corrected><w>Það</w><w>kemst</w></corrected>
       <errors>
-        <error xtype="dep" depId="11-1" eid="0"/>
+        <error xtype="dep" depId="33-1" eid="0"/>
         <error xtype="agreement-pro" eid="0"/>
         <error xtype="agreement-pred" eid="0"/>
       </errors>
@@ -2295,6 +2295,14 @@
   <c>.</c>
 </s><s n="107">
   <w>Þó</w>
+  <revision id="27b">
+    <original></original>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="missing-conjunction" idx="27b-1" eid="0"/>
+        <error xtype="though" idx="27b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>hægt</w>
   <w>sé</w>
   <w>að</w>
@@ -2387,7 +2395,7 @@
     <original><w>Þeir</w><w>fara</w></original>
     <corrected><w>Það</w><w>fer</w></corrected>
       <errors>
-        <error xtype="dep" depId="11-1" eid="0"/>
+        <error xtype="dep" depId="33-1" eid="0"/>
         <error xtype="agreement-pro" eid="0"/>
         <error xtype="agreement-pred" eid="0"/>
       </errors>
@@ -2450,7 +2458,7 @@
     <original><w>Menn</w></original>
     <corrected><w>Fólk</w></corrected>
       <errors>
-        <error xtype="gendered" idx="11-1" eid="0"/>
+        <error xtype="gendered" idx="33-1" eid="0"/>
       </errors>
   </revision>
   <w>sem</w>
@@ -2458,7 +2466,7 @@
     <original><w>afneita</w></original>
     <corrected><w>afneitar</w></corrected>
       <errors>
-        <error xtype="dep" depId="11-1" eid="0"/>
+        <error xtype="dep" depId="33-1" eid="0"/>
         <error xtype="agreement-pred" eid="0"/>
       </errors>
   </revision>
@@ -2468,7 +2476,7 @@
     <original><w>fara</w></original>
     <corrected><w>fer</w></corrected>
       <errors>
-        <error xtype="dep" depId="11-1" eid="0"/>
+        <error xtype="dep" depId="33-1" eid="0"/>
         <error xtype="agreement-pred" eid="0"/>
       </errors>
   </revision>

@@ -43,22 +43,34 @@
 </s><s n="2">
   <w>Þeir</w>
   <revision id="1">
-    <original><w>byrjar</w><w>hinsvegar</w></original>
-    <corrected><w>byrja</w><w>hins</w><w>vegar</w></corrected>
+    <original><w>byrjar</w></original>
+    <corrected><w>byrja</w></corrected>
       <errors>
         <error xtype="agreement-pred" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="1b">
+    <original><w>hinsvegar</w></original>
+    <corrected><w>hins</w><w>vegar</w></corrected>
+      <errors>
         <error xtype="merged-words" eid="0"/>
       </errors>
   </revision>
   <w>nánast</w>
   <w>aldrei</w>
   <revision id="2">
-    <original><w>saman</w><w>inná</w></original>
-    <corrected><w>að</w><w>spila</w><w>báðir</w><w>inni</w><w>á</w></corrected>
+    <original><w>saman</w></original>
+    <corrected><w>að</w><w>spila</w><w>báðir</w></corrected>
       <errors>
         <error xtype="wording" eid="0"/>
-        <error xtype="merged-words" idx="4-1" eid="0"/>
-        <error xtype="dir4loc" idx="4-1" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="2b">
+    <original><w>inná</w></original>
+    <corrected><w>inni</w><w>á</w></corrected>
+      <errors>
+        <error xtype="merged-words" idx="2b-1" eid="0"/>
+        <error xtype="dir4loc" idx="2b-1" eid="0"/>
       </errors>
   </revision>
   <w>vellinum</w>
