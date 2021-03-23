@@ -19,8 +19,14 @@
   <w>voru</w>
   <w>fluttir</w>
   <w>á</w>
-  <w>Slysadeild</w>
-  <w>Landsspítalans</w>
+  <revision id="0">
+    <original><w>Slysadeild</w><w>Landsspítalans</w></original>
+    <corrected><w>slysadeild</w><w>Landspítalans</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" idx="0-1" eid="0" />
+        <error xtype="compound-collocation" idx="0-2" eid="0" />
+      </errors>
+  </revision>
   <w>eftir</w>
   <w>að</w>
   <w>hafa</w>

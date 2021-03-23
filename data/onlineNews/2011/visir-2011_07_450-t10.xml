@@ -41,7 +41,13 @@
   <w>haldinn</w>
   <w>á</w>
   <w>gjörgæsludeild</w>
-  <w>Landsspítalans</w>
+  <revision id="0">
+    <original><w>Landsspítalans</w></original>
+    <corrected><w>Landspítalans</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="2">

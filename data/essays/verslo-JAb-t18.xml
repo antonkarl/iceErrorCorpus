@@ -1210,7 +1210,13 @@
   <w>komið</w>
   <w>upp</w>
   <w>á</w>
-  <w>Landsspítalanum</w>
+  <revision id="21b">
+    <original><w>Landsspítalanum</w></original>
+    <corrected><w>Landspítalanum</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" eid="0"/>
+      </errors>
+  </revision>
   <w>þar</w>
   <w>sem</w>
   <w>mikil</w>

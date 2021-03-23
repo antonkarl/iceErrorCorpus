@@ -1551,7 +1551,13 @@
   <w>fékk</w>
   <w>að</w>
   <w>sitja</w>
-  <w>út</w>
+  <revision id="23b">
+    <original><w>út</w></original>
+    <corrected><w>úti</w></corrected>
+      <errors>
+        <error xtype="dir4loc" eid="0"/>
+      </errors>
+  </revision>
   <w>í</w>
   <w>horninu</w>
   <w>á</w>
