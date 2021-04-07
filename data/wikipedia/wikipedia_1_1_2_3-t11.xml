@@ -426,7 +426,7 @@
     <corrected><c>:</c><c>„</c></corrected>
       <errors>
         <error xtype="comma4colon" idx="31-1" eid="0" />
-        <error xtype="missing-quots" idx="31-2" eid="0" />
+        <error xtype="missing-quot" idx="31-2" eid="0" />
       </errors>
   </revision>
   <w>Go</w>
@@ -440,7 +440,7 @@
     <corrected><c>:</c><c>„</c></corrected>
       <errors>
         <error xtype="comma4colon" idx="32-1" eid="0" />
-        <error xtype="missing-quots" idx="32-2" eid="0" />
+        <error xtype="missing-quot" idx="32-2" eid="0" />
       </errors>
   </revision>
   <w>Áfram</w>
@@ -450,7 +450,7 @@
     <original><c>“</c></original>
     <corrected></corrected>
       <errors>
-        <error xtype="extra-quots" eid="0" />
+        <error xtype="misplaced-quot" idx="33-1" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -458,7 +458,7 @@
     <original></original>
     <corrected><c>“</c></corrected>
       <errors>
-        <error xtype="missing-quots" eid="0" />
+        <error xtype="dep" depId="33-1" eid="0" />
       </errors>
   </revision>
 </s>
@@ -2560,13 +2560,13 @@
   <w>Rogers</w>
   <c>(</c>
   <revision id="186">
-    <original><w>12. janúar 1980</w></original>
-    <corrected><w>f.</w><w>12. janúar</w><c>,</c><w>1980</w></corrected>
+    <original></original>
+    <corrected><w>f.</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="186-1" eid="0" />
-        <error xtype="missing-comma" idx="186-2" eid="0" />
+        <error xtype="missing-word" eid="0" />
       </errors>
   </revision>
+  <w>12. janúar 1980</w>
   <c>)</c>
   <w>í</w>
   <w>Fitchburg</w>

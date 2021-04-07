@@ -264,7 +264,7 @@
     <original><w>í</w><w>Far</w><w>and</w><w>Away</w></original>
     <corrected><w><hi>Far</hi></w><w><hi>and</hi></w><w><hi>Away</hi></w></corrected>
       <errors>
-        <error xtype="extra-word" eid="0"/>
+        <error xtype="extra-words" eid="0"/>
         <error xtype="nonit4it" eid="0"/>
       </errors>
   </revision>
@@ -452,13 +452,7 @@
   <w>útskrifaðist</w>
   <w>þaðan</w>
   <w>með</w>
-  <revision id="21">
-    <original><w>B.</w><w>A.</w></original>
-    <corrected><w>B.A.</w></corrected>
-      <errors>
-        <error xtype="extra-space" eid="0"/>
-      </errors>
-  </revision>
+  <w>B.A.</w>
   <c>-</c>
   <w>gráðu</w>
   <w>árið 1985</w>

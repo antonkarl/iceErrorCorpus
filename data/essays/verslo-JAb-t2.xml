@@ -402,7 +402,8 @@
     <original><w>En</w><w>það</w></original>
     <corrected><w>Það</w></corrected>
       <errors>
-        <error xtype="extra-word" eid="0"/>
+        <error xtype="extra-conjunction" idx="16-1" eid="0"/>
+        <error xtype="period-plus-conjunction" idx="16-1" eid="0"/>
       </errors>
   </revision>
   <w>er</w>
@@ -1167,7 +1168,7 @@
     <original><w>um</w></original>
     <corrected><w>á</w><w>því</w></corrected>
       <errors>
-        <error xtype="collocation" idx="27-1" eid="0"/>
+        <error xtype="wrong-prep" idx="27-1" eid="0"/>
         <error xtype="missing-word" idx="27-2" eid="0"/>
       </errors>
   </revision>

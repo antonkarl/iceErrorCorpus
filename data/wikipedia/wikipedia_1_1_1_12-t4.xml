@@ -2068,12 +2068,13 @@
       </errors>
   </revision>
   <w>af</w>
+  <w>þeim</w>
   <revision id="134">
-    <original><w>þeim</w><w>háþróaðustu</w></original>
-    <corrected><w>því</w><w>háþróaða</w></corrected>
+    <original><w>háþróaðustu</w></original>
+    <corrected><w>háþróuðustu</w></corrected>
       <errors>
-        <error xtype="dep" depId="134-1" eid="0" />
-        <error xtype="adjective-inflection" idx="134-1" eid="0" />
+        <error xtype="letter-rep" idx="134-1" eid="0" />
+        <error xtype="nonword" idx="134-1" eid="0" />
       </errors>
   </revision>
   <w>í</w>

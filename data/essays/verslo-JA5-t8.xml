@@ -492,8 +492,9 @@
     <original><w>hvort</w><w>annað</w></original>
     <corrected><w>hvor</w><w>aðra</w></corrected>
       <errors>
-        <error xtype="agreement-concord" eid="0"/>
-        <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="agreement-pro" idx="11-1" eid="0"/>
+        <error xtype="pro-inflection" idx="11-1" eid="0"/>
+        <error xtype="each" idx="11-1" eid="0"/>
       </errors>
   </revision>
   <c>?</c>

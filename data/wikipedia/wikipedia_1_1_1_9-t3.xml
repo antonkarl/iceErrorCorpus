@@ -428,13 +428,6 @@
   <w>réðst</w>
   <w>á</w>
   <w>Kúbu</w>
-  <revision id="9">
-    <original/>
-    <corrected><c>,</c></corrected>
-      <errors>
-        <error xtype="missing-commas" idx="4-1" eid="0"/>
-      </errors>
-  </revision>
   <w>með</w>
   <w>hóp</w>
   <w>af</w>
@@ -444,7 +437,7 @@
     <original/>
     <corrected><c>,</c></corrected>
       <errors>
-        <error xtype="dep" depId="4-1" eid="0"/>
+        <error xtype="missing-comma" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
@@ -719,7 +712,7 @@
     <original><w>í</w></original>
     <corrected/>
       <errors>
-        <error xtype="extra-word" eid="0"/>
+        <error xtype="extra-prep" eid="0"/>
       </errors>
   </revision>
   <w>Nashville</w>

@@ -142,8 +142,7 @@
     <original><w>framhaldskóla</w></original>
     <corrected><w>framhaldsskóla</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="4-1" eid="0"/>
-        <error xtype="compound-nonword" idx="4-1" eid="0"/>
+        <error xtype="compound-collocation" eid="0"/>
       </errors>
   </revision>
   <w>eru</w>
@@ -365,8 +364,7 @@
     <original><w>framhaldskólinn</w></original>
     <corrected><w>framhaldsskólinn</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="11a-1" eid="0" />
-        <error xtype="compound-nonword" idx="11a-1" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <w>er</w>

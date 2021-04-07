@@ -715,7 +715,7 @@
     <corrected><w>kölluð</w></corrected>
       <errors>
         <error xtype="dep" depId="33-1" eid="0" />
-        <error xtype="extra-word" idx="34-1" eid="0" />
+        <error xtype="extra-conjunction" idx="34-1" eid="0" />
       </errors>
   </revision>
   <w>sjóræningjakrossferðin</w>
@@ -1489,13 +1489,13 @@
   <w>réðust</w>
   <w>ítrekað</w>
   <w>á</w>
+  <w>Baleareyjar</w>
   <revision id="75">
-    <original><w>Baleareyjar</w><w>og</w><w>sem</w><w>svar</w><w>þá</w></original>
-    <corrected><w>Balear-eyjar</w><c>.</c><w>Í</w><w>kjölfarið</w></corrected>
+    <original><w>og</w><w>sem</w><w>svar</w><w>þá</w></original>
+    <corrected><c>.</c><w>Í</w><w>kjölfarið</w></corrected>
       <errors>
-        <error xtype="missing-hyphen" idx="75-1" eid="0" />
-        <error xtype="conjunction4period" idx="75-2" eid="0" />
-        <error xtype="wording" idx="75-3" eid="0" />
+        <error xtype="conjunction4period" idx="75-1" eid="0" />
+        <error xtype="wording" idx="75-2" eid="0" />
       </errors>
   </revision>
   <w>risu</w>

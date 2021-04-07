@@ -16,7 +16,6 @@
 <text><body><p n="1">
 <s n="1">
   <w>Súraldin- og pistasíuhnetumúffur</w>
-  <c>*</c>
   <w>Um</w>
   <w>það</w>
   <w>bil</w>
@@ -29,7 +28,7 @@
     <original></original>
     <corrected><c>,</c></corrected>
       <errors>
-        <error xtype="missing-commas" idx="1-1" eid="0" />
+        <error xtype="missing-comma" eid="0" />
       </errors>
   </revision>
   <w>rifinn</w>
@@ -41,7 +40,7 @@
       <errors>
         <error xtype="number4word" idx="2-1" eid="0" />
         <error xtype="nominal-inflection" idx="2-2" eid="0" />
-        <error xtype="dep" depId="1-1" eid="0" />
+        <error xtype="missing-comma" depId="2-3" eid="0" />
       </errors>
   </revision>
   <w>1/3</w>
@@ -51,7 +50,7 @@
     <original></original>
     <corrected><c>,</c></corrected>
       <errors>
-        <error xtype="missing-commas" idx="3-1" eid="0" />
+        <error xtype="missing-comma" eid="0" />
       </errors>
   </revision>
   <w>1</w>
@@ -60,7 +59,7 @@
     <original></original>
     <corrected><c>,</c></corrected>
       <errors>
-        <error xtype="dep" depId="3-1" eid="0" />
+        <error xtype="missing-comma" eid="0" />
       </errors>
   </revision>
   <w>1/4</w>
@@ -70,7 +69,7 @@
     <original></original>
     <corrected><c>,</c></corrected>
       <errors>
-        <error xtype="missing-commas" idx="5-1" eid="0" />
+        <error xtype="missing-comma" eid="0" />
       </errors>
   </revision>
   <w>1</w>
@@ -81,7 +80,7 @@
     <original></original>
     <corrected><c>,</c></corrected>
       <errors>
-        <error xtype="dep" depId="5-1" eid="0" />
+        <error xtype="missing-comma" eid="0" />
       </errors>
   </revision>
   <w>2</w>
@@ -92,7 +91,7 @@
     <original></original>
     <corrected><c>,</c></corrected>
       <errors>
-        <error xtype="missing-commas" idx="7-1" eid="0" />
+        <error xtype="missing-comma" eid="0" />
       </errors>
   </revision>
   <w>2/3</w>
@@ -102,7 +101,7 @@
     <original></original>
     <corrected><c>,</c></corrected>
       <errors>
-        <error xtype="dep" depId="7-1" eid="0" />
+        <error xtype="missing-comma" eid="0" />
       </errors>
   </revision>
   <w>1/4</w>

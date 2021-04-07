@@ -2027,9 +2027,9 @@
   <w>sýndur</w>
   <revision id="143">
     <original><w>2,844</w></original>
-    <corrected><w>2844</w></corrected>
+    <corrected><w>2.844</w></corrected>
       <errors>
-        <error xtype="extra-comma" eid="0" />
+        <error xtype="comma4period" eid="0" />
       </errors>
   </revision>
   <w>sinnum</w>
@@ -4412,7 +4412,6 @@
       <errors>
         <error xtype="wording" idx="299-1" eid="0" />
         <error xtype="merged-words" idx="299-2" eid="0" />
-        <error xtype="agreement" idx="299-3" eid="0" /> 
       </errors>
   </revision>
   <w>að</w>

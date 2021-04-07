@@ -861,20 +861,13 @@
       </errors>
   </revision>
   <w>og</w>
-  <revision id="16">
-    <original/>
-    <corrected><c>,</c></corrected>
-      <errors>
-        <error xtype="missing-commas" idx="11-1" eid="0"/>
-      </errors>
-  </revision>
   <w>viti</w>
   <w>menn</w>
   <revision id="17">
     <original/>
     <corrected><c>,</c></corrected>
       <errors>
-        <error xtype="dep" depId="11-1" eid="0"/>
+        <error xtype="missing-comma" eid="0"/>
       </errors>
   </revision>
   <w>það</w>

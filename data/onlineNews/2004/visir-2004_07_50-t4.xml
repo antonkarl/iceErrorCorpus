@@ -240,10 +240,11 @@
   <w>mala</w>
   <revision id="3">
     <original><w>Educacion-leikstjóri</w></original>
-    <corrected><w>Educacion</w><c>-</c><w>leikstjóri</w></corrected>
+    <corrected><w>Educacion</w><c>–</c><w>leikstjóri</w></corrected>
       <errors>
-        <error xtype="missing-space" eid="0" />
-        <error xtype="missing-space" eid="0" />
+        <error xtype="missing-space" idx="3-1" eid="0" />
+        <error xtype="hyphen4endash" idx="3-2" eid="0" />
+        <error xtype="missing-space" idx="3-3" eid="0" />
       </errors>
   </revision>
   <w>Pedro</w>

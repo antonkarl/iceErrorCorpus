@@ -19,8 +19,8 @@
     <original><w>Þau</w><w>fara</w></original>
     <corrected><w>Það</w><w>fer</w></corrected>
       <errors>
-        <error xtype="agreement-pro" eid="0"/>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement-pro" idx="1-1" eid="0"/>
+        <error xtype="agreement" idx="1-2" eid="0"/>
       </errors>
   </revision>
   <w>bara</w>
@@ -31,7 +31,7 @@
     <original><w>finna</w></original>
     <corrected><w>finnur</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="dep" depId="1-1" eid="0"/>
       </errors>
   </revision>
   <w>einhverja</w>

@@ -1643,7 +1643,7 @@
     <original><w>neinn</w></original>
     <corrected><w>neitt</w></corrected>
       <errors>
-        <error xtype="agreement-concord" eid="0" />
+        <error xtype="pro-inflection" eid="0" />
       </errors>
   </revision>
   <w>af</w>
@@ -1979,12 +1979,12 @@
 </s>
 <s n="49">
   <w>Á</w>
+  <w>10.</w>
   <revision id="101">
-    <original><w>10</w><c>.</c><w>Áratugnum</w></original>
-    <corrected><w>10.</w><w>áratugnum</w></corrected>
+    <original><w>Áratugnum</w></original>
+    <corrected><w>áratugnum</w></corrected>
       <errors>
-        <error xtype="extra-space" idx="101-1" eid="0" />
-        <error xtype="upper4lower-noninitial" idx="101-2" eid="0" />
+        <error xtype="upper4lower-noninitial" eid="0" />
       </errors>
   </revision>
   <w>hélt</w>

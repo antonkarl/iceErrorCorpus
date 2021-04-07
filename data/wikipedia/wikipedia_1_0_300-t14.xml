@@ -484,7 +484,7 @@
     <corrected><w>upprunnið</w></corrected>
       <errors>
         <error xtype="nonword" idx="13-1" eid="0" />
-        <error xtype="missing-letter" idx="13-1" eid="0" />
+        <error xtype="n4nn" idx="13-1" eid="0" />
       </errors>
   </revision>
   <w>frá</w>
@@ -2423,10 +2423,9 @@
   <w>leið</w>
   <revision id="68">
     <original><w>Ottómanaveldið</w></original>
-    <corrected><w>Ottóman-veldið</w></corrected>
+    <corrected><w>Ottómanveldið</w></corrected>
       <errors>
-        <error xtype="missing-hyphen" idx="68-1" eid="0" />
-        <error xtype="compound-collocation" idx="68-1" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <w>endanlega</w>
@@ -5824,10 +5823,9 @@
   <w>af</w>
   <revision id="208">
     <original><w>Ottómannaveldinu</w></original>
-    <corrected><w>Ottóman-veldinu</w></corrected>
+    <corrected><w>Ottómanveldinu</w></corrected>
       <errors>
-        <error xtype="missing-hyphen" idx="208-1" eid="0" />
-        <error xtype="compound-collocation" idx="208-1" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -9391,13 +9389,11 @@
   <w>á</w>
   <revision id="369">
     <original><w>Sharia</w><w>lögum</w></original>
-    <corrected><w>sjaría-lögum</w></corrected>
+    <corrected><w>sjaríalögum</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="369-1" eid="0" />
-        <error xtype="letter-rep" idx="369-1" eid="0" />
-        <error xtype="missing-accent" idx="369-1" eid="0" />
+        <error xtype="fw4ice" idx="369-1" eid="0" />
         <error xtype="split-word" idx="369-1" eid="0" />
-        <error xtype="missing-hyphen" idx="369-1" eid="0" />
       </errors>
   </revision>
   <revision id="369b">

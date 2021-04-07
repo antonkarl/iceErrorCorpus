@@ -1252,8 +1252,7 @@
     <original><w>dómsstólsins</w></original>
     <corrected><w>dómstólsins</w></corrected>
       <errors>
-        <error xtype="extra-letter" idx="71-1" eid="0" />
-        <error xtype="compound-nonword" idx="71-1" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -2447,7 +2446,7 @@
     <original><w>af</w></original>
     <corrected></corrected>
       <errors>
-        <error xtype="extra-word" eid="0" />
+        <error xtype="extra-prep" eid="0" />
       </errors>
   </revision>
   <w>mörgum</w>

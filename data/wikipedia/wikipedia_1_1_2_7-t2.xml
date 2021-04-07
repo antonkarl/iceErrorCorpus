@@ -107,7 +107,7 @@
     <original><w>ára</w><w>gamall</w></original>
     <corrected><w>árs</w></corrected>
       <errors>
-        <error xtype="agreement" idx="4-1" eid="0" />
+        <error xtype="agreement-concord" idx="4-1" eid="0" />
         <error xtype="extra-word" idx="4-2" eid="0" />
       </errors>
   </revision>
@@ -775,7 +775,7 @@
     <original><w>ásökum</w></original>
     <corrected><w>ásökunum</w></corrected>
       <errors>
-        <error xtype="ind4def" eid="0" />
+        <error xtype="missing-letters" eid="0" />
       </errors>
   </revision>
   <w>á</w>

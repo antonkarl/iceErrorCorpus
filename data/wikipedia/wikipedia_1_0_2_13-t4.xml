@@ -45,8 +45,7 @@
     <original><w>kóreanskur</w></original>
     <corrected><w>kóreskur</w></corrected>
       <errors>
-        <error xtype="extra-letter" idx="2-1" eid="0"/>
-        <error xtype="extra-letter" idx="2-1" eid="0"/>
+        <error xtype="extra-letters" idx="2-1" eid="0"/>
         <error xtype="nonword" idx="2-1" eid="0"/>
       </errors>
   </revision>
@@ -485,10 +484,10 @@
   <w>milli</w>
   <revision id="16">
     <original><w>900</w><w>000</w></original>
-    <corrected><w>900,000</w></corrected>
+    <corrected><w>900.000</w></corrected>
       <errors>
         <error xtype="extra-space" idx="12-1" eid="0"/>
-        <error xtype="missing-comma" idx="12-1" eid="0"/>
+        <error xtype="missing-period" idx="12-1" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
