@@ -151,7 +151,7 @@
     <original><w>13 Febrúar</w></original>
     <corrected><w>13. febrúar</w></corrected>
       <errors>
-        <error xtype="date-period" idx="31-1" eid="0"/>
+        <error xtype="missing-period" idx="31-1" eid="0"/>
         <error xtype="upper4lower-common" idx="31-2" eid="0"/>
       </errors>
   </revision>
@@ -414,7 +414,7 @@
     <original><w>28</w></original>
     <corrected><w>28.</w></corrected>
       <errors>
-        <error xtype="date-period" eid="0"/>
+        <error xtype="missing-period" eid="0"/>
       </errors>
   </revision>
   <c>-</c>
@@ -422,7 +422,7 @@
     <original><w>29 Ágúst</w></original>
     <corrected><w>29. ágúst</w><c>,</c></corrected>
       <errors>
-        <error xtype="date-period" idx="20-1" eid="0"/>
+        <error xtype="missing-period" idx="20-1" eid="0"/>
         <error xtype="upper4lower-common" idx="20-2" eid="0"/>
         <error xtype="missing-comma" idx="20-3" eid="0"/>
       </errors>
@@ -799,7 +799,7 @@
     <original><w>10 Ágúst</w></original>
     <corrected><w>10. ágúst</w></corrected>
       <errors>
-        <error xtype="date-period" idx="28-1" eid="0"/>
+        <error xtype="missing-period" idx="28-1" eid="0"/>
         <error xtype="upper4lower-common" idx="28-2" eid="0"/>
       </errors>
   </revision>

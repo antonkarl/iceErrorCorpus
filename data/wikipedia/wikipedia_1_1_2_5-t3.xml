@@ -22,7 +22,7 @@
     <original><w>27 ágúst árið 1964</w><c>.</c><w>Paul</w></original>
     <corrected><w>27. ágúst árið 1964</w><c>,</c><w>en</w><w>móðir</w><w>hans</w></corrected>
       <errors>
-        <error xtype="date-period" eid="0" />
+        <error xtype="missing-period" eid="0" />
         <error xtype="period4comma" eid="0" />
         <error xtype="wording" idx="1-1" eid="0" />
       </errors>
@@ -835,7 +835,7 @@
     <original><w>27 desember árið 1992</w><w>var</w><w>Karla</w><w>illa</w><w>barin</w><w>af</w><w>eiginmanni</w><w>sínum</w><w>og</w></original>
     <corrected><w>27. desember árið 1992</w></corrected>
       <errors>
-        <error xtype="date-period" eid="0" />
+        <error xtype="missing-period" eid="0" />
         <error xtype="wording" idx="71-1" eid="0" />
       </errors>
   </revision>
@@ -884,7 +884,7 @@
     <corrected><w>Þann</w><w>17. febrúar 1993</w></corrected>
       <errors>
         <error xtype="missing-word" eid="0" />
-        <error xtype="date-period" eid="0" />
+        <error xtype="missing-period" eid="0" />
       </errors>
   </revision>
   <w>var</w>
