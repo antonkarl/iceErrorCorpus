@@ -2781,7 +2781,7 @@
     <corrected><c>.</c><w>Einnig</w><w>voru</w></corrected>
       <errors>
         <error xtype="comma4period" idx="164-1" eid="0" />
-        <error xtype="missing-word" idx="164-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="164-2" eid="0" />
       </errors>
   </revision>
   <w>þýskir</w>
@@ -2938,7 +2938,7 @@
     <corrected><w>sjóræningjana</w><w>í</w></corrected>
       <errors>
         <error xtype="pro4noun" idx="172-1" eid="0" />
-        <error xtype="missing-word" idx="172-2" eid="0" />
+        <error xtype="missing-prep" idx="172-2" eid="0" />
       </errors>
   </revision>
   <w>burtu</w>
@@ -3437,7 +3437,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
+        <error xtype="though" eid="0" />
       </errors>
   </revision>
   <w>Tyrkjaránið</w>

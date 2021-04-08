@@ -323,7 +323,7 @@
     <original></original>
     <corrected><w>úr</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-prep" eid="0" />
       </errors>
   </revision>
   <w>fjórum</w>
@@ -409,7 +409,7 @@
     <original></original>
     <corrected><w>var</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>algjör</w>
@@ -710,7 +710,7 @@
     <original></original>
     <corrected><w>með</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-prep" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -1056,7 +1056,7 @@
     <original></original>
     <corrected><w>þetta</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>veisla</w>
@@ -1301,7 +1301,7 @@
     <original></original>
     <corrected><w>var</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>lokið</w>
@@ -1339,7 +1339,7 @@
     <original></original>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -1374,7 +1374,7 @@
     <original></original>
     <corrected><w>hefur</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>róast</w>
@@ -1384,7 +1384,7 @@
     <original></original>
     <corrected><w>eru</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>farnir</w>
@@ -1422,7 +1422,8 @@
     <original><w>Ekkert</w></original>
     <corrected><w>Það</w><w>er</w><w>ekkert</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" idx="63-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="63-2" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
@@ -1432,7 +1433,7 @@
     <original></original>
     <corrected><w>þess</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-obj" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -1454,7 +1455,7 @@
     <original></original>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -1482,7 +1483,7 @@
     <original></original>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>lokið</w>
@@ -1560,7 +1561,8 @@
     <original><w>Villuvandræði</w></original>
     <corrected><w>Það</w><w>eru</w><w>villuvandræði</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" idx="71-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="71-2" eid="0" />
       </errors>
   </revision>
   <w>hjá</w>
@@ -1576,7 +1578,7 @@
     <original></original>
     <corrected><w>eru</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>með</w>
@@ -1603,7 +1605,8 @@
     <original></original>
     <corrected><w>Staðan</w><w>er</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" idx="73-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="73-2" eid="0" />
       </errors>
   </revision>
   <w>76</w>
@@ -1628,7 +1631,7 @@
     <original></original>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -1663,7 +1666,7 @@
     <original></original>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -1737,7 +1740,7 @@
     <original></original>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>lokið</w>
@@ -1759,7 +1762,7 @@
     <original></original>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>hér</w>
@@ -1896,7 +1899,7 @@
     <original><w>Ætlaði</w></original>
     <corrected><w>Hann</w><w>ætlaði</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -1939,7 +1942,8 @@
     <original></original>
     <corrected><w>Staðan</w><w>er</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" idx="89-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="89-2" eid="0" />
       </errors>
   </revision>
   <w>43</w>
@@ -1952,7 +1956,8 @@
     <original><w>Allt</w></original>
     <corrected><w>Það</w><w>er</w><w>allt</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" idx="90-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="90=2" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -1987,7 +1992,7 @@
     <original></original>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>lokið</w>
@@ -2005,7 +2010,8 @@
     <original><w>Mikið</w></original>
     <corrected><w>Það</w><w>er</w><w>mikið</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>skorað</w>
@@ -2025,7 +2031,7 @@
     <original></original>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>um</w>
@@ -2038,7 +2044,7 @@
     <original></original>
     <corrected><w>eru</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -2073,7 +2079,7 @@
     <original><w>Stefnir</w></original>
     <corrected><w>Það</w><w>stefnir</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -2089,7 +2095,8 @@
     <original><w>Þrælskemmtilegur</w></original>
     <corrected><w>Það</w><w>er</w><w>þrælskemmtilegur</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>leikur</w>
@@ -2109,7 +2116,7 @@
     <original></original>
     <corrected><w>eru</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -2148,7 +2155,7 @@
     <original></original>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>með</w>
@@ -2187,7 +2194,7 @@
     <original></original>
     <corrected><w>körfuna</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-obj" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -2203,7 +2210,8 @@
     <original></original>
     <corrected><w>Staðan</w><w>er</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" idx="105-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="105-2" eid="0" />
       </errors>
   </revision>
   <w>16</w>
@@ -2240,7 +2248,7 @@
     <original></original>
     <corrected><w>leikinn</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-obj" eid="0" />
       </errors>
   </revision>
   <w>12</w>
@@ -2281,7 +2289,7 @@
     <original></original>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -2323,7 +2331,8 @@
     <original><w>Spurning</w></original>
     <corrected><w>Það</w><w>er</w><w>spurning</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>hvort</w>
@@ -2428,7 +2437,7 @@
     <original></original>
     <corrected><w>upp</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-prep" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -2437,7 +2446,7 @@
     <original></original>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>að</w>

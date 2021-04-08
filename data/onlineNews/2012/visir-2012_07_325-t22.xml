@@ -240,7 +240,7 @@
     <original><w>öryggissjónarmið</w></original>
     <corrected><w>út</w><w>frá</w><w>öryggissjónarmiði</w></corrected>
       <errors>
-        <error xtype="missing-words" idx="7-1" eid="0" />
+        <error xtype="missing-prep" idx="7-1" eid="0" />
         <error xtype="dep" depId="7-1" eid="0" />
       </errors>
   </revision>
@@ -252,7 +252,7 @@
     <original><w>stofnstærðarsjónarmið</w></original>
     <corrected><w>út</w><w>frá</w><w>stofnstærðarsjónarmiði</w></corrected>
       <errors>
-        <error xtype="missing-words" idx="8-1" eid="0" />
+        <error xtype="missing-prep" idx="8-1" eid="0" />
         <error xtype="dep" depId="8-1" eid="0" />
       </errors>
   </revision>
@@ -264,7 +264,7 @@
     <original><w>kostnaður</w></original>
     <corrected><w>vegna</w><w>kostnaðar</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="9-1" eid="0" />
+        <error xtype="missing-prep" idx="9-1" eid="0" />
         <error xtype="dep" depId="9-1" eid="0" />
       </errors>
   </revision>

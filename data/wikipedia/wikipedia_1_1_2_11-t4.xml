@@ -102,7 +102,7 @@
     <original><w>auglýst</w></original>
     <corrected><w>staðurinn</w><w>auglýstur</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="5-1" eid="0" />
+        <error xtype="missing-sub" idx="5-1" eid="0" />
         <error xtype="agreement" idx="5-2" eid="0" />
       </errors>
   </revision>
@@ -326,7 +326,7 @@
     <original></original>
     <corrected><w>inn</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-prep" eid="0" />
       </errors>
   </revision>
   <w>í</w>

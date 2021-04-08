@@ -88,8 +88,7 @@
     <original><w>bay</w><w>félagið</w></original>
     <corrected><w>bay-félagið</w></corrected>
       <errors>
-        <error xtype="split-word" idx="2-1" eid="0" />
-        <error xtype="missing-hyphen" idx="2-1" eid="0" />
+        <error xtype="missing-hyphen" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
@@ -290,7 +289,7 @@
     <original></original>
     <corrected><w>sem</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-conjunction" eid="0" />
       </errors>
   </revision>
   <w>eyðimörk</w>
@@ -445,7 +444,7 @@
     <original></original>
     <corrected><w>af</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-prep" eid="0" />
       </errors>
   </revision>
   <w>svæði</w>

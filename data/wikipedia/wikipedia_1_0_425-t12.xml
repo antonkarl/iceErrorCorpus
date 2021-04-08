@@ -32,7 +32,8 @@
     <original></original>
     <corrected><w>sem</w><w>var</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-conjunction" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>biskups</w>

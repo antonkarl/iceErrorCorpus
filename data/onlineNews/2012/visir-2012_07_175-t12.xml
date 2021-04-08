@@ -288,7 +288,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
+        <error xtype="though" eid="0" />
       </errors>
   </revision>
   <w>nafn</w>
@@ -370,7 +371,7 @@
     <original><w>framundan</w></original>
     <corrected><w>er</w><w>fram</w><w>undan</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="5-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="5-1" eid="0" />
         <error xtype="merged-words" idx="5-2" eid="0" />
       </errors>
   </revision>

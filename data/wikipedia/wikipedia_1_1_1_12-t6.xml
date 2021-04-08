@@ -48,7 +48,8 @@
     <original></original>
     <corrected><w>á</w><w>latínu</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-prep" eid="0" />
+        <error xtype="missing-obj" eid="0" />
       </errors>
   </revision>
   <c>:</c>
@@ -412,8 +413,7 @@
     <original><w>viltu</w></original>
     <corrected><w>villtu</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="20-1" eid="0" />
-        <error xtype="nonword" idx="20-1" eid="0" />
+        <error xtype="missing-letter" eid="0" />
       </errors>
   </revision>
   <c>.</c>

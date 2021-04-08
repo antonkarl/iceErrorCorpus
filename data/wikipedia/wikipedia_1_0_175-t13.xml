@@ -308,7 +308,7 @@
     <original></original>
     <corrected><w>þau</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-obj" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -351,7 +351,7 @@
     <original></original>
     <corrected><w>þær</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>labba</w>
@@ -860,7 +860,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
+        <error xtype="though" eid="0" />
       </errors>
   </revision>
   <w>riða</w>
@@ -899,7 +900,8 @@
     <original></original>
     <corrected><w>en</w><w>hann</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-conjunction" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>kom</w>
@@ -929,8 +931,7 @@
     <original><w>prion</w><w>sjúkdómi</w></original>
     <corrected><w>prion-sjúkdómi</w></corrected>
       <errors>
-        <error xtype="split-word" idx="44-1" eid="0" />
-        <error xtype="missing-hyphen" idx="44-1" eid="0" />
+        <error xtype="missing-hyphen" eid="0" />
       </errors>
   </revision>
   <w>smitaðist</w>
@@ -1180,7 +1181,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
+        <error xtype="though" eid="0" />
       </errors>
   </revision>
   <w>næsti</w>

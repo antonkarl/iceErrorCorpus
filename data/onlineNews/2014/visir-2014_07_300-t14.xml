@@ -258,7 +258,8 @@
     <original><w>Alvöru</w></original>
     <corrected><w>Þetta</w><w>er</w><w>alvöru</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>fjárfesting</w>
@@ -381,7 +382,7 @@
     <original></original>
     <corrected><w>hafa</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>líklega</w>

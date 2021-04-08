@@ -750,7 +750,7 @@
     <corrected><w>hana</w><w>um</w></corrected>
       <errors>
         <error xtype="noun4pro" idx="41-1" eid="0"/>
-        <error xtype="missing-word" idx="41-2" eid="0"/>
+        <error xtype="missing-prep" idx="41-2" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -1161,7 +1161,7 @@
     <original/>
     <corrected><w>honum</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-obj" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -1414,7 +1414,7 @@
     <original><w>glímast</w></original>
     <corrected><w>glíma</w></corrected>
       <errors>
-        <error xtype="verb-inflection" eid="0"/>
+        <error xtype="mid4act" eid="0"/>
       </errors>
   </revision>
   <c>.</c>

@@ -113,7 +113,7 @@
     <original></original>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>úr</w>
@@ -163,7 +163,9 @@
     <original></original>
     <corrected><w>sem</w><w>fram</w><w>fór</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-conjunction" idx="9-1" eid="0" />
+        <error xtype="missing-prep" idx="9-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="9-3" eid="0" />
       </errors>
   </revision>
   <w>sumarið</w>

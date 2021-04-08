@@ -63,7 +63,7 @@
     <corrected><c>,</c><w>eða</w></corrected>
       <errors>
         <error xtype="bracket4comma" eid="0" />
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-conjunction" eid="0" />
       </errors>
   </revision>
   <w>Barbaríið</w>
@@ -90,7 +90,8 @@
     <corrected><w>sem</w><w>eru</w><w>Arabar</w></corrected>
       <errors>
         <error xtype="extra-bracket" eid="0" />
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-conjunction" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>og</w>

@@ -36,7 +36,7 @@
     <original></original>
     <corrected><w>Hann</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>fæddist</w>
@@ -285,7 +285,8 @@
     <corrected><w>fyrir</w><w>því</w></corrected>
       <errors>
         <error xtype="wording" idx="6-1" eid="0" />
-        <error xtype="missing-words" idx="6-2" eid="0" />
+        <error xtype="missing-prep" idx="6-2" eid="0" />
+        <error xtype="missing-obj" idx="6-2" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -652,7 +653,7 @@
     <original></original>
     <corrected><w>með</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-prep" eid="0" />
       </errors>
   </revision>
   <w>andstyggilegum</w>
@@ -1075,7 +1076,8 @@
     <original></original>
     <corrected><w>um</w><w>hann</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-prep" eid="0" />
+        <error xtype="missing-obj" eid="0" />
       </errors>
   </revision>
   <w>sem</w>

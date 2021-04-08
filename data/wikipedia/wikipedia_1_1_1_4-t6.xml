@@ -92,7 +92,8 @@
     <corrected><c>„</c><w>Euler</w><c>“</c><w>er</w></corrected>
       <errors>
         <error xtype="missing-quots" eid="0"/>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-sub" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>borið</w>
@@ -233,7 +234,7 @@
     <original/>
     <corrected><w>hann</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-sub" eid="0"/>
       </errors>
   </revision>
   <w>gerði</w>

@@ -65,7 +65,7 @@
     <corrected><c>.</c><w>Þau</w></corrected>
       <errors>
         <error xtype="conjunction4period" idx="1-1" eid="0" />
-        <error xtype="missing-word" idx="1-2" eid="0" />
+        <error xtype="missing-sub" idx="1-2" eid="0" />
       </errors>
   </revision>
   <w>numu</w>
@@ -707,7 +707,7 @@
     <corrected><w>nýttur</w><w>sem</w></corrected>
       <errors>
         <error xtype="agreement-pred" idx="13-1" eid="0" />
-        <error xtype="missing-word" idx="13-2" eid="0" />
+        <error xtype="missing-conjunction" idx="13-2" eid="0" />
       </errors>
   </revision>
   <w>búr</w>
@@ -834,7 +834,7 @@
     <original><w>Lítur</w></original>
     <corrected><w>Það</w><w>lítur</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>út</w>
@@ -923,7 +923,7 @@
     <original><w>Fannst</w></original>
     <corrected><w>Smiðjan</w><w>fannst</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>vegna</w>
@@ -1076,7 +1076,7 @@
     <original><w>Liggur</w></original>
     <corrected><w>Jarðhús</w><w>liggur</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>um</w>

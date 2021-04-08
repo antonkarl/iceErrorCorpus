@@ -64,7 +64,7 @@
     <original></original>
     <corrected><w>þeim</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>var</w>
@@ -315,7 +315,8 @@
     <original></original>
     <corrected><w>er</w><w>það</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-fin-verb" idx="11-1" eid="0" />
+        <error xtype="missing-sub" idx="11-2" eid="0" />
       </errors>
   </revision>
   <w>sú</w>
@@ -436,7 +437,7 @@
     <original></original>
     <corrected><w>var</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>framundan</w>
@@ -500,7 +501,7 @@
     <original><w>Fögnuðu</w></original>
     <corrected><w>Þeir</w><w>fögnuðu</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>heimsmeistaratitlinum</w>
@@ -585,7 +586,7 @@
     <original></original>
     <corrected><w>var</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>gjörsamlega</w>
@@ -1223,7 +1224,7 @@
     <original></original>
     <corrected><w>til</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-prep" eid="0" />
       </errors>
   </revision>
   <w>vinstri</w>
@@ -1320,7 +1321,7 @@
     <original><w>Setti</w></original>
     <corrected><w>Hann</w><w>setti</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>boltann</w>
@@ -1502,7 +1503,7 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-conjunction" eid="0" />
       </errors>
   </revision>
   <w>varamarkvörður</w>

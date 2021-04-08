@@ -353,7 +353,7 @@
     <corrected><w>fimmta</w><w>til</w><w>sjötta</w></corrected>
       <errors>
         <error xtype="number4word" idx="49-1" eid="0"/>
-        <error xtype="symbol4word" idx="49-2" eid="0"/>
+        <error xtype="hyphen4word" idx="49-2" eid="0"/>
         <error xtype="number4word" idx="49-3" eid="0"/>
       </errors>
   </revision>
@@ -589,7 +589,8 @@
     <original><w>Stórkostlegur</w><w>leikur</w></original>
     <corrected><w>Úrslitaleikurinn</w><w>var</w><w>stórkostlegur</w><w>árið 1996</w><c>.</c></corrected>
       <errors>
-        <error xtype="missing-words" idx="29-1" eid="0"/>
+        <error xtype="missing-sub" idx="29-1" eid="0"/>
+        <error xtype="missing-fin-verb" idx="29-1" eid="0" />
         <error xtype="wording" idx="29-1" eid="0"/>
         <error xtype="missing-period" idx="29-2" eid="0"/>
       </errors>
@@ -630,7 +631,8 @@
     <original/>
     <corrected><w>reyndin</w><w>er</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-sub" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>með</w>
@@ -1538,7 +1540,7 @@
     <original/>
     <corrected><w>á</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
       </errors>
   </revision>
   <w>deginum</w>

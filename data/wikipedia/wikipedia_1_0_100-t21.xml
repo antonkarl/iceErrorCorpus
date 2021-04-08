@@ -85,7 +85,7 @@
     <corrected><c>,</c><w>á</w></corrected>
       <errors>
         <error xtype="missing-comma" idx="5-1" eid="0" />
-        <error xtype="missing-word" idx="5-2" eid="0" />
+        <error xtype="missing-prep" idx="5-2" eid="0" />
       </errors>
   </revision>
   <w>eftir</w>
@@ -236,7 +236,8 @@
     <corrected><c>.</c><w>Þeir</w><w>eru</w></corrected>
       <errors>
         <error xtype="missing-period" idx="13-1" eid="0" />
-        <error xtype="missing-words" idx="13-2" eid="0" />
+        <error xtype="missing-sub" idx="13-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="13-3" eid="0" />
       </errors>
   </revision>
   <c>:</c>
@@ -514,7 +515,7 @@
     <original></original>
     <corrected><w>hana</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-obj" eid="0" />
       </errors>
   </revision>
   <w>til</w>
@@ -754,7 +755,7 @@
     <original></original>
     <corrected><w>yfir</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-prep" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -787,7 +788,7 @@
     <corrected><c>.</c><w>Hann</w></corrected>
       <errors>
         <error xtype="conjunction4period" idx="51-1" eid="0" />
-        <error xtype="missing-word" idx="51-2" eid="0" />
+        <error xtype="missing-sub" idx="51-2" eid="0" />
       </errors>
   </revision>
   <w>færði</w>
@@ -842,7 +843,8 @@
       <errors>
         <error xtype="extra-bracket" idx="54-1" eid="0" />
         <error xtype="comma4conjunction" idx="54-2" eid="0" />
-        <error xtype="missing-words" idx="54-3" eid="0" />
+        <error xtype="missing-fin-verb" idx="54-3" eid="0" />
+        <error xtype="missing-sub" idx="54-3" eid="0" />
       </errors>
   </revision>
   <w>nafn</w>
@@ -974,7 +976,7 @@
     <original></original>
     <corrected><w>stóð</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -1392,7 +1394,7 @@
     <original></original>
     <corrected><w>í</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-prep" eid="0" />
       </errors>
   </revision>
   <w>London</w>
@@ -1400,7 +1402,9 @@
     <original></original>
     <corrected><w>sem</w><w>gerði</w><w>borginni</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-conjunction" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
+        <error xtype="missing-obj" eid="0" />
       </errors>
   </revision>
   <w>kleift</w>
@@ -1735,7 +1739,7 @@
     <original></original>
     <corrected><w>útþenslan</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>staðnæmdist</w>
@@ -1770,7 +1774,9 @@
       <errors>
         <error xtype="nominal-inflection" idx="100-1" eid="0" />
         <error xtype="missing-comma" idx="100-2" eid="0" />
-        <error xtype="missing-words" idx="100-3" eid="0" />
+        <error xtype="missing-conjunction" idx="100-3" eid="0" />
+        <error xtype="missing-word" idx="100-3" eid="0" />
+        <error xtype="missing-fin-verb" idx="100-3" eid="0" />
       </errors>
   </revision>
   <w>af</w>
@@ -2145,7 +2151,7 @@
     <original></original>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>af</w>
@@ -2254,7 +2260,7 @@
     <original></original>
     <corrected><w>eru</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>notuð</w>
@@ -2439,7 +2445,7 @@
     <corrected><w>sem</w><w>er</w></corrected>
       <errors>
         <error xtype="missing-conjunction" idx="158-1" eid="0" />
-        <error xtype="missing-word" idx="158-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="158-2" eid="0" />
       </errors>
   </revision>
   <w>umkringt</w>
@@ -2669,7 +2675,7 @@
     <original><w>nokkur</w><w>önnur</w><w>gata</w></original>
     <corrected><w>á</w><w>nokkurri</w><w>annarri</w><w>götu</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="171-1" eid="0" />
+        <error xtype="missing-prep" idx="171-1" eid="0" />
         <error xtype="dep" depId="171-1" eid="0" />
         <error xtype="dep" depId="171-1" eid="0" />
         <error xtype="dep" depId="171-1" eid="0" />
@@ -2694,7 +2700,7 @@
     <corrected><w>sem</w><w>er</w></corrected>
       <errors>
         <error xtype="missing-conjunction" idx="172-1" eid="0" />
-        <error xtype="missing-word" idx="172-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="172-2" eid="0" />
       </errors>
   </revision>
   <w>næstum</w>
@@ -2936,7 +2942,7 @@
     <original></original>
     <corrected><w>Í</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-prep" eid="0" />
       </errors>
   </revision>
   <w>London</w>
@@ -3014,7 +3020,7 @@
     <original></original>
     <corrected><w>við</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-prep" eid="0" />
       </errors>
   </revision>
   <w>stjórn</w>
@@ -3497,7 +3503,8 @@
     <corrected><w>en</w><w>hún</w><w>hefur</w></corrected>
       <errors>
         <error xtype="missing-conjunction" idx="221-1" eid="0" />
-        <error xtype="missing-words" idx="221-2" eid="0" />
+        <error xtype="missing-sub" idx="221-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="221-2" eid="0" />
       </errors>
   </revision>
   <w>endastöðvar</w>
@@ -3660,7 +3667,8 @@
     <original></original>
     <corrected><w>strætisvagna</w><w>um</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-prep" eid="0" />
       </errors>
   </revision>
   <w>1,5</w>
@@ -3709,7 +3717,7 @@
     <original></original>
     <corrected><w>Í</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-prep" eid="0" />
       </errors>
   </revision>
   <w>London</w>

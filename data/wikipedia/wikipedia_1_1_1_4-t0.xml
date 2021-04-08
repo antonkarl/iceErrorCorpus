@@ -641,7 +641,7 @@
     <original/>
     <corrected><w>í</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
       </errors>
   </revision>
   <w>Frakklandi</w>
@@ -671,7 +671,8 @@
     <corrected><c>.</c><w>Héraðið</w><w>er</w></corrected>
       <errors>
         <error xtype="comma4period" eid="0"/>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-sub" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>það</w>

@@ -85,7 +85,7 @@
     <original><w>aðal</w><w>verkefni</w></original>
     <corrected><w>aðalverkefni</w></corrected>
       <errors>
-        <error xtype="split-compound" eid="0" />
+        <error xtype="split-word" eid="0" />
       </errors>
   </revision>
   <w>skipulagsráðs</w>
@@ -388,7 +388,7 @@
     <original></original>
     <corrected><w>við</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-prep" eid="0" />
       </errors>
   </revision>
   <w>250</w>

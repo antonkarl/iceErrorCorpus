@@ -853,7 +853,7 @@
     <original><w>vegnast</w></original>
     <corrected><w>vegna</w></corrected>
       <errors>
-        <error xtype="verb-inflection" eid="0"/>
+        <error xtype="nonword" eid="0"/>
       </errors>
   </revision>
   <w>vel</w>
@@ -992,7 +992,8 @@
     <original/>
     <corrected><w>ég</w><w>vil</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-sub" idx="29-1" eid="0"/>
+        <error xtype="missing-fin-verb" idx="29-2" eid="0" />
       </errors>
   </revision>
   <w>halda</w>
@@ -1143,7 +1144,7 @@
     <original><w>betra</w></original>
     <corrected><w>betur</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="adj4adv" eid="0"/>
       </errors>
   </revision>
   <w>heldur</w>
@@ -1256,7 +1257,7 @@
     <original/>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0"/>
       </errors>
   </revision>
   <w>mjög</w>

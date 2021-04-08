@@ -143,7 +143,7 @@
     <original/>
     <corrected><w>um</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
       </errors>
   </revision>
   <w>63 km</w>
@@ -211,7 +211,8 @@
     <original/>
     <corrected><w>skilgreind</w><w>sem</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" eid="0" />
       </errors>
   </revision>
   <w>franskt</w>
@@ -506,7 +507,9 @@
     <corrected><c>,</c><w>en</w><w>nafnið</w><w>vísar</w></corrected>
       <errors>
         <error xtype="dep" depId="21-1" eid="0"/>
-        <error xtype="missing-words" idx="21-2" eid="0"/>
+        <error xtype="missing-conjunction" idx="21-2" eid="0"/>
+        <error xtype="missing-sub" idx="21-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="21-2" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -645,7 +648,8 @@
     <corrected><w>báru</w><w>með</w><w>sér</w></corrected>
       <errors>
         <error xtype="pres4past" idx="36-1" eid="0"/>
-        <error xtype="missing-words" idx="36-2" eid="0"/>
+        <error xtype="missing-prep" idx="36-2" eid="0"/>
+        <error xtype="missing-obj" idx="36-2" eid="0" />
       </errors>
   </revision>
   <w>sóttina</w>

@@ -222,7 +222,7 @@
     <original></original>
     <corrected><w>hafi</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>tekið</w>
@@ -260,7 +260,7 @@
       <errors>
         <error xtype="agreement-pred" eid="0" />
         <error xtype="collocation" idx="5-1" eid="0" />
-        <error xtype="nominal-inflection" idx="5-1" eid="0" />
+        <error xtype="pro-inflection" idx="5-1" eid="0" />
       </errors>
   </revision>
   <w>fram</w>

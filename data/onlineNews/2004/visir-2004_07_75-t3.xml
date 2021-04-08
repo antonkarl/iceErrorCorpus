@@ -75,7 +75,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-conjunction" eid="0" />
+        <error xtype="though" eid="0" />
       </errors>
   </revision>
   <w>hún</w>
@@ -347,8 +348,7 @@
     <original><w>hefðbundin</w></original>
     <corrected><w>hefðbundinn</w></corrected>
       <errors>
-        <error xtype="n4nn" idx="3-1" eid="0" />
-        <error xtype="agreement-concord" idx="3-1" eid="0" />
+        <error xtype="agreement-concord" eid="0" />
       </errors>
   </revision>
   <w>búning</w>
@@ -832,7 +832,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
+        <error xtype="though" eid="0" />
       </errors>
   </revision>
   <w>Moore</w>

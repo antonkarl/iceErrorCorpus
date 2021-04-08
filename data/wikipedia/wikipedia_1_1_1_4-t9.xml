@@ -716,7 +716,7 @@
     <original/>
     <corrected><w>með</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
       </errors>
   </revision>
   <w>til</w>
@@ -1398,7 +1398,7 @@
     <original><w>var</w></original>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="pres4past" eid="0"/>
+        <error xtype="past4pres" eid="0"/>
       </errors>
   </revision>
   <w>jafnvel</w>

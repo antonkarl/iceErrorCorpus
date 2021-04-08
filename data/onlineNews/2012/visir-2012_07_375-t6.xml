@@ -188,7 +188,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
+        <error xtype="though" eid="0" />
       </errors>
   </revision>
   <w>maður</w>
@@ -238,7 +239,7 @@
     <corrected><c>,</c><w>um</w></corrected>
       <errors>
         <error xtype="double-punctuation" idx="9-1" eid="0" />
-        <error xtype="missing-word" idx="9-2" eid="0" />
+        <error xtype="missing-prep" idx="9-2" eid="0" />
       </errors>
   </revision>
   <w>hvað</w>
@@ -453,7 +454,7 @@
       <errors>
         <error xtype="extra-word" idx="16-1" eid="0" />
         <error xtype="dep" depId="16-1" eid="0" />
-        <error xtype="missing-word" idx="16-2" eid="0" />
+        <error xtype="missing-sub" idx="16-2" eid="0" />
       </errors>
   </revision>
   <w>mínum</w>
@@ -477,7 +478,8 @@
     <original><w>Föst</w></original>
     <corrected><w>Við</w><w>erum</w><w>föst</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" idx="17-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="17-2" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -1246,7 +1248,7 @@
     <original></original>
     <corrected><w>hann</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>horft</w>
@@ -1874,7 +1876,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
+        <error xtype="though" eid="0" />
       </errors>
   </revision>
   <w>það</w>
@@ -2411,7 +2414,7 @@
     <original></original>
     <corrected><w>til</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-conjunction" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -3361,7 +3364,7 @@
       <errors>
         <error xtype="missing-qm" idx="120-1" eid="0" />
         <error xtype="extra-conjunction" idx="120-2" eid="0" />
-        <error xtype="missing-word" idx="120-3" eid="0" />
+        <error xtype="missing-sub" idx="120-3" eid="0" />
       </errors>
   </revision>
   <w>eru</w>

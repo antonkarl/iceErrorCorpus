@@ -256,7 +256,7 @@
     <corrected><c>,</c><w>en</w></corrected>
       <errors>
         <error xtype="missing-comma" eid="0"/>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
       </errors>
   </revision>
   <w>þá</w>
@@ -707,7 +707,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
+        <error xtype="though" eid="0" />
       </errors>
   </revision>
   <w>tímamót</w>
@@ -822,7 +823,7 @@
     <original/>
     <corrected><w>honum</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-obj" eid="0"/>
       </errors>
   </revision>
   <w>því</w>
@@ -900,7 +901,7 @@
     <original/>
     <corrected><w>þegar</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
       </errors>
   </revision>
   <w>mamma</w>
@@ -908,7 +909,7 @@
     <original/>
     <corrected><w>var</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0"/>
       </errors>
   </revision>
   <w>búin</w>
@@ -948,8 +949,7 @@
     <original><w>tilbúin</w></original>
     <corrected><w>tilbúinn</w></corrected>
       <errors>
-        <error xtype="agreement-pred" idx="44-1" eid="0"/>
-        <error xtype="n4nn" idx="44-1" eid="0"/>
+        <error xtype="agreement-pred" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -1210,7 +1210,7 @@
     <original/>
     <corrected><w>mig</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-obj" eid="0"/>
       </errors>
   </revision>
   <w>sem</w>
@@ -1246,7 +1246,7 @@
   <w>bara</w>
   <w>að</w>
   <w>sætta</w>
-  <revision id="4a">
+  <revision id="41a">
     <original><w>síg</w></original>
     <corrected><w>sig</w></corrected>
       <errors>
@@ -1376,7 +1376,7 @@
     <original/>
     <corrected><w>úr</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
       </errors>
   </revision>
   <w>brúðuleikurunum</w>

@@ -236,7 +236,7 @@
     <original/>
     <corrected><w>um</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
       </errors>
   </revision>
   <w>hver</w>
@@ -283,7 +283,8 @@
     <original/>
     <corrected><w>vel</w><w>út</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-prep" eid="0" />
       </errors>
   </revision>
   <w>þá</w>
@@ -319,7 +320,8 @@
     <corrected><c>.</c><w>Einnig</w><w>verður</w></corrected>
       <errors>
         <error xtype="conjunction4period" eid="0"/>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>auðveldara</w>
@@ -465,7 +467,8 @@
     <original><w>en</w><w>ég</w></original>
     <corrected><w>fyrir</w><w>öðrum</w><c>.</c><w>Ég</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
+        <error xtype="missing-obj" eid="0" />
         <error xtype="conjunction4period" eid="0"/>
       </errors>
   </revision>

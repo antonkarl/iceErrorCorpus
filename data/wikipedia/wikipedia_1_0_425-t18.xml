@@ -163,7 +163,7 @@
     <corrected><w>Maníla</w><w>í</w><w>Filippseyjum</w></corrected>
       <errors>
         <error xtype="fw4ice" idx="9-1" eid="0" />
-        <error xtype="missing-word" idx="9-2" eid="0" />
+        <error xtype="missing-prep" idx="9-2" eid="0" />
         <error xtype="name-error" idx="9-3" eid="0" />
       </errors>
   </revision>
@@ -283,7 +283,7 @@
     <corrected><w>í</w></corrected>
       <errors>
         <error xtype="extra-bracket" idx="14-1" eid="0" />
-        <error xtype="missing-word" idx="14-2" eid="0" />
+        <error xtype="missing-prep" idx="14-2" eid="0" />
       </errors>
   </revision>
   <w>Amsterdam</w>
@@ -424,7 +424,7 @@
     <corrected><w>í</w><w>Þýskalandi</w></corrected>
       <errors>
         <error xtype="extra-bracket" idx="26-1" eid="0" />
-        <error xtype="missing-word" idx="26-2" eid="0" />
+        <error xtype="missing-prep" idx="26-2" eid="0" />
         <error xtype="fw4ice" idx="26-3" eid="0" />
         <error xtype="extra-bracket" idx="26-4" eid="0" />
       </errors>
@@ -435,7 +435,7 @@
     <corrected><w>í</w><w>Hollandi</w><w>og</w><w>Belgíu</w></corrected>
       <errors>
         <error xtype="extra-bracket" idx="27-1" eid="0" />
-        <error xtype="missing-word" idx="27-2" eid="0" />
+        <error xtype="missing-prep" idx="27-2" eid="0" />
         <error xtype="fw4ice" idx="27-3" eid="0" />
         <error xtype="symbol4word" idx="27-4" eid="0" />
         <error xtype="extra-bracket" idx="27-5" eid="0" />
@@ -447,7 +447,7 @@
     <original><w>Scandinavia</w></original>
     <corrected><w>í</w><w>Skandinavíu</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="28-1" eid="0" />
+        <error xtype="missing-prep" idx="28-1" eid="0" />
         <error xtype="fw4ice" idx="28-2" eid="0" />
       </errors>
   </revision>

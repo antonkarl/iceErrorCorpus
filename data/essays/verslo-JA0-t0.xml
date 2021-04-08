@@ -564,7 +564,7 @@
     <original><c>,</c><w>flogið</w></original>
     <corrected><c>:</c><w>Flogið</w></corrected>
       <errors>
-        <error xtype="iteration-colon" eid="0"/>
+        <error xtype="comma4colon" eid="0"/>
       </errors>
   </revision>
   <c>,</c>
@@ -575,8 +575,7 @@
     <original/>
     <corrected><w>niður</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="9-1" eid="0"/>
-		<error xtype="style" idx="9-1" eid="0"/>
+        <error xtype="missing-word" eid="0"/>
       </errors>
   </revision>
   <w>á</w>
@@ -1191,7 +1190,7 @@
     <original><w>lang</w><w>efstir</w></original>
     <corrected><w>langefstir</w></corrected>
       <errors>
-        <error xtype="split-compound" eid="0"/>
+        <error xtype="split-word" eid="0"/>
       </errors>
   </revision>
   <w>í</w>

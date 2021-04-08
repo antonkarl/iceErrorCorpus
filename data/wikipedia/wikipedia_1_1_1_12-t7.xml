@@ -52,7 +52,8 @@
     <corrected><c>.</c><w>Hlutskarpastur</w><w>varð</w></corrected>
       <errors>
         <error xtype="colon4period" idx="1-1" eid="0" />
-        <error xtype="missing-words" idx="1-2" eid="0" />
+        <error xtype="missing-sub" idx="1-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="1-2" eid="0" />
       </errors>
   </revision>
   <w>Jóhann</w>
@@ -66,7 +67,9 @@
     <corrected><w>en</w><w>hann</w><w>fékk</w><w>verðlaunin</w></corrected>
       <errors>
         <error xtype="comma4conjunction" idx="2-1" eid="0" />
-        <error xtype="missing-words" idx="2-2" eid="0" />
+        <error xtype="missing-sub" idx="2-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="2-2" eid="0" />
+        <error xtype="missing-obj" idx="2-2" eid="0" />
       </errors>
   </revision>
   <w>fyrir</w>
@@ -424,7 +427,9 @@
     <original><w>Einnig</w></original>
     <corrected><w>Kristinn</w><w>var</w><w>einnig</w><w>tilnefndur</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
+        <error xtype="missing-word" eid="0" />
       </errors>
   </revision>
   <w>fyrir</w>

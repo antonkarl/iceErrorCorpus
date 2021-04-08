@@ -485,7 +485,7 @@
     <original/>
     <corrected><w>hefur</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0"/>
       </errors>
   </revision>
   <w>náð</w>
@@ -582,7 +582,7 @@
     <original/>
     <corrected><w>ég</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-sub" eid="0"/>
       </errors>
   </revision>
   <w>tala</w>
@@ -677,7 +677,7 @@
     <original/>
     <corrected><w>það</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-sub" eid="0"/>
       </errors>
   </revision>
   <w>fer</w>
@@ -1030,7 +1030,7 @@
     <original/>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
       </errors>
   </revision>
   <w>búið</w>
@@ -1038,7 +1038,7 @@
     <original/>
     <corrected><w>sé</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -1198,8 +1198,7 @@
     <original><w>stemmt</w></original>
     <corrected><w>stefnt</w></corrected>
       <errors>
-        <error xtype="pronun-writing" idx="15-1" eid="0"/>
-        <error xtype="nonword" idx="15-1" eid="0"/>
+        <error xtype="pronun-writing" eid="0"/>
       </errors>
   </revision>
   <w>á</w>
@@ -1209,7 +1208,7 @@
     <original/>
     <corrected><w>ég</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-sub" eid="0"/>
       </errors>
   </revision>
   <w>ætlaði</w>
@@ -1295,7 +1294,7 @@
     <original></original>
     <corrected><w>það</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>tekst</w>
@@ -1338,7 +1337,7 @@
     <original/>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
       </errors>
   </revision>
   <w>margir</w>

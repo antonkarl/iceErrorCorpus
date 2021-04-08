@@ -234,7 +234,7 @@
     <original><w>Veiði</w></original>
     <corrected><w>Ég</w><w>veiði</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>einungis</w>
@@ -248,7 +248,7 @@
     <original></original>
     <corrected><w>í</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-prep" eid="0" />
       </errors>
   </revision>
   <w>eitt</w>
@@ -561,7 +561,7 @@
     <original><w>Fjórða</w></original>
     <corrected><w>Í</w><w>fjórða</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="24-1" eid="0" />
+        <error xtype="missing-prep" idx="24-1" eid="0" />
         <error xtype="dep" depId="24-1" eid="0" />
       </errors>
   </revision>
@@ -639,7 +639,7 @@
     <original><w>Stóru</w><w>Laxá</w></original>
     <corrected><w>Í</w><w>Stóru-Laxá</w><c>,</c></corrected>
       <errors>
-        <error xtype="missing-word" idx="29-1" eid="0" />
+        <error xtype="missing-prep" idx="29-1" eid="0" />
         <error xtype="missing-hyphen" idx="29-2" eid="0" />
         <error xtype="missing-comma" idx="29-3" eid="0" />
       </errors>
@@ -731,7 +731,7 @@
     <original><w>Magnaður</w></original>
     <corrected><w>er</w><w>magnaður</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="34-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="34-1" eid="0" />
         <error xtype="upper4lower-noninitial" idx="34-2" eid="0" />
       </errors>
   </revision>
@@ -969,7 +969,7 @@
     <original></original>
     <corrected><w>eða</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-conjunction" eid="0" />
       </errors>
   </revision>
   <w>línur</w>
@@ -987,7 +987,7 @@
     <original><w>Er</w></original>
     <corrected><w>Ég</w><w>er</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>með</w>

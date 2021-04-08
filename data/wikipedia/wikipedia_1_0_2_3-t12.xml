@@ -259,7 +259,7 @@
     <original/>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0"/>
       </errors>
   </revision>
   <w>oftast</w>
@@ -426,7 +426,7 @@
     <corrected><c>.</c><w>Halinn</w><w>er</w></corrected>
       <errors>
         <error xtype="comma4period" eid="0"/>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0"/>
       </errors>
   </revision>
   <w>stuttur</w>
@@ -470,7 +470,7 @@
     <original/>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0"/>
       </errors>
   </revision>
   <w>stutt</w>
@@ -791,7 +791,10 @@
     <original/>
     <corrected><w>á</w><w>þeim</w><w>sem</w><w>lifa</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
+        <error xtype="missing-obj" eid="0" />
+        <error xtype="missing-conjunction" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -997,7 +1000,7 @@
     <original/>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
       </errors>
   </revision>
   <w>hann</w>
@@ -1042,7 +1045,7 @@
     <original><w>5</w></original>
     <corrected><w>eru</w><w>fimm</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0"/>
         <error xtype="number4word" eid="0"/>
       </errors>
   </revision>
@@ -1057,7 +1060,8 @@
     <corrected><c>,</c><w>þeir</w><w>eru</w><w>lítið</w></corrected>
       <errors>
         <error xtype="period4comma" eid="0"/>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-sub" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>kúptir</w>
@@ -1086,7 +1090,7 @@
       <errors>
         <error xtype="dep" depId="41-1" eid="0"/>
         <error xtype="period4conjunction" eid="0"/>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0"/>
       </errors>
   </revision>
   <w>egglaga</w>

@@ -504,8 +504,7 @@
     <original><w>Hin</w></original>
     <corrected><w>Hinn</w></corrected>
       <errors>
-        <error xtype="n4nn" idx="14-1" eid="0"/>
-        <error xtype="agreement-concord" idx="14-1" eid="0"/>
+        <error xtype="agreement-concord" eid="0"/>
       </errors>
   </revision>
   <w>vestræni</w>
@@ -940,7 +939,7 @@
     <original><w>er</w></original>
     <corrected><w>eru</w></corrected>
       <errors>
-        <error xtype="singular4plural" eid="0" />
+        <error xtype="agreement" eid="0" />
       </errors>
   </revision>
   <w>ekki</w>

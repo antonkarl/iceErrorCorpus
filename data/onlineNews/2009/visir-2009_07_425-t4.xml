@@ -47,7 +47,7 @@
     <original></original>
     <corrected><w>á</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="1-1" eid="0" />
+        <error xtype="missing-prep" idx="1-1" eid="0" />
       </errors>
   </revision>
   <w>sama</w>
@@ -88,7 +88,7 @@
     <original><w>voru</w></original>
     <corrected><w>hafi</w><w>verið</w></corrected>
       <errors>
-        <error xtype="wording" idx="3-1" eid="0" />
+        <error xtype="tense4perfect" idx="3-1" eid="0" />
         <error xtype="ind4sub" idx="3-1" eid="0" />
       </errors>
   </revision>
@@ -473,7 +473,7 @@
     <original></original>
     <corrected><w>upp</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-prep" eid="0" />
       </errors>
   </revision>
   <c>.</c>

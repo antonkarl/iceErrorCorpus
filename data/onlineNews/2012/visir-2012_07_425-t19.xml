@@ -287,7 +287,7 @@
     <original><w>við</w></original>
     <corrected><w>um</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="11-1" eid="0" />
+        <error xtype="missing-prep" idx="11-1" eid="0" />
         <error xtype="wording" idx="11-2" eid="0" />
       </errors>
   </revision>
@@ -443,7 +443,8 @@
     <original></original>
     <corrected><w>er</w><w>fullbúin</w><c>.</c></corrected>
       <errors>
-        <error xtype="missing-words" idx="17-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="17-1" eid="0" />
+        <error xtype="missing-word" idx="17-1" eid="0" />
         <error xtype="missing-period" idx="17-2" eid="0" />
       </errors>
   </revision>
@@ -965,7 +966,7 @@
     <corrected><w>er</w><w>á</w></corrected>
       <errors>
         <error xtype="extra-colon" idx="30-1" eid="0" />
-        <error xtype="missing-word" idx="30-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="30-2" eid="0" />
         <error xtype="upper4lower-noninitial" idx="30-3" eid="0" />
       </errors>
   </revision>
@@ -982,7 +983,7 @@
     <corrected><w>eru</w><w>mjúk</w></corrected>
       <errors>
         <error xtype="extra-colon" idx="31-1" eid="0" />
-        <error xtype="missing-word" idx="31-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="31-2" eid="0" />
         <error xtype="upper4lower-noninitial" idx="31-3" eid="0" />
       </errors>
   </revision>
@@ -1010,7 +1011,7 @@
     <original></original>
     <corrected><w>voru</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <c>:</c>
@@ -1018,9 +1019,9 @@
     <original><w>1</w><c>.</c></original>
     <corrected><w>Í</w><w>fyrsta</w><w>sæti</w><w>var</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="34-1" eid="0" />
+        <error xtype="missing-prep" idx="34-1" eid="0" />
         <error xtype="number4word" idx="34-2" eid="0" />
-        <error xtype="wording" idx="34-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="34-3" eid="0" />
       </errors>
   </revision>
   <w>Fernando</w>

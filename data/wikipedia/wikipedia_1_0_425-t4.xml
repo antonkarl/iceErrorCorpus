@@ -93,7 +93,9 @@
     <original><w>Búrgundara</w></original>
     <corrected><w>Búrgúndar</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0" />
+        <error xtype="missing-accent" eid="0" />
+        <error xtype="extra-letter" eid="0" />
+        <error xtype="nonword" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
@@ -684,7 +686,7 @@
     <original></original>
     <corrected><w>til</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-conjunction" eid="0" />
       </errors>
   </revision>
   <w>að</w>

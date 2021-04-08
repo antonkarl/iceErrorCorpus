@@ -204,7 +204,7 @@
     <original></original>
     <corrected><w>hjá</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-prep" eid="0" />
       </errors>
   </revision>
   <w>öðrum</w>
@@ -230,7 +230,9 @@
     <original></original>
     <corrected><w>sem</w><w>viðkomandi</w><w>stundaði</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-conjunction" eid="0" />
+        <error xtype="missing-sub" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -483,7 +485,9 @@
     <corrected><c>,</c><w>þetta</w><w>var</w><w>nefnt</w></corrected>
       <errors>
         <error xtype="bracket4comma" idx="6-1" eid="0" />
-        <error xtype="missing-words" idx="6-2" eid="0" />
+        <error xtype="missing-sub" idx="6-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="6-2" eid="0" />
+        <error xtype="missing-word" idx="6-2" eid="0" />
       </errors>
   </revision>
   <w>veltipétur</w>
@@ -809,7 +813,8 @@
     <original></original>
     <corrected><w>Á</w><w>árunum</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-prep" eid="0" />
+        <error xtype="missing-word" eid="0" />
       </errors>
   </revision>
   <w>1892</w>

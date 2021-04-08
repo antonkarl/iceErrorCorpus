@@ -744,7 +744,7 @@
     <original/>
     <corrected><w>um</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -849,7 +849,7 @@
     <original/>
     <corrected><w>við</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
       </errors>
   </revision>
   <w>hlutfallslegan</w>
@@ -1455,7 +1455,8 @@
     <original/>
     <corrected><w>fyrir</w><w>því</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-prep" idx="46-1" eid="0"/>
+        <error xtype="missing-obj" idx="46-2" eid="0" />
       </errors>
   </revision>
   <w>er</w>

@@ -161,7 +161,8 @@
     <original/>
     <corrected><w>sem</w><w>stóðu</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-conjunction" idx="7-1" eid="0"/>
+        <error xtype="missing-fin-verb" idx="7-2" eid="0" />
       </errors>
   </revision>
   <w>þar</w>
@@ -215,7 +216,7 @@
     <original><w>ótvíræð</w></original>
     <corrected><w>hann</w><w>ótvírætt</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="33-1" eid="0"/>
+        <error xtype="missing-sub" idx="33-1" eid="0"/>
         <error xtype="adj4adv" idx="33-2" eid="0"/>
       </errors>
   </revision>

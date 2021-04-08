@@ -680,7 +680,7 @@
     <original/>
     <corrected><w>á</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
       </errors>
   </revision>
   <w>meðan</w>
@@ -767,7 +767,7 @@
     <original><w>Ákveður</w></original>
     <corrected><w>Hann</w><w>ákveður</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-sub" eid="0"/>
       </errors>
   </revision>
   <w>nákvæmlega</w>
@@ -860,7 +860,7 @@
     <original><w>Eina</w></original>
     <corrected><w>Það</w><w>eina</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-sub" eid="0"/>
       </errors>
   </revision>
   <w>sem</w>
@@ -1015,7 +1015,7 @@
     <original><w>Sagði</w></original>
     <corrected><w>Hann</w><w>sagði</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-sub" eid="0"/>
       </errors>
   </revision>
   <w>við</w>
@@ -1413,7 +1413,7 @@
     <original/>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0"/>
       </errors>
   </revision>
   <w>hafin</w>
@@ -1725,7 +1725,8 @@
     <corrected><c>,</c><w>sem</w><w>eru</w></corrected>
       <errors>
         <error xtype="missing-comma" eid="0"/>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>andleg</w>
@@ -2574,7 +2575,7 @@
     <original><w>Baðar</w></original>
     <corrected><w>Hann</w><w>baðar</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-sub" eid="0"/>
       </errors>
   </revision>
   <w>út</w>
@@ -2947,7 +2948,7 @@
     <original/>
     <corrected><w>það</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-obj" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -3250,14 +3251,7 @@
   <w>að</w>
   <w>þekkja</w>
   <w>hógværu</w>
-  <revision id="114a">
-    <original><w>einstaklingana</w></original>
-    <corrected><w>einstaklingana</w></corrected>
-      <errors>
-        <error xtype="missing-letter" idx="114a-1" eid="0" />
-        <error xtype="nonword" idx="114a-1" eid="0" />
-      </errors>
-  </revision>
+  <w>einstaklingana</w>
   <w>út</w>
   <w>frá</w>
   <w>því</w>

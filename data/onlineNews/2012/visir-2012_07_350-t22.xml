@@ -182,8 +182,7 @@
     <original><w>liðin</w></original>
     <corrected><w>liðinn</w></corrected>
       <errors>
-        <error xtype="n4nn" idx="9-1" eid="0" />
-        <error xtype="agreement-pred" idx="9-1" eid="0" />
+        <error xtype="agreement-pred" eid="0" />
       </errors>
   </revision>
   <w>af</w>
@@ -213,7 +212,8 @@
     <original></original>
     <corrected><w>það</w><w>var</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" idx="10-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="10-2" eid="0" />
       </errors>
   </revision>
   <w>með</w>
@@ -325,7 +325,8 @@
     <original><w>Vel</w></original>
     <corrected><w>Það</w><w>var</w><w>vel</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" idx="13-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="13-2" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -593,7 +594,7 @@
     <original></original>
     <corrected><w>sagði</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <c>:</c>
@@ -759,7 +760,7 @@
     <corrected><c>„</c><w>Við</w><w>skulduðum</w></corrected>
       <errors>
         <error xtype="missing-quots" idx="35-1" eid="0" />
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" idx="35-2" eid="0" />
       </errors>
   </revision>
   <w>eitt</w>
@@ -1094,7 +1095,7 @@
     <original></original>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>að</w>

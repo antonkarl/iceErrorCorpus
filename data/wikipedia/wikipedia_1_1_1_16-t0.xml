@@ -128,7 +128,7 @@
     <original><w>þar</w><w>sem</w></original>
     <corrected><w>þegar</w></corrected>
       <errors>
-        <error xtype="wording" eid="0"/>
+        <error xtype="conjunction" eid="0"/>
       </errors>
   </revision>
   <w>miklir</w>
@@ -153,7 +153,7 @@
     <original/>
     <corrected><w>á</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
       </errors>
   </revision>
   <w>einum</w>
@@ -311,7 +311,7 @@
     <original/>
     <corrected><w>hafði</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0"/>
       </errors>
   </revision>
   <w>verið</w>

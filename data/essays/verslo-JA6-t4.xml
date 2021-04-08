@@ -525,7 +525,7 @@
     <original/>
     <corrected><w>var</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -989,7 +989,7 @@
     <original/>
     <corrected><w>verð</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0"/>
       </errors>
   </revision>
   <w>hér</w>
@@ -1129,7 +1129,7 @@
     <original/>
     <corrected><w>hefur</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0"/>
       </errors>
   </revision>
   <w>lítið</w>
@@ -1260,7 +1260,7 @@
     <corrected><w>reykingabanni</w><w>verði</w></corrected>
       <errors>
         <error xtype="compound-collocation" idx="36-1" eid="0"/>
-        <error xtype="missing-word" idx="36-2" eid="0"/>
+        <error xtype="missing-fin-verb" idx="36-2" eid="0"/>
       </errors>
   </revision>
   <w>komið</w>
@@ -1319,7 +1319,7 @@
     <original/>
     <corrected><w>því</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-obj" eid="0"/>
       </errors>
   </revision>
   <w>t.d.</w>
@@ -1339,7 +1339,7 @@
     <original/>
     <corrected><w>um</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
       </errors>
   </revision>
   <w>mataræði</w>

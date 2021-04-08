@@ -387,7 +387,7 @@
     <original/>
     <corrected><w>sem</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
       </errors>
   </revision>
   <w>þá</w>
@@ -432,7 +432,7 @@
     <original/>
     <corrected><w>með</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
       </errors>
   </revision>
   <w>aðsetur</w>
@@ -942,7 +942,8 @@
     <original/>
     <corrected><w>fór</w><w>fram</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0"/>
+        <error xtype="missing-word" eid="0" />
       </errors>
   </revision>
   <w>í</w>

@@ -352,7 +352,8 @@
     <original><w>á</w></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="wrong-prep" eid="0"/>
+        <error xtype="repeat-word" eid="0"/>
+        <error xtype="missing-inf-part" eid="0" />
       </errors>
   </revision>
   <w>ríkja</w>

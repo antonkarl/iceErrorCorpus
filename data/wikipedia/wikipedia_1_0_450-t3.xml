@@ -22,7 +22,7 @@
     <corrected><c>,</c><w>sem</w></corrected>
       <errors>
         <error xtype="bracket4comma" eid="0" />
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-conjunction" eid="0" />
       </errors>
   </revision>
   <w>fæddur</w>
@@ -30,7 +30,7 @@
     <original></original>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -164,7 +164,6 @@
     <original><w>Ph.D.</w><w>gráður</w></original>
     <corrected><w>Ph.D.-gráðum</w></corrected>
       <errors>
-        <error xtype="split-word" idx="10-1" eid="0" />
         <error xtype="missing-hyphen" idx="10-1" eid="0" />
         <error xtype="nominal-inflection" idx="10-1" eid="0" />
       </errors>

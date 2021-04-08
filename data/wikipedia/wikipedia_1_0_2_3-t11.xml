@@ -671,7 +671,7 @@
     <original/>
     <corrected><w>með</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
       </errors>
   </revision>
   <w>3</w>
@@ -900,7 +900,7 @@
     <original/>
     <corrected><w>en</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
       </errors>
   </revision>
   <w>nokkur</w>
@@ -1254,7 +1254,7 @@
     <original><w>er</w></original>
     <corrected><w>þegar</w></corrected>
       <errors>
-        <error xtype="wording" eid="0"/>
+        <error xtype="conjunction" eid="0"/>
       </errors>
   </revision>
   <w>Belgía</w>

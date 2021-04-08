@@ -294,7 +294,8 @@
     <original/>
     <corrected><w>að</w><w>kunna</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-inf-part" idx="6-1" eid="0"/>
+        <error xtype="missing-word" idx="6-2" eid="0" />
       </errors>
   </revision>
   <w>ýmsar</w>
@@ -356,7 +357,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
+        <error xtype="though" eid="0" />
       </errors>
   </revision>
   <w>nauðsynlegt</w>
@@ -395,7 +397,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
+        <error xtype="though" eid="0" />
       </errors>
   </revision>
   <w>mikilvægt</w>
@@ -682,7 +685,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
+        <error xtype="though" eid="0" />
       </errors>
   </revision>
   <w>þú</w>
@@ -750,7 +754,7 @@
     <original><w>annara</w></original>
     <corrected><w>öðrum</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="pro-inflection" eid="0"/>
       </errors>
   </revision>
   <w>í</w>
@@ -1360,8 +1364,7 @@
     <original/>
     <corrected><w>ekki</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="9-1" eid="0"/>
-        <error xtype="collocation" idx="9-1" eid="0"/>
+        <error xtype="missing-word" eid="0"/>
       </errors>
   </revision>
   <w>nema</w>
@@ -1461,7 +1464,7 @@
     <original/>
     <corrected><w>sé</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0"/>
       </errors>
   </revision>
   <w>hleypt</w>

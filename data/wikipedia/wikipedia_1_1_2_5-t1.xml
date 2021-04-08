@@ -3410,7 +3410,7 @@
     <corrected><w>en</w><w>þau</w></corrected>
       <errors>
         <error xtype="conjunction" eid="0" />
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>rifust</w>
@@ -3689,7 +3689,8 @@
     <original></original>
     <corrected><w>vinnu</w><w>hjá</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-obj" eid="0" />
+        <error xtype="missing-prep" eid="0" />
       </errors>
   </revision>
   <w>Fox</w>
@@ -3755,8 +3756,8 @@
     <original><w>að</w></original>
     <corrected><w>á</w></corrected>
       <errors>
-        <error xtype="extra-word" eid="0" />
-        <error xtype="missing-word" eid="0" />
+        <error xtype="extra-conjunction" eid="0" />
+        <error xtype="missing-prep" eid="0" />
       </errors>
   </revision>
   <w>tökum</w>
@@ -4664,6 +4665,7 @@
     <original></original>
     <corrected><w>og</w><w>það</w><w>var</w><w>ekki</w></corrected>
       <errors>
+        <error xtype="missing-conjunction" eid="0" />
         <error xtype="missing-words" eid="0" />
       </errors>
   </revision>
@@ -5465,7 +5467,7 @@
     <original></original>
     <corrected><w>til</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-conjunction" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -6049,7 +6051,7 @@
     <original></original>
     <corrected><w>hún</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>fékk</w>
@@ -6586,7 +6588,9 @@
     <corrected><c>,</c><w>sem</w><w>haldin</w><w>var</w></corrected>
       <errors>
         <error xtype="dep" depId="342-1" eid="0" />
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-conjunction" eid="0" />
+        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -7036,7 +7040,8 @@
     <original></original>
     <corrected><w>hlutverk</w><w>í</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-obj" eid="0" />
+        <error xtype="missing-prep" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -7109,7 +7114,7 @@
     <original></original>
     <corrected><w>með</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-prep" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -8534,7 +8539,8 @@
     <original></original>
     <corrected><w>fregnir</w><w>af</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-obj" eid="0" />
+        <error xtype="missing-prep" eid="0" />
       </errors>
   </revision>
   <w>Marilyn</w>
@@ -8869,7 +8875,7 @@
     <original></original>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>oft</w>
@@ -8885,7 +8891,7 @@
     <original></original>
     <corrected><w>hana</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-obj" eid="0" />
       </errors>
   </revision>
   <w>í</w>

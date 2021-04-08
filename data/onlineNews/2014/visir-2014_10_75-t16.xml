@@ -113,7 +113,7 @@
     <original/>
     <corrected><w>það</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-obj" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -167,7 +167,8 @@
     <original/>
     <corrected><w>segist</w><w>hafa</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0"/>
+        <error xtype="missing-word" eid="0" />
       </errors>
   </revision>
   <w>þegið</w>

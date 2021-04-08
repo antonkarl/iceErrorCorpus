@@ -233,7 +233,7 @@
     <original></original>
     <corrected><w>honum</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-obj" eid="0" />
       </errors>
   </revision>
   <w>stóra</w>
@@ -536,8 +536,8 @@
     <corrected><c>.</c><w>Liðið</w><w>hélt</w></corrected>
       <errors>
         <error xtype="semicolon4period" eid="0" />
-        <error xtype="missing-word" eid="0" />
-        <error xtype="agreement-pred" eid="0" />
+        <error xtype="missing-sub" eid="0" />
+        <error xtype="agreement" eid="0" />
       </errors>
   </revision>
   <w>boltanum</w>
@@ -553,7 +553,7 @@
     <original></original>
     <corrected><w>sýndi</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>ágætis</w>
@@ -669,7 +669,8 @@
     <original></original>
     <corrected><w>í</w><w>markið</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-prep" eid="0" />
+        <error xtype="missing-obj" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -705,7 +706,7 @@
     <original><w>Löglegt</w></original>
     <corrected><w>Var</w><w>löglegt</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>mark</w>
@@ -1208,7 +1209,8 @@
       <errors>
         <error xtype="missing-comma" eid="0" />
         <error xtype="misplaced-quot" idx="62-1" eid="0" />
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -1269,7 +1271,7 @@
     <original></original>
     <corrected><w>marki</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-obj" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -1407,7 +1409,8 @@
     <original></original>
     <corrected><w>segir</w><w>Sverrir</w><c>.</c></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
+        <error xtype="missing-sub" eid="0" />
         <error xtype="missing-period" eid="0" />
       </errors>
   </revision>
@@ -1667,7 +1670,8 @@
       <errors>
       	<error xtype="missing-comma" eid="0" />
         <error xtype="wrong-quots" idx="84-1" eid="0" />
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -1716,7 +1720,9 @@
       <errors>
         <error xtype="missing-comma" eid="0" />
         <error xtype="wrong-quots" idx="86-1" eid="0" />
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
+        <error xtype="missing-sub" eid="0" />
+        <error xtype="missing-word" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -1862,7 +1868,7 @@
     <original></original>
     <corrected><w>reyndist</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -2194,7 +2200,8 @@
     <corrected><c>“</c><w>segir</w><w>Tómas</w></corrected>
       <errors>
         <error xtype="wrong-quots" eid="0" />
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>en</w>
@@ -2308,7 +2315,8 @@
       <errors>
         <error xtype="missing-comma" eid="0" />
         <error xtype="wrong-quots" idx="116-1" eid="0" />
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -2406,7 +2414,9 @@
       <errors>
         <error xtype="missing-comma" eid="0" />
         <error xtype="wrong-quots" idx="119-1" eid="0" />
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
+        <error xtype="missing-sub" eid="0" />
+        <error xtype="missing-word" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -2480,7 +2490,8 @@
     <original></original>
     <corrected><w>fyrir</w><w>leikinn</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-prep" eid="0" />
+        <error xtype="missing-obj" eid="0" />
       </errors>
   </revision>
   <c>.</c>

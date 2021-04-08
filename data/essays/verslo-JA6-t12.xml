@@ -683,7 +683,7 @@
     <original/>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
       </errors>
   </revision>
   <w>hann</w>
@@ -935,8 +935,7 @@
     <original><w>pizzan</w></original>
     <corrected><w>pítsan</w></corrected>
       <errors>
-        <error xtype="wording" idx="31-1" eid="0"/>
-        <error xtype="fw" idx="31-1" eid="0"/>
+        <error xtype="fw4ice" eid="0"/>
       </errors>
   </revision>
   <w>til</w>
@@ -1303,8 +1302,7 @@
         <error xtype="nonword" idx="38-1" eid="0"/>
         <error xtype="missing-letter" idx="38-1" eid="0"/>
         <error xtype="caps4low" idx="38-2" eid="0"/>
-        <error xtype="upper4lower-noninitial" idx="38-3" eid="0"/>
-        <error xtype="caps4low" idx="38-4" eid="0"/>
+        <error xtype="caps4low" idx="38-3" eid="0"/>
       </errors>
   </revision>
   <c>,</c>

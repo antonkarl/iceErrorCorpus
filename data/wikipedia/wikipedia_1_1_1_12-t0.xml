@@ -458,7 +458,7 @@
     <original><w>kjálkafæturnar</w></original>
     <corrected><w>kjálkafæturna</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" idx="11-1" eid="0" />
+        <error xtype="nonword" idx="11-1" eid="0" />
         <error xtype="extra-letter" idx="11-1" eid="0" />
       </errors>
   </revision>
@@ -714,7 +714,7 @@
     <original></original>
     <corrected><w>hún</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>losar</w>

@@ -648,7 +648,8 @@
     <original></original>
     <corrected><w>hjala</w><w>eða</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-obj" idx="16-1" eid="0" />
+        <error xtype="missing-conjunction" idx="16-2" eid="0" />
       </errors>
   </revision>
   <c>„</c>
@@ -1205,7 +1206,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
+        <error xtype="though" eid="0" />
       </errors>
   </revision>
   <w>flestir</w>

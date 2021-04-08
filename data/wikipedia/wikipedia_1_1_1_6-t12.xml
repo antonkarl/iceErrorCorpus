@@ -123,7 +123,9 @@
     <original/>
     <corrected><w>sig</w><w>um</w><w>set</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-obj" eid="0"/>
+        <error xtype="missing-prep" eid="0" />
+        <error xtype="missing-word" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -296,7 +298,7 @@
     <corrected><w>og</w><w>ég</w></corrected>
       <errors>
         <error xtype="period-plus-conjunction" idx="61-1" eid="0"/>
-        <error xtype="missing-word" idx="61-2" eid="0"/>
+        <error xtype="missing-sub" idx="61-2" eid="0"/>
       </errors>
   </revision>
   <w>er</w>
@@ -606,7 +608,7 @@
     <corrected><w>útgefandi</w><w>var</w></corrected>
       <errors>
         <error xtype="extra-abbreviation" idx="41-1" eid="0"/>
-        <error xtype="missing-word" idx="41-2" eid="0"/>
+        <error xtype="missing-fin-verb" idx="41-2" eid="0"/>
       </errors>
   </revision>
   <w>Mál</w>
@@ -983,7 +985,8 @@
     <original><w>dvaldist</w></original>
     <corrected><w>dvöldu</w></corrected>
       <errors>
-        <error xtype="verb-inflection" eid="0"/>
+        <error xtype="mid4act" eid="0"/>
+        <error xtype="agreement" eid="0" />
       </errors>
   </revision>
   <w>hún</w>
@@ -1014,7 +1017,8 @@
     <original><w>Þekkt</w></original>
     <corrected><w>Hún</w><w>var</w><w>þekkt</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-sub" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>fyrir</w>
@@ -1048,7 +1052,7 @@
     <original/>
     <corrected><w>á</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
       </errors>
   </revision>
   <w>um</w>

@@ -605,7 +605,7 @@
     <corrected><w>var</w><w>ska-hreyfing</w><w>níunda</w></corrected>
       <errors>
         <error xtype="extra-comma" idx="28-1" eid="0"/>
-        <error xtype="missing-word" idx="28-2" eid="0"/>
+        <error xtype="missing-fin-verb" idx="28-2" eid="0"/>
         <error xtype="missing-hyphen" idx="28-3" eid="0"/>
         <error xtype="number4word" idx="28-4" eid="0"/>
       </errors>
@@ -723,7 +723,8 @@
     <original/>
     <corrected><w>hún</w><w>er</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-sub" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>hröð</w>
@@ -799,7 +800,7 @@
     <original><w>7.</w><w>áratugurinn</w></original>
     <corrected><w>á</w><w>sjöunda</w><w>áratugnum</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="17-1" eid="0"/>
+        <error xtype="missing-prep" idx="17-1" eid="0"/>
         <error xtype="number4word" idx="17-2" eid="0"/>
         <error xtype="dep" depId="17-1" eid="0"/>
       </errors>
@@ -989,7 +990,7 @@
     <original/>
     <corrected><w>hljóðfærin</w><c>:</c></corrected>
       <errors>
-        <error xtype="missing-word" idx="59-1" eid="0"/>
+        <error xtype="missing-obj" idx="59-1" eid="0"/>
         <error xtype="missing-colon" idx="59-2" eid="0"/>
       </errors>
   </revision>
@@ -1008,7 +1009,7 @@
     <original/>
     <corrected><w>eru</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0"/>
       </errors>
   </revision>
   <w>algengust</w>
@@ -1225,7 +1226,8 @@
     <original><w>8.</w><w>áratugurinn</w></original>
     <corrected><w>kom</w><w>fram</w><w>á</w><w>áttunda</w><w>áratugnum</w></corrected>
       <errors>
-        <error xtype="missing-words" idx="23-1" eid="0"/>
+        <error xtype="missing-fin-verb" idx="23-1" eid="0"/>
+        <error xtype="missing-prep" idx="23-1" eid="0" />
         <error xtype="number4word" idx="23-2" eid="0"/>
       </errors>
   </revision>

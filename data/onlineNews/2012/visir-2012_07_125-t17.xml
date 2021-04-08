@@ -208,7 +208,7 @@
     <corrected><w>fyrir</w></corrected>
       <errors>
         <error xtype="extra-comma" idx="6-1" eid="0" />
-        <error xtype="missing-word" idx="6-2" eid="0" />
+        <error xtype="missing-prep" idx="6-2" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -289,7 +289,7 @@
     <original></original>
     <corrected><w>var</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>því</w>
@@ -314,7 +314,7 @@
     <corrected><c>„</c><w>Við</w><w>þekkjum</w></corrected>
       <errors>
         <error xtype="missing-quot" idx="11-1" eid="0" />
-        <error xtype="missing-word" idx="11-2" eid="0" />
+        <error xtype="missing-sub" idx="11-2" eid="0" />
       </errors>
   </revision>
   <w>tilfinninguna</w>
@@ -447,7 +447,7 @@
     <original></original>
     <corrected><w>voru</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>eftir</w>
@@ -585,7 +585,7 @@
     <corrected><c>„</c><w>Við</w><w>áttum</w></corrected>
       <errors>
         <error xtype="missing-quots" idx="28-1" eid="0" />
-        <error xtype="missing-word" idx="28-2" eid="0" />
+        <error xtype="missing-sub" idx="28-2" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -860,7 +860,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
+        <error xtype="though" eid="0" />
       </errors>
   </revision>
   <w>breiddin</w>
@@ -1247,7 +1248,7 @@
     <original></original>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>alveg</w>

@@ -75,7 +75,9 @@
     <original/>
     <corrected><w>fyrir</w><w>að</w><w>vera</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
+        <error xtype="missing-inf-part" eid="0" />
+        <error xtype="missing-word" eid="0" />
       </errors>
   </revision>
   <w>við</w>
@@ -350,7 +352,7 @@
     <original/>
     <corrected><w>þeim</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-obj" eid="0"/>
       </errors>
   </revision>
   <w>eldri</w>

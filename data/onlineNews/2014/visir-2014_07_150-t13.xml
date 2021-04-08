@@ -88,7 +88,7 @@
     <original></original>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>gefið</w>
@@ -109,7 +109,7 @@
     <original><w>Snýr</w></original>
     <corrected><w>Hann</w><w>snýr</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>öllu</w>
@@ -177,7 +177,8 @@
     <original></original>
     <corrected><w>það</w><w>er</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" idx="5-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="5-2" eid="0" />
       </errors>
   </revision>
   <w>mikið</w>
@@ -259,7 +260,7 @@
     <original><w>Bjuggu</w></original>
     <corrected><w>Þau</w><w>bjuggu</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>til</w>

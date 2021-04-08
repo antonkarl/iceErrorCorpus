@@ -128,8 +128,9 @@
     <original><c>.</c></original>
     <corrected><w>en</w><w>segir</w><c>:</c></corrected>
       <errors>
-        <error xtype="missing-words" idx="15-1" eid="0"/>
-        <error xtype="period4colon" idx="15-2" eid="0"/>
+        <error xtype="missing-conjunction" idx="15-1" eid="0"/>
+        <error xtype="missing-fin-verb" idx="15-2" eid="0" />
+        <error xtype="period4colon" idx="15-3" eid="0"/>
       </errors>
   </revision>
   <c>„</c>
@@ -204,8 +205,9 @@
     <original/>
     <corrected><w>í</w><w>Grímsnesi</w><c>.</c></corrected>
       <errors>
-        <error xtype="missing-words" idx="12-1" eid="0"/>
-        <error xtype="missing-period" idx="12-2" eid="0"/>
+        <error xtype="missing-prep" idx="12-1" eid="0"/>
+        <error xtype="missing-obj" idx="12-2" eid="0" />
+        <error xtype="missing-period" idx="12-3" eid="0"/>
       </errors>
   </revision>
   <c>„</c>
@@ -349,8 +351,9 @@
     <original/>
     <corrected><w>segir</w><w>Guðrún</w><w>Njálsdóttir</w><c>.</c></corrected>
       <errors>
-        <error xtype="missing-words" idx="6-1" eid="0"/>
-        <error xtype="missing-period" idx="6-2" eid="0"/>
+        <error xtype="missing-fin-verb" idx="6-1" eid="0"/>
+        <error xtype="missing-sub" idx="6-2" eid="0" />
+        <error xtype="missing-period" idx="6-3" eid="0"/>
       </errors>
   </revision>
   <w>Stjórn</w>

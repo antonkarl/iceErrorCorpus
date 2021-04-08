@@ -647,7 +647,8 @@
       <errors>
         <error xtype="dep" depId="34-1" eid="0"/>
         <error xtype="conjunction" idx="35-1" eid="0"/>
-        <error xtype="missing-words" idx="35-2" eid="0"/>
+        <error xtype="missing-fin-verb" idx="35-2" eid="0"/>
+        <error xtype="missing-prep" idx="35-3" eid="0" />
       </errors>
   </revision>
   <w>141,7</w>
@@ -767,7 +768,8 @@
     <original/>
     <corrected><w>í</w><w>hana</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
+        <error xtype="missing-obj" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -833,7 +835,8 @@
     <original/>
     <corrected><w>um</w><w>það</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
+        <error xtype="missing-obj" eid="0" />
       </errors>
   </revision>
   <w>hvernig</w>

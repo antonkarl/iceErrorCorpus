@@ -64,7 +64,8 @@
     <original/>
     <corrected><w>ég</w><w>hafði</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-sub" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>eingöngu</w>
@@ -810,7 +811,7 @@
     <original><w>þetta</w></original>
     <corrected><w>það</w></corrected>
       <errors>
-        <error xtype="pers4dem" eid="0"/>
+        <error xtype="dem4pers" eid="0"/>
       </errors>
   </revision>
   <w>sem</w>
@@ -1335,8 +1336,7 @@
     <original><w>framhaldsskólana</w></original>
     <corrected><w>framhaldsskólann</w></corrected>
       <errors>
-        <error xtype="plural4singular" idx="47-1" eid="0"/>
-        <error xtype="style" idx="47-1" eid="0"/>
+        <error xtype="plural4singular" eid="0"/>
       </errors>
   </revision>
   <w>er</w>
@@ -1353,8 +1353,8 @@
     <original><w>námsskrána</w></original>
     <corrected><w>námskrá</w></corrected>
       <errors>
-        <error xtype="singular4plural" idx="48-1" eid="0"/>
-        <error xtype="style" idx="48-1" eid="0"/>
+        <error xtype="compound-collocation" idx="48-1" eid="0"/>
+        <error xtype="def4ind" idx="48-1" eid="0"/>
       </errors>
   </revision>
   <w>hjá</w>

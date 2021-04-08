@@ -236,7 +236,8 @@
     <original/>
     <corrected><w>sem</w><w>markaði</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>upphafið</w>
@@ -673,7 +674,8 @@
     <original/>
     <corrected><w>á</w><w>dómkirkjunni</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
+        <error xtype="missing-obj" eid="0" />
       </errors>
   </revision>
   <w>hætt</w>
@@ -828,7 +830,8 @@
     <corrected><w>á</w><w>árunum</w></corrected>
       <errors>
         <error xtype="extra-bracket" eid="0"/>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
+        <error xtype="missing-word" eid="0" />
       </errors>
   </revision>
   <w>1039</w>
@@ -840,7 +843,7 @@
       <errors>
         <error xtype="extra-bracket" eid="0"/>
         <error xtype="period4conjunction" eid="0"/>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0"/>
         <error xtype="upper4lower-noninitial" eid="0"/>
       </errors>
   </revision>
@@ -1085,7 +1088,9 @@
       <errors>
         <error xtype="wording" eid="0"/>
         <error xtype="comma4conjunction" eid="0"/>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0"/>
+        <error xtype="missing-sub" eid="0" />
+        <error xtype="missing-word" eid="0" />
       </errors>
   </revision>
   <w>keisarasteinarnir</w>
@@ -1468,7 +1473,7 @@
     <original/>
     <corrected><w>þær</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-sub" eid="0"/>
       </errors>
   </revision>
   <w>eru</w>
@@ -1536,7 +1541,7 @@
     <corrected><w>og</w><w>er</w></corrected>
       <errors>
         <error xtype="comma4conjunction" eid="0"/>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0"/>
       </errors>
   </revision>
   <w>kenndur</w>

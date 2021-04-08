@@ -2146,8 +2146,7 @@
     <original><w>Umayyad</w><w>kalífatsins</w></original>
     <corrected><w>Umayyad-kalífatsins</w></corrected>
       <errors>
-        <error xtype="split-word" idx="59-1" eid="0" />
-        <error xtype="missing-hyphen" idx="59-1" eid="0" />
+        <error xtype="missing-hyphen" eid="0" />
       </errors>
   </revision>
   <c>(</c>
@@ -2161,8 +2160,7 @@
     <original><w>Abbasída</w><w>kalífatsins</w></original>
     <corrected><w>Abbasída-kalífatsins</w></corrected>
       <errors>
-        <error xtype="split-word" idx="60-1" eid="0" />
-        <error xtype="missing-hyphen" idx="60-1" eid="0" />
+        <error xtype="missing-hyphen" eid="0" />
       </errors>
   </revision>
   <c>(</c>
@@ -3978,7 +3976,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
+        <error xtype="though" eid="0" />
       </errors>
   </revision>
   <revision id="132">
@@ -4448,7 +4447,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
+        <error xtype="though" eid="0" />
       </errors>
   </revision>
   <w>það</w>
@@ -5169,7 +5169,7 @@
     <original></original>
     <corrected><w>sýndu</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>umburðalyndi</w>
@@ -5733,10 +5733,8 @@
     <corrected><w>súnní-íslam</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="203-1" eid="0" />
-        <error xtype="split-word" idx="203-1" eid="0" />
         <error xtype="missing-hyphen" idx="203-1" eid="0" />
         <error xtype="missing-accent" idx="203-1" eid="0" />
-        <error xtype="upper4lower-common" idx="203-1" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
@@ -7798,7 +7796,7 @@
     <original></original>
     <corrected><w>og</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-conjunction" eid="0" />
       </errors>
   </revision>
   <w>með</w>
@@ -11106,7 +11104,7 @@
     <original></original>
     <corrected><w>í</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-prep" eid="0" />
       </errors>
   </revision>
   <w>ríkisstjórnina</w>

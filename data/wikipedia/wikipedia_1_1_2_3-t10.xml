@@ -852,7 +852,7 @@
     <original></original>
     <corrected><w>smjör</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-obj" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -1272,7 +1272,7 @@
     <original></original>
     <corrected><w>metinu</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-obj" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -1610,7 +1610,8 @@
     <original></original>
     <corrected><w>eftir</w><w>honum</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-prep" eid="0" />
+        <error xtype="missing-obj" eid="0" />
       </errors>
   </revision>
   <w>með</w>
@@ -2378,7 +2379,7 @@
     <original><w>8.</w></original>
     <corrected><w>Á</w><w>áttunda</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="168-1" eid="0" />
+        <error xtype="missing-prep" idx="168-1" eid="0" />
         <error xtype="number4word" idx="168-2" eid="0" />
       </errors>
   </revision>
@@ -2622,7 +2623,7 @@
     <corrected><c>.</c><w>Hann</w></corrected>
       <errors>
         <error xtype="conjunction4period" idx="185-1" eid="0" />
-        <error xtype="missing-word" idx="185-2" eid="0" />
+        <error xtype="missing-sub" idx="185-2" eid="0" />
       </errors>
   </revision>
   <w>var</w>
@@ -2755,7 +2756,7 @@
     <original></original>
     <corrected><w>var</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>hjá</w>
@@ -2985,7 +2986,7 @@
     <corrected><w><hi>Dreamgirls</hi></w><w>fjallar</w></corrected>
       <errors>
         <error xtype="nonit4it" idx="214-1" eid="0" />
-        <error xtype="missing-word" idx="214-2" eid="0" /> 
+        <error xtype="missing-fin-verb" idx="214-2" eid="0" /> 
       </errors>
   </revision>
   <w>um</w>
@@ -3797,7 +3798,7 @@
     <original><w>höfðu</w><w>hafist</w></original>
     <corrected><w>hófust</w></corrected>
       <errors>
-        <error xtype="wording" eid="0" />
+        <error xtype="perfect4tense" eid="0" />
       </errors>
   </revision>
   <w>með</w>
@@ -4022,7 +4023,7 @@
     <original><w>allt</w></original>
     <corrected><w>hann</w><w>yfir</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="275-1" eid="0" />
+        <error xtype="missing-sub" idx="275-1" eid="0" />
         <error xtype="wording" idx="275-2" eid="0" />
       </errors>
   </revision>

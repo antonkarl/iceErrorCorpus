@@ -107,7 +107,7 @@
     <original></original>
     <corrected><w>voru</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>á</w>
@@ -123,7 +123,7 @@
     <original></original>
     <corrected><w>var</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>liðinn</w>
@@ -176,7 +176,7 @@
     <original></original>
     <corrected><w>og</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-conjunction" eid="0" />
       </errors>
   </revision>
   <w>áhugamenn</w>
@@ -211,7 +211,7 @@
     <original></original>
     <corrected><w>þurfti</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>svona</w>
@@ -245,7 +245,7 @@
     <original></original>
     <corrected><w>á</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-prep" eid="0" />
       </errors>
   </revision>
   <w>krám</w>
@@ -257,7 +257,7 @@
     <original><w>spáði</w></original>
     <corrected><w>hafi</w><w>spáð</w></corrected>
       <errors>
-        <error xtype="wording" eid="0" />
+        <error xtype="tense4perfect" eid="0" />
       </errors>
   </revision>
   <w>svona</w>
@@ -393,7 +393,8 @@
     <original></original>
     <corrected><w>var</w><w>háð</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
+        <error xtype="missing-word" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -629,7 +630,7 @@
     <original></original>
     <corrected><w>spilar</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -786,7 +787,7 @@
     <original></original>
     <corrected><w>var</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>liðið</w>
@@ -1025,7 +1026,8 @@
     <original></original>
     <corrected><w>um</w><w>það</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-prep" eid="0" />
+        <error xtype="missing-obj" eid="0" />
       </errors>
   </revision>
   <w>lýkur</w>
@@ -1153,7 +1155,7 @@
     <original></original>
     <corrected><w>var</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>hvaða</w>
@@ -1351,7 +1353,7 @@
     <original></original>
     <corrected><w>var</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>formsatriði</w>
@@ -1429,7 +1431,7 @@
     <original></original>
     <corrected><w>gerðist</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>svo</w>

@@ -115,7 +115,7 @@
     <corrected><w>hjá</w></corrected>
       <errors>
         <error xtype="extra-commas" idx="3-1" eid="0" />
-        <error xtype="missing-word" idx="3-2" eid="0" />
+        <error xtype="missing-prep" idx="3-2" eid="0" />
       </errors>
   </revision>
   <w>Víkingi</w>
@@ -234,7 +234,7 @@
     <original></original>
     <corrected><w>Í</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-prep" eid="0" />
       </errors>
   </revision>
   <w>1.</w>
@@ -302,7 +302,7 @@
     <original><w><hi>Úrslitaleikur</hi></w></original>
     <corrected><w>Í</w><w>úrslitaleiknum</w><w>sigraði</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="8-1" eid="0" />
+        <error xtype="missing-prep" idx="8-1" eid="0" />
         <error xtype="it4nonit" idx="8-2" eid="0" />
         <error xtype="dep" depId="8-1" eid="0" />
         <error xtype="dep" depId="9-1" eid="0" />

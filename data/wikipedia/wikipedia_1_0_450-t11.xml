@@ -22,7 +22,7 @@
     <corrected><c>,</c><w>sem</w></corrected>
       <errors>
         <error xtype="bracket4comma" eid="0" />
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-conjunction" eid="0" />
       </errors>
   </revision>
   <w>fædd</w>
@@ -31,7 +31,7 @@
     <corrected><w>er</w></corrected>
       <errors>
         <error xtype="extra-comma" eid="0" />
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>27. janúar 1958</w>
@@ -72,7 +72,7 @@
     <corrected><w>í</w></corrected>
       <errors>
         <error xtype="extra-comma" eid="0" />
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-prep" eid="0" />
       </errors>
   </revision>
   <w>Kaliforníu</w>
@@ -281,7 +281,9 @@
     <original></original>
     <corrected><w>Thompson</w><w>hefur</w><w>hlotið</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
+        <error xtype="missing-word" eid="0" />
       </errors>
   </revision>
   <w>Dramatic</w>
@@ -290,6 +292,8 @@
     <original></original>
     <corrected><w>verðlaunin</w><w>og</w><w>verið</w><w>tilnefnd</w><w>til</w></corrected>
       <errors>
+        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-conjunction" eid="0" />
         <error xtype="missing-words" eid="0" />
       </errors>
   </revision>

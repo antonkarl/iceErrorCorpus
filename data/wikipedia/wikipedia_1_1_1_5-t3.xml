@@ -263,7 +263,7 @@
     <original/>
     <corrected><w>við</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
       </errors>
   </revision>
   <w>Skoska</w>
@@ -472,7 +472,7 @@
     <corrected><w>sögðu</w></corrected>
       <errors>
         <error xtype="extra-quots" idx="156-1" eid="0"/>
-        <error xtype="missing-word" idx="156-2" eid="0"/>
+        <error xtype="missing-fin-verb" idx="156-2" eid="0"/>
       </errors>
   </revision>
   <w>já</w>
@@ -490,7 +490,7 @@
     <corrected><w>sögðu</w></corrected>
       <errors>
         <error xtype="extra-quots" idx="158-1" eid="0"/>
-        <error xtype="missing-word" idx="158-2" eid="0"/>
+        <error xtype="missing-fin-verb" idx="158-2" eid="0"/>
       </errors>
   </revision>
   <w>nei</w>
@@ -1282,7 +1282,7 @@
     <original><w>Verkmannaflokkurinn</w></original>
     <corrected><w>úr</w><w>Verkamannaflokknum</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="192-1" eid="0"/>
+        <error xtype="missing-prep" idx="192-1" eid="0"/>
         <error xtype="dep" depId="192-1" eid="0"/>
         <error xtype="missing-letter" idx="192-2" eid="0"/>
         <error xtype="compound-collocation" idx="192-2" eid="0"/>
@@ -2065,7 +2065,7 @@
     <original/>
     <corrected><w>í</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
       </errors>
   </revision>
   <w>september</w>
@@ -2629,7 +2629,7 @@
     <corrected><w>en</w><w>það</w></corrected>
       <errors>
         <error xtype="conjunction" idx="34-1" eid="0"/>
-        <error xtype="missing-word" idx="34-2" eid="0"/>
+        <error xtype="missing-sub" idx="34-2" eid="0"/>
       </errors>
   </revision>
   <w>var</w>
@@ -2773,7 +2773,7 @@
     <original/>
     <corrected><w>hún</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-sub" eid="0"/>
       </errors>
   </revision>
   <w>flokkuð</w>
@@ -2904,7 +2904,7 @@
     <original/>
     <corrected><w>í</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
       </errors>
   </revision>
   <w>minnihlutaríkisstjórn</w>
@@ -3206,7 +3206,7 @@
     <original/>
     <corrected><w>frá</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
       </errors>
   </revision>
   <w>1978</w>
@@ -3220,7 +3220,7 @@
     <original/>
     <corrected><w>voru</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0"/>
       </errors>
   </revision>
   <w>afnumin</w>

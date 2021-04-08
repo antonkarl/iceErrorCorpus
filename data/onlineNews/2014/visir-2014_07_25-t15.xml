@@ -142,7 +142,7 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-conjunction" eid="0" />
       </errors>
   </revision>
   <w>þetta</w>
@@ -241,8 +241,7 @@
     <original><w>sína</w></original>
     <corrected><w>sínar</w></corrected>
       <errors>
-        <error xtype="singular4plural" idx="10-1" eid="0" />
-        <error xtype="agreement-concord" idx="10-1" eid="0" />
+        <error xtype="agreement-concord" eid="0" />
       </errors>
   </revision>
   <w>spyrja</w>

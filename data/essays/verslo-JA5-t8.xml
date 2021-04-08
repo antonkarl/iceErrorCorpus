@@ -360,7 +360,8 @@
     <corrected><c>.</c><w>Það</w><w>er</w></corrected>
       <errors>
         <error xtype="missing-period" eid="0"/>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-sub" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>vegna</w>
