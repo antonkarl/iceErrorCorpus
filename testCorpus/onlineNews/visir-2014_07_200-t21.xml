@@ -303,8 +303,9 @@
     <original><w>min</w></original>
     <corrected><w>mínútur</w></corrected>
       <errors>
-        <error xtype="fw" idx="9-1" eid="0" />
-        <error xtype="style" idx="9-1" eid="0" />
+        <error xtype="missing-accent" idx="9-1" eid="0" />
+        <error xtype="abbreviation4words" idx="9-1" eid="0" />
+        <error xtype="nonword" idx="9-1" eid="0" />
       </errors>
   </revision>
   <w>eftir</w>
