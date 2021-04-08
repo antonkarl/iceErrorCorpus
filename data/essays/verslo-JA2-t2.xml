@@ -968,7 +968,7 @@
     <corrected><w>litróf</w></corrected>
       <errors>
         <error xtype="extra-accent" idx="27a-1" eid="0" />
-        <error xtype="compound-nonword" idx="27a-1" eid="0" />
+        <error xtype="nonword" idx="27a-1" eid="0" />
       </errors>
   </revision>
   <w>mannlífsins</w>
@@ -1627,7 +1627,8 @@
     <original><w>framagirni</w></original>
     <corrected><w>framagirnd</w></corrected>
       <errors>
-        <error xtype="compound-nonword" eid="0" />
+        <error xtype="letter-rep" idx="42a-1" eid="0" />
+        <error xtype="nonword" idx="42a-1" eid="0" />
       </errors>
   </revision>
   <w>og</w>

@@ -82,9 +82,7 @@
     <original><w>framhaldskólanemum</w></original>
     <corrected><w>framhaldsskólanemum</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="18b-1" eid="0"/>
-        <error xtype="compound-nonword" idx="18b-1" eid="0"/>
-        <error xtype="compound-collocation" idx="18b-1" eid="0"/>
+        <error xtype="compound-collocation" eid="0"/>
       </errors>
   </revision>
   <revision id="5">
@@ -924,7 +922,7 @@
     <original><w>fóstursystiskinum</w></original>
     <corrected><w>fóstursystkinum</w></corrected>
       <errors>
-        <error xtype="compound-nonword" eid="0"/>
+        <error xtype="nonword" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -1439,9 +1437,7 @@
     <original><w>framhaldskólunum</w></original>
     <corrected><w>framhaldsskólunum</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="34b" eid="0"/>
-        <error xtype="compound-collocation" idx="34b" eid="0"/>
-        <error xtype="compound-nonword" idx="34b" eid="0"/>
+        <error xtype="compound-collocation" eid="0"/>
       </errors>
   </revision>
   <w>svo</w>

@@ -139,7 +139,7 @@
     <corrected><w>ópíatablokki</w><c>,</c></corrected>
       <errors>
         <error xtype="extra-letters" idx="8-1" eid="0" />
-        <error xtype="compound-nonword" idx="8-1" eid="0" />
+        <error xtype="nonword" idx="8-1" eid="0" />
         <error xtype="missing-comma" idx="8-2" eid="0" />
       </errors>
   </revision>
@@ -2977,8 +2977,7 @@
     <original><w>vekjastillandi</w></original>
     <corrected><w>verkjastillandi</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="118-1" eid="0" />
-        <error xtype="compound-nonword" idx="118-1" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <w>meðferð</w>

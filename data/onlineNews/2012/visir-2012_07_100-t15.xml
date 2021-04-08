@@ -25,7 +25,7 @@
     <corrected><w>vantrauststillögu</w></corrected>
       <errors>
         <error xtype="missing-letter" idx="1-1" eid="0" />
-        <error xtype="compound-nonword" idx="1-1" eid="0" />
+        <error xtype="compound-collocation" idx="1-1" eid="0" />
       </errors>
   </revision>
   <w>á</w>
@@ -62,8 +62,7 @@
     <original><w>vantrausttillögunni</w></original>
     <corrected><w>vantrauststillögunni</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="2-1" eid="0" />
-        <error xtype="compound-nonword" idx="2-1" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <w>að</w>

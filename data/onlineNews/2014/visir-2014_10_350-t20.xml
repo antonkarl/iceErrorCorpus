@@ -565,9 +565,8 @@
     <original><w>aðal</w><w>sýningarsalur</w><w>Þokursetursins</w></original>
     <corrected><w>aðalsýningarsalur</w><w>Þokusetursins</w></corrected>
       <errors>
-        <error xtype="split-word" eid="0" />
-        <error xtype="compound-collocation" idx="6-1" eid="0" />
-        <error xtype="compound-nonword" idx="6-1" eid="0" />
+        <error xtype="split-word" idx="6-1" eid="0" />
+        <error xtype="compound-collocation" idx="6-2" eid="0" />
       </errors>
   </revision>
   <c>.</c>

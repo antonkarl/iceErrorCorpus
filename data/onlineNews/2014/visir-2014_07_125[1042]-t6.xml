@@ -126,7 +126,9 @@
     <original><w>saladdressingu</w></original>
     <corrected><w>salatdressingu</w></corrected>
       <errors>
-        <error xtype="compound-nonword" eid="0" />
+        <error xtype="letter-rep" idx="18a-1" eid="0" />
+        <error xtype="pronun-writing" idx="18a-1" eid="0" />
+        <error xtype="nonword" idx="18a-1" eid="0" />
       </errors>
   </revision>
   <w>eða</w>

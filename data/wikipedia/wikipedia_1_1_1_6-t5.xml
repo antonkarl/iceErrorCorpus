@@ -658,7 +658,7 @@
     <corrected><w>bóksalan</w></corrected>
       <errors>
         <error xtype="extra-letter" idx="63-1" eid="0"/>
-        <error xtype="compound-nonword" idx="63-1" eid="0"/>
+        <error xtype="compound-collocation" idx="63-1" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
@@ -1207,8 +1207,7 @@
     <original><w>nemandafélag</w></original>
     <corrected><w>nemendafélag</w></corrected>
       <errors>
-        <error xtype="compound-collocation" idx="40d-1" eid="0"/>
-        <error xtype="compound-nonword" idx="40d-1" eid="0"/>
+        <error xtype="compound-collocation" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -1656,8 +1655,7 @@
     <original><w>hátíðasalur</w></original>
     <corrected><w>hátíðarsalur</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="59-1" eid="0"/>
-        <error xtype="compound-collocation" idx="59-1" eid="0"/>
+        <error xtype="compound-collocation" eid="0"/>
       </errors>
   </revision>
   <w>skólans</w>

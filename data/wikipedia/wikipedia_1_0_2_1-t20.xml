@@ -303,7 +303,7 @@
     <original><w>beitikóngurinn</w></original>
     <corrected><w>beitukóngurinn</w></corrected>
       <errors>
-        <error xtype="compound-nonword" idx="6-1" eid="0" />
+        <error xtype="compound-collocation" idx="6-1" eid="0" />
       </errors>
   </revision>
   <w>hér</w>
@@ -917,8 +917,7 @@
     <original><w>harðfiskroð</w></original>
     <corrected><w>harðfisksroð</w></corrected>
       <errors>
-        <error xtype="compound-collocation" idx="22b-1" eid="0" />
-        <error xtype="compound-nonword" idx="22b-1" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <w>sem</w>

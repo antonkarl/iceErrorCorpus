@@ -125,8 +125,7 @@
     <original><w>markaðsetningu</w><c>,</c></original>
     <corrected><w>markaðssetningu</w><w>en</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="94-1" eid="0"/>
-        <error xtype="compound-nonword" idx="94-1" eid="0"/>
+        <error xtype="compound-collocation" idx="94-1" eid="0"/>
         <error xtype="comma4conjunction" idx="94-2" eid="0"/>
       </errors>
   </revision>
@@ -594,8 +593,7 @@
     <original><w>markaðsetja</w></original>
     <corrected><w>markaðssetja</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="12-1" eid="0"/>
-        <error xtype="compound-nonword" idx="12-1" eid="0"/>
+        <error xtype="compound-collocation" eid="0"/>
       </errors>
   </revision>
   <w>hana</w>

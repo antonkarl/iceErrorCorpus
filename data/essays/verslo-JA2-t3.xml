@@ -420,7 +420,7 @@
     <corrected><w>framhaldsskólastigi</w></corrected>
       <errors>
         <error xtype="extra-letter" idx="9a-1" eid="0" />
-	<error xtype="compound-nonword" idx="9a-1" eid="0" />
+	      <error xtype="nonword" idx="9a-1" eid="0" />
       </errors>
   </revision>
   <w>kostar</w>
@@ -904,7 +904,7 @@
     <corrected><w>rekstrarform</w></corrected>
       <errors>
         <error xtype="missing-letter" idx="17a-1" eid="0" />
-	<error xtype="compound-nonword" idx="17a-1" eid="0" />
+	      <error xtype="nonword" idx="17a-1" eid="0" />
       </errors>
   </revision>
   <w>sé</w>
@@ -1477,7 +1477,8 @@
     <original><w>umstalsvert</w></original>
     <corrected><w>umtalsvert</w></corrected>
       <errors>
-        <error xtype="compound-nonword" eid="0" />
+        <error xtype="extra-letter" idx="27a-1" eid="0" />
+        <error xtype="nonword" idx="27a-1" eid="0" />
       </errors>
   </revision>
   <w>og</w>

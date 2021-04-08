@@ -1528,8 +1528,7 @@
       <errors>
         <error xtype="split-compound" idx="13-1" eid="0"/>
         <error xtype="extra-quots" idx="13-1" eid="0"/>
-        <error xtype="compound-collocation" idx="13-1" eid="0"/>
-        <error xtype="compound-nonword" idx="13-1" eid="0"/>
+        <error xtype="compound-collocation" eid="0"/>
       </errors>
   </revision>
   <w>sem</w>
@@ -1682,8 +1681,7 @@
     <original><w>auglýsingarherferðir</w></original>
     <corrected><w>auglýsingaherferðir</w></corrected>
       <errors>
-        <error xtype="compound-collocation" idx="65-1" eid="0"/>
-        <error xtype="compound-nonword" idx="65-1" eid="0"/>
+        <error xtype="compound-collocation" eid="0"/>
       </errors>
   </revision>
   <w>og</w>

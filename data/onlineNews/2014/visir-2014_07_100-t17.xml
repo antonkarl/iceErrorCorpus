@@ -20,7 +20,7 @@
     <corrected><w>Kaupmannahafnarlögreglan</w></corrected>
       <errors>
         <error xtype="missing-letter" idx="1-1" eid="0" />
-        <error xtype="compound-nonword" idx="1-1" eid="0" />
+        <error xtype="nonword" idx="1-1" eid="0" />
       </errors>
   </revision>
   <w>hefur</w>
@@ -183,7 +183,8 @@
     <original><w>Jafnarmannaflokksins</w></original>
     <corrected><w>Jafnaðarmannaflokksins</w></corrected>
       <errors>
-        <error xtype="compound-nonword" eid="0" />
+        <error xtype="missing-letter" idx="6-1" eid="0" />
+        <error xtype="nonword" idx="6-1" eid="0" />
       </errors>
   </revision>
   <c>,</c>

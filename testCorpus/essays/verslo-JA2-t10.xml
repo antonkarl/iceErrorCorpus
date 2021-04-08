@@ -1126,7 +1126,7 @@
     <original><w>starfsett</w></original>
     <corrected><w>stofnsett</w></corrected>
       <errors>
-        <error xtype="compound-nonword" eid="0"/>
+        <error xtype="nonword" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -1348,7 +1348,8 @@
     <original><w>ákvarðantöku</w></original>
     <corrected><w>ákvarðanatöku</w></corrected>
       <errors>
-        <error xtype="compound-nonword" eid="0"/>
+        <error xtype="missing-letter" idx="31-1" eid="0"/>
+        <error xtype="nonword" idx="31-1" eid="0"/>
       </errors>
   </revision>
   <w>stjórnvalda</w>

@@ -1384,8 +1384,7 @@
     <original><w>fæðingatangir</w></original>
     <corrected><w>fæðingartangir</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="14-1" eid="0"/>
-        <error xtype="compound-nonword" idx="14-1" eid="0"/>
+        <error xtype="compound-collocation" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
@@ -2265,8 +2264,7 @@
     <original><w>mannverk</w></original>
     <corrected><w>mannsverk</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="49-1" eid="0"/>
-        <error xtype="compound-nonword" idx="49-1" eid="0"/>
+        <error xtype="compound-collocation" eid="0"/>
       </errors>
   </revision>
   <w>hér</w>

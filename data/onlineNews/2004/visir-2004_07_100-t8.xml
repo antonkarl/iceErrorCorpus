@@ -222,8 +222,8 @@
     <original><w>innanhúskerfi</w><c>,</c></original>
     <corrected><w>innanhússkerfi</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="5-1" eid="0" />
-        <error xtype="compound-nonword" idx="5-1" eid="0" />
+        <error xtype="compound-collocation" idx="5-1" eid="0" />
+        <error xtype="extra-comma" idx="5-2" eid="0" />
       </errors>
   </revision>
   <w>þar</w>

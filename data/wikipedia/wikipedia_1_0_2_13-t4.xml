@@ -94,8 +94,7 @@
     <original><w>stjórnaskránni</w></original>
     <corrected><w>stjórnarskránni</w></corrected>
       <errors>
-        <error xtype="compound-collocation" idx="2b-1" eid="0"/>
-        <error xtype="compound-nonword" idx="2b-1" eid="0"/>
+        <error xtype="compound-collocation" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -151,7 +150,7 @@
     <corrected><w>persónudýrkun</w></corrected>
       <errors>
         <error xtype="missing-letter" idx="14-1" eid="0"/>
-        <error xtype="compound-nonword" idx="14-1" eid="0"/>
+        <error xtype="nonword" idx="14-1" eid="0"/>
       </errors>
   </revision>
   <w>sem</w>
@@ -436,8 +435,7 @@
     <original><w>einangrunastefna</w></original>
     <corrected><w>einangrunarstefna</w></corrected>
       <errors>
-        <error xtype="compound-collocation" idx="13b-1" eid="0"/>
-        <error xtype="compound-nonword" idx="13b-1" eid="0"/>
+        <error xtype="compound-collocation" eid="0"/>
       </errors>
   </revision>
   <w>Kim</w>

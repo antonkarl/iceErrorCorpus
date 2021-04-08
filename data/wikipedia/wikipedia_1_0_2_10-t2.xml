@@ -157,8 +157,7 @@
     <original><w>hulinhjálmi</w></original>
     <corrected><w>hulinshjálmi</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="11-1" eid="0" />
-        <error xtype="compound-nonword" idx="11-1" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <w>eða</w>
@@ -214,8 +213,7 @@
     <corrected><w>nota</w><w>hulinshjálm</w></corrected>
       <errors>
         <error xtype="wording" idx="16-1" eid="0" />
-        <error xtype="missing-letter" idx="16-2" eid="0" />
-        <error xtype="compound-nonword" idx="16-2" eid="0" />
+        <error xtype="compound-collocation" idx="16-2" eid="0" />
       </errors>
   </revision>
   <w>til</w>
@@ -1104,8 +1102,7 @@
     <original><w>líknabelg</w></original>
     <corrected><w>líknarbelg</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="61-1" eid="0" />
-        <error xtype="compound-collocation" idx="61-1" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <c>.</c>

@@ -3340,8 +3340,7 @@
     <corrected><w>með</w><w>neðanjarðarlestarkerfinu</w></corrected>
       <errors>
         <error xtype="wrong-prep" idx="213-1" eid="0" />
-        <error xtype="missing-letters" idx="213-2" eid="0" />
-        <error xtype="compound-nonword" idx="213-2" eid="0" />
+        <error xtype="compound-collocation" idx="213-2" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -3385,8 +3384,7 @@
     <original><w>úthverfalestkerfi</w></original>
     <corrected><w>úthverfalestarkerfi</w></corrected>
       <errors>
-        <error xtype="missing-letters" idx="216-1" eid="0" />
-        <error xtype="compound-nonword" idx="216-1" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -3522,8 +3520,7 @@
     <original><w>neðanjarðarlestkerfið</w></original>
     <corrected><w>neðanjarðarlestarkerfið</w></corrected>
       <errors>
-        <error xtype="missing-letters" idx="222-1" eid="0" />
-        <error xtype="compound-nonword" idx="222-1" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <w>gert</w>

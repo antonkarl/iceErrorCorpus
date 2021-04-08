@@ -447,8 +447,7 @@
     <original><w>fyrirhafnalausu</w></original>
     <corrected><w>fyrirhafnarlausu</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="10a-1" eid="0" />
-	<error xtype="compound-nonword" idx="10a-1" eid="0" />
+	      <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -484,7 +483,7 @@
     <original><w>tvímannalaust</w></original>
     <corrected><w>tvímælalaust</w></corrected>
       <errors>
-        <error xtype="compound-nonword" eid="0"/>
+        <error xtype="nonword" eid="0"/>
       </errors>
   </revision>
   <w>hæfari</w>

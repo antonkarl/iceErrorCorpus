@@ -764,8 +764,7 @@
     <original><w>Barnníðingur</w></original>
     <corrected><w>Barnaníðingur</w></corrected>
       <errors>
-        <error xtype="compound-collocation" idx="42-1" eid="0"/>
-        <error xtype="compound-nonword" idx="42-1" eid="0"/>
+        <error xtype="compound-collocation" eid="0"/>
       </errors>
   </revision>
 </s><s n="30">
@@ -892,8 +891,9 @@
     <original><w>er</w><w>réttmætanlegt</w><w>fyrir</w><w>fjölmiðil</w></original>
     <corrected><w>er</w><w>réttlætanlegt</w></corrected>
       <errors>
-        <error xtype="compound-nonword" idx="23-1" eid="0"/>
-        <error xtype="wording" idx="23-1" eid="0"/>
+        <error xtype="letter-rep" idx="23-1" eid="0"/>
+        <error xtype="nonword" idx="23-1" eid="0"/>
+        <error xtype="wording" idx="23-2" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -901,7 +901,7 @@
     <original><w>einblína</w></original>
     <corrected><w>fjölmiðill</w><w>einblíni</w></corrected>
       <errors>
-        <error xtype="dep" depId="23-1" eid="0"/>
+        <error xtype="dep" depId="23-2" eid="0"/>
       </errors>
   </revision>
   <w>aðeins</w>
