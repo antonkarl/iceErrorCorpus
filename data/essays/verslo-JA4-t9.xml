@@ -99,8 +99,9 @@
     <original><c>.</c><w>Enn</w></original>
     <corrected><w>En</w></corrected>
       <errors>
-        <error xtype="missing-period" eid="0"/>
-        <error xtype="nn4n" eid="0"/>
+        <error xtype="extra-period" idx="5-1" eid="0"/>
+        <error xtype="period-plus-conjunction" idx="5-1" eid="0"/>
+        <error xtype="nn4n" idx="5-2" eid="0"/>
       </errors>
   </revision>
   <w>þegar</w>
@@ -108,8 +109,7 @@
     <original><w>einkunnarblaðið</w></original>
     <corrected><w>einkunnablaðið</w></corrected>
       <errors>
-        <error xtype="compound-collocation" idx="17-1" eid="0"/>
-        <error xtype="compound-nonword" eid="17-1"/>
+        <error xtype="compound-collocation" eid="0"/>
       </errors>
   </revision>
   <w>kom</w>
@@ -164,7 +164,7 @@
     <original><c>“</c><w>tjillað</w><c>“</c></original>
     <corrected><w>slappað</w><w>af</w></corrected>
       <errors>
-        <error xtype="fw" idx="22-1" eid="0"/>
+        <error xtype="fw4ice" idx="22-1" eid="0"/>
         <error xtype="extra-quots" idx="22-1" eid="0"/>
       </errors>
   </revision>
@@ -475,8 +475,7 @@
     <original><w>Gagnfræðiskólanum</w></original>
     <corrected><w>Gagnfræðaskólanum</w></corrected>
       <errors>
-        <error xtype="compound-collocation" idx="27-1" eid="0"/>
-        <error xtype="compound-nonword" idx="27-1" eid="0"/>
+        <error xtype="compound-collocation" eid="0"/>
       </errors>
   </revision>
   <w>í</w>
@@ -484,13 +483,7 @@
   <c>,</c>
   <w>og</w>
   <w>viðbrigðin</w>
-  <revision id="20">
-    <original><w>við</w></original>
-    <corrected><w>í</w></corrected>
-      <errors>
-        <error xtype="collocation" eid="0"/>
-      </errors>
-  </revision>
+  <w>við</w>
   <w>kennsluháttum</w>
   <w>voru</w>
   <w>mikil</w>

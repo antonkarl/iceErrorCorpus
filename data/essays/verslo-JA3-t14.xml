@@ -29,7 +29,7 @@
         <error xtype="wrong-prep" idx="81-1" eid="0"/>
         <error xtype="dep" depId="81-1" eid="0"/>
         <error xtype="missing-letter" idx="81-2" eid="0"/>
-        <error xtype="compound-nonword" idx="81-2" eid="0"/>
+        <error xtype="nonword" idx="81-2" eid="0"/>
       </errors>
   </revision>
   <w>þegar</w>
@@ -394,7 +394,7 @@
     <original><w>masters</w><w>nám</w></original>
     <corrected><w>meistaranám</w></corrected>
       <errors>
-        <error xtype="fw" idx="38-1" eid="0"/>
+        <error xtype="fw4ice" idx="38-1" eid="0"/>
         <error xtype="split-compound" idx="38-1" eid="0"/>
       </errors>
   </revision>

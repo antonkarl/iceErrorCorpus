@@ -86,7 +86,7 @@
     <original><w>5</w></original>
     <corrected><w>5.</w></corrected>
       <errors>
-        <error xtype="date-period" eid="0" />
+        <error xtype="missing-period" eid="0" />
       </errors>
   </revision>
   <c>-</c>
@@ -94,7 +94,7 @@
     <original><w>7 júlí</w><c>,</c></original>
     <corrected><w>7. júlí</w><c>.</c><w>Við</w></corrected>
       <errors>
-        <error xtype="date-period" idx="5-1" eid="0" />
+        <error xtype="missing-period" idx="5-1" eid="0" />
         <error xtype="comma4period" idx="5-2" eid="0" />
         <error xtype="missing-word" idx="5-3" eid="0" />
       </errors>
@@ -381,7 +381,7 @@
     <original><w>Kv</w><c>:</c></original>
     <corrected><w>kveðju</w><c>,</c></corrected>
       <errors>
-        <error xtype="extra-abbreviation" idx="28-1" eid="0" />
+        <error xtype="abbreviation4words" idx="28-1" eid="0" />
         <error xtype="colon4comma" idx="28-2" eid="0" />
       </errors>
   </revision>

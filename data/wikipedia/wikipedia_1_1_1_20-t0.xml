@@ -1422,8 +1422,7 @@
     <original><w>sjálfskaða</w></original>
     <corrected><w>sjálfsskaða</w></corrected>
       <errors>
-        <error xtype="compound-collocation" idx="106-1" eid="0"/>
-        <error xtype="compound-nonword" idx="106-1" eid="0"/>
+        <error xtype="compound-collocation" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -1831,9 +1830,9 @@
     <original><w>En</w><w>sjálfskaðinn</w></original>
     <corrected><w>Sjálfsskaðinn</w></corrected>
       <errors>
-        <error xtype="period-plus-conjunction" eid="0"/>
-        <error xtype="compound-collocation" idx="107-1" eid="0"/>
-        <error xtype="compound-nonword" idx="107-1" eid="0"/>
+        <error xtype="period-plus-conjunction" ix="107-1" eid="0"/>
+        <error xtype="extra-conjunction" ix="107-1" eid="0"/>
+        <error xtype="compound-collocation" idx="107-2" eid="0"/>
       </errors>
   </revision>
   <w>er</w>

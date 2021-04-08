@@ -133,12 +133,12 @@
   <w>var</w>
   <w>fjármagnað</w>
   <w>af</w>
+  <w>6.</w>
   <revision id="1">
-    <original><w>6</w><c>.</c><w>Rammaáætlun</w></original>
-    <corrected><w>6.</w><w>rammaáætlun</w></corrected>
+    <original><w>Rammaáætlun</w></original>
+    <corrected><w>rammaáætlun</w></corrected>
       <errors>
-        <error xtype="extra-space" idx="1-1" eid="0" />
-        <error xtype="upper4lower-noninitial" idx="1-2" eid="0" />
+        <error xtype="upper4lower-noninitial" eid="0" />
       </errors>
   </revision>
   <w>Evrópusambandsins</w>

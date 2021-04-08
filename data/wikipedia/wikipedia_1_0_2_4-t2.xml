@@ -725,8 +725,7 @@
     <original><w>járnbrautateinum</w></original>
     <corrected><w>járnbrautarteinum</w></corrected>
       <errors>
-        <error xtype="compound-collocation" idx="9-1" eid="0"/>
-        <error xtype="compound-nonword" idx="9-1" eid="0"/>
+        <error xtype="compound-collocation" eid="0"/>
       </errors>
   </revision>
   <w>sem</w>
@@ -769,8 +768,8 @@
     <original><w>eyrinn</w><w>hæðst</w></original>
     <corrected><w>eyrin</w><w>hæst</w></corrected>
       <errors>
-        <error xtype="nn4n" eid="0"/>
-        <error xtype="extra-letter" eid="0"/>
+        <error xtype="nn4n" idx="14-1" eid="0"/>
+        <error xtype="extra-letter" idx="14-2" eid="0"/>
       </errors>
   </revision>
   <w>en</w>

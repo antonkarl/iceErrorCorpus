@@ -95,7 +95,7 @@
     <original><w>kynferðismökum</w></original>
     <corrected><w>kynmökum</w></corrected>
       <errors>
-        <error xtype="compound-nonword" eid="0"/>
+        <error xtype="nonword" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -180,7 +180,6 @@
         <error xtype="pronun-writing" idx="21-1" eid="0"/>
         <error xtype="nonword" idx="21-1" eid="0"/>
         <error xtype="compound-collocation" idx="21-2" eid="0"/>
-        <error xtype="compound-nonword" idx="21-2" eid="0"/>
       </errors>
   </revision>
   <w>meðal</w>
@@ -411,7 +410,6 @@
     <original><w>botnsskimun</w><c>”</c></original>
     <corrected><w>botnskimun</w></corrected>
       <errors>
-        <error xtype="compound-nonword" idx="23-1" eid="0"/>
         <error xtype="compound-collocation" idx="23-1" eid="0"/>
         <error xtype="misplaced-quot" idx="23-2" eid="0"/>
       </errors>

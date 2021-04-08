@@ -32,7 +32,8 @@
     <original><w>22 Júlí</w></original>
     <corrected><w>22. júlí</w></corrected>
       <errors>
-        <error xtype="date-period" eid="0" />
+        <error xtype="missing-period" idx="1-1" eid="0" />
+        <error xtype="upper4lower-common" idx="1-2" eid="0" />
       </errors>
   </revision>
   <w>næstkomandi</w>
@@ -160,8 +161,7 @@
     <original><w>Heggstaðarnesinu</w></original>
     <corrected><w>Heggstaðanesinu</w></corrected>
       <errors>
-        <error xtype="compound-collocation" idx="4b-1" eid="0" />
-        <error xtype="compound-nonword" idx="4b-1" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <w>verið</w>

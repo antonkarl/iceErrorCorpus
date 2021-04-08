@@ -260,8 +260,7 @@
     <original><w>kúbændur</w></original>
     <corrected><w>kúabændur</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="5a-1" eid="0" />
-        <error xtype="compound-nonword" idx="5a-1" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <w>megi</w>
@@ -357,8 +356,7 @@
     <original><w>ferðmanna</w></original>
     <corrected><w>ferðamanna</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="7a-1" eid="0" />
-        <error xtype="compound-nonword" idx="7a-1" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <w>og</w>

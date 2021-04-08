@@ -300,8 +300,8 @@
     <original><w>fyrir</w></original>
     <corrected><c>,</c></corrected>
       <errors>
-        <error xtype="extra-word" eid="0"/>
-        <error xtype="missing-comma" eid="0"/>
+        <error xtype="extra-prep" idx="9-1" eid="0"/>
+        <error xtype="missing-comma" idx="9-2" eid="0"/>
       </errors>
   </revision>
   <w>ásamt</w>
@@ -424,9 +424,8 @@
     <original><w>yeshival-framhaldskóli</w></original>
     <corrected><w><hi>yeshiva</hi></w><c>-framhaldsskóli</c></corrected>
       <errors>
-        <error xtype="nonit4it" eid="0"/>
-        <error xtype="compound-collocation" idx="7-1" eid="0"/>
-        <error xtype="compound-nonword" idx="7-1" eid="0"/>
+        <error xtype="nonit4it" idx="7-1" eid="0"/>
+        <error xtype="compound-collocation" idx="7-2" eid="0"/>
       </errors>
   </revision>
   <w>í</w>

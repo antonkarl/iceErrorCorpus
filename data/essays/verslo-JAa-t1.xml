@@ -446,7 +446,7 @@
     <original><w>matmenningu</w></original>
     <corrected><w>matarmenningu</w></corrected>
       <errors>
-        <error xtype="compound-nonword" eid="0"/>
+        <error xtype="compound-collocation" eid="0"/>
       </errors>
   </revision>
   <w>Íslendinga</w>
@@ -1060,8 +1060,7 @@
     <original><w>Eystrarsaltslöndunum</w></original>
     <corrected><w>Eystrasaltslöndunum</w></corrected>
       <errors>
-        <error xtype="compound-nonword" idx="9-1" eid="0"/>
-        <error xtype="extra-letter" idx="9-1" eid="0"/>
+        <error xtype="compound-collocation" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -1221,7 +1220,7 @@
     <corrected><w>menningarárekstrar</w></corrected>
       <errors>
         <error xtype="missing-letter" idx="54a-1" eid="0" />
-        <error xtype="compound-nonword" idx="54a-1" eid="0" />
+        <error xtype="nonword" idx="54a-1" eid="0" />
       </errors>
   </revision>
   <w>sem</w>

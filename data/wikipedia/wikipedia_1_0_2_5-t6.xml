@@ -28,7 +28,7 @@
     <corrected><w>16. ágúst 1890</w><w>lyktaði</w></corrected>
       <errors>
         <error xtype="dep" depId="87-1" eid="0"/>
-        <error xtype="date-period" eid="0"/>
+        <error xtype="missing-period" eid="0"/>
         <error xtype="missing-word" eid="0"/>
       </errors>
   </revision>
@@ -233,7 +233,7 @@
     <original><w>um</w></original>
     <corrected/>
       <errors>
-        <error xtype="extra-word" eid="0"/>
+        <error xtype="extra-prep" eid="0"/>
       </errors>
   </revision>
   <w>í</w>

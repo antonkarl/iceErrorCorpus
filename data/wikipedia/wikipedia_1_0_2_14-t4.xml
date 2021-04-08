@@ -363,8 +363,7 @@
     <original><w>áheyrandahópi</w></original>
     <corrected><w>áheyrendahópi</w></corrected>
       <errors>
-        <error xtype="letter-rep" idx="26-1" eid="0"/>
-        <error xtype="compound-nonword" idx="26-1" eid="0"/>
+        <error xtype="compound-collocation" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -514,8 +513,7 @@
     <original><w>áheyrandahóps</w></original>
     <corrected><w>áheyrendahóps</w></corrected>
       <errors>
-        <error xtype="letter-rep" idx="17-1" eid="0"/>
-        <error xtype="compound-nonword" idx="17-1" eid="0"/>
+        <error xtype="compound-collocation" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -598,7 +596,7 @@
     <original><w>fönk</w><c>„</c><w>grúvi</w><c>“</c></original>
     <corrected><w>fönktilfinningu</w></corrected>
       <errors>
-        <error xtype="fw" idx="57-1" eid="0"/>
+        <error xtype="fw4ice" idx="57-1" eid="0"/>
         <error xtype="extra-quots" idx="57-2" eid="0"/>
       </errors>
   </revision>
@@ -1602,7 +1600,7 @@
     <corrected><w>notuð</w><w>með</w><w>hljóðnema</w></corrected>
       <errors>
         <error xtype="extra-quots" idx="3-1" eid="0"/>
-        <error xtype="fw" idx="3-2" eid="0"/>
+        <error xtype="fw4ice" idx="3-2" eid="0"/>
         <error xtype="wording" idx="3-2" eid="0"/>
       </errors>
   </revision>

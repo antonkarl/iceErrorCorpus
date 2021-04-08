@@ -1027,20 +1027,22 @@
   <w>Fernando</w>
   <revision id="35">
     <original><w>Alonso-Ferrari</w><w>2</w><c>.</c></original>
-    <corrected><w>Alonso</w><c>-</c><w>Ferrari</w><c>,</c><w>í</w><w>öðru</w><w>sæti</w></corrected>
+    <corrected><w>Alonso</w><c>–</c><w>Ferrari</w><c>,</c><w>í</w><w>öðru</w><w>sæti</w></corrected>
       <errors>
         <error xtype="missing-space" idx="35-1" eid="0" />
-        <error xtype="missing-comma" idx="35-2" eid="0" />
-        <error xtype="number4word" idx="35-3" eid="0" />
-        <error xtype="wording" idx="35-3" eid="0" />
+        <error xtype="hyphen4endash" idx="35-2" eid="0" />
+        <error xtype="missing-comma" idx="35-3" eid="0" />
+        <error xtype="number4word" idx="35-4" eid="0" />
+        <error xtype="wording" idx="35-4" eid="0" />
       </errors>
   </revision>
   <w>Sebastian</w>
   <revision id="36">
     <original><w>Vettel–Red</w></original>
-    <corrected><w>Vettel</w><c>-</c><w>Red</w></corrected>
+    <corrected><w>Vettel</w><c>–</c><w>Red</w></corrected>
       <errors>
-        <error xtype="missing-space" eid="0" />
+        <error xtype="missing-space" idx="36-1" eid="0" />
+        <error xtype="hyphen4endash" idx="36-2" eid="0" />
       </errors>
   </revision>
   <w>Bull</w>

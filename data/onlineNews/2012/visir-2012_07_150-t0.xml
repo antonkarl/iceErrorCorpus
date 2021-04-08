@@ -332,7 +332,7 @@
     <original></original>
     <corrected><w>var</w><w>ótrúleg</w><c>.</c></corrected>
       <errors>
-        <error xtype="missing-word" idx="4-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="4-1" eid="0" />
         <error xtype="dep" depId="3-1" eid="0" />
         <error xtype="missing-period" idx="4-2" eid="0" />
       </errors>
@@ -399,8 +399,7 @@
     <original><w>meistarmóti</w></original>
     <corrected><w>meistaramóti</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="5a-1" eid="0" />
-        <error xtype="compound-nonword" idx="5a-1" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <w>GKG</w>

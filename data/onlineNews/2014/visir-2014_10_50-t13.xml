@@ -406,8 +406,8 @@
     <original><c>.</c><w>Þannig</w><w>æfingar</w><w>geta</w></original>
     <corrected><w>og</w><w>getur</w></corrected>
       <errors>
-        <error xtype="period-plus-conjunction" idx="44-1" eid="0"/>
-        <error xtype="conjunction" idx="44-1" eid="0"/>
+        <error xtype="period4conjunction" idx="44-1" eid="0"/>
+        <error xtype="extra-word" idx="44-1" eid="0"/>
         <error xtype="extra-word" idx="44-2" eid="0"/>
         <error xtype="dep" depId="44-2" eid="0"/>
       </errors>

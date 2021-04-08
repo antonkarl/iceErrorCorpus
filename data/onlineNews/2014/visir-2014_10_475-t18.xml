@@ -210,8 +210,7 @@
     <original><w>framhaldskóla</w></original>
     <corrected><w>framhaldsskóla</w></corrected>
       <errors>
-        <error xtype="compound-collocation" idx="12-1" eid="0" />
-        <error xtype="compound-nonword" idx="12-1" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -922,7 +921,7 @@
     <original><w>mastersnáms</w></original>
     <corrected><w>meistaranáms</w></corrected>
       <errors>
-        <error xtype="fw" eid="0" />
+        <error xtype="fw4ice" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -931,7 +930,7 @@
     <original><w>doktorsnámi</w></original>
     <corrected><w>doktorsnáms</w></corrected>
       <errors>
-        <error xtype="fw" eid="0" />
+        <error xtype="fw4ice" eid="0" />
       </errors>
   </revision>
   <w>skólanna</w>

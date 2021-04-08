@@ -54,13 +54,14 @@
   <w>líf</w>
   <w>eftir</w>
   <revision id="1">
-    <original><w>dauðan</w><w>þ.</w><w>e.</w></original>
-    <corrected><w>dauðann</w><w>þ.e.</w></corrected>
+    <original><w>dauðan</w></original>
+    <corrected><w>dauðann</w><c>,</c></corrected>
       <errors>
         <error xtype="n4nn" idx="1-1" eid="0" />
-        <error xtype="extra-space" idx="1-2" eid="0" />
+        <error xtype="missing-comma" idx="1-2" eid="0" />
       </errors>
   </revision>
+  <w>þ.e.</w>
   <w>framhaldslíf</w>
   <c>.</c>
 </s>
@@ -434,7 +435,7 @@
     <corrected><w>kvenkuml</w></corrected>
       <errors>
         <error xtype="nn4n" idx="9-1" eid="0" />
-        <error xtype="compound-nonword" idx="9-1" eid="0" />
+        <error xtype="nonword" idx="9-1" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -456,7 +457,7 @@
     <corrected><w>kvenkumlum</w></corrected>
       <errors>
         <error xtype="nn4n" idx="10-1" eid="0" />
-        <error xtype="compound-nonword" idx="10-1" eid="0" />
+        <error xtype="nonword" idx="10-1" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -503,7 +504,7 @@
     <corrected><w>kvenkumli</w></corrected>
       <errors>
         <error xtype="nn4n" idx="12-1" eid="0" />
-        <error xtype="compound-nonword" idx="12-1" eid="0" />
+        <error xtype="nonword" idx="12-1" eid="0" />
       </errors>
   </revision>
   <w>og</w>

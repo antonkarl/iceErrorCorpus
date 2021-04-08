@@ -636,7 +636,7 @@
     <corrected><w>stilklausar</w><w>til</w></corrected>
       <errors>
         <error xtype="compound-collocation" idx="17-1" eid="0"/>
-        <error xtype="compound-nonword" idx="17-1" eid="0"/>
+        <error xtype="missing-prep" idx="17-2" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -1014,9 +1014,8 @@
     <original><w>neðansjávarmyndartökuleiðangri</w></original>
     <corrected><w>í</w><w>neðansjávarmyndatökuleiðangri</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
-        <error xtype="compound-collocation" idx="49-1" eid="0"/>
-        <error xtype="compound-nonword" idx="49-1" eid="0"/>
+        <error xtype="missing-prep" idx="39-1" eid="0"/>
+        <error xtype="compound-collocation" idx="39-2" eid="0"/>
       </errors>
   </revision>
   <w>hjá</w>

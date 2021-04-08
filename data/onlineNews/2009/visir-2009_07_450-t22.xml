@@ -294,8 +294,8 @@
     <original><w>innistæðutryggingar</w></original>
     <corrected><w>innstæðutryggingar</w><c>,</c></corrected>
       <errors>
-        <error xtype="extra-letter" idx="1-1" eid="0" />
-        <error xtype="compound-nonword" idx="1-1" eid="0" />
+        <error xtype="missing-letter" idx="1-1" eid="0" />
+        <error xtype="nonword" idx="1-1" eid="0" />
         <error xtype="missing-comma" idx="1-2" eid="0" />
       </errors>
   </revision>

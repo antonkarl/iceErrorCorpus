@@ -67,7 +67,7 @@
     <original><w>6 m</w></original>
     <corrected><w>6</w><w>metrum</w></corrected>
       <errors>
-        <error xtype="extra-abbreviation" eid="0" />
+        <error xtype="abbreviation4words" eid="0" />
       </errors>
   </revision>
   <w>niður</w>
@@ -76,7 +76,7 @@
     <original><w>7500 m</w></original>
     <corrected><w>7500</w><w>metra</w></corrected>
       <errors>
-        <error xtype="extra-abbreviation" eid="0" />
+        <error xtype="abbreviation4words" eid="0" />
       </errors>
   </revision>
   <w>dýpi</w>
@@ -223,8 +223,7 @@
     <original><w>burstormar</w></original>
     <corrected><w>burstaormar</w></corrected>
       <errors>
-        <error xtype="compound-collocation" idx="6b-1" eid="0" />
-        <error xtype="compound-nonword" idx="6b-1" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <c>(</c>

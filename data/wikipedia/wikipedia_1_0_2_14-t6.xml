@@ -666,7 +666,7 @@
     <original><w>21 apríl</w></original>
     <corrected><w>21. apríl</w><c>,</c></corrected>
       <errors>
-        <error xtype="date-period" idx="20-1" eid="0"/>
+        <error xtype="missing-period" idx="20-1" eid="0"/>
         <error xtype="missing-comma" idx="20-2" eid="0"/>
       </errors>
   </revision>
@@ -958,8 +958,7 @@
     <original><w>sveitarfélagsmarka</w></original>
     <corrected><w>sveitarfélagamarka</w></corrected>
       <errors>
-        <error xtype="compound-collocation" idx="29-1" eid="0"/>
-        <error xtype="compound-nonword" idx="29-1" eid="0"/>
+        <error xtype="compound-collocation" eid="0"/>
       </errors>
   </revision>
   <w>Mosfellsbæjar</w>

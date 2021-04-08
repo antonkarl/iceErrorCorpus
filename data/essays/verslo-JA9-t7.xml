@@ -637,7 +637,7 @@
     <original><w>topp</w><w>3</w></original>
     <corrected/>
       <errors>
-        <error xtype="fw" idx="22-1" eid="0"/>
+        <error xtype="fw4ice" idx="22-1" eid="0"/>
         <error xtype="wording" idx="22-1" eid="0"/>
         <error xtype="number4word" idx="22-2" eid="0"/>
       </errors>
@@ -791,7 +791,7 @@
     <original><w>framhaldskólana</w></original>
     <corrected><w>framhaldsskólanna</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="4-1" eid="0"/>
+        <error xtype="n4nn" idx="4-1" eid="0"/>
         <error xtype="compound-collocation" idx="4-1" eid="0"/>
       </errors>
   </revision>

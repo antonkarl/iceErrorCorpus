@@ -109,7 +109,8 @@
     <original><w>heimillækna</w></original>
     <corrected><w>heimilislækna</w></corrected>
       <errors>
-        <error xtype="compound-nonword" eid="0" />
+        <error xtype="missing-letters" idx="3-1" eid="0" />
+        <error xtype="nonword" idx="3-1" eid="0" />
       </errors>
   </revision>
   <w>fari</w>
@@ -156,7 +157,7 @@
     <original><w>hjúkrunafræðingar</w></original>
     <corrected><w>hjúkrunarfræðingar</w></corrected>
       <errors>
-        <error xtype="compound-nonword" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <w>farnir</w>
@@ -200,8 +201,7 @@
     <original><w>Fjarðapóstsins</w></original>
     <corrected><w>Fjarðarpóstsins</w></corrected>
       <errors>
-        <error xtype="compound-collocation" idx="4-1" eid="0" />
-        <error xtype="compound-nonword" idx="4-1" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <w>hér</w>

@@ -19,8 +19,8 @@
     <original><w>Þau</w><w>fara</w></original>
     <corrected><w>Það</w><w>fer</w></corrected>
       <errors>
-        <error xtype="agreement-pro" eid="0"/>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement-pro" idx="1-1" eid="0"/>
+        <error xtype="agreement" idx="1-2" eid="0"/>
       </errors>
   </revision>
   <w>bara</w>
@@ -31,7 +31,7 @@
     <original><w>finna</w></original>
     <corrected><w>finnur</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="dep" depId="1-1" eid="0"/>
       </errors>
   </revision>
   <w>einhverja</w>
@@ -223,8 +223,7 @@
     <original><w>segulbandspólan</w></original>
     <corrected><w>segulbandsspólan</w></corrected>
       <errors>
-        <error xtype="compound-collocation" idx="11-1" eid="0"/>
-        <error xtype="compound-nonword" idx="11-1" eid="0"/>
+        <error xtype="compound-collocation" eid="0"/>
       </errors>
   </revision>
   <w>sem</w>
@@ -241,8 +240,7 @@
     <original><w>segulbandspólunni</w></original>
     <corrected><w>segulbandsspólunni</w></corrected>
       <errors>
-        <error xtype="compound-collocation" idx="12-1" eid="0"/>
-        <error xtype="compound-nonword" idx="12-1" eid="0"/>
+        <error xtype="compound-collocation" eid="0"/>
       </errors>
   </revision>
   <w>kom</w>
@@ -501,7 +499,7 @@
     <original><w>djazz</w></original>
     <corrected><w>djass</w></corrected>
       <errors>
-        <error xtype="fw" eid="0"/>
+        <error xtype="fw4ice" eid="0"/>
       </errors>
   </revision>
   <c>,</c>
@@ -511,7 +509,7 @@
     <original><w>roll</w></original>
     <corrected><w>ról</w></corrected>
       <errors>
-        <error xtype="fw" eid="0"/>
+        <error xtype="fw4ice" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
@@ -519,7 +517,7 @@
     <original><w>hiphop</w></original>
     <corrected><w>hipphopp</w></corrected>
       <errors>
-        <error xtype="fw" eid="0"/>
+        <error xtype="fw4ice" eid="0"/>
       </errors>
   </revision>
   <w>að</w>

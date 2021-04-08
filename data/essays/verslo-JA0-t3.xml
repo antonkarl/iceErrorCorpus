@@ -81,8 +81,9 @@
     <original><w>hvert</w><w>tískufyrirbrigið</w></original>
     <corrected><w>við</w><w>hverju</w><w>tískufyrirbrigðinu</w></corrected>
       <errors>
-        <error xtype="wording" eid="0"/>
-		<error xtype="compound-nonword" eid="0"/>
+        <error xtype="wording" idx="2-1" eid="0"/>
+        <error xtype="missing-letter" idx="2-2" eid="0"/>
+		    <error xtype="nonword" idx="2-2" eid="0"/>
       </errors>
   </revision>
   <w>á</w>
@@ -267,7 +268,7 @@
     <original><w>videotæki</w></original>
     <corrected><w>vídeótæki</w></corrected>
       <errors>
-        <error xtype="compound-nonword" eid="0"/>
+        <error xtype="fw4ice" eid="0"/>
       </errors>
   </revision>
   <c>,</c>
@@ -359,7 +360,7 @@
     <corrected><w>kortafyrirtækjanna</w></corrected>
       <errors>
         <error xtype="compound-collocation" idx="7-1" eid="0"/>
-        <error xtype="compound-nonword" idx="7-1" eid="0"/>
+        <error xtype="missing-letter" idx="7-1" eid="0"/>
       </errors>
   </revision>
   <w>þar</w>

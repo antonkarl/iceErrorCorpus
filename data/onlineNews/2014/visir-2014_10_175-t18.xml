@@ -175,12 +175,12 @@
   <w>lýsir</w>
   <w>hann</w>
   <w>atburðarásinni</w>
-  <c>,</c>
   <revision id="4">
-    <original><w>séða</w></original>
-    <corrected><w>séðri</w></corrected>
+    <original><c>,</c><w>séða</w></original>
+    <corrected></corrected>
       <errors>
-        <error xtype="adjective-inflection" eid="0" />
+        <error xtype="extra-comma" idx="4-1" eid="0" />
+        <error xtype="extra-word" idx="4-2" eid="0" />
       </errors>
   </revision>
   <w>frá</w>

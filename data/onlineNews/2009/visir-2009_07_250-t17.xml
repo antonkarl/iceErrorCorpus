@@ -119,7 +119,7 @@
     <original><w>Gay-Pride</w><w>hátíðinni</w></original>
     <corrected><w>Hinsegin</w><w>dögum</w></corrected>
       <errors>
-        <error xtype="fw" idx="2-1" eid="0" />
+        <error xtype="fw4ice" idx="2-1" eid="0" />
         <error xtype="wording" idx="2-1" eid="0" />
         <error xtype="style" idx="2-1" eid="0" />
       </errors>
@@ -209,7 +209,8 @@
     <original><w>eru</w><w>fúsir</w></original>
     <corrected><w>er</w><w>fúst</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0" />
+        <error xtype="agreement" idx="5-1" eid="0" />
+        <error xtype="agreement-pred" idx="5-2" eid="0" />
       </errors>
   </revision>
   <w>að</w>

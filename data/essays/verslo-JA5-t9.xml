@@ -362,8 +362,7 @@
     <original><w>hjúkrunakonurnar</w></original>
     <corrected><w>hjúkrunarkonurnar</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="10a-1" eid="0" />
-        <error xtype="compound-nonword" idx="10a-1" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
@@ -881,10 +880,9 @@
   <w>Eitt</w>
   <revision id="26">
     <original><w>eftirminnilegast</w></original>
-    <corrected><w>eftirinnilegasta</w></corrected>
+    <corrected><w>eftirminnilegasta</w></corrected>
       <errors>
-        <error xtype="agreement-concord" idx="10-1" eid="0"/>
-        <error xtype="missing-letter" idx="10-1" eid="0"/>
+        <error xtype="agreement-concord" eid="0"/>
       </errors>
   </revision>
   <w>afmælið</w>
@@ -1075,9 +1073,7 @@
     <original><w>jarðaför</w></original>
     <corrected><w>jarðarför</w></corrected>
       <errors>
-        <error xtype="compound-collocation" idx="1-1" eid="0"/>
-        <error xtype="compound-nonword" idx="1-1" eid="0"/>
-        <error xtype="missing-letter" idx="1-1" eid="0"/>
+        <error xtype="compound-collocation" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -1692,8 +1688,10 @@
     <corrected><w>postulínsmálning</w></corrected>
       <errors>
         <error xtype="extra-letter" idx="5-1" eid="0"/>
-        <error xtype="compound-collocation" idx="5-1" eid="0"/>
-        <error xtype="compound-nonword" idx="5-1" eid="0"/>
+        <error xtype="missing-letter" idx="5-1" eid="0"/>
+        <error xtype="case-prep" idx="5-1" eid="0"/>
+        <error xtype="nominal-inflection" idx="5-1" eid="0"/>
+        <error xtype="nonword" idx="5-1" eid="0"/>
       </errors>
   </revision>
   <w>og</w>

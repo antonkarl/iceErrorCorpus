@@ -520,8 +520,8 @@
     <original><w>deildarstjóti</w></original>
     <corrected><w>deildarstjóri</w></corrected>
       <errors>
-        <error xtype="swapped-letters" idx="4a-1" eid="0" />
-        <error xtype="compound-nonword" idx="4a-1" eid="0" />
+        <error xtype="letter-rep" idx="4a-1" eid="0" />
+        <error xtype="nonword" idx="4a-1" eid="0" />
       </errors>
   </revision>
   <w>og</w>

@@ -188,8 +188,7 @@
     <original><w>ísskaldur</w></original>
     <corrected><w>ískaldur</w></corrected>
       <errors>
-        <error xtype="extra-letter" idx="3-1" eid="0" />
-        <error xtype="compound-nonword" idx="3-1" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -295,7 +294,7 @@
     <original><w>dipló</w></original>
     <corrected><w>óljós</w></corrected>
       <errors>
-        <error xtype="fw" idx="4-1" eid="0" />
+        <error xtype="fw4ice" idx="4-1" eid="0" />
         <error xtype="style" idx="4-1" eid="0" />
       </errors>
   </revision>

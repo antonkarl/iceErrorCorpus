@@ -326,9 +326,8 @@
     <original><w>hét</w><c>‘</c><c>‘</c></original>
     <corrected><w>hétu</w><c>„</c></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
-        <error xtype="wrong-quots" eid="0"/>
-        <error xtype="extra-quot" eid="0"/>
+        <error xtype="agreement" idx="23-1" eid="0"/>
+        <error xtype="wrong-quot" idx="23-2" eid="0"/>
       </errors>
   </revision>
   <w>The</w>
@@ -1604,7 +1603,7 @@
     <original><w>21 Júní</w><c>,</c><w>1877</w></original>
     <corrected><w>21. júní 1877</w></corrected>
       <errors>
-        <error xtype="date-period" idx="107-1" eid="0"/>
+        <error xtype="missing-period" idx="107-1" eid="0"/>
         <error xtype="upper4lower-common" idx="107-1" eid="0"/>
         <error xtype="extra-comma" eid="0"/>
       </errors>

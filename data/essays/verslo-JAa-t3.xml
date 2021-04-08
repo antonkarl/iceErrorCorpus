@@ -288,7 +288,8 @@
     <original><c>.</c><w>Og</w></original>
     <corrected><w>og</w></corrected>
       <errors>
-        <error xtype="missing-period" eid="0"/>
+        <error xtype="extra-period" idx="11-1" eid="0"/>
+        <error xtype="period-plus-conjunction" idx="11-1" eid="0"/>
       </errors>
   </revision>
   <w>er</w>
@@ -777,7 +778,8 @@
     <original><c>.</c><w>Og</w></original>
     <corrected><w>og</w></corrected>
       <errors>
-        <error xtype="extra-period" eid="0"/>
+        <error xtype="extra-period" idx="26-1" eid="0"/>
+        <error xtype="period-plus-conjunction" idx="26-1" eid="0"/>
       </errors>
   </revision>
   <w>það</w>

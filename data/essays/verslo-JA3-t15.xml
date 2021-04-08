@@ -150,7 +150,7 @@
     <corrected><w>heimsfriðinum</w></corrected>
       <errors>
         <error xtype="missing-letter" idx="2a-1" eid="0" />
-        <error xtype="compound-nonword" idx="2a-1" eid="0" />
+        <error xtype="nonword" idx="2a-1" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -816,7 +816,6 @@
     <corrected><w>mannfólksins</w><w>gagnvart</w><w>hverju</w></corrected>
       <errors>
         <error xtype="compound-collocation" idx="15-1" eid="0"/>
-        <error xtype="compound-nonword" idx="15-1" eid="0"/>
         <error xtype="wording" eid="0"/>
       </errors>
   </revision>

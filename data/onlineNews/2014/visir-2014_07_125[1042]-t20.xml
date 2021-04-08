@@ -396,8 +396,7 @@
     <original><w>forvarnardeild</w></original>
     <corrected><w>forvarnadeild</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="3a-1" eid="0" />
-        <error xtype="compound-nonword" idx="3a-1" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <w>Slökkviliðsins</w>
@@ -513,7 +512,7 @@
     <corrected><w>samhljómur</w></corrected>
       <errors>
         <error xtype="missing-letter" idx="5a-1" eid="0" />
-        <error xtype="compound-nonword" idx="5a-1" eid="0" />
+        <error xtype="nonword" idx="5a-1" eid="0" />
       </errors>
   </revision>
   <w>þarf</w>

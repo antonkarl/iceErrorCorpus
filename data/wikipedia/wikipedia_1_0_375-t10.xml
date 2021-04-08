@@ -256,8 +256,7 @@
     <original><w>barnasjónvarpstöðva</w></original>
     <corrected><w>barnasjónvarpsstöðva</w></corrected>
       <errors>
-        <error xtype="compound-collocation" idx="19-1" eid="0"/>
-        <error xtype="compound-nonword" idx="19-1" eid="0"/>
+        <error xtype="compound-collocation" eid="0"/>
       </errors>
   </revision>
   <w>í</w>
@@ -807,8 +806,7 @@
     <original><w>heimsýningunni</w></original>
     <corrected><w>heimssýningunni</w></corrected>
       <errors>
-        <error xtype="compound-collocation" idx="36-1" eid="0"/>
-        <error xtype="compound-nonword" idx="36-1" eid="0"/>
+        <error xtype="compound-collocation" eid="0"/>
       </errors>
   </revision>
   <w>í</w>
@@ -1520,7 +1518,6 @@
     <corrected><w>barnasjónvarpsstöðvarsýningar</w></corrected>
       <errors>
         <error xtype="compound-collocation" idx="20-1" eid="0"/>
-        <error xtype="compound-nonword" idx="20-1" eid="0"/>
         <error xtype="split-compound" idx="20-1" eid="0"/>
       </errors>
   </revision>

@@ -228,8 +228,9 @@
     <original><w>eitthvers</w><w>allt</w></original>
     <corrected><w>einhvers</w><w>alls</w></corrected>
       <errors>
-        <error xtype="nonword" eid="0"/>
-        <error xtype="agreement-concord" eid="0"/>
+        <error xtype="nonword" idx="7-1" eid="0"/>
+        <error xtype="case-prep" idx="7-2" eid="0"/>
+        <error xtype="pro-inflection" idx="7-2" eid="0"/>
       </errors>
   </revision>
   <w>annars</w>
@@ -871,8 +872,7 @@
     <original><w>sjónvarpstöðvar</w></original>
     <corrected><w>sjónvarpsstöðvar</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="25a-1" eid="0" />
-        <error xtype="compound-nonword" idx="25a-1" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
 </s><s n="39">

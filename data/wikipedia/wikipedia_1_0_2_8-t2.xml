@@ -63,7 +63,13 @@
   <c>,</c>
   <w>þegar</w>
   <w>þýska</w>
-  <w>diskó-hljómsveitin</w>
+  <revision id="4b">
+    <original><w>diskó-hljómsveitin</w></original>
+    <corrected><w>diskóhljómsveitin</w></corrected>
+      <errors>
+        <error xtype="extra-hyphen" eid="0"/>
+      </errors>
+  </revision>
   <w>Modern</w>
   <w>Talking</w>
   <w>tók</w>
@@ -71,13 +77,13 @@
   <w>aftur</w>
   <c>,</c>
   <revision id="5">
-    <original><w>hefur</w></original>
-    <corrected><w>hafa</w><w>vinsældir</w></corrected>
+    <original><w>hefur</w><w>ítaló-diskó</w></original>
+    <corrected><w>hafa</w><w>vinsældir</w><w>ítalódiskó</w></corrected>
       <errors>
-        <error xtype="wording" eid="0"/>
+        <error xtype="wording" idx="5-1" eid="0"/>
+        <error xtype="extra-hyphen" idx="5-2" eid="0"/>
       </errors>
   </revision>
-  <w>ítaló-diskó</w>
   <revision id="6">
     <original><w>verið</w><w>að</w></original>
     <corrected><w>þó</w></corrected>
@@ -119,8 +125,7 @@
     <original><w>markaðsetningu</w><c>,</c></original>
     <corrected><w>markaðssetningu</w><w>en</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="94-1" eid="0"/>
-        <error xtype="compound-nonword" idx="94-1" eid="0"/>
+        <error xtype="compound-collocation" idx="94-1" eid="0"/>
         <error xtype="comma4conjunction" idx="94-2" eid="0"/>
       </errors>
   </revision>
@@ -129,9 +134,9 @@
   <w>Ítaló</w>
   <revision id="10">
     <original><w>diskó</w><w>plötufyrirtækin</w></original>
-    <corrected><w>diskó-plötufyrirtækin</w></corrected>
+    <corrected><w>diskóplötufyrirtækin</w></corrected>
       <errors>
-        <error xtype="missing-hyphen" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>urðu</w>
@@ -151,9 +156,9 @@
 </s><s n="4">
   <revision id="12">
     <original><w>Ítaló</w><w>diskó</w></original>
-    <corrected><w>Ítaló-diskó</w></corrected>
+    <corrected><w>Ítalódiskó</w></corrected>
       <errors>
-        <error xtype="missing-hyphen" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>er</w>
@@ -205,9 +210,9 @@
   <w>í</w>
   <revision id="18">
     <original><w>ítaló</w><w>diskó</w><w>eru</w></original>
-    <corrected><w>ítaló-diskó</w><w>voru</w></corrected>
+    <corrected><w>ítalódiskó</w><w>voru</w></corrected>
       <errors>
-        <error xtype="missing-hyphen" idx="97-1" eid="0"/>
+        <error xtype="split-compound" idx="97-1" eid="0"/>
         <error xtype="pres4past" idx="97-2" eid="0"/>
       </errors>
   </revision>
@@ -271,7 +276,7 @@
   <w>Flestum</w>
   <revision id="24">
     <original><w>ítaló-diskó</w><w>plötunum</w></original>
-    <corrected><w>ítaló-diskóplötunum</w></corrected>
+    <corrected><w>ítalódiskóplötunum</w></corrected>
       <errors>
         <error xtype="split-compound" eid="0"/>
       </errors>
@@ -417,9 +422,9 @@
   <c>„</c>
   <revision id="38">
     <original><w>ítaló</w><w>diskó</w><c>”</c></original>
-    <corrected><w>ítaló-diskó</w><c>“</c></corrected>
+    <corrected><w>ítalódiskó</w><c>“</c></corrected>
       <errors>
-        <error xtype="missing-hyphen" idx="161-1" eid="0"/>
+        <error xtype="split-compound" idx="161-1" eid="0"/>
         <error xtype="wrong-quots" idx="161-2" eid="0"/>
       </errors>
   </revision>
@@ -588,8 +593,7 @@
     <original><w>markaðsetja</w></original>
     <corrected><w>markaðssetja</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="12-1" eid="0"/>
-        <error xtype="compound-nonword" idx="12-1" eid="0"/>
+        <error xtype="compound-collocation" eid="0"/>
       </errors>
   </revision>
   <w>hana</w>
@@ -681,7 +685,13 @@
   <w>brenndar</w>
   <c>.</c>
 </s><s n="13">
-  <w>Ítaló-diskó</w>
+  <revision id="60b">
+    <original><w>Ítaló-diskó</w></original>
+    <corrected><w>Ítalódiskó</w></corrected>
+      <errors>
+        <error xtype="extra-hyphen" eid="0"/>
+      </errors>
+  </revision>
   <w>varð</w>
   <w>aldrei</w>
   <revision id="61">
@@ -783,9 +793,9 @@
   <w>út</w>
   <revision id="69">
     <original><w>ítaló</w><w>plötur</w></original>
-    <corrected><w>ítaló-diskóplötur</w></corrected>
+    <corrected><w>ítalódiskóplötur</w></corrected>
       <errors>
-        <error xtype="missing-hyphen" idx="191-1" eid="0"/>
+        <error xtype="split-compound" idx="191-1" eid="0"/>
         <error xtype="wording" idx="191-1" eid="0"/>
       </errors>
   </revision>
@@ -859,7 +869,7 @@
     <original><w>elektrónísk</w></original>
     <corrected><w>rafræn</w></corrected>
       <errors>
-        <error xtype="fw" eid="0"/>
+        <error xtype="fw4ice" eid="0"/>
       </errors>
   </revision>
   <w>tónlist</w>
@@ -870,8 +880,13 @@
   <w>Evrópu</w>
   <w>brenndu</w>
   <w>Bandaríkjamenn</w>
-  <w>diskó</w>
-  <w>plöturnar</w>
+  <revision id="74">
+    <original><w>diskó</w><w>plöturnar</w></original>
+    <corrected><w>diskóplöturnar</w></corrected>
+      <errors>
+        <error xtype="split-compound" eid="0"/>
+      </errors>
+  </revision>
   <w>sínar</w>
   <w>og</w>
   <w>tónlistarmenningin</w>
@@ -1077,7 +1092,7 @@
     <original><w>elektrónískrar</w></original>
     <corrected><w>rafrænnar</w></corrected>
       <errors>
-        <error xtype="fw" eid="0"/>
+        <error xtype="fw4ice" eid="0"/>
       </errors>
   </revision>
   <w>tónlistar</w>
@@ -1120,11 +1135,11 @@
   <w>tónlist</w>
   <revision id="95">
     <original><w>og</w><w>gáfu</w><w>ítaló</w><w>diskó</w></original>
-    <corrected><c>.</c><w>Sú</w><w>tækni</w><w>gaf</w><w>ítaló-diskói</w></corrected>
+    <corrected><c>.</c><w>Sú</w><w>tækni</w><w>gaf</w><w>ítalódiskói</w></corrected>
       <errors>
         <error xtype="conjunction4period" idx="20-1" eid="0"/>
         <error xtype="missing-words" idx="20-2" eid="0"/>
-        <error xtype="missing-hyphen" idx="20-3" eid="0"/>
+        <error xtype="split-compound" idx="20-3" eid="0"/>
       </errors>
   </revision>
   <w>þann</w>
@@ -1132,7 +1147,7 @@
     <original><w>elektróníska</w></original>
     <corrected><w>rafræna</w></corrected>
       <errors>
-        <error xtype="fw" eid="0"/>
+        <error xtype="fw4ice" eid="0"/>
       </errors>
   </revision>
   <w>brag</w>
@@ -1147,7 +1162,7 @@
   <w>eiginlega</w>
   <revision id="97">
     <original><w>Ítaló</w></original>
-    <corrected><w>ítaló-diskó</w></corrected>
+    <corrected><w>ítalódiskó</w></corrected>
       <errors>
         <error xtype="wording" eid="0"/>
       </errors>
@@ -1319,10 +1334,10 @@
   <w>vinsældir</w>
   <revision id="112">
     <original><w>þá</w><w>náði</w><w>ítaló</w><w>diskó</w></original>
-    <corrected><w>varð</w><w>ítaló-diskó</w></corrected>
+    <corrected><w>varð</w><w>ítalódiskó</w></corrected>
       <errors>
         <error xtype="wording" idx="178-1" eid="0"/>
-        <error xtype="missing-hyphen" idx="178-2" eid="0"/>
+        <error xtype="split-compound" idx="178-2" eid="0"/>
       </errors>
   </revision>
   <w>aldrei</w>
@@ -1365,7 +1380,7 @@
     <original><w>elektrónískri</w></original>
     <corrected><w>rafrænni</w></corrected>
       <errors>
-        <error xtype="fw" eid="0"/>
+        <error xtype="fw4ice" eid="0"/>
       </errors>
   </revision>
   <w>tónlist</w>
@@ -1436,13 +1451,13 @@
   <w>23</w>
   <w>safnplötur</w>
   <w>með</w>
-  <w>ítaló-diskói</w>
   <revision id="122">
-    <original><c>,</c></original>
-    <corrected><c>.</c><w>Af</w><w>þeim</w><w>voru</w></corrected>
+    <original><w>ítaló-diskói</w><c>,</c></original>
+    <corrected><w>ítalódiskói</w><c>.</c><w>Af</w><w>þeim</w><w>voru</w></corrected>
       <errors>
-        <error xtype="comma4period" idx="165-1" eid="0"/>
-        <error xtype="missing-words" idx="165-2" eid="0"/>
+        <error xtype="extra-hyphen" idx="165-1" eid="0"/>
+        <error xtype="comma4period" idx="165-2" eid="0"/>
+        <error xtype="missing-words" idx="165-3" eid="0"/>
       </errors>
   </revision>
   <w>13</w>
@@ -1469,7 +1484,7 @@
     <original><w>Elektró-senan</w></original>
     <corrected><w>Raftónlistarbylgja</w></corrected>
       <errors>
-        <error xtype="fw" eid="0"/>
+        <error xtype="fw4ice" eid="0"/>
       </errors>
   </revision>
   <w>var</w>
@@ -1841,9 +1856,9 @@
   <w>náði</w>
   <revision id="153">
     <original><w>ítaló</w><w>diskó</w></original>
-    <corrected><w>ítaló-diskó</w></corrected>
+    <corrected><w>ítalódiskó</w></corrected>
       <errors>
-        <error xtype="missing-hyphen" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>miklum</w>
@@ -1885,9 +1900,9 @@
 </s><s n="37">
   <revision id="157">
     <original><w>Ítaló</w><w>diskó</w></original>
-    <corrected><w>Ítaló-diskó</w></corrected>
+    <corrected><w>Ítalódiskó</w></corrected>
       <errors>
-        <error xtype="missing-hyphen" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>náði</w>
@@ -1948,12 +1963,12 @@
   <w>dag</w>
   <c>.</c>
 </s><s n="38">
-  <w>Ítaló-diskó</w>
   <revision id="164">
-    <original><w>er</w><w>undir</w></original>
-    <corrected><w>varð</w><w>fyrir</w></corrected>
+    <original><w>Ítaló-diskó</w><w>er</w><w>undir</w></original>
+    <corrected><w>Ítalódiskó</w><w>varð</w><w>fyrir</w></corrected>
       <errors>
-        <error xtype="wording" eid="0"/>
+        <error xtype="extra-hyphen" idx="164-1" eid="0"/>
+        <error xtype="wording" idx="164-2" eid="0"/>
       </errors>
   </revision>
   <w>mjög</w>
@@ -1976,7 +1991,7 @@
     <original><w>elektrónískara</w></original>
     <corrected><w>rafmagnaðra</w></corrected>
       <errors>
-        <error xtype="fw" eid="0"/>
+        <error xtype="fw4ice" eid="0"/>
       </errors>
   </revision>
   <w>en</w>
@@ -2151,10 +2166,10 @@
   <w>það</w>
   <revision id="181">
     <original><w>fjaraði</w><w>ítaló</w><w>diskó</w></original>
-    <corrected><w>fjöruðu</w><w>vinsældir</w><w>ítaló-diskó</w></corrected>
+    <corrected><w>fjöruðu</w><w>vinsældir</w><w>ítalódiskó</w></corrected>
       <errors>
         <error xtype="wording" idx="186-1" eid="0"/>
-        <error xtype="missing-hyphen" idx="186-2" eid="0"/>
+        <error xtype="split-compound" idx="186-2" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -2164,19 +2179,19 @@
 </s><s n="42">
   <revision id="182">
     <original><w>Ítaló</w><w>diskó</w></original>
-    <corrected><w>Ítaló-diskó</w></corrected>
+    <corrected><w>Ítalódiskó</w></corrected>
       <errors>
-        <error xtype="missing-hyphen" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>er</w>
   <w>undirtegund</w>
-  <w>diskó-tónlistar</w>
   <revision id="183">
-    <original><c>,</c></original>
-    <corrected/>
+    <original><w>diskó-tónlistar</w><c>,</c></original>
+    <corrected><w>diskótónlistar</w></corrected>
       <errors>
-        <error xtype="extra-comma" eid="0"/>
+        <error xtype="extra-hyphen" idx="183-1" eid="0"/>
+        <error xtype="extra-comma" idx="183-2" eid="0"/>
       </errors>
   </revision>
   <w>sem</w>

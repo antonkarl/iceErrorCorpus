@@ -29,7 +29,7 @@
     <original><w>Gasaströndina</w></original>
     <corrected><w>Gaza-ströndina</w></corrected>
       <errors>
-        <error xtype="fw" idx="1-1" eid="0" />
+        <error xtype="name-error" idx="1-1" eid="0" />
         <error xtype="merged-words" idx="1-1" eid="0" />
         <error xtype="missing-slash" idx="1-1" eid="0" />
       </errors>
@@ -56,7 +56,8 @@
     <original><w>Gasa</w></original>
     <corrected><w>Gaza</w></corrected>
       <errors>
-        <error xtype="fw" eid="0" />
+        <error xtype="name-error" idx="2-1" eid="0" />
+        <error xtype="letter-rep" idx="2-1" eid="0" />
       </errors>
   </revision>
   <w>og</w>

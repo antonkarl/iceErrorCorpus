@@ -450,7 +450,8 @@
     <original><w>En</w><w>hvernig</w></original>
     <corrected><w>Hvernig</w></corrected>
       <errors>
-        <error xtype="extra-word" eid="0"/>
+        <error xtype="extra-conjunction" idx="13-1" eid="0"/>
+        <error xtype="period-plus-conjunction" idx="13-1" eid="0"/>
       </errors>
   </revision>
   <w>skyldi</w>

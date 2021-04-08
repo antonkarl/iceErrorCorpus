@@ -315,7 +315,8 @@
     <original><w>menn</w></original>
     <corrected><w>viðmælendur</w></corrected>
       <errors>
-        <error xtype="wording" eid="0" />
+        <error xtype="wording" idx="2-1" eid="0" />
+        <error xtype="gendered" idx="2-1" eid="0" />
       </errors>
   </revision>
   <w>voru</w>
@@ -332,9 +333,7 @@
     <original><w>viðkomandi</w><w>taldi</w></original>
     <corrected><w>þeir</w><w>töldu</w></corrected>
       <errors>
-        <error xtype="noun4pro" idx="3-1" eid="0" />
-        <error xtype="agreement-pro" idx="3-1" eid="0" />
-        <error xtype="dep" depId="3-1" eid="0" />
+        <error xtype="noun4pro" eid="0" />
       </errors>
   </revision>
   <w>líklega</w>

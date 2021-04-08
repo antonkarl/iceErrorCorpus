@@ -607,7 +607,7 @@
     <original><w>útg</w><c>.</c></original>
     <corrected><w>útgefandi</w><w>var</w></corrected>
       <errors>
-        <error xtype="extra-abbreviation" idx="41-1" eid="0"/>
+        <error xtype="abbreviation4words" idx="41-1" eid="0"/>
         <error xtype="missing-fin-verb" idx="41-2" eid="0"/>
       </errors>
   </revision>
@@ -919,21 +919,9 @@
   <w>Barbara</w>
   <w>Árnason</w>
   <c>(</c>
-  <revision id="51">
-    <original><w>19. apríl 1911</w></original>
-    <corrected><w>19. apríl</w><c>,</c><w>1911</w></corrected>
-      <errors>
-        <error xtype="missing-comma" eid="0"/>
-      </errors>
-  </revision>
+  <w>19. apríl 1911</w>
   <c>–</c>
-  <revision id="52">
-    <original><w>9. janúar 1977</w></original>
-    <corrected><w>9. janúar</w><c>,</c><w>1977</w></corrected>
-      <errors>
-        <error xtype="missing-comma" eid="0"/>
-      </errors>
-  </revision>
+  <w>9. janúar 1977</w>
   <c>)</c>
   <w>var</w>
   <w>íslenskur</w>

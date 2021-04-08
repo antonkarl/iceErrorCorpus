@@ -484,7 +484,7 @@
     <corrected><w>upprunnið</w></corrected>
       <errors>
         <error xtype="nonword" idx="13-1" eid="0" />
-        <error xtype="missing-letter" idx="13-1" eid="0" />
+        <error xtype="n4nn" idx="13-1" eid="0" />
       </errors>
   </revision>
   <w>frá</w>
@@ -2000,8 +2000,7 @@
     <original><w>Rómarveldis</w></original>
     <corrected><w>Rómaveldis</w></corrected>
       <errors>
-        <error xtype="compound-collocation" idx="53b-1" eid="0" />
-        <error xtype="compound-nonword" idx="53b-1" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -2421,10 +2420,9 @@
   <w>leið</w>
   <revision id="68">
     <original><w>Ottómanaveldið</w></original>
-    <corrected><w>Ottóman-veldið</w></corrected>
+    <corrected><w>Ottómanveldið</w></corrected>
       <errors>
-        <error xtype="missing-hyphen" idx="68-1" eid="0" />
-        <error xtype="compound-collocation" idx="68-1" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <w>endanlega</w>
@@ -5101,7 +5099,7 @@
     <original><w>theokratíska</w><w>ríkið</w></original>
     <corrected><w>klerkaveldisríkið</w></corrected>
       <errors>
-        <error xtype="fw" idx="172-1" eid="0" />
+        <error xtype="fw4ice" idx="172-1" eid="0" />
         <error xtype="split-compound" idx="172-1" eid="0" />
       </errors>
   </revision>
@@ -5822,10 +5820,9 @@
   <w>af</w>
   <revision id="208">
     <original><w>Ottómannaveldinu</w></original>
-    <corrected><w>Ottóman-veldinu</w></corrected>
+    <corrected><w>Ottómanveldinu</w></corrected>
       <errors>
-        <error xtype="missing-hyphen" idx="208-1" eid="0" />
-        <error xtype="compound-collocation" idx="208-1" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -7744,8 +7741,7 @@
     <original><w>ríkistjórn</w></original>
     <corrected><w>ríkisstjórn</w></corrected>
       <errors>
-        <error xtype="compound-collocation" idx="299-1" eid="0" />
-        <error xtype="compound-nonword" idx="299-1" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -7817,8 +7813,7 @@
     <original><w>ríkistjórninni</w></original>
     <corrected><w>ríkisstjórninni</w></corrected>
       <errors>
-        <error xtype="compound-collocation" idx="303-1" eid="0" />
-        <error xtype="compound-nonword" idx="303-1" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
@@ -7856,8 +7851,7 @@
     <original><w>ríkistjórnarinnar</w></original>
     <corrected><w>ríkisstjórnarinnar</w></corrected>
       <errors>
-        <error xtype="compound-collocation" idx="306-1" eid="0" />
-        <error xtype="compound-nonword" idx="306-1" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -7978,7 +7972,6 @@
         <error xtype="missing-colon" eid="0" />
         <error xtype="nominal-inflection" idx="313-1" eid="0" />
         <error xtype="compound-collocation" idx="313-1" eid="0" />
-        <error xtype="compound-nonword" idx="313-1" eid="0" />
       </errors>
   </revision>
   <c>(</c>
@@ -8719,8 +8712,7 @@
     <original><w>ríkistjórnarinnar</w></original>
     <corrected><w>ríkisstjórnarinnar</w></corrected>
       <errors>
-        <error xtype="compound-collocation" idx="345-1" eid="0" />
-        <error xtype="compound-nonword" idx="345-1" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <c>(</c>
@@ -8732,8 +8724,7 @@
     <original><w>ríkistjóra</w></original>
     <corrected><w>ríkisstjóra</w></corrected>
       <errors>
-        <error xtype="compound-collocation" idx="346-1" eid="0" />
-        <error xtype="compound-nonword" idx="346-1" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <w>fylkja</w>
@@ -9039,8 +9030,7 @@
     <original><w>stjórnaskrá</w></original>
     <corrected><w>stjórnarskrá</w></corrected>
       <errors>
-        <error xtype="compound-collocation" idx="358b-1" eid="0" />
-        <error xtype="compound-nonword" idx="358b-1" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <w>hefur</w>
@@ -9137,8 +9127,7 @@
     <original><w>stjórnfyrirkomulag</w></original>
     <corrected><w>stjórnarfyrirkomulag</w></corrected>
       <errors>
-        <error xtype="compound-collocation" idx="360-1" eid="0" />
-        <error xtype="compound-nonword" idx="360-1" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -9170,8 +9159,7 @@
     <original><w>ríkistjórnarinnar</w></original>
     <corrected><w>ríkisstjórnarinnar</w></corrected>
       <errors>
-        <error xtype="compound-collocation" idx="361-1" eid="0" />
-        <error xtype="compound-nonword" idx="361-1" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -9205,8 +9193,7 @@
     <original><w>ríkistjórnarinnar</w></original>
     <corrected><w>ríkisstjórnarinnar</w></corrected>
       <errors>
-        <error xtype="compound-collocation" idx="362-1" eid="0" />
-        <error xtype="compound-nonword" idx="362-1" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
@@ -9389,13 +9376,11 @@
   <w>á</w>
   <revision id="369">
     <original><w>Sharia</w><w>lögum</w></original>
-    <corrected><w>sjaría-lögum</w></corrected>
+    <corrected><w>sjaríalögum</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="369-1" eid="0" />
-        <error xtype="letter-rep" idx="369-1" eid="0" />
-        <error xtype="missing-accent" idx="369-1" eid="0" />
+        <error xtype="fw4ice" idx="369-1" eid="0" />
         <error xtype="split-word" idx="369-1" eid="0" />
-        <error xtype="missing-hyphen" idx="369-1" eid="0" />
       </errors>
   </revision>
   <revision id="369b">
@@ -9521,8 +9506,7 @@
     <original><w>Ríkistjórn</w></original>
     <corrected><w>Ríkisstjórn</w></corrected>
       <errors>
-        <error xtype="compound-collocation" idx="374-1" eid="0" />
-        <error xtype="compound-nonword" idx="374-1" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <w>Líbanon</w>
@@ -9592,7 +9576,6 @@
       <errors>
         <error xtype="dep" depId="376-1" eid="0" />
         <error xtype="compound-collocation" depId="377-1" eid="0" />
-        <error xtype="compound-nonword" depId="377-1" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -9745,8 +9728,7 @@
     <original><w>ríkistjórnarinnar</w></original>
     <corrected><w>ríkisstjórnarinnar</w></corrected>
       <errors>
-        <error xtype="compound-collocation" idx="385-1" eid="0" />
-        <error xtype="compound-nonword" idx="385-1" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -10248,8 +10230,7 @@
     <original><w>Ríkistjórnin</w></original>
     <corrected><w>Ríkisstjórnin</w></corrected>
       <errors>
-        <error xtype="compound-collocation" idx="404-1" eid="0" />
-        <error xtype="compound-nonword" idx="404-1" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <w>fer</w>
@@ -10415,8 +10396,7 @@
     <original><w>ríkistjórnarinnar</w></original>
     <corrected><w>ríkisstjórnarinnar</w></corrected>
       <errors>
-        <error xtype="compound-collocation" idx="411-1" eid="0" />
-        <error xtype="compound-nonword" idx="411-1" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -10514,8 +10494,7 @@
     <original><w>ríkistjórnarinnar</w></original>
     <corrected><w>ríkisstjórnarinnar</w></corrected>
       <errors>
-        <error xtype="compound-collocation" idx="416-1" eid="0" />
-        <error xtype="compound-nonword" idx="416-1" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
@@ -10578,8 +10557,7 @@
     <original><w>Ríkistjórnin</w></original>
     <corrected><w>Ríkisstjórnin</w></corrected>
       <errors>
-        <error xtype="compound-collocation" idx="420-1" eid="0" />
-        <error xtype="compound-nonword" idx="420-1" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <w>eða</w>
@@ -10828,8 +10806,7 @@
     <original><w>ríkistjórnina</w></original>
     <corrected><w>ríkisstjórnina</w></corrected>
       <errors>
-        <error xtype="compound-collocation" idx="430-1" eid="0" />
-        <error xtype="compound-nonword" idx="430-1" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -10849,8 +10826,7 @@
     <original><w>ríkistjórnin</w></original>
     <corrected><w>ríkisstjórnin</w></corrected>
       <errors>
-        <error xtype="compound-collocation" idx="431-1" eid="0" />
-        <error xtype="compound-nonword" idx="431-1" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -11226,8 +11202,7 @@
     <original><w>ríkistjórninni</w></original>
     <corrected><w>ríkisstjórninni</w></corrected>
       <errors>
-        <error xtype="compound-collocation" idx="441-1" eid="0" />
-        <error xtype="compound-nonword" idx="441-1" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <w>fara</w>
@@ -11284,7 +11259,6 @@
       <errors>
         <error xtype="missing-letter" idx="442-1" eid="0" />
         <error xtype="compound-collocation" idx="442-1" eid="0" />
-        <error xtype="compound-nonword" idx="442-1" eid="0" />
       </errors>
   </revision>
   <w>til</w>

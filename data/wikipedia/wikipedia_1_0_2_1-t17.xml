@@ -75,7 +75,7 @@
     <original><w>491</w><w>þús</w></original>
     <corrected><w>491 þúsund</w></corrected>
       <errors>
-        <error xtype="extra-abbreviation" eid="0" />
+        <error xtype="abbreviation4words" eid="0" />
       </errors>
   </revision>
   <w>manns</w>
@@ -371,7 +371,7 @@
     <original><w>III</w></original>
     <corrected><w>III.</w></corrected>
       <errors>
-        <error xtype="ordinal-period" eid="0" />
+        <error xtype="missing-period" eid="0" />
       </errors>
   </revision>
   <w>keisari</w>

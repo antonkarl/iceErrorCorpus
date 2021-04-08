@@ -1068,7 +1068,9 @@
     <original><w>fæðingavottorðið</w></original>
     <corrected><w>fæðingavottorði</w></corrected>
       <errors>
-        <error xtype="extra-letter" eid="0" />
+        <error xtype="def4ind" idx="32b-1" eid="0" />
+        <error xtype="nominal-inflection" idx="32b-1" eid="0" />
+        <error xtype="case-prep" idx="32b-1" eid="0" />
       </errors>
   </revision>
   <w>hennar</w>
@@ -5364,7 +5366,7 @@
     <original><w>er</w></original>
     <corrected><w>eru</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0" />
+        <error xtype="agreement" eid="0" />
       </errors>
   </revision>
   <w>ítalska</w>
@@ -7788,8 +7790,7 @@
     <original><w>erfðarskránni</w></original>
     <corrected><w>erfðaskránni</w></corrected>
       <errors>
-        <error xtype="compound-collocation" idx="425-1" eid="0" />
-        <error xtype="compound-nonword" idx="425-1" eid="0" />
+        <error xtype="compound-collocation" eid="0" />
       </errors>
   </revision>
   <w>sinni</w>

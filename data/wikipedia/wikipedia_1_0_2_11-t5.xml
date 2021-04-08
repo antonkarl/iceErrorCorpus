@@ -208,7 +208,7 @@
     <corrected><w>leirkerasmíði</w></corrected>
       <errors>
         <error xtype="missing-letter" idx="3-1" eid="0"/>
-        <error xtype="compound-nonword" idx="3-1" eid="0"/>
+        <error xtype="nonword" idx="3-1" eid="0"/>
       </errors>
   </revision>
   <w>eru</w>
@@ -393,13 +393,7 @@
   <c>.</c>
 </s><s n="15">
   <w>Frá</w>
-  <revision id="19">
-    <original><w>304</w><w>f.</w><w>Kr.</w></original>
-    <corrected><w>304 f.Kr.</w></corrected>
-      <errors>
-        <error xtype="extra-space" eid="0"/>
-      </errors>
-  </revision>
+  <w>304 f.Kr.</w>
   <w>réði</w>
   <w>konungsríkið</w>
   <w>Tjósen</w>
@@ -457,8 +451,7 @@
     <original><w>vopnhlé</w></original>
     <corrected><w>vopnahlé</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="54-1" eid="0"/>
-        <error xtype="compound-nonword" idx="54-1" eid="0"/>
+        <error xtype="compound-collocation" eid="0"/>
       </errors>
   </revision>
   <w>milli</w>
@@ -684,8 +677,7 @@
     <original><w>Gojoseon-keisardæmið</w></original>
     <corrected><w>Gojoseon-keisaradæmið</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="7-1" eid="0"/>
-        <error xtype="compound-nonword" idx="7-1" eid="0"/>
+        <error xtype="compound-collocation" eid="0"/>
       </errors>
   </revision>
   <w>stofnað</w>

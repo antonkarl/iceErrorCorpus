@@ -180,8 +180,7 @@
     <original><w>fjallendi</w></original>
     <corrected><w>fjalllendi</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="23-1" eid="0"/>
-        <error xtype="compound-nonword" idx="23-1" eid="0"/>
+        <error xtype="compound-collocation" eid="0"/>
       </errors>
   </revision>
   <w>þar</w>
@@ -400,8 +399,7 @@
     <original><w>ættarsamfélaginu</w></original>
     <corrected><w>ættasamfélaginu</w></corrected>
       <errors>
-        <error xtype="extra-letter" idx="52-1" eid="0"/>
-        <error xtype="compound-nonword" idx="52-1" eid="0"/>
+        <error xtype="compound-collocation" eid="0"/>
       </errors>
   </revision>
   <c>,</c>
