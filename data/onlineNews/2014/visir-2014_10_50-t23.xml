@@ -30,7 +30,7 @@
     <original><w>2</w></original>
     <corrected><w>2.</w></corrected>
       <errors>
-        <error xtype="ordinal-period" eid="0"/>
+        <error xtype="missing-period" eid="0"/>
       </errors>
   </revision>
   <w>0</w>
@@ -135,7 +135,7 @@
     <original><w>3</w></original>
     <corrected><w>3.</w></corrected>
       <errors>
-        <error xtype="ordinal-period" eid="0"/>
+        <error xtype="missing-period" eid="0"/>
       </errors>
   </revision>
   <w>0</w>
@@ -446,9 +446,11 @@
     <original><w>0</w></original>
     <corrected><w>0.</w></corrected>
       <errors>
-        <error xtype="ordinal-period" eid="0"/>
+        <error xtype="missing-period" eid="0"/>
       </errors>
   </revision>
+</s>
+<s n="9b">
   <w>1</w>
   <c>-</c>
   <w>0</w>
@@ -622,7 +624,7 @@
     <corrected><w>á</w><w>87.</w><w>mínútu</w></corrected>
       <errors>
         <error xtype="missing-word" idx="42-1" eid="0"/>
-        <error xtype="ordinal-period" idx="42-2" eid="0"/>
+        <error xtype="missing-period" idx="42-2" eid="0"/>
         <error xtype="missing-word" idx="42-3" eid="0"/>
       </errors>
   </revision>
@@ -666,9 +668,11 @@
     <original><w>0</w></original>
     <corrected><w>0.</w></corrected>
       <errors>
-        <error xtype="ordinal-period" eid="0"/>
+        <error xtype="missing-period" eid="0"/>
       </errors>
   </revision>
+</s>
+<s n="11b">
   <w>1</w>
   <c>-</c>
   <w>0</w>
