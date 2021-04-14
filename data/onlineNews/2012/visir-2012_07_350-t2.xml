@@ -88,8 +88,7 @@
     <original><w>E</w><w>töflur</w></original>
     <corrected><w>E-töflur</w></corrected>
       <errors>
-        <error xtype="split-word" idx="3-1" eid="0" />
-        <error xtype="missing-hyphen" idx="3-1" eid="0" />
+        <error xtype="missing-hyphen" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -675,13 +674,7 @@
   <w>hann</w>
   <w>hafa</w>
   <w>flutt</w>
-  <revision id="36">
-    <original><w>af</w></original>
-    <corrected><w>úr</w></corrected>
-      <errors>
-        <error xtype="collocation" eid="0" />
-      </errors>
-  </revision>
+  <w>af</w>
   <w>landi</w>
   <w>brott</w>
   <c>.</c>

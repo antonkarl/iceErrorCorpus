@@ -159,7 +159,9 @@
     <original><w>dag</w></original>
     <corrected><w>dags</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0" />
+        <error xtype="collocation" idx="2a-1" eid="0" />
+        <error xtype="nominal-inflection" idx="2a-1" eid="0"/>
+        <error xtype="case-prep" idx="2a-1" eid="0"/>
       </errors>
   </revision>
   <w>sé</w>

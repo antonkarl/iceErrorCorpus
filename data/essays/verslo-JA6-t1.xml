@@ -400,7 +400,7 @@
     <original><w>í</w><w>viðbót</w></original>
     <corrected><w>til</w><w>viðbótar</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0"/>
+        <error xtype="wrong-prep" eid="0"/>
       </errors>
   </revision>
   <w>en</w>
@@ -1325,7 +1325,7 @@
     <original><w>framhaldsskóla</w><w>árunum</w></original>
     <corrected><w>framhaldsskólaárunum</w></corrected>
       <errors>
-        <error xtype="split-word" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>á</w>
@@ -1511,7 +1511,8 @@
     <original><w>að</w></original>
     <corrected><w>af</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0"/>
+        <error xtype="collocation" idx="58-1" eid="0"/>
+        <error xtype="að4af" idx="58-1" eid="0"/>
       </errors>
   </revision>
   <w>framhaldsskólanum</w>

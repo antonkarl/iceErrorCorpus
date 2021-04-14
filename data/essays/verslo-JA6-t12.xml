@@ -1208,7 +1208,8 @@
     <original><w>að</w></original>
     <corrected><w>af</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0"/>
+        <error xtype="collocation" idx="46-1" eid="0"/>
+        <error xtype="að4af" idx="46-1" eid="0"/>
       </errors>
   </revision>
   <w>tveimur</w>
@@ -1612,7 +1613,8 @@
     <original/>
     <corrected><w>eftir</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0"/>
+        <error xtype="collocation" idx="56-1" eid="0"/>
+        <error xtype="missing-prep" idx="56-1" eid="0"/>
       </errors>
   </revision>
   <w>í</w>

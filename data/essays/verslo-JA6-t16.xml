@@ -257,7 +257,7 @@
     <original><w>framhaldsskóla</w><w>árunum</w><w>eiga</w></original>
     <corrected><w>framhaldsskólaárunum</w><w>á</w></corrected>
       <errors>
-        <error xtype="split-word" idx="19-1" eid="0"/>
+        <error xtype="split-compound" idx="19-1" eid="0"/>
         <error xtype="agreement" idx="19-2" eid="0"/>
       </errors>
   </revision>

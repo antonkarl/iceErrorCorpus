@@ -322,7 +322,8 @@
     <original><w>til</w><w>hennar</w></original>
     <corrected><w>um</w><w>hana</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0"/>
+        <error xtype="collocation" idx="8-1" eid="0"/>
+        <error xtype="wrong-prep" idx="8-1" eid="0" />
       </errors>
   </revision>
   <w>í</w>

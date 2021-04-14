@@ -31,7 +31,8 @@
     <original><w>yfir</w></original>
     <corrected><w>á</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0" />
+        <error xtype="collocation" idx="1-1" eid="0" />
+        <error xtype="wrong-prep" idx="1-1" eid="0" />
       </errors>
   </revision>
   <w>því</w>
@@ -172,7 +173,8 @@
     <original><w>skilin</w></original>
     <corrected><w>skilið</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0" />
+        <error xtype="collocation" idx="4-1" eid="0" />
+        <error xtype="adjective-inflection" idx="4-1" eid="0" />
       </errors>
   </revision>
   <c>.</c>

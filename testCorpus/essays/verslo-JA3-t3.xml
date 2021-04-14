@@ -206,7 +206,7 @@
     <original><w>jafnaðar</w><w>geði</w></original>
     <corrected><w>jafnaðargeði</w></corrected>
       <errors>
-        <error xtype="split-word" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
@@ -214,14 +214,21 @@
   <w>ekki</w>
   <w>barnalega</w>
   <w>drauma</w>
-  <w>hlaupa</w>
-  <w>með</w>
+  <revision id="7b">
+    <original><w>hlaupa</w><w>með</w></original>
+    <corrected><w>leiða</w></corrected>
+      <errors>
+        <error xtype="collocation-idiom" idx="7b-1" eid="0"/>
+        <error xtype="extra-prep" idx="7b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>okkur</w>
   <revision id="8">
     <original/>
     <corrected><w>á</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0"/>
+        <error xtype="dep" depId="7b-1" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
       </errors>
   </revision>
   <w>villigötur</w>

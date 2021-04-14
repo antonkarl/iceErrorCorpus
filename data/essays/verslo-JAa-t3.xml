@@ -1033,7 +1033,8 @@
     <original><w>við</w></original>
     <corrected><w>af</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0"/>
+        <error xtype="collocation" idx="37-1" eid="0"/>
+        <error xtype="wrong-prep" idx="37-1" eid="0"/>
       </errors>
   </revision>
   <w>hvaða</w>
@@ -1090,9 +1091,10 @@
   <w>Vinstri</w>
   <revision id="39">
     <original><w>Grænir</w></original>
-    <corrected><w>Græn</w></corrected>
+    <corrected><w>græn</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0"/>
+        <error xtype="upper4lower-proper" idx="39-1" eid="0"/>
+        <error xtype="adjective-inflection" idx="39-1" eid="0"/>
       </errors>
   </revision>
   <c>,</c>

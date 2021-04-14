@@ -33,8 +33,13 @@
   <w>stoppar</w>
   <w>næst</w>
   <w>á</w>
-  <w>Silverstone</w>
-  <w>brautinni</w>
+  <revision id="0">
+    <original><w>Silverstone</w><w>brautinni</w></original>
+    <corrected><w>Silverstone-brautinni</w></corrected>
+      <errors>
+        <error xtype="missing-hyphen" eid="0" />
+      </errors>
+  </revision>
   <w>í</w>
   <w>Bretlandi</w>
   <c>.</c>

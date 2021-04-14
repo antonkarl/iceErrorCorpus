@@ -76,8 +76,7 @@
     <original><w>York</w><w>borgar</w></original>
     <corrected><w>York-borgar</w></corrected>
       <errors>
-        <error xtype="split-word" idx="3-1" eid="0" />
-        <error xtype="missing-hyphen" idx="3-1" eid="0" />
+        <error xtype="missing-hyphen" eid="0" />
       </errors>
   </revision>
   <w>eftir</w>

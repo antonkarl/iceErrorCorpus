@@ -1311,7 +1311,7 @@
     <original><w>háskóla</w><w>námi</w></original>
     <corrected><w>háskólanámi</w></corrected>
       <errors>
-        <error xtype="split-word" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>28</w>
@@ -1775,7 +1775,7 @@
     <original><w>af</w><w>manni</w></original>
     <corrected><w>með</w><w>mann</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0"/>
+        <error xtype="wrong-prep" eid="0"/>
       </errors>
   </revision>
   <w>sem</w>

@@ -133,7 +133,7 @@
     <original><w>frá</w></original>
     <corrected><w>úr</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0"/>
+        <error xtype="wrong-prep" eid="0"/>
       </errors>
   </revision>
   <w>Verzlunarskólanum</w>
@@ -199,7 +199,6 @@
       <errors>
         <error xtype="nominal-inflection" idx="8-1" eid="0"/>
         <error xtype="missing-conjunction" idx="8-2" eid="0"/>
-        <error xtype="collocation" idx="8-2" eid="0"/>
       </errors>
   </revision>
   <w>hætta</w>

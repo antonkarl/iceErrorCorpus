@@ -732,7 +732,7 @@
     <original><w>í</w></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0"/>
+        <error xtype="wrong-prep" eid="0"/>
       </errors>
   </revision>
   <w>láni</w>
@@ -1322,7 +1322,7 @@
     <original><w>loka</w><w>ári</w></original>
     <corrected><w>lokaári</w></corrected>
       <errors>
-        <error xtype="split-word" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>og</w>

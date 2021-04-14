@@ -75,10 +75,11 @@
   <w>skránni</w>
   <w>eru</w>
   <revision id="2">
-    <original><w>m.</w><w>a</w></original>
+    <original><w>m.a</w></original>
     <corrected><w>m.a</w></corrected>
       <errors>
-        <error xtype="split-word" eid="0" />
+        <error xtype="missing-period" idx="2-1" eid="0" />
+        <error xtype="abbreviation-period" idx="2-1" eid="0" />
       </errors>
   </revision>
   <c>.</c>

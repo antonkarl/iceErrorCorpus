@@ -1157,7 +1157,8 @@
     <original><w>til</w><w>hugar</w></original>
     <corrected><w>í</w><w>hug</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0"/>
+        <error xtype="collocation" idx="16-1" eid="0"/>
+        <error xtype="wrong-prep" idx="16-1" eid="0"/>
       </errors>
   </revision>
   <c>.</c>

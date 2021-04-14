@@ -921,7 +921,9 @@
     <original><w>náttúrurnar</w></original>
     <corrected><w>náttúrunnar</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0"/>
+        <error xtype="collocation" idx="29-1" eid="0"/>
+        <error xtype="nominal-inflection" idx="29-1" eid="0"/>
+        <error xtype="case-prep" idx="29-1" eid="0"/>
       </errors>
   </revision>
   <w>hendi</w>

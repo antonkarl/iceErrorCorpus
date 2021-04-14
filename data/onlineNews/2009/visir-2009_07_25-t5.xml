@@ -258,9 +258,9 @@
     <original><w>halda</w><w>það</w></original>
     <corrected><w>hélt</w><w>því</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0" />
-        <error xtype="collocation" idx="5-1" eid="0" />
-        <error xtype="pro-inflection" idx="5-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="5-1" eid="0" />
+        <error xtype="collocation" idx="5-2" eid="0" />
+        <error xtype="pro-inflection" idx="5-2" eid="0" />
       </errors>
   </revision>
   <w>fram</w>

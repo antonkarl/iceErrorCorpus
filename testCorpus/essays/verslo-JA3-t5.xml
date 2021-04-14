@@ -727,7 +727,8 @@
     <corrected><w>tíðum</w></corrected>
       <errors>
         <error xtype="collocation" idx="25-1" eid="0"/>
-        <error xtype="extra-comma" idx="25-1" eid="0"/>
+        <error xtype="letter-rep" idx="25-1" eid="0"/>
+        <error xtype="extra-comma" idx="25-2" eid="0"/>
       </errors>
   </revision>
   <w>hafa</w>
@@ -1313,7 +1314,8 @@
     <original><w>eitthvað</w></original>
     <corrected><w>einhvers</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0"/>
+        <error xtype="collocation" idx="46-1" eid="0"/>
+        <error xtype="pro-inflection" idx="46-1" eid="0"/>
       </errors>
   </revision>
   <w>í</w>

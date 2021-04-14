@@ -1101,7 +1101,8 @@
     <original><w>fyrir</w></original>
     <corrected><w>við</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0"/>
+        <error xtype="collocation" idx="16-1" eid="0"/>
+        <error xtype="wrong-prep" idx="16-1" eid="0"/>
       </errors>
   </revision>
   <w>þá</w>

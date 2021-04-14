@@ -455,20 +455,20 @@
   <w>og</w>
   <w>listamenn</w>
   <revision id="16">
-    <original><w>átti</w><w>Chicago</w><w>blúsinn</w></original>
-    <corrected><w>fór</w><w>Chicago-blúsinn</w></corrected>
+    <original><w>átti</w><w>Chicago</w><w>blúsinn</w><w>í</w></original>
+    <corrected><w>var</w><w>Chicago-blúsinn</w><w>á</w></corrected>
       <errors>
-        <error xtype="wording" eid="0"/>
-        <error xtype="missing-hyphen" eid="0"/>
+        <error xtype="collocation-idiom" idx="16-1" eid="0"/>
+        <error xtype="missing-hyphen" idx="16-2" eid="0"/>
+        <error xtype="wrong-prep" idx="16-1" eid="0"/>
       </errors>
   </revision>
-  <w>í</w>
   <w>undanhaldi</w>
   <revision id="17">
     <original><w>við</w></original>
     <corrected><w>gegn</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0"/>
+        <error xtype="wrong-prep" eid="0"/>
       </errors>
   </revision>
   <w>sálartónlist</w>

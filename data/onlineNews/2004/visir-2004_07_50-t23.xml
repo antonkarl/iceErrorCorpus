@@ -736,20 +736,14 @@
   <w>tel</w>
   <w>að</w>
   <w>hann</w>
-  <revision id="5b">
-    <original><w>hafi</w></original>
-    <corrected><w>eigi</w></corrected>
-      <errors>
-        <error xtype="have" idx="5b-1" eid="0" />
-        <error xtype="collocation" idx="5b-1" eid="0" />
-      </errors>
-  </revision>
+  <w>hafi</w>
   <w>möguleika</w>
   <revision id="6">
     <original><w>til</w></original>
     <corrected><w>á</w></corrected>
       <errors>
-        <error xtype="dep" depId="5b-1" eid="0" />
+        <error xtype="collocation" idx="6-1" eid="0" />
+        <error xtype="wrong-prep" idx="6-1" eid="0" />
       </errors>
   </revision>
   <w>að</w>

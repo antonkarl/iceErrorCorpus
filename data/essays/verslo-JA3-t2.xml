@@ -376,7 +376,8 @@
     <original><w>hinumegin</w></original>
     <corrected><w>hinum</w><w>megin</w></corrected>
       <errors>
-        <error xtype="split-word" eid="0"/>
+        <error xtype="merged-words" idx="14-1" eid="0"/>
+        <error xtype="missing-letter" idx="14-1" eid="0"/>
       </errors>
   </revision>
   <w>við</w>
@@ -832,7 +833,8 @@
     <original><w>En</w></original>
     <corrected><w>Sem</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0"/>
+        <error xtype="collocation" idx="30-1" eid="0"/>
+        <error xtype="conjunction" idx="30-1" eid="0"/>
       </errors>
   </revision>
   <w>betur</w>
@@ -960,7 +962,8 @@
     <original><w>í</w></original>
     <corrected><w>með</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0"/>
+        <error xtype="collocation" idx="33-1" eid="0"/>
+        <error xtype="wrong-prep" idx="33-1" eid="0"/>
       </errors>
   </revision>
   <w>lífinu</w>

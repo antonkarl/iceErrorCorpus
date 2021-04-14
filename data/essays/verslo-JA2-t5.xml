@@ -142,7 +142,7 @@
     <original><w>nútíma</w><w>þjóðfélagi</w></original>
     <corrected><w>nútímaþjóðfélagi</w></corrected>
       <errors>
-        <error xtype="split-word" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>þarf</w>
@@ -237,7 +237,7 @@
     <original><w>stúdents</w><w>skírteini</w></original>
     <corrected><w>stúdentspróf</w></corrected>
       <errors>
-        <error xtype="split-word" idx="15-1" eid="0"/>
+        <error xtype="split-compound" idx="15-1" eid="0"/>
         <error xtype="wording" idx="15-1" eid="0"/>
       </errors>
   </revision>
@@ -574,7 +574,7 @@
     <original><w>verkamanna</w><w>störf</w></original>
     <corrected><w>verkamannastörf</w></corrected>
       <errors>
-        <error xtype="split-word" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <c>.</c>

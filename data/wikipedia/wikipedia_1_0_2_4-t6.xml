@@ -117,8 +117,7 @@
     <original><w><hi>B</hi></w><w><hi>Movie</hi></w></original>
     <corrected><w><hi>B-Movie</hi></w></corrected>
       <errors>
-        <error xtype="split-word" idx="14-1" eid="0"/>
-        <error xtype="missing-hyphen" idx="14-1" eid="0"/>
+        <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
   <w><hi>Actor</hi></w>

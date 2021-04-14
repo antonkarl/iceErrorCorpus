@@ -57,7 +57,7 @@
     <original><w>á</w></original>
     <corrected><w>í</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0"/>
+        <error xtype="wrong-prep" eid="0"/>
       </errors>
   </revision>
   <w>sjálfri</w>
@@ -1060,7 +1060,7 @@
     <original><w>á</w></original>
     <corrected><w>í</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0"/>
+        <error xtype="wrong-prep" eid="0"/>
       </errors>
   </revision>
   <w>Grafarvogi</w>
@@ -1211,7 +1211,8 @@
     <original><w>um</w></original>
     <corrected><w>eftir</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0"/>
+        <error xtype="collocation" idx="15-1" eid="0"/>
+        <error xtype="wrong-prep" idx="15-1" eid="0"/>
       </errors>
   </revision>
   <w>aðstoð</w>

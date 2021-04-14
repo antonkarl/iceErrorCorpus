@@ -295,7 +295,7 @@
     <original><w>hipp</w><w>hopp</w></original>
     <corrected><w>hipphopp</w></corrected>
       <errors>
-        <error xtype="split-word" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <c>,</c>
@@ -900,7 +900,7 @@
     <original><w>hipp</w><w>hopp</w></original>
     <corrected><w>hipphopp</w></corrected>
       <errors>
-        <error xtype="split-word" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <c>)</c>
