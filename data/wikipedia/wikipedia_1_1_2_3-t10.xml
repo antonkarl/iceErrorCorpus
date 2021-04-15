@@ -64,8 +64,9 @@
     <original><w>aðal</w><w>munurinn</w></original>
     <corrected><w>aðalmunurinn</w><w>á</w><w>þessu</w><w>tvennu</w></corrected>
       <errors>
-        <error xtype="split-compound" idx="2-1" eid="0" />
-        <error xtype="missing-words" idx="2-2" eid="0" />
+        <error xtype="split-word" idx="2-1" eid="0" />
+        <error xtype="missing-prep" idx="2-2" eid="0" />
+        <error xtype="missing-obj" idx="2-3" eid="0" />
       </errors>
   </revision>
   <w>er</w>
@@ -191,8 +192,9 @@
     <original></original>
     <corrected><w>til</w><w>dæmis</w><c>:</c></corrected>
       <errors>
-        <error xtype="missing-words" idx="11-1" eid="0" />
-        <error xtype="missing-colon" idx="11-2" eid="0" />
+        <error xtype="missing-prep" idx="11-1" eid="0" />
+        <error xtype="missing-obj" idx="11-2" eid="0" />
+        <error xtype="missing-colon" idx="11-3" eid="0" />
       </errors>
   </revision>
   <w><hi>Show</hi></w>
@@ -500,7 +502,9 @@
     <original></original>
     <corrected><w>að</w><w>njóta</w><w>sín</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-inf-part" idx="30-1" eid="0" />
+        <error xtype="missing-word" idx="30-2" eid="0" />
+        <error xtype="missing-obj" idx="30-3" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -626,8 +630,10 @@
     <original></original>
     <corrected><w>líbrettisti</w><w>eða</w><w>textahöfundur</w><c>(</c><w>e.</w></corrected>
       <errors>
-        <error xtype="missing-words" idx="36-1" eid="0" />
-        <error xtype="missing-bracket" idx="36-2" eid="0" />
+        <error xtype="fw4ice" idx="36-1" eid="0" />
+        <error xtype="missing-conjunction" idx="36-2" eid="0" />
+        <error xtype="missing-word" idx="36-3" eid="0" />
+        <error xtype="missing-bracket" idx="36-4" eid="0" />
       </errors>
   </revision>
   <w><hi>librettist</hi></w>
@@ -722,7 +728,7 @@
     <corrected><w>svokallaða</w><c>„</c><w>bókarsöngleiki</w><c>“</c><c>(</c><w>e.</w></corrected>
       <errors>
         <error xtype="agreement-concord" idx="43-1" eid="0" />
-        <error xtype="missing-words" idx="43-2" eid="0" />
+        <error xtype="fw4ice" idx="43-2" eid="0" />
         <error xtype="missing-quots" idx="43-3" eid="0" />
         <error xtype="missing-bracket" idx="43-4" eid="0" />
       </errors>
@@ -1968,7 +1974,7 @@
     <corrected><c>:</c><w>Fiðlarinn</w><w>á</w><w>þakinu</w><c>(</c><w>e.</w><w><hi>Fiddler</hi></w><w><hi>on</hi></w><w><hi>the</hi></w><w><hi>Roof</hi></w><c>)</c></corrected>
       <errors>
         <error xtype="word4symbol" idx="137-1" eid="0" />
-        <error xtype="missing-words" idx="137-2" eid="0" />
+        <error xtype="fw4ice" idx="137-2" eid="0" />
         <error xtype="missing-bracket" idx="137-3" eid="0" />
         <error xtype="nonit4it" idx="137-4" eid="0" />
       </errors>
@@ -2151,7 +2157,7 @@
     <corrected><w>hefja</w><w>feril</w><w>sinn</w></corrected>
       <errors>
         <error xtype="wording" idx="152-1" eid="0" />
-        <error xtype="missing-words" idx="152-2" eid="0" />
+        <error xtype="missing-obj" idx="152-2" eid="0" />
       </errors>
   </revision>
   <w>á</w>
@@ -3212,7 +3218,9 @@
     <original></original>
     <corrected><w>sem</w><w>er</w><w>stillt</w><w>upp</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-conjunction" idx="228-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="228-2" eid="0" />
+        <error xtype="missing-words" idx="228-3" eid="0" />
       </errors>
   </revision>
   <w>á</w>

@@ -1254,7 +1254,9 @@
     <original></original>
     <corrected><w>koma</w><w>fram</w><w>með</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-fin-verb" idx="59-1" eid="0" />
+        <error xtype="missing-word" idx="59-2" eid="0" />
+        <error xtype="missing-prep" idx="59-3" eid="0" />
       </errors>
   </revision>
   <w>nýjungar</w>

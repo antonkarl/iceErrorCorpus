@@ -118,7 +118,8 @@
       <errors>
         <error xtype="dep" depId="54-1" eid="0"/>
         <error xtype="dep" depId="54-2" eid="0"/>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-sub" idx="8-1" eid="0"/>
+        <error xtype="missing-fin-verb" idx="8-2" eid="0" />
       </errors>
    </revision>
   <w>dæmdur</w>
@@ -294,8 +295,10 @@
     <original><w>Stofnendurnir</w></original>
     <corrected><w>Hann</w><w>segir</w><w>að</w><w>stofnendur</w><w>leynireglunnar</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
-        <error xtype="wording" idx="48-1" eid="0"/>
+        <error xtype="missing-sub" idx="48-1" eid="0"/>
+        <error xtype="missing-fin-verb" idx="48-2" eid="0" />
+        <error xtype="missing-conjunction" idx="48-3" eid="0" />
+        <error xtype="missing-word" idx="48-4" eid="0" />
       </errors>
   </revision>
   <w>séu</w>
@@ -305,7 +308,7 @@
     <original><w>eru</w></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="dep" depId="48-1" eid="0"/>
+        <error xtype="dep" depId="48-2" eid="0"/>
       </errors>
   </revision>
   <w>fulltrúar</w>
@@ -314,7 +317,7 @@
     <original/>
     <corrected><w>séu</w></corrected>
       <errors>
-        <error xtype="dep" depId="48-1" eid="0"/>
+        <error xtype="dep" depId="48-2" eid="0"/>
       </errors>
   </revision>
   <w>frá</w>
@@ -989,8 +992,11 @@
     <original><c>,</c><w>sé</w></original>
     <corrected><c>.</c><w>Einnig</w><w>segist</w><w>hann</w><w>vera</w></corrected>
       <errors>
-        <error xtype="comma4period" eid="0"/>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="comma4period" idx="68-1" eid="0"/>
+        <error xtype="missing-word" idx="68-2" eid="0"/>
+        <error xtype="missing-fin-verb" idx="68-3" eid="0" />
+        <error xtype="missing-sub" idx="68-4" eid="0" />
+        <error xtype="wording" idx="68-5" eid="0" />
       </errors>
   </revision>
   <w>á</w>

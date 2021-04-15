@@ -116,7 +116,8 @@
     <original/>
     <corrected><w>að</w><w>velja</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-inf-part" idx="3-1" eid="0"/>
+        <error xtype="missing-word" idx="3-2" eid="0" />
       </errors>
   </revision>
   <c>,</c>

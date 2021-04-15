@@ -69,13 +69,21 @@
   <w>til</w>
   <w>að</w>
   <w>hafa</w>
-  <w>uppá</w>
+  <revision id="1b">
+    <original><w>uppá</w></original>
+    <corrected><w>uppi</w><w>á</w></corrected>
+      <errors>
+        <error xtype="merged-words" idx="1b-1" eid="0" />
+        <error xtype="nonword" idx="1b-1" eid="0" />
+        <error xtype="dir4loc" idx="1b-1" eid="0" />
+      </errors>
+  </revision>
   <w>æskuástinni</w>
   <revision id="2">
     <original></original>
     <corrected><w>sinni</w><c>,</c></corrected>
       <errors>
-        <error xtype="missing-words" idx="2-1" eid="0" />
+        <error xtype="missing-word" idx="2-1" eid="0" />
         <error xtype="missing-comma" idx="2-2" eid="0" />
       </errors>
   </revision>

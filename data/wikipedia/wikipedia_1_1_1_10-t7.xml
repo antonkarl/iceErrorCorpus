@@ -610,8 +610,8 @@
     <original><c>,</c></original>
     <corrected><w>í</w><w>stórum</w><w>stíl</w><w>en</w><w>auk</w><w>þess</w></corrected>
       <errors>
-        <error xtype="extra-comma" idx="18-1" eid="0"/>
         <error xtype="dep" depId="19-1" eid="0"/>
+        <error xtype="comma4conjunction" idx="18-1" eid="0" />
         <error xtype="missing-words" idx="18-2" eid="0"/>
       </errors>
   </revision>

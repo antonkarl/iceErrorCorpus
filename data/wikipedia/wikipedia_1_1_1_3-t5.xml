@@ -486,7 +486,8 @@
     <corrected><w>hafði</w><w>hún</w></corrected>
       <errors>
         <error xtype="extra-comma" idx="55-1" eid="0"/>
-        <error xtype="missing-words" idx="55-2" eid="0"/>
+        <error xtype="missing-fin-verb" idx="55-2" eid="0"/>
+        <error xtype="missing-sub" idx="55-3" eid="0" />
       </errors>
   </revision>
   <w>allt</w>
@@ -1316,7 +1317,8 @@
     <original/>
     <corrected><w>í</w><w>stíl</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-prep" idx="63-1" eid="0"/>
+        <error xtype="missing-obj" idx="63-2" eid="0" />
       </errors>
   </revision>
   <c>.</c>

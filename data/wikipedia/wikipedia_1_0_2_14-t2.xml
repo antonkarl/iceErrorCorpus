@@ -285,7 +285,8 @@
     <original/>
     <corrected><w>er</w><w>hann</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-fin-verb" idx="7-1" eid="0"/>
+        <error xtype="missing-sub" idx="7-2" eid="0" />
       </errors>
   </revision>
   <w>oft</w>

@@ -85,7 +85,8 @@
     <original></original>
     <corrected><w>að</w><w>baki</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-prep" idx="4-1" eid="0" />
+        <error xtype="missing-obj" idx="4-2" eid="0" />
       </errors>
   </revision>
   <w>feril</w>
@@ -409,7 +410,8 @@
     <original><w>Stjórnandi</w></original>
     <corrected><w>Hann</w><w>var</w><w>stjórnandi</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" idx="14-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="14-2" eid="0" />
       </errors>
   </revision>
   <w>spurningakeppninnar</w>
@@ -443,7 +445,8 @@
     <original></original>
     <corrected><w>til</w><w>ársins</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-prep" idx="14b-1" eid="0" />
+        <error xtype="missing-obj" idx="14b-2" eid="0" />
       </errors>
   </revision>
   <w>2000</w>
@@ -581,7 +584,8 @@
     <original><w>Í</w></original>
     <corrected><w>Stefán</w><w>var</w><w>í</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" idx="18-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="18-2" eid="0" />
       </errors>
   </revision>
   <w>framboði</w>

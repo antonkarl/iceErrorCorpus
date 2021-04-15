@@ -149,8 +149,9 @@
     <original><w>varð</w></original>
     <corrected><w>og</w><w>Svíþjóð</w><w>urðu</w></corrected>
       <errors>
-        <error xtype="missing-words" idx="4-1" eid="0" />
-        <error xtype="dep" depId="4-1" eid="0" />
+        <error xtype="missing-conjunction" idx="4-1" eid="0" />
+        <error xtype="missing-word" idx="4-2" eid="0"/>
+        <error xtype="agreement" idx="4-3" eid="0"/>
       </errors>
   </revision>
   <w>heimkynni</w>

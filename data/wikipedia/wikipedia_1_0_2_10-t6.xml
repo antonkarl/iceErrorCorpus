@@ -656,7 +656,8 @@
     <original></original>
     <corrected><w>í</w><w>strá</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-prep" idx="13-1" eid="0" />
+        <error xtype="missing-obj" idx="13-2" eid="0" />
       </errors>
   </revision>
   <w>af</w>
@@ -1635,7 +1636,8 @@
     <original></original>
     <corrected><w>að</w><w>fara</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-inf-part" idx="53-1" eid="0" />
+        <error xtype="missing-word" idx="53-2" eid="0" />
       </errors>
   </revision>
   <w>á</w>

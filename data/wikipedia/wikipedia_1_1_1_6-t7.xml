@@ -254,7 +254,8 @@
     <original/>
     <corrected><w>sem</w><w>valdamenn</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-conjunction" idx="6-1" eid="0"/>
+        <error xtype="missing-sub" idx="6-2" eid="0" />
       </errors>
   </revision>
   <w>alþjóðasamfélagsins</w>
@@ -262,7 +263,8 @@
     <original/>
     <corrected><w>gerðu</w><w>sér</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-fin-verb" idx="7-1" eid="0"/>
+        <error xtype="missing-obj" idx="7-2" eid="0" />
       </errors>
   </revision>
   <w>um</w>
@@ -355,7 +357,10 @@
     <corrected><c>.</c><w>Dæmi</w><w>um</w><w>þær</w><w>eru</w><c>:</c></corrected>
       <errors>
         <error xtype="conjunction4period" idx="2-1" eid="0"/>
-        <error xtype="missing-words" idx="2-2" eid="0"/>
+        <error xtype="missing-prep" idx="2-2" eid="0"/>
+        <error xtype="missing-obj" idx="2-3" eid="0" />
+        <error xtype="missing-fin-verb" idx="2-4" eid="0" />
+        <error xtype="missing-colon" idx="2-5" eid="0" />
       </errors>
   </revision>
   <c>„</c>

@@ -42,8 +42,10 @@
     <original></original>
     <corrected><w>og</w><w>ber</w><w>það</w><w>fram</w></corrected>
       <errors>
-        <error xtype="missing-conjunction" eid="0" />
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-conjunction" idx="1-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="1-2" eid="0" />
+        <error xtype="missing-obj" idx="1-3" eid="0" />
+        <error xtype="missing-word" idx="1-4" eid="0" />
       </errors>
   </revision>
   <w>sem</w>

@@ -176,7 +176,8 @@
     <corrected><w>Peter</w><w>sem</w><w>er</w></corrected>
       <errors>
         <error xtype="dep" depId="7-1" eid="0"/>
-        <error xtype="missing-words" idx="8-1" eid="0"/>
+        <error xtype="missing-conjunction" idx="8-1" eid="0"/>
+        <error xtype="missing-fin-verb" idx="8-2" eid="0" />
       </errors>
   </revision>
   <w>brúðguminn</w>

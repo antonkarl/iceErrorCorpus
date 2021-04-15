@@ -409,9 +409,11 @@
     <original><w>Aðstoðartónlistarstjóri</w><w>RÚV</w><w>frá</w></original>
     <corrected><w>Síðar</w><w>varð</w><w>Þorsteinn</w><w>aðstoðartónlistarstjóri</w><w>Ríkisútvarpsins</w><w>eða</w></corrected>
       <errors>
-        <error xtype="missing-words" idx="3-1" eid="0"/>
-        <error xtype="abbreviation4words" idx="3-2" eid="0"/>
-        <error xtype="wording" idx="3-3" eid="0"/>
+        <error xtype="missing-word" idx="3-1" eid="0"/>
+        <error xtype="missing-fin-verb" idx="3-2" eid="0" />
+        <error xtype="missing-sub" idx="3-3" eid="0" />
+        <error xtype="abbreviation4words" idx="3-4" eid="0"/>
+        <error xtype="wording" idx="3-5" eid="0"/>
       </errors>
   </revision>
   <w>1969</w>

@@ -124,7 +124,9 @@
     <original></original>
     <corrected><w>að</w><w>landið</w><w>hlaut</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-conjunction" idx="4-1" eid="0" />
+        <error xtype="missing-obj" idx="4-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="4-3" eid="0" />
       </errors>
   </revision>
   <w>sjálfstæði</w>
@@ -206,22 +208,16 @@
   <w>14%</w>
   <w>íbúa</w>
   <w>tala</w>
-  <revision id="8">
-    <original><w>opinbert</w></original>
-    <corrected><w>opinbera</w></corrected>
-      <errors>
-        <error xtype="adjective-inflection" eid="0" />
-      </errors>
-  </revision>
+  <w>opinbert</w>
   <w>tungumál</w>
   <w>landsins</w>
   <c>,</c>
   <revision id="9">
     <original><w>portúgölsku</w></original>
-    <corrected><w>sem</w><w>er</w><w>portúgölska</w></corrected>
+    <corrected><w>sem</w><w>er</w><w>portúgalska</w></corrected>
       <errors>
-        <error xtype="missing-words" idx="9-1" eid="0" />
-        <error xtype="nominal-inflection" idx="9-2" eid="0" />
+        <error xtype="missing-conjunction" idx="9-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="9-2" eid="0" />
       </errors>
   </revision>
   <c>,</c>

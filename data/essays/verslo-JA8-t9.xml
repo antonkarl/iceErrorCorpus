@@ -1220,7 +1220,8 @@
     <original/>
     <corrected><w>í</w><w>skólann</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-prep" idx="27-1" eid="0"/>
+        <error xtype="missing-obj" idx="27-2" eid="0"/>
       </errors>
   </revision>
   <w>heldur</w>

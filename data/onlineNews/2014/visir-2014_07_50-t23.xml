@@ -197,7 +197,9 @@
       <errors>
         <error xtype="nominal-inflection" idx="4-1" eid="0" />
         <error xtype="period4conjunction" idx="4-2" eid="0" />
-        <error xtype="missing-words" idx="4-3" eid="0" />
+        <error xtype="missing-fin-verb" idx="4-3" eid="0" />
+        <error xtype="missing-word" idx="4-4" eid="0" />
+        <error xtype="missing-prep" idx="4-5" eid="0" />
       </errors>
   </revision>
   <w>stjórn</w>
@@ -233,7 +235,8 @@
     <original></original>
     <corrected><w>situr</w><w>einnig</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-fin-verb" idx="6-1" eid="0" />
+        <error xtype="missing-word" idx="6-2" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -300,7 +303,8 @@
     <original></original>
     <corrected><w>situr</w><w>einnig</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-fin-verb" idx="9-1" eid="0" />
+        <error xtype="missing-word" idx="9-2" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -544,7 +548,8 @@
     <original></original>
     <corrected><w>situr</w><w>einnig</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-fin-verb" idx="18-1" eid="0" />
+        <error xtype="missing-word" idx="18-2" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -1481,7 +1486,8 @@
     <original></original>
     <corrected><w>situr</w><w>í</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-fin-verb" idx="50-1" eid="0" />
+        <error xtype="missing-prep" idx="50-2" eid="0" />
       </errors>
   </revision>
   <w>stjórn</w>

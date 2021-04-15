@@ -120,7 +120,8 @@
     <original></original>
     <corrected><w>um</w><w>sig</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-prep" idx="4-1" eid="0" />
+        <error xtype="missing-obj" idx="4-2" eid="0" />
       </errors>
   </revision>
   <w>en</w>

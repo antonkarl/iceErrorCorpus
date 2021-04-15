@@ -550,8 +550,10 @@
     <original/>
     <corrected><c>.</c><w>Þær</w><w>gátu</w><w>verið</w></corrected>
       <errors>
-        <error xtype="missing-period" eid="0"/>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-period" idx="16-1" eid="0"/>
+        <error xtype="missing-sub" idx="16-2" eid="0"/>
+        <error xtype="missing-fin-verb" idx="16-3" eid="0" />
+        <error xtype="missing-word" idx="16-4" eid="0" />
       </errors>
   </revision>
   <w>sem</w>

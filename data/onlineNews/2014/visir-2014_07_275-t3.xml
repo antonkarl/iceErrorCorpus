@@ -321,7 +321,8 @@
     <original></original>
     <corrected><w>til</w><w>þess</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-prep" idx="12-1" eid="0" />
+        <error xtype="missing-obj" idx="12-2" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -565,7 +566,8 @@
     <original></original>
     <corrected><w>af</w><w>lögreglunni</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-prep" idx="23-1" eid="0" />
+        <error xtype="missing-obj" idx="23-2" eid="0" />
       </errors>
   </revision>
   <c>.</c>

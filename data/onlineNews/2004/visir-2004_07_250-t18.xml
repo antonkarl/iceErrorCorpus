@@ -87,7 +87,8 @@
     <original></original>
     <corrected><w>sem</w><w>nam</w></corrected>
       <errors>
-        <error xtype="missing-words" idx="1-1" eid="0" />
+        <error xtype="missing-conjunction" idx="1-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="1-2" eid="0" />
       </errors>
   </revision>
   <w>60</w>
@@ -95,7 +96,7 @@
     <original><w>prósent</w></original>
     <corrected><w>prósentum</w></corrected>
       <errors>
-        <error xtype="dep" depId="1-1" eid="0" />
+        <error xtype="dep" depId="1-2" eid="0" />
       </errors>
   </revision>
   <w>af</w>

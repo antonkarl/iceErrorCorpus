@@ -43,7 +43,8 @@
     <corrected><w>má</w><w>nefna</w></corrected>
       <errors>
         <error xtype="extra-colon" idx="112-1" eid="0"/>
-        <error xtype="missing-words" idx="112-2" eid="0"/>
+        <error xtype="missing-fin-verb" idx="112-2" eid="0" />
+        <error xtype="missing-word" idx="112-3" eid="0"/>
       </errors>
   </revision>
   <w>Stuðmenn</w>
@@ -305,7 +306,8 @@
     <original/>
     <corrected><w>sem</w><w>er</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-conjunction" idx="16-1" eid="0"/>
+        <error xtype="missing-fin-verb" idx="16-2" eid="0" />
       </errors>
   </revision>
   <w>upprunnið</w>
@@ -813,7 +815,8 @@
     <original/>
     <corrected><w>sem</w><w>er</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-conjunction" idx="39-1" eid="0"/>
+        <error xtype="missing-fin-verb" idx="39-2" eid="0" />
       </errors>
   </revision>
   <w>stytting</w>
@@ -1012,7 +1015,8 @@
     <original/>
     <corrected><w>fyrir</w><w>vestræna</w><w>heiminn</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-prep" idx="48-1" eid="0"/>
+        <error xtype="missing-obj" idx="48-2" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -1805,10 +1809,12 @@
     <original><c>(</c><w>plötur</w><c>,</c><w>diskar</w><c>)</c><c>,</c></original>
     <corrected><w>á</w><w>formi</w><w>t.d.</w><w>platna</w><w>eða</w><w>diska</w><c>.</c><w>Sú</w><w>tónlist</w><w>sem</w></corrected>
       <errors>
-        <error xtype="extra-bracket" idx="11-1" eid="0"/>
-        <error xtype="missing-words" idx="11-2" eid="0"/>
+        <error xtype="extra-brackets" idx="11-1" eid="0"/>
         <error xtype="wording" idx="11-2" eid="0"/>
-        <error xtype="missing-words" idx="11-3" eid="0"/>
+        <error xtype="comma4conjunction" idx="11-3" eid="0"/>
+        <error xtype="comma4period" idx="11-4" eid="0" />
+        <error xtype="missing-sub" idx="11-5" eid="0"/>
+        <error xtype="missing-conjunction" idx="11-6" eid="0" />
       </errors>
   </revision>
   <w>fær</w>
@@ -2205,7 +2211,8 @@
     <corrected><c>“</c><w>eða</w><w>popphljómsveitir</w></corrected>
       <errors>
         <error xtype="dep" depId="29-2" eid="0"/>
-        <error xtype="missing-words" idx="30-1" eid="0"/>
+        <error xtype="missing-conjunction" idx="30-1" eid="0"/>
+        <error xtype="missing-obj" idx="30-2" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -2213,7 +2220,7 @@
     <original/>
     <corrected><w>þar</w><w>sem</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
       </errors>
   </revision>
   <w>þeir</w>

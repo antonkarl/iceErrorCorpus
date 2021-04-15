@@ -160,8 +160,10 @@
     <original><w>Margverðlaunuð</w></original>
     <corrected><w>Kristjana</w><w>er</w><w>margverðlaunuð</w><c>.</c></corrected>
       <errors>
-        <error xtype="missing-words" idx="22-1" eid="0"/>
-        <error xtype="missing-period" idx="22-2" eid="0"/>
+        <error xtype="missing-sub" idx="22-1" eid="0"/>
+        <error xtype="missing-fin-verb" idx="22-2" eid="0" />
+        <error xtype="missing-word" idx="22-3" eid="0" />
+        <error xtype="missing-period" idx="22-4" eid="0"/>
       </errors>
   </revision>
   <w>Í</w>

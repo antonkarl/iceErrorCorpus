@@ -60,7 +60,8 @@
     <original/>
     <corrected><w>og</w><w>ríkti</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-conjunction" idx="1-1" eid="0"/>
+        <error xtype="missing-fin-verb" idx="1-1" eid="0" />
       </errors>
   </revision>
   <w>frá</w>

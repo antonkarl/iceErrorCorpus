@@ -1416,7 +1416,8 @@
     <original/>
     <corrected><w>hlýtur</w><w>maður</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-fin-verb" idx="58-1" eid="0"/>
+        <error xtype="missing-sub" idx="58-2" eid="0" />
       </errors>
   </revision>
   <c>.</c>

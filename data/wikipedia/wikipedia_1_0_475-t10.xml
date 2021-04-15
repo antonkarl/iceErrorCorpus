@@ -257,7 +257,9 @@
     <original/>
     <corrected><w>sem</w><w>kom</w><w>út</w><w>árið 1966</w></corrected>
       <errors>
-        <error xtype="missing-words" idx="4-1" eid="0"/>
+        <error xtype="missing-conjunction" idx="4-1" eid="0"/>
+        <error xtype="missing-fin-verb" idx="4-2" eid="0" />
+        <error xtype="missing-words" idx="4-3" eid="0" />
         <error xtype="dep" depId="3-1" eid="0"/>
       </errors>
   </revision>

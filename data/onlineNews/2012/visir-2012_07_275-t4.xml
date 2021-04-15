@@ -185,7 +185,9 @@
     <original></original>
     <corrected><w>nú</w><w>um</w><w>helgina</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-word" idx="4-1" eid="0" />
+        <error xtype="missing-prep" idx="4-2" eid="0" />
+        <error xtype="missing-obj" idx="4-3" eid="0" />
       </errors>
   </revision>
   <c>.</c>

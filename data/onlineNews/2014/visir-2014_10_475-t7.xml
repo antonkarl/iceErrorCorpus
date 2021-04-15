@@ -489,9 +489,10 @@
     <original><c>.</c><c>"</c></original>
     <corrected><c>“</c><c>,</c><w>svarar</w><w>Hlynur</w><c>.</c></corrected>
       <errors>
-        <error xtype="wrong-quots" eid="0" />
-        <error xtype="missing-comma" eid="0" />
-        <error xtype="missing-words" eid="0" />
+        <error xtype="wrong-quots" idx="19-1" eid="0" />
+        <error xtype="missing-comma" idx="19-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="19-3" eid="0" />
+        <error xtype="missing-sub" idx="19-4" eid="0" />
       </errors>
   </revision>
 </s>

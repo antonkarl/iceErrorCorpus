@@ -190,7 +190,9 @@
     <original><w>Umfjöllun</w></original>
     <corrected><w>Hér</w><w>má</w><w>nálgast</w><w>umfjöllun</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-word" idx="2-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="2-2" eid="0" />
+        <error xtype="missing-word" idx="2-3" eid="0" />
       </errors>
   </revision>
   <w>BBC</w>

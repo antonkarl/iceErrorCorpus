@@ -1060,7 +1060,8 @@
     <original></original>
     <corrected><w>það</w><w>var</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" idx="51-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="51-2" eid="0" />
       </errors>
   </revision>
   <w>án</w>
@@ -1275,7 +1276,8 @@
     <original></original>
     <corrected><w>gera</w><w>það</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-fin-verb" idx="58-1" eid="0" />
+        <error xtype="missing-obj" idx="58-2" eid="0" />
       </errors>
   </revision>
   <w>gegn</w>

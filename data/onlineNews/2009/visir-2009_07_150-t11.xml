@@ -242,8 +242,10 @@
     <original><w>Og</w><w>svo</w></original>
     <corrected><w>Svo</w><w>er</w><w>það</w></corrected>
       <errors>
-        <error xtype="extra-word" idx="6-1" eid="0" />
-        <error xtype="missing-words" idx="6-2" eid="0" />
+        <error xtype="extra-conjunction" idx="6-1" eid="0" />
+        <error xtype="period-plus-conjunction" idx="6-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="6-2" eid="0" />
+        <error xtype="missing-sub" idx="6-3" eid="0" />
       </errors>
   </revision>
   <w>þessi</w>

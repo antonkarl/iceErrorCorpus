@@ -196,7 +196,10 @@
     <original></original>
     <corrected><w>um</w><w>málið</w><w>var</w><w>birt</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-prep" idx="2-1" eid="0" />
+        <error xtype="missing-obj" idx="2-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="2-3" eid="0" />
+        <error xtype="missing-word" idx="2-4" eid="0" />
       </errors>
   </revision>
   <w>The</w>

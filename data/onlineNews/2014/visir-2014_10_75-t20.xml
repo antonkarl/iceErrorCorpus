@@ -280,7 +280,8 @@
     <original><w>Hagur</w></original>
     <corrected><w>Það</w><w>er</w><w>hagur</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-sub" idx="6-1" eid="0"/>
+        <error xtype="missing-fin-verb" idx="6-2" eid="0" />
       </errors>
   </revision>
   <w>af</w>
@@ -410,7 +411,8 @@
     <original><w>Ein</w></original>
     <corrected><w>Þetta</w><w>er</w><w>ein</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-sub" idx="11-1" eid="0"/>
+        <error xtype="missing-fin-verb" idx="11-2" eid="0" />
       </errors>
   </revision>
   <w>af</w>

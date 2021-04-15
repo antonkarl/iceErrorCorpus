@@ -465,8 +465,9 @@
     <corrected><c>,</c><w>sem</w><w>nefnist</w><w>Tryggvatorg</w><c>,</c></corrected>
       <errors>
         <error xtype="bracket4comma" idx="8-1" eid="0"/>
-        <error xtype="missing-words" idx="8-2" eid="0"/>
-        <error xtype="bracket4comma" idx="8-3" eid="0"/> 
+        <error xtype="missing-conjunction" idx="8-2" eid="0"/>
+        <error xtype="missing-fin-verb" idx="8-3" eid="0" />
+        <error xtype="bracket4comma" idx="8-4" eid="0"/> 
       </errors>
   </revision>
   <w>og</w>

@@ -252,7 +252,8 @@
     <original><w>1716</w></original>
     <corrected><w>frá</w><w>árinu 1716</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-prep" idx="4-1" eid="0"/>
+        <error xtype="missing-word" idx="4-2" eid="0" />
       </errors>
   </revision>
   <c>.</c>

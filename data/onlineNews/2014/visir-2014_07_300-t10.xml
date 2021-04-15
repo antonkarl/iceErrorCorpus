@@ -39,7 +39,8 @@
     <original><w>Þá</w></original>
     <corrected><w>Það</w><w>væri</w><w>þá</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" idx="1-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="1-2" eid="0" />
       </errors>
   </revision>
   <w>vegna</w>

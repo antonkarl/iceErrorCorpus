@@ -61,7 +61,9 @@
     <original></original>
     <corrected><w>sem</w><w>gerðar</w><w>hafa</w><w>verið</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-conjunction" idx="2-1" eid="0" />
+        <error xtype="missing-words" idx="2-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="2-3" eid="0" />
       </errors>
   </revision>
   <w>undanfarið</w>

@@ -88,7 +88,8 @@
     <original/>
     <corrected><w>að</w><w>vinna</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-inf-part" idx="7-1" eid="0"/>
+        <error xtype="missing-word" idx="7-2" eid="0" />
       </errors>
   </revision>
   <w>leikinn</w>

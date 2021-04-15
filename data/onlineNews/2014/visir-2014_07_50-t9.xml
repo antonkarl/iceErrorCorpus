@@ -75,7 +75,8 @@
     <original></original>
     <corrected><w>það</w><w>verður</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" idx="3-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="3-2" eid="0" />
       </errors>
   </revision>
   <w>Spiritualized</w>
@@ -190,7 +191,8 @@
     <original></original>
     <corrected><w>birt</w><w>og</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-word" idx="8-1" eid="0" />
+        <error xtype="missing-conjunction" idx="8-2" eid="0" />
       </errors>
   </revision>
   <w>tilkynnt</w>

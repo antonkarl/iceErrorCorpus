@@ -133,11 +133,18 @@
     <corrected><w>og</w><w>þar</w><w>var</w></corrected>
       <errors>
         <error xtype="period4conjunction" idx="36-1" eid="0"/>
-        <error xtype="missing-words" idx="36-2" eid="0"/>
+        <error xtype="missing-word" idx="36-2" eid="0"/>
+        <error xtype="pres4past" idx="36-3" eid="0"/>
       </errors>
   </revision>
   <w>Mósambík</w>
-  <w>er</w>
+  <revision id="11b">
+    <original><w>er</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="36-3" eid="0"/>
+      </errors>
+  </revision>
   <w>engin</w>
   <w>undantekning</w>
   <revision id="12">
@@ -1330,7 +1337,8 @@
       <errors>
         <error xtype="fw4ice" idx="98-1" eid="0"/>
         <error xtype="sub4ind" idx="98-2" eid="0"/>
-        <error xtype="missing-words" idx="98-3" eid="0"/>
+        <error xtype="missing-prep" idx="98-3" eid="0"/>
+        <error xtype="missing-obj" idx="98-4" eid="0"/>
       </errors>
   </revision>
   <w>aðeins</w>
@@ -1641,8 +1649,9 @@
     <original/>
     <corrected><w>á</w><w>efri</w><w>stigum</w><c>,</c></corrected>
       <errors>
-        <error xtype="missing-words" idx="150-1" eid="0"/>
-        <error xtype="missing-comma" idx="150-2" eid="0"/>
+        <error xtype="missing-prep" idx="150-1" eid="0"/>
+        <error xtype="missing-obj" idx="150-2" eid="0"/>
+        <error xtype="missing-comma" idx="150-3" eid="0"/>
       </errors>
   </revision>
   <w>sem</w>
@@ -1934,8 +1943,11 @@
     <original/>
     <corrected><w>fá</w><w>menntun</w><c>,</c><w>á</w><w>því</w><w>skólastigi</w></corrected>
       <errors>
-        <error xtype="missing-words" idx="160-1" eid="0"/>
-        <error xtype="missing-comma" idx="160-1" eid="0"/>
+        <error xtype="missing-fin-verb" idx="160-1" eid="0"/>
+        <error xtype="missing-obj" idx="160-2" eid="0"/>
+        <error xtype="missing-comma" idx="160-3" eid="0"/>
+        <error xtype="missing-prep" idx="160-4" eid="0"/>
+        <error xtype="missing-obj" idx="160-5" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -2198,7 +2210,8 @@
     <original/>
     <corrected><w>og</w><w>laust</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-conjunction" idx="166-1" eid="0"/>
+        <error xtype="missing-word" idx="166-2" eid="0"/>
       </errors>
   </revision>
   <w>undan</w>

@@ -251,7 +251,11 @@
     <original><w>1997</w></original>
     <corrected><w>árinu 1997</w><w>til</w><w>dagsins</w><w>í</w><w>dag</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-word" idx="5-1" eid="0" />
+        <error xtype="missing-prep" idx="5-2" eid="0" />
+        <error xtype="missing-obj" idx="5-3" eid="0" />
+        <error xtype="missing-prep" idx="5-4" eid="0" />
+        <error xtype="missing-obj" idx="5-5" eid="0" />
       </errors>
   </revision>
   <w>hafi</w>

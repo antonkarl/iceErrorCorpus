@@ -19,7 +19,8 @@
     <original><w>Í</w><w>hnullunga</w><w>og</w><w>þangfjörum</w></original>
     <corrected><w>Hún</w><w>finnst</w><w>í</w><w>hnullunga- og þangfjörum</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-sub" idx="1-1" eid="0"/>
+        <error xtype="missing-fin-verb" idx="1-2" eid="0" />
         <error xtype="missing-hyphen" eid="0"/>
       </errors>
   </revision>
@@ -233,7 +234,8 @@
     <original><w>Útbreidd</w></original>
     <corrected><w>Hún</w><w>er</w><w>útbreidd</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-sub" idx="4-1" eid="0"/>
+        <error xtype="missing-fin-verb" idx="4-2" eid="0" />
       </errors>
   </revision>
   <w>í</w>

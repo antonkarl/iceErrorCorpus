@@ -282,7 +282,8 @@
     <original></original>
     <corrected><w>hefur</w><w>hann</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-fin-verb" idx="3-1" eid="0" />
+        <error xtype="missing-sub" idx="3-2" eid="0" />
       </errors>
   </revision>
   <w>unnið</w>
@@ -294,7 +295,8 @@
     <corrected><w>ferlinum</w><c>.</c><w>Það</w><w>er</w><w>meira</w></corrected>
       <errors>
         <error xtype="hyphen4period" idx="4-1" eid="0" />
-        <error xtype="missing-words" idx="4-2" eid="0" />
+        <error xtype="missing-sub" idx="4-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="4-3" eid="0" />
       </errors>
   </revision>
   <w>en</w>

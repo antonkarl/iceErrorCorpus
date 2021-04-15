@@ -49,7 +49,9 @@
     <corrected><w>sem</w><w>spilar</w><w>á</w></corrected>
       <errors>
         <error xtype="extra-bracket" idx="4-1" eid="0"/>
-        <error xtype="missing-words" idx="4-2" eid="0"/>
+        <error xtype="missing-conjunction" idx="4-2" eid="0"/>
+        <error xtype="missing-fin-verb" idx="4-3" eid="0" />
+        <error xtype="missing-prep" idx="4-4" eid="0" />
       </errors>
   </revision>
   <w>píanó</w>

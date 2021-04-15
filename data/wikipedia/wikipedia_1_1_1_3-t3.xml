@@ -473,7 +473,8 @@
     <original/>
     <corrected><w>sem</w><w>rennur</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-conjunction" idx="20-1" eid="0"/>
+        <error xtype="missing-fin-verb" idx="20-2" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -859,7 +860,8 @@
     <original/>
     <corrected><w>í</w><w>rauninni</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-prep" idx="34-1" eid="0"/>
+        <error xtype="missing-obj" idx="34-2" eid="0" />
       </errors>
   </revision>
   <w>á</w>
@@ -870,7 +872,9 @@
     <original/>
     <corrected><w>upp</w><w>í</w><w>árnar</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-word" idx="35-1" eid="0"/>
+        <error xtype="missing-prep" idx="35-2" eid="0" />
+        <error xtype="missing-obj" idx="35-3" eid="0" />
       </errors>
   </revision>
   <w>þó</w>

@@ -375,7 +375,9 @@
     <corrected><w>sem</w><w>kom</w><w>fyrst</w><w>út</w><w>í</w><w>Osló</w></corrected>
       <errors>
         <error xtype="missing-conjunction" idx="8-1" eid="0" />
-        <error xtype="missing-words" idx="8-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="8-2" eid="0" />
+        <error xtype="missing-words" idx="13-3" eid="0" />
+        <error xtype="missing-prep" idx="13-3" eid="0" />
         <error xtype="dep" depId="9-1" eid="0" />
       </errors>
   </revision>

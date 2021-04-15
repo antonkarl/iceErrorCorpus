@@ -190,8 +190,11 @@
     <original/>
     <corrected><w>segir</w><w>hann</w><w>að</w><w>lokum</w><c>.</c></corrected>
       <errors>
-        <error xtype="missing-words" idx="16-1" eid="0"/>
-        <error xtype="missing-period" idx="16-2" eid="0"/>
+        <error xtype="missing-fin-verb" idx="16-1" eid="0"/>
+        <error xtype="missing-sub" idx="16-2" eid="0" />
+        <error xtype="missing-prep" idx="16-3" eid="0" />
+        <error xtype="missing-obj" idx="16-4" eid="0" />
+        <error xtype="missing-period" idx="16-5" eid="0"/>
       </errors>
   </revision>
 </s><s n="7">
@@ -281,8 +284,11 @@
     <original/>
     <corrected><w>með</w><w>afbrotalögfræði</w><w>sem</w><w>aðalgrein</w><c>(</c><w>e.</w></corrected>
       <errors>
-        <error xtype="missing-words" idx="9-1" eid="0"/>
-        <error xtype="missing-bracket" idx="9-2" eid="0"/>
+        <error xtype="missing-prep" idx="9-1" eid="0"/>
+        <error xtype="missing-obj" idx="9-2" eid="0" />
+        <error xtype="missing-conjunction" idx="9-3" eid="0" />
+        <error xtype="missing-word" idx="9-4" eid="0" />
+        <error xtype="missing-bracket" idx="9-5" eid="0"/>
       </errors>
   </revision>
   <w><hi>criminal</hi></w>

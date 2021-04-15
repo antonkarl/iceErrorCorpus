@@ -590,7 +590,8 @@
     <original></original>
     <corrected><w>var</w><w>frábært</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-fin-verb" idx="12-1" eid="0" />
+        <error xtype="missing-word" idx="12-2" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -600,7 +601,8 @@
     <original><w>Strákar</w></original>
     <corrected><w>Þetta</w><w>eru</w><w>strákar</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-word" idx="13-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="13-2" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
@@ -736,7 +738,8 @@
     <original></original>
     <corrected><w>þeir</w><w>en</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-obj" idx="16-1" eid="0" />
+        <error xtype="missing-conjunction" idx="16-2" eid="0" />
       </errors>
   </revision>
   <w>ég</w>

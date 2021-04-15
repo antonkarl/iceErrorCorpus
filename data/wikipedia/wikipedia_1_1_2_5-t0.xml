@@ -298,7 +298,7 @@
     <original><c>„</c><w>scratch</w><w>pads</w><c>“</c></original>
     <corrected><w>spjaldtölvur</w><w>með</w><w>plötusnúðaforritum</w><c>(</c><w>e.</w><w><hi>scratch</hi></w><w><hi>pads</hi></w><c>)</c></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="fw4ice" eid="0" />
         <error xtype="extra-quots" idx="26-1" eid="0" />
         <error xtype="nonit4it" idx="26-1" eid="0" />
       </errors>
@@ -1388,8 +1388,10 @@
     <original><w>með</w></original>
     <corrected><c>.</c><w>Hún</w><w>einkenndist</w><w>af</w></corrected>
       <errors>
-        <error xtype="conjunction4period" eid="0" />
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-period" idx="124-1" eid="0" />
+        <error xtype="missing-sub" idx="124-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="124-3" eid="0" />
+        <error xtype="wrong-prep" idx="124-4" eid="0" />
       </errors>
   </revision>
   <w>klaufalegri</w>
@@ -1596,7 +1598,7 @@
     <corrected><c>,</c><w>eins</w><w>og</w></corrected>
       <errors>
         <error xtype="missing-comma" eid="0" />
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-conjunction" eid="0" />
       </errors>
   </revision>
   <w>Rage</w>

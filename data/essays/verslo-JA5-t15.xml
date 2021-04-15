@@ -589,7 +589,9 @@
     <original/>
     <corrected><w>siðferði</w><w>í</w><w>fjölmiðlum</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-obj" idx="21-1" eid="0"/>
+        <error xtype="missing-prep" idx="21-2" eid="0"/>
+        <error xtype="missing-obj" idx="21-3" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -1238,7 +1240,8 @@
     <original/>
     <corrected><w>að</w><w>því</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-prep" idx="35-1" eid="0"/>
+        <error xtype="missing-obj" idx="35-2" eid="0"/>
       </errors>
   </revision>
   <w>hvernig</w>
@@ -1282,7 +1285,7 @@
     <original/>
     <corrected><w>til</w><w>að</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-conjunctino" eid="0"/>
       </errors>
   </revision>
   <w>lesa</w>

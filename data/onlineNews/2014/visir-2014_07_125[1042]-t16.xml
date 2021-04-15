@@ -266,7 +266,8 @@
     <original><w>Epísk</w></original>
     <corrected><w>Það</w><w>var</w><w>epísk</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" idx="7-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="7-2" eid="0" />
       </errors>
   </revision>
   <w>barátta</w>
@@ -274,7 +275,7 @@
     <original></original>
     <corrected><w>á</w><w>milli</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-prep" eid="0" />
       </errors>
   </revision>
   <w>Vettel</w>
@@ -530,8 +531,9 @@
     <original></original>
     <corrected><w>heldur</w><w>áfram</w><c>.</c></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
-        <error xtype="missing-period" eid="0" />
+        <error xtype="missing-fin-verb" idx="11-1" eid="0" />
+        <error xtype="missing-word" idx="11-2" eid="0" />
+        <error xtype="missing-period" idx="11-3" eid="0" />
       </errors>
   </revision>
   <w>Eftir</w>
@@ -644,8 +646,9 @@
     <original></original>
     <corrected><w>voru</w><w>stór</w><c>.</c></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
-        <error xtype="missing-period" eid="0" />
+        <error xtype="missing-fin-verb" idx="13-1" eid="0" />
+        <error xtype="missing-word" idx="13-2" eid="0" />
+        <error xtype="missing-period" idx="13-3" eid="0" />
       </errors>
   </revision>
   <w>Hamilton</w>
@@ -806,13 +809,15 @@
   <c>.</c>
 </s>
 <s n="40">
-  <w>Kristjáns-hornið</w>
   <revision id="14">
-    <original></original>
-    <corrected><w>fjallar</w><w>um</w><w>kappaksturinn</w><c>.</c></corrected>
+    <original><w>Kristjáns-hornið</w></original>
+    <corrected><w>Kristjánshornið</w><w>fjallar</w><w>um</w><w>kappaksturinn</w><c>.</c></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
-        <error xtype="missing-period" eid="0" />
+        <error xtype="extra-hyphen" idx="14-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="14-2" eid="0" />
+        <error xtype="missing-prep" idx="14-3" eid="0" />
+        <error xtype="missing-obj" idx="14-4" eid="0" />
+        <error xtype="missing-period" idx="14-5" eid="0" />
       </errors>
   </revision>
   <w>Kristján</w>

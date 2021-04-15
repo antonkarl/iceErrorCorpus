@@ -279,8 +279,10 @@
     <original><w>eru</w><w>með</w><w>því</w><w>sem</w><w>verst</w><w>gerist</w><w>í</w><w>heiminum</w></original>
     <corrected><w>í</w><w>Angóla</w><w>er</w><c>,</c><w>á</w><w>heimsvísu</w><c>,</c><w>með</w><w>versta</w><w>móti</w></corrected>
       <errors>
-        <error xtype="missing-words" idx="19-1" eid="0"/>
-        <error xtype="wording" idx="19-2" eid="0"/>
+        <error xtype="missing-prep" idx="19-1" eid="0"/>
+        <error xtype="missing-obj" idx="19-2" eid="0" />
+        <error xtype="agreement" idx="19-3" eid="0" />
+        <error xtype="wording" idx="19-4" eid="0"/>
       </errors>
   </revision>
   <c>.</c>

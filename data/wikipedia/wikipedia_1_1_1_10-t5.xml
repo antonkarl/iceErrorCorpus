@@ -142,7 +142,9 @@
     <original/>
     <corrected><w>hljóðið</w><w>sem</w><w>myndast</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-sub" idx="6-1" eid="0"/>
+        <error xtype="missing-conjunction" idx="6-2" eid="0"/>
+        <error xtype="missing-word" idx="6-3" eid="0"/>
       </errors>
   </revision>
   <w>þegar</w>
@@ -1195,8 +1197,7 @@
     <original><w>virðingu</w><w>höfundaréttar</w></original>
     <corrected><w>því</w><w>að</w><w>höfundarréttur</w><w>sé</w><w>virtur</w></corrected>
       <errors>
-        <error xtype="missing-words" idx="50-1" eid="0"/>
-        <error xtype="wording" idx="50-2" eid="0"/>
+        <error xtype="wording" eid="0"/>
       </errors>
   </revision>
   <c>.</c>

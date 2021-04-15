@@ -481,7 +481,8 @@
     <original/>
     <corrected><w>og</w><w>fært</w><w>yfir</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-conjunction" idx="18-1" eid="0"/>
+        <error xtype="missing-words" idx="18-2" eid="0" />
       </errors>
   </revision>
   <w>til</w>

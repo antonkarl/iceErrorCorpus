@@ -117,8 +117,9 @@
     <original></original>
     <corrected><c>.</c><w>Liðið</w><w>var</w></corrected>
       <errors>
-        <error xtype="missing-period" eid="0" />
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-period" idx="3-1" eid="0" />
+        <error xtype="missing-sub" idx="3-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="3-3" eid="0" />
       </errors>
   </revision>
   <w>með</w>

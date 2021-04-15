@@ -69,6 +69,13 @@
   <w>Rolls</w>
   <w>Royce</w>
   <w>Wraith</w>
+  <revision id="1b">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
   <w>verður</w>
   <w>fjögur</w>
   <w>þúsund</w>
@@ -92,13 +99,7 @@
   <w>heimi</w>
   <w>bílaframleiðenda</w>
   <w>eru</w>
-  <revision id="3">
-    <original><w>það</w></original>
-    <corrected><w>þetta</w></corrected>
-      <errors>
-        <error xtype="pers4dem" eid="0" />
-      </errors>
-  </revision>
+  <w>það</w>
   <w>ekki</w>
   <w>margir</w>
   <w>bílar</w>

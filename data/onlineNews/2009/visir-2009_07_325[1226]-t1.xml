@@ -37,8 +37,10 @@
     <original><w>en</w></original>
     <corrected><w>á</w><w>meðan</w><w>vörur</w><w>voru</w><w>fluttar</w></corrected>
       <errors>
-        <error xtype="extra-conjunction" idx="2-1" eid="0" />
-        <error xtype="missing-words" idx="2-2" eid="0" />
+        <error xtype="conjunction" idx="2-1" eid="0" />
+        <error xtype="missing-sub" idx="2-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="2-3" eid="0"/>
+        <error xtype="missing-word" idx="2-4" eid="0"/>
       </errors>
   </revision>
   <w>inn</w>

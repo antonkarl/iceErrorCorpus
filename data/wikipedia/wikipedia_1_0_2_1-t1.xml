@@ -538,7 +538,9 @@
     <original></original>
     <corrected><w>að</w><w>læra</w><w>þau</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-inf-part" idx="25-1" eid="0" />
+        <error xtype="missing-word" idx="25-2" eid="0"/>
+        <error xtype="missing-obj" idx="25-3" eid="0"/>
       </errors>
   </revision>
   <c>.</c>

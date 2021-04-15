@@ -4667,8 +4667,10 @@
     <original></original>
     <corrected><w>og</w><w>það</w><w>var</w><w>ekki</w></corrected>
       <errors>
-        <error xtype="missing-conjunction" eid="0" />
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-conjunction" idx="231-1" eid="0" />
+        <error xtype="missing-sub" idx="231-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="231-3" eid="0" />
+        <error xtype="missing-word" idx="231-3" eid="0" />
       </errors>
   </revision>
   <w>fyrr</w>
@@ -6429,7 +6431,9 @@
     <original></original>
     <corrected><w>stuttu</w><w>eftir</w><w>tökur</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-word" idx="333-1" eid="0" />
+        <error xtype="missing-prep" idx="333-2" eid="0" />
+        <error xtype="missing-obj" idx="333-3" eid="0" />
       </errors>
   </revision>
   <c>.</c>

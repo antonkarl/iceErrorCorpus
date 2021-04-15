@@ -671,7 +671,8 @@
     <original><w>IUPAC</w></original>
     <corrected><w>Alþjóðasamband</w><w>hreinnar</w><w>og</w><w>hagnýtrar</w><w>efnafræði</w><c>/</c><w>nytjaefnafræði</w><w><hi>IUPAC</hi></w><c>(</c><w>e.</w><w>International</w><w>Union</w><w>of</w><w>Pure</w><w>and</w><w>Applied</w><w>Chemistry</w><c>)</c></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="fw4ice" idx="15-1" eid="0" />
+        <error xtype="missing-words" idx="15-1" eid="0" />
       </errors>
   </revision>
   <w>notast</w>

@@ -217,9 +217,11 @@
     <original><w>2009</w><w><hi>Streamy</hi></w><w><hi>verðlaunin</hi></w></original>
     <corrected><w>árið 2009</w><w>hlaut</w><w>þátturinn</w><w>Streamy-verðlaunin</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
-        <error xtype="missing-hyphen" idx="20-1" eid="0"/>
-        <error xtype="it4nonit" idx="20-1" eid="0"/>
+        <error xtype="missing-word" idx="20-1" eid="0"/>
+        <error xtype="missing-fin-verb" idx="20-2" eid="0" />
+        <error xtype="missing-sub" idx="20-3" eid="0" />
+        <error xtype="missing-hyphen" idx="20-4" eid="0"/>
+        <error xtype="it4nonit" idx="20-4" eid="0"/>
       </errors>
   </revision>
   <w>fyrir</w>

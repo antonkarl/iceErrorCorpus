@@ -164,7 +164,8 @@
     <original><w>Ekki</w></original>
     <corrected><w>Þetta</w><w>er</w><w>ekki</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" idx="2-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="2-2" eid="0" />
       </errors>
   </revision>
   <w>einfalt</w>
@@ -175,7 +176,8 @@
     <original></original>
     <corrected><w>það</w><w>er</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" idx="3-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="3-2" eid="0" />
       </errors>
   </revision>
   <w>mikilvægt</w>

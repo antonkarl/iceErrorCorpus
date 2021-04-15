@@ -1217,13 +1217,12 @@
 </s><s n="57">
   <w>Að</w>
   <w>lokum</w>
-  <c>,</c>
   <revision id="34">
-    <original><w>engin</w></original>
+    <original><c>,</c><w>engin</w></original>
     <corrected/>
       <errors>
-        <error xtype="marked4unmarked" idx="38-1" eid="0"/>
-        <error xtype="wording" idx="38-1" eid="0"/>
+        <error xtype="extra-comma" idx="38-1" eid="0"/>
+        <error xtype="marked4unmarked" idx="38-2" eid="0"/>
       </errors>
   </revision>
   <w>veit</w>

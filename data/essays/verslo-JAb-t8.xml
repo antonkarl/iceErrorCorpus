@@ -1308,7 +1308,8 @@
     <original/>
     <corrected><w>sat</w><w>svo</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-fin-verb" idx="40-1" eid="0"/>
+        <error xtype="missing-word" idx="40-2" eid="0" />
       </errors>
   </revision>
   <w>allt</w>

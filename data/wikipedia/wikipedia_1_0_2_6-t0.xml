@@ -185,9 +185,9 @@
     <original><c>,</c><w>heldur</w></original>
     <corrected><w>og</w><w>í</w><w>staðinn</w></corrected>
       <errors>
-        <error xtype="extra-comma" eid="0"/>
-        <error xtype="conjunction" eid="0"/>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="comma4conjunction" idx="2-1" eid="0"/>
+        <error xtype="extra-conjunction" idx="2-2" eid="0"/>
+        <error xtype="missing-words" idx="2-3" eid="0"/>
       </errors>
   </revision>
   <w>keppt</w>

@@ -310,7 +310,13 @@
   <w>notuð</w>
   <w>af</w>
   <w>innfæddum</w>
-  <w>ameríkönum</w>
+  <revision id="7b">
+    <original><w>ameríkönum</w></original>
+    <corrected><w>Ameríkönum</w></corrected>
+      <errors>
+        <error xtype="lower4upper-proper" eid="0"/>
+      </errors>
+  </revision>
   <w>fyrir</w>
   <w>landafundi</w>
   <w>Kólumbusar</w>
@@ -340,8 +346,9 @@
     <original><w>sem</w></original>
     <corrected><c>.</c><w>Það</w><w>var</w></corrected>
       <errors>
-        <error xtype="conjunction4period" eid="0"/>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="conjunction4period" idx="9-1" eid="0"/>
+        <error xtype="missing-sub" idx="9-2" eid="0"/>
+        <error xtype="missing-fin-verb" idx="9-3" eid="0"/>
       </errors>
   </revision>
   <w>lýsing</w>

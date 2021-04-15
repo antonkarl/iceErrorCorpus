@@ -381,7 +381,8 @@
     <original></original>
     <corrected><w>það</w><w>var</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" idx="11b-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="11b-2" eid="0" />
       </errors>
   </revision>
   <w>ekki</w>
@@ -629,7 +630,9 @@
     <original><w>þá</w></original>
     <corrected><w>án</w><w>árangurs</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="extra-word" idx="28-1" eid="0" />
+        <error xtype="missing-prep" idx="28-2" eid="0" />
+        <error xtype="missing-obj" idx="28-3" eid="0" />
       </errors>
   </revision>
   <w>ákvað</w>

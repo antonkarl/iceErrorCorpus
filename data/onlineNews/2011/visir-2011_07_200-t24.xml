@@ -458,7 +458,8 @@
     <original></original>
     <corrected><w>fyrir</w><w>því</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-prep" idx="19-1" eid="0" />
+        <error xtype="missing-obj" idx="19-2" eid="0" />
       </errors>
   </revision>
   <w>að</w>

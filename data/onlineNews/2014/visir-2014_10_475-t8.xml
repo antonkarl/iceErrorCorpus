@@ -297,7 +297,8 @@
     <original><w>Bæjarlistamaður</w></original>
     <corrected><w>Er</w><w>nú</w><w>orðin</w><w>bæjarlistamaður</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-fin-verb" idx="6-1" eid="0" />
+        <error xtype="missing-words" idx="6-2" eid="0"/>
       </errors>
   </revision>
   <w>í</w>
@@ -589,8 +590,10 @@
     <original></original>
     <corrected><w>innra</w><w>með</w><w>Sölku</w><c>.</c></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
-        <error xtype="missing-period" eid="0" />
+        <error xtype="missing-word" idx="9-1" eid="0" />
+        <error xtype="missing-prep" idx="9-2" eid="0"/>
+        <error xtype="missing-obj" idx="9-3" eid="0"/>
+        <error xtype="missing-period" idx="9-4" eid="0" />
       </errors>
   </revision>
   <c>„</c>

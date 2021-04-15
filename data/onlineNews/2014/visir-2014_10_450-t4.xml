@@ -353,8 +353,9 @@
     <original><c>:</c></original>
     <corrected><w>er</w><w>svo</w></corrected>
       <errors>
-        <error xtype="extra-colon" eid="0" />
-        <error xtype="missing-words" eid="0" />
+        <error xtype="extra-colon" idx="12-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="12-2" eid="0" />
+        <error xtype="missing-conjunction" idx="12-3" eid="0"/>
       </errors>
   </revision>
   <w>Ingvar</w>
@@ -496,8 +497,9 @@
     <original><c>:</c></original>
     <corrected><w>eru</w><w>svo</w></corrected>
       <errors>
-        <error xtype="extra-colon" eid="0" />
-        <error xtype="missing-words" eid="0" />
+        <error xtype="extra-colon" idx="27-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="27-2" eid="0" />
+        <error xtype="missing-conjunction" idx="27-3" eid="0"/>
       </errors>
   </revision>
   <w>Kristjana</w>

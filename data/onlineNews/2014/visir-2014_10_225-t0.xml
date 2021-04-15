@@ -439,7 +439,10 @@
     <original/>
     <corrected><w>hindra</w><w>sölu</w><w>áfengis</w><w>í</w><w>matvöruverslunum</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-word" idx="5-1" eid="0"/>
+        <error xtype="missing-obj" idx="5-2" eid="0" />
+        <error xtype="missing-prep" idx="5-3" eid="0" />
+        <error xtype="missing-obj" idx="5-4" eid="0" />
       </errors>
   </revision>
   <c>.</c>

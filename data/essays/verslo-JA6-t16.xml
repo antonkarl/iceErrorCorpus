@@ -644,7 +644,8 @@
     <original/>
     <corrected><w>og</w><w>fært</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-conjunction" idx="24-1" eid="0"/>
+        <error xtype="missing-word" idx="24-2" eid="0" />
       </errors>
   </revision>
   <w>til</w>

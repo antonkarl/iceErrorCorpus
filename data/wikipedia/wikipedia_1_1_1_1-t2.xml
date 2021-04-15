@@ -141,7 +141,8 @@
     <original/>
     <corrected><w>af</w><w>sér</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-prep" idx="9-1" eid="0"/>
+        <error xtype="missing-obj" idx="9-2" eid="0" />
       </errors>
   </revision>
   <w>litlar</w>
@@ -595,7 +596,8 @@
     <original/>
     <corrected><w>hafa</w><w>einnig</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-fin-verb" idx="35-1" eid="0"/>
+        <error xtype="missing-word" idx="35-2" eid="0" />
       </errors>
   </revision>
   <w>verið</w>

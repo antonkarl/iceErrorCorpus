@@ -92,7 +92,9 @@
     <original></original>
     <corrected><w>þarf</w><w>að</w><w>athuga</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-fin-verb" idx="2-1" eid="0" />
+        <error xtype="missing-inf-part" idx="2-2" eid="0" />
+        <error xtype="missing-word" idx="2-3" eid="0" />
       </errors>
   </revision>
   <w>hvort</w>

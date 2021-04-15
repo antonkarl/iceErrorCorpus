@@ -166,7 +166,9 @@
     <original></original>
     <corrected><w>Ljóst</w><w>er</w><w>að</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-word" idx="8-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="8-2" eid="0" />
+        <error xtype="missing-conjunction" idx="8-3" eid="0" />
       </errors>
   </revision>
   <w>Lewis</w>

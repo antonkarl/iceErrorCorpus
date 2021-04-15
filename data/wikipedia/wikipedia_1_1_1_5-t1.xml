@@ -345,8 +345,9 @@
     <original><w>Endurbyggingin</w></original>
     <corrected><w>sem</w><w>nefnist</w><w><hi>Endurbyggingin</hi></w></corrected>
       <errors>
-        <error xtype="missing-words" idx="14-1" eid="0"/>
-        <error xtype="nonit4it" idx="14-2" eid="0"/>
+        <error xtype="missing-conjunction" idx="14-1" eid="0"/>
+        <error xtype="missing-word" idx="14-2" eid="0"/>
+        <error xtype="nonit4it" idx="14-3" eid="0"/>
       </errors>
   </revision>
   <c>.</c>

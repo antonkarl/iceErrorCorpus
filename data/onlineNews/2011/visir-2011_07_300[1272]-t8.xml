@@ -418,7 +418,8 @@
     <original></original>
     <corrected><w>á</w><w>veg</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-prep" idx="19-1" eid="0" />
+        <error xtype="missing-obj" idx="19-2" eid="0"/>
       </errors>
   </revision>
   <w>í</w>

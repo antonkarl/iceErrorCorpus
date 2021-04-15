@@ -90,7 +90,8 @@
     <original><w>Frábærlega</w></original>
     <corrected><w>Þetta</w><w>var</w><w>frábærlega</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" idx="2-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="2-2" eid="0"/>
       </errors>
   </revision>
   <w>klárað</w>
@@ -192,7 +193,8 @@
     <original><w>Reiðarslag</w></original>
     <corrected><w>Þetta</w><w>var</w><w>reiðarslag</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" idx="7-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="7-2" eid="0"/>
       </errors>
   </revision>
   <w>fyrir</w>

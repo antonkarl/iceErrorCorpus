@@ -154,8 +154,9 @@
     <original></original>
     <corrected><w>er</w><w>nú</w><c>,</c></corrected>
       <errors>
-        <error xtype="missing-words" idx="6-1" eid="0" />
-        <error xtype="missing-comma" idx="6-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="6-1" eid="0" />
+        <error xtype="missing-word" idx="6-2" eid="0" />
+        <error xtype="missing-comma" idx="6-3" eid="0" />
       </errors>
   </revision>
   <w>hefur</w>
@@ -396,7 +397,9 @@
     <original></original>
     <corrected><w>landsvæði</w><w>sem</w><w>kallast</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-word" idx="12-1" eid="0" />
+        <error xtype="missing-conjunction" idx="12-2" eid="0" />
+        <error xtype="missing-word" idx="12-3" eid="0" />
       </errors>
   </revision>
   <w>Gíneuhálendið</w>

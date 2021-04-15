@@ -800,7 +800,9 @@
     <original><w>Beint</w></original>
     <corrected><w>Hvort</w><w>sem</w><w>það</w><w>kom</w><w>beint</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-conjunction" idx="22-1" eid="0" />
+        <error xtype="missing-sub" idx="22-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="22-3" eid="0" />
       </errors>
   </revision>
   <w>af</w>

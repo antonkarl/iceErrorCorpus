@@ -1535,7 +1535,8 @@
     <original></original>
     <corrected><w>að</w><w>endingu</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-prep" idx="78-1" eid="0" />
+        <error xtype="missing-obj" idx="78-2" eid="0" />
       </errors>
   </revision>
   <w>óbyggð</w>
@@ -1618,7 +1619,8 @@
     <original></original>
     <corrected><w>við</w><w>innrásum</w><w>sjóræningja</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-prep" idx="83-1" eid="0" />
+        <error xtype="missing-obj" idx="83-2" eid="0" />
       </errors>
   </revision>
   <w>var</w>
@@ -1700,9 +1702,11 @@
   <w>að</w>
   <revision id="89">
     <original></original>
-    <corrected><w>hægt</w><w>væri</w></corrected>
+    <corrected><w>hægt</w><w>væri</w><w>að</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-word" idx="89-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="89-2" eid="0" />
+        <error xtype="missing-inf-part" idx="89-3" eid="0" />
       </errors>
   </revision>
   <w>vara</w>
@@ -1722,7 +1726,8 @@
     <original></original>
     <corrected><w>eftir</w><w>bestu</w><w>getu</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-prep" idx="91-1" eid="0" />
+        <error xtype="missing-obj" idx="91-2" eid="0" />
       </errors>
   </revision>
   <w>þegar</w>
@@ -1811,7 +1816,9 @@
     <corrected><c>.</c><w>Það</w><w>gátu</w><w>þeir</w></corrected>
       <errors>
         <error xtype="missing-period" idx="97-1" eid="0" />
-        <error xtype="missing-words" idx="97-2" eid="0" />
+        <error xtype="missing-obj" idx="97-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="97-3" eid="0" />
+        <error xtype="missing-sub" idx="97-4" eid="0" />
       </errors>
   </revision>
   <w>vegna</w>
@@ -2158,8 +2165,10 @@
     <original></original>
     <corrected><w>halda</w><w>af</w><w>stað</w><c>,</c></corrected>
       <errors>
-        <error xtype="missing-words" idx="122-1" eid="0" />
-        <error xtype="missing-comma" idx="122-2" eid="0" />
+        <error xtype="missing-word" idx="122-1" eid="0" />
+        <error xtype="missing-prep" idx="122-2" eid="0" />
+        <error xtype="missing-obj" idx="122-3" eid="0" />
+        <error xtype="missing-comma" idx="122-4" eid="0" />
       </errors>
   </revision>
   <w>handtaka</w>
@@ -2500,7 +2509,8 @@
       <errors>
         <error xtype="wording" idx="144-1" eid="0" />
         <error xtype="missing-period" idx="144-2" eid="0" />
-        <error xtype="missing-words" idx="144-3" eid="0" />
+        <error xtype="missing-prep" idx="144-3" eid="0" />
+        <error xtype="missing-obj" idx="144-4" eid="0" />
       </errors>
   </revision>
   <w>skrifaði</w>
@@ -2947,7 +2957,8 @@
     <original></original>
     <corrected><w>í</w><w>kjölfarið</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-prep" idx="173-1" eid="0" />
+        <error xtype="missing-obj" idx="173-2" eid="0" />
       </errors>
   </revision>
   <w>fengið</w>

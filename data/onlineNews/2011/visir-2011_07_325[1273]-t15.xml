@@ -533,7 +533,8 @@
       <errors>
         <error xtype="dep" depId="26-1" eid="0" />
         <error xtype="conjunction4comma" eid="0" />
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-conjunction" idx="27-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="27-2" eid="0" />
       </errors>
   </revision>
   <w>hluti</w>
@@ -569,7 +570,8 @@
     <original></original>
     <corrected><w>í</w><w>dag</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-prep" idx="28-1" eid="0" />
+        <error xtype="missing-obj" idx="28-2" eid="0" />
       </errors>
   </revision>
   <w>og</w>
