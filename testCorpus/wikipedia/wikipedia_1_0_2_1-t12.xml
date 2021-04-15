@@ -758,9 +758,10 @@
     <original></original>
     <corrected><w>í</w><w>Utrecht</w><c>(</c><w>h.</w></corrected>
       <errors>
-        <error xtype="missing-words" idx="13-1" eid="0" />
-        <error xtype="missing-bracket" idx="13-2" eid="0" />
-        <error xtype="missing-word" idx="13-3" eid="0" />
+        <error xtype="missing-prep" idx="13-1" eid="0" />
+        <error xtype="missing-obj" idx="13-2" eid="0" />
+        <error xtype="missing-bracket" idx="13-3" eid="0" />
+        <error xtype="missing-word" idx="13-4" eid="0" />
       </errors>
   </revision>
   <w>Universiteit</w>

@@ -156,7 +156,8 @@
     <corrected><w>og</w><w>látinn</w></corrected>
       <errors>
         <error xtype="extra-endash" idx="2-1" eid="0"/>
-        <error xtype="missing-words" idx="2-2" eid="0"/>
+        <error xtype="missing-conjunction" idx="2-2" eid="0"/>
+        <error xtype="missing-word" idx="2-3" eid="0" />
       </errors>
   </revision>
   <w>12. janúar</w>
@@ -698,7 +699,8 @@
     <original/>
     <corrected><w>að</w><w>lokum</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-prep" idx="25-1" eid="0"/>
+        <error xtype="missing-word" idx="25-2" eid="0" />
       </errors>
   </revision>
   <w>handtaka</w>
