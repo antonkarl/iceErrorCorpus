@@ -332,7 +332,8 @@
     <original><w>þessar</w></original>
     <corrected><w>þessarar</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0" />
+        <error xtype="pro-inflection" eid="0" />
+        <error xtype="agreement-concord" eid="0" />
       </errors>
   </revision>
   <w>mestu</w>
@@ -1273,7 +1274,6 @@
     <corrected><w>komust</w></corrected>
       <errors>
         <error xtype="wording" eid="0" />
-        <error xtype="verb-inflection" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -1844,8 +1844,7 @@
     <original><w>þýðir</w></original>
     <corrected><w>þýða</w></corrected>
       <errors>
-        <error xtype="verb-inflection" idx="57-1" eid="0" />
-        <error xtype="singular4plural" idx="57-1" eid="0" />
+        <error xtype="agreement" eid="0" />
       </errors>
   </revision>
   <w>endalok</w>
@@ -2090,8 +2089,7 @@
     <original><w>lentir</w></original>
     <corrected><w>lentu</w></corrected>
       <errors>
-        <error xtype="singular4plural" idx="68-1" eid="0" />
-        <error xtype="verb-inflection" idx="68-1" eid="0" />
+        <error xtype="agreement" eid="0" />
       </errors>
   </revision>
   <w>marki</w>

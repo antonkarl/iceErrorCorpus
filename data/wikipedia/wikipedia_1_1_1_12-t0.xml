@@ -323,6 +323,7 @@
     <original><w>er</w><w>samvaxinn</w></original>
     <corrected><w>eru</w><w>samvaxin</w></corrected>
       <errors>
+        <error xtype="agreement" eid="0" />
         <error xtype="agreement-pred" eid="0" />
       </errors>
   </revision>
@@ -386,7 +387,7 @@
     <corrected><w>kjálkfætur</w></corrected>
       <errors>
         <error xtype="nominal-inflection" idx="9-1" eid="0" />
-        <error xtype="letter-rep" idx="9-1" eid="0" />
+        <error xtype="case-verb" idx="9-1" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -757,6 +758,7 @@
     <corrected><w>rauðátu</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0"/>
       </errors>
   </revision>
   <c>,</c>
@@ -1365,6 +1367,7 @@
     <corrected><w>háskólanum</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0"/>
       </errors>
   </revision>
   <w>í</w>
@@ -1833,6 +1836,8 @@
     <corrected><w>verkefna</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="genitive" eid="0"/>
+        <error xtype="case-prep" eid="0"/>
       </errors>
   </revision>
   <revision id="57b">

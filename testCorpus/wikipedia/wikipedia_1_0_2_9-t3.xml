@@ -434,6 +434,7 @@
     <corrected><w>hestbaki</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -668,7 +669,7 @@
     <original><w>talin</w></original>
     <corrected><w>talda</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0"/>
+        <error xtype="agreement-pred" eid="0"/>
       </errors>
   </revision>
   <w>Ameríku</w>
@@ -1012,6 +1013,7 @@
     <corrected><w>ár</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>var</w>

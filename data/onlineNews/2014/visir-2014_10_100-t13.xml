@@ -129,7 +129,7 @@
     <corrected><w>vill</w></corrected>
       <errors>
         <error xtype="want" idx="4-1" eid="0"/>
-        <error xtype="verb-inflection" idx="4-1" eid="0"/>
+        <error xtype="agreement" idx="4-1" eid="0"/>
       </errors>
   </revision>
   <w>ICES</w>
@@ -163,6 +163,7 @@
       <errors>
         <error xtype="dep" depId="1-1" eid="0"/>
         <error xtype="nominal-inflection" idx="1-1" eid="0"/>
+        <error xtype="genitive" idx="1-1" eid="0" />
       </errors>
   </revision>
   <w>í</w>

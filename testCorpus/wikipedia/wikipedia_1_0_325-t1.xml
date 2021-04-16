@@ -307,7 +307,8 @@
     <corrected><w>vali</w><w>á</w><w>erfiðleikastigi</w></corrected>
       <errors>
         <error xtype="nominal-inflection" idx="13-1" eid="0" />
-        <error xtype="missing-word" idx="13-2" eid="0" />
+        <error xtype="case-prep" idx="13-1" eid="0" />
+        <error xtype="missing-prep" idx="13-2" eid="0" />
         <error xtype="wording" idx="13-3" eid="0" />
         <error xtype="dep" depId="13-2" eid="0" />
       </errors>
@@ -1143,6 +1144,7 @@
     <corrected><w>stjóra</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <c>&quot;</c>
@@ -1151,6 +1153,7 @@
     <corrected><w>Skýjaborgar</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="genitive" eid="0" />
       </errors>
   </revision>
   <c>&quot;</c>
@@ -1252,6 +1255,7 @@
     <corrected><w>Skýjaborgar</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="genitive" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -1652,6 +1656,7 @@
       <errors>
         <error xtype="extra-hyphen" idx="93-1" eid="0" />
         <error xtype="nominal-inflection" idx="93-1" eid="0" />
+        <error xtype="case-prep" idx="93-1" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -1732,6 +1737,7 @@
     <corrected><w>staðsettan</w></corrected>
       <errors>
         <error xtype="adjective-inflection" eid="0" />
+        <error xtype="agreement-pred" eid="0" />
       </errors>
   </revision>
   <w>á</w>

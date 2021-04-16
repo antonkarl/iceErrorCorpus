@@ -272,7 +272,6 @@
       <errors>
         <error xtype="gendered" idx="16-1" eid="0"/>
         <error xtype="dep" depId="16-1" eid="0"/>
-        <error xtype="agreement-pred" eid="0"/>
       </errors>
   </revision>
   <w>ekki</w>
@@ -286,7 +285,6 @@
       <errors>
         <error xtype="dep" depId="16-1" eid="0"/>
         <error xtype="agreement-pro" eid="0"/>
-        <error xtype="agreement-pred" eid="0"/>
       </errors>
   </revision>
   <w>í</w>
@@ -305,7 +303,6 @@
       <errors>
         <error xtype="gendered" idx="17-1" eid="0"/>
         <error xtype="dep" depId="17-1" eid="0"/>
-        <error xtype="agreement-pred" eid="0"/>
       </errors>
   </revision>
   <w>ekki</w>
@@ -566,7 +563,7 @@
     <original><w>skorti</w></original>
     <corrected><w>skortir</w></corrected>
       <errors>
-        <error xtype="verb-inflection" eid="0" />
+        <error xtype="sub4ind" eid="0" />
       </errors>
   </revision>
   <w>ættu</w>
@@ -584,7 +581,6 @@
       <errors>
         <error xtype="dep" depId="33-1" eid="0"/>
         <error xtype="agreement-pro" eid="0"/>
-        <error xtype="agreement-pred" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -704,8 +700,8 @@
     <original><w>fengi</w></original>
     <corrected><w>fengju</w><w>allir</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="agreement" eid="0"/>
+        <error xtype="missing-sub" eid="0"/>
       </errors>
   </revision>
   <w>allt</w>
@@ -1463,7 +1459,7 @@
     <original><w>eru</w></original>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="verb-inflection" eid="0" />
+        <error xtype="agreement" eid="0" />
       </errors>
   </revision>
   <w>dagdraumar</w>
@@ -1599,7 +1595,6 @@
       <errors>
         <error xtype="dep" depId="18-1" eid="0"/>
         <error xtype="agreement-pro" eid="0"/>
-        <error xtype="agreement-pred" eid="0"/>
       </errors>
   </revision>
   <w>ekki</w>
@@ -2321,7 +2316,6 @@
       <errors>
         <error xtype="dep" depId="4-1" eid="0"/>
         <error xtype="agreement-pro" idx="5-1" eid="0"/>
-        <error xtype="agreement-pred" idx="5-1" eid="0"/>
       </errors>
   </revision>
   <w>er</w>
@@ -2396,7 +2390,6 @@
       <errors>
         <error xtype="dep" depId="33-1" eid="0"/>
         <error xtype="agreement-pro" eid="0"/>
-        <error xtype="agreement-pred" eid="0"/>
       </errors>
   </revision>
   <w>á</w>
@@ -2466,7 +2459,6 @@
     <corrected><w>afneitar</w></corrected>
       <errors>
         <error xtype="dep" depId="33-1" eid="0"/>
-        <error xtype="agreement-pred" eid="0"/>
       </errors>
   </revision>
   <w>draumum</w>
@@ -2476,7 +2468,6 @@
     <corrected><w>fer</w></corrected>
       <errors>
         <error xtype="dep" depId="33-1" eid="0"/>
-        <error xtype="agreement-pred" eid="0"/>
       </errors>
   </revision>
   <w>mikils</w>

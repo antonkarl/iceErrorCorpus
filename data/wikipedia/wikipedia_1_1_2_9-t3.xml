@@ -263,7 +263,7 @@
     <original></original>
     <corrected><w>upp</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-prep" eid="0" />
       </errors>
   </revision>
   <w>á</w>
@@ -272,6 +272,7 @@
     <corrected><w>plötunni</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>og</w>

@@ -485,9 +485,9 @@
     <original><w>eru</w><w>ökuskírtenum</w></original>
     <corrected><w>er</w><w>ökuskírteinum</w></corrected>
       <errors>
+        <error xtype="agreement" eid="0" />
         <error xtype="missing-letter" idx="26-1" eid="0" />
         <error xtype="nonword" idx="26-1" eid="0" />
-        <error xtype="agreement-pred" eid="0" />
       </errors>
   </revision>
   <w>skipt</w>

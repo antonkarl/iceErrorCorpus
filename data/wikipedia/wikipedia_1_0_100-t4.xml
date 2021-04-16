@@ -21,7 +21,7 @@
     <corrected><w>er</w></corrected>
       <errors>
         <error xtype="extra-bracket" idx="1-1" eid="0" />
-        <error xtype="missing-word" idx="1-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="1-1" eid="0" />
       </errors>
   </revision>
   <w>reikistjarna</w>
@@ -43,6 +43,7 @@
     <corrected><w>sólu</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -153,6 +154,8 @@
     <corrected><w>litar</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
+        <error xtype="genitive" eid="0" />
       </errors>
   </revision>
   <w>Venusar</w>
@@ -628,7 +631,8 @@
     <original><w>er</w></original>
     <corrected><w>væri</w></corrected>
       <errors>
-        <error xtype="verb-inflection" eid="0" />
+        <error xtype="ind4sub" eid="0" />
+        <error xtype="pres4past" eid="0" />
       </errors>
   </revision>
   <w>fjandsamleg</w>

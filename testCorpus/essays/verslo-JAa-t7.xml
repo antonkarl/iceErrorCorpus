@@ -263,7 +263,7 @@
     <original><w>hefur</w></original>
     <corrected><w>hafa</w></corrected>
       <errors>
-        <error xtype="verb-inflection" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>átt</w>
@@ -873,7 +873,7 @@
     <original><w>krefst</w></original>
     <corrected><w>krefjast</w></corrected>
       <errors>
-        <error xtype="verb-inflection" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>ekki</w>
@@ -1234,6 +1234,7 @@
     <corrected><w>manni</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>í</w>

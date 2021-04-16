@@ -390,8 +390,10 @@
     <corrected><w>hvelfingum</w><w>og</w><w>göngum</w></corrected>
       <errors>
         <error xtype="nominal-inflection" idx="9-1" eid="0"/>
+        <error xtype="case-prep" idx="9-1" eid="0" />
         <error xtype="comma4conjunction" idx="9-2" eid="0"/>
         <error xtype="nominal-inflection" idx="9-3" eid="0"/>
+        <error xtype="case-prep" idx="9-3" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -402,6 +404,7 @@
     <corrected><w>tengdum</w></corrected>
       <errors>
         <error xtype="adjective-inflection" eid="0"/>
+        <error xtype="agreement-pred" eid="0" />
       </errors>
   </revision>
   <w>myndavélum</w>
@@ -964,6 +967,7 @@
       <errors>
         <error xtype="dep" depId="19-1" eid="0"/>
         <error xtype="nominal-inflection" idx="19-1" eid="0"/>
+        <error xtype="genitive" idx="19-1" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
@@ -1120,6 +1124,7 @@
     <corrected><w>bíllinn</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>er</w>
@@ -1543,6 +1548,7 @@
     <corrected><w>gangi</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-collocation" eid="0" />
       </errors>
   </revision>
   <w>sem</w>

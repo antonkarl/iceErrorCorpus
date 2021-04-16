@@ -73,6 +73,7 @@
     <corrected><w>Bretadrottningar</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="genitive" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -355,6 +356,8 @@
     <corrected><w>Kanadastjórnar</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
+        <error xtype="genitive" eid="0" />
       </errors>
   </revision>
   <w>árið 1868</w>
@@ -411,7 +414,7 @@
     <original><w>höfðu</w></original>
     <corrected><w>hafði</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0" />
+        <error xtype="agreement" eid="0" />
       </errors>
   </revision>
   <w>bækistöðvar</w>
@@ -475,6 +478,7 @@
     <corrected><w>fækkunar</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="genitive" eid="0" />
       </errors>
   </revision>
   <w>vísunda</w>
@@ -736,6 +740,7 @@
     <corrected><w>íbúar</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -784,7 +789,7 @@
     <original><w>búa</w></original>
     <corrected><w>býr</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0" />
+        <error xtype="agreement" eid="0" />
       </errors>
   </revision>
   <w>í</w>

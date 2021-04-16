@@ -919,7 +919,7 @@
     <corrected><w>felst</w></corrected>
       <errors>
         <error xtype="verb-inflection" idx="12-1" eid="0"/>
-        <error xtype="missing-letter" idx="12-1" eid="0"/>
+        <error xtype="extra-letter" idx="12-1" eid="0"/>
       </errors>
   </revision>
   <w>í</w>
@@ -928,7 +928,8 @@
     <original/>
     <corrected><w>í</w><w>því</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
+        <error xtype="missing-obj" eid="0" />
       </errors>
   </revision>
   <w>að</w>

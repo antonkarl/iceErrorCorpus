@@ -412,7 +412,7 @@
     <original><w>eru</w><w>Ford-verksmiðjur</w></original>
     <corrected><w>er</w><w>Ford</w></corrected>
       <errors>
-        <error xtype="agreement-pred" idx="11-1" eid="0"/>
+        <error xtype="agreement" idx="11-1" eid="0"/>
         <error xtype="wording" idx="11-2" eid="0"/>
       </errors>
   </revision>
@@ -546,6 +546,7 @@
     <corrected><w>Helgigöngu</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>heilags</w>
@@ -674,6 +675,7 @@
     <corrected><w>innflutnings</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>erlends</w>

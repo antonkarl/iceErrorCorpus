@@ -213,7 +213,8 @@
     <original><w>er</w></original>
     <corrected><w>væri</w></corrected>
       <errors>
-        <error xtype="verb-inflection" eid="0"/>
+        <error xtype="ind4sub" eid="0"/>
+        <error xtype="pres4past" eid="0" />
       </errors>
   </revision>
   <w>þar</w>
@@ -437,7 +438,8 @@
     <original><w>annars</w></original>
     <corrected><w>annarra</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="pro-inflection" eid="0"/>
+        <error xtype="singular4plural" eid="0" />
       </errors>
   </revision>
   <w>litu</w>

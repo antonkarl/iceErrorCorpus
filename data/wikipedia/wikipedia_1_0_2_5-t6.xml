@@ -203,7 +203,7 @@
       <errors>
         <error xtype="extra-comma" eid="0"/>
         <error xtype="wording" eid="0"/>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
       </errors>
   </revision>
   <w>Cathkin</w>
@@ -212,7 +212,7 @@
     <original/>
     <corrected><w>sem</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
       </errors>
   </revision>
   <w>lauk</w>
@@ -225,6 +225,7 @@
     <corrected><w>titlinum</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>var</w>
@@ -1125,6 +1126,7 @@
     <corrected><w>keppinautum</w><w>þeirra</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
         <error xtype="missing-word" eid="0"/>
       </errors>
   </revision>

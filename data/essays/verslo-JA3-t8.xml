@@ -557,7 +557,7 @@
     <original><w>haldi</w></original>
     <corrected><w>muni</w><w>halda</w></corrected>
       <errors>
-        <error xtype="verb-inflection" eid="0"/>
+        <error xtype="aux" eid="0"/>
       </errors>
   </revision>
   <w>áfram</w>
@@ -631,6 +631,7 @@
     <corrected><w>grænmetisrétti</w><w>sem</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-verb" eid="0" />
         <error xtype="missing-letter" eid="0"/>
       </errors>
   </revision>

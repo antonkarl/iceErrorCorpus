@@ -165,9 +165,13 @@
     <corrected><c>,</c><w>sem</w><w>hefur</w><w>aðeins</w><w>tæpar</w><w>1.5</w><w>milljónir</w><w>íbúa</w><c>,</c></corrected>
       <errors>
         <error xtype="bracket4comma" idx="9-1" eid="0" />
-        <error xtype="missing-words" idx="9-2" eid="0" />
-        <error xtype="nominal-inflection" idx="9-3" eid="0" />
+        <error xtype="missing-conjunction" idx="9-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="9-2" eid="0" />
+        <error xtype="missing-word" idx="9-2" eid="0" />
+        <error xtype="adjective-inflection" idx="9-3" eid="0" />
+        <error xtype="agreement-concord" idx="9-3" eid="0" />
         <error xtype="nominal-inflection" idx="9-4" eid="0" />
+        <error xtype="singular4plural" idx="9-4" eid="0" />
         <error xtype="bracket4comma" idx="9-5" eid="0" />
       </errors>
   </revision>

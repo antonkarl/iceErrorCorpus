@@ -463,7 +463,7 @@
     <original><w>er</w></original>
     <corrected/>
       <errors>
-        <error xtype="extra-word" eid="0"/>
+        <error xtype="extra-fin-verb" eid="0"/>
       </errors>
   </revision>
   <w>hrygnir</w>
@@ -478,6 +478,7 @@
     <corrected><w>tanki</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>yfir</w>
@@ -488,7 +489,8 @@
     <original><w>eru</w><w>þau</w></original>
     <corrected/>
       <errors>
-        <error xtype="extra-words" eid="0"/>
+        <error xtype="extra-fin-verb" eid="0"/>
+        <error xtype="extra-sub" eid="0" />
       </errors>
   </revision>
   <w>færð</w>
@@ -648,6 +650,7 @@
     <corrected><w>diski</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -1191,6 +1194,7 @@
     <corrected><w>mikilli</w></corrected>
       <errors>
         <error xtype="adjective-inflection" eid="0"/>
+        <error xtype="agreement-concord" eid="0" />
       </errors>
   </revision>
   <w>loftun</w>
@@ -1283,7 +1287,7 @@
     <original/>
     <corrected><w>sé</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0"/>
       </errors>
   </revision>
   <w>á</w>

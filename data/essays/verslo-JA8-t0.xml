@@ -269,7 +269,7 @@
     <original><w>horfa</w></original>
     <corrected><w>líta</w></corrected>
       <errors>
-        <error xtype="wording" eid="0"/>
+        <error xtype="collocation" idx="8-1" eid="0"/>
       </errors>
   </revision>
   <w>síðan</w>
@@ -277,9 +277,8 @@
     <original><w>hornaugum</w><w>á</w><w>olíufyrirtækin</w></original>
     <corrected><w>hornauga</w><w>til</w><w>olíufyrirtækjanna</w></corrected>
       <errors>
-        <error xtype="collocation" idx="9-1" eid="0"/>
-        <error xtype="nominal-inflection" idx="9-1" eid="0"/>
-        <error xtype="wording" idx="9-2" eid="0"/>
+        <error xtype="dep" depId="8-1" eid="0"/>
+        <error xtype="wrong-prep" idx="9-1" eid="0"/>
       </errors>
   </revision>
   <w>sem</w>
@@ -895,7 +894,7 @@
     <original><w>stóðu</w></original>
     <corrected><w>stóð</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>hagsmunir.is</w>
@@ -1310,7 +1309,7 @@
     <original/>
     <corrected><w>um</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
       </errors>
   </revision>
   <w>verðbólgu</w>

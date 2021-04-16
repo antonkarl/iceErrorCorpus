@@ -818,8 +818,8 @@
     <original><w>hinum</w></original>
     <corrected><w>lífi</w><w>hinna</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" idx="4-1" eid="0"/>
-        <error xtype="wording" idx="4-1" eid="0"/>
+        <error xtype="missing-word" idx="4-1" eid="0"/>
+        <error xtype="dep" depId="4-1" eid="0"/>
       </errors>
   </revision>
   <w>verðandi</w>

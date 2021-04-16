@@ -1192,6 +1192,8 @@
     <corrected><w>þess</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0"/>
+        <error xtype="genitive" eid="0"/>
       </errors>
   </revision>
   <w>voru</w>
@@ -1459,6 +1461,7 @@
     <corrected><w>þekkingar</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="genitive" eid="0"/>
       </errors>
   </revision>
   <w>á</w>
@@ -1482,7 +1485,7 @@
     <original/>
     <corrected><w>hann</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-sub" eid="0"/>
       </errors>
   </revision>
   <w>gat</w>
@@ -1509,6 +1512,7 @@
     <corrected><w>efnuðu</w></corrected>
       <errors>
         <error xtype="adjective-inflection" eid="0"/>
+        <error xtype="agreement-concord" eid="0"/>
       </errors>
   </revision>
   <w>fólki</w>
@@ -1992,8 +1996,7 @@
     <original><w>hefð</w></original>
     <corrected><w>hefðu</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="59-1" eid="0"/>
-        <error xtype="verb-inflection" idx="59-1" eid="0"/>
+        <error xtype="verb-inflection" eid="0"/>
       </errors>
   </revision>
   <w>kolvetni</w>
@@ -2028,7 +2031,8 @@
     <original><w>manni</w></original>
     <corrected><w>manna</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0"/>
+        <error xtype="genitive" eid="0"/>
+        <error xtype="nominal-inflection" eid="0" />
       </errors>
   </revision>
   <w>á</w>
@@ -2228,6 +2232,7 @@
     <corrected><w>bæklingi</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0"/>
       </errors>
   </revision>
   <c>,</c>

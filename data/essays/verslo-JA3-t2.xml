@@ -235,7 +235,8 @@
     <original><w>hvað</w></original>
     <corrected><w>hverju</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="case-prep" eid="0"/>
+        <error xtype="pro-inflection" eid="0" />
       </errors>
   </revision>
   <w>lífið</w>
@@ -446,7 +447,7 @@
     <original><w>setja</w></original>
     <corrected><w>setjum</w></corrected>
       <errors>
-        <error xtype="agreement-pred" idx="28-1" eid="0"/>
+        <error xtype="agreement" idx="28-1" eid="0"/>
         <error xtype="singular4plural" idx="28-1" eid="0"/>  
       </errors>
   </revision>
@@ -502,7 +503,7 @@
     <original><w>gerir</w></original>
     <corrected><w>gera</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>það</w>

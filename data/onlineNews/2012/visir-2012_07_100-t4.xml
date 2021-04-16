@@ -50,7 +50,7 @@
     <corrected><w>Antons</w><w>Ferdinands</w></corrected>
       <errors>
         <error xtype="nominal-inflection" idx="2-1" eid="0" />
-        <error xtype="nominal-inflection" idx="2-2" eid="0" />
+        <error xtype="genitive" idx="2-1" eid="0" />
       </errors>
   </revision>
   <w>leikmanns</w>
@@ -97,6 +97,7 @@
       <errors>
         <error xtype="dep" depId="4-1" eid="0" />
         <error xtype="nominal-inflection" idx="4-1" eid="0" />
+        <error xtype="case-verb" idx="4-1" eid="0" />
       </errors>
   </revision>
   <w>að</w>

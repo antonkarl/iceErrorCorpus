@@ -638,7 +638,7 @@
     <original><w>hófu</w></original>
     <corrected><w>hóf</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>þessa</w>
@@ -731,6 +731,7 @@
     <corrected><w>útvörp</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-collocation" eid="0" />
       </errors>
   </revision>
   <w>sem</w>

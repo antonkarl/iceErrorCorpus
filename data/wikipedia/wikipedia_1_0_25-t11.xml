@@ -57,7 +57,7 @@
     <original><w>gasinu</w></original>
     <corrected><w>gasið</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0" />
+        <error xtype="dep" depId="3-1" eid="0" />
       </errors>
   </revision>
   <w>hafði</w>
@@ -66,7 +66,7 @@
     <original><w>náð</w></original>
     <corrected><w>eimað</w></corrected>
       <errors>
-        <error xtype="wording" eid="0" />
+        <error xtype="wording" idx="3-1" eid="0" />
       </errors>
   </revision>
   <w>úr</w>

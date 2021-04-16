@@ -136,7 +136,7 @@
     <original><w>snérist</w></original>
     <corrected><w>snéri</w></corrected>
       <errors>
-        <error xtype="verb-inflection" eid="0" />
+        <error xtype="mid4act" eid="0" />
       </errors>
   </revision>
   <w>fljótt</w>
@@ -325,7 +325,8 @@
     <corrected><w>liðið</w><w>á</w><w>Þjóðhátíð</w></corrected>
       <errors>
         <error xtype="verb-inflection" idx="18-1" eid="0" />
-        <error xtype="wording" idx="18-2" eid="0" />
+        <error xtype="wrong-prep" idx="18-2" eid="0" />
+        <error xtype="extra-word" idx="18-3" eid="0" />
       </errors>
   </revision>
   <w>í</w>

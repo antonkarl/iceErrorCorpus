@@ -132,7 +132,7 @@
     <original><w>ferð</w></original>
     <corrected><w>fer</w></corrected>
       <errors>
-        <error xtype="verb-inflection" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>það</w>
@@ -1201,6 +1201,7 @@
     <corrected><w>grunninn</w></corrected>
       <errors>
         <error xtype="nominal-inflection" idx="18-1" eid="0"/>
+        <error xtype="case-verb" idx="18-1" eid="0" />
         <error xtype="ind4def" idx="18-1" eid="0"/>
       </errors>
   </revision>

@@ -278,7 +278,8 @@
     <original><w>er</w><w>yfirfullt</w></original>
     <corrected><w>eru</w><w>yfirfullir</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement" eid="0"/>
+        <error xtype="agreement-pred" eid="0" />
       </errors>
   </revision>
   <w>af</w>
@@ -293,8 +294,8 @@
     <original><w>þá</w><w>er</w></original>
     <corrected><w>eru</w></corrected>
       <errors>
-        <error xtype="extra-word" eid="0"/>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="extra-conjunction" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>60%</w>
@@ -564,7 +565,7 @@
     <original><w>koma</w></original>
     <corrected><w>kemur</w></corrected>
       <errors>
-        <error xtype="verb-inflection" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>hingað</w>
@@ -574,7 +575,7 @@
     <original><w>eru</w></original>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>frá</w>

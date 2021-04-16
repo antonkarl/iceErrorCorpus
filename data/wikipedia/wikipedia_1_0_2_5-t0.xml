@@ -39,6 +39,7 @@
     <corrected><w>aðrar</w><w>svuntupoppshljómsveitir</w></corrected>
       <errors>
         <error xtype="nominal-inflection" idx="78-1" eid="0"/>
+        <error xtype="case-prep" idx="78-1" eid="0" />
         <error xtype="compound-collocation" idx="78-1" eid="0"/>
       </errors>
   </revision>
@@ -496,7 +497,7 @@
     <original><w>hafði</w></original>
     <corrected><w>höfðu</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>öðruvísi</w>
@@ -909,7 +910,7 @@
     <original><w>sungu</w></original>
     <corrected><w>söng</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>lög</w>

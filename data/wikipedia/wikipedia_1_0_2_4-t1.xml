@@ -389,6 +389,7 @@
     <corrected><w>eystri</w></corrected>
       <errors>
         <error xtype="adjective-inflection" eid="0"/>
+        <error xtype="agreement-concord" eid="0" />
       </errors>
   </revision>
   <w>arminum</w>
@@ -408,6 +409,7 @@
     <corrected><w>graníti</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -438,7 +440,7 @@
     <original><w>voru</w></original>
     <corrected><w>var</w></corrected>
       <errors>
-        <error xtype="verb-inflection" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>tígulsteinunum</w>
@@ -462,6 +464,7 @@
     <corrected><w>vestri</w></corrected>
       <errors>
         <error xtype="adjective-inflection" eid="0"/>
+        <error xtype="agreement-concord" eid="0" />
       </errors>
   </revision>
   <w>arminum</w>
@@ -839,7 +842,7 @@
     <original><w>voru</w></original>
     <corrected><w>var</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>þeim</w>
@@ -916,6 +919,7 @@
     <corrected><w>kirkjuturninum</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>hefur</w>
@@ -1293,7 +1297,7 @@
     <original><w>er</w></original>
     <corrected><w>eru</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>eitt</w>
@@ -1529,6 +1533,7 @@
     <corrected><w>kaleik</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <c>.</c>

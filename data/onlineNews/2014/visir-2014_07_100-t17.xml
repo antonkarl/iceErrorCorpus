@@ -115,7 +115,7 @@
     <original><w>hafa</w></original>
     <corrected><w>hefur</w></corrected>
       <errors>
-        <error xtype="verb-inflection" eid="0" />
+        <error xtype="agreement" eid="0" />
       </errors>
   </revision>
   <w>farið</w>
@@ -165,7 +165,7 @@
     <original><w>Að</w><w>sögn</w></original>
     <corrected></corrected>
       <errors>
-        <error xtype="extra-words" eid="0" />
+        <error xtype="extra-words" idx="4-1" eid="0" />
       </errors>
   </revision>
   <w>Trine</w>
@@ -175,7 +175,7 @@
     <original><w>þingmanns</w></original>
     <corrected><w>þingmaður</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0" />
+        <error xtype="dep" depId="4-1" eid="0" />
       </errors>
   </revision>
   <w>danska</w>

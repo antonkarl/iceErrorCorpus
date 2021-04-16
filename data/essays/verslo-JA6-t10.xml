@@ -736,6 +736,7 @@
     <corrected><w>styttingar</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="gen-escape" eid="0" />
       </errors>
   </revision>
   <w>náms</w>
@@ -1168,7 +1169,6 @@
     <corrected><w>hundruð</w><c>,</c></corrected>
       <errors>
         <error xtype="nonword" idx="16-1" eid="0"/>
-        <error xtype="nominal-inflection" idx="16-1" eid="0"/>
         <error xtype="dep" depId="15-1" eid="0"/>
       </errors>
   </revision>

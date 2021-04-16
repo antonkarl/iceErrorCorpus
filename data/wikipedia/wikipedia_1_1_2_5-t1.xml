@@ -1049,6 +1049,7 @@
     <corrected><w>myndverinu</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>þar</w>
@@ -1445,6 +1446,7 @@
     <corrected><w>Normu</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -5503,6 +5505,7 @@
     <corrected><w>Gamanmyndinni</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>var</w>
@@ -7281,6 +7284,7 @@
     <corrected><w>hliðina</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>á</w>
@@ -8706,8 +8710,10 @@
     <corrected><w>kjól</w><w>á</w><w>hana</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
-        <error xtype="extra-word" eid="0" />
-        <error xtype="wording" idx="491-1" eid="0" />
+        <error xtype="case-verb" eid="0" />
+        <error xtype="missing-prep" eid="0" />
+        <error xtype="missing-obj" eid="0" />
+        <error xtype="extra-word" idx="491-1" eid="0" />
       </errors>
   </revision>
   <w>fyrir</w>
@@ -8715,7 +8721,7 @@
     <original><w>hana</w></original>
     <corrected><w>útsendinguna</w></corrected>
       <errors>
-        <error xtype="dep" depId="491-1" eid="0" />
+        <error xtype="pro4noun" eid="0" />
       </errors>
   </revision>
   <w>sem</w>

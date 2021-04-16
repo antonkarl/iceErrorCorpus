@@ -1049,8 +1049,7 @@
     <original><w>eitthverja</w></original>
     <corrected><w>einhverja</w></corrected>
       <errors>
-        <error xtype="nonword" idx="25-1" eid="0" />
-        <error xtype="nominal-inflection" idx="25-1" eid="0" />
+        <error xtype="nonword" eid="0" />
       </errors>
   </revision>
   <w>þrjá</w>
@@ -1306,6 +1305,7 @@
     <corrected><w>andstæðingunum</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>líða</w>
@@ -1992,6 +1992,7 @@
       <errors>
         <error xtype="missing-letter" idx="40-1" eid="0" />
         <error xtype="nominal-inflection" idx="40-1" eid="0" />
+        <error xtype="genitive" idx="40-1" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -2661,7 +2662,7 @@
     <original><w>basl</w></original>
     <corrected><w>basli</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0" />
+        <error xtype="dep" depId="50-1" eid="0" />
       </errors>
   </revision>
   <w>með</w>
@@ -2972,6 +2973,7 @@
     <corrected><w>kvennalandsliðsins</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="genitive" eid="0" />
       </errors>
   </revision>
   <w>á</w>

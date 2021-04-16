@@ -24,6 +24,7 @@
     <corrected><w>vatni</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -108,6 +109,7 @@
     <corrected><w>prjóna</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -1305,6 +1307,7 @@
       <errors>
         <error xtype="def4ind" idx="80-1" eid="0"/>
         <error xtype="nominal-inflection" idx="80-1" eid="0"/>
+        <error xtype="cae-prep" idx="80-1" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
@@ -1722,7 +1725,6 @@
     <original><w>getur</w><w>það</w></original>
     <corrected><w>geta</w><w>þeir</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
         <error xtype="agreement-pro" eid="0"/>
       </errors>
   </revision>

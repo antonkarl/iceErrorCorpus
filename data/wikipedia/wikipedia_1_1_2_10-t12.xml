@@ -256,6 +256,7 @@
     <corrected><w>bílinn</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -352,7 +353,7 @@
     <original><w>orku</w></original>
     <corrected><w>orkunnar</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0" />
+        <error xtype="ind4def" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
@@ -417,6 +418,7 @@
     <corrected><w>líf</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>hemlunarkerfa</w>

@@ -201,8 +201,7 @@
     <original><w>ákvarðanar</w></original>
     <corrected><w>ákvörðunar</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" idx="6-1" eid="0"/>
-        <error xtype="nonword" idx="6-1" eid="0"/>
+        <error xtype="nonword" eid="0"/>
       </errors>
   </revision>
   <w>má</w>
@@ -491,6 +490,7 @@
       <errors>
         <error xtype="nn4n" idx="5-1" eid="0"/>
         <error xtype="nominal-inflection" idx="5-1" eid="0"/>
+        <error xtype="case-prep" idx="5-1" eid="0" />
       </errors>
   </revision>
   <w>að</w>

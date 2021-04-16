@@ -169,7 +169,7 @@
     <original><w>getið</w></original>
     <corrected><w>geti</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0" />
+        <error xtype="verb-inflection" eid="0" />
       </errors>
   </revision>
   <w>áttað</w>
@@ -598,8 +598,7 @@
     <original><w>getið</w></original>
     <corrected><w>geti</w></corrected>
       <errors>
-        <error xtype="extra-letter" idx="21-1" eid="0" />
-        <error xtype="agreement-pred" idx="21-1" eid="0" />
+        <error xtype="verb-inflection" eid="0" />
       </errors>
   </revision>
   <w>áttað</w>

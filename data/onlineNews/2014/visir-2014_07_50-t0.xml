@@ -91,7 +91,8 @@
     <original><w>allnokkri</w></original>
     <corrected><w>allnokkurri</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0" />
+        <error xtype="missing-letters" idx="1-1" eid="0" />
+        <error xtype="nonword" idx="1-1" eid="0" />
       </errors>
   </revision>
   <w>íbúðabyggð</w>

@@ -137,8 +137,7 @@
     <corrected><w>hóf</w></corrected>
       <errors>
         <error xtype="extra-word" idx="33-1" eid="0"/>
-        <error xtype="style" idx="33-1" eid="0"/>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>félagið</w>
@@ -685,6 +684,7 @@
     <corrected><w>Franklins</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="genitive" eid="0" />
       </errors>
   </revision>
   <w>B.</w>
@@ -1414,7 +1414,7 @@
     <original><w>voru</w><w>aðalega</w></original>
     <corrected><w>var</w><w>aðallega</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement" eid="0"/>
         <error xtype="missing-letter" idx="3-1" eid="0"/>
         <error xtype="nonword" idx="3-1" eid="0"/>
       </errors>

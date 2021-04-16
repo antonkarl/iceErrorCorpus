@@ -264,6 +264,7 @@
     <corrected><w>leiki</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -358,7 +359,8 @@
     <original><w>öðru</w></original>
     <corrected><w>öðrum</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0" />
+        <error xtype="pro-inflection" eid="0" />
+        <error xtype="agreement-concord" eid="0" />
       </errors>
   </revision>
   <w>um</w>

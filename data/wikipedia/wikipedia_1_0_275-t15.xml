@@ -1478,6 +1478,7 @@
     <corrected><w>stéttlausra</w></corrected>
       <errors>
         <error xtype="adjective-inflection" idx="32-1" eid="0" />
+        <error xtype="genitive" idx="32-1" eid="0" />
         <error xtype="extra-letters" idx="32-1" eid="0" />
         <error xtype="compound-collocation" idx="32-1" eid="0" />
       </errors>
@@ -1916,7 +1917,9 @@
     <corrected><w>gagnrýninnar</w><w>sýnar</w></corrected>
       <errors>
         <error xtype="nominal-inflection" idx="44-1" eid="0" />
+        <error xtype="gentive" idx="44-1" eid="0" />
         <error xtype="nominal-inflection" idx="44-2" eid="0" />
+        <error xtype="gentive" idx="44-2" eid="0" />
       </errors>
   </revision>
   <w>hans</w>
@@ -1928,6 +1931,7 @@
     <corrected><w>samúðar</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="gentive" eid="0" />
       </errors>
   </revision>
   <w>hans</w>

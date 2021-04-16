@@ -341,6 +341,7 @@
     <corrected><w>breytingum</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-collocation" eid="0" />
       </errors>
   </revision>
   <w>má</w>
@@ -533,7 +534,7 @@
     <original><w>þetta</w><w>myndi</w></original>
     <corrected><w>þær</w><w>myndu</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement-pro" eid="0"/>
       </errors>
   </revision>
   <w>slá</w>
@@ -1025,7 +1026,8 @@
     <original><w>eru</w><w>komnir</w></original>
     <corrected><w>er</w><w>kominn</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement" eid="0"/>
+        <error xtype="agreement-pred" eid="0" />
       </errors>
   </revision>
   <w>til</w>

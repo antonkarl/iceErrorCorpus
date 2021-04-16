@@ -654,6 +654,7 @@
     <corrected><w>Friðrikssyni</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -662,6 +663,7 @@
     <corrected><w>Orra</w><w>Vésteinssyni</w><c>,</c></corrected>
       <errors>
         <error xtype="nominal-inflection" idx="23-1" eid="0"/>
+        <error xtype="case-prep" idx="23-1" eid="0" />
         <error xtype="missing-comma" idx="23-2" eid="0"/>
       </errors>
   </revision>

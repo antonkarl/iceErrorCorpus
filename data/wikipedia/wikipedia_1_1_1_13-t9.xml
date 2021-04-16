@@ -1092,7 +1092,7 @@
     <original><w>tæki</w></original>
     <corrected><w>tækju</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>þetta</w>
@@ -1200,6 +1200,8 @@
     <corrected><w>Vestur-Berlínar</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
+        <error xtype="genitive" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -1382,6 +1384,7 @@
     <corrected><w>efnis</w></corrected>
       <errors>
         <error xtype="nominal-inflection" idx="38-1" eid="0"/>
+        <error xtype="genitive" idx="38-1" eid="0" />
         <error xtype="def4ind" idx="38-1" eid="0"/>
       </errors>
   </revision>

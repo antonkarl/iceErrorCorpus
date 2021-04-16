@@ -708,6 +708,7 @@
     <corrected></corrected>
       <errors>
         <error xtype="nominal-inflection" idx="27-1" eid="0" />
+        <error xtype="case-prep" idx="27-1" eid="0" />
         <error xtype="wording" idx="27-1" eid="0" />
       </errors>
   </revision>
@@ -836,6 +837,7 @@
         <error xtype="semicolon4colon" idx="34-1" eid="0" />
         <error xtype="dep" depId="34-2" eid="0" />
         <error xtype="nominal-inflection" idx="34-2" eid="0" />
+        <error xtype="case-prep" idx="34-2" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -850,6 +852,7 @@
     <corrected><w>Frökkum</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -858,6 +861,7 @@
     <corrected><w>Friðryki</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -865,7 +869,8 @@
     <original><w>Þrír</w></original>
     <corrected><w>Þremur</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0" />
+        <error xtype="number-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>á</w>
@@ -877,6 +882,7 @@
       <errors>
         <error xtype="dep" depId="38-1" eid="0" />
         <error xtype="nominal-inflection" idx="38-1" eid="0" />
+        <error xtype="case-prep" idx="38-1" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -885,6 +891,7 @@
     <corrected><w>Mannakornum</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -893,6 +900,7 @@
     <corrected><w>Leikhúsbandinu</w></corrected>
       <errors>
         <error xtype="nominal-inflection" idx="40-1" eid="0" />
+        <error xtype="case-prep" idx="40-1" eid="0" />
         <error xtype="ind4def" idx="40-1" eid="0" />
       </errors>
   </revision>
@@ -918,6 +926,7 @@
     <corrected><w>Bandi</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>með</w>
@@ -929,6 +938,7 @@
     <corrected><w>brýnunum</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -938,6 +948,7 @@
     <corrected><w>Bandi</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -951,6 +962,7 @@
       <errors>
         <error xtype="dep" depId="46-1" eid="0" />
         <error xtype="nominal-inflection" idx="46-1" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -959,6 +971,7 @@
     <corrected><w>Strákunum</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -967,7 +980,10 @@
     <corrected><w>dúettinum</w><w>sem</w><w>nefndur</w><w>var</w></corrected>
       <errors>
         <error xtype="nominal-inflection" idx="48-1" eid="0" />
-        <error xtype="missing-words" idx="48-2" eid="0" />
+        <error xtype="case-prep" idx="48-1" eid="0" />
+        <error xtype="missing-conjunction" idx="48-2" eid="0" />
+        <error xtype="missing-word" idx="48-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="48-2" eid="0" />
       </errors>
   </revision>
   <w>VIÐ</w>
@@ -998,6 +1014,7 @@
     <corrected><w>jarbíói</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <c>)</c>

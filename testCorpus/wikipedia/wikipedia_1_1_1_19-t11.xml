@@ -86,7 +86,8 @@
     <original><w>þess</w></original>
     <corrected><w>þann</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="pro-inflection" eid="0"/>
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>möguleika</w>
@@ -257,6 +258,7 @@
     <corrected><w>úrgangi</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>skipt</w>
@@ -583,6 +585,7 @@
     <corrected><w>mann</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>á</w>

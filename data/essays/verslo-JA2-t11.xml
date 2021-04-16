@@ -819,7 +819,8 @@
     <original><w>andlegri</w></original>
     <corrected><w>andlega</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" idx="5-1" eid="0"/>
+        <error xtype="agreement-concord" idx="5-1" eid="0"/>
+        <error xtype="case-prep" idx="5-1" eid="0" />
       </errors>
   </revision>
   <w>heilsu</w>
@@ -846,6 +847,7 @@
     <corrected><w>mér</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>trú</w>

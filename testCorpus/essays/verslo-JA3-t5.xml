@@ -103,7 +103,7 @@
     <original><w>eru</w></original>
     <corrected><c>,</c><w>erum</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>kappsöm</w>
@@ -207,7 +207,7 @@
     <original><w>þessarri</w></original>
     <corrected><w>þeirri</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="nonword" eid="0"/>
       </errors>
   </revision>
   <w>ákvörðunartöku</w>
@@ -271,7 +271,7 @@
     <corrected><w>leiki</w><w>fullorðinna</w></corrected>
       <errors>
         <error xtype="singular4plural" idx="37-1" eid="0"/>
-        <error xtype="nominal-inflection" idx="37-2" eid="0"/>
+        <error xtype="adjective-inflection" idx="37-2" eid="0"/>
       </errors>
   </revision>
   <w>í</w>
@@ -473,7 +473,7 @@
     <original><w>fullorðna</w></original>
     <corrected><w>fullorðinna</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="adjective-inflection" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -570,7 +570,7 @@
     <original><w>koma</w></original>
     <corrected><w>kemur</w></corrected>
       <errors>
-        <error xtype="verb-inflection" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>stundum</w>

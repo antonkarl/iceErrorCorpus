@@ -211,6 +211,7 @@
     <corrected><w>opinbera</w></corrected>
       <errors>
         <error xtype="adjective-inflection" eid="0" />
+        <error xtype="agreement-concord" eid="0" />
       </errors>
   </revision>
   <w>tungumál</w>
@@ -220,8 +221,9 @@
     <original><w>portúgölsku</w></original>
     <corrected><w>sem</w><w>er</w><w>portúgölska</w></corrected>
       <errors>
-        <error xtype="missing-words" idx="9-1" eid="0" />
-        <error xtype="nominal-inflection" idx="9-2" eid="0" />
+        <error xtype="missing-conjunction" idx="9-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="9-1" eid="0" />
+        <error xtype="dep" depId="9-1" eid="0" />
       </errors>
   </revision>
   <c>,</c>

@@ -195,6 +195,7 @@
     <corrected><w>Soniu</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>Szurma</w>
@@ -537,7 +538,8 @@
     <original><w>hana</w></original>
     <corrected><w>henni</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0" />
+        <error xtype="pro-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>en</w>
@@ -995,7 +997,7 @@
     <original><w>gerðu</w></original>
     <corrected><w>gerði</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0" />
+        <error xtype="agreement" eid="0" />
       </errors>
   </revision>
   <w>hann</w>
@@ -1088,7 +1090,8 @@
     <original><w>hafi</w></original>
     <corrected><w>hafði</w></corrected>
       <errors>
-        <error xtype="verb-inflection" eid="0" />
+        <error xtype="sub4ind" eid="0" />
+        <error xtype="pres4past" eid="0" />
       </errors>
   </revision>
   <w>farið</w>
@@ -1101,7 +1104,7 @@
     <corrected><c>.</c><w>Hann</w></corrected>
       <errors>
         <error xtype="conjunction4period" eid="0" />
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>ákvað</w>

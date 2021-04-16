@@ -134,7 +134,7 @@
     <original><w>er</w></original>
     <corrected><w>eru</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>nokkuð</w>
@@ -898,7 +898,9 @@
     <original><w>mig</w></original>
     <corrected><w>mér</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="pro-inflection" eid="0"/>
+        <error xtype="dative-sub" eid="0" />
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>þyki</w>
@@ -1148,7 +1150,7 @@
     <original><w>okkar</w></original>
     <corrected><w>sínar</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="pro4reflexive" eid="0"/>
       </errors>
   </revision>
   <w>og</w>

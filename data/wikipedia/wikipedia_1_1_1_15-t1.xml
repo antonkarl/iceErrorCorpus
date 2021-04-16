@@ -214,6 +214,7 @@
       <errors>
         <error xtype="def4ind" eid="0"/>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="genitive" eid="0" />
       </errors>
   </revision>
   <w>Serenity</w>
@@ -549,7 +550,8 @@
     <original><w>sem</w><w>voru</w></original>
     <corrected/>
       <errors>
-        <error xtype="extra-words" eid="0"/>
+        <error xtype="extra-conjunction" eid="0"/>
+        <error xtype="extra-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>samdir</w>
@@ -563,6 +565,7 @@
     <corrected><w>Þættirnir</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>skarta</w>
@@ -1176,6 +1179,7 @@
     <corrected><w>málaliðanum</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>Jayne</w>
@@ -1186,6 +1190,7 @@
     <corrected><w>vélvirkjanum</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>Kaylee</w>

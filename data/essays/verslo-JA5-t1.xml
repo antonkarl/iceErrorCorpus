@@ -882,7 +882,8 @@
     <original><w>þessa</w></original>
     <corrected><w>þess</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="pro-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -967,7 +968,6 @@
     <original><w>hafið</w></original>
     <corrected><w>hafi</w></corrected>
       <errors>
-        <error xtype="extra-letter" eid="0"/>
         <error xtype="verb-inflection" eid="0"/>
       </errors>
   </revision>
@@ -977,7 +977,7 @@
     <original><w>að</w></original>
     <corrected><w>af</w></corrected>
       <errors>
-        <error xtype="wording" eid="0"/>
+        <error xtype="að4af" eid="0"/>
       </errors>
   </revision>
   <w>neinu</w>

@@ -698,6 +698,7 @@
     <corrected><w>reitum</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-collocation" eid="0" />
       </errors>
   </revision>
   <w>á</w>
@@ -789,7 +790,7 @@
     <original><w>dökkri</w></original>
     <corrected><w>dekkri</w></corrected>
       <errors>
-        <error xtype="letter-rep" idx="25-1" eid="0"/>
+        <error xtype="agreement-concord" idx="25-1" eid="0"/>
         <error xtype="adjective-inflection" idx="25-1" eid="0"/>
       </errors>
   </revision>

@@ -109,6 +109,7 @@
     <corrected><w>Palestínu</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -119,6 +120,7 @@
     <corrected><w>Jórdaníu</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -131,6 +133,7 @@
     <corrected><w>Líbýu</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -140,6 +143,7 @@
       <errors>
         <error xtype="extra-accent" idx="4-1" eid="0" />
         <error xtype="nominal-inflection" idx="4-1" eid="0" />
+        <error xtype="case-prep" idx="4-1" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -1772,7 +1776,7 @@
     <original><w>kom</w></original>
     <corrected><w>komu</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0" />
+        <error xtype="agreement" eid="0" />
       </errors>
   </revision>
   <w>þeim</w>
@@ -2051,6 +2055,7 @@
     <corrected><w>Múhameðs</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="genitive" eid="0" />
       </errors>
   </revision>
   <c>(</c>
@@ -2559,7 +2564,7 @@
     <original><w>fullyrðið</w></original>
     <corrected><w>fullyrðir</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0" />
+        <error xtype="agreement" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -3697,6 +3702,7 @@
         <error xtype="extra-space" idx="118-1" eid="0" />
         <error xtype="abbreviation-period" idx="118-1" eid="0" />
         <error xtype="nominal-inflection" idx="118-2" eid="0" />
+        <error xtype="case-prep" idx="118-2" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -5784,7 +5790,7 @@
     <original><w>höfðu</w><w>Saud</w><w>fjölskyldan</w></original>
     <corrected><w>hafði</w><w>Saud-fjölskyldan</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0" />
+        <error xtype="agreement" eid="0" />
         <error xtype="split-compound" idx="206-1" eid="0" />
         <error xtype="missing-hyphen" idx="206-1" eid="0" />
       </errors>
@@ -6083,7 +6089,7 @@
     <corrected><c>)</c><w>eiga</w></corrected>
       <errors>
         <error xtype="missing-bracket" eid="0" />
-        <error xtype="agreement-pred" eid="0" />
+        <error xtype="agreement" eid="0" />
       </errors>
   </revision>
   <w>uppruna</w>
@@ -7656,6 +7662,7 @@
       <errors>
         <error xtype="period4colon" eid="0" />
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <c>(</c>
@@ -7670,6 +7677,7 @@
       <errors>
         <error xtype="upper4lower-common" idx="296-1" eid="0" />
         <error xtype="nominal-inflection" idx="296-1" eid="0" />
+        <error xtype="case-prep" idx="296-1" eid="0" />
       </errors>
   </revision>
   <c>(</c>
@@ -7684,6 +7692,7 @@
       <errors>
         <error xtype="upper4lower-common" idx="297-1" eid="0" />
         <error xtype="nominal-inflection" idx="297-1" eid="0" />
+        <error xtype="case-prep" idx="297-1" eid="0" />
       </errors>
   </revision>
   <c>(</c>
@@ -10531,6 +10540,7 @@
     <corrected><w>Sádí-Arabíu</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="genitive" eid="0" />
       </errors>
   </revision>
   <w>er</w>

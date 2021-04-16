@@ -54,6 +54,7 @@
     <corrected><w>meirihluta</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>hans</w>
@@ -184,6 +185,7 @@
         <error xtype="extra-quots" idx="289-1" eid="0"/>
         <error xtype="nonit4it" idx="289-1" eid="0"/>
         <error xtype="nominal-inflection" idx="289-2" eid="0"/>
+        <error xtype="case-collocation" idx="289-2" eid="0" />
         <error xtype="dep" depId="289-1" eid="0"/>
       </errors>
   </revision>
@@ -263,7 +265,7 @@
     <original/>
     <corrected><w>við</w></corrected>
       <errors>
-        <error xtype="missing-prep" eid="0"/>
+        <error xtype="missing-prep" idx="13-1" eid="0"/>
       </errors>
   </revision>
   <w>Skoska</w>
@@ -271,7 +273,7 @@
     <original><w>sameiningarflokksins</w></original>
     <corrected><w>sameiningarflokkinn</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="dep" depId="13-1" eid="0"/>
       </errors>
   </revision>
   <w>fór</w>
@@ -396,8 +398,9 @@
     <original><w>einstök</w><w>kjördæmi</w><w>sem</w></original>
     <corrected><w>einstakra</w><w>kjördæma</w><w>og</w></corrected>
       <errors>
-        <error xtype="dep" depId="235-1" eid="0"/>
+        <error xtype="adjective-inflection" idx="235-1" eid="0"/>
         <error xtype="nominal-inflection" idx="235-1" eid="0"/>
+        <error xtype="genitive" idx="235-1" eid="0" />
         <error xtype="conjunction" idx="235-2" eid="0"/>
       </errors>
   </revision>
@@ -510,6 +513,7 @@
     <corrected><w>skilyrða</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="genitive" eid="0" />
       </errors>
   </revision>
   <w>hennar</w>
@@ -1787,7 +1791,8 @@
     <original><w>í</w><w>mynd</w></original>
     <corrected><c>,</c></corrected>
       <errors>
-        <error xtype="extra-words" idx="62-1" eid="0"/>
+        <error xtype="extra-prep" idx="62-1" eid="0"/>
+        <error xtype="extra-word" idx="62-1" eid="0" />
         <error xtype="missing-comma" idx="62-2" eid="0"/>
       </errors>
   </revision>
@@ -1809,7 +1814,7 @@
     <original><w>kröfðu</w></original>
     <corrected><w>kröfðust</w></corrected>
       <errors>
-        <error xtype="verb-inflection" eid="0"/>
+        <error xtype="act4mid" eid="0"/>
       </errors>
   </revision>
   <w>andstæðingar</w>
@@ -2459,6 +2464,7 @@
       <errors>
         <error xtype="upper4lower-common" idx="42-1" eid="0"/>
         <error xtype="nominal-inflection" idx="42-2" eid="0"/>
+        <error xtype="genitive" idx="42-2" eid="0" />
       </errors>
   </revision>
   <w>1914</w>
@@ -2533,6 +2539,7 @@
     <corrected><w>miðri</w></corrected>
       <errors>
         <error xtype="adjective-inflection" eid="0"/>
+        <error xtype="agreement-concord" eid="0" />
       </errors>
   </revision>
   <w>19.</w>
@@ -2726,6 +2733,7 @@
     <corrected><w>viðræðum</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>þegar</w>
@@ -2811,7 +2819,7 @@
     <original/>
     <corrected><w>varðandi</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-word" idx="187-1" eid="0"/>
       </errors>
   </revision>
   <w>menntun</w>
@@ -2822,7 +2830,7 @@
     <original><w>skattamálum</w></original>
     <corrected><w>skattamál</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="dep" depId="187-1" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -4064,6 +4072,7 @@
     <corrected><w>skoska</w></corrected>
       <errors>
         <error xtype="adjective-inflection" idx="91-1" eid="0"/>
+        <error xtype="agreement-concord" idx="91-1" eid="0" />
         <error xtype="upper4lower-common" idx="91-1" eid="0"/>
       </errors>
   </revision>
@@ -4453,7 +4462,7 @@
     <original><w>myndast</w></original>
     <corrected><w>mynda</w></corrected>
       <errors>
-        <error xtype="verb-inflection" eid="0"/>
+        <error xtype="mid4act" eid="0"/>
       </errors>
   </revision>
   <w>þeir</w>
@@ -4464,6 +4473,7 @@
         <error xtype="upper4lower-common" idx="239-1" eid="0"/>
         <error xtype="dep" depId="239-2" eid="0"/>
         <error xtype="nominal-inflection" idx="239-2" eid="0"/>
+        <error xtype="case-verb" idx="239-2" eid="0" />
         <error xtype="extra-comma" idx="239-3" eid="0"/>
       </errors>
   </revision>

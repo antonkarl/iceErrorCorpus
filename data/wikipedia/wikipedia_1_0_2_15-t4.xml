@@ -561,7 +561,7 @@
     <original><w>héldu</w></original>
     <corrected><w>hélt</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>sína</w>
@@ -961,6 +961,7 @@
     <corrected><w>gruggi</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>með</w>
@@ -981,7 +982,8 @@
     <original/>
     <corrected><w>að</w><w>rekja</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-inf-part" eid="0"/>
+        <error xtype="missing-word" eid="0" />
       </errors>
   </revision>
   <w>til</w>
@@ -1011,7 +1013,7 @@
     <original><w>sungu</w></original>
     <corrected><w>söng</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>sitt</w>
@@ -1020,7 +1022,7 @@
     <original><w>fóru</w></original>
     <corrected><w>fór</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>Pearl</w>
@@ -1049,6 +1051,7 @@
     <corrected><w>Vinsældum</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>glysrokks</w>
@@ -1596,7 +1599,7 @@
     <original><w>tóku</w><w>þá</w></original>
     <corrected><w>tók</w><w>hana</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement" eid="0"/>
         <error xtype="agreement-pro" eid="0"/>
       </errors>
   </revision>

@@ -89,6 +89,8 @@
     <corrected><w>innflutning</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="genitive" eid="0" />
+        <error xtype="case-collocation" eid="0" />
       </errors>
   </revision>
   <w>erlends</w>
@@ -307,7 +309,8 @@
     <original><w>eru</w><w>menntaðir</w></original>
     <corrected><w>er</w><w>menntaður</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement" eid="0"/>
+        <error xtype="agreement-pred" eid="0" />
       </errors>
   </revision>
   <w>á</w>
@@ -614,7 +617,7 @@
     <original><w>er</w></original>
     <corrected><w>eru</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>mun</w>
@@ -817,7 +820,7 @@
     <original><w>er</w></original>
     <corrected><w>eru</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>í</w>
@@ -997,8 +1000,9 @@
     <original><w>hópa</w><w>sér</w></original>
     <corrected><w>hópi</w><w>sig</w></corrected>
       <errors>
-        <error xtype="wording" eid="0"/>
-        <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="ind4sub" eid="0"/>
+        <error xtype="pro-inflection" eid="0"/>
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>saman</w>
@@ -1111,7 +1115,7 @@
     <original><w>komu</w></original>
     <corrected><w>kom</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>í</w>

@@ -434,7 +434,7 @@
     <corrected><w>nýi</w></corrected>
       <errors>
         <error xtype="nonword" idx="2-1" eid="0"/>
-        <error xtype="adjective-inflection" idx="2-1" eid="0"/>
+        <error xtype="extra-letter" idx="2-1" eid="0"/>
       </errors>
   </revision>
   <w>vinkill</w>
@@ -540,6 +540,7 @@
     <corrected><w>gólfið</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="cae-prep" eid="0" />
       </errors>
   </revision>
   <c>,</c>

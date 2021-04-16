@@ -165,6 +165,7 @@
     <corrected><w>stefnu</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="genitive" eid="0" />
       </errors>
   </revision>
   <w>fyrir</w>
@@ -931,6 +932,7 @@
     <original><w>eru</w><w>slegnir</w></original>
     <corrected><w>er</w><w>slegið</w></corrected>
       <errors>
+        <error xtype="agreement" eid="0" />
         <error xtype="agreement-pred" eid="0" />
       </errors>
   </revision>
@@ -940,8 +942,8 @@
     <original><w>það</w><w>myndast</w></original>
     <corrected><w>mynda</w></corrected>
       <errors>
-        <error xtype="extra-word" idx="54-1" eid="0" />
-        <error xtype="verb-inflection" idx="54-2" eid="0" />
+        <error xtype="extra-sub" idx="54-1" eid="0" />
+        <error xtype="mid4act" idx="54-2" eid="0" />
       </errors>
   </revision>
   <w>taktfast</w>
@@ -972,6 +974,7 @@
     <corrected><w>stafi</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -2854,7 +2857,7 @@
     <original><w>þeim</w></original>
     <corrected><w>þeir</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0" />
+        <error xtype="pro-inflection" eid="0" />
       </errors>
   </revision>
   <w>voru</w>
@@ -2871,7 +2874,7 @@
     <original><w>þessa</w></original>
     <corrected></corrected>
       <errors>
-        <error xtype="extra-word" eid="0" />
+        <error xtype="extra-dem-pro" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -2927,6 +2930,7 @@
     <corrected><w>tónlistarstefnuna</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>salsa</w>

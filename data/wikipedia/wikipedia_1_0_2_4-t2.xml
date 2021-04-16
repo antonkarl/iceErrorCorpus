@@ -155,7 +155,7 @@
     <original><w>fleiri</w></original>
     <corrected><w>fleira</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="pro-inflection" eid="0"/>
       </errors>
   </revision>
   <w>en</w>
@@ -511,6 +511,7 @@
     <corrected><w>fjölskyldum</w><w>sínum</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0"/>
       </errors>
   </revision>
   <c>,</c>
@@ -520,6 +521,7 @@
     <corrected><w>stórfjölskyldum</w><c>,</c></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0"/>
         <error xtype="missing-comma" eid="0"/>
       </errors>
   </revision>

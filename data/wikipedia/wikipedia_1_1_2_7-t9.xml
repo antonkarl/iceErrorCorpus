@@ -62,6 +62,7 @@
     <corrected><w>fönks</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="genitive" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -1226,6 +1227,7 @@
     <corrected><w>áratugurinn</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>tók</w>
@@ -1433,7 +1435,7 @@
     <original><w>plata</w></original>
     <corrected><w>platna</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="67-1" eid="0" />
+        <error xtype="genitive" idx="67-1" eid="0" />
         <error xtype="nominal-inflection" idx="67-1" eid="0" />
       </errors>
   </revision>

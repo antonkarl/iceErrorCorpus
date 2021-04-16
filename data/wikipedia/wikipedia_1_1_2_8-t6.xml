@@ -348,7 +348,7 @@
     <original><w>sækja</w></original>
     <corrected><w>sækjast</w></corrected>
       <errors>
-        <error xtype="verb-inflection" eid="0" />
+        <error xtype="act4mid" eid="0" />
       </errors>
   </revision>
   <w>eftir</w>
@@ -910,6 +910,7 @@
       <errors>
         <error xtype="def4ind" idx="32-1" eid="0" />
         <error xtype="nominal-inflection" idx="32-1" eid="0" />
+        <error xtype="case-verb" idx="32-1" eid="0" />
       </errors>
   </revision>
   <w>fyrr</w>
@@ -965,7 +966,7 @@
     <original><w>textana</w><w>sína</w><w>frá</w></original>
     <corrected></corrected>
       <errors>
-        <error xtype="extra-words" eid="0" />
+        <error xtype="extra-words" idx="35-1" eid="0" />
       </errors>
   </revision>
   <w>ásatrú</w>
@@ -974,7 +975,7 @@
     <original><w>sögum</w></original>
     <corrected><w>sögur</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0" />
+        <error xtype="dep" depId="35-1" eid="0" />
       </errors>
   </revision>
   <w>eftir</w>

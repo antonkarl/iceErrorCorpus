@@ -169,8 +169,8 @@
     <original><w>í</w><w>iðjuleysi</w></original>
     <corrected><w>til</w><w>iðjuleysis</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" idx="29-1" eid="0"/>
-        <error xtype="wording" idx="29-1" eid="0"/>
+        <error xtype="wrong-prep" idx="29-1" eid="0"/>
+        <error xtype="dep" depId="29-1" eid="0"/>
       </errors>
   </revision>
   <w>og</w>

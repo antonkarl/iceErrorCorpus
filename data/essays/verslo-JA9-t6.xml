@@ -219,7 +219,7 @@
     <original><w>virðist</w></original>
     <corrected><w>megi</w><w>virðast</w><c>,</c></corrected>
       <errors>
-        <error xtype="wording" idx="11-1" eid="0"/>
+        <error xtype="aux" idx="11-1" eid="0"/>
         <error xtype="missing-comma" idx="11-2" eid="0"/>
       </errors>
   </revision>
@@ -289,6 +289,7 @@
     <corrected><w>nemendum</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-collocation" eid="0" />
       </errors>
   </revision>
   <w>bæði</w>
@@ -312,6 +313,7 @@
     <corrected><w>fylleríi</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -338,7 +340,8 @@
     <original/>
     <corrected><w>í</w><w>einhverju</w></corrected>
       <errors>
-        <error xtype="wording" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
+        <error xtype="missing-obj" eid="0" />
       </errors>
   </revision>
   <w>sem</w>

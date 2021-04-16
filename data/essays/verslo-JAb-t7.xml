@@ -59,7 +59,8 @@
     <original><w>eru</w><w>flestir</w></original>
     <corrected><w>er</w><w>það</w><w>flest</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0"/>
+        <error xtype="missing-dem-pro" eid="0"/>
+        <error xtype="plural4singular" eid="0" />
       </errors>
   </revision>
   <w>um</w>

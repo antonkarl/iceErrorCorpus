@@ -650,7 +650,7 @@
     <corrected><c>,</c><w>eru</w></corrected>
       <errors>
         <error xtype="missing-comma" eid="0"/>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>fræg</w>
@@ -1520,6 +1520,7 @@
     <corrected><w>textum</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>sem</w>

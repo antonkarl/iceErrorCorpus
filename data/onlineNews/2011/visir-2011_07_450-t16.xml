@@ -105,7 +105,7 @@
     <original><w>sæki</w></original>
     <corrected><w>sækist</w></corrected>
       <errors>
-        <error xtype="verb-inflection" eid="0" />
+        <error xtype="act4mid" eid="0" />
       </errors>
   </revision>
   <w>eftir</w>
@@ -114,7 +114,8 @@
     <original><w>í</w><w>fjármálageirann</w></original>
     <corrected><w>úr</w><w>fjármálageiranum</w></corrected>
       <errors>
-        <error xtype="wording" eid="0" />
+        <error xtype="wrong-prep" idx="3-1" eid="0" />
+        <error xtype="dep" depId="3-1" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -311,7 +312,7 @@
     <original><w>miða</w></original>
     <corrected><w>miðar</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0" />
+        <error xtype="agreement" eid="0" />
       </errors>
   </revision>
   <w>að</w>

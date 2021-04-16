@@ -678,8 +678,7 @@
     <original><w>byrjuðu</w></original>
     <corrected><w>byrja</w></corrected>
       <errors>
-        <error xtype="past4pres" idx="59-1" eid="0" />
-        <error xtype="agreement-pred" idx="59-1" eid="0" />
+        <error xtype="past4pres" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -1401,6 +1400,7 @@
     <corrected><w>rappi</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <c>,</c>

@@ -417,8 +417,9 @@
     <corrected><w>eina</w><w>slíka</w><w>innsetningu</w></corrected>
       <errors>
       	<error xtype="agreement-concord" eid="0"/>
-      	<error xtype="agreement-concord" eid="0"/>
+      	<error xtype="pro-inflection" eid="0"/>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>sem</w>

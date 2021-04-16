@@ -127,6 +127,7 @@
     <corrected><w>hálfleik</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>var</w>
@@ -887,8 +888,7 @@
     <original><w>liggja</w></original>
     <corrected><w>lágu</w></corrected>
       <errors>
-        <error xtype="singular4plural" idx="39-1" eid="0" />
-        <error xtype="agreement-pred" idx="39-1" eid="0" />
+        <error xtype="agreement" eid="0" />
       </errors>
   </revision>
   <w>eftir</w>
@@ -1117,6 +1117,7 @@
     <corrected><w>baráttuhug</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <c>.</c>

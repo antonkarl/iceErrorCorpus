@@ -192,6 +192,7 @@
     <corrected><w>dóttur</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>keisarans</w>
@@ -1132,7 +1133,7 @@
     <original><w>eru</w></original>
     <corrected><w>er</w><w>nú</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement" eid="0"/>
         <error xtype="missing-word" eid="0"/>
       </errors>
   </revision>
@@ -1234,6 +1235,7 @@
     <corrected><w>sálarinnar</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="genitive" eid="0" />
       </errors>
   </revision>
   <w>úr</w>
@@ -1547,6 +1549,7 @@
     <corrected><w>þvermál</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <c>.</c>

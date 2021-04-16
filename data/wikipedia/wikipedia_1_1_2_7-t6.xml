@@ -501,6 +501,7 @@
     <corrected><w>stríð</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-collocation" eid="0"/>
       </errors>
   </revision>
   <w>á</w>
@@ -1034,6 +1035,7 @@
     <original><w>var</w><w>uppskorið</w></original>
     <corrected><w>voru</w><w>uppskornir</w></corrected>
       <errors>
+        <error xtype="agreement" eid="0" />
         <error xtype="agreement-pred" eid="0" />
       </errors>
   </revision>
@@ -3359,7 +3361,8 @@
     <corrected><w>íbúa</w></corrected>
       <errors>
         <error xtype="nominal-inflection" idx="147-1" eid="0" />
-        <error xtype="extra-word" idx="147-2" eid="0" />
+        <error xtype="genitive" idx="147-1" eid="0" />
+        <error xtype="extra-prep" idx="147-2" eid="0" />
       </errors>
   </revision>
   <w>Kasakstan</w>
@@ -3378,7 +3381,7 @@
     <original><w>er</w></original>
     <corrected></corrected>
       <errors>
-        <error xtype="extra-word" eid="0" />
+        <error xtype="extra-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>íbúanna</w>
@@ -3589,7 +3592,8 @@
     <original><w>margir</w></original>
     <corrected><w>mörgum</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0" />
+        <error xtype="pro-inflection" eid="0" />
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>í</w>

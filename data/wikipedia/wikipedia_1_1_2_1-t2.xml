@@ -661,7 +661,7 @@
     <original><w>leiddi</w></original>
     <corrected><w>leiddu</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0" />
+        <error xtype="agreement" eid="0" />
       </errors>
   </revision>
   <w>til</w>
@@ -817,6 +817,7 @@
     <corrected><w>syni</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>hans</w>

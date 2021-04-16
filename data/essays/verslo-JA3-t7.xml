@@ -498,7 +498,7 @@
     <original/>
     <corrected><w>mál</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-obj" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -820,8 +820,7 @@
     <original><w>hefur</w></original>
     <corrected><w>hafa</w></corrected>
       <errors>
-        <error xtype="verb-inflection" idx="24a-1" eid="0" />
-        <error xtype="singular4plural" idx="24a-1" eid="0" />
+        <error xtype="agreement" eid="0" />
       </errors>
   </revision>
   <w>ekkert</w>

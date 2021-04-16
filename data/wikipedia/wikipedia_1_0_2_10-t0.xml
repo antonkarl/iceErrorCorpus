@@ -43,6 +43,7 @@
     <corrected><w>drungarokkshljómsveitum</w><w>miðs</w></corrected>
       <errors>
         <error xtype="nominal-inflection" idx="2-1" eid="0" />
+        <error xtype="case-prep" idx="2-1" eid="0"/>
         <error xtype="wording" idx="2-2" eid="0" />
       </errors>
   </revision>
@@ -52,6 +53,7 @@
     <corrected><w>áratugarins</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="genitive" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -585,6 +587,7 @@
     <corrected><w>kokhljóð</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0"/>
       </errors>
   </revision>
   <w>söngvarans</w>
@@ -1115,6 +1118,7 @@
     <corrected><w>dauðarokkið</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-verb" eid="0"/>
       </errors>
   </revision>
   <c>(</c>

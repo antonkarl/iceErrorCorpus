@@ -341,8 +341,7 @@
     <original><w>ætlar</w></original>
     <corrected><w>ætla</w></corrected>
       <errors>
-        <error xtype="singular4plural" idx="10-1" eid="0" />
-        <error xtype="agreement-pred" idx="10-1" eid="0" />
+        <error xtype="agreement" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -357,8 +356,7 @@
     <corrected><w>og</w><w>hafa</w></corrected>
       <errors>
         <error xtype="missing-conjunction" eid="0" />
-        <error xtype="singular4plural" idx="11-1" eid="0" />
-        <error xtype="agreement-pred" idx="11-1" eid="0" />
+        <error xtype="agreement" idx="11-1" eid="0" />
       </errors>
   </revision>
   <w>nú</w>

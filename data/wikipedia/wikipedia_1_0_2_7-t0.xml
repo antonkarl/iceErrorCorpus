@@ -1426,6 +1426,7 @@
     <corrected><w>alheimstónlistar</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="genitive" eid="0" />
       </errors>
   </revision>
   <w>en</w>
@@ -1440,7 +1441,7 @@
     <original><w>sem</w></original>
     <corrected/>
       <errors>
-        <error xtype="extra-word" eid="0"/>
+        <error xtype="extra-conjunction" eid="0"/>
       </errors>
   </revision>
   <w>tónlistarstefna</w>

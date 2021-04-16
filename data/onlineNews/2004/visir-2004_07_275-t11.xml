@@ -38,6 +38,7 @@
     <corrected><w>manns</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="plural4singular" eid="0" />
       </errors>
   </revision>
   <w>til</w>
@@ -64,6 +65,7 @@
     <corrected><w>manns</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="plural4singular" eid="0" />
       </errors>
   </revision>
   <w>flúið</w>
@@ -77,7 +79,7 @@
     <original></original>
     <corrected><w>hafa</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>fallið</w>

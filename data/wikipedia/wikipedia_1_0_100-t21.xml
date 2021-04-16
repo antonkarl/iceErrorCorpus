@@ -436,6 +436,7 @@
     <corrected><w>Bretland</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0"/>
       </errors>
   </revision>
   <c>,</c>
@@ -1772,6 +1773,8 @@
     <corrected><w>takmarkana</w><c>,</c><w>sem</w><w>settar</w><w>voru</w></corrected>
       <errors>
         <error xtype="nominal-inflection" idx="100-1" eid="0" />
+        <error xtype="case-prep" idx="100-1" eid="0"/>
+        <error xtype="genitive" idx="100-1" eid="0"/>
         <error xtype="missing-comma" idx="100-2" eid="0" />
         <error xtype="missing-conjunction" idx="100-3" eid="0" />
         <error xtype="missing-word" idx="100-3" eid="0" />
@@ -3113,6 +3116,7 @@
     <corrected><w>kerfið</w><w>fyrir</w><w>setningu</w></corrected>
       <errors>
         <error xtype="nominal-inflection" idx="195-1" eid="0" />
+        <error xtype="case-verb" idx="195-1" eid="0"/>
         <error xtype="wording" idx="195-2" eid="0" />
       </errors>
   </revision>
@@ -3195,6 +3199,7 @@
     <corrected><w>reiðhjóli</w><w>er</w><w>að</w><w>verða</w></corrected>
       <errors>
         <error xtype="nominal-inflection" idx="203-1" eid="0" />
+        <error xtype="case-prep" idx="203-1" eid="0"/>
         <error xtype="simple4cont" idx="203-2" eid="0" />
       </errors>
   </revision>
@@ -3224,6 +3229,7 @@
     <corrected><w>aðstöðu</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0"/>
       </errors>
   </revision>
   <w>fyrir</w>
@@ -3260,7 +3266,7 @@
     <original><w>tengja</w></original>
     <corrected><w>tengjast</w></corrected>
       <errors>
-        <error xtype="verb-inflection" eid="0" />
+        <error xtype="act4mid" eid="0" />
       </errors>
   </revision>
   <w>saman</w>
@@ -3609,7 +3615,7 @@
     <corrected><w>tengja</w><w>St.Pancras-lestarstöð</w></corrected>
       <errors>
         <error xtype="wording" idx="227-1" eid="0" />
-        <error xtype="agreement-pred" idx="227-2" eid="0" />
+        <error xtype="agreement" idx="227-2" eid="0" />
         <error xtype="foreign-name" idx="227-3" eid="0" />
       </errors>
   </revision>

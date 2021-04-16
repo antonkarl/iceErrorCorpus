@@ -226,7 +226,7 @@
     <original><w>þarf</w></original>
     <corrected><w>þurfa</w></corrected>
       <errors>
-        <error xtype="verb-inflection" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -844,7 +844,8 @@
     <original><w>mig</w></original>
     <corrected><w>mér</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="pro-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>á</w>

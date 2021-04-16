@@ -260,6 +260,7 @@
     <corrected><w>fjallgarða</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0"/>
       </errors>
   </revision>
   <w>í</w>
@@ -308,7 +309,7 @@
     <corrected><w>eina</w><w>elstu</w></corrected>
       <errors>
         <error xtype="nn4n" idx="24-1" eid="0"/>
-        <error xtype="nominal-inflection" idx="24-1" eid="0"/>
+        <error xtype="number-inflection" idx="24-1" eid="0"/>
         <error xtype="wording" idx="24-2" eid="0"/>
         <error xtype="agreement-concord" idx="24-2" eid="0"/>
       </errors>

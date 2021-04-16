@@ -71,8 +71,8 @@
     <original><w>metnað</w></original>
     <corrected><w>metnaði</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="42-1" eid="0"/>
         <error xtype="nominal-inflection" idx="42-1" eid="0"/>
+        <error xtype="case-prep" idx="42-1" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -742,7 +742,7 @@
     <original><w>stúdentspróf</w></original>
     <corrected><w>stúdentsprófs</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="28-1" eid="0"/>
+        <error xtype="genitive" idx="28-1" eid="0"/>
         <error xtype="nominal-inflection" idx="28-1" eid="0"/>
       </errors>
   </revision>
@@ -777,6 +777,7 @@
       <errors>
         <error xtype="wording" idx="30-1" eid="0"/>
         <error xtype="nominal-inflection" idx="30-2" eid="0"/>
+        <error xtype="case-verb" idx="30-2" eid="0" />
       </errors>
   </revision>
   <w>er</w>
@@ -971,7 +972,8 @@
     <corrected><w>sig</w></corrected>
       <errors>
         <error xtype="extra-word" idx="33-1" eid="0"/>
-        <error xtype="nominal-inflection" idx="33-2" eid="0"/>
+        <error xtype="pro-inflection" idx="33-2" eid="0"/>
+        <error xtype="case-prep" idx="33-2" eid="0" />
       </errors>
   </revision>
   <w>hvenær</w>
@@ -1020,6 +1022,7 @@
     <corrected><w>landsteinana</w></corrected>
       <errors>
         <error xtype="nominal-inflection" idx="14-1" eid="0"/>
+        <error xtype="case-prep" idx="14-1" eid="0" />
         <error xtype="nn4n" idx="14-1" eid="0"/>
       </errors>
   </revision>

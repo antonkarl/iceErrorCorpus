@@ -450,6 +450,7 @@
     <corrected><w>stúlkur</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>með</w>
@@ -1253,6 +1254,7 @@
       <errors>
         <error xtype="extra-comma" idx="83-1" eid="0" />
         <error xtype="nominal-inflection" idx="83-2" eid="0" />
+        <error xtype="case-prep" idx="83-2" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -1264,7 +1266,7 @@
     <corrected><w><hi>The</hi></w><w><hi>Threepenny</hi></w><w><hi>Opera</hi></w><w>komst</w></corrected>
       <errors>
         <error xtype="nonit4it" idx="84-1" eid="0" />
-        <error xtype="verb-inflection" idx="84-2" eid="0" />
+        <error xtype="act4mid" idx="84-2" eid="0" />
       </errors>
   </revision>
   <w>nálægt</w>
@@ -1283,6 +1285,7 @@
       <errors>
         <error xtype="extra-comma" idx="86-1" eid="0" />
         <error xtype="nominal-inflection" idx="86-2" eid="0" />
+        <error xtype="case-prep" idx="86-2" eid="0" />
         <error xtype="extra-comma" idx="86-3" eid="0" />
       </errors>
   </revision>
@@ -1702,6 +1705,7 @@
       <errors>
         <error xtype="missing-accent" idx="116-1" eid="0" />
         <error xtype="nominal-inflection" idx="116-1" eid="0" />
+        <error xtype="case-prep" idx="116-1" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
@@ -2948,7 +2952,7 @@
     <original><w>síðust</w></original>
     <corrected><w>síðustu</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="211-1" eid="0" />
+        <error xtype="agreement-concord" idx="211-1" eid="0" />
         <error xtype="adjective-inflection" idx="211-1" eid="0" />
       </errors>
   </revision>
@@ -2960,6 +2964,7 @@
     <corrected><w>Jesú</w><w>Krists</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="genitive" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -3050,6 +3055,8 @@
         <error xtype="missing-hyphen" idx="219-1" eid="0" />
         <error xtype="n4nn" idx="219-2" eid="0" />
         <error xtype="nominal-inflection" idx="219-2" eid="0" />
+        <error xtype="case-prep" idx="219-2" eid="0" />
+        <error xtype="genitive" idx="219-2" eid="0" />
       </errors>
   </revision>
   <w>á</w>
@@ -4164,6 +4171,7 @@
     <corrected><w>hæla</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>hans</w>
@@ -5135,7 +5143,8 @@
     <original><w>sum</w><w>leiti</w><w>meira</w></original>
     <corrected><w>sumu</w><w>leyti</w><w>frekar</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" idx="354-1" eid="0" />
+        <error xtype="pro-inflection" idx="354-1" eid="0" />
+        <error xtype="agreement-concord" idx="354-1" eid="0" />
         <error xtype="i4y" idx="354-2" eid="0" />
         <error xtype="wording" idx="354-3" eid="0" />
       </errors>

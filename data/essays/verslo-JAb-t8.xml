@@ -424,6 +424,7 @@
     <corrected><w>fjósi</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -858,7 +859,7 @@
     <original><w>hættir</w></original>
     <corrected><w>hætti</w></corrected>
       <errors>
-        <error xtype="verb-inflection" eid="0"/>
+        <error xtype="pres4past" eid="0"/>
       </errors>
   </revision>
   <w>og</w>

@@ -222,7 +222,7 @@
     <original><w>fær</w></original>
     <corrected><w>fá</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>tækifæri</w>
@@ -894,6 +894,7 @@
     <corrected><w>fólks</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="genitive" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -1056,8 +1057,7 @@
     <original><w>íslenskt</w></original>
     <corrected><w>íslensk</w></corrected>
       <errors>
-        <error xtype="agreement-concord" idx="23-1" eid="0"/>
-        <error xtype="missing-letter" idx="23-1" eid="0"/>
+        <error xtype="agreement-concord" eid="0"/>
       </errors>
   </revision>
   <w>orð</w>
@@ -1461,7 +1461,7 @@
     <original><w>hvað</w></original>
     <corrected><w>hvaða</w></corrected>
       <errors>
-        <error xtype="agreement-concord" eid="0"/>
+        <error xtype="interr-pro" eid="0"/>
       </errors>
   </revision>
   <w>ráðstafanir</w>
@@ -1492,8 +1492,7 @@
     <original><w>lýst</w></original>
     <corrected><w>lýsti</w></corrected>
       <errors>
-        <error xtype="agreement-pred" idx="10-1" eid="0"/>
-        <error xtype="missing-letter" idx="10-1" eid="0"/>
+        <error xtype="verb-inflection" eid="0"/>
       </errors>
   </revision>
   <w>sig</w>

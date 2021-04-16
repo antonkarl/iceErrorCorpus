@@ -121,6 +121,7 @@
         <error xtype="missing-hyphen" idx="5-1" eid="0" />
         <error xtype="n4nn" idx="5-2" eid="0" />
         <error xtype="nominal-inflection" idx="5-2" eid="0" />
+        <error xtype="genitive" idx="5-2" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -667,6 +668,7 @@
       <errors>
         <error xtype="dep" depId="33-1" eid="0" />
         <error xtype="nominal-inflection" idx="33-1" eid="0" />
+        <error xtype="case-verb" idx="33-1" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -675,6 +677,7 @@
     <corrected><w>ágóða</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>af</w>
@@ -691,6 +694,8 @@
       <errors>
         <error xtype="n4nn" idx="35-1" eid="0" />
         <error xtype="nominal-inflection" idx="35-1" eid="0" />
+        <error xtype="case-prep" idx="35-1" eid="0" />
+        <error xtype="genitive" idx="35-1" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -1310,7 +1315,7 @@
     <original><w>sölutölur</w></original>
     <corrected><w>sölutölum</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0" />
+        <error xtype="dep" depId="79-2" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -1406,7 +1411,7 @@
     <original><w>á</w><w>borð</w><w>við</w></original>
     <corrected><w>t.d.</w></corrected>
       <errors>
-        <error xtype="wording" eid="0" />
+        <error xtype="wording" idx="85-1" eid="0" />
       </errors>
   </revision>
   <w>Joss</w>
@@ -1416,7 +1421,7 @@
     <corrected><c>,</c><w>handritshöfundur</w></corrected>
       <errors>
         <error xtype="missing-commas" idx="86-1" eid="0" />
-        <error xtype="nominal-inflection" idx="86-2" eid="0" />
+        <error xtype="dep" depId="85-1" eid="0" />
       </errors>
   </revision>
   <w>vampírubanans</w>

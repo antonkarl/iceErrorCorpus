@@ -289,6 +289,7 @@
     <corrected><w>Viðburðinum</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>er</w>
@@ -305,7 +306,7 @@
     <original/>
     <corrected><w>hann</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-sub" eid="0"/>
       </errors>
   </revision>
   <w>vakið</w>

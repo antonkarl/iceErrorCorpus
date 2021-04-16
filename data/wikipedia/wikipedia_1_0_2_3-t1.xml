@@ -45,6 +45,7 @@
     <corrected><w>Þremur</w><w>gerðum</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>veiðarfæra</w>
@@ -350,7 +351,7 @@
     <original><w>það</w></original>
     <corrected><w>hana</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="agreement-pro" eid="0"/>
       </errors>
   </revision>
   <w>á</w>
@@ -447,7 +448,7 @@
     <corrected><w>ansjósunnar</w><w>er</w></corrected>
       <errors>
         <error xtype="wording" eid="0"/>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>kísilþörungar</w>
@@ -678,7 +679,7 @@
     <original><w>notað</w></original>
     <corrected><w>notuð</w></corrected>
       <errors>
-        <error xtype="verb-inflection" eid="0"/>
+        <error xtype="agreement-pred" eid="0"/>
       </errors>
   </revision>
   <w>er</w>
@@ -861,6 +862,7 @@
     <corrected><w>körfur</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
