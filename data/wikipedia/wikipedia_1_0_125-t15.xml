@@ -21,7 +21,7 @@
     <corrected><c>,</c><w>sem</w></corrected>
       <errors>
         <error xtype="bracket4comma" eid="0" />
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-conjunction" eid="0" />
       </errors>
   </revision>
   <w>borið</w>
@@ -29,7 +29,7 @@
     <original></original>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>fram</w>
@@ -811,7 +811,7 @@
     <original></original>
     <corrected><w>það</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>efra</w>
@@ -1049,7 +1049,7 @@
     <corrected><w>en</w><w>í</w></corrected>
       <errors>
         <error xtype="conjunction" eid="0" />
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-prep" eid="0" />
       </errors>
   </revision>
   <w>seinna</w>

@@ -243,7 +243,7 @@
     <original/>
     <corrected><w>þeir</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-sub" eid="0"/>
       </errors>
   </revision>
   <w>skipuðu</w>
@@ -530,7 +530,7 @@
     <corrected><w>en</w><w>hún</w></corrected>
       <errors>
         <error xtype="conjunction" idx="24-1" eid="0"/>
-        <error xtype="missing-word" idx="24-2" eid="0"/>
+        <error xtype="missing-sub" idx="24-2" eid="0"/>
       </errors>
   </revision>
   <w>hljómar</w>
@@ -2042,7 +2042,7 @@
     <corrected><c>.</c><w>Þóttu</w></corrected>
       <errors>
         <error xtype="comma4period" idx="113-1" eid="0"/>
-        <error xtype="missing-word" idx="113-2" eid="0"/>
+        <error xtype="missing-fin-verb" idx="113-2" eid="0"/>
       </errors>
   </revision>
   <w>þeir</w>

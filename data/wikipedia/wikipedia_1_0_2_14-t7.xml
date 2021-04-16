@@ -147,7 +147,7 @@
     <original><w>Stundaði</w></original>
     <corrected><w>Hann</w><w>stundaði</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-sub" eid="0"/>
       </errors>
   </revision>
   <w>nám</w>
@@ -1067,7 +1067,7 @@
     <original><w>Hollywoods</w></original>
     <corrected><w>í</w><w>Hollywood</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="14-1" eid="0"/>
+        <error xtype="missing-prep" idx="14-1" eid="0"/>
         <error xtype="dep" depId="14-1" eid="0"/>
       </errors>
   </revision>
@@ -1095,7 +1095,7 @@
     <corrected><w>í</w></corrected>
       <errors>
         <error xtype="extra-comma" eid="0"/>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
       </errors>
   </revision>
   <w>Kaliforníu</w>
@@ -1109,7 +1109,7 @@
     <corrected><w>í</w></corrected>
       <errors>
         <error xtype="extra-comma" eid="0"/>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
       </errors>
   </revision>
   <w>Arizona</w>

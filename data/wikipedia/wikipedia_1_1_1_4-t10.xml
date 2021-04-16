@@ -23,7 +23,8 @@
     <original/>
     <corrected><w>tegundina</w><w>hvað</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-obj" eid="0"/>
+        <error xtype="missing-word" eid="0" />
       </errors>
   </revision>
   <w>mest</w>
@@ -437,7 +438,7 @@
     <original><w>Heldur</w></original>
     <corrected><w>Fiskurinn</w><w>heldur</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-sub" eid="0"/>
       </errors>
   </revision>
   <w>sig</w>

@@ -31,7 +31,7 @@
     <original></original>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>6. júní 1967</w>
@@ -69,7 +69,7 @@
     <corrected><w>í</w></corrected>
       <errors>
         <error xtype="extra-comma" idx="4-1" eid="0" />
-        <error xtype="missing-word" idx="4-2" eid="0" />
+        <error xtype="missing-prep" idx="4-2" eid="0" />
       </errors>
   </revision>
   <w>Englandi</w>
@@ -152,7 +152,7 @@
     <original><w>Hefur</w><w>síðan</w><w>2008</w></original>
     <corrected><w>Hann</w><w>hefur</w><w>frá</w><w>árinu 2008</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="8-1" eid="0" />
+        <error xtype="missing-sub" idx="8-1" eid="0" />
         <error xtype="wording" idx="8-2" eid="0" />
         <error xtype="missing-word" idx="8-3" eid="0" />
       </errors>

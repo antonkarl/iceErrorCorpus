@@ -859,7 +859,7 @@
     <original><w>sambandslögin</w><w>1707</w></original>
     <corrected><w>samþykkt</w><w>sambandslaganna</w><w>árið 1707</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="2-1" eid="0"/>
+        <error xtype="missing-obj" idx="2-1" eid="0"/>
         <error xtype="dep" depId="2-1" eid="0"/>
         <error xtype="missing-word" idx="2-2" eid="0"/>
       </errors>
@@ -875,7 +875,7 @@
       <errors>
         <error xtype="missing-conjunction" idx="58-1" eid="0"/>
         <error xtype="missing-fin-verb" idx="58-2" eid="0"/>
-        <error xtype="missing-word" idx="58-3" eid="0"/>
+        <error xtype="missing-obj" idx="58-3" eid="0"/>
       </errors>
   </revision>
   <w>til</w>
@@ -1935,7 +1935,7 @@
     <original/>
     <corrected><w>það</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-sub" eid="0"/>
       </errors>
   </revision>
   <w>sitt</w>
@@ -2328,7 +2328,7 @@
     <original/>
     <corrected><w>væri</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -2892,7 +2892,7 @@
     <original/>
     <corrected><w>því</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-obj" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -4554,7 +4554,7 @@
     <original/>
     <corrected><w>það</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-obj" eid="0"/>
       </errors>
   </revision>
   <w>hvernig</w>

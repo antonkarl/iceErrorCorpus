@@ -191,7 +191,7 @@
     <original/>
     <corrected><w>í</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
       </errors>
   </revision>
   <w>8 km</w>
@@ -204,7 +204,7 @@
     <original/>
     <corrected><w>Þann</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-dem-pro" eid="0"/>
       </errors>
   </revision>
   <w>28. október 2009</w>
@@ -588,7 +588,8 @@
     <original/>
     <corrected><w>sem</w><w>rann</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>niður</w>
@@ -637,7 +638,7 @@
     <original/>
     <corrected><w>til</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -965,7 +966,7 @@
     <original/>
     <corrected><w>fjölgaði</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0"/>
       </errors>
   </revision>
   <w>síðar</w>

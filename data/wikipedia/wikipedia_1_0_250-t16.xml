@@ -63,7 +63,7 @@
     <corrected><w>á</w></corrected>
       <errors>
         <error xtype="extra-period" idx="85-1" eid="0"/>
-        <error xtype="missing-word" idx="85-2" eid="0"/>
+        <error xtype="missing-prep" idx="85-2" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -477,7 +477,7 @@
     <original><w>u.þ.b.</w></original>
     <corrected><w>er</w><w>um</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="42-1" eid="0"/>
+        <error xtype="missing-fin-verb" idx="42-1" eid="0"/>
         <error xtype="wording" idx="42-2" eid="0"/>
       </errors>
   </revision>
@@ -799,7 +799,7 @@
     <original><w>Mozambique</w></original>
     <corrected><w>í</w><w>Mósambík</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
       </errors>
   </revision>
   <w>eru</w>
@@ -828,7 +828,7 @@
       <errors>
         <error xtype="wording" idx="105-1" eid="0"/>
         <error xtype="extra-space" idx="105-2" eid="0"/>
-        <error xtype="missing-word" idx="105-3" eid="0"/>
+        <error xtype="missing-fin-verb" idx="105-3" eid="0"/>
       </errors>
   </revision>
   <w>lífslíkur</w>
@@ -856,7 +856,7 @@
     <corrected><w>við</w></corrected>
       <errors>
         <error xtype="wording" idx="108-1" eid="0"/>
-        <error xtype="missing-word" idx="108-2" eid="0"/>
+        <error xtype="missing-prep" idx="108-2" eid="0"/>
       </errors>
   </revision>
   <w>51</w>
@@ -1524,7 +1524,7 @@
     <original/>
     <corrected><w>til</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
       </errors>
   </revision>
   <w>Mósambík</w>
@@ -1740,7 +1740,7 @@
     <original><w>honum</w></original>
     <corrected/>
       <errors>
-        <error xtype="extra-word" eid="0"/>
+        <error xtype="extra-sub" eid="0"/>
       </errors>
   </revision>
   <w>lýkur</w>
@@ -1813,7 +1813,7 @@
       <errors>
         <error xtype="def4ind" idx="16-1" eid="0"/>
         <error xtype="missing-comma" idx="16-2" eid="0"/>
-        <error xtype="missing-word" idx="16-3" eid="0"/>
+        <error xtype="missing-prep" idx="16-3" eid="0"/>
       </errors>
   </revision>
   <w>milli</w>

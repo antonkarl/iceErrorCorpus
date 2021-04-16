@@ -21,7 +21,7 @@
     <corrected><c>,</c><w>eða</w></corrected>
       <errors>
         <error xtype="bracket4comma" eid="0" />
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-conjunction" eid="0" />
       </errors>
   </revision>
   <w>Jamhuri</w>
@@ -128,7 +128,7 @@
     <original></original>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>láglent</w>
@@ -449,7 +449,7 @@
     <corrected><w>heldur</w><w>fara</w><w>þeir</w></corrected>
       <errors>
         <error xtype="upper4lower-noninitial" idx="21-1" eid="0" />
-        <error xtype="missing-word" idx="21-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="21-2" eid="0" />
         <error xtype="missing-sub" idx="21-3" eid="0"/>
       </errors>
   </revision>

@@ -344,7 +344,7 @@
     <original></original>
     <corrected><w>glæpinn</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-obj" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -603,7 +603,7 @@
     <original></original>
     <corrected><w>Þegar</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-conjunction" eid="0" />
       </errors>
   </revision>
   <w>Tammy</w>
@@ -668,7 +668,7 @@
     <original></original>
     <corrected><w>fanginni</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-obj" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -884,7 +884,7 @@
     <original><w>17 febrúar 1993</w></original>
     <corrected><w>Þann</w><w>17. febrúar 1993</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-dem-pro" eid="0" />
         <error xtype="missing-period" eid="0" />
       </errors>
   </revision>

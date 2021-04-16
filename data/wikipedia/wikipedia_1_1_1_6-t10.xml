@@ -114,7 +114,7 @@
     <original/>
     <corrected><w>sér</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-obj" eid="0"/>
       </errors>
   </revision>
   <w>þá</w>
@@ -513,7 +513,7 @@
     <original/>
     <corrected><w>voru</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0"/>
       </errors>
   </revision>
   <w>tvær</w>
@@ -984,7 +984,7 @@
     <corrected><w>séð</w><w>hann</w></corrected>
       <errors>
         <error xtype="dep" depId="14-1" eid="0"/>
-        <error xtype="missing-word" idx="15-1" eid="0"/>
+        <error xtype="missing-sub" idx="15-1" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -1031,7 +1031,7 @@
     <original/>
     <corrected><w>hann</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-sub" eid="0"/>
       </errors>
   </revision>
   <w>prest</w>

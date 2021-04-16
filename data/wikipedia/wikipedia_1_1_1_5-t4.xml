@@ -219,7 +219,7 @@
     <original><w>verslun</w></original>
     <corrected><w>vegna</w><w>verslunar</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="4-1" eid="0"/>
+        <error xtype="missing-prep" idx="4-1" eid="0"/>
         <error xtype="dep" depId="4-1" eid="0"/>
       </errors>
   </revision>
@@ -522,7 +522,7 @@
     <original/>
     <corrected><w>ríki</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-obj" eid="0"/>
       </errors>
   </revision>
   <w>eftir</w>

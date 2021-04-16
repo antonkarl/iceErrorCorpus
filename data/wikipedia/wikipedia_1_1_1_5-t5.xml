@@ -183,7 +183,7 @@
     <original/>
     <corrected><w>þær</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-sub" eid="0"/>
       </errors>
   </revision>
   <w>notaðar</w>
@@ -212,7 +212,7 @@
       <errors>
         <error xtype="comma4conjunction" idx="10-1" eid="0"/>
         <error xtype="dep" depId="9-1" eid="0"/>
-        <error xtype="missing-word" idx="10-2" eid="0"/>
+        <error xtype="missing-fin-verb" idx="10-2" eid="0"/>
       </errors>
   </revision>
   <w>en</w>

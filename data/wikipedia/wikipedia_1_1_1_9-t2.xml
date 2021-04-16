@@ -493,7 +493,7 @@
     <corrected><c>.</c><w>Hann</w></corrected>
       <errors>
         <error xtype="comma4period" idx="3-1" eid="0"/>
-        <error xtype="missing-word" idx="3-2" eid="0"/>
+        <error xtype="missing-sub" idx="3-2" eid="0"/>
       </errors>
   </revision>
   <w>hefur</w>
@@ -526,7 +526,7 @@
     <original><w>Mattheusarpassían</w></original>
     <corrected><w>með</w><w>Mattheusarpassíunni</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="5-1" eid="0"/>
+        <error xtype="missing-prep" idx="5-1" eid="0"/>
         <error xtype="dep" depId="5-1" eid="0"/>
       </errors>
   </revision>
@@ -609,7 +609,7 @@
     <original/>
     <corrected><w>á</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
       </errors>
   </revision>
   <w>rás</w>

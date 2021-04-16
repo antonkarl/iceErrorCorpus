@@ -558,7 +558,7 @@
     <original></original>
     <corrected><w>í</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-prep" eid="0" />
       </errors>
   </revision>
   <w>atvinnugreinum</w>
@@ -588,7 +588,7 @@
     <original></original>
     <corrected><w>hækkaði</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -1758,7 +1758,7 @@
     <corrected><w>og</w><w>var</w></corrected>
       <errors>
         <error xtype="conjunction" idx="112-1" eid="0" />
-        <error xtype="missing-word" idx="112-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="112-2" eid="0" />
       </errors>
   </revision>
   <w>hluti</w>
@@ -1895,7 +1895,7 @@
     <original></original>
     <corrected><w>þær</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-obj" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -2045,7 +2045,7 @@
     <original></original>
     <corrected><w>í</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-prep" eid="0" />
       </errors>
   </revision>
   <w>hollensku</w>

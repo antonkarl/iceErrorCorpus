@@ -103,7 +103,7 @@
     <original><w>Kom</w></original>
     <corrected><w>Hann</w><w>kom</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -460,7 +460,7 @@
     <original></original>
     <corrected><w>sem</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-conjunction" eid="0" />
       </errors>
   </revision>
   <w>rekstrarstjóri</w>
@@ -505,7 +505,7 @@
     <original><w>Var</w></original>
     <corrected><w>Stefán</w><w>var</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>kjörinn</w>
@@ -542,7 +542,7 @@
     <original><w>Hefur</w></original>
     <corrected><w>Hann</w><w>hefur</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>starfað</w>

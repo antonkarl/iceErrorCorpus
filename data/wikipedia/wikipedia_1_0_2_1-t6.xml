@@ -296,7 +296,7 @@
     <original><w>5</w><c>-</c><w>6</w></original>
     <corrected><w>eru</w><w>fimm</w><w>til</w><w>sex</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="4-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="4-1" eid="0" />
         <error xtype="number4word" idx="4-2" eid="0" />
         <error xtype="symbol4word" idx="4-3" eid="0" />
         <error xtype="number4word" idx="4-4" eid="0" />
@@ -425,7 +425,7 @@
     <original></original>
     <corrected><w>eru</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>talin</w>

@@ -67,7 +67,7 @@
     <original></original>
     <corrected><w>leikmönnum</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-obj" eid="0" />
       </errors>
   </revision>
   <w>erfitt</w>
@@ -79,7 +79,7 @@
     <original><w>gerðu</w></original>
     <corrected></corrected>
       <errors>
-        <error xtype="extra-word" eid="0" />
+        <error xtype="extra-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>aðstæður</w>
@@ -151,7 +151,7 @@
     <original></original>
     <corrected><w>henni</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>lýkur</w>

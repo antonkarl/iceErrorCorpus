@@ -502,7 +502,7 @@
     <original/>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-inf-part" eid="0"/>
       </errors>
   </revision>
   <w>skrifa</w>
@@ -544,7 +544,7 @@
     <original><w>Hitchhikers</w><w>Guide</w><w>to</w><w>the</w><w>Galaxy</w></original>
     <corrected><w>bókina</w><w><hi>Hitchhikers</hi></w><w><hi>Guide</hi></w><w><hi>to</hi></w><w><hi>the</hi></w><w><hi>Galaxy</hi></w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-obj" eid="0"/>
         <error xtype="nonit4it" eid="0"/>
       </errors>
   </revision>
