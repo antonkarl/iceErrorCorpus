@@ -152,7 +152,7 @@
     <corrected><w>sem</w></corrected>
       <errors>
         <error xtype="extra-word" eid="0" />
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-conjunction" eid="0" />
       </errors>
   </revision>
   <w>litlir</w>
@@ -258,7 +258,7 @@
     <original></original>
     <corrected><w>loftið</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-obj" eid="0" />
       </errors>
   </revision>
   <w>til</w>
@@ -380,7 +380,7 @@
     <original></original>
     <corrected><w>frá</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-prep" eid="0" />
       </errors>
   </revision>
   <w>útblæstri</w>

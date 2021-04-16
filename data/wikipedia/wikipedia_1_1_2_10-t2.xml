@@ -771,7 +771,8 @@
     <corrected><w>sem</w><w>eru</w></corrected>
       <errors>
         <error xtype="extra-bracket" idx="11-1" eid="0" />
-        <error xtype="missing-words" idx="11-2" eid="0" />
+        <error xtype="missing-conjunction" idx="11-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="11-3" eid="0" />
       </errors>
   </revision>
   <w>kosnir</w>
@@ -846,7 +847,7 @@
     <corrected><w>og</w><w>telur</w></corrected>
       <errors>
         <error xtype="comma4conjunction" idx="13-1" eid="0" />
-        <error xtype="missing-word" idx="13-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="13-2" eid="0" />
       </errors>
   </revision>
   <w>aðeins</w>
@@ -966,7 +967,7 @@
     <corrected><c>.</c><w>Það</w></corrected>
       <errors>
         <error xtype="conjunction4period" idx="16-1" eid="0" />
-        <error xtype="missing-word" idx="16-2" eid="0" />
+        <error xtype="missing-sub" idx="16-2" eid="0" />
       </errors>
   </revision>
   <w>er</w>
@@ -1161,7 +1162,7 @@
     <original></original>
     <corrected><w>þann</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-dem-pro" eid="0" />
       </errors>
   </revision>
   <w>9. ágúst 2003</w>
@@ -1174,7 +1175,7 @@
     <original></original>
     <corrected><w>þann</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-dem-pro" eid="0" />
       </errors>
   </revision>
   <w>5. janúar 1894</w>

@@ -27,7 +27,7 @@
       <errors>
         <error xtype="extra-comma" eid="0" />
         <error xtype="missing-conjunction" eid="0" />
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>samtals</w>
@@ -667,8 +667,7 @@
     <original><w>að</w></original>
     <corrected></corrected>
       <errors>
-        <error xtype="extra-word" idx="37-1" eid="0" />
-        <error xtype="style" idx="37-1" eid="0" />
+        <error xtype="extra-conjunction" eid="0" />
       </errors>
   </revision>
   <w>þeir</w>
@@ -810,7 +809,7 @@
     <original></original>
     <corrected><w>Í</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-prep" eid="0" />
       </errors>
   </revision>
   <w>Hauksbók</w>
@@ -904,7 +903,7 @@
     <corrected><w>þá</w><c>.</c><w>Fyrst</w><w>með</w></corrected>
       <errors>
         <error xtype="hyphen4period" eid="0" />
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-prep" eid="0" />
       </errors>
   </revision>
   <w>um</w>

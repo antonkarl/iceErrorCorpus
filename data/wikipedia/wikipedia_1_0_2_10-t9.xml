@@ -19,7 +19,7 @@
     <original><w>Með</w><w>hjartað</w><w>í</w><w>buxunum</w></original>
     <corrected><w>Bókin</w><w><hi>Með</hi></w><w><hi>hjartað</hi></w><w><hi>í</hi></w><w><hi>buxunum</hi></w></corrected>
       <errors>
-        <error xtype="missing-word" idx="1-1" eid="0" />
+        <error xtype="missing-sub" idx="1-1" eid="0" />
         <error xtype="nonit4it" idx="1-2" eid="0" />
       </errors>
   </revision>
@@ -337,7 +337,7 @@
     <original></original>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>leigumorðingi</w>

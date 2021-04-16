@@ -22,7 +22,7 @@
     <corrected><w>var</w></corrected>
       <errors>
         <error xtype="extra-bracket" idx="1-1" eid="0"/>
-        <error xtype="missing-word" idx="1-2" eid="0"/>
+        <error xtype="missing-fin-verb" idx="1-2" eid="0"/>
       </errors>
   </revision>
   <w>ábóti</w>
@@ -192,7 +192,7 @@
       <errors>
         <error xtype="extra-punctuation" idx="6-1" eid="0"/>
         <error xtype="missing-square" idx="6-2" eid="0"/>
-        <error xtype="missing-word" idx="6-3" eid="0"/>
+        <error xtype="missing-sub" idx="6-3" eid="0"/>
         <error xtype="missing-square" idx="6-2" eid="0"/>
       </errors>
   </revision>

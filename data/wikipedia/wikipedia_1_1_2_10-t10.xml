@@ -101,7 +101,7 @@
     <original><w>Stundaði</w></original>
     <corrected><w>Hann</w><w>stundaði</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>leiklist</w>
@@ -175,7 +175,7 @@
     <original><w>Spilar</w></original>
     <corrected><w>Hann</w><w>spilaði</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>á</w>
@@ -248,7 +248,7 @@
     <original></original>
     <corrected><w>sem</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-conjunction" eid="0" />
       </errors>
   </revision>
   <w>gestaleikari</w>
@@ -353,7 +353,7 @@
     <original><w>Hefur</w><w>verið</w></original>
     <corrected><w>Hann</w><w>var</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="24-1" eid="0" />
+        <error xtype="missing-sub" idx="24-1" eid="0" />
         <error xtype="wording" idx="24-2" eid="0" />
       </errors>
   </revision>

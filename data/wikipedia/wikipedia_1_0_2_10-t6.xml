@@ -731,7 +731,7 @@
     <original></original>
     <corrected><w>var</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -773,7 +773,7 @@
     <original></original>
     <corrected><w>lið</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>Amsterdam</w>
@@ -898,7 +898,7 @@
     <corrected><c>,</c><w>þann</w></corrected>
       <errors>
         <error xtype="missing-comma" idx="19-1" eid="0" />
-        <error xtype="missing-word" idx="19-2" eid="0" />
+        <error xtype="missing-dem-pro" idx="19-2" eid="0" />
       </errors>
   </revision>
   <w>13. júlí</w>
@@ -1214,7 +1214,7 @@
     <original></original>
     <corrected><w>í</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-prep" eid="0" />
       </errors>
   </revision>
   <w>Haarlem</w>
@@ -1938,7 +1938,7 @@
     <original></original>
     <corrected><w>Þann</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-dem-pro" eid="0" />
       </errors>
   </revision>
   <w>22. september</w>

@@ -1114,7 +1114,7 @@
     <original><w>Meðan</w></original>
     <corrected><w>En</w><w>meðan</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
       </errors>
   </revision>
   <w>segja</w>
@@ -1236,7 +1236,7 @@
     <original/>
     <corrected><w>eða</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
       </errors>
   </revision>
   <w>þar</w>
@@ -2702,7 +2702,7 @@
     <original/>
     <corrected><w>hliðina</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-obj" eid="0"/>
       </errors>
   </revision>
   <c>,</c>

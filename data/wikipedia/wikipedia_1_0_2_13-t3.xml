@@ -34,7 +34,7 @@
     <original/>
     <corrected><w>hún</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-sub" eid="0"/>
       </errors>
   </revision>
   <w>síðan</w>
@@ -222,8 +222,8 @@
     <original><w>Hefur</w><w>verið</w></original>
     <corrected><w>Hún</w><w>var</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="9-1" eid="0"/>
-        <error xtype="wording" idx="9-1" eid="0"/>
+        <error xtype="missing-sub" idx="9-1" eid="0"/>
+        <error xtype="perfect4tense" idx="9-1" eid="0"/>
       </errors>
   </revision>
   <w>kynnir</w>
@@ -438,7 +438,7 @@
     <original><w>Hefur</w></original>
     <corrected><w>Hún</w><w>hefur</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-sub" eid="0"/>
       </errors>
   </revision>
   <w>síðan</w>

@@ -406,7 +406,7 @@
     <original/>
     <corrected><w>hina</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0"/>
       </errors>
   </revision>
   <w>fljúgandi</w>
@@ -508,7 +508,7 @@
     <corrected><w>efnaorku</w><w>yfir</w><w>í</w></corrected>
       <errors>
         <error xtype="wording" idx="15-1" eid="0"/>
-        <error xtype="missing-word" idx="15-2" eid="0"/>
+        <error xtype="missing-prep" idx="15-2" eid="0"/>
       </errors>
   </revision>
   <w>raforku</w>
