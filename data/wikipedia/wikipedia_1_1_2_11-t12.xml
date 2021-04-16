@@ -670,7 +670,8 @@
     <corrected><w>tónlistarhátíð</w></corrected>
       <errors>
         <error xtype="nominal-inflection" idx="20-1" eid="0" />
-        <error xtype="extra-word" idx="20-2" eid="0" />
+        <error xtype="case-prep" idx="20-1" eid="0" />
+        <error xtype="extra-prep" idx="20-2" eid="0" />
       </errors>
   </revision>
   <w>Belgíu</w>
@@ -760,7 +761,8 @@
     <original><w>sína</w></original>
     <corrected><w>sinni</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0" />
+        <error xtype="pro-inflection" eid="0" />
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <c>.</c>

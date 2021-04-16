@@ -744,7 +744,7 @@
     <original><w>er</w></original>
     <corrected><w>hefur</w><c>,</c></corrected>
       <errors>
-        <error xtype="wording" idx="171-1" eid="0"/>
+        <error xtype="aux" idx="171-1" eid="0"/>
         <error xtype="missing-commas" idx="171-2" eid="0"/>
       </errors>
   </revision>
@@ -846,7 +846,7 @@
     <original><w>árs</w></original>
     <corrected><w>ára</w></corrected>
       <errors>
-        <error xtype="agreement-concord" eid="0"/>
+        <error xtype="singular4plural" eid="0"/>
       </errors>
   </revision>
   <w>aldur</w>
@@ -1544,7 +1544,7 @@
     <original><w>af</w></original>
     <corrected/>
       <errors>
-        <error xtype="extra-word" eid="0"/>
+        <error xtype="extra-prep" idx="116-1" eid="0"/>
       </errors>
   </revision>
   <w>stærstu</w>
@@ -1561,7 +1561,7 @@
     <corrected><w>uppistöðulón</w></corrected>
       <errors>
         <error xtype="missing-letter" idx="68-1" eid="0"/>
-        <error xtype="nominal-inflection" idx="68-1" eid="0"/>
+        <error xtype="dep" depId="116-1" eid="0"/>
       </errors>
   </revision>
   <w>heims</w>

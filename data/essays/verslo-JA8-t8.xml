@@ -25,6 +25,7 @@
     <corrected><w>bróður</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="cae-verb" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -40,7 +41,7 @@
     <original><w>hafði</w><w>átt</w></original>
     <corrected><w>átti</w></corrected>
       <errors>
-        <error xtype="wording" eid="0"/>
+        <error xtype="perfect4tense" eid="0"/>
       </errors>
   </revision>
   <w>það</w>
@@ -156,8 +157,8 @@
     <original><w>mér</w></original>
     <corrected><w>mig</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" idx="5-1" eid="0"/>
-        <error xtype="collocation" idx="5-1" eid="0"/>
+        <error xtype="pro-inflection" idx="5-1" eid="0"/>
+        <error xtype="case-collocation" idx="5-1" eid="0"/>
       </errors>
   </revision>
   <w>vitinu</w>
@@ -326,7 +327,7 @@
     <original><w>að</w></original>
     <corrected/>
       <errors>
-        <error xtype="extra-word" eid="0"/>
+        <error xtype="extra-conjunction" eid="0"/>
       </errors>
   </revision>
   <w>hafa</w>
@@ -355,6 +356,7 @@
     <corrected><w>Sóleyju</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="genitive" eid="0" />
       </errors>
   </revision>
   <w>margfaldaðist</w>
@@ -1471,6 +1473,7 @@
     <corrected><w>Jafeti</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>upp</w>
@@ -1872,6 +1875,7 @@
     <corrected><w>Jafet</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>og</w>

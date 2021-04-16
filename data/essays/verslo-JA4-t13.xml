@@ -202,7 +202,7 @@
     <original><w>við</w><w>vitum</w></original>
     <corrected><w>vita</w></corrected>
       <errors>
-        <error xtype="verb-inflection" eid="0"/>
+        <error xtype="extra-sub" eid="0"/>
       </errors>
   </revision>
   <w>ekki</w>
@@ -212,7 +212,6 @@
     <corrected><w>ég</w><w>vil</w></corrected>
       <errors>
         <error xtype="agreement-pro" eid="0"/>
-        <error xtype="agreement-pred" eid="0"/>
       </errors>
   </revision>
   <w>gera</w>
@@ -223,7 +222,6 @@
     <corrected><w>ég</w><w>vil</w></corrected>
       <errors>
         <error xtype="agreement-pro" eid="0"/>
-        <error xtype="agreement-pred" eid="0"/>
       </errors>
   </revision>
   <w>fá</w>
@@ -870,8 +868,7 @@
     <original><w>vill</w></original>
     <corrected><w>vil</w></corrected>
       <errors>
-        <error xtype="extra-letter" idx="33-1" eid="0"/>
-        <error xtype="agreement-pred" idx="33-1" eid="0"/>
+        <error xtype="agreement" idx="33-1" eid="0"/>
       </errors>
   </revision>
   <w>lifa</w>

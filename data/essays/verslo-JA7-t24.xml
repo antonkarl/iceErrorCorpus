@@ -614,7 +614,9 @@
     <original><w>öllum</w></original>
     <corrected><w>alla</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-verb" eid="0"/>
+        <error xtype="dative-sub" eid="0" />
+        <error xtype="pro-inflection" eid="0" />
       </errors>
   </revision>
   <w>að</w>

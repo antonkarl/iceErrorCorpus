@@ -591,6 +591,7 @@
     <corrected><w>ár</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>komst</w>
@@ -1748,7 +1749,9 @@
     <corrected><c>,</c><w>Latóseðla</w></corrected>
       <errors>
         <error xtype="dep" depId="44-1" eid="0"/>
-        <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="extra-prep" idx="86-1" eid="0" />
+        <error xtype="nominal-inflection" idx="86-2" eid="0"/>
+        <error xtype="case-prep" idx="86-2" eid="0" />
       </errors>
   </revision>
   <w>sem</w>

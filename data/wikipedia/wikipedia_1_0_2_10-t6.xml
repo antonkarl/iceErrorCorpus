@@ -319,7 +319,8 @@
     <original><w>Nýja</w></original>
     <corrected><w>Nýju</w></corrected>
       <errors>
-        <error xtype="agreement-concord" eid="0" />
+        <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>Amsterdam</w>
@@ -330,7 +331,7 @@
     <original><w>fékk</w></original>
     <corrected></corrected>
       <errors>
-        <error xtype="extra-word" eid="0" />
+        <error xtype="repeat-word-split" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -1102,6 +1103,7 @@
     <corrected><w>efnis</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="genitive" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -1129,7 +1131,7 @@
     <original><w>var</w></original>
     <corrected></corrected>
       <errors>
-        <error xtype="extra-word" eid="0" />
+        <error xtype="extra-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>stóð</w>
@@ -1173,7 +1175,7 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-conjunction" eid="0" />
       </errors>
   </revision>
   <w>margir</w>
@@ -1545,6 +1547,8 @@
     <corrected><w>hafnbanns</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="cae-prep" eid="0" />
+        <error xtype="genitive" eid="0" />
       </errors>
   </revision>
   <w>Englendinga</w>
@@ -1749,6 +1753,7 @@
     <corrected><w>heimasmíðaðri</w></corrected>
       <errors>
         <error xtype="adjective-inflection" eid="0" />
+        <error xtype="agreement-concord" eid="0" />
       </errors>
   </revision>
   <w>flugvél</w>

@@ -55,7 +55,8 @@
     <original><w>sjálfan</w></original>
     <corrected><w>sjálfum</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="pro-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>bæjarhólnum</w>
@@ -575,7 +576,7 @@
     <corrected><w>Þór</w><w>Magnússon</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
-        <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-collocation" eid="0"/>
       </errors>
   </revision>
   <c>,</c>
@@ -594,7 +595,7 @@
     <corrected><w>Hörð</w><w>Ágústsson</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
-        <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-collocation" eid="0"/>
       </errors>
   </revision>
   <c>,</c>
@@ -602,7 +603,7 @@
     <original><w>sérfræðings</w></original>
     <corrected><w>sérfræðing</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-collocation" eid="0"/>
       </errors>
   </revision>
   <w>um</w>
@@ -1370,6 +1371,7 @@
     <corrected><w>Borgarhóli</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -1499,6 +1501,7 @@
     <corrected><w>þráðarlegg</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>af</w>
@@ -2338,6 +2341,7 @@
     <corrected><w>Stóru-Borg</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -2418,6 +2422,7 @@
       <errors>
         <error xtype="missing-hyphen" idx="63-1" eid="0"/>
         <error xtype="nominal-inflection" idx="63-1" eid="0"/>
+        <error xtype="case-prep" idx="63-1" eid="0" />
         <error xtype="lower4upper-proper" idx="63-1" eid="0"/>
       </errors>
   </revision>
@@ -2794,6 +2799,7 @@
     <corrected><w>Borgarhóli</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -3504,6 +3510,7 @@
     <corrected><w>bútanna</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>af</w>
@@ -3698,6 +3705,7 @@
     <corrected><w>Stóru-Borg</w></corrected>
       <errors>
         <error xtype="nominal-inflection" idx="93-1" eid="0"/>
+        <error xtype="case-prep" idx="93-1" eid="0" />
         <error xtype="missing-hyphen" idx="93-1" eid="0"/>
         <error xtype="lower4upper-proper" idx="93-1" eid="0"/>
       </errors>
@@ -3854,6 +3862,7 @@
     <corrected><w>Stóru-Borg</w></corrected>
       <errors>
         <error xtype="nominal-inflection" idx="83-1" eid="0"/>
+        <error xtype="case-prep" idx="83-1" eid="0" />
         <error xtype="missing-hyphen" idx="83-1" eid="0"/>
         <error xtype="lower4upper-proper" idx="83-1" eid="0"/>
       </errors>

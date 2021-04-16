@@ -354,6 +354,7 @@
     <corrected><w>kennslumálinu</w></corrected>
       <errors>
         <error xtype="nominal-inflection" idx="38-1" eid="0"/>
+        <error xtype="case-prep" idx="38-1" eid="0" />
         <error xtype="ind4def" idx="38-1" eid="0"/>
       </errors>
   </revision>
@@ -791,6 +792,7 @@
     <corrected><w>flestar</w></corrected>
       <errors>
         <error xtype="adjective-inflection" eid="0"/>
+        <error xtype="agreement-pred" eid="0" />
       </errors>
   </revision>
   <w>á</w>

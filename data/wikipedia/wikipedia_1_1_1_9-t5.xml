@@ -467,6 +467,7 @@
     <corrected><w>skildi</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>á</w>
@@ -721,7 +722,8 @@
     <original><w>er</w><w>veitt</w></original>
     <corrected><w>eru</w><w>veidd</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement" eid="0"/>
+        <error xtype="agreement-pred" eid="0" />
       </errors>
   </revision>
   <w>um</w>
@@ -832,6 +834,7 @@
     <corrected><w>ár</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>á</w>

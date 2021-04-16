@@ -79,7 +79,7 @@
     <original/>
     <corrected><w>á</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-prep" idx="4-1" eid="0"/>
       </errors>
   </revision>
   <w>iOS</w>
@@ -88,6 +88,7 @@
     <corrected><w>stýrikerfinu</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="dep" depId="4-1" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
@@ -101,7 +102,7 @@
     <original/>
     <corrected><w>á</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -179,7 +180,7 @@
     <corrected><w>forritum</w></corrected>
       <errors>
         <error xtype="nominal-inflection" idx="5-1" eid="0"/>
-        <error xtype="singular4plural" idx="5-1" eid="0"/>
+        <error xtype="case-collocation" idx="5-1" eid="0"/>
       </errors>
   </revision>
   <w>beint</w>

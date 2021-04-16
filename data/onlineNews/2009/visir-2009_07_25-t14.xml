@@ -135,7 +135,7 @@
     <original><w>refsa</w></original>
     <corrected><w>refsar</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0" />
+        <error xtype="agreement" eid="0" />
       </errors>
   </revision>
   <w>okkur</w>
@@ -240,8 +240,7 @@
     <original><w>geta</w></original>
     <corrected><w>getað</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="5b-1" eid="0" />
-        <error xtype="verb-inflection" idx="5b-1" eid="0" />
+        <error xtype="verb-inflection" eid="0" />
       </errors>
   </revision>
   <w>gert</w>

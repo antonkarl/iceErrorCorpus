@@ -296,6 +296,7 @@
       <errors>
         <error xtype="dep" depId="17-1" eid="0"/>
         <error xtype="nominal-inflection" idx="17-1" eid="0"/>
+        <error xtype="case-verb" idx="17-1" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -898,6 +899,7 @@
         <error xtype="upper4lower-common" idx="16-1" eid="0"/>
         <error xtype="nn4n" idx="16-2" eid="0"/>
         <error xtype="nominal-inflection" idx="16-2" eid="0"/>
+        <error xtype="case-prep" idx="16-2" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -940,6 +942,7 @@
     <corrected><w>fréttabréfi</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>þeirra</w>

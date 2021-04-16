@@ -248,6 +248,7 @@
     <corrected><w>Íslandi</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>er</w>
@@ -266,7 +267,8 @@
     <original><w>á</w><w>Íslandi</w></original>
     <corrected/>
       <errors>
-        <error xtype="extra-words" eid="0"/>
+        <error xtype="extra-prep" eid="0"/>
+        <error xtype="extra-word" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -707,7 +709,7 @@
     <original/>
     <corrected><w>sköpuðu</w></corrected>
       <errors>
-        <error xtype="missing-fin-verb" eid="0"/>
+        <error xtype="missing-fin-verb" idx="29-1" eid="0"/>
       </errors>
   </revision>
   <w>ekki</w>
@@ -716,7 +718,7 @@
     <original><w>hugsunarlaus</w><w>afþreying</w></original>
     <corrected><w>hugsunarlausa</w><w>afþreyingu</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="dep" depId="29-1" eid="0"/>
       </errors>
   </revision>
   <c>,</c>

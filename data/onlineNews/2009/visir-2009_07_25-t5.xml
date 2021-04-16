@@ -258,9 +258,10 @@
     <original><w>halda</w><w>það</w></original>
     <corrected><w>hélt</w><w>því</w></corrected>
       <errors>
-        <error xtype="missing-fin-verb" idx="5-1" eid="0" />
-        <error xtype="collocation" idx="5-2" eid="0" />
-        <error xtype="pro-inflection" idx="5-2" eid="0" />
+        <error xtype="agreement" eid="0" />
+        <error xtype="pres4past" eid="0" />
+        <error xtype="case-collocation" idx="5-1" eid="0" />
+        <error xtype="pro-inflection" idx="5-1" eid="0" />
       </errors>
   </revision>
   <w>fram</w>
@@ -270,7 +271,7 @@
     <original><w>hlakki</w></original>
     <corrected><w>hlakkaði</w></corrected>
       <errors>
-        <error xtype="verb-inflection" idx="6-1" eid="0" />
+        <error xtype="sub4ind" idx="6-1" eid="0" />
         <error xtype="pres4past" idx="6-1" eid="0" />
       </errors>
   </revision>

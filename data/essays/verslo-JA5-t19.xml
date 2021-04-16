@@ -474,7 +474,8 @@
     <original><w>skara</w></original>
     <corrected><w>skarar</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="plural4singular" eid="0"/>
+        <error
       </errors>
   </revision>
   <w>skríða</w>
@@ -875,6 +876,7 @@
     <corrected><w>Ástæðu</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-collocation" eid="0" />
       </errors>
   </revision>
   <w>þess</w>

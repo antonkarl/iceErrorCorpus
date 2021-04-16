@@ -233,6 +233,7 @@
     <corrected><w>afgreiðslu</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>tillögunnar</w>
@@ -729,6 +730,7 @@
     <corrected><w>bæjarstjóra</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>Bolungarvíkur</w>
@@ -738,7 +740,8 @@
     <corrected><w>varaþingmanni</w></corrected>
       <errors>
         <error xtype="nominal-inflection" idx="5-1" eid="0"/>
-        <error xtype="extra-word" idx="5-2" eid="0"/>
+        <error xtype="case-prep" idx="5-1" eid="0" />
+        <error xtype="extra-prep" idx="5-2" eid="0"/>
       </errors>
   </revision>
   <w>Vinstri</w>

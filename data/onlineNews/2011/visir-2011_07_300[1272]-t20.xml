@@ -47,7 +47,7 @@
     <original><w>á</w><w>undan</w></original>
     <corrected><w>fyrir</w></corrected>
       <errors>
-        <error xtype="wording" eid="0" />
+        <error xtype="wrong-prep" idx="2-1" eid="0" />
       </errors>
   </revision>
   <w>síðustu</w>
@@ -55,7 +55,7 @@
     <original><w>gosum</w></original>
     <corrected><w>gos</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0" />
+        <error xtype="dep" depId="2-1" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -251,7 +251,6 @@
     <corrected><w>ættingjar</w></corrected>
       <errors>
         <error xtype="dep" depId="9-1" eid="0" />
-        <error xtype="missing-letter" idx="10-1" eid="0" />
         <error xtype="nominal-inflection" idx="10-1" eid="0" />
       </errors>
   </revision>

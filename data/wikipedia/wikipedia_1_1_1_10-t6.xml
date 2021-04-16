@@ -35,8 +35,7 @@
     <original><w>að</w></original>
     <corrected></corrected>
       <errors>
-        <error xtype="extra-word" idx="0-1" eid="0"/>
-        <error xtype="style" idx="0-1" eid="0"/>
+        <error xtype="extra-conjunction" eid="0"/>
       </errors>
   </revision>
   <w>uppgötvað</w>
@@ -633,6 +632,7 @@
     <corrected><w>volframi</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>og</w>

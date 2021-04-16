@@ -214,8 +214,8 @@
     <corrected><w>fólk</w><w>veltir</w></corrected>
       <errors>
         <error xtype="gendered" idx="13-1" eid="0" />
-        <error xtype="extra-word" idx="13-2" eid="0" />
-        <error xtype="verb-inflection" idx="13-3" eid="0" />
+        <error xtype="extra-conjunction" idx="13-2" eid="0" />
+        <error xtype="dep" depId="13-1" eid="0" />
       </errors>
   </revision>
   <w>fyrir</w>

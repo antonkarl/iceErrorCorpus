@@ -267,7 +267,8 @@
     <original><w>dollar</w></original>
     <corrected><w>dollaranum</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0" />
+        <error xtype="ind4def" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <c>.</c>

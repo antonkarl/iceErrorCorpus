@@ -47,8 +47,7 @@
     <original><w>að</w></original>
     <corrected/>
       <errors>
-        <error xtype="extra-word" idx="32-1" eid="0"/>
-        <error xtype="style" idx="32-1" eid="0"/>
+        <error xtype="extra-conjunction" eid="0"/>
       </errors>
   </revision>
   <w>ég</w>
@@ -56,7 +55,7 @@
     <original><w>vill</w><w>til</w></original>
     <corrected><w>vil</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement" eid="0"/>
         <error xtype="extra-word" eid="0"/>
       </errors>
   </revision>
@@ -686,7 +685,8 @@
     <original><w>því</w></original>
     <corrected><w>þess</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="pro-inflection" eid="0"/>
+        <error xtype="genitive" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -694,7 +694,7 @@
     <original><w>þó</w></original>
     <corrected><w>þótt</w></corrected>
       <errors>
-        <error xtype="wording" eid="0"/>
+        <error xtype="though" eid="0"/>
       </errors>
   </revision>
   <w>þær</w>
@@ -1104,9 +1104,8 @@
     <original><w>að</w><w>hentar</w></original>
     <corrected><w>henta</w></corrected>
       <errors>
-        <error xtype="extra-word" idx="17-1" eid="0"/>
-        <error xtype="style" idx="17-1" eid="0"/>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="extra-conjunction" idx="17-1" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>báðum</w>

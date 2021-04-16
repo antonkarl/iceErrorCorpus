@@ -314,7 +314,8 @@
     <original><w>milljóna</w></original>
     <corrected><w>milljónir</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0" />
+        <error xtype="number-inflection" eid="0" />
+        <error xtype="agreement-concord" eid="0" />
       </errors>
   </revision>
   <w>á</w>

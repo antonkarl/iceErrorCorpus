@@ -108,7 +108,7 @@
     <corrected><w>á</w></corrected>
       <errors>
         <error xtype="missing-accent" idx="1-1" eid="0" />
-        <error xtype="extra-accent" idx="1-1" eid="0" />
+        <error xtype="extra-symbol" idx="1-1" eid="0" />
       </errors>
   </revision>
   <w>Youtube</w>
@@ -127,7 +127,8 @@
     <original><w>hann</w></original>
     <corrected><w>honum</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0" />
+        <error xtype="pro-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <c>,</c>

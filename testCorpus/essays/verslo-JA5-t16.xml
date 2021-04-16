@@ -372,7 +372,7 @@
     <original><w>byrjuðuð</w></original>
     <corrected><w>byrjuðu</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>svo</w>
@@ -863,6 +863,7 @@
     <corrected><w>fyrirætlanir</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>hryðjuverkamannanna</w>

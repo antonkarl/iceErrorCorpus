@@ -600,7 +600,7 @@
     <original><w>hefði</w><w>vitað</w></original>
     <corrected><w>hefðu</w><w>verið</w></corrected>
       <errors>
-        <error xtype="verb-inflection" idx="44-1" eid="0"/>
+        <error xtype="agreement" idx="44-1" eid="0"/>
         <error xtype="wording" idx="44-2" eid="0"/>
       </errors>
   </revision>
@@ -909,7 +909,7 @@
     <original><w>hlut</w></original>
     <corrected><w>hluta</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="85-1" eid="0"/>
+        <error xtype="case-prep" idx="85-1" eid="0"/>
         <error xtype="nominal-inflection" idx="85-1" eid="0"/>
       </errors>
   </revision>

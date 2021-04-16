@@ -88,6 +88,7 @@
     <corrected><w>ávinning</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>fyrir</w>
@@ -162,7 +163,7 @@
     <original><w>opinbera</w></original>
     <corrected><w>opinberra</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="5-1" eid="0"/>
+        <error xtype="agreement-concord" idx="5-1" eid="0"/>
         <error xtype="adjective-inflection" idx="5-1" eid="0"/>
       </errors>
   </revision>
@@ -632,7 +633,7 @@
     <original><w>hugveita</w></original>
     <corrected><w>hugveitna</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="20-1" eid="0"/>
+        <error xtype="genitive" idx="20-1" eid="0"/>
         <error xtype="nominal-inflection" idx="20-1" eid="0"/>
       </errors>
   </revision>
@@ -721,7 +722,7 @@
     <original><w>snýst</w></original>
     <corrected><w>snýr</w></corrected>
       <errors>
-        <error xtype="verb-inflection" eid="0"/>
+        <error xtype="mid4act" eid="0"/>
       </errors>
   </revision>
   <w>starfsemi</w>
@@ -730,7 +731,7 @@
     <original><w>hugveita</w></original>
     <corrected><w>hugveitna</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="23-1" eid="0"/>
+        <error xtype="genitive" idx="23-1" eid="0"/>
         <error xtype="nominal-inflection" idx="23-1" eid="0"/>
       </errors>
   </revision>

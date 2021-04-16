@@ -395,7 +395,7 @@
     <original><w>eru</w></original>
     <corrected><w>erum</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>við</w>
@@ -812,8 +812,9 @@
     <original><w>ágætar</w><w>tekjur</w></original>
     <corrected><w>ágætra</w><w>tekna</w></corrected>
       <errors>
+        <error xtype="adjective-inflection" idx="18-1" eid="0"/>
         <error xtype="nominal-inflection" idx="18-1" eid="0"/>
-        <error xtype="agreement-concord" idx="18-1" eid="0"/>
+        <error xtype="case-verb" idx="18-1" eid="0" />
       </errors>
   </revision>
   <w>ef</w>
@@ -822,8 +823,9 @@
     <original><w>góðar</w></original>
     <corrected><w>góðra</w><w>tekna</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" idx="19-1" eid="0"/>
-        <error xtype="missing-word" idx="18-1" eid="0"/>
+        <error xtype="adj-inflection" idx="19-1" eid="0"/>
+        <error xtype="case-verb" idx="19-1" eid="0" />
+        <error xtype="missing-word" idx="19-1" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -879,6 +881,7 @@
     <corrected><w>auði</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -887,6 +890,7 @@
     <corrected><w>fé</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>ef</w>
@@ -1213,6 +1217,7 @@
     <corrected><w>fé</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -1363,8 +1368,9 @@
     <original><w>mikinn</w><w>fjár</w></original>
     <corrected><w>mikið</w><w>fé</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" idx="46-1" eid="0"/>
-        <error xtype="agreement-concord" idx="46-1" eid="0"/>
+        <error xtype="adjective-inflection" idx="46-1" eid="0"/>
+        <error xtype="nominal-inflection" idx="46-1" eid="0" />
+        <error xtype="case-verb" idx="46-1" eid="0"/>
       </errors>
   </revision>
   <w>eður</w>

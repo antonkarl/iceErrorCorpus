@@ -391,7 +391,7 @@
     <original><w>einast</w></original>
     <corrected><w>einasta</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="7-1" eid="0"/>
+        <error xtype="agreement-concord" idx="7-1" eid="0"/>
         <error xtype="adjective-inflection" idx="7-1" eid="0"/>
       </errors>
   </revision>
@@ -586,6 +586,7 @@
     <corrected><w>jarðarförina</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>og</w>

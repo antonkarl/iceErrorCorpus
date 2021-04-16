@@ -693,6 +693,7 @@
     <corrected><w>Ný</w><w>verkefni</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-verb" eid="0"/>
       </errors>
   </revision>
   <w>fyrirtækja</w>
@@ -934,7 +935,7 @@
     <corrected><w>þau</w><w>lýstu</w></corrected>
       <errors>
         <error xtype="agreement-pro" idx="54-1" eid="0" />
-        <error xtype="agreement" idx="54-2" eid="0" />
+        <error xtype="verb-inflection" idx="54-2" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
@@ -944,6 +945,7 @@
     <corrected><w>áhættulausri</w><w>fjárfestingu</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-verb" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -987,6 +989,7 @@
     <corrected><w>birgðum</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0"/>
       </errors>
   </revision>
   <w>af</w>
@@ -1783,6 +1786,7 @@
     <corrected><w>sparnað</w><w>sinn</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-verb" eid="0"/>
       </errors>
   </revision>
   <w>í</w>
@@ -1791,7 +1795,7 @@
     <original></original>
     <corrected><w>í</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-prep" eid="0" />
       </errors>
   </revision>
   <w>járnbrautariðnaði</w>

@@ -53,6 +53,7 @@
     <corrected><w>Ástæðuna</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-collocation" eid="0" />
       </errors>
   </revision>
   <w>fyrir</w>
@@ -68,6 +69,8 @@
     <corrected><w>tölvuvíruss</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="genitive" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>sem</w>

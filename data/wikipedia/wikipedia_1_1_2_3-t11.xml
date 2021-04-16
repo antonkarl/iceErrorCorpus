@@ -213,6 +213,7 @@
     <corrected><w>Norður-Virginíu</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -259,6 +260,7 @@
     <corrected><w>öll</w><w>þau</w><w>störf</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-collocation" eid="0"/>
       </errors>
   </revision>
   <w>sem</w>
@@ -873,6 +875,7 @@
     <corrected><w>áratug</w><w>vegna</w><w>plötusnúða</w></corrected>
       <errors>
         <error xtype="nominal-inflection" idx="68-1" eid="0" />
+        <error xtype="case-prep" idx="68-1" eid="0"/>
         <error xtype="wording" idx="68-2" eid="0" />
         <error xtype="extra-comma" idx="68-3" eid="0" />
       </errors>
@@ -944,7 +947,7 @@
     <original><w>dregist</w></original>
     <corrected><w>dregið</w></corrected>
       <errors>
-        <error xtype="verb-inflection" eid="0" />
+        <error xtype="mid4act" eid="0" />
       </errors>
   </revision>
   <w>úr</w>
@@ -1596,7 +1599,7 @@
     <original><w>slegið</w></original>
     <corrected><w>hún</w><w>slegin</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="122-1" eid="0" />
+        <error xtype="missing-sub" idx="122-1" eid="0" />
         <error xtype="agreement-pred" idx="122-2" eid="0" />
       </errors>
   </revision>
@@ -1875,6 +1878,7 @@
     <corrected><w>lagatexta</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
@@ -1883,6 +1887,7 @@
     <corrected><w>taktinn</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -1995,6 +2000,7 @@
     <corrected><w>aðdáendum</w><w>gó-gó-tónlistarinnar</w></corrected>
       <errors>
         <error xtype="nominal-inflection" idx="145-1" eid="0" />
+        <error xtype="case-verb" idx="145-1" eid="0"/>
         <error xtype="missing-hyphen" idx="145-2" eid="0" />
       </errors>
   </revision>

@@ -175,6 +175,7 @@
     <corrected><w>nokkurra</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="agreement-concord" eid="0" />
       </errors>
   </revision>
   <w>einstaklinga</w>
@@ -191,8 +192,7 @@
     <original><w>að</w></original>
     <corrected/>
       <errors>
-        <error xtype="extra-word" idx="4-1" eid="0"/>
-        <error xtype="style" idx="4-1" eid="0"/>
+        <error xtype="extra-conjunction" eid="0"/>
       </errors>
   </revision>
   <w>einhver</w>

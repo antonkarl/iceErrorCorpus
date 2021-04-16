@@ -557,7 +557,7 @@
     <original><w>einhvern</w></original>
     <corrected><w>einhver</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="pro-inflection" eid="0"/>
       </errors>
   </revision>
   <w>einn</w>
@@ -937,7 +937,8 @@
     <original><w>sínum</w></original>
     <corrected><w>sinn</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="pro-inflection" eid="0"/>
+        <error xtype="agreement-concord" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -957,7 +958,9 @@
     <original><w>Flest</w><w>krakkana</w></original>
     <corrected><w>Flestir</w><w>krakkanna</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="plural4singular" eid="0"/>
+        <error xtype="genitive" eid="0" />
+        <error xtype="nominal-inflection" eid="0" />
         <error xtype="n4nn" eid="0"/>
       </errors>
   </revision>

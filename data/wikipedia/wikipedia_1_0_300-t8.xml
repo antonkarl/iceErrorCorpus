@@ -180,7 +180,7 @@
     <original><w>eru</w></original>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0" />
+        <error xtype="agreement" eid="0" />
       </errors>
   </revision>
   <w>farandverkafólk</w>
@@ -272,7 +272,8 @@
     <original><w>var</w></original>
     <corrected><w>yrði</w></corrected>
       <errors>
-        <error xtype="verb-inflection" eid="0" />
+        <error xtype="aux" eid="0" />
+        <error xtype="ind4sub" eid="0" />
       </errors>
   </revision>
   <w>varið</w>

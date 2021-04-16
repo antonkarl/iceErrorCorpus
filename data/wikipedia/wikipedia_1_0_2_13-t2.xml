@@ -576,6 +576,7 @@
     <corrected><w>tilfellum</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>er</w>
@@ -949,8 +950,8 @@
     <corrected><w>gatnamótin</w><w>hafði</w></corrected>
       <errors>
         <error xtype="nominal-inflection" idx="12-1" eid="0"/>
-        <error xtype="plural4singular" idx="12-1" eid="0"/>
-        <error xtype="dep" depId="12-1" eid="0"/>
+        <error xtype="case-prep" idx="12-1" eid="0"/>
+        <error xtype="agreement" idx="12-2" eid="0"/>
       </errors>
   </revision>
   <w>oft</w>

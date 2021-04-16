@@ -346,6 +346,7 @@
     <corrected><w>Madonnu</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <c>(</c>
@@ -1870,7 +1871,6 @@
     <corrected><w>Þær</w><w>eru</w></corrected>
       <errors>
         <error xtype="agreement-pro" eid="0"/>
-        <error xtype="agreement-pred" eid="0"/>
       </errors>
   </revision>
   <w>annars</w>

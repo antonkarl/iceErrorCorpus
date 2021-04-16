@@ -506,7 +506,7 @@
     <original><w>geri</w></original>
     <corrected><w>gerir</w></corrected>
       <errors>
-        <error xtype="verb-inflection" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>er</w>
@@ -522,7 +522,7 @@
     <original><w>að</w><w>prins</w></original>
     <corrected/>
       <errors>
-        <error xtype="extra-word" idx="10-1" eid="0"/>
+        <error xtype="extra-conjunction" idx="10-1" eid="0"/>
         <error xtype="unicelandic" idx="10-2" eid="0"/>
       </errors>
   </revision>

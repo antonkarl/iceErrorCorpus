@@ -487,6 +487,7 @@
     <corrected><w>notaður</w><w>er</w></corrected>
       <errors>
         <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement" eid="0" />
       </errors>
   </revision>
   <w>hlýr</w>
@@ -825,7 +826,7 @@
       <errors>
         <error xtype="missing-hyphen" idx="50-1" eid="0"/>
         <error xtype="fw4ice" idx="50-1" eid="0"/>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>rætur</w>

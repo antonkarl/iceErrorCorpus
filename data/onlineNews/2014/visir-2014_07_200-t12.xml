@@ -170,6 +170,7 @@
     <corrected><w>Aðdraganda</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-collocation" eid="0" />
       </errors>
   </revision>
   <w>meintra</w>
@@ -342,7 +343,7 @@
     <original><w>þessa</w></original>
     <corrected><w>þess</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0" />
+        <error xtype="dem4pers" eid="0" />
       </errors>
   </revision>
   <w>að</w>

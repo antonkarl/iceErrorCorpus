@@ -789,6 +789,7 @@
     <corrected><w>Áhrifa</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>pönks</w>
@@ -798,7 +799,7 @@
     <original><w>verið</w><w>að</w><w>gæta</w></original>
     <corrected><w>gætt</w></corrected>
       <errors>
-        <error xtype="wording" eid="0" />
+        <error xtype="cont4simple" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -2033,6 +2034,7 @@
     <corrected><w>plötufyrirtækis</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="genitive" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
@@ -2055,6 +2057,7 @@
     <corrected><w>síðpönkarann</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>Nick</w>
@@ -2069,6 +2072,7 @@
     <corrected><w>Purrks</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="genitive" eid="0" />
       </errors>
   </revision>
   <w>Pillnikk</w>
@@ -2131,6 +2135,7 @@
       <errors>
         <error xtype="missing-comma" idx="61-1" eid="0" />
         <error xtype="nominal-inflection" idx="61-2" eid="0" />
+        <error xtype="case-verb" idx="61-2" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -2139,6 +2144,7 @@
     <corrected><w>bjöllur</w><w>áberandi</w></corrected>
       <errors>
         <error xtype="nominal-inflection" idx="62-1" eid="0" />
+        <error xtype="case-verb" idx="62-1" eid="0" />
         <error xtype="missing-word" idx="62-2" eid="0" />
       </errors>
   </revision>

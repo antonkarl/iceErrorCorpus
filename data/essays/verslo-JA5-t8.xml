@@ -160,6 +160,7 @@
     <corrected><w>skilyrða</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>en</w>
@@ -666,7 +667,7 @@
     <original><w>eru</w></original>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="agreement-pred" idx="9-1" eid="0"/>
+        <error xtype="agreement" idx="9-1" eid="0"/>
         <error xtype="extra-letter" idx="9-1" eid="0"/>
       </errors>
   </revision>

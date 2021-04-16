@@ -207,6 +207,7 @@
     <corrected><w>þröskuldi</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <revision id="14">
@@ -636,7 +637,6 @@
     <corrected><w>þeir</w><w>sýna</w></corrected>
       <errors>
         <error xtype="agreement-pro" eid="0"/>
-        <error xtype="agreement-pred" eid="0"/>
       </errors>
   </revision>
   <w>að</w>

@@ -171,6 +171,7 @@
     <corrected><w>Sigmundar</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="genitive" eid="0" />
       </errors>
   </revision>
   <c>:</c>
@@ -485,9 +486,9 @@
     <corrected><w>námsráðgjafann</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
-  <w>námsráðgjafinn</w>
   <w>með</w>
   <w>breytt</w>
   <w>hugarfar</w>
@@ -745,8 +746,7 @@
     <corrected><w>himininn</w><w>ekkert</w><w>takmark</w></corrected>
       <errors>
         <error xtype="nn4n" eid="0"/>
-        <error xtype="agreement-pred" idx="125-1" eid="0"/>
-        <error xtype="agreement-concord" idx="125-1" eid="0"/>
+        <error xtype="plural4singular" idx="125-1" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -946,7 +946,8 @@
     <original><w>þess</w></original>
     <corrected><w>því</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="pro-inflection" eid="0"/>
+        <error xtype="case-collocation" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -1610,9 +1611,9 @@
     <original><w>Takmörk</w><w>hugargetu</w></original>
     <corrected><w>Takmörkum</w><w>getu</w><w>hugans</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
-        <error xtype="compound-collocation" idx="81-1" eid="0"/>
-        <error xtype="wording" idx="81-1" eid="0"/>
+        <error xtype="agreement-concord" idx="81-1" eid="0"/>
+        <error xtype="wording" idx="81-2" eid="0"/>
+        <error xtype="case-verb" idx="81-2" eid="0"/>
       </errors>
   </revision>
   <w>hefur</w>
@@ -1832,6 +1833,7 @@
     <corrected><w>Sigmundar</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="genitive" eid="0" />
       </errors>
   </revision>
   <w>segja</w>
@@ -2321,7 +2323,7 @@
     <original><w>í</w></original>
     <corrected/>
       <errors>
-        <error xtype="extra-word" eid="0"/>
+        <error xtype="extra-prep" eid="0"/>
       </errors>
   </revision>
   <w>hring</w>
@@ -2824,7 +2826,7 @@
     <corrected><w>sjálftrausts</w></corrected>
       <errors>
         <error xtype="nominal-inflection" idx="106-1" eid="0"/>
-        <error xtype="missing-letter" idx="106-1" eid="0"/>
+        <error xtype="genitive" idx="106-1" eid="0"/>
       </errors>
   </revision>
   <w>nú</w>
@@ -2987,8 +2989,9 @@
     <original><w>En</w><w>stress</w><w>Sigmundur</w></original>
     <corrected><w>Stress</w><w>Sigmundar</w></corrected>
       <errors>
-        <error xtype="extra-word" eid="0"/>
+        <error xtype="extra-conjunction" eid="0"/>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="genitive" eid="0" />
       </errors>
   </revision>
   <w>var</w>

@@ -197,7 +197,8 @@
     <original><w>því</w></original>
     <corrected><w>þess</w><w>að</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" idx="8-1" eid="0"/>
+        <error xtype="pro-inflection" idx="8-1" eid="0"/>
+        <error xtype="case-prep" idx="8-1" eid="0" />
         <error xtype="missing-conjunction" idx="8-2" eid="0"/>
       </errors>
   </revision>

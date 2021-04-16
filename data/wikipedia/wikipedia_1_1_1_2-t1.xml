@@ -294,9 +294,9 @@
     <original><w>að</w><w>hreyfa</w><w>varirirnar</w></original>
     <corrected><w>hreyfðu</w><w>varirnar</w></corrected>
       <errors>
+        <error xtype="extra-conjunction" eid="0"/>
         <error xtype="verb-inflection" eid="0"/>
-        <error xtype="extra-letter" idx="126-1" eid="0"/>
-        <error xtype="extra-letter" idx="126-1" eid="0"/>
+        <error xtype="extra-letters" idx="126-1" eid="0"/>
         <error xtype="nonword" idx="126-1" eid="0"/>
       </errors>
   </revision>
@@ -420,7 +420,7 @@
     <original><w>voru</w></original>
     <corrected><w>var</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>einnig</w>
@@ -438,7 +438,7 @@
     <original><w>voru</w></original>
     <corrected><w>var</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>ákaflega</w>
@@ -563,7 +563,7 @@
     <original><w>voru</w><w>The</w><w>Archies</w></original>
     <corrected><w>var</w><w><hi>The</hi></w><w><hi>Archies</hi></w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement" eid="0"/>
         <error xtype="nonit4it" eid="0"/>
       </errors>
   </revision>
@@ -1505,7 +1505,7 @@
     <original><w>vildu</w></original>
     <corrected><w>vildi</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>hætta</w>
@@ -2023,6 +2023,7 @@
     <corrected><w>lag</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-collocation" eid="0" />
       </errors>
   </revision>
   <w>sitt</w>
@@ -2339,6 +2340,8 @@
     <corrected><w>krakka</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
+        <error xtype="genitive" eid="0" />
       </errors>
   </revision>
   <w>og</w>

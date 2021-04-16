@@ -131,6 +131,7 @@
     <corrected><w>endalausa</w></corrected>
       <errors>
         <error xtype="adjective-inflection" eid="0"/>
+        <error xtype="agreement-concord" eid="0" />
       </errors>
   </revision>
   <w>ríg</w>
@@ -301,8 +302,7 @@
     <original><w>mikil</w></original>
     <corrected><w>mikill</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="28-1" eid="0"/>
-        <error xtype="agreement-concord" idx="28-1" eid="0"/>
+        <error xtype="agreement-concord" eid="0"/>
       </errors>
   </revision>
   <w>áhugi</w>
@@ -514,7 +514,8 @@
     <original><w>hinum</w></original>
     <corrected><w>hinu</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="pro-inflection" eid="0"/>
+        <error xtype="agreement-concord" eid="0" />
       </errors>
   </revision>
   <w>góða</w>
@@ -522,7 +523,7 @@
     <original/>
     <corrected><c>,</c></corrected>
       <errors>
-        <error xtype="missing-letter" eid="0"/>
+        <error xtype="missing-comma" eid="0"/>
       </errors>
   </revision>
   <w>enda</w>

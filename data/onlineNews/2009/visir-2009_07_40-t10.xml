@@ -39,7 +39,7 @@
     <original><w>varð</w></original>
     <corrected><w>var</w></corrected>
       <errors>
-        <error xtype="verb-inflection" eid="0" />
+        <error xtype="aux" eid="0" />
       </errors>
   </revision>
   <w>á</w>
@@ -86,6 +86,7 @@
     <corrected><w>þjónustuhléi</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <c>,</c>

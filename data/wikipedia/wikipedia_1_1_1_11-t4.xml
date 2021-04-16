@@ -82,6 +82,7 @@
     <corrected><w>norðvestri</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>á</w>
@@ -99,6 +100,7 @@
     <corrected><w>norðri</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -110,6 +112,7 @@
     <corrected><w>austri</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -121,6 +124,7 @@
     <corrected><w>suðri</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -132,6 +136,7 @@
     <corrected><w>vestri</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -156,6 +161,8 @@
     <corrected><w><hi>landsins</hi></w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
+        <error xtype="genitive" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
@@ -401,8 +408,8 @@
     <original><w>lögðu</w></original>
     <corrected><w>lagði</w><w>það</w></corrected>
       <errors>
-        <error xtype="agreement-pred" idx="19-1" eid="0" />
-        <error xtype="missing-word" idx="19-2" eid="0" />
+        <error xtype="agreement" idx="19-1" eid="0" />
+        <error xtype="missing-obj" idx="19-2" eid="0" />
       </errors>
   </revision>
   <w>undir</w>
@@ -1475,7 +1482,7 @@
     <original><w>hafa</w></original>
     <corrected><w>hefur</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0" />
+        <error xtype="agreement" eid="0" />
       </errors>
   </revision>
   <w>laosku</w>
@@ -1931,7 +1938,7 @@
     <original><w>er</w></original>
     <corrected><w>eru</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0" />
+        <error xtype="agreement" eid="0" />
       </errors>
   </revision>
   <w>til</w>
@@ -2230,7 +2237,7 @@
     <original><w>séu</w><w>ólæsir</w></original>
     <corrected><w>sé</w><w>ólæs</w></corrected>
       <errors>
-        <error xtype="agreement-pred" idx="105-1" eid="0" />
+        <error xtype="agreement" idx="105-1" eid="0" />
         <error xtype="agreement-pred" idx="105-1" eid="0" />
       </errors>
   </revision>

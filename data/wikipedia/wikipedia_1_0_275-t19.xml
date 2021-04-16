@@ -156,8 +156,9 @@
     <corrected><w>smituðu</w><w>þeir</w><w>frumbyggjana</w></corrected>
       <errors>
         <error xtype="wording" idx="2-1" eid="0" />
-        <error xtype="missing-word" idx="2-2" eid="0" />
+        <error xtype="missing-sub" idx="2-2" eid="0" />
         <error xtype="nominal-inflection" idx="2-3" eid="0" />
+        <error xtype="case-verb" idx="2-3" eid="0" />
         <error xtype="ind4def" idx="2-3" eid="0" />
       </errors>
   </revision>
@@ -172,6 +173,7 @@
     <corrected><w>þeirra</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="genitive" eid="0" />
       </errors>
   </revision>
   <w>völdum</w>
@@ -328,6 +330,7 @@
     <corrected><w>hluta</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>af</w>
@@ -350,6 +353,7 @@
     <corrected><w>Kanadastjórnar</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>árið 1868</w>
@@ -470,6 +474,7 @@
     <corrected><w>fækkunar</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="genitive" eid="0" />
       </errors>
   </revision>
   <w>vísunda</w>
@@ -853,6 +858,7 @@
     <corrected><w>Norðvesturhéruðunum</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>í</w>

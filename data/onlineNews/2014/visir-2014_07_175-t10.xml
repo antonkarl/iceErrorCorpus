@@ -120,6 +120,7 @@
     <corrected><w>bílum</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -625,6 +626,7 @@
     <corrected><w>bílarnir</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>hafi</w>
@@ -632,7 +634,7 @@
     <original><w>nuddað</w></original>
     <corrected><w>nuddast</w></corrected>
       <errors>
-        <error xtype="verb-inflection" eid="0" />
+        <error xtype="act4mid" eid="0" />
       </errors>
   </revision>
   <w>utan</w>

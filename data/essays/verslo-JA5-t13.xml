@@ -282,7 +282,7 @@
     <corrected><w>Fólki</w></corrected>
       <errors>
         <error xtype="nominal-inflection" idx="9-1" eid="0"/>
-        <error xtype="missing-letter" idx="9-1" eid="0"/>
+        <error xtype="case-verb" idx="9-1" eid="0"/>
       </errors>
   </revision>
   <w>finnst</w>
@@ -527,8 +527,7 @@
     <original><w>að</w></original>
     <corrected/>
       <errors>
-        <error xtype="extra-word" idx="3-1" eid="0"/>
-        <error xtype="style" idx="3-1" eid="0"/>
+        <error xtype="extra-conjunction" eid="0"/>
       </errors>
   </revision>
   <w>gagnkynhneigt</w>
@@ -537,7 +536,7 @@
     <original><w>viðurkenna</w></original>
     <corrected><w>viðurkennir</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>samkynhneigð</w>
@@ -552,7 +551,6 @@
     <original><w>viðurkenna</w><w>þau</w></original>
     <corrected><w>viðurkennir</w><w>það</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
         <error xtype="agreement-pro" eid="0"/>
       </errors>
   </revision>
@@ -642,7 +640,6 @@
     <original><w>eiga</w><w>þau</w></original>
     <corrected><w>á</w><w>það</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
         <error xtype="agreement-pro" eid="0"/>
       </errors>
   </revision>
@@ -878,6 +875,7 @@
     <corrected><w>samfélagi</w></corrected>
       <errors>
         <error xtype="nominal-inflection" idx="26-1" eid="0"/>
+        <error xtype="case-verb" idx="26-1" eid="0" />
         <error xtype="def4ind" idx="26-1" eid="0"/>
       </errors>
   </revision>
@@ -893,8 +891,7 @@
     <original><w>að</w></original>
     <corrected/>
       <errors>
-        <error xtype="extra-word" idx="27-1" eid="0"/>
-        <error xtype="style" idx="27-1" eid="0"/>
+        <error xtype="extra-conjunction" eid="0"/>
       </errors>
   </revision>
   <w>fólk</w>

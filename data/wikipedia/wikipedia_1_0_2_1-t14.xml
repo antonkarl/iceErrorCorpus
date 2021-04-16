@@ -146,6 +146,7 @@
     <corrected><w>konur</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -189,6 +190,8 @@
     <corrected><w>þjóðarbrotanna</w></corrected>
       <errors>
         <error xtype="nominal-inflection" idx="4-1" eid="0" />
+        <error xtype="case-prep" idx="4-1" eid="0" />
+        <error xtype="genitive" idx="4-1" eid="0" />
         <error xtype="n4nn" idx="4-1" eid="0" />
       </errors>
   </revision>
@@ -360,6 +363,7 @@
       <errors>
         <error xtype="n4nn" idx="17-1" eid="0" />
         <error xtype="nominal-inflection" idx="17-1" eid="0" />
+        <error xtype="genitive" idx="17-1" eid="0" />
       </errors>
   </revision>
   <c>.</c>

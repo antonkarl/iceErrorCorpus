@@ -188,7 +188,7 @@
     <original><w>margbreytilegar</w></original>
     <corrected><w>er</w><w>margbreytileg</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="5-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="5-1" eid="0" />
         <error xtype="agreement-pred" idx="5-2" eid="0" />
       </errors>
   </revision>
@@ -354,6 +354,7 @@
     <corrected><w>kok</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
@@ -552,6 +553,7 @@
     <corrected><w>tálkn</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>til</w>
@@ -996,6 +998,7 @@
     <corrected><w>platna</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="genitive" eid="0" />
       </errors>
   </revision>
   <w>eftir</w>

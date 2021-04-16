@@ -724,6 +724,7 @@
     <corrected><w>stökkbreytingu</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <c>)</c>
@@ -1443,7 +1444,7 @@
     <original><w>sig</w></original>
     <corrected><w>sér</w><w>nánar</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" idx="55-1" eid="0" />
+        <error xtype="pro-inflection" idx="55-1" eid="0" />
         <error xtype="dep" depId="56-1" eid="0" />
       </errors>
   </revision>

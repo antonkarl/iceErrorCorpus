@@ -463,7 +463,6 @@
     <corrected><w>það</w><w>veit</w></corrected>
       <errors>
         <error xtype="agreement-pro" eid="0"/>
-        <error xtype="agreement-pred" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -1194,7 +1193,7 @@
     <original><w>fara</w></original>
     <corrected><w>fer</w></corrected>
       <errors>
-        <error xtype="verb-inflection" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>fram</w>

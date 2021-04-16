@@ -55,6 +55,7 @@
     <corrected><w>Bandaríkjanna</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="genitive" eid="0" />
       </errors>
   </revision>
   <w>um</w>
@@ -84,6 +85,7 @@
     <corrected><w>þýska</w></corrected>
       <errors>
         <error xtype="adjective-inflection" eid="0" />
+        <error xtype="agreement-concord" eid="0" />
       </errors>
   </revision>
   <w>fjölmiðilinn</w>
@@ -123,8 +125,7 @@
     <original><w>að</w></original>
     <corrected></corrected>
       <errors>
-        <error xtype="extra-word" idx="5b-1" eid="0"/>
-        <error xtype="style" idx="5b-1" eid="0"/>
+        <error xtype="extra-conjunction" eid="0"/>
       </errors>
   </revision>
   <w>Bandaríkin</w>

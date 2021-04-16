@@ -157,7 +157,7 @@
     <original><w>er</w></original>
     <corrected><w>eru</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>enn</w>
@@ -2627,7 +2627,7 @@
     <original/>
     <corrected><w>í</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-word" idx="93-1" eid="0"/>
       </errors>
   </revision>
   <w>Írak</w>
@@ -2638,9 +2638,9 @@
     <original><w>Rússland</w><w>hafa</w><w>lýst</w><w>yfir</w></original>
     <corrected><w>Rússlandi</w><w>hefur</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
-        <error xtype="agreement-pred" eid="0"/>
-        <error xtype="wording" idx="115-1" eid="0"/>
+        <error xtype="dep" depId="93-1" eid="0"/>
+        <error xtype="agreement" eid="0"/>
+        <error xtype="act4pass" idx="115-1" eid="0"/>
       </errors>
   </revision>
   <w>stríði</w>

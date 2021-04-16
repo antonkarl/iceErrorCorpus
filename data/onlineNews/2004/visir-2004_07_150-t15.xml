@@ -61,7 +61,7 @@
     <original><w>að</w></original>
     <corrected></corrected>
       <errors>
-        <error xtype="extra-word" eid="0" />
+        <error xtype="extra-conjunction" idx="1-1" eid="0" />
       </errors>
   </revision>
   <w>gasið</w>
@@ -69,8 +69,8 @@
     <original><w>sé</w></original>
     <corrected></corrected>
       <errors>
+        <error xtype="dep" depId="1-1" eid="0" />
         <error xtype="wording" idx="2-1" eid="0" />
-        <error xtype="verb-inflection" idx="2-1" eid="0" />
       </errors>
   </revision>
   <w>ekki</w>

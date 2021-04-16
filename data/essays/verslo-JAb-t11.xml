@@ -413,6 +413,7 @@
     <corrected><w>stundu</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -472,7 +473,8 @@
     <corrected><w>samgangna</w></corrected>
       <errors>
         <error xtype="nominal-inflection" idx="3-1" eid="0"/>
-        <error xtype="missing-letter" idx="3-1" eid="0"/>
+        <error xtype="case-prep" idx="3-1" eid="0"/>
+        <error xtype="genitive" idx="3-1" eid="0" />
       </errors>
   </revision>
   <w>hafa</w>

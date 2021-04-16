@@ -222,6 +222,7 @@
       <errors>
         <error xtype="dep" depId="12-1" eid="0" />
         <error xtype="nominal-inflection" idx="12-1" eid="0" />
+        <error xtype="case-prep" idx="12-1" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -1827,6 +1828,8 @@
     <corrected><w>lengdar</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
+        <error xtype="genitive" eid="0" />
       </errors>
   </revision>
   <w>strandanna</w>
@@ -2043,7 +2046,7 @@
     <original><w>játuðu</w></original>
     <corrected><w>játuðust</w></corrected>
       <errors>
-        <error xtype="verb-inflection" eid="0" />
+        <error xtype="act4mid" eid="0" />
       </errors>
   </revision>
   <w>Íslam</w>
@@ -3163,6 +3166,7 @@
     <corrected><w>leiðangra</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -3389,6 +3393,7 @@
     <corrected><w>sjóliðsflotann</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-collocation" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -4000,7 +4005,7 @@
     <original><w>af</w><w>lokum</w></original>
     <corrected><w>loka</w></corrected>
       <errors>
-        <error xtype="wording" eid="0" />
+        <error xtype="wording" idx="222-1" eid="0" />
       </errors>
   </revision>
   <w>Napóleonsstyrjaldanna</w>
@@ -4009,7 +4014,7 @@
     <original><w>Vínarfundinum</w></original>
     <corrected><w>Vínarfundarins</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0" />
+        <error xtype="dep" depId="222-1" eid="0" />
       </errors>
   </revision>
   <w>á</w>

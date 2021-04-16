@@ -139,7 +139,7 @@
     <corrected><w>hjúkrunarfólks</w></corrected>
       <errors>
         <error xtype="nominal-inflection" idx="36-1" eid="0"/>
-        <error xtype="missing-letter" idx="36-1" eid="0"/>
+        <error xtype="genitive" idx="36-1" eid="0"/>
       </errors>
   </revision>
   <w>því</w>
@@ -677,7 +677,7 @@
     <original><w>er</w></original>
     <corrected><w>eru</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>fyrstu</w>
@@ -1036,6 +1036,7 @@
     <corrected><w>skíði</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-collocation" eid="0" />
       </errors>
   </revision>
   <w>um</w>
@@ -1362,6 +1363,7 @@
     <corrected><w>svínkutertu</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-collocation" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
@@ -1648,6 +1650,7 @@
     <corrected><w>lestir</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>á</w>

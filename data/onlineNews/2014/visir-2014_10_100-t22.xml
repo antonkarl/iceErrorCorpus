@@ -354,6 +354,7 @@
     <corrected><w>áfengissölu</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>verði</w>
@@ -361,8 +362,8 @@
     <original><w>gefin</w><w>frjáls</w></original>
     <corrected><w>gefið</w><w>frelsi</w></corrected>
       <errors>
-        <error xtype="verb-inflection" idx="24-1" eid="0"/>
-        <erra xtype="wording" idx="24-2" eid="0"/>
+        <error xtype="agreement-pred" idx="24-1" eid="0"/>
+        <erra xtype="adj4noun" idx="24-2" eid="0"/>
       </errors>
   </revision>
   <c>.</c>

@@ -20,7 +20,7 @@
     <original><w>tryggðu</w></original>
     <corrected><w>tryggði</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0" />
+        <error xtype="agreement" eid="0" />
       </errors>
   </revision>
   <w>sér</w>
@@ -764,6 +764,7 @@
     <corrected><w>Íslands</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="genitive" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -2144,6 +2145,7 @@
     <corrected><w>mínútur</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>gegn</w>

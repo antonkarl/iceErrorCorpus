@@ -93,7 +93,7 @@
     <original><w>skelja</w></original>
     <corrected><w>skeljar</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="1-1" eid="0"/>
+        <error xtype="case-verb" idx="1-1" eid="0"/>
         <error xtype="nominal-inflection" idx="1-1" eid="0"/>
       </errors>
   </revision>
@@ -523,6 +523,7 @@
     <corrected><w>ýmiss</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="genitive" eid="0" />
       </errors>
   </revision>
   <w>konar</w>

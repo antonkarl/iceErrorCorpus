@@ -328,8 +328,7 @@
     <original><w>að</w></original>
     <corrected></corrected>
       <errors>
-        <error xtype="extra-word" idx="10b-1" eid="0"/>
-        <error xtype="style" idx="10b-1" eid="0"/>
+        <error xtype="extra-conjunction" eid="0"/>
       </errors>
   </revision>
   <w>kristni</w>
@@ -341,6 +340,7 @@
     <corrected><w>meirihluta</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -579,8 +579,7 @@
     <original><w>unni</w></original>
     <corrected><w>unnu</w></corrected>
       <errors>
-        <error xtype="agreement" idx="24-1" eid="0" />
-        <error xtype="letter-rep" idx="24-1" eid="0" />
+        <error xtype="agreement" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
@@ -773,6 +772,7 @@
     <corrected><w>Jamaíku</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -1012,6 +1012,7 @@
       <errors>
         <error xtype="missing-hyphen" idx="48-1" eid="0" />
         <error xtype="nominal-inflection" idx="48-1" eid="0" />
+        <error xtype="genitive" idx="48-1" eid="0" />
       </errors>
   </revision>
   <w>fólk</w>
@@ -1190,6 +1191,7 @@
     <corrected><w>Opinberunarbókar</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="genitive" eid="0" />
       </errors>
   </revision>
   <w>Jóhannesar</w>
@@ -1379,7 +1381,7 @@
     <original><w>verið</w></original>
     <corrected><w>orðið</w></corrected>
       <errors>
-        <error xtype="verb-inflection" eid="0" />
+        <error xtype="aux" eid="0" />
       </errors>
   </revision>
   <w>fyrir</w>
@@ -2002,6 +2004,8 @@
     <corrected><w>faðirvorsins</w><c>.</c><w>Þeir</w></corrected>
       <errors>
         <error xtype="nominal-inflection" idx="97-1" eid="0" />
+        <error xtype="case-prep" idx="97-1" eid="0" />
+        <error xtype="genitive" idx="97-1" eid="0" />
         <error xtype="missing-period" idx="97-2" eid="0" />
         <error xtype="extra-word" idx="97-3" eid="0" />
         <error xtype="dep" depId="98-1" eid="0" />
@@ -2111,6 +2115,7 @@
     <corrected><w>Messíasar</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="genitive" eid="0" />
       </errors>
   </revision>
   <w>en</w>
@@ -2129,6 +2134,8 @@
     <corrected><w>ættar</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
+        <error xtype="genitive" eid="0" />
       </errors>
   </revision>
   <w>Salómons</w>
@@ -2244,6 +2251,7 @@
       <errors>
         <error xtype="ind4sub" idx="108-1" eid="0" />
         <error xtype="nominal-inflection" idx="108-2" eid="0" />
+        <error xtype="case-verb" idx="108-2" eid="0" />
       </errors>
   </revision>
   <w>undir</w>

@@ -316,7 +316,8 @@
     <original><w>Þetta</w></original>
     <corrected><w>Þessu</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="pro-inflection" eid="0"/>
+        <error xtype="case-collocation" eid="0" />
       </errors>
   </revision>
   <w>verður</w>
@@ -546,7 +547,7 @@
     <original><w>frekari</w></original>
     <corrected><w>frekara</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="agreement-concord" eid="0"/>
       </errors>
   </revision>
   <w>nám</w>
@@ -789,8 +790,8 @@
     <original><w>miklu</w></original>
     <corrected><w>miklum</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" idx="26-1" eid="0"/>
-		<error xtype="collocation-idiom" idx="26-1" eid="0"/>
+        <error xtype="agreement-concord" idx="26-1" eid="0"/>
+        <error xtype="collocation-idiom" idx="26-1" eid="0"/>
       </errors>
   </revision>
   <w>mæli</w>
@@ -963,7 +964,7 @@
     <original><w>hverjum</w></original>
     <corrected><w>hver</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="agreement-pro" eid="0"/>
       </errors>
   </revision>
   <w>öðrum</w>

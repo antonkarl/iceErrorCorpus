@@ -229,6 +229,7 @@
     <corrected><w>fólki</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>vorkenni</w>
@@ -397,6 +398,7 @@
     <corrected><w>bílar</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -1230,7 +1232,7 @@
     <corrected><w>myndi</w><w>engin</w></corrected>
       <errors>
         <error xtype="u4y" idx="12-1" eid="0"/>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement-concord" eid="0"/>
       </errors>
   </revision>
   <w>menntun</w>
@@ -1645,6 +1647,7 @@
     <corrected><w>lífi</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>okkar</w>

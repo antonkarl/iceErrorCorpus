@@ -340,6 +340,7 @@
     <corrected><w>Auckland</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>en</w>
@@ -349,7 +350,8 @@
     <original><w>hann</w></original>
     <corrected><w>hans</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0" />
+        <error xtype="pro-inflection" eid="0" />
+        <error xtype="genitive" eid="0" />
       </errors>
   </revision>
   <w>á</w>
@@ -622,7 +624,7 @@
     <corrected><w>var</w><w>við</w></corrected>
       <errors>
         <error xtype="agreement" idx="31-1" eid="0" />
-        <error xtype="missing-word" idx="31-2" eid="0" />
+        <error xtype="missing-prep" idx="31-2" eid="0" />
       </errors>
   </revision>
   <w>talsetningar</w>
@@ -632,6 +634,7 @@
     <corrected><w>útgáfu</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>tímarita</w>

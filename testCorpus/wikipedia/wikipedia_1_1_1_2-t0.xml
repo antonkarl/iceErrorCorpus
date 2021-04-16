@@ -563,6 +563,7 @@
     <corrected><w>sviðsútbúnaðinn</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -834,8 +835,7 @@
     <original><w>Reykjavíkur–Víkinni</w></original>
     <corrected><w>Reykjavíkur</w><c>–</c><w>Víkinni</w></corrected>
       <errors>
-        <error xtype="missing-space" idx="82-1" eid="0"/>
-        <error xtype="missing-space" idx="82-1" eid="0"/>
+        <error xtype="missing-space" eid="0"/>
       </errors>
   </revision>
   <w>ásamt</w>
@@ -848,6 +848,7 @@
     <corrected><w>tengdum</w></corrected>
       <errors>
         <error xtype="adjective-inflection" eid="0"/>
+        <error xtype="agreement-pred" eid="0" />
       </errors>
   </revision>
   <w>sjávarsögu</w>

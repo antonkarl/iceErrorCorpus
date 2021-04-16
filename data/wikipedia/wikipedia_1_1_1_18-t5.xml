@@ -61,7 +61,8 @@
     <original><w>önnur</w></original>
     <corrected><w>öðrum</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="pro-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>smærri</w>
@@ -250,6 +251,7 @@
     <corrected><w>hliðina</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>á</w>
@@ -354,6 +356,7 @@
     <corrected><w>Háfadjúpi</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -366,7 +369,7 @@
     <original><w>í</w></original>
     <corrected/>
       <errors>
-        <error xtype="extra-word" eid="0"/>
+        <error xtype="extra-prep" eid="0"/>
       </errors>
   </revision>
   <w>Reynisdjúpi</w>
@@ -940,6 +943,8 @@
       <errors>
         <error xtype="missing-comma" eid="0"/>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
+        <error xtype="genitive" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -948,6 +953,8 @@
     <corrected><w>lítilla</w><w>krabbadýra</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
+        <error xtype="genitive" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -1113,7 +1120,7 @@
     <original><w>fæðist</w></original>
     <corrected><w>fæðast</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>á</w>

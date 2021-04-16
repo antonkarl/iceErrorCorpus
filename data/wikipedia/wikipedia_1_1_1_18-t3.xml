@@ -415,6 +415,7 @@
     <corrected><w>látbrigðum</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -1257,7 +1258,7 @@
     <original><w>skyldu</w></original>
     <corrected><w>skyldi</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>jarðsettur</w>

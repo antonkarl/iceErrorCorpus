@@ -111,8 +111,7 @@
     <original><w>fór</w></original>
     <corrected><w>fóru</w></corrected>
       <errors>
-        <error xtype="agreement" idx="12-1" eid="0"/>
-        <error xtype="missing-letter" idx="12-1" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -120,8 +119,7 @@
     <original><w>vera</w></original>
     <corrected><w>verða</w></corrected>
       <errors>
-        <error xtype="aux" idx="13-1" eid="0"/>
-        <error xtype="missing-letter" idx="13-1" eid="0"/>
+        <error xtype="aux" eid="0"/>
       </errors>
   </revision>
   <w>straumhvörf</w>
@@ -588,8 +586,7 @@
     <original><w>stór</w></original>
     <corrected><w>stórs</w></corrected>
       <errors>
-        <error xtype="agreement-concord" idx="5-1" eid="0"/>
-        <error xtype="missing-letter" idx="5-1" eid="0"/>
+        <error xtype="agreement-concord" eid="0"/>
       </errors>
   </revision>
   <w>hluta</w>
@@ -894,10 +891,8 @@
     <original><w>að</w><w>þau</w><w>báru</w></original>
     <corrected><w>það</w><w>bar</w></corrected>
       <errors>
-        <error xtype="extra-word" idx="6-1" eid="0"/>
-        <error xtype="style" idx="6-1" eid="0"/>
+        <error xtype="extra-conjunction" idx="6-1" eid="0"/>
         <error xtype="agreement-pro" eid="0"/>
-        <error xtype="agreement-pred" eid="0"/>
       </errors>
   </revision>
   <w>mikla</w>

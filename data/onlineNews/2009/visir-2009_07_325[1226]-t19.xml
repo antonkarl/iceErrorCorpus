@@ -415,8 +415,7 @@
     <original><w>FH-inga</w></original>
     <corrected><w>FH-ingar</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="8-1" eid="0" />
-        <error xtype="nominal-inflection" idx="8-1" eid="0" />
+        <error xtype="nominal-inflection" eid="0" />
       </errors>
   </revision>
   <w>fóru</w>
@@ -456,7 +455,8 @@
     <original><w>félagar</w></original>
     <corrected><w>félaga</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="9-1" eid="0" />
+        <error xtype="nom4acc-sub" idx="9-1" eid="0" />
+        <error xtype="case-verb" idx="9-1" eid="0" />
         <error xtype="nominal-inflection" idx="9-1" eid="0" />
       </errors>
   </revision>

@@ -133,7 +133,7 @@
     <corrected><w>í</w><w>Evrópu</w></corrected>
       <errors>
         <error xtype="missing-prep" idx="5-1" eid="0" />
-        <error xtype="nominal-inflection" idx="5-2" eid="0" />
+        <error xtype="dep" depId="5-1" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -141,7 +141,7 @@
     <original><w>Asía</w></original>
     <corrected><w>Asíu</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0" />
+        <error xtype="dep" depId="5-1" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -554,6 +554,7 @@
     <corrected><w>Lyktinni</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>af</w>
@@ -1481,6 +1482,7 @@
     <corrected><w>tinktúru</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>eða</w>
@@ -1489,7 +1491,7 @@
     <original><w>að</w></original>
     <corrected></corrected>
       <errors>
-        <error xtype="extra-word" eid="0" />
+        <error xtype="extra-prep" eid="0" />
       </errors>
   </revision>
   <w>te</w>
@@ -1730,6 +1732,7 @@
     <corrected><w>svefnlyfs</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="genitive" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -1854,6 +1857,7 @@
     <corrected><w>magaóþægindum</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -1963,6 +1967,7 @@
     <corrected><w>tei</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>valdið</w>
@@ -1981,6 +1986,7 @@
     <corrected><w>æsingi</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -3345,6 +3351,7 @@
     <corrected><w>lyfjafræðing</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>ef</w>
@@ -3714,6 +3721,7 @@
     <corrected><w>kynstofni</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0" />
+        <error xtype="case-collocation" eid="0" />
       </errors>
   </revision>
   <w>plöntunnar</w>
@@ -3786,6 +3794,7 @@
     <corrected><w>tengdum</w></corrected>
       <errors>
         <error xtype="adjective-inflection" eid="0" />
+        <error xtype="agreement-pred" eid="0" />
       </errors>
   </revision>
   <w>virkni</w>

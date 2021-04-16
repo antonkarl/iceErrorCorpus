@@ -553,7 +553,7 @@
     <original><w>keppa</w></original>
     <corrected><w>keppast</w></corrected>
       <errors>
-        <error xtype="verb-inflection" eid="0"/>
+        <error xtype="act4mid" eid="0"/>
       </errors>
   </revision>
   <w>hver</w>
@@ -893,6 +893,7 @@
     <corrected><w>merktum</w></corrected>
       <errors>
         <error xtype="adjective-inflection" eid="0"/>
+        <error xtype="agreement-concord" eid="0" />
       </errors>
   </revision>
   <w>skólanum</w>

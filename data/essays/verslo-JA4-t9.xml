@@ -68,7 +68,7 @@
     <corrected><c>,</c><w>hafði</w></corrected>
       <errors>
         <error xtype="dep" depId="13-1" eid="0"/>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>tekið</w>
@@ -271,7 +271,7 @@
     <original><w>vill</w></original>
     <corrected><w>vil</w></corrected>
       <errors>
-        <error xtype="agreement-pred" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>ég</w>
@@ -347,7 +347,7 @@
       <errors>
         <error xtype="n4nn" idx="4-1" eid="0"/>
         <error xtype="agreement-pred" idx="4-1" eid="0"/>
-        <error xtype="extra-word" eid="0"/>
+        <error xtype="extra-conjunction" eid="0"/>
       </errors>
   </revision>
   <w>að</w>

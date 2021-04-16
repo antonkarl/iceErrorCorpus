@@ -260,6 +260,7 @@
     <corrected><w>nemanda</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
@@ -458,6 +459,7 @@
     <corrected><w>uppáhaldi</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0" />
       </errors>
   </revision>
   <w>hjá</w>
@@ -710,7 +712,7 @@
     <original><w>byrjar</w><w>fyr</w></original>
     <corrected><w>byrja</w><w>fyrr</w><w>að</w><w>miðla</w><w>því</w><w>til</w><w>nemenda</w></corrected>
       <errors>
-        <error xtype="verb-inflection" eid="0"/>
+        <error xtype="agreement" eid="0"/>
         <error xtype="missing-letter" idx="63-1" eid="0"/>
         <error xtype="nonword" idx="63-1" eid="0"/>
         <error xtype="missing-inf-part" idx="63-2" eid="0"/>
