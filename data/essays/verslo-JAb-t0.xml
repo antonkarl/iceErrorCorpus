@@ -368,7 +368,7 @@
     <original><w>Held</w></original>
     <corrected><w>Ég</w><w>held</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-sub" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -749,7 +749,7 @@
     <original/>
     <corrected><w>til</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -962,7 +962,7 @@
     <original><w>Kárahnjúka</w></original>
     <corrected><w>í</w><w>Kárahnjúkavirkjun</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="8" eid="0"/>
+        <error xtype="missing-prep" idx="8" eid="0"/>
         <error xtype="wording" idx="8" eid="0"/>
       </errors>
   </revision>

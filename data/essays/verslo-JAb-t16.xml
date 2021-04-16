@@ -141,7 +141,7 @@
     <original/>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0"/>
       </errors>
   </revision>
   <w>til</w>
@@ -278,7 +278,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" idx="9b-1" eid="0"/>
+        <error xtype="though" idx="9b-1" eid="0"/>
       </errors>
   </revision>
   <w>mér</w>

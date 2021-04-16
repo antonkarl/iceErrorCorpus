@@ -453,7 +453,7 @@
     <original/>
     <corrected><w>um</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
       </errors>
   </revision>
   <w>réttar</w>
@@ -774,7 +774,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" idx="23b-1" eid="0"/>
+        <error xtype="though" idx="23b-1" eid="0"/>
       </errors>
   </revision>
   <w>þeir</w>
@@ -1285,7 +1286,7 @@
     <original/>
     <corrected><w>til</w><w>að</w></corrected>
       <errors>
-        <error xtype="missing-conjunctino" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
       </errors>
   </revision>
   <w>lesa</w>

@@ -525,7 +525,8 @@
     <original/>
     <corrected><w>til</w><w>um</w></corrected>
       <errors>
-        <error xtype="missing-words" idx="7-1" eid="0"/>
+        <error xtype="missing-word" idx="7-1" eid="0"/>
+        <error xtype="missing-prep" idx="7-1" eid="0"/>
         <error xtype="collocation" idx="7-1" eid="0"/>
       </errors>
   </revision>

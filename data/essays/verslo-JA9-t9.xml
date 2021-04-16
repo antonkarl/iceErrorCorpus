@@ -710,7 +710,7 @@
     <original/>
     <corrected><w>hvort</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="each" idx="15-1" eid="0"/>
       </errors>
   </revision>
   <w>úr</w>
@@ -718,7 +718,7 @@
     <original><w>sitthvorri</w></original>
     <corrected><w>sinni</w></corrected>
       <errors>
-        <error xtype="wording" eid="0"/>
+        <error xtype="dep" depId="15-1" eid="0"/>
       </errors>
   </revision>
   <w>fjölskyldunni</w>
@@ -748,7 +748,7 @@
     <original/>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0"/>
       </errors>
   </revision>
   <w>ekki</w>

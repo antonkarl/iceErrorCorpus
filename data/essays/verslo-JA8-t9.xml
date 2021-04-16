@@ -523,7 +523,7 @@
     <original/>
     <corrected><w>þeim</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-dem-pro" eid="0"/>
       </errors>
   </revision>
   <w>áróðri</w>
@@ -563,7 +563,7 @@
     <original/>
     <corrected><w>við</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -687,7 +687,7 @@
     <original/>
     <corrected><w>eru</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
@@ -993,7 +993,7 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-conjunction" eid="0" />
       </errors>
   </revision>
   <w>ég</w>

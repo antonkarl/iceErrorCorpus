@@ -795,7 +795,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" idx="19b-1" eid="0"/>
+        <error xtype="though" idx="19b-1" eid="0"/>
       </errors>
   </revision>
   <w>kaldir</w>
@@ -891,7 +892,7 @@
     <original/>
     <corrected><w>ég</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-sub" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -930,7 +931,7 @@
     <original/>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
       </errors>
   </revision>
   <w>á</w>
@@ -969,7 +970,7 @@
     <original/>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
       </errors>
   </revision>
   <w>mennirnir</w>
@@ -1103,7 +1104,7 @@
     <original/>
     <corrected><w>var</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0"/>
       </errors>
   </revision>
   <w>fyrir</w>

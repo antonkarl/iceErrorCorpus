@@ -56,7 +56,7 @@
     <original/>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0"/>
       </errors>
   </revision>
   <w>nú</w>
@@ -1170,7 +1170,7 @@
     <corrected><w>á</w><w>því</w></corrected>
       <errors>
         <error xtype="wrong-prep" idx="27-1" eid="0"/>
-        <error xtype="missing-word" idx="27-2" eid="0"/>
+        <error xtype="missing-obj" idx="27-2" eid="0"/>
       </errors>
   </revision>
   <w>hverjar</w>
@@ -1189,7 +1189,7 @@
     <original/>
     <corrected><w>það</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-obj" eid="0"/>
       </errors>
   </revision>
   <w>hvort</w>
