@@ -207,7 +207,7 @@
     <original/>
     <corrected><w>á</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0"/>
+        <error xtype="extra-prep" eid="0"/>
       </errors>
   </revision>
   <w>meðan</w>
@@ -296,7 +296,8 @@
     <original/>
     <corrected><w>upp</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0"/>
+        <error xtype="collocation" idx="14-1" eid="0"/>
+        <error xtype="missing-word" idx="14-1" eid="0"/>
       </errors>
   </revision>
   <w>en</w>
@@ -1358,7 +1359,7 @@
     <original><w>sem</w><w>flestar</w><w>breytingar</w><w>eru</w></original>
     <corrected/>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="extra-words" eid="0"/>
       </errors>
   </revision>
   <c>.</c>

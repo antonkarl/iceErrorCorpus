@@ -567,7 +567,7 @@
     <original/>
     <corrected><w>sem</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
       </errors>
   </revision>
   <w>mest</w>
@@ -968,7 +968,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" idx="33b-1" eid="0"/>
+        <error xtype="though" idx="33b-1" eid="0"/>
       </errors>
   </revision>
   <w>við</w>
@@ -999,7 +1000,7 @@
     <original/>
     <corrected><w>við</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-sub" eid="0"/>
       </errors>
   </revision>
   <w>höfum</w>
@@ -1422,7 +1423,8 @@
     <original/>
     <corrected><w>hlýtur</w><w>maður</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-fin-verb" idx="58-1" eid="0"/>
+        <error xtype="missing-sub" idx="58-2" eid="0" />
       </errors>
   </revision>
   <c>.</c>

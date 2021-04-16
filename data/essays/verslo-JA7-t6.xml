@@ -565,7 +565,8 @@
     <original><w>við</w><w>bæði</w><w>dæmin</w></original>
     <corrected><w>frá</w><w>báðum</w><w>dæmum</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0"/>
+        <error xtype="wrong-prep" idx="6-1" eid="0"/>
+        <error xtype="def4ind" idx="6-2" eid="0"/>
       </errors>
   </revision>
   <c>,</c>

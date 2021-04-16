@@ -421,7 +421,8 @@
     <original><w>við</w></original>
     <corrected><w>til</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0" />
+        <error xtype="collocation" idx="28-1" eid="0" />
+        <error xtype="wrong-prep" idx="5-1" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -701,7 +702,8 @@
     <original></original>
     <corrected><w>nýtt</w><w>sem</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-word" idx="43-1" eid="0" />
+        <error xtype="missing-conjunction" idx="43-2" eid="0"/>
       </errors>
   </revision>
   <w>hluti</w>
@@ -2155,7 +2157,8 @@
     <original><w>sem</w><w>notuð</w></original>
     <corrected></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="extra-conjunction" idx="109-1" eid="0" />
+        <error xtype="extra-word" idx="109-2" eid="0"/>
       </errors>
   </revision>
   <w>eru</w>

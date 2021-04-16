@@ -191,7 +191,9 @@
     <original></original>
     <corrected><w>einkunn</w><w>á</w><w>bilinu</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-obj" idx="5-1" eid="0" />
+        <error xtype="missing-prep" idx="5-2" eid="0" />
+        <error xtype="missing-obj" idx="5-3" eid="0" />
       </errors>
   </revision>
   <w>75</w>
@@ -202,7 +204,8 @@
     <original></original>
     <corrected><w>af</w><w>100</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-prep" idx="6-1" eid="0" />
+        <error xtype="missing-obj" idx="6-2" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -1394,7 +1397,8 @@
     <original></original>
     <corrected><w>henni</w><w>er</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" idx="74-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="74-2" eid="0" />
       </errors>
   </revision>
   <w>bara</w>

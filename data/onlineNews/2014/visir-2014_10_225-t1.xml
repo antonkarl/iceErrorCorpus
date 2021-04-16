@@ -174,8 +174,11 @@
     <original/>
     <corrected><w>kom</w><w>fram</w><w>á</w><w>fundinum</w><c>.</c></corrected>
       <errors>
-        <error xtype="missing-words" idx="16-1" eid="0"/>
-        <error xtype="missing-period" idx="16-2" eid="0"/>
+        <error xtype="missing-fin-verb" idx="16-1" eid="0"/>
+        <error xtype="missing-word" idx="16-2" eid="0" />
+        <error xtype="missing-prep" idx="16-3" eid="0" />
+        <error xtype="missing-obj" idx="16-4" eid="0" />
+        <error xtype="missing-period" idx="16-5" eid="0"/>
       </errors>
   </revision>
 </s><s n="6">
@@ -291,7 +294,8 @@
     <original/>
     <corrected><w>hafi</w><w>þó</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-fin-verb" idx="12-1" eid="0"/>
+        <error xtype="missing-word" idx="12-2" eid="0" />
       </errors>
   </revision>
   <w>einnig</w>
@@ -613,7 +617,7 @@
     <corrected><w>lénunum</w><w>voru</w><w>brot</w><w>á</w></corrected>
       <errors>
         <error xtype="dep" depId="17-1" eid="0"/>
-        <error xtype="missing-words" idx="18-1" eid="0"/>
+        <error xtype="missing-obj" idx="18-1" eid="0"/>
       </errors>
   </revision>
   <w>landslögum</w>

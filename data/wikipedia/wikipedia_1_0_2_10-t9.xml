@@ -48,7 +48,10 @@
       <errors>
         <error xtype="dep" depId="2-3" eid="0" />
         <error xtype="missing-comma" idx="3-1" eid="0" />
-        <error xtype="missing-words" idx="3-2" eid="0" />
+        <error xtype="missing-conjunction" idx="3-2" eid="0" />
+        <error xtype="missing-word" idx="3-3" eid="0" />
+        <error xtype="missing-fin-verb" idx="3-4" eid="0" />
+        <error xtype="missing-sub" idx="3-5" eid="0" />
       </errors>
   </revision>
   <w>sú</w>
@@ -514,7 +517,8 @@
     <original></original>
     <corrected><w>um</w><w>þá</w><w>félaga</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-prep" idx="22-1" eid="0" />
+        <error xtype="missing-obj" idx="22-2" eid="0" />
       </errors>
   </revision>
   <c>.</c>

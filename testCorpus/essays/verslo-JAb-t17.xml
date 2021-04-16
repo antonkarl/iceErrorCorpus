@@ -1339,7 +1339,8 @@
     <original/>
     <corrected><w>um</w><w>það</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-prep" idx="73-1" eid="0"/>
+        <error xtype="missing-obj" idx="73-2" eid="0" />
       </errors>
   </revision>
   <w>og</w>

@@ -291,7 +291,8 @@
     <original><w>Fyrsti</w></original>
     <corrected><w>Hver</w><w>var</w><w>fyrsti</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" idx="12-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="12-2" eid="0" />
       </errors>
   </revision>
   <w>flugufiskurinn</w>
@@ -352,7 +353,8 @@
     <original><w>Eftirminnilegasti</w></original>
     <corrected><w>Hver</w><w>er</w><w>eftirminnilegasti</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" idx="15-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="15-2" eid="0" />
       </errors>
   </revision>
   <w>fiskurinn</w>
@@ -1008,7 +1010,9 @@
     <original><w>Sexur</w></original>
     <corrected><w>Ég</w><w>er</w><w>með</w><w>sexur</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" idx="49-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="49-2" eid="0" />
+        <error xtype="missing-prep" idx="49-3" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -1297,7 +1301,8 @@
       <errors>
         <error xtype="missing-space" idx="59-1" eid="0" />
         <error xtype="missing-space" idx="59-1" eid="0" />
-        <error xtype="missing-words" idx="59-2" eid="0" />
+        <error xtype="missing-word" idx="59-2" eid="0" />
+        <error xtype="missing-inf-part" idx="59-3" eid="0" />
       </errors>
   </revision>
   <w>hafa</w>

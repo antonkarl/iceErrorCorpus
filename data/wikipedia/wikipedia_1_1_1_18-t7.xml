@@ -411,7 +411,8 @@
     <original/>
     <corrected><w>til</w><w>viðbótar</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-prep" idx="9-1" eid="0"/>
+        <error xtype="missing-obj" idx="9-2" eid="0" />
       </errors>
   </revision>
   <c>,</c>

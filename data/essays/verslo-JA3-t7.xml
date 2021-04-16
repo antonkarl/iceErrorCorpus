@@ -184,7 +184,7 @@
     <original><w>drauma</w><w>húsið</w></original>
     <corrected><w>draumahúsið</w></corrected>
       <errors>
-        <error xtype="split-word" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>sem</w>
@@ -649,7 +649,7 @@
     <original><w>frásögu</w></original>
     <corrected><w>í</w><w>frásögur</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="32-1" eid="0"/>
+        <error xtype="missing-prep" idx="32-1" eid="0"/>
         <error xtype="singular4plural" idx="32-1" eid="0"/>
         <error xtype="collocation" idx="32-1" eid="0"/>
       </errors>
@@ -1257,7 +1257,7 @@
     <original/>
     <corrected><w>öðrum</w><c>,</c></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-obj" eid="0"/>
         <error xtype="missing-comma" eid="0"/>
       </errors>
   </revision>

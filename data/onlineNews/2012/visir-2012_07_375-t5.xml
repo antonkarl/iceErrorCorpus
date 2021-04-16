@@ -70,7 +70,8 @@
     <original><w>Fyrsti</w></original>
     <corrected><w>Hann</w><w>veiddi</w><w>fyrsta</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" idx="3-1" eid="0" />
+        <error xtype="missing-word" idx="3-2" eid="0" />
       </errors>
   </revision>
   <w>laxinn</w>
@@ -137,8 +138,10 @@
     <original><w>Og</w></original>
     <corrected><w>En</w><w>Svavar</w><w>veiddi</w><w>þó</w><w>einn</w><w>og</w></corrected>
       <errors>
-        <error xtype="conjunction" idx="10-1" eid="0" />
-        <error xtype="missing-words" idx="10-2" eid="0" />
+        <error xtype="missing-conjunction" idx="10-1" eid="0" />
+        <error xtype="missing-sub" idx="10-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="10-3" eid="0" />
+        <error xtype="missing-words" idx="10-4" eid="0" />
       </errors>
   </revision>
   <w>missti</w>
@@ -294,7 +297,8 @@
     <original></original>
     <corrected><w>um</w><w>það</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-prep" idx="14-1" eid="0" />
+        <error xtype="missing-obj" idx="14-2" eid="0" />
       </errors>
   </revision>
   <w>hér</w>

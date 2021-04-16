@@ -1464,7 +1464,8 @@
     <original><w>Hundrað</w></original>
     <corrected><w>Það</w><w>var</w><w>hundrað</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-sub" idx="44-1" eid="0"/>
+        <error xtype="missing-fin-verb" idx="44-2" eid="0" />
       </errors>
   </revision>
   <w>prósent</w>
@@ -1610,7 +1611,8 @@
     <corrected><w>Þá</w><w>voru</w></corrected>
       <errors>
         <error xtype="wording" idx="27-1" eid="0"/>
-        <error xtype="missing-words" idx="27-2" eid="0"/>
+        <error xtype="missing-word" idx="27-2" eid="0"/>
+        <error xtype="missing-fin-verb" idx="27-3" eid="0" />
       </errors>
   </revision>
   <w>tvö</w>
@@ -2530,7 +2532,8 @@
     <original/>
     <corrected><w>það</w><w>er</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-sub" idx="79-1" eid="0"/>
+        <error xtype="missing-fin-verb" idx="79-2" eid="0" />
       </errors>
   </revision>
   <w>spurning</w>

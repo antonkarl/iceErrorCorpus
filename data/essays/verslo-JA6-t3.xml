@@ -103,7 +103,8 @@
     <original><w>uppi</w></original>
     <corrected><w>upp</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0"/>
+        <error xtype="collocation" idx="4-1" eid="0"/>
+        <error xtype="loc4dir" idx="4-1" eid="0"/>
       </errors>
   </revision>
   <w>er</w>
@@ -339,7 +340,7 @@
     <original><w>skynsemis</w><w>marka</w></original>
     <corrected><w>skynsemismarka</w></corrected>
       <errors>
-        <error xtype="split-word" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -370,7 +371,7 @@
     <original/>
     <corrected><w>í</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
       </errors>
   </revision>
   <w>þegar</w>
@@ -885,7 +886,7 @@
     <original><w>eiga</w></original>
     <corrected><w>hafa</w></corrected>
       <errors>
-        <error xtype="wording" eid="0"/>
+        <error xtype="have" eid="0"/>
       </errors>
   </revision>
   <w>mikið</w>
@@ -893,7 +894,9 @@
     <original><w>fé</w></original>
     <corrected><w>á</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0"/>
+        <error xtype="collocation" idx="26-1" eid="0"/>
+        <error xtype="extra-word" idx="26-1" eid="0"/>
+        <error xtype="missing-prep" idx="26-1" eid="0"/>
       </errors>
   </revision>
   <w>milli</w>
@@ -1112,7 +1115,8 @@
     <original><w>í</w></original>
     <corrected><w>á</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0"/>
+        <error xtype="collocation" idx="34-1" eid="0"/>
+        <error xtype="wrong-prep" idx="34-1" eid="0"/>
       </errors>
   </revision>
   <w>heildina</w>
@@ -1213,7 +1217,7 @@
     <original><w>auga</w><w>leið</w></original>
     <corrected><w>augaleið</w></corrected>
       <errors>
-        <error xtype="split-word" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -1342,7 +1346,7 @@
     <original/>
     <corrected><w>á</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
       </errors>
   </revision>
   <w>meðan</w>
@@ -1683,7 +1687,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" idx="58b-1" eid="0"/>
+        <error xtype="though" idx="58b-1" eid="0"/>
       </errors>
   </revision>
   <w>Akeem</w>

@@ -2643,8 +2643,9 @@
     <original></original>
     <corrected><w>er</w><w>okkar</w><c>.</c></corrected>
       <errors>
-        <error xtype="missing-words" idx="103-1" eid="0" />
-        <error xtype="missing-period" idx="103-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="103-1" eid="0" />
+        <error xtype="missing-word" idx="103-2" eid="0" />
+        <error xtype="missing-period" idx="103-3" eid="0" />
       </errors>
   </revision>
   <w>Líkt</w>

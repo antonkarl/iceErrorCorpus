@@ -199,7 +199,8 @@
     <original/>
     <corrected><w>stundum</w><w>er</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-word" idx="11-1" eid="0"/>
+        <error xtype="missing-fin-verb" idx="11-2" eid="0" />
       </errors>
   </revision>
   <w>jafnvel</w>
@@ -296,7 +297,7 @@
     <original><w>hipp</w><w>hopp</w></original>
     <corrected><w>hipphopp</w></corrected>
       <errors>
-        <error xtype="split-word" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <c>,</c>
@@ -902,7 +903,7 @@
     <original><w>hipp</w><w>hopp</w></original>
     <corrected><w>hipphopp</w></corrected>
       <errors>
-        <error xtype="split-word" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <c>)</c>

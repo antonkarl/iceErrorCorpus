@@ -33,8 +33,13 @@
   <w>stoppar</w>
   <w>næst</w>
   <w>á</w>
-  <w>Silverstone</w>
-  <w>brautinni</w>
+  <revision id="0">
+    <original><w>Silverstone</w><w>brautinni</w></original>
+    <corrected><w>Silverstone-brautinni</w></corrected>
+      <errors>
+        <error xtype="missing-hyphen" eid="0" />
+      </errors>
+  </revision>
   <w>í</w>
   <w>Bretlandi</w>
   <c>.</c>
@@ -1083,7 +1088,10 @@
     <original><w>Fimmtudagur</w></original>
     <corrected><w>Dagskrá</w><w>á</w><w>fimmtudag</w><w>er</w><w>eftirfarandi</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" idx="39-1" eid="0" />
+        <error xtype="missing-prep" idx="39-2" eid="0"/>
+        <error xtype="missing-fin-verb" idx="39-3" eid="0"/>
+        <error xtype="missing-word" idx="39-4" eid="0"/>
       </errors>
   </revision>
   <c>:</c>
@@ -1123,8 +1131,9 @@
     <corrected><w>átta</w><w>umferðir</w><w>er</w><w>eftirfarandi</w><c>:</c></corrected>
       <errors>
         <error xtype="merged-words" idx="40-1" eid="0" />
-        <error xtype="missing-words" idx="40-2" eid="0" />
-        <error xtype="missing-colon" idx="40-3" eid="0" />
+        <error xtype="missing-fin-verb" idx="40-2" eid="0" />
+        <error xtype="missing-word" idx="49-3" eid="0"/>
+        <error xtype="missing-colon" idx="40-4" eid="0" />
       </errors>
   </revision>
   <w>Ökumenn</w>

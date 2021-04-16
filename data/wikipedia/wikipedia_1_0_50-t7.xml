@@ -734,7 +734,8 @@
     <original></original>
     <corrected><w>að</w><w>honum</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-prep" idx="38-1" eid="0" />
+        <error xtype="missing-obj" idx="38-2" eid="0" />
       </errors>
   </revision>
   <w>þar</w>
@@ -1657,7 +1658,7 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="65b-1" eid="0" />
+        <error xtype="missing-prep" idx="65b-1" eid="0" />
         <error xtype="collocation" idx="65b-1" eid="0" />
       </errors>
   </revision>
@@ -1903,7 +1904,8 @@
     <original></original>
     <corrected><w>og</w><w>er</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-conjunction" idx="68-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="68-2" eid="0" />
       </errors>
   </revision>
   <w>nokkuð</w>
@@ -2615,7 +2617,9 @@
     <original><w>höggi</w></original>
     <corrected><w>högg</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0" />
+        <error xtype="collocation" idx="82-1" eid="0" />
+        <error xtype="nominal-inflection" idx="82-1" eid="0"/>
+        <error xtype="case-prep" idx="82-1" eid="0"/>
       </errors>
   </revision>
   <w>að</w>

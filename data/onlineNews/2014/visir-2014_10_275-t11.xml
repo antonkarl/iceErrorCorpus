@@ -198,7 +198,8 @@
     <original><w>Frábær</w></original>
     <corrected><w>Hann</w><w>var</w><w>frábær</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" idx="4-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="4-2" eid="0" />
       </errors>
   </revision>
   <w>sonur</w>

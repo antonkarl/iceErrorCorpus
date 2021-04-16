@@ -327,7 +327,9 @@
     <original></original>
     <corrected><w>gott</w><w>er</w><w>að</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-word" idx="12-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="12-2" eid="0" />
+        <error xtype="missing-inf-part" idx="12-3" eid="0" />
       </errors>
   </revision>
   <w>fá</w>
@@ -383,8 +385,9 @@
     <original></original>
     <corrected><w>var</w><w>ótrúlegt</w><c>.</c></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
-        <error xtype="missing-period" eid="0" />
+        <error xtype="missing-fin-verb" idx="13-1" eid="0" />
+        <error xtype="missing-word" idx="13-2" eid="0" />
+        <error xtype="missing-period" idx="13-3" eid="0" />
       </errors>
   </revision>
   <w>Í</w>
@@ -559,7 +562,8 @@
     <original></original>
     <corrected><w>hefði</w><w>gerst</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-fin-verb" idx="25-1" eid="0" />
+        <error xtype="missing-word" idx="25-2" eid="0" />
       </errors>
   </revision>
   <w>þá</w>
@@ -798,8 +802,9 @@
     <original></original>
     <corrected><w>hefur</w><w>áhrif</w><c>.</c></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
-        <error xtype="missing-period" eid="0" />
+        <error xtype="missing-fin-verb" idx="33-1" eid="0" />
+        <error xtype="missing-obj" idx="33-2" eid="0" />
+        <error xtype="missing-period" idx="33-3" eid="0" />
       </errors>
   </revision>
   <w>Með</w>
@@ -995,7 +1000,12 @@
     <original></original>
     <corrected><w>sem</w><w>þeir</w><w>þurfa</w><w>að</w><w>gera</w><w>það</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-conjunction" idx="42-1" eid="0" />
+        <error xtype="missing-sub" idx="42-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="42-3" eid="0" />
+        <error xtype="missing-inf-part" idx="42-4" eid="0" />
+        <error xtype="missing-word" idx="42-5" eid="0" />
+        <error xtype="missing-obj" idx="42-6" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -1278,7 +1288,9 @@
     <original></original>
     <corrected><w>gerði</w><w>það</w><w>líka</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-fin-verb" idx="52-1" eid="0" />
+        <error xtype="missing-obj" idx="52-2" eid="0" />
+        <error xtype="missing-word" idx="52-3" eid="0" />
       </errors>
   </revision>
   <w>en</w>
@@ -1448,8 +1460,9 @@
     <original></original>
     <corrected><w>er</w><w>mikilvægur</w><c>.</c></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
-        <error xtype="missing-period" eid="0" />
+        <error xtype="missing-fin-verb" idx="55-1" eid="0" />
+        <error xtype="missing-word" idx="55-2" eid="0" />
+        <error xtype="missing-period" idx="55-3" eid="0" />
       </errors>
   </revision>
   <w>Þjálfarateymi</w>
@@ -1466,8 +1479,7 @@
     <original><w>Ríka</w><w>manna</w></original>
     <corrected><w>Ríka-manna</w></corrected>
       <errors>
-        <error xtype="split-word" idx="56-1" eid="0" />
-        <error xtype="missing-hyphen" idx="56-1" eid="0" />
+        <error xtype="missing-hyphen" eid="0" />
       </errors>
   </revision>
   <c>.</c>

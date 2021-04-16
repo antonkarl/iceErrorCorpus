@@ -159,7 +159,10 @@
     <original><w>Oftast</w></original>
     <corrected><w>Leikmenn</w><w>sem</w><w>hafa</w><w>oftast</w><w>komist</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" idx="1-1" eid="0" />
+        <error xtype="missing-conjunction" idx="1-2" eid="0"/>
+        <error xtype="missing-fin-verb" idx="1-3" eid="0"/>
+        <error xtype="missing-word" idx="1-4" eid="0"/>
       </errors>
   </revision>
   <w>í</w>

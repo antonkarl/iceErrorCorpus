@@ -277,7 +277,8 @@
     <original/>
     <corrected><w>seinna</w><w>í</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-word" idx="17-1" eid="0"/>
+        <error xtype="missing-prep" idx="17-2" eid="0"/>
       </errors>
   </revision>
   <w>framhaldsmyndinni</w>

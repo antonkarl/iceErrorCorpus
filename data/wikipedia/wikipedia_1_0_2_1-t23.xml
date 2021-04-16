@@ -914,7 +914,10 @@
     <original></original>
     <corrected><w>sem</w><w>kenndir</w><w>eru</w><w>við</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-conjunction" idx="32-1" eid="0" />
+        <error xtype="missing-word" idx="32-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="32-3" eid="0" />
+        <error xtype="missing-prep" idx="32-4" eid="0" />
       </errors>
   </revision>
   <w>Jasper</w>
@@ -1050,12 +1053,13 @@
   <w>er</w>
   <w>fjölbreytt</w>
   <c>:</c>
+  <w>T.d.</w>
   <revision id="34">
-    <original><w>T.</w><w>d.</w></original>
-    <corrected><w>T.d.</w><w>finnast</w><w>þar</w></corrected>
+    <original></original>
+    <corrected><w>finnast</w><w>þar</w></corrected>
       <errors>
-        <error xtype="extra-space" idx="34-1" eid="0" />
-        <error xtype="missing-words" idx="34-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="34-1" eid="0" />
+        <error xtype="missing-word" idx="34-2" eid="0" />
       </errors>
   </revision>
   <w>skallaernir</w>

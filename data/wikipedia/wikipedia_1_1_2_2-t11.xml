@@ -295,7 +295,8 @@
     <original><w>til</w></original>
     <corrected><w>og</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0" />
+        <error xtype="extra-prep" idx="11-1" eid="0" />
+        <error xtype="missing-conjunction" idx="11-1" eid="0"/>
       </errors>
   </revision>
   <w>20</w>

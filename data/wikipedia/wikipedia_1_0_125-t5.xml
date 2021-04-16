@@ -30,8 +30,9 @@
     <original><w>6. nóvember 1946</w><c>)</c></original>
     <corrected><w>er</w><w>6. nóvember árið 1946</w><c>,</c></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
-        <error xtype="bracket4comma" eid="0" />
+        <error xtype="missing-fin-verb" idx="2-1" eid="0" />
+        <error xtype="missing-word" idx="2-2" eid="0" />
+        <error xtype="bracket4comma" idx="2-3" eid="0" />
       </errors>
   </revision>
   <w>er</w>

@@ -106,7 +106,8 @@
     <original></original>
     <corrected><w>og</w><w>verið</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-conjunction" idx="7-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="7-2" eid="0" />
       </errors>
   </revision>
   <w>nánast</w>
@@ -162,7 +163,7 @@
   <w>landsins</w>
   <revision id="9">
     <original><c>(</c><w>tæp</w><w>1.5 milljón</w><w>íbúar</w><c>)</c></original>
-    <corrected><c>,</c><w>sem</w><w>hefur</w><w>aðeins</w><w>tæpar</w><w>1.5</w><w>milljónir</w><w>íbúa</w><c>,</c></corrected>
+    <corrected><c>,</c><w>sem</w><w>hefur</w><w>aðeins</w><w>tæpar</w><w>1,5</w><w>milljónir</w><w>íbúa</w><c>,</c></corrected>
       <errors>
         <error xtype="bracket4comma" idx="9-1" eid="0" />
         <error xtype="missing-conjunction" idx="9-2" eid="0" />

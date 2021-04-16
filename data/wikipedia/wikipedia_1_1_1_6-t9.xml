@@ -41,7 +41,9 @@
     <original/>
     <corrected><w>samkvæmt</w><w>tölum</w><w>frá</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-prep" idx="1-1" eid="0"/>
+        <error xtype="missing-obj" idx="1-2" eid="0" />
+        <error xtype="missing-prep" idx="1-3" eid="0" />
       </errors>
   </revision>
   <w>1. janúar 2013</w>

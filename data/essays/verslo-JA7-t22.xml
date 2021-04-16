@@ -246,7 +246,7 @@
     <original/>
     <corrected><w>á</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -1064,7 +1064,7 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
       </errors>
   </revision>
   <w>milljónum</w>
@@ -1106,7 +1106,7 @@
     <original><w>óra</w><w>tíma</w></original>
     <corrected><w>óratíma</w></corrected>
       <errors>
-        <error xtype="split-word" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>að</w>

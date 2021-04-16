@@ -105,8 +105,11 @@
     <original><c>,</c></original>
     <corrected><w>og</w><w>sagt</w><w>við</w><w>sjálfa</w><w>sig</w><c>:</c></corrected>
       <errors>
-        <error xtype="missing-words" idx="5-1" eid="0"/>
-        <error xtype="comma4colon" idx="5-2" eid="0"/>
+        <error xtype="missing-conjunction" idx="5-1" eid="0"/>
+        <error xtype="missing-word" idx="5-2" eid="0" />
+        <error xtype="missing-prep" idx="5-3" eid="0" />
+        <error xtype="missing-obj" idx="5-4" eid="0" />
+        <error xtype="comma4colon" idx="5-5" eid="0"/>
       </errors>
   </revision>
   <c>„</c>

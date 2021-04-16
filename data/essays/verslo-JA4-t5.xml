@@ -355,7 +355,7 @@
     <original/>
     <corrected><w>þess</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -423,7 +423,7 @@
     <original/>
     <corrected><w>mun</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -636,7 +636,7 @@
     <original/>
     <corrected><w>þess</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -782,7 +782,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" idx="24b-1" eid="0"/>
+        <error xtype="though" idx="24b-1" eid="0"/>
       </errors>
   </revision>
   <w>einhver</w>

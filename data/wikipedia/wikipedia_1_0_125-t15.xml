@@ -315,7 +315,8 @@
     <original></original>
     <corrected><w>á</w><w>hæð</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-prep" idx="16-1" eid="0" />
+        <error xtype="missing-obj" idx="16-2" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -354,7 +355,9 @@
     <original></original>
     <corrected><w>er</w><w>í</w><w>fylkinu</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-fin-verb" idx="17-1" eid="0" />
+        <error xtype="missing-prep" idx="17-2" eid="0" />
+        <error xtype="missing-obj" idx="17-3" eid="0" />
       </errors>
   </revision>
   <w>eða</w>
@@ -388,7 +391,8 @@
     <original></original>
     <corrected><w>sem</w><w>lifa</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-conjunction" idx="18-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="18-2" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -853,7 +857,8 @@
     <original></original>
     <corrected><w>frá</w><w>Quebec</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-prep" idx="45-1" eid="0" />
+        <error xtype="missing-obj" idx="45-2" eid="0" />
       </errors>
   </revision>
   <w>tóku</w>
@@ -921,7 +926,8 @@
     <original></original>
     <corrected><w>við</w><w>völd</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-prep" idx="50-1" eid="0" />
+        <error xtype="missing-obj" idx="50-2" eid="0" />
       </errors>
   </revision>
   <w>með</w>
@@ -963,7 +969,8 @@
     <original></original>
     <corrected><w>það</w><w>gerðu</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" idx="52-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="52-2" eid="0" />
       </errors>
   </revision>
   <w>einnig</w>
@@ -1092,8 +1099,9 @@
       <errors>
         <error xtype="merged-words" idx="60-1" eid="0" />
         <error xtype="missing-hyphen" idx="60-1" eid="0" />
-        <error xtype="bracket4comma" eid="0" />
-        <error xtype="missing-words" eid="0" />
+        <error xtype="bracket4comma" idx="60-2" eid="0" />
+        <error xtype="missing-conjunction" idx="60-3" eid="0" />
+        <error xtype="missing-fin-verb" idx="60-4" eid="0" />
       </errors>
   </revision>
   <w>einfaldlega</w>
@@ -1286,7 +1294,8 @@
     <original></original>
     <corrected><w>í</w><w>Quebec</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-prep" idx="66-1" eid="0" />
+        <error xtype="missing-obj" idx="66-2" eid="0" />
       </errors>
   </revision>
   <w>er</w>

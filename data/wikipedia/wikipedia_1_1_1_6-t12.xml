@@ -133,8 +133,7 @@
     <original><w>Royal</w><w>College</w><w>of</w><w>Art</w></original>
     <corrected><w>Konunglega</w><w>listaháskólann</w></corrected>
       <errors>
-        <error xtype="wording" idx="15-1" eid="0"/>
-        <error xtype="missing-words" idx="15-2" eid="0"/>
+        <error xtype="fw4ice" idx="15-1" eid="0"/>
       </errors>
   </revision>
   <w>í</w>
@@ -173,7 +172,10 @@
     <original/>
     <corrected><w>Barbara</w><w>sagði</w><w>enn</w><w>fremur</w><c>:</c></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-sub" idx="12-1" eid="0"/>
+        <error xtype="missing-fin-verb" idx="12-2" eid="0"/>
+        <error xtype="missing-words" idx="12-3" eid="0"/>
+        <error xtype="missing-colon" idx="12-4" eid="0"/>
       </errors>
   </revision>
   <c>„</c>
@@ -272,7 +274,11 @@
     <original/>
     <corrected><w>Barbara</w><w>sagði</w><w>af</w><w>því</w><w>tilefni</w><c>:</c></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-sub" idx="21-1" eid="0"/>
+        <error xtype="missing-fin-verb" idx="21-2" eid="0"/>
+        <error xtype="missing-prep" idx="21-3" eid="0"/>
+        <error xtype="missing-obj" idx="21-4" eid="0"/>
+        <error xtype="missing-colon" idx="21-5" eid="0"/>
       </errors>
   </revision>
   <c>„</c>

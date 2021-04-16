@@ -163,7 +163,8 @@
     <original></original>
     <corrected><w>var</w><w>einn</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-fin-verb" idx="5-1" eid="0" />
+        <error xtype="missing-word" idx="5-2" eid="0" />
       </errors>
   </revision>
   <w>helsti</w>

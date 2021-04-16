@@ -24,7 +24,8 @@
     <original></original>
     <corrected><w>sem</w><w>var</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-conjunction" idx="1-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="1-2" eid="0" />
       </errors>
   </revision>
   <w>stofnuð</w>
@@ -81,8 +82,12 @@
     <original><w>meðlimirnir</w><w>sameiginlegt-þeir</w></original>
     <corrected><w>meðlimir</w><w>hljómsveitarinnar</w><w>sameiginlegt</w><w>en</w><w>það</w><w>er</w><w>að</w><w>þeir</w></corrected>
       <errors>
-        <error xtype="def4ind" eid="0" />
-        <error xtype="missing-words" eid="0" />
+        <error xtype="wording" idx="5-1" eid="0" />
+        <error xtype="extra-hyphen" idx="5-2" eid="0" />
+        <error xtype="missing-conjunction" idx="5-3" eid="0" />
+        <error xtype="missing-sub" idx="5-4" eid="0" />
+        <error xtype="missing-fin-verb" idx="5-5" eid="0" />
+        <error xtype="missing-conjunction" idx="5-6" eid="0" />
       </errors>
   </revision>
   <w>eru</w>

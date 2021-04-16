@@ -110,9 +110,10 @@
     <original><c>)</c><w>og</w><w>vegna</w></original>
     <corrected><w>í</w><w>borginni</w><c>.</c><w>Vegna</w></corrected>
       <errors>
-        <error xtype="extra-bracket" eid="0"/>
-        <error xtype="missing-words" eid="0"/>
-        <error xtype="conjunction4period" eid="0"/>
+        <error xtype="extra-bracket" idx="5-1" eid="0"/>
+        <error xtype="missing-prep" idx="5-2" eid="0"/>
+        <error xtype="missing-obj" idx="5-3" eid="0" />
+        <error xtype="conjunction4period" idx="5-4" eid="0"/>
       </errors>
   </revision>
   <w>seinni</w>

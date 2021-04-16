@@ -19,8 +19,7 @@
     <original><w>Suður</w><w>Kóreumenn</w></original>
     <corrected><w>Suður-Kóreumenn</w></corrected>
       <errors>
-        <error xtype="split-word" idx="1-1" eid="0" />
-        <error xtype="missing-hyphen" idx="1-1" eid="0" />
+        <error xtype="missing-hyphen" eid="0" />
       </errors>
   </revision>
   <w>hyggjast</w>
@@ -112,7 +111,6 @@
     <original><w>Suður</w><w>Kóreu</w></original>
     <corrected><w>Suður-Kóreu</w><w>segir</w><w>hins</w><w>vegar</w></corrected>
       <errors>
-        <error xtype="split-word" idx="7-1" eid="0" />
         <error xtype="missing-hyphen" idx="7-1" eid="0" />
         <error xtype="wording" idx="7-2" eid="0" />
         <error xtype="merged-words" idx="7-2" eid="0" />

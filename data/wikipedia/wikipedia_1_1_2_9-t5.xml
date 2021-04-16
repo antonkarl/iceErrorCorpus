@@ -1250,7 +1250,7 @@
     <original></original>
     <corrected><w>þ.e.</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-word" eid="0" />
       </errors>
   </revision>
   <w>minnkun</w>
@@ -1458,7 +1458,7 @@
     <original><w>eða</w></original>
     <corrected><w>né</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0" />
+        <error xtype="conjunction" eid="0" />
       </errors>
   </revision>
   <w>svefn</w>
@@ -2012,7 +2012,8 @@
     <original></original>
     <corrected><w>lyfinu</w><w>er</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" idx="80-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="80-2" eid="0" />
       </errors>
   </revision>
   <w>blandað</w>
@@ -3479,7 +3480,7 @@
     <original></original>
     <corrected><w>til</w><w>að</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-conjunction" eid="0" />
       </errors>
   </revision>
   <w>auka</w>
@@ -3546,7 +3547,7 @@
     <corrected><c>,</c><w>þ.e.</w></corrected>
       <errors>
         <error xtype="bracket4comma" idx="148-1" eid="0" />
-        <error xtype="missing-words" idx="148-2" eid="0" />
+        <error xtype="missing-word" idx="148-2" eid="0" />
       </errors>
   </revision>
   <w>prótein</w>

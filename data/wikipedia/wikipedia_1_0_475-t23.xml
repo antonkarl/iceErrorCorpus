@@ -49,7 +49,9 @@
         <error xtype="wording" idx="6-2" eid="0"/>
         <error xtype="nonit4it" idx="6-3" eid="0"/>
         <error xtype="extra-bracket" idx="6-4" eid="0"/>
-        <error xtype="missing-words" idx="6-5" eid="0"/>
+        <error xtype="missing-conjunction" idx="6-5" eid="0"/>
+        <error xtype="missing-fin-verb" idx="6-6" eid="0" />
+        <error xtype="missing-prep" idx="6-7" eid="0" />
       </errors>
   </revision>
   <w>4.</w>
@@ -95,7 +97,9 @@
       <errors>
         <error xtype="nonit4it" idx="11-1" eid="0"/>
         <error xtype="extra-bracket" idx="11-2" eid="0"/>
-        <error xtype="missing-words" idx="11-3" eid="0"/>
+        <error xtype="missing-conjunction" idx="11-3" eid="0"/>
+        <error xtype="missing-fin-verb" idx="11-4" eid="0" />
+        <error xtype="missing-prep" idx="11-5" eid="0" />
       </errors>
   </revision>
   <w>7.</w>
@@ -126,7 +130,9 @@
         <error xtype="nonit4it" idx="14-2" eid="0"/>
         <error xtype="dep" depId="14-1" eid="0"/>
         <error xtype="bracket4comma" idx="14-3" eid="0"/>
-        <error xtype="missing-words" idx="14-4" eid="0"/>
+        <error xtype="missing-conjunction" idx="14-4" eid="0"/>
+        <error xtype="missing-fin-verb" idx="14-5" eid="0" />
+        <error xtype="missing-prep" idx="14-6" eid="0" />
       </errors>
   </revision>
   <w>12.</w>

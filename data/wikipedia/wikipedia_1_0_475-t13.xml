@@ -86,7 +86,8 @@
     <original/>
     <corrected><w>eru</w><w>meðal</w><w>annars</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-fin-verb" idx="5-1" eid="0"/>
+        <error xtype="missing-words" idx="5-2" eid="0" />
       </errors>
   </revision>
   <c>:</c>
@@ -359,9 +360,12 @@
     <original><w>DVD</w><w>Exclusive-verðlauninGemini-verðlaunin</w></original>
     <corrected><w>Hún</w><w>hefur</w><w>hlotið</w><w>DVD</w><w>Exclusive-verðlaunin</w><w>og</w><w>Gemini-verðlaunin</w><c>.</c></corrected>
       <errors>
-        <error xtype="missing-words" idx="37-1" eid="0"/>
-        <error xtype="missing-space" idx="37-2" eid="0"/>
-        <error xtype="missing-period" idx="37-3" eid="0"/>
+        <error xtype="missing-sub" idx="37-1" eid="0"/>
+        <error xtype="missing-fin-verb" idx="37-2" eid="0" />
+        <error xtype="missing-word" idx="37-3" eid="0" />
+        <error xtype="missing-space" idx="37-4" eid="0"/>
+        <error xtype="missing-conjunction" idx="37-5" eid="0" />
+        <error xtype="missing-period" idx="37-6" eid="0"/>
       </errors>
   </revision>
 </s><s n="11">

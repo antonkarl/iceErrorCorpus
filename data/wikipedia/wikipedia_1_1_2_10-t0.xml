@@ -672,8 +672,11 @@
     <original></original>
     <corrected><w>en</w><w>þau</w><c>.</c><w>Vegna</w><w>þessa</w></corrected>
       <errors>
-        <error xtype="missing-words" idx="15-1" eid="0" />
-        <error xtype="missing-period" idx="15-2" eid="0" />
+        <error xtype="missing-conjunction" idx="15-1" eid="0" />
+        <error xtype="missing-obj" idx="15-2" eid="0" />
+        <error xtype="missing-period" idx="15-3" eid="0" />
+        <error xtype="missing-prep" idx="15-4" eid="0" />
+        <error xtype="missing-obj" idx="15-5" eid="0" />
       </errors>
   </revision>
   <w>hafa</w>

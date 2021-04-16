@@ -1045,7 +1045,8 @@
     <original/>
     <corrected><w>með</w><w>mér</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-prep" idx="39-1" eid="0"/>
+        <error xtype="missing-obj" idx="39-2" eid="0" />
       </errors>
   </revision>
   <w>að</w>

@@ -683,7 +683,7 @@
     <original/>
     <corrected><w>samfélög</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-obj" eid="0"/>
       </errors>
   </revision>
   <w>þeirra</w>
@@ -752,7 +752,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" idx="9b-1" eid="0"/>
+        <error xtype="though" idx="9b-1" eid="0"/>
       </errors>
   </revision>
   <w>deila</w>

@@ -48,7 +48,6 @@
     <corrected><w>morgun</w></corrected>
       <errors>
         <error xtype="dep" depId="1-1" eid="0" />
-        <error xtype="missing-words" idx="2-1" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -154,7 +153,8 @@
     <original></original>
     <corrected><w>frá</w><w>því</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-prep" idx="5-1" eid="0" />
+        <error xtype="missing-obj" idx="5-2" eid="0" />
       </errors>
   </revision>
   <w>í</w>

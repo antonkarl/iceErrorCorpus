@@ -15,12 +15,15 @@
 </teiHeader>
 <text><body><p n="1">
 <s n="0">
+  <w>Klósigar</w>
   <revision id="1">
-    <original><w>Klósigar</w><c>(</c><w>latína</w><c>:</c></original>
-    <corrected><w>Klósigar</w><c>,</c><w>sem</w><w>á</w><w>latínu</w><w>kallast</w></corrected>
+    <original><c>(</c><w>latína</w><c>:</c></original>
+    <corrected><c>,</c><w>sem</w><w>á</w><w>latínu</w><w>kallast</w></corrected>
       <errors>
-        <error xtype="bracket4comma" eid="0" />
-        <error xtype="missing-words" eid="0" />
+        <error xtype="bracket4comma" idx="1-1" eid="0" />
+        <error xtype="missing-conjunction" idx="1-2" eid="0" />
+        <error xtype="missing-prep" idx="1-3" eid="0" />
+        <error xtype="missing-word" idx="1-4" eid="0" />
       </errors>
   </revision>
   <w><hi>Cirrus</hi></w>

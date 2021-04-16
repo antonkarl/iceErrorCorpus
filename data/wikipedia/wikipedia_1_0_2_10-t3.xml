@@ -626,9 +626,9 @@
   <c>“</c>
   <revision id="26">
     <original><w>fría</w><w>lag</w></original>
-    <corrected><w>svo</w><w>kallað</w><w><hi>fría</hi></w><w><hi>lag</hi></w></corrected>
+    <corrected><w>svokallað</w><w><hi>fría</hi></w><w><hi>lag</hi></w></corrected>
       <errors>
-        <error xtype="missing-words" idx="26-1" eid="0" />
+        <error xtype="missing-word" idx="26-1" eid="0" />
         <error xtype="nonit4it" idx="26-2" eid="0" />
       </errors>
   </revision>
@@ -894,7 +894,7 @@
     <original><w>þessa</w></original>
     <corrected><w>þá</w></corrected>
       <errors>
-        <error xtype="pers4dem" eid="0" />
+        <error xtype="dem4pers" eid="0" />
       </errors>
   </revision>
   <w>hugmynd</w>
@@ -1221,13 +1221,6 @@
   </revision>
   <w>á</w>
   <w>hátíðunum</w>
-  <revision id="62">
-    <original></original>
-    <corrected><w>eins</w><w>og</w></corrected>
-      <errors>
-        <error xtype="missing-words" eid="0" />
-      </errors>
-  </revision>
   <w>Pukkelpop</w>
   <w>í</w>
   <w>Belgíu</w>

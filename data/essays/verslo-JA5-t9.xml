@@ -569,7 +569,8 @@
     <original/>
     <corrected><w>ekki</w><w>á</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-word" idx="15-1" eid="0"/>
+        <error xtype="missing-prep" idx="15-2" eid="0" />
       </errors>
   </revision>
   <w>hversu</w>
@@ -926,7 +927,7 @@
     <original><w>matar</w><w>borðið</w></original>
     <corrected><w>matarborðið</w></corrected>
       <errors>
-        <error xtype="split-word" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <c>.</c>

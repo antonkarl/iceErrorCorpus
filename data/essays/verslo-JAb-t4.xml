@@ -486,7 +486,8 @@
     <original><w>af</w><w>þeim</w></original>
     <corrected><w>við</w><w>þá</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0"/>
+        <error xtype="collocation" idx="5-1" eid="0"/>
+        <error xtype="wrong-prep" idx="5-1" eid="0"/>
       </errors>
   </revision>
   <c>.</c>

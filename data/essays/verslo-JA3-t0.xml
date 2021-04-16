@@ -328,7 +328,7 @@
     <original/>
     <corrected><w>en</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
       </errors>
   </revision>
   <w>í</w>
@@ -461,7 +461,8 @@
     <original><w>í</w></original>
     <corrected><w>á</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0"/>
+        <error xtype="collocation" idx="12-1" eid="0"/>
+        <error xtype="wrong-prep" idx="12-1" eid="0"/>
       </errors>
   </revision>
   <w>hjálp</w>

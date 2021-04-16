@@ -426,9 +426,12 @@
     <original><c>"</c></original>
     <corrected><w>í</w><w>samtali</w><w>við</w><w>blaðið</w><c>.</c><c>„</c></corrected>
       <errors>
-        <error xtype="missing-words" idx="29-1" eid="0" />
-        <error xtype="missing-period" idx="29-2" eid="0" />
-        <error xtype="wrong-quot" idx="29-3" eid="0" />
+        <error xtype="missing-prep" idx="29-1" eid="0" />
+        <error xtype="missing-obj" idx="29-2" eid="0"/>
+        <error xtype="missing-prep" idx="29-3" eid="0"/>
+        <error xtype="missing-obj" idx="29-4" eid="0"/>
+        <error xtype="missing-period" idx="29-5" eid="0" />
+        <error xtype="wrong-quot" idx="29-6" eid="0" />
       </errors>
   </revision>
   <w>Mamma</w>

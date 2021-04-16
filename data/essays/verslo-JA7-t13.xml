@@ -705,7 +705,8 @@
     <original><w>af</w></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0"/>
+        <error xtype="collocation" idx="8-1" eid="0"/>
+        <error xtype="af4að" idx="8-1" eid="0"/>
       </errors>
   </revision>
   <w>þeim</w>
@@ -781,7 +782,7 @@
     <original></original>
     <corrected><w>fyrir</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-prep" eid="0" />
       </errors>
   </revision>
   <w>öðrum</w>

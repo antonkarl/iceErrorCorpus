@@ -461,7 +461,8 @@
     <original></original>
     <corrected><w>að</w><w>ræða</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-inf-part" idx="5-1" eid="0" />
+        <error xtype="missing-word" idx="5-2" eid="0" />
       </errors>
   </revision>
   <w>sambærilegar</w>

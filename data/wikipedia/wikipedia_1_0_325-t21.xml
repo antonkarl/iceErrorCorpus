@@ -469,7 +469,8 @@
     <original></original>
     <corrected><w>þrátt</w><w>fyrir</w><w>það</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-words" idx="8-1" eid="0" />
+        <error xtype="missing-obj" idx="8-2" eid="0" />
       </errors>
   </revision>
   <w>fram</w>

@@ -924,7 +924,7 @@
     <original><w>menntaskólanemenda</w></original>
     <corrected><w>meðal</w><w>menntaskólanema</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="16-1" eid="0"/>
+        <error xtype="missing-prep" idx="16-1" eid="0"/>
         <error xtype="wording" idx="16-2" eid="0"/>
       </errors>
   </revision>
@@ -1119,7 +1119,7 @@
     <original/>
     <corrected><w>dæmi</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-sub" eid="0"/>
       </errors>
   </revision>
   <w>um</w>

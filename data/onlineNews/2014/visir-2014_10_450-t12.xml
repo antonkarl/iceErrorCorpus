@@ -2554,7 +2554,8 @@
         <error xtype="dep" depId="125-1" eid="0" />
         <error xtype="missing-comma" eid="0" />
         <error xtype="wrong-quots" idx="126-1" eid="0" />
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-fin-verb" idx="126-2" eid="0" />
+        <error xtype="missing-sub" idx="126-3" eid="0" />
       </errors>
   </revision>
   <c>.</c>

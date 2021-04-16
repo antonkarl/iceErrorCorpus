@@ -1010,7 +1010,8 @@
     <original><w>með</w></original>
     <corrected><w>við</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0"/>
+        <error xtype="collocation" idx="28-1" eid="0"/>
+        <error xtype="wrong-prep" idx="28-1" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -1941,7 +1942,8 @@
     <original/>
     <corrected><w>því</w><w>var</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-obj" idx="60-1" eid="0"/>
+        <error xtype="missing-fin-verb" idx="60-2" eid="0"/>
       </errors>
   </revision>
   <w>haldið</w>

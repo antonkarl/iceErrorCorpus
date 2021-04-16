@@ -667,7 +667,9 @@
     <original></original>
     <corrected><w>fara</w><w>þau</w><w>að</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-fin-verb" idx="18-1" eid="0" />
+        <error xtype="missing-sub" idx="18-2" eid="0" />
+        <error xtype="missing-inf-part" idx="18-3" eid="0" />
       </errors>
   </revision>
   <w>segja</w>
@@ -1479,7 +1481,8 @@
     <original></original>
     <corrected><w>með</w><w>einhverfu</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-prep" idx="38-1" eid="0" />
+        <error xtype="missing-obj" idx="38-2" eid="0" />
       </errors>
   </revision>
   <w>vilja</w>

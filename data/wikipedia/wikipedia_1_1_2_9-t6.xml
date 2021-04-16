@@ -162,7 +162,8 @@
     <original></original>
     <corrected><w>sem</w><w>voru</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-conjunction" idx="2b-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="2b-2" eid="0" />
       </errors>
   </revision>
   <revision id="2c">
@@ -1042,7 +1043,8 @@
     <original></original>
     <corrected><w>það</w><w>er</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" idx="16-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="16-2" eid="0" />
       </errors>
   </revision>
   <w>1.234</w>

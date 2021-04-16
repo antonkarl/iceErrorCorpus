@@ -144,7 +144,7 @@
     <original><w>Vinstri</w><w>menn</w></original>
     <corrected><w>Vinstrimenn</w></corrected>
       <errors>
-        <error xtype="split-word" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>segja</w>
@@ -529,7 +529,7 @@
     <original><w>Hægri</w><w>menn</w></original>
     <corrected><w>Hægrimenn</w></corrected>
       <errors>
-        <error xtype="split-word" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>vita</w>
@@ -642,7 +642,7 @@
     <original/>
     <corrected><w>sig</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-obj" eid="0"/>
       </errors>
   </revision>
   <w>á</w>
@@ -924,7 +924,7 @@
     <original><w>Hægri</w><w>menn</w></original>
     <corrected><w>Hægrimenn</w></corrected>
       <errors>
-        <error xtype="split-word" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>benda</w>

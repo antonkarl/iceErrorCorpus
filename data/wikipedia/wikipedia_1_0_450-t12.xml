@@ -121,8 +121,11 @@
     <original><c>(</c></original>
     <corrected><w>sem</w><w>leikin</w><w>er</w><w>af</w></corrected>
       <errors>
-        <error xtype="extra-bracket" eid="0" />
-        <error xtype="missing-words" eid="0" />
+        <error xtype="extra-bracket" idx="6-1" eid="0" />
+        <error xtype="missing-conjunction" idx="6-2" eid="0" />
+        <error xtype="missing-word" idx="6-3" eid="0" />
+        <error xtype="missing-fin-verb" idx="6-4" eid="0" />
+        <error xtype="missing-prep" idx="6-5" eid="0" />
       </errors>
   </revision>
   <w>Diaz</w>
@@ -164,7 +167,11 @@
     <corrected><w>talar</w><w>fyrir</w><c>,</c><w>en</w><w>hann</w></corrected>
       <errors>
         <error xtype="dep" depId="9-1" eid="0" />
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-fin-verb" idx="10-1" eid="0" />
+        <error xtype="missing-prep" idx="10-2" eid="0" />
+        <error xtype="missing-comma" idx="10-3" eid="0" />
+        <error xtype="conjunction" idx="10-4" eid="0" />
+        <error xtype="missing-sub" idx="10-5" eid="0" />
       </errors>
   </revision>
   <w>hyggst</w>

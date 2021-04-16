@@ -1090,8 +1090,9 @@
     <original><c>,</c></original>
     <corrected><w>inn</w><w>lög</w><w>og</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
-        <error xtype="comma4conjunction" eid="0"/>
+        <error xtype="missing-word" idx="74-1" eid="0"/>
+        <error xtype="missing-obj" idx="74-2" eid="0" />
+        <error xtype="comma4conjunction" idx="74-3" eid="0"/>
       </errors>
   </revision>
   <w>síðan</w>
@@ -1288,10 +1289,9 @@
   <w>hættu</w>
   <revision id="84">
     <original><w>því</w></original>
-    <corrected><w>að</w><w>kunna</w><w>að</w><w>meta</w><w>hana</w><w>því</w></corrected>
+    <corrected><w>að</w><w>kunna</w><w>að</w><w>meta</w><w>hana</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
-        <error xtype="extra-word" eid="0"/>
+        <error xtype="wording" eid="0"/>
       </errors>
   </revision>
   <w>eftir</w>

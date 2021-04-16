@@ -1536,7 +1536,9 @@
     <original/>
     <corrected><w>þetta</w><w>því</w><w>í</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-sub" idx="72-1" eid="0"/>
+        <error xtype="missing-word" idx="72-3" eid="0" />
+        <error xtype="missing-prep" idx="72-4" eid="0" />
       </errors>
   </revision>
   <w>fyrsta</w>

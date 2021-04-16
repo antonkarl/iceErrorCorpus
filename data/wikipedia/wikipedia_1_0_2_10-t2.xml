@@ -639,8 +639,9 @@
     <original><c>.</c><w>Ef</w></original>
     <corrected><w>má</w><w>sjá</w><c>,</c><w>ef</w></corrected>
       <errors>
-        <error xtype="missing-words" idx="39-1" eid="0" />
-        <error xtype="period4comma" idx="39-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="39-1" eid="0" />
+        <error xtype="missing-word" idx="39-2" eid="0" />
+        <error xtype="period4comma" idx="39-3" eid="0" />
       </errors>
   </revision>
   <w>hrafninn</w>
@@ -1561,7 +1562,9 @@
     <corrected><w>ásamt</w><w>því</w><w>að</w></corrected>
       <errors>
         <error xtype="extra-semicolon" idx="71-1" eid="0" />
-        <error xtype="missing-words" idx="71-2" eid="0" />
+        <error xtype="missing-prep" idx="71-2" eid="0" />
+        <error xtype="missing-obj" idx="71-3" eid="0" />
+        <error xtype="missing-conjunction" idx="71-4" eid="0" />
       </errors>
   </revision>
   <w>hann</w>

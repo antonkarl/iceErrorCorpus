@@ -116,6 +116,7 @@
     <corrected><w>fyrir</w><w>lokum</w></corrected>
       <errors>
         <error xtype="collocation" idx="61-1" eid="0"/>
+        <error xtype="wrong-prep" idx="61-1" eid="0"/>
         <error xtype="wording" idx="61-2" eid="0"/>
       </errors>
   </revision>
@@ -169,7 +170,7 @@
     <original/>
     <corrected><w>þess</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-obj" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -266,7 +267,7 @@
     <original><w>við</w><w>áhyggjurnar</w></original>
     <corrected><w>með</w><w>áhyggjunum</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0"/>
+        <error xtype="wrong-prep" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
@@ -314,13 +315,7 @@
   <w>til</w>
   <w>dags</w>
   <w>ef</w>
-  <revision id="16">
-    <original><w>þau</w></original>
-    <corrected><w>þeir</w></corrected>
-      <errors>
-        <error xtype="marked4unmarked" eid="0"/>
-      </errors>
-  </revision>
+  <w>þau</w>
   <w>vilja</w>
   <revision id="17">
     <original/>
@@ -1079,7 +1074,7 @@
     <original><w>Master</w><w>gráðu</w></original>
     <corrected><w>meistaragráðu</w></corrected>
       <errors>
-        <error xtype="split-word" idx="24-1" eid="0"/>
+        <error xtype="split-compound" idx="24-1" eid="0"/>
         <error xtype="fw4ice" idx="24-1" eid="0"/>
       </errors>
   </revision>
@@ -1284,7 +1279,7 @@
     <original/>
     <corrected><w>á</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -1628,7 +1623,7 @@
     <original/>
     <corrected><w>því</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-obj" eid="0"/>
       </errors>
   </revision>
   <w>að</w>

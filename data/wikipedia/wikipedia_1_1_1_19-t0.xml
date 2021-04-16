@@ -554,8 +554,9 @@
     <original><w>progressive</w><w>trance</w><w>við</w></original>
     <corrected><w>framsækið</w><w>trans</w><w>frá</w></corrected>
       <errors>
-        <error xtype="fw4ice" eid="0"/>
-        <error xtype="collocation" eid="0"/>
+        <error xtype="fw4ice" idx="48-1" eid="0"/>
+        <error xtype="collocation" idx="49-1" eid="0"/>
+        <error xtype="wrong-prep" idx="49-1" eid="0"/>
       </errors>
   </revision>
   <w>venjulega</w>

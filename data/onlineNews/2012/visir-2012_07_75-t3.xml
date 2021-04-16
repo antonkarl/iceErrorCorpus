@@ -223,7 +223,8 @@
     <original><w>Spyrna</w></original>
     <corrected><w>Þetta</w><w>var</w><w>spyrna</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" idx="8-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="8-2" eid="0" />
       </errors>
   </revision>
   <w>af</w>
@@ -319,7 +320,8 @@
     <original></original>
     <corrected><w>var</w><w>það</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-fin-verb" idx="12-1" eid="0" />
+        <error xtype="missing-sub" idx="12-2" eid="0" />
       </errors>
   </revision>
   <w>Garðar</w>

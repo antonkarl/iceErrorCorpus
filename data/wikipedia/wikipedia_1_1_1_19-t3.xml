@@ -109,8 +109,9 @@
     <original><w>ávalt</w><w>á</w></original>
     <corrected><w>ávallt</w><w>af</w></corrected>
       <errors>
-        <error xtype="missing-letter" eid="0"/>
-        <error xtype="collocation" eid="0"/>
+        <error xtype="missing-letter" idx="3-1" eid="0"/>
+        <error xtype="collocation" idx="3-2" eid="0"/>
+        <error xtype="wrong-prep" idx="3-2" eid="0"/>
       </errors>
   </revision>
   <w>áhorfanda</w>

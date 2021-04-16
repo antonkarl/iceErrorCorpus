@@ -38,7 +38,7 @@
     <original><w>Hipp</w><w>hopp</w></original>
     <corrected><w>Hipphopp</w></corrected>
       <errors>
-        <error xtype="split-word" eid="0" />
+        <error xtype="split-compound" eid="0" />
       </errors>
   </revision>
   <w>blómstraði</w>
@@ -95,7 +95,7 @@
     <original><w>hipp</w><w>hopp</w><c>,</c><w>og</w></original>
     <corrected><w>hipphopp</w><c>.</c></corrected>
       <errors>
-        <error xtype="split-word" eid="0" />
+        <error xtype="split-compound" eid="0" />
         <error xtype="comma4period" eid="0" />
         <error xtype="extra-conjunction" eid="0" />
       </errors>
@@ -298,7 +298,7 @@
     <original><c>„</c><w>scratch</w><w>pads</w><c>“</c></original>
     <corrected><w>spjaldtölvur</w><w>með</w><w>plötusnúðaforritum</w><c>(</c><w>e.</w><w><hi>scratch</hi></w><w><hi>pads</hi></w><c>)</c></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="fw4ice" eid="0" />
         <error xtype="extra-quots" idx="26-1" eid="0" />
         <error xtype="nonit4it" idx="26-1" eid="0" />
       </errors>
@@ -866,7 +866,6 @@
     <corrected><w>hipphopptríóið</w></corrected>
       <errors>
         <error xtype="wording" idx="79-1" eid="0" />
-        <error xtype="split-word" idx="79-2" eid="0" />
         <error xtype="split-compound" idx="79-2" eid="0" />
       </errors>
   </revision>
@@ -1168,7 +1167,7 @@
     <original><w>hipp</w><w>hopp</w><w>með</w><w>rokki</w></original>
     <corrected><w>hipphopp</w><w>og</w><w>rokk</w></corrected>
       <errors>
-        <error xtype="split-word" eid="0" />
+        <error xtype="split-compound" eid="0" />
         <error xtype="conjunction" eid="0" />
       </errors>
   </revision>
@@ -1388,8 +1387,10 @@
     <original><w>með</w></original>
     <corrected><c>.</c><w>Hún</w><w>einkenndist</w><w>af</w></corrected>
       <errors>
-        <error xtype="conjunction4period" eid="0" />
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-period" idx="124-1" eid="0" />
+        <error xtype="missing-sub" idx="124-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="124-3" eid="0" />
+        <error xtype="wrong-prep" idx="124-4" eid="0" />
       </errors>
   </revision>
   <w>klaufalegri</w>
@@ -1443,7 +1444,7 @@
     <corrected><w>rólegu</w><w>hipphoppi</w></corrected>
       <errors>
         <error xtype="dep" depId="127-1" eid="0" />
-        <error xtype="split-word" eid="0" />
+        <error xtype="split-compound" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -1588,7 +1589,7 @@
     <corrected><c>.</c><w>Því</w><w>náðu</w><w>þeir</w><w>með</w><w>blöndu</w><w>af</w><w>ágengu</w></corrected>
       <errors>
         <error xtype="missing-period" eid="0" />
-        <error xtype="split-word" eid="0" />
+        <error xtype="wording" eid="0" />
       </errors>
   </revision>
   <w>þungarokki</w>
@@ -1597,7 +1598,7 @@
     <corrected><c>,</c><w>eins</w><w>og</w></corrected>
       <errors>
         <error xtype="missing-comma" eid="0" />
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-conjunction" eid="0" />
       </errors>
   </revision>
   <w>Rage</w>

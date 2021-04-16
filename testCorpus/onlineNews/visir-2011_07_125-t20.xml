@@ -207,7 +207,8 @@
     <original><w>Birt</w></original>
     <corrected><w>Fréttin</w><w>er</w><w>birt</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" idx="7-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="7-2" eid="0" />
       </errors>
   </revision>
   <w>með</w>

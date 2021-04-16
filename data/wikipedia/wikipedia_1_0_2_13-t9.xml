@@ -184,7 +184,8 @@
     <original/>
     <corrected><w>eða</w><w>einungis</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-conjunction" idx="9-1" eid="0" />
+        <error xtype="missing-word" idx="9-2" eid="0"/>
       </errors>
   </revision>
   <w>tæp</w>
@@ -791,7 +792,9 @@
     <corrected><w>100 g</w><w>af</w><w>kjöti</w></corrected>
       <errors>
         <error xtype="abbreviation" idx="90-1" eid="0"/>
-        <error xtype="missing-words" idx="90-2" eid="0"/>
+        <error xtype="missing-space" idx="90-1" eid="0" />
+        <error xtype="missing-prep" idx="90-2" eid="0"/>
+        <error xtype="missing-obj" idx="90-3" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -1236,7 +1239,8 @@
     <original/>
     <corrected><w>á</w><w>spænska</w><w>makrílnum</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-prep" idx="78-1" eid="0"/>
+        <error xtype="missing-obj" idx="78-2" eid="0" />
       </errors>
   </revision>
   <w>með</w>

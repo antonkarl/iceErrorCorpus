@@ -150,7 +150,9 @@
     <corrected><w>sem</w><w>gerð</w><w>var</w></corrected>
       <errors>
         <error xtype="extra-comma" idx="7-1" eid="0" />
-        <error xtype="missing-words" idx="7-2" eid="0" />
+        <error xtype="missing-conjunction" idx="7-2" eid="0" />
+        <error xtype="missing-word" idx="7-3" eid="0" />
+        <error xtype="missing-fin-verb" idx="7-4" eid="0" />
       </errors>
   </revision>
   <w>í</w>

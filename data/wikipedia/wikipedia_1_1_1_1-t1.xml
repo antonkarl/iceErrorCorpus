@@ -148,7 +148,9 @@
     <original/>
     <corrected><w>sem</w><w>fóru</w><w>fram</w><w>þann</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-conjunction" idx="3-1" eid="0"/>
+        <error xtype="missing-fin-verb" idx="3-2" eid="0" />
+        <error xtype="missing-word" idx="3-3" eid="0" />
       </errors>
   </revision>
   <w>21. mars 1985</w>

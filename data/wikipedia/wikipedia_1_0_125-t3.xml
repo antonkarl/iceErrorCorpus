@@ -25,7 +25,8 @@
     <original></original>
     <corrected><w>sem</w><w>er</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-conjunction" idx="1-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="1-2" eid="0" />
       </errors>
   </revision>
   <w>þróaður</w>
@@ -252,8 +253,13 @@
 </s>
 <s n="7">
   <w>Stjórn</w>
-  <w>Minmatar</w>
-  <w>veldisins</w>
+  <revision id="17b">
+    <original><w>Minmatar</w><w>veldisins</w></original>
+    <corrected><w>Minmatar-veldisins</w></corrected>
+      <errors>
+        <error xtype="missing-hyphen" eid="0" />
+      </errors>
+  </revision>
   <w>er</w>
   <w>á</w>
   <w>víð</w>
@@ -266,7 +272,9 @@
     <original></original>
     <corrected><w>af</w><w>Minmatar-kynþættinum</w><w>meðlimir</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-prep" idx="18-1" eid="0" />
+        <error xtype="missing-obj" idx="18-2" eid="0" />
+        <error xtype="missing-verb" idx="18-3" eid="0" />
       </errors>
   </revision>
   <w>í</w>

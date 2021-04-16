@@ -427,7 +427,10 @@
     <original><w>KR-Snæfell</w></original>
     <corrected><w>Í</w><w>leik</w><w>KR-Snæfells</w><w>var</w><w>lokastaðan</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-prep" idx="10-1" eid="0" />
+        <error xtype="missing-obj" idx="10-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="10-3" eid="0" />
+        <error xtype="missing-word" idx="10-4" eid="0" />
       </errors>
   </revision>
   <w>54</w>

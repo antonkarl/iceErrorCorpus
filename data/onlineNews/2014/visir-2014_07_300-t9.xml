@@ -382,7 +382,8 @@
     <original><w>Eins</w></original>
     <corrected><w>Þetta</w><w>var</w><w>eins</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" idx="3-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="3-2" eid="0" />
       </errors>
   </revision>
   <w>og</w>

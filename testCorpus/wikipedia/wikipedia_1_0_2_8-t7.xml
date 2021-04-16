@@ -447,8 +447,8 @@
     <original><w>Gefið</w></original>
     <corrected><w>Eftirfarandi</w><w>eru</w><w>gefin</w></corrected>
       <errors>
-        <error xtype="missing-words" idx="25-1" eid="0"/>
-        <error xtype="dep" depId="25-1" eid="0"/>
+        <error xtype="missing-word" idx="25-1" eid="0"/>
+        <error xtype="missing-fin-verb" idx="25-2" eid="0"/>
       </errors>
   </revision>
   <w>yfirlit</w>
@@ -627,8 +627,9 @@
     <original><w>VÍB-Eignarstýringarþjónusta</w></original>
     <corrected><w>Upplýsingar</w><w>fengnar</w><w>af</w><w>VÍB-Eignarstýringarþjónustu</w></corrected>
       <errors>
-        <error xtype="missing-words" idx="35-1" eid="0"/>
-        <error xtype="dep" depId="35-1" eid="0"/>
+        <error xtype="missing-sub" idx="35-1" eid="0"/>
+        <error xtype="missing-fin-verb" idx="35-2" eid="0"/>
+        <error xtype="missing-sub" idx="35-3" eid="0"/>
       </errors>
   </revision>
   <w>Íslandsbanka</w>

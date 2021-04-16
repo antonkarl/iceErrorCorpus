@@ -588,7 +588,8 @@
     <original/>
     <corrected><w>af</w><w>því</w><c>.</c></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-prep" idx="15-1" eid="0"/>
+        <error xtype="missing-obj" idx="15-2" eid="0" />
       </errors>
   </revision>
   <w>Hinn</w>

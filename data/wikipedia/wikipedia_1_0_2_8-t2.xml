@@ -897,7 +897,8 @@
     <original/>
     <corrected><w>í</w><w>landi</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-prep" idx="75-1" eid="0"/>
+        <error xtype="missing-obj" idx="75-2" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -1138,8 +1139,9 @@
     <corrected><c>.</c><w>Sú</w><w>tækni</w><w>gaf</w><w>ítalódiskói</w></corrected>
       <errors>
         <error xtype="conjunction4period" idx="20-1" eid="0"/>
-        <error xtype="missing-words" idx="20-2" eid="0"/>
-        <error xtype="split-compound" idx="20-3" eid="0"/>
+        <error xtype="missing-sub" idx="20-2" eid="0"/>
+        <error xtype="missing-fin-verb" idx="20-3" eid="0"/>
+        <error xtype="split-compound" idx="20-4" eid="0"/>
       </errors>
   </revision>
   <w>þann</w>
@@ -1225,7 +1227,7 @@
     <corrected><c>.</c><w>Þeirri</w><w>tónlist</w></corrected>
       <errors>
         <error xtype="conjunction4period" idx="142-1" eid="0"/>
-        <error xtype="missing-words" idx="142-2" eid="0"/>
+        <error xtype="missing-sub" idx="142-2" eid="0"/>
       </errors>
   </revision>
   <w>var</w>
@@ -1457,7 +1459,9 @@
       <errors>
         <error xtype="extra-hyphen" idx="165-1" eid="0"/>
         <error xtype="comma4period" idx="165-2" eid="0"/>
-        <error xtype="missing-words" idx="165-3" eid="0"/>
+        <error xtype="missing-prep" idx="165-3" eid="0"/>
+        <error xtype="missing-obj" idx="165-4" eid="0"/>
+        <error xtype="missing-fin-verb" idx="165-5" eid="0"/>
       </errors>
   </revision>
   <w>13</w>

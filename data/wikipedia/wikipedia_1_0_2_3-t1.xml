@@ -835,8 +835,10 @@
     <original></original>
     <corrected><w>en</w><w>þau</w><w>eru</w><w>9</w></corrected>
       <errors>
-        <error xtype="missing-conjunction" eid="0"/>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-conjunction" idx="41-1" eid="0"/>
+        <error xtype="missing-sub" idx="41-2" eid="0"/>
+        <error xtype="missing-fin-verb" idx="41-3" eid="0"/>
+        <error xtype="missing-word" idx="41-4" eid="0"/>
       </errors>
   </revision>
   <w>til</w>
@@ -846,7 +848,8 @@
     <original/>
     <corrected><w>á</w><w>lengd</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-prep" idx="43-1" eid="0"/>
+        <error xtype="missing-obj" idx="43-2" eid="0"/>
       </errors>
   </revision>
   <c>,</c>

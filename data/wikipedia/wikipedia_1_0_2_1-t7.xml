@@ -109,7 +109,7 @@
     <corrected><w>kom</w><w>tónlist</w><w>hennar</w></corrected>
       <errors>
         <error xtype="agreement" idx="2-1" eid="0" />
-        <error xtype="missing-words" idx="2-2" eid="0" />
+        <error xtype="missing-sub" idx="2-2" eid="0" />
       </errors>
   </revision>
   <w>út</w>
@@ -129,7 +129,8 @@
     <original></original>
     <corrected><w>meðlimir</w><w>voru</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" idx="4-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="4-2" eid="0"/>
       </errors>
   </revision>
   <w>undirleikarar</w>
@@ -347,7 +348,7 @@
     <original><w>byrjaði</w></original>
     <corrected><w>var</w></corrected>
       <errors>
-        <error xtype="wording" eid="0" />
+        <error xtype="wording" idx="10-1" eid="0" />
       </errors>
   </revision>
   <w>nýtt</w>
@@ -360,9 +361,9 @@
     <original><w>með</w><c>(</c></original>
     <corrected><w>stofnað</w><c>.</c><w>Í</w><w>því</w><w>voru</w></corrected>
       <errors>
-        <error xtype="wording" idx="11-1" eid="0" />
+        <error xtype="dep" depId="10-1" eid="0"/>
         <error xtype="bracket4period" idx="11-2" eid="0" />
-        <error xtype="missing-words" idx="11-3" eid="0" />
+        <error xtype="wording" idx="11-3" eid="0" />
       </errors>
   </revision>
   <w>auk</w>

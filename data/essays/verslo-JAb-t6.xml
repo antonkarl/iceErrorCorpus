@@ -732,7 +732,7 @@
     <original><w>í</w></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0"/>
+        <error xtype="wrong-prep" eid="0"/>
       </errors>
   </revision>
   <w>láni</w>
@@ -795,7 +795,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" idx="19b-1" eid="0"/>
+        <error xtype="though" idx="19b-1" eid="0"/>
       </errors>
   </revision>
   <w>kaldir</w>
@@ -891,7 +892,7 @@
     <original/>
     <corrected><w>ég</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-sub" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -930,7 +931,7 @@
     <original/>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
       </errors>
   </revision>
   <w>á</w>
@@ -969,7 +970,7 @@
     <original/>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
       </errors>
   </revision>
   <w>mennirnir</w>
@@ -1103,7 +1104,7 @@
     <original/>
     <corrected><w>var</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0"/>
       </errors>
   </revision>
   <w>fyrir</w>
@@ -1217,13 +1218,12 @@
 </s><s n="57">
   <w>Að</w>
   <w>lokum</w>
-  <c>,</c>
   <revision id="34">
-    <original><w>engin</w></original>
+    <original><c>,</c><w>engin</w></original>
     <corrected/>
       <errors>
-        <error xtype="marked4unmarked" idx="38-1" eid="0"/>
-        <error xtype="wording" idx="38-1" eid="0"/>
+        <error xtype="extra-comma" idx="38-1" eid="0"/>
+        <error xtype="marked4unmarked" idx="38-2" eid="0"/>
       </errors>
   </revision>
   <w>veit</w>
@@ -1322,7 +1322,7 @@
     <original><w>loka</w><w>ári</w></original>
     <corrected><w>lokaári</w></corrected>
       <errors>
-        <error xtype="split-word" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>og</w>

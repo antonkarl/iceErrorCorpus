@@ -25,7 +25,7 @@
     <original><w>óvenju</w><w>dökk</w></original>
     <corrected><w>óvenjudökk</w></corrected>
       <errors>
-        <error xtype="split-word" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>á</w>
@@ -217,7 +217,9 @@
     <corrected><w>Fíflalús</w><c>,</c><w>sem</w><w>hefur</w><w>fræðiheitið</w></corrected>
       <errors>
         <error xtype="bracket4comma" idx="1-1" eid="0"/>
-        <error xtype="missing-words" idx="1-2" eid="0"/>
+        <error xtype="missing-conjunction" idx="1-2" eid="0"/>
+        <error xtype="missing-fin-verb" idx="1-3" eid="0" />
+        <error xtype="missing-word" idx="1-4" eid="0" />
       </errors>
   </revision>
   <w><hi>Uroleucon</hi></w>

@@ -80,7 +80,8 @@
     <original><w>til</w></original>
     <corrected><w>og</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0"/>
+        <error xtype="extra-prep" idx="5-1" eid="0"/>
+        <error xtype="missing-conjunction" idx="5-1" eid="0"/>
       </errors>
   </revision>
   <w>þrjátíu</w>
@@ -696,7 +697,9 @@
       <errors>
         <error xtype="comma4conjunction" idx="32-1" eid="0"/>
         <error xtype="wording" idx="32-2" eid="0"/>
-        <error xtype="missing-words" idx="32-3" eid="0"/>
+        <error xtype="missing-conjunction" idx="32-3" eid="0"/>
+        <error xtype="missing-prep" idx="32-4" eid="0"/>
+        <error xtype="missing-obj" idx="32-5" eid="0"/>
       </errors>
   </revision>
   <w>tali</w>

@@ -104,7 +104,7 @@
     <original/>
     <corrected><w>í</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
       </errors>
   </revision>
   <w>gegnum</w>
@@ -583,7 +583,7 @@
     <original/>
     <corrected><w>á</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="13-1" eid="0"/>
+        <error xtype="missing-prep" idx="13-1" eid="0"/>
         <error xtype="collocation-idiom" idx="13-1" eid="0"/>
       </errors>
   </revision>
@@ -869,8 +869,7 @@
     <original><c>,</c></original>
     <corrected><w>en</w></corrected>
       <errors>
-        <error xtype="extra-comma" eid="0"/>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="comma4conjunction" eid="0"/>
       </errors>
   </revision>
   <w>ekki</w>
@@ -1261,7 +1260,7 @@
     <original><w>nútíma</w><w>fjölskyldan</w></original>
     <corrected><w>nútímafjölskyldan</w></corrected>
       <errors>
-        <error xtype="split-word" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>hefur</w>

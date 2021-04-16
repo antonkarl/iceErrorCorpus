@@ -744,9 +744,8 @@
     <original><w>Norður</w><w>Afríku</w></original>
     <corrected><w>Norður-Afríku</w><c>,</c></corrected>
       <errors>
-        <error xtype="split-word" idx="19-1" eid="0" />
         <error xtype="missing-hyphen" idx="19-1" eid="0" />
-        <error xtype="missing-comma" eid="0" />
+        <error xtype="missing-comma" idx="19-2" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -1550,7 +1549,8 @@
     <original><w>litu</w></original>
     <corrected><w>lutu</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0" />
+        <error xtype="collocation" idx="45-1" eid="0" />
+        <error xtype="letter-rep" idx="45-1" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -1977,8 +1977,7 @@
     <original><w>Sassanída</w><w>veldisins</w></original>
     <corrected><w>Sassanída-veldisins</w></corrected>
       <errors>
-        <error xtype="split-word" idx="53-1" eid="0" />
-        <error xtype="missing-hyphen" idx="53-1" eid="0" />
+        <error xtype="missing-hyphen" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -2126,8 +2125,7 @@
     <original><w>Rashidun</w><w>kalífanna</w></original>
     <corrected><w>Rashidun-kalífanna</w></corrected>
       <errors>
-        <error xtype="split-word" idx="58-1" eid="0" />
-        <error xtype="missing-hyphen" idx="58-1" eid="0" />
+        <error xtype="missing-hyphen" eid="0" />
       </errors>
   </revision>
   <c>(</c>
@@ -3181,8 +3179,7 @@
     <original><w>rómversk</w><w>kaþólsku</w></original>
     <corrected><w>rómversk-kaþólsku</w></corrected>
       <errors>
-        <error xtype="split-word" idx="93-1" eid="0" />
-        <error xtype="missing-hyphen" idx="93-1" eid="0" />
+        <error xtype="missing-hyphen" eid="0" />
       </errors>
   </revision>
   <w>kirkjunni</w>
@@ -5759,7 +5756,6 @@
     <corrected><w>Mið-Arabíu</w></corrected>
       <errors>
         <error xtype="lower4upper-proper" idx="204-1" eid="0" />
-        <error xtype="split-word" idx="204-1" eid="0" />
         <error xtype="missing-hyphen" idx="204-1" eid="0" />
       </errors>
   </revision>
@@ -5873,7 +5869,6 @@
     <corrected><w>Sádi-Arabíu</w></corrected>
       <errors>
         <error xtype="fw4ice" idx="210-1" eid="0" />
-        <error xtype="split-word" idx="210-1" eid="0" />
         <error xtype="missing-hyphen" idx="210-1" eid="0" />
       </errors>
   </revision>
@@ -6079,7 +6074,7 @@
     <original></original>
     <corrected><w>Drúsar</w><c>(</c><w>e.</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="fw4ice" eid="0" />
         <error xtype="missing-bracket" eid="0" />
       </errors>
   </revision>
@@ -6122,7 +6117,6 @@
     <corrected><w>isma‘ili-shi‘isma</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="225-1" eid="0" />
-        <error xtype="split-word" idx="225-1" eid="0" />
         <error xtype="missing-hyphen" idx="225-1" eid="0" />
         <error xtype="upper4lower-common" idx="225-1" eid="0" />
       </errors>
@@ -6134,8 +6128,7 @@
     <original><w>Fatimid</w><w>kalífsins</w></original>
     <corrected><w>Fatimid-kalífsins</w></corrected>
       <errors>
-        <error xtype="split-word" idx="226-1" eid="0" />
-        <error xtype="missing-hyphen" idx="226-1" eid="0" />
+        <error xtype="missing-hyphen" eid="0" />
       </errors>
   </revision>
   <c>(</c>
@@ -6153,7 +6146,6 @@
     <corrected><w>isma‘ili-guðfræðingar</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="227-1" eid="0" />
-        <error xtype="split-word" idx="227-1" eid="0" />
         <error xtype="missing-hyphen" idx="227-1" eid="0" />
       </errors>
   </revision>
@@ -6555,8 +6547,7 @@
     <original><w>sjöundu</w><w>aldar</w><w>hreyfingar</w></original>
     <corrected><w>sjöundualdarhreyfingar</w></corrected>
       <errors>
-        <error xtype="split-word" idx="248-1" eid="0" />
-        <error xtype="split-compound" idx="248-1" eid="0" />
+        <error xtype="split-compound" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
@@ -6609,7 +6600,6 @@
     <corrected><w>ibadi-múslímar</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="250-1" eid="0" />
-        <error xtype="split-word" idx="250-1" eid="0" />
         <error xtype="missing-hyphen" idx="250-1" eid="0" />
         <error xtype="missing-accent" idx="250-1" eid="0" />
       </errors>
@@ -6742,7 +6732,6 @@
     <corrected><w>ibadi-múslímar</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="259-1" eid="0" />
-        <error xtype="split-word" idx="259-1" eid="0" />
         <error xtype="missing-hyphen" idx="259-1" eid="0" />
         <error xtype="missing-accent" idx="259-1" eid="0" />
       </errors>
@@ -6846,7 +6835,6 @@
     <corrected><w>ibadi-múslíma</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="265-1" eid="0" />
-        <error xtype="split-word" idx="265-1" eid="0" />
         <error xtype="missing-hyphen" idx="265-1" eid="0" />
         <error xtype="missing-accent" idx="265-1" eid="0" />
       </errors>
@@ -6913,7 +6901,6 @@
     <corrected><w>ibadi-múslíma</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="268-1" eid="0" />
-        <error xtype="split-word" idx="268-1" eid="0" />
         <error xtype="missing-hyphen" idx="268-1" eid="0" />
         <error xtype="missing-hyphen" idx="268-1" eid="0" />
       </errors>
@@ -6924,7 +6911,6 @@
     <corrected><w>Austur-Afríku</w></corrected>
       <errors>
         <error xtype="lower4upper-proper" idx="269-1" eid="0" />
-        <error xtype="split-word" idx="269-1" eid="0" />
         <error xtype="missing-hyphen" idx="269-1" eid="0" />
       </errors>
   </revision>
@@ -6993,7 +6979,6 @@
     <original><w>Ibadi</w><w>múslimar</w></original>
     <corrected><w>Ibadi-múslímar</w></corrected>
       <errors>
-        <error xtype="split-word" idx="273-1" eid="0" />
         <error xtype="missing-hyphen" idx="273-1" eid="0" />
         <error xtype="missing-accent" idx="273-1" eid="0" />
       </errors>
@@ -7093,7 +7078,6 @@
     <corrected><w>ibadi-múslíma</w></corrected>
       <errors>
         <error xtype="upper4lower-proper" idx="276-1" eid="0" />
-        <error xtype="split-word" idx="276-1" eid="0" />
         <error xtype="missing-hyphen" idx="276-1" eid="0" />
         <error xtype="missing-hyphen" idx="276-1" eid="0" />
       </errors>
@@ -7106,7 +7090,6 @@
     <corrected><w>súnní-múslimum</w></corrected>
       <errors>
         <error xtype="upper4lower-proper" idx="277-1" eid="0" />
-        <error xtype="split-word" idx="277-1" eid="0" />
         <error xtype="missing-hyphen" idx="277-1" eid="0" />
       </errors>
   </revision>
@@ -7129,7 +7112,6 @@
     <original><w>Ibadi</w><w>múslimar</w></original>
     <corrected><w>Ibadi-múslímar</w><c>,</c></corrected>
       <errors>
-        <error xtype="split-word" idx="279-1" eid="0" />
         <error xtype="missing-hyphen" idx="279-1" eid="0" />
         <error xtype="missing-hyphen" idx="279-1" eid="0" />
         <error xtype="missing-comma" eid="0" />
@@ -7877,7 +7859,6 @@
     <original><w>Khalifa</w><w>Konungsfjölskyldunnar</w></original>
     <corrected><w>Khalifa-konungsfjölskyldunnar</w></corrected>
       <errors>
-        <error xtype="split-word" idx="307-1" eid="0" />
         <error xtype="missing-hyphen" idx="307-1" eid="0" />
         <error xtype="upper4lower-common" idx="307-1" eid="0" />
       </errors>
@@ -8021,7 +8002,6 @@
     <corrected><w>shura-ráðinu</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="317-1" eid="0" />
-        <error xtype="split-word" idx="317-1" eid="0" />
         <error xtype="missing-hyphen" idx="317-1" eid="0" />
         <error xtype="upper4lower-common" idx="317-1" eid="0" />
       </errors>
@@ -8152,7 +8132,6 @@
     <corrected><w>shura-ráð</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="323-1" eid="0" />
-        <error xtype="split-word" idx="323-1" eid="0" />
         <error xtype="missing-hyphen" idx="323-1" eid="0" />
         <error xtype="upper4lower-common" idx="323-1" eid="0" />
         <error xtype="def4ind" idx="323-1" eid="0" />
@@ -8473,8 +8452,7 @@
     <original><w>Mohammad-Reza</w></original>
     <corrected><w>Mohammad</w><w>Reza</w></corrected>
       <errors>
-        <error xtype="split-word" idx="338-1" eid="0" />
-        <error xtype="missing-hyphen" idx="338-1" eid="0" />
+        <error xtype="missing-hyphen" eid="0" />
       </errors>
   </revision>
   <w>Shah</w>
@@ -9389,7 +9367,7 @@
       <errors>
         <error xtype="upper4lower-common" idx="369-1" eid="0" />
         <error xtype="fw4ice" idx="369-1" eid="0" />
-        <error xtype="split-word" idx="369-1" eid="0" />
+        <error xtype="split-compound" idx="369-1" eid="0" />
       </errors>
   </revision>
   <revision id="369b">
@@ -9828,7 +9806,6 @@
       <errors>
         <error xtype="letter-rep" idx="389b-1" eid="0" />
         <error xtype="missing-accent" idx="389b-1" eid="0" />
-        <error xtype="split-word" idx="389b-1" eid="0" />
         <error xtype="missing-hyphen" idx="389b-1" eid="0" />
       </errors>
   </revision>
@@ -9919,7 +9896,6 @@
       <errors>
         <error xtype="letter-rep" idx="394-1" eid="0" />
         <error xtype="missing-accent" idx="394-1" eid="0" />
-        <error xtype="split-word" idx="394-1" eid="0" />
         <error xtype="missing-hyphen" idx="394-1" eid="0" />
       </errors>
   </revision>
@@ -10201,7 +10177,7 @@
     <original><w>bráðabirgða</w><w>stjórnarskrá</w></original>
     <corrected><w>bráðabirgðastjórnarskrá</w></corrected>
       <errors>
-        <error xtype="split-word" eid="0" />
+        <error xtype="split-compound" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
@@ -10512,7 +10488,7 @@
     <original><w>Grunn</w><w>lög</w></original>
     <corrected><w>Grunnlög</w></corrected>
       <errors>
-        <error xtype="split-word" eid="0" />
+        <error xtype="split-compound" eid="0" />
       </errors>
   </revision>
   <w>um</w>
@@ -10628,7 +10604,6 @@
     <corrected><w>shura-ráðið</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="422-1" eid="0" />
-        <error xtype="split-word" idx="422-1" eid="0" />
         <error xtype="missing-hyphen" idx="422-1" eid="0" />
         <error xtype="upper4lower-common" idx="422-1" eid="0" />
       </errors>
@@ -10689,7 +10664,6 @@
         <error xtype="upper4lower-common" idx="424-1" eid="0" />
         <error xtype="letter-rep" idx="424-1" eid="0" />
         <error xtype="missing-accent" idx="424-1" eid="0" />
-        <error xtype="split-word" idx="424-1" eid="0" />
         <error xtype="missing-hyphen" idx="424-1" eid="0" />
       </errors>
   </revision>
@@ -10722,7 +10696,6 @@
     <corrected><c>:</c><w>Fyrstatilfellisdómstólum</w></corrected>
       <errors>
         <error xtype="period4colon" eid="0" />
-        <error xtype="split-word" idx="426-1" eid="0" />
         <error xtype="split-compound" idx="426-1" eid="0" />
       </errors>
   </revision>
@@ -11156,7 +11129,6 @@
         <error xtype="upper4lower-common" idx="440-1" eid="0" />
         <error xtype="letter-rep" idx="440-1" eid="0" />
         <error xtype="missing-accent" idx="440-1" eid="0" />
-        <error xtype="split-word" idx="440-1" eid="0" />
         <error xtype="missing-hyphen" idx="440-1" eid="0" />
       </errors>
   </revision>

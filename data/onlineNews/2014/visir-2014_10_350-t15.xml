@@ -262,7 +262,9 @@
     <original></original>
     <corrected><w>sem</w><w>er</w><w>yfirleitt</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-conjunction" idx="13-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="13-2" eid="0" />
+        <error xtype="missing-word" idx="13-3" eid="0" />
       </errors>
   </revision>
   <w>gefin</w>
@@ -444,7 +446,7 @@
       <errors>
         <error xtype="dep" depId="21-1" eid="0" />
         <error xtype="missing-comma" eid="0" />
-        <error xtype="missing-words" eid="0" />
+        <error xtype="wording" eid="0" />
       </errors>
   </revision>
   <c>„</c>
@@ -517,8 +519,7 @@
     <original><w>hipp</w><w>hopp</w><w>menningar</w></original>
     <corrected><w>hipphoppmenningar</w></corrected>
       <errors>
-        <error xtype="split-word" idx="27-1" eid="0" />
-        <error xtype="split-compound" idx="27-1" eid="0" />
+        <error xtype="split-compound" eid="0" />
       </errors>
   </revision>
   <c>,</c>

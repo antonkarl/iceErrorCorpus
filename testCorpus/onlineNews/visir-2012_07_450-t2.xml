@@ -61,9 +61,7 @@
     <original><w>Ísland</w><w>væri</w></original>
     <corrected><w>komur</w><w>hvítabjarna</w><w>til</w><w>Íslands</w><w>væru</w></corrected>
       <errors>
-        <error xtype="missing-words" idx="2-1" eid="0" />
-        <error xtype="dep" depId="2-1" eid="0" />
-        <error xtype="dep" depId="2-1" eid="0" />
+        <error xtype="wording" eid="0" />
       </errors>
   </revision>
   <w>hluti</w>
@@ -270,7 +268,8 @@
     <original></original>
     <corrected><w>og</w><w>allt</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-conjunction" idx="7-1" eid="0" />
+        <error xtype="missing-word" idx="7-2" eid="0" />
       </errors>
   </revision>
   <c>.</c>

@@ -604,7 +604,8 @@
     <original></original>
     <corrected><w>voru</w><w>settar</w><w>fram</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-fin-verb" idx="32-1" eid="0" />
+        <error xtype="missing-words" idx="32-2" eid="0"/>
       </errors>
   </revision>
   <w>um</w>
@@ -710,7 +711,8 @@
     <original></original>
     <corrected><w>sem</w><w>kom</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-conjunction" idx="40-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="40-2" eid="0"/>
       </errors>
   </revision>
   <w>frá</w>
@@ -1178,7 +1180,8 @@
     <original></original>
     <corrected><w>á</w><w>frumvarpinu</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-prep" idx="74-1" eid="0" />
+        <error xtype="missing-obj" idx="74-2" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
@@ -1291,7 +1294,9 @@
     <original></original>
     <corrected><w>í</w><w>járnbrautum</w><w>með</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-prep" idx="83-1" eid="0" />
+        <error xtype="missing-obj" idx="83-2" eid="0"/>
+        <error xtype="missing-prep" idx="83-3" eid="0"/>
       </errors>
   </revision>
   <w>öllum</w>
@@ -1389,7 +1394,8 @@
     <original></original>
     <corrected><w>í</w><w>framkvæmd</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-prep" idx="89-1" eid="0" />
+        <error xtype="missing-obj" idx="89-2" eid="0"/>
       </errors>
   </revision>
   <w>eins</w>
@@ -1689,7 +1695,8 @@
     <corrected><w>50</w><w>prósent</w><w>á</w><w>árunum</w></corrected>
       <errors>
         <error xtype="symbol4word" idx="106-1" eid="0" />
-        <error xtype="missing-words" idx="106-2" eid="0" />
+        <error xtype="missing-prep" idx="106-2" eid="0" />
+        <error xtype="missing-obj" idx="106-3" eid="0"/>
       </errors>
   </revision>
   <w>1846</w>

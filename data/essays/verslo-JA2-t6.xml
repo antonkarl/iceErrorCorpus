@@ -667,13 +667,6 @@
 </s><s n="27">
   <w>Spurt</w>
   <w>hef</w>
-  <revision id="15">
-    <original/>
-    <corrected><w>að</w></corrected>
-      <errors>
-        <error xtype="missing-word" eid="0"/>
-      </errors>
-  </revision>  
   <w>ég</w>
   <w>tíu</w>
   <w>milljón</w>  
@@ -695,7 +688,7 @@
     <original><w>Þannig</w><w>að</w><w>það</w></original>
     <corrected><w>Það</w></corrected>
       <errors>
-        <error xtype="wording" eid="0"/>
+        <error xtype="wording" idx="17-1" eid="0"/>
       </errors>
   </revision>
   <w>þarf</w>
@@ -703,7 +696,7 @@
     <original/>
     <corrected><w>því</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="dep" depId="17-1" eid="0"/>
       </errors>
   </revision>
   <w>enginn</w>
@@ -741,7 +734,7 @@
     <original></original>
     <corrected><w>til</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
       </errors>
   </revision>
   <w>að</w>

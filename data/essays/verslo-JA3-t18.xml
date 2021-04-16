@@ -119,7 +119,7 @@
     <original/>
     <corrected><w>af</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
       </errors>
   </revision>
   <w>því</w>
@@ -1279,7 +1279,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" idx="16b-1" eid="0"/>
+        <error xtype="though" idx="016b1" eid="0"/>
       </errors>
   </revision>
   <w>ég</w>
@@ -1503,7 +1504,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" idx="18b-1" eid="0"/>
+        <error xtype="though" idx="18b-1" eid="0"/>
       </errors>
   </revision>
   <w>ég</w>
@@ -1518,7 +1520,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" idx="18c-1" eid="0"/>
+        <error xtype="though" idx="18c-1" eid="0"/>
       </errors>
   </revision>
   <w>ég</w>
@@ -1600,7 +1603,7 @@
     <original/>
     <corrected><w>þeim</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-obj" eid="0"/>
       </errors>
   </revision>
   <c>.</c>

@@ -31,7 +31,10 @@
     <corrected><w>eins</w><w>og</w><w>hún</w><w>er</w><w>kölluð</w></corrected>
       <errors>
         <error xtype="extra-semicolon" eid="0" />
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-conjunction" eid="0" />
+        <error xtype="missing-sub" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
+        <error xtype="missing-word" eid="0" />
         <error xtype="wording" idx="2-1" eid="0" />
         <error xtype="extra-bracket" eid="0" />
       </errors>

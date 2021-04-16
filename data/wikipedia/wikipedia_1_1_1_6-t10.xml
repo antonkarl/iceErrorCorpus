@@ -76,7 +76,8 @@
     <original/>
     <corrected><w>eftir</w><w>henni</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-prep" idx="7-1" eid="0"/>
+        <error xtype="missing-obj" idx="7-2" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -179,7 +180,8 @@
     <corrected><w>hvergi</w><w>til</w><w>þess</w></corrected>
       <errors>
         <error xtype="wording" idx="78-1" eid="0"/>
-        <error xtype="missing-words" idx="78-2" eid="0"/>
+        <error xtype="missing-prep" idx="78-2" eid="0"/>
+        <error xtype="missing-obj" idx="78-3" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -627,7 +629,8 @@
     <original/>
     <corrected><w>til</w><w>dæmis</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-prep" idx="49-1" eid="0"/>
+        <error xtype="missing-obj" idx="49-2" eid="0" />
       </errors>
   </revision>
   <w>aldrei</w>
@@ -916,7 +919,9 @@
     <original/>
     <corrected><w>og</w><w>barst</w><w>svo</w><w>víða</w></corrected>
       <errors>
-        <error xtype="missing-words" idx="86-1" eid="0"/>
+        <error xtype="missing-conjunction" idx="86-1" eid="0"/>
+        <error xtype="missing-fin-verb" idx="86-2" eid="0" />
+        <error xtype="missing-words" idx="86-3" eid="0" />
       </errors>
   </revision>
   <w>að</w>

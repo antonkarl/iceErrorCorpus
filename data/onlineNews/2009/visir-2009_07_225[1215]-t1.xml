@@ -952,7 +952,9 @@
     <original></original>
     <corrected><w>einum</w><w>og</w><w>sér</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-word" idx="27-1" eid="0" />
+        <error xtype="missing-conjunction" idx="27-2" eid="0" />
+        <error xtype="missing-word" idx="27-3" eid="0" />
       </errors>
   </revision>
   <c>,</c>

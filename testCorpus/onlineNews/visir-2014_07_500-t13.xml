@@ -382,8 +382,7 @@
     <original><w>vegin</w></original>
     <corrected><w>veginn</w></corrected>
       <errors>
-        <error xtype="n4nn" idx="8-1" eid="0" />
-        <error xtype="collocation" idx="8-1" eid="0" />
+        <error xtype="n4nn" eid="0" />
       </errors>
   </revision>
   <w>datt</w>
@@ -681,7 +680,9 @@
     <original><w>Mikið</w></original>
     <corrected><w>Þegar</w><w>það</w><w>er</w><w>mikið</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-conjunction" idx="13-1" eid="0" />
+        <error xtype="missing-sub" idx="13-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="13-3" eid="0" />
       </errors>
   </revision>
   <w>af</w>

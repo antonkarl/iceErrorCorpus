@@ -802,7 +802,9 @@
     <original></original>
     <corrected><w>mælt</w><w>um</w><w>að</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-word" idx="32-1" eid="0" />
+        <error xtype="missing-prep" idx="32-2" eid="0" />
+        <error xtype="missing-conjunction" idx="32-3" eid="0" />
       </errors>
   </revision>
   <w>gömul</w>

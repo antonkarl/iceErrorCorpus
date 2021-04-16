@@ -286,8 +286,7 @@
     <original><w>að</w></original>
     <corrected/>
       <errors>
-        <error xtype="extra-word" idx="10-1" eid="0"/>
-        <error xtype="style" idx="10-1" eid="0"/>
+        <error xtype="extra-conjunction" eid="0"/>
       </errors>
   </revision>
   <w>sitja</w>
@@ -432,7 +431,7 @@
     <original/>
     <corrected><w>pening</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-obj" eid="0"/>
       </errors>
   </revision>
   <w>í</w>
@@ -1074,7 +1073,7 @@
     <original/>
     <corrected><w>það</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-obj" eid="0"/>
       </errors>
   </revision>
   <w>sem</w>
@@ -1541,7 +1540,7 @@
     <original/>
     <corrected><w>á</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
       </errors>
   </revision>
   <w>um</w>
@@ -1884,7 +1883,7 @@
     <original/>
     <corrected><w>of</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
       </errors>
   </revision>
   <w>stuttum</w>

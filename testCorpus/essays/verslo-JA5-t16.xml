@@ -90,7 +90,8 @@
     <original><w>skara</w></original>
     <corrected><w>skarar</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="2-1" eid="0"/>
+        <error xtype="nominal-inflection" idx="2-1" eid="0"/>
+        <error xtype="case-prep" idx="2-1" eid="0"/>
         <error xtype="collocation" idx="2-1" eid="0"/>
       </errors>
   </revision>
@@ -284,7 +285,9 @@
     <original/>
     <corrected><w>það</w><w>hefði</w><w>gerst</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-sub" idx="3-1" eid="0"/>
+        <error xtype="missing-fin-verb" idx="3-2" eid="0" />
+        <error xtype="missing-word" idx="3-3" eid="0" />
       </errors>
   </revision>
   <w>í</w>

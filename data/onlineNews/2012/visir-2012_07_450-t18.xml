@@ -102,7 +102,8 @@
     <original></original>
     <corrected><w>langt</w><w>aftur</w><w>sem</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-words" idx="5-1" eid="0" />
+        <error xtype="missing-conjunction" idx="5-2" eid="0" />
       </errors>
   </revision>
   <w>við</w>

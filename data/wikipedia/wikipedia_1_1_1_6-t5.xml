@@ -369,8 +369,9 @@
     <original><w>starfsráðgjafa</w><c>.</c><w>Hýsti</w></original>
     <corrected><w>starfsráðgjafa</w><w>en</w><w>húsið</w><w>hýsti</w><w>áður</w></corrected>
       <errors>
-        <error xtype="period4conjunction" idx="83-2" eid="0"/>
-        <error xtype="missing-words" idx="83-3" eid="0"/>
+        <error xtype="period4conjunction" idx="83-1" eid="0"/>
+        <error xtype="missing-sub" idx="83-2" eid="0"/>
+        <error xtype="missing-word" idx="83-3" eid="0"/>
       </errors>
   </revision>
   <w>skrifstofur</w>
@@ -2235,7 +2236,8 @@
     <original><w>Áður</w></original>
     <corrected><w>Hann</w><w>var</w><w>áður</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-sub" idx="77-1" eid="0"/>
+        <error xtype="missing-fin-verb" idx="77-2" eid="0"/>
       </errors>
   </revision>
   <w>fyrr</w>

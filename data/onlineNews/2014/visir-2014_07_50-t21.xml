@@ -447,7 +447,8 @@
     <original></original>
     <corrected><w>fyrir</w><w>Íslendinga</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-prep" idx="14-1" eid="0" />
+        <error xtype="missing-obj" idx="14-2" eid="0" />
       </errors>
   </revision>
   <w>eftir</w>
@@ -2394,7 +2395,8 @@
     <original></original>
     <corrected><w>fyrir</w><w>því</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-prep" idx="45-1" eid="0" />
+        <error xtype="missing-obj" idx="45-2" eid="0" />
       </errors>
   </revision>
   <w>að</w>

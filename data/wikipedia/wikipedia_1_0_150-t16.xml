@@ -448,8 +448,9 @@
     <original><w>Heldur</w></original>
     <corrected><w>heldur</w><w>fara</w><w>þeir</w></corrected>
       <errors>
-        <error xtype="upper4lower-noninitial" eid="0" />
-        <error xtype="missing-words" eid="0" />
+        <error xtype="upper4lower-noninitial" idx="21-1" eid="0" />
+        <error xtype="missing-word" idx="21-2" eid="0" />
+        <error xtype="missing-sub" idx="21-3" eid="0"/>
       </errors>
   </revision>
   <w>fótgangandi</w>

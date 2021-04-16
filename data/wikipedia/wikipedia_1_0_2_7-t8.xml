@@ -726,7 +726,8 @@
     <original/>
     <corrected><w>voru</w><w>til</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-fin-verb" idx="13-1" eid="0"/>
+        <error xtype="missing-word" idx="13-2" eid="0"/>
       </errors>
   </revision>
   <w>á</w>

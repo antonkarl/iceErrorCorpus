@@ -153,8 +153,7 @@
     <original><w>Sahara</w><w>eyðimerkurinnar</w></original>
     <corrected><w>Sahara-eyðimerkurinnar</w></corrected>
       <errors>
-        <error xtype="split-word" idx="8-1" eid="0" />
-        <error xtype="missing-hyphen" idx="8-1" eid="0" />
+        <error xtype="missing-hyphen" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -218,8 +217,7 @@
     <original><w>Sahara</w><w>eyðimerkurinnar</w></original>
     <corrected><w>Sahara-eyðimerkurinnar</w></corrected>
       <errors>
-        <error xtype="split-word" idx="10-1" eid="0" />
-        <error xtype="missing-hyphen" idx="10-1" eid="0" />
+        <error xtype="missing-hyphen" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -282,9 +280,10 @@
     <original><w>stórumhópum</w><w>og</w></original>
     <corrected><w>stórum</w><w>hópum</w><c>.</c><w>Þegar</w><w>miklar</w></corrected>
       <errors>
-        <error xtype="missing-space" eid="0" />
-        <error xtype="period4conjunction" eid="0" />
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-space" idx="13-1" eid="0" />
+        <error xtype="period4conjunction" idx="13-2" eid="0" />
+        <error xtype="missing-conjunction" idx="13-3" eid="0" />
+        <error xtype="missing-word" idx="13-4" eid="0" />
       </errors>
   </revision>
   <w>hörmungar</w>

@@ -211,8 +211,10 @@
     <original></original>
     <corrected><c>,</c><w>frá</w><w>og</w><w>með</w></corrected>
       <errors>
-        <error xtype="missing-comma" eid="0" />
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-comma" idx="11-1" eid="0" />
+        <error xtype="missing-prep" idx="11-2" eid="0" />
+        <error xtype="missing-conjunction" idx="11-3" eid="0" />
+        <error xtype="missing-prep" idx="11-4" eid="0" />
       </errors>
   </revision>
   <w>29. september 1903</w>

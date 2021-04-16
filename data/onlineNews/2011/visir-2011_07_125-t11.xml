@@ -246,7 +246,8 @@
     <original></original>
     <corrected><w>frá</w><w>því</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-prep" idx="6-1" eid="0" />
+        <error xtype="missing-obj" idx="6-2" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -255,7 +256,8 @@
     <original></original>
     <corrected><w>eru</w><w>fengnir</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-fin-verb" idx="7-1" eid="0" />
+        <error xtype="missing-word" idx="7-2" eid="0" />
       </errors>
   </revision>
   <w>af</w>

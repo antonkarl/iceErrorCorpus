@@ -303,7 +303,7 @@
     <original/>
     <corrected><w>finna</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0"/>
       </errors>
   </revision>
   <w>hvað</w>
@@ -528,7 +528,8 @@
     <original/>
     <corrected><w>getur</w><w>verið</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-fin-verb" idx="22-1" eid="0"/>
+        <error xtype="missing-word" idx="22-2" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -1203,7 +1204,7 @@
     <original/>
     <corrected><w>þess</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -1311,7 +1312,7 @@
     <original><w>háskóla</w><w>námi</w></original>
     <corrected><w>háskólanámi</w></corrected>
       <errors>
-        <error xtype="split-word" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>28</w>
@@ -1775,7 +1776,7 @@
     <original><w>af</w><w>manni</w></original>
     <corrected><w>með</w><w>mann</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0"/>
+        <error xtype="wrong-prep" eid="0"/>
       </errors>
   </revision>
   <w>sem</w>

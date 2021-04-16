@@ -316,7 +316,8 @@
     <original><w>Aldrei</w></original>
     <corrected><w>Ég</w><w>hef</w><w>aldrei</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" idx="3-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="3-2" eid="0" />
       </errors>
   </revision>
   <w>upplifað</w>

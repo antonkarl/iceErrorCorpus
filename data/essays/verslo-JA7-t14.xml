@@ -179,7 +179,8 @@
     <original><w>af</w><w>sjávarútveg</w></original>
     <corrected><w>að</w><w>sjávarútvegi</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0"/>
+        <error xtype="collocation" idx="1-1" eid="0"/>
+        <error xtype="af4að" idx="1-1" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
@@ -776,7 +777,8 @@
     <original><w>af</w></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0"/>
+        <error xtype="collocation" idx="6-1" eid="0"/>
+        <error xtype="af4að" idx="6-1" eid="0"/>
       </errors>
   </revision>
   <w>góðum</w>

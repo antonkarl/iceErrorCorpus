@@ -36,7 +36,8 @@
     <original/>
     <corrected><w>sem</w><w>er</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-conjunction" idx="2-1" eid="0"/>
+        <error xtype="missing-fin-verb" idx="2-2" eid="0" />
       </errors>
   </revision>
   <w>tilvísun</w>

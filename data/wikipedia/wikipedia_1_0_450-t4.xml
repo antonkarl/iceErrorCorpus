@@ -33,8 +33,11 @@
     <original><c>(</c><w>um</w></original>
     <corrected><c>,</c><w>sem</w><w>var</w><w>uppi</w><w>í</w><w>kringum</w></corrected>
       <errors>
-        <error xtype="bracket4comma" eid="0" />
-        <error xtype="missing-words" eid="0" />
+        <error xtype="bracket4comma" idx="2-1" eid="0" />
+        <error xtype="missing-conjunction" idx="2-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="2-3" eid="0" />
+        <error xtype="missing-word" idx="2-4" eid="0" />
+        <error xtype="wrong-prep" idx="2-5" eid="0" />
       </errors>
   </revision>
   <w>850</w>

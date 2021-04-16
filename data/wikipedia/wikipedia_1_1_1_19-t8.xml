@@ -595,7 +595,9 @@
     <original/>
     <corrected><w>að</w><w>hafa</w><w>borgað</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-inf-part" idx="9-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="9-2" eid="0" />
+        <error xtype="missing-word" idx="9-3" eid="0"/>
       </errors>
   </revision>
   <w>hátt</w>

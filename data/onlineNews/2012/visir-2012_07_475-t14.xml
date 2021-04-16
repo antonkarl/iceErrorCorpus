@@ -215,8 +215,8 @@
     <original></original>
     <corrected><w>af</w><w>racer-gerð</w><w>og</w></corrected>
       <errors>
-        <error xtype="missing-words" idx="4-1" eid="0" />
         <error xtype="dep" depId="3-2" eid="0" />
+        <error xtype="missing-conjunction" idx="4-1" eid="0" />
       </errors>
   </revision>
   <w>mögulega</w>

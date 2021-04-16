@@ -273,7 +273,8 @@
     <original/>
     <corrected><w>eru</w><w>látnir</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-fin-verb" idx="24-1" eid="0"/>
+        <error xtype="missing-word" idx="24-2" eid="0"/>
       </errors>
   </revision>
   <w>byggja</w>
@@ -442,8 +443,8 @@
     <original/>
     <corrected><w>af</w><w>sér</w></corrected>
       <errors>
-        <error xtype="missing-prep" eid="0"/>
-        <error xtype="missing-obj" eid="0" />
+        <error xtype="missing-prep" idx="36-1" eid="0"/>
+        <error xtype="missing-obj" idx="36-2" eid="0"/>
       </errors>
   </revision>
   <w>afurðir</w>

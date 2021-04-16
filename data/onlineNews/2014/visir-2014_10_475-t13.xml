@@ -515,7 +515,8 @@
     <original><w>Ekki</w></original>
     <corrected><w>Sagan</w><w>er</w><w>ekki</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" idx="6-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="6-2" eid="0" />
       </errors>
   </revision>
   <w>predikun</w>

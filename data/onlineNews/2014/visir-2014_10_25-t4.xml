@@ -563,8 +563,10 @@
     <original/>
     <corrected><w>verða</w><w>á</w><w>tónleikunum</w><c>.</c></corrected>
       <errors>
-        <error xtype="missing-words" idx="6-1" eid="0"/>
-        <error xtype="missing-period" idx="6-2" eid="0"/>
+        <error xtype="missing-fin-verb" idx="6-1" eid="0"/>
+        <error xtype="missing-prep" idx="6-2" eid="0" />
+        <error xtype="missing-obj" idx="6-3" eid="0" />
+        <error xtype="missing-period" idx="6-4" eid="0"/>
       </errors>
   </revision>
   <w>Einkabarn</w>

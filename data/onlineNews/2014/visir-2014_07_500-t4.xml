@@ -120,7 +120,10 @@
     <original><w>um</w></original>
     <corrected><w>eru</w><w>til</w><w>staðar</w><w>varðandi</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-fin-verb" idx="3-1" eid="0" />
+        <error xtype="missing-prep" idx="3-2" eid="0" />
+        <error xtype="missing-obj" idx="3-3" eid="0" />
+        <error xtype="wording" idx="3-4" eid="0" />
       </errors>
   </revision>
   <w>sölu</w>

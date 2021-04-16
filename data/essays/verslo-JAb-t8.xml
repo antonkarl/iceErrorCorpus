@@ -23,7 +23,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" idx="0-1" eid="0"/>
+        <error xtype="though" idx="0-1" eid="0"/>
       </errors>
   </revision>
   <w>ég</w>
@@ -584,7 +585,7 @@
     <original><w>vandræða</w><w>frænka</w></original>
     <corrected><w>vandræðafrænka</w></corrected>
       <errors>
-        <error xtype="split-word" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
   <w>mín</w>
@@ -1142,7 +1143,7 @@
     <original><w>með</w><w>skíta</w></original>
     <corrected><w>við</w><w>skitin</w></corrected>
       <errors>
-        <error xtype="collocation" idx="8-1" eid="0"/>
+        <error xtype="wrong-prep" idx="8-1" eid="0"/>
         <error xtype="wording" idx="8-2" eid="0"/>
       </errors>
   </revision>
@@ -1309,7 +1310,8 @@
     <original/>
     <corrected><w>sat</w><w>svo</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-fin-verb" idx="40-1" eid="0"/>
+        <error xtype="missing-word" idx="40-2" eid="0" />
       </errors>
   </revision>
   <w>allt</w>

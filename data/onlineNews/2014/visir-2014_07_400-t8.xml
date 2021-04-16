@@ -331,7 +331,9 @@
     <original><w>Beint</w></original>
     <corrected><w>þeir</w><w>eru</w><w>sýndir</w><w>beint</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" idx="9-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="9-2" eid="0" />
+        <error xtype="missing-word" idx="9-3" eid="0" />
       </errors>
   </revision>
   <w>á</w>

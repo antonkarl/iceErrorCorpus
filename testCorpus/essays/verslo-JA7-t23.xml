@@ -471,8 +471,7 @@
     <original><w>í</w><w>fjölbrautarskóla</w></original>
     <corrected><w>úr</w><w>fjölbrautaskóla</w></corrected>
       <errors>
-        <error xtype="collocation" idx="25-1" eid="0"/>
-        <error xtype="extra-letter" idx="25-2" eid="0"/>
+        <error xtype="wrong-prep" idx="25-1" eid="0"/>
         <error xtype="compound-collocation" idx="25-2" eid="0"/>
       </errors>
   </revision>
@@ -519,7 +518,8 @@
     <original/>
     <corrected><w>því</w><w>að</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-obj" idx="13-1" eid="0"/>
+        <error xtype="missing-inf-part" idx="13-2" eid="0" />
       </errors>
   </revision>
   <w>stytta</w>

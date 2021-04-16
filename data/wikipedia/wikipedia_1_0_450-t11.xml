@@ -292,9 +292,11 @@
     <original></original>
     <corrected><w>verðlaunin</w><w>og</w><w>verið</w><w>tilnefnd</w><w>til</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
-        <error xtype="missing-conjunction" eid="0" />
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-word" idx="14-1" eid="0" />
+        <error xtype="missing-conjunction" idx="14-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="14-3" eid="0" />
+        <error xtype="missing-word" idx="14-4" eid="0" />
+        <error xtype="missing-prep" idx="14-5" eid="0" />
       </errors>
   </revision>
   <w>San</w>

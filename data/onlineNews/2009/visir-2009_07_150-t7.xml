@@ -198,7 +198,9 @@
     <original><w>Til</w></original>
     <corrected><w>Þeir</w><w>höfðu</w><w>farið</w><w>til</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" idx="5-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="5-2" eid="0" />
+        <error xtype="missing-word" idx="5-3" eid="0" />
       </errors>
   </revision>
   <w>Amsterdam</w>
@@ -338,7 +340,8 @@
     <original><w>Hótað</w></original>
     <corrected><w>Honum</w><w>var</w><w>hótað</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" idx="10-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="10-2" eid="0" />
       </errors>
   </revision>
   <w>á</w>
@@ -486,7 +489,10 @@
     <original><w>Skemmtiferð</w></original>
     <corrected><w>Þeir</w><w>töldu</w><w>ferðina</w><w>vera</w><w>skemmtiferð</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" idx="18-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="18-2" eid="0" />
+        <error xtype="missing-obj" idx="18-3" eid="0" />
+        <error xtype="missing-word" idx="18-4" eid="0" />
       </errors>
   </revision>
   <c>-</c>
@@ -716,7 +722,8 @@
     <original></original>
     <corrected><w>reyndust</w><w>vera</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-fin-verb" idx="21-1" eid="0" />
+        <error xtype="missing-word" idx="21-2" eid="0" />
       </errors>
   </revision>
   <w>upplognar</w>

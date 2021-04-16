@@ -394,7 +394,8 @@
     <original><w>Glæsilegt</w></original>
     <corrected><w>Þetta</w><w>var</w><w>glæsilegt</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0" />
+        <error xtype="missing-sub" idx="11-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="11-2" eid="0" />
       </errors>
   </revision>
   <w>mark</w>

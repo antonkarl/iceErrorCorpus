@@ -306,7 +306,7 @@
     <original><w>fyrir</w></original>
     <corrected><w>gegn</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0" />
+        <error xtype="wrong-prep" eid="0" />
       </errors>
   </revision>
   <w>sefasýki</w>
@@ -1499,8 +1499,8 @@
     <original></original>
     <corrected><w>úr</w><w>henni</w></corrected>
       <errors>
-        <error xtype="missing-prep" eid="0" />
-        <error xtype="missing-obj" eid="0" />
+        <error xtype="missing-prep" idx="61-1" eid="0" />
+        <error xtype="missing-obj" idx="61-2" eid="0" />
       </errors>
   </revision>
   <w>með</w>

@@ -353,7 +353,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-conjunction" idx="7a-1" eid="0" />
+        <error xtype="though" idx="7a-1" eid="0"/>
       </errors>
   </revision>
   <w>þeir</w>
@@ -727,7 +728,7 @@
     <original/>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-inf-part" eid="0"/>
       </errors>
   </revision>
   <w>elta</w>

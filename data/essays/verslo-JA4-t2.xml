@@ -789,7 +789,7 @@
     <original><w>í</w></original>
     <corrected/>
       <errors>
-        <error xtype="extra-word" idx="10-1" eid="0"/>
+        <error xtype="extra-prep" idx="10-1" eid="0"/>
         <error xtype="collocation" idx="10-1" eid="0"/>
       </errors>
   </revision>
@@ -1560,7 +1560,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" idx="38b-1" eid="0"/>
+        <error xtype="though" idx="38b-1" eid="0"/>
       </errors>
   </revision>
   <w>sumir</w>

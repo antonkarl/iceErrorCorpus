@@ -185,7 +185,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" idx="2b-1" eid="0"/>
+        <error xtype="though" idx="2b-1" eid="0"/>
       </errors>
   </revision>
   <w>hann</w>
@@ -257,7 +258,7 @@
     <original/>
     <corrected><w>og</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
       </errors>
   </revision>
   <w>í</w>
@@ -880,7 +881,7 @@
     <original/>
     <corrected><w>til</w><w>að</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
       </errors>
   </revision>
   <w>ákveða</w>

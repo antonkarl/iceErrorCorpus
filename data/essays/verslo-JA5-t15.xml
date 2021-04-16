@@ -334,7 +334,8 @@
     <original><w>með</w></original>
     <corrected><w>af</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0"/>
+        <error xtype="collocation" idx="12-1" eid="0"/>
+        <error xtype="wrong-prep" idx="12-1" eid="0"/>
       </errors>
   </revision>
   <revision id="13">
@@ -365,7 +366,8 @@
     <original><w>fyrir</w></original>
     <corrected><w>á</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0"/>
+        <error xtype="collocation" idx="14-1" eid="0"/>
+        <error xtype="wrong-prep" idx="14-1" eid="0"/>
       </errors>
   </revision>
   <w>sama</w>
@@ -443,7 +445,7 @@
     <original><w>um</w></original>
     <corrected><w>til</w></corrected>
       <errors>
-        <error xtype="collocation" eid="0"/>
+        <error xtype="wrong-prep" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -451,7 +453,7 @@
     <original/>
     <corrected><w>um</w></corrected>
       <errors>
-        <error xtype="collocation" idx="27-1" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
       </errors>
   </revision>
   <w>réttar</w>
@@ -460,7 +462,7 @@
     <original><w>séu</w></original>
     <corrected><w>sé</w></corrected>
       <errors>
-        <error xtype="dep" depId="27-1" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -587,7 +589,9 @@
     <original/>
     <corrected><w>siðferði</w><w>í</w><w>fjölmiðlum</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-obj" idx="21-1" eid="0"/>
+        <error xtype="missing-prep" idx="21-2" eid="0"/>
+        <error xtype="missing-obj" idx="21-3" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -770,7 +774,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" idx="23b-1" eid="0"/>
+        <error xtype="though" idx="23b-1" eid="0"/>
       </errors>
   </revision>
   <w>þeir</w>
@@ -1236,7 +1241,8 @@
     <original/>
     <corrected><w>að</w><w>því</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-prep" idx="35-1" eid="0"/>
+        <error xtype="missing-obj" idx="35-2" eid="0"/>
       </errors>
   </revision>
   <w>hvernig</w>
@@ -1280,7 +1286,7 @@
     <original/>
     <corrected><w>til</w><w>að</w></corrected>
       <errors>
-        <error xtype="missing-words" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
       </errors>
   </revision>
   <w>lesa</w>
