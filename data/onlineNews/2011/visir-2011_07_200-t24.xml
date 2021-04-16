@@ -450,7 +450,7 @@
     <original></original>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>grundvöllur</w>
@@ -759,7 +759,7 @@
     <original></original>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -1371,7 +1371,7 @@
     <corrected><w>íbúar</w><w>hafa</w></corrected>
       <errors>
         <error xtype="dep" depId="52-1" eid="0" />
-        <error xtype="missing-word" idx="51-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="51-1" eid="0" />
       </errors>
   </revision>
   <w>áhyggjur</w>
@@ -1932,7 +1932,7 @@
     <original></original>
     <corrected><w>það</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-dem-pro" eid="0" />
       </errors>
   </revision>
   <w>viðmót</w>
@@ -1994,7 +1994,7 @@
     <corrected><w>um</w></corrected>
       <errors>
         <error xtype="extra-comma" idx="65-1" eid="0" />
-        <error xtype="missing-word" idx="65-1" eid="0" />
+        <error xtype="missing-prep" idx="65-1" eid="0" />
       </errors>
   </revision>
   <w>deiliskipulag</w>
@@ -2283,7 +2283,7 @@
     <original></original>
     <corrected><w>til</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-conjunction" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -2393,7 +2393,7 @@
     <corrected><w>til</w></corrected>
       <errors>
         <error xtype="extra-comma" idx="79-1" eid="0" />
-        <error xtype="missing-word" idx="79-1" eid="0" />
+        <error xtype="missing-conjunction" idx="79-1" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -2443,7 +2443,7 @@
     <original></original>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>hlustað</w>

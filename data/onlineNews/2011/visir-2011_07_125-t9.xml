@@ -96,7 +96,7 @@
       <errors>
         <error xtype="missing-period" idx="5-1" eid="0" />
         <error xtype="comma4period" idx="5-2" eid="0" />
-        <error xtype="missing-word" idx="5-3" eid="0" />
+        <error xtype="missing-sub" idx="5-3" eid="0" />
       </errors>
   </revision>
   <w>komum</w>
@@ -130,7 +130,7 @@
     <original><w>Vorum</w><w>ekkert</w><w>svaka</w></original>
     <corrected><w>Við</w><w>vorum</w><w>ekki</w><w>mjög</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="8-1" eid="0" />
+        <error xtype="missing-sub" idx="8-1" eid="0" />
         <error xtype="wording" idx="8-2" eid="0" />
         <error xtype="style" idx="8-2" eid="0" />
       </errors>

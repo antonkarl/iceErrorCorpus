@@ -219,7 +219,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" idx="0-1" eid="0"/>
+        <error xtype="though" idx="0-1" eid="0"/>
       </errors>
   </revision>
   <w>lögreglan</w>
@@ -331,7 +332,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" idx="6b-1" eid="0"/>
+        <error xtype="though" idx="6b-1" eid="0"/>
       </errors>
   </revision>
   <w>þau</w>
@@ -413,7 +415,7 @@
     <original></original>
     <corrected><w>Það</w><w>voru</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="10-1" eid="0" />
+        <error xtype="missing-sub" idx="10-1" eid="0" />
         <error xtype="wording" idx="10-2" eid="0" />
       </errors>
   </revision>
@@ -498,7 +500,7 @@
     <original><w>Undrast</w></original>
     <corrected><w>Hann</w><w>undrast</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>viðbrögð</w>
@@ -798,7 +800,7 @@
     <original></original>
     <corrected><w>hefðu</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>ráðist</w>

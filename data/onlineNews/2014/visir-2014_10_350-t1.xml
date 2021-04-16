@@ -356,7 +356,7 @@
     <original></original>
     <corrected><w>það</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-obj" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -494,7 +494,7 @@
     <original></original>
     <corrected><w>þann</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-dem-pro" eid="0" />
       </errors>
   </revision>
   <w>möguleika</w>
@@ -514,7 +514,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" idx="26b-1" eid="0"/>
+        <error xtype="though" idx="26b-1" eid="0"/>
       </errors>
   </revision>
   <w>ég</w>
@@ -564,7 +565,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" idx="28b-1" eid="0"/>
+        <error xtype="though" idx="28b-1" eid="0"/>
       </errors>
   </revision>
   <w>ég</w>

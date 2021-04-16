@@ -812,7 +812,7 @@
     <original/>
     <corrected><w>heimamenn</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-obj" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
@@ -2873,7 +2873,7 @@
     <original><w>Brynjar</w></original>
     <corrected><w>frá</w><w>Brynjari</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="89-1" eid="0"/>
+        <error xtype="missing-prep" idx="89-1" eid="0"/>
         <error xtype="dep" depId="89-1" eid="0"/>
       </errors>
   </revision>

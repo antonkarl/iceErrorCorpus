@@ -118,7 +118,8 @@
     <corrected><w>út</w><w>af</w><w>velli</w></corrected>
       <errors>
         <error xtype="merged-words" idx="2-1" eid="0" />
-        <error xtype="missing-word" idx="2-2" eid="0" />
+        <error xtype="nonword" idx="2-1" eid="0"/>
+        <error xtype="missing-obj" idx="2-2" eid="0" />
       </errors>
   </revision>
   <w>vegna</w>

@@ -96,7 +96,7 @@
     <original></original>
     <corrected><w>til</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-conjunction" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -152,7 +152,7 @@
     <original></original>
     <corrected><w>er</w><c>,</c></corrected>
       <errors>
-        <error xtype="missing-word" idx="5-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="5-1" eid="0" />
         <error xtype="missing-comma" idx="5-2" eid="0" />
       </errors>
   </revision>

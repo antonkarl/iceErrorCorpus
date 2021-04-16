@@ -47,14 +47,13 @@
   <w>eigu</w>
   <w>fjölskyldunnar</w>
   <c>,</c>
-  <w>þ.</w>
-  <w>e.</w>
+  <w>þ.e.</w>
   <w>í</w>
   <revision id="1">
     <original></original>
     <corrected><w>eigu</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-obj" eid="0" />
       </errors>
   </revision>
   <w>bróður</w>
@@ -181,7 +180,7 @@
     <original></original>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>ömurleg</w>

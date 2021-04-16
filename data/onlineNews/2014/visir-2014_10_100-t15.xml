@@ -86,7 +86,7 @@
     <original/>
     <corrected><w>um</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -319,7 +319,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" idx="10b-1" eid="0"/>
+        <error xtype="though" idx="10b-1" eid="0"/>
       </errors>
   </revision>
   <w>hún</w>

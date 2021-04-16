@@ -64,7 +64,7 @@
     <original></original>
     <corrected><w>það</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>ætti</w>
@@ -77,7 +77,7 @@
     <corrected><c>“</c><w>segir</w></corrected>
       <errors>
         <error xtype="wrong-quots" idx="2-1" eid="0" />
-        <error xtype="missing-word" idx="2-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="2-2" eid="0" />
       </errors>
   </revision>
   <w>Guðmundur</w>
@@ -222,7 +222,7 @@
     <original></original>
     <corrected><w>þeir</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-dem-pro" eid="0" />
       </errors>
   </revision>
   <w>einstaklingar</w>

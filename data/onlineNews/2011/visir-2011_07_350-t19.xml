@@ -123,7 +123,7 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-conjunction" eid="0" />
       </errors>
   </revision>
   <w>niðurstöður</w>
@@ -131,7 +131,7 @@
     <original></original>
     <corrected><w>hafi</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>verið</w>
@@ -161,7 +161,7 @@
     <original><w>Skil</w></original>
     <corrected><w>Ég</w><w>skil</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>ekki</w>

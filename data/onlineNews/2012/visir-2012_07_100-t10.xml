@@ -146,7 +146,7 @@
     <original></original>
     <corrected><w>fylgi</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-obj" eid="0" />
       </errors>
   </revision>
   <w>á</w>
@@ -156,7 +156,7 @@
     <original><w>hjá</w><w>Romney</w></original>
     <corrected><w>fylgi</w><w>Romneys</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="8-1" eid="0" />
+        <error xtype="missing-obj" idx="8-1" eid="0" />
         <error xtype="wording" idx="8-2" eid="0" />
       </errors>
   </revision>

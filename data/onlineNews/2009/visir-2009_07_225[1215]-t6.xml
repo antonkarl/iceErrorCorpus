@@ -254,7 +254,7 @@
     <original><w>Munar</w></original>
     <corrected><w>Það</w><w>munar</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>um</w>
@@ -282,7 +282,7 @@
     <corrected><w>Hann</w></corrected>
       <errors>
         <error xtype="extra-conjunction" idx="4-1" eid="0" />
-        <error xtype="missing-word" idx="4-1" eid="0" />
+        <error xtype="missing-sub" idx="4-1" eid="0" />
       </errors>
   </revision>
   <w>segir</w>

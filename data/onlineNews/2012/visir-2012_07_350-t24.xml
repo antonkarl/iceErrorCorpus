@@ -339,7 +339,7 @@
     <original><w>Setti</w></original>
     <corrected><w>Hann</w><w>setti</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>Baldur</w>
@@ -401,7 +401,7 @@
     <corrected><w>inn</w><w>á</w><w>völlinn</w></corrected>
       <errors>
         <error xtype="merged-words" eid="0" />
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-obj" eid="0" />
       </errors>
   </revision>
   <w>en</w>
@@ -441,7 +441,7 @@
     <original><w>Byrjaði</w></original>
     <corrected><w>Hann</w><w>byrjaði</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>strax</w>
@@ -505,7 +505,7 @@
     <original></original>
     <corrected><w>það</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-obj" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -546,7 +546,7 @@
     <original><w>Var</w></original>
     <corrected><w>Hann</w><w>var</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>sóttur</w>
@@ -648,7 +648,7 @@
     <original><w>framhjá</w></original>
     <corrected><w>fæti</w><w>fram</w><w>hjá</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-obj" eid="0" />
         <error xtype="merged-words" eid="0" />
       </errors>
   </revision>
@@ -1331,7 +1331,7 @@
     <original></original>
     <corrected><w>segir</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <c>:</c>
@@ -1364,7 +1364,7 @@
     <original></original>
     <corrected><w>var</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>þokkalega</w>
@@ -1480,7 +1480,7 @@
     <corrected><c>.</c><w>Við</w></corrected>
       <errors>
         <error xtype="conjunction4period" eid="0" />
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>vildum</w>
@@ -1563,7 +1563,7 @@
     <original><w>Hlupu</w></original>
     <corrected><w>Þeir</w><w>hlupu</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>og</w>

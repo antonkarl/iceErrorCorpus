@@ -366,7 +366,7 @@
     <original><w>Rak</w></original>
     <corrected><w>Hún</w><w>rak</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-sub" eid="0"/>
       </errors>
   </revision>
   <w>verslun</w>
@@ -390,7 +390,7 @@
     <original/>
     <corrected><w>listaháskólanum</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-obj" eid="0"/>
       </errors>
   </revision>
   <w>Central</w>
@@ -529,7 +529,7 @@
     <original><w>Vinnur</w></original>
     <corrected><w>Hún</w><w>vinnur</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-sub" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -726,7 +726,7 @@
     <original/>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0"/>
       </errors>
   </revision>
   <w>til</w>

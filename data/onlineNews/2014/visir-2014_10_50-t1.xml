@@ -828,8 +828,7 @@
     <original><w>á</w><w>þeim</w><w>tíma</w><w>var</w><w>ekki</w><w>tímabært</w></original>
     <corrected><w>þá</w></corrected>
       <errors>
-        <error xtype="wording" idx="41-1" eid="0"/>
-        <error xtype="missing-word" idx="41-2" eid="0"/>
+        <error xtype="wording" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -868,7 +867,7 @@
     <original/>
     <corrected><w>var</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-fin-verb" eid="0"/>
       </errors>
   </revision>
   <w>farið</w>

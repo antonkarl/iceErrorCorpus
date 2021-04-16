@@ -90,8 +90,9 @@
     <original><w>Grundvallst</w></original>
     <corrected><w>Ákæran</w><w>grundvallast</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="2-1" eid="0" />
-        <error xtype="dep" depId="2-1" eid="0" />
+        <error xtype="missing-sub" idx="2-1" eid="0" />
+        <error xtype="missing-letter" idx="2-2" eid="0" />
+        <error xtype="nonword" idx="2-2" eid="0"/>
       </errors>
   </revision>
   <w>á</w>
@@ -550,7 +551,7 @@
     <original><w>Krefst</w></original>
     <corrected><w>Ákæran</w><w>krefst</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>upptöku</w>

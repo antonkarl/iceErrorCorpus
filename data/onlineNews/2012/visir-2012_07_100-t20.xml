@@ -418,7 +418,7 @@
     <original></original>
     <corrected><w>verði</w><w>einfölduð</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="18-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="18-1" eid="0" />
         <error xtype="dep" depId="17-1" eid="0" />
       </errors>
   </revision>
@@ -433,7 +433,7 @@
     <original></original>
     <corrected><w>við</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>vinnum</w>

@@ -565,8 +565,8 @@
     <original><w>Ekki</w><w>náð</w></original>
     <corrected><w>Við</w><w>náðum</w><w>ekki</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="10-1" eid="0"/>
-        <error xtype="dep" depId="10-1" eid="0"/>
+        <error xtype="missing-sub" idx="10-1" eid="0"/>
+        <error xtype="missing-fin-verb" idx="10-2" eid="0"/>
       </errors>
   </revision>
   <w>að</w>

@@ -226,7 +226,7 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-conjunction" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -265,7 +265,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" idx="15b-1" eid="0"/>
+        <error xtype="though" idx="15b-1" eid="0"/>
       </errors>
   </revision>
   <w>maður</w>

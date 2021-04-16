@@ -375,7 +375,7 @@
     <original><w>Eina</w></original>
     <corrected><w>Það</w><w>eina</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-dem-pro" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
@@ -564,7 +564,7 @@
     <corrected><w>Fengið</w><w>úr</w></corrected>
       <errors>
         <error xtype="extra-hyphen" idx="27-1" eid="0" />
-        <error xtype="missing-word" idx="27-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="27-1" eid="0" />
       </errors>
   </revision>
   <w>Telegraph</w>

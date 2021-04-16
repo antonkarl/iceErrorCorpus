@@ -110,7 +110,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" idx="2b-1" eid="0"/>
+        <error xtype="though" idx="2b-1" eid="0"/>
       </errors>
   </revision>
   <w>svæðið</w>
@@ -155,7 +156,7 @@
     <original></original>
     <corrected><w>á</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-prep" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -189,7 +190,7 @@
     <original></original>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>ný</w>
@@ -208,7 +209,7 @@
     <original></original>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>ný</w>
@@ -436,7 +437,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" idx="9c-1" eid="0"/>
+        <error xtype="though" idx="9c-1" eid="0"/>
       </errors>
   </revision>
   <w>margt</w>

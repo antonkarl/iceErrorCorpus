@@ -33,7 +33,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" idx="0-1" eid="0"/>
+        <error xtype="though" idx="0-1" eid="0"/>
       </errors>
   </revision>
   <w>regndekkin</w>
@@ -155,7 +156,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" idx="3b-1" eid="0"/>
+        <error xtype="though" idx="3b-1" eid="0"/>
       </errors>
   </revision>
   <w>tímatökunni</w>

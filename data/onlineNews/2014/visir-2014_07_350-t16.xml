@@ -67,7 +67,7 @@
     <original></original>
     <corrected><w>með</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-prep" eid="0" />
       </errors>
   </revision>
   <w>35.532</w>
@@ -137,7 +137,13 @@
   <w>deildi</w>
   <w>síðan</w>
   <w>2</w>
-
+  <revision id="1b">
+    <original><c>-</c></original>
+    <corrected><c>–</c></corrected>
+      <errors>
+        <error xtype="hyphen4endash" eid="0" />
+      </errors>
+  </revision>
   <w>3.</w>
   <w>sæti</w>
   <w>í</w>
@@ -192,14 +198,14 @@
   <w>dagsins</w>
   <c>(</c>
   <w>100m</w>
-
+  <c>-</c>
   <w>langstökki-kúluvarpi-hástökki</w>
-
+  <c>-</c>
   <w>400m</w>
-
+  <c>-</c>
   <w>110m</w>
   <w>grind-kringlukasti-stangarstökki-spjótkasti</w>
-
+  <c>-</c>
   <w>1500m</w>
   <c>)</c>
   <c>:</c>
@@ -209,25 +215,25 @@
   <c>:</c>
   <w>11,51</w>
   <w>sek</w>
-
+  <c>-</c>
   <w>6,34 m</w>
-
+  <c>-</c>
   <w>13,16 m</w>
-
+  <c>-</c>
   <w>1,80 m</w>
-
+  <c>-</c>
   <w>51,66</w>
   <w>sek</w>
   <c>-16,65</c>
   <w>sek</w>
-
+  <c>-</c>
   <w>44,85 m</w>
-
+  <c>-</c>
   <w>4,60 m</w>
-
+  <c>-</c>
   <w>45</w>
   <w>94m</w>
-
+  <c>-</c>
   <w>4</w>
   <c>:</c>
   <w>45</w>
@@ -242,24 +248,24 @@
   <c>:</c>
   <w>11,63</w>
   <w>sek</w>
-
+  <c>-</c>
   <w>6,54 m</w>
-
+  <c>-</c>
   <w>10,18 m</w>
-
+  <c>-</c>
   <w>1,77 m</w>
-
+  <c>-</c>
   <w>50,13</w>
   <w>sek</w>
-
+  <c>-</c>
   <w>16,51</w>
   <w>sek</w>
-
+  <c>-</c>
   <w>28,43 m</w>
-
+  <c>-</c>
   <w>4,60 m</w>
   <c>-51,44 m</c>
-
+  <c>-</c>
   <w>4</w>
   <c>:</c>
   <w>34</w>
@@ -274,23 +280,23 @@
   <c>:</c>
   <w>11,78</w>
   <w>sek</w>
-
+  <c>-</c>
   <w>6,79 m</w>
-
+  <c>-</c>
   <w>11,68 m</w>
   <c>-1,95 m</c>
   <c>-50,92</c>
   <w>sek</w>
-
+  <c>-</c>
   <w>16,97</w>
   <w>sek</w>
-
+  <c>-</c>
   <w>34,87 m</w>
-
+  <c>-</c>
   <w>3,70 m</w>
-
+  <c>-</c>
   <w>53,67 m</w>
-
+  <c>-</c>
   <w>4</w>
   <c>:</c>
   <w>51</w>
@@ -304,7 +310,7 @@
     <original></original>
     <corrected><w>eru</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>fengin</w>

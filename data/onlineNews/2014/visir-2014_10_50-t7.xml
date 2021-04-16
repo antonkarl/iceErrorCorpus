@@ -373,7 +373,7 @@
     <original><w>ennþá</w></original>
     <corrected><w>var</w><w>enn</w><w>þá</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="32-1" eid="0"/>
+        <error xtype="missing-fin-verb" idx="32-1" eid="0"/>
         <error xtype="merged-words" idx="32-2" eid="0"/>
       </errors>
   </revision>
@@ -594,7 +594,7 @@
       <errors>
         <error xtype="conjunction" idx="48-1" eid="0"/>
         <error xtype="wording" idx="48-2" eid="0"/>
-        <error xtype="missing-word" idx="48-3" eid="0"/>
+        <error xtype="missing-fin-verb" idx="48-3" eid="0"/>
       </errors>
   </revision>
   <w>ekki</w>
@@ -631,7 +631,7 @@
     <original/>
     <corrected><w>land</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-obj" eid="0"/>
       </errors>
   </revision>
   <w>vildi</w>
@@ -702,7 +702,7 @@
     <original/>
     <corrected><w>með</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
       </errors>
   </revision>
   <w>um</w>

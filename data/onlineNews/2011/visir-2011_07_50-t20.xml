@@ -277,15 +277,14 @@
   <w>er</w>
   <w>á</w>
   <w>svæðinu</w>
-  <w>og</w>
-  <w>fylgist</w>
   <revision id="4">
-    <original></original>
-    <corrected><w>er</w></corrected>
+    <original><w>og</w></original>
+    <corrected><w>sem</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
-      </errors>
+        <error xtype="conjunction" eid="0" />
+     </errors>
   </revision>
+  <w>fylgist</w>
   <w>með</w>
   <w>framgangi</w>
   <w>mála</w>

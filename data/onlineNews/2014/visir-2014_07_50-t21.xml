@@ -217,7 +217,7 @@
       <errors>
         <error xtype="missing-letter" idx="5-1" eid="0" />
         <error xtype="nonword" idx="5-1" eid="0" />
-        <error xtype="missing-word" idx="5-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="5-2" eid="0" />
       </errors>
   </revision>
   <w>28</w>
@@ -382,7 +382,7 @@
     <original></original>
     <corrected><w>var</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>sextán</w>
@@ -439,7 +439,7 @@
     <original></original>
     <corrected><w>var</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>staðreynd</w>
@@ -663,7 +663,7 @@
     <original><w>Kemur</w></original>
     <corrected><w>Það</w><w>kemur</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>mér</w>
@@ -2443,7 +2443,7 @@
     <original></original>
     <corrected><w>hefur</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-fin-verb" eid="0" />
       </errors>
   </revision>
   <w>verið</w>

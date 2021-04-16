@@ -164,7 +164,7 @@
     <corrected><w>þessa</w></corrected>
       <errors>
         <error xtype="extra-word" idx="10-1" eid="0" />
-        <error xtype="missing-word" idx="10-2" eid="0" />
+        <error xtype="missing-dem-pro" idx="10-2" eid="0" />
       </errors>
   </revision>
   <w>síðustu</w>
@@ -212,7 +212,7 @@
     <corrected><c>.</c><w>Það</w></corrected>
       <errors>
         <error xtype="conjunction4period" idx="14-1" eid="0" />
-        <error xtype="missing-word" idx="14-2" eid="0" />
+        <error xtype="missing-sub" idx="14-2" eid="0" />
       </errors>
   </revision>
   <w>verður</w>

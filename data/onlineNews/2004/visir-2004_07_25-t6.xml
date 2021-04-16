@@ -134,7 +134,7 @@
     <original><w>Heimsótti</w></original>
     <corrected><w>Hann</w><w>heimsótti</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>Gauk</w>
@@ -152,7 +152,7 @@
     <original><w>Milli</w><w>ellefu</w></original>
     <corrected><w>Á</w><w>milli</w><w>klukkan ellefu</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-prep" eid="0" />
         <error xtype="missing-word" eid="0" />
       </errors>
   </revision>

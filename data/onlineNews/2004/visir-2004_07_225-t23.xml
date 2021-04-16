@@ -147,7 +147,7 @@
     <original><w>Byrjaði</w></original>
     <corrected><w>Ég</w><w>byrjaði</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>hátíðarhöldin</w>
@@ -196,7 +196,7 @@
     <original><w>Fyrirgaf</w></original>
     <corrected><w>Ég</w><w>fyrirgaf</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>þeim</w>
@@ -224,7 +224,7 @@
     <original><w>Rölti</w></original>
     <corrected><w>Ég</w><w>rölti</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>á</w>
@@ -266,7 +266,7 @@
     <original><w>Fann</w></original>
     <corrected><w>Ég</w><w>fann</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>andlitið</w>
@@ -311,7 +311,7 @@
     <original><w>Fannst</w></original>
     <corrected><w>Mér</w><w>fannst</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>þeir</w>
@@ -325,7 +325,7 @@
     <original><w>Held</w></original>
     <corrected><w>Ég</w><w>held</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -511,7 +511,7 @@
     <original><w>Fór</w></original>
     <corrected><w>Ég</w><w>fór</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -564,7 +564,7 @@
     <corrected><c>,</c><w>ég</w><w>stoppaði</w><w>þó</w></corrected>
       <errors>
         <error xtype="period4comma" idx="17-1" eid="0" />
-        <error xtype="missing-word" idx="17-2" eid="0" />
+        <error xtype="missing-sub" idx="17-2" eid="0" />
       </errors>
   </revision>
   <w>á</w>
