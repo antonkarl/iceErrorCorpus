@@ -350,7 +350,7 @@
     <original><w>eina</w><w>stórveldis</w></original>
     <corrected><w>eins</w><w>stórvelda</w></corrected>
       <errors>
-        <error xtype="number-inflection" eid="0"/>
+        <error xtype="numeral-inflection" eid="0"/>
         <error xtype="singular4plural" eid="0"/>
       </errors>
   </revision>
@@ -459,7 +459,7 @@
     <corrected><w>örlögum</w></corrected>
       <errors>
         <error xtype="nominal-inflection" eid="0"/>
-        <error xtype="cae-verb" eid="0" />
+        <error xtype="case-verb" eid="0" />
       </errors>
   </revision>
   <w>fólksins</w>
