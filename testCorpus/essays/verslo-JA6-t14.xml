@@ -808,7 +808,7 @@
     <original/>
     <corrected><w>hana</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-obj" eid="0"/>
       </errors>
   </revision>
   <w>á</w>
@@ -921,7 +921,7 @@
   <w>á</w>
   <w>vinnumarkaðinn</w>
   <w>25</w>
-
+  <c>-</c>
   <w>27</w>
   <w>ára</w>
   <w>gamalt</w>
@@ -930,7 +930,7 @@
     <corrected><c>,</c><w>hefur</w></corrected>
       <errors>
         <error xtype="conjunction4comma" idx="14-1" eid="0"/>
-        <error xtype="missing-word" idx="14-2" eid="0"/>
+        <error xtype="missing-fin-verb" idx="14-2" eid="0"/>
       </errors>
   </revision>
   <w>ekki</w>

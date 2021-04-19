@@ -71,7 +71,7 @@
     <corrected><c>.</c><w>Til</w></corrected>
       <errors>
         <error xtype="conjunction4period" eid="0"/>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="wording" idx="3-1" eid="0"/>
       </errors>
   </revision>
   <w>eru</w>
@@ -79,7 +79,7 @@
     <original><w>til</w></original>
     <corrected/>
       <errors>
-        <error xtype="extra-word" eid="0"/>
+        <error xtype="dep" depId="3-1" eid="0"/>
       </errors>
   </revision>
   <w>mörg</w>
@@ -158,7 +158,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" idx="4b-1" eid="0"/>
+        <error xtype="though" idx="4b-1" eid="0"/>
       </errors>
   </revision>
   <w>þau</w>
@@ -275,7 +276,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" idx="6b-1" eid="0"/>
+        <error xtype="though" idx="6b-1" eid="0"/>
       </errors>
   </revision>
   <w>oftast</w>
@@ -645,7 +647,7 @@
     <original/>
     <corrected><w>í</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
       </errors>
   </revision>
   <w>einum</w>
@@ -741,7 +743,7 @@
     <corrected><c>,</c><w>á</w></corrected>
       <errors>
         <error xtype="missing-comma" eid="0"/>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
       </errors>
   </revision>
   <w>sama</w>
@@ -785,7 +787,7 @@
     <original/>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
       </errors>
   </revision>
   <w>það</w>
@@ -870,7 +872,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" idx="25b-1" eid="0"/>
+        <error xtype="though" idx="25b-1" eid="0"/>
       </errors>
   </revision>
   <w>hún</w>

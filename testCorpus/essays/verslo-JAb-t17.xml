@@ -686,7 +686,7 @@
     <original/>
     <corrected><w>mig</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-sub" eid="0"/>
       </errors>
   </revision>
   <w>langaði</w>
@@ -1021,7 +1021,7 @@
     <original/>
     <corrected><w>á</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-prep" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -1254,7 +1254,7 @@
   <w>honum</w>
   <w>á</w>
   <w>2</w>
-
+  <c>-</c>
   <w>4</w>
   <w>árum</w>
   <c>,</c>
@@ -1262,7 +1262,7 @@
     <original/>
     <corrected><w>en</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" eid="0"/>
       </errors>
   </revision>
   <w>ef</w>

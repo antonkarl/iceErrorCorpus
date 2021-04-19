@@ -442,7 +442,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-conjunction" idx="10b-1" eid="0"/>
+        <error xtype="though" idx="10b-1" eid="0"/>
       </errors>
   </revision>
   <w>hann</w>
@@ -668,7 +669,7 @@
     <original/>
     <corrected><w>því</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-obj" eid="0"/>
       </errors>
   </revision>
   <w>augnablikshamingju</w>
@@ -939,7 +940,7 @@
     <corrected><w>og</w><w>að</w></corrected>
       <errors>
         <error xtype="comma4conjunction" eid="0"/>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-inf-part" eid="0"/>
       </errors>
   </revision>
   <w>geta</w>
