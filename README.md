@@ -1,8 +1,8 @@
 # Icelandic Error Corpus (IceEC)
 
-Version 1.0
+Version 1.1
 
-Copyright 2020 Anton Karl Ingason, Lilja Björk Stefánsdóttir, Þórunn Arnardóttir, Xindan Xu.
+Copyright 2021 Anton Karl Ingason, Lilja Björk Stefánsdóttir, Þórunn Arnardóttir, Xindan Xu.
 
 Repository: https://github.com/antonkarl/iceErrorCorpus
 
@@ -16,7 +16,7 @@ Sentences within texts in the student essays had to be shuffled due to the licen
 
 Citing the Error Corpus:
 
-Ingason, Anton Karl, Lilja Björk Stefánsdóttir, and Þórunn Arnardóttir. 2020. The Icelandic Error Corpus (IceEC). Version 0.9.4. (https://github.com/antonkarl/iceErrorCorpus)
+Anton Karl Ingason, Lilja Björk Stefánsdóttir, Þórunn Arnardóttir, and Xindan Xu. 2021. The Icelandic Error Corpus (IceEC). Version 1.1. (https://github.com/antonkarl/iceErrorCorpus)
 
 The project is funded by the Icelandic Government as a part of the Language Technology Programme for Icelandic 2019–2023 which is described in the following publication: 
 
@@ -24,9 +24,9 @@ Anna Björk Nikulásdóttir, Jón Guðnason, Anton Karl Ingason, Hrafn Loftsson,
 
 # Íslensk villumálheild (IceEC)
 
-Útgáfa 1.0
+Útgáfa 1.1
 
-Höfundarréttur 2020 Anton Karl Ingason, Lilja Björk Stefánsdóttir, Þórunn Arnardóttir, Xindan Xu.
+Höfundarréttur 2021 Anton Karl Ingason, Lilja Björk Stefánsdóttir, Þórunn Arnardóttir, Xindan Xu.
 
 Slóð: https://github.com/antonkarl/iceErrorCorpus
 
@@ -40,7 +40,7 @@ Setningum í nemendaritgerðum þurfti að stokka upp vegna leyfis sem þær vor
 
 Vísun í heimildaskrá:
 
-Ingason, Anton Karl, Lilja Björk Stefánsdóttir, and Þórunn Arnardóttir. 2020. The Icelandic Error Corpus (IceEC). Version 0.9.4. (https://github.com/antonkarl/iceErrorCorpus)
+Anton Karl Ingason, Lilja Björk Stefánsdóttir, Þórunn Arnardóttir, and Xindan Xu. 2021. The Icelandic Error Corpus (IceEC). Version 1.1. (https://github.com/antonkarl/iceErrorCorpus)
 
 Þetta verkefni er fjármagnað af ríkissjóði Íslands sem hluti af Máltækniáætlun fyrir íslensku 2019-2023. Máltækniáætluninni er nánar lýst í eftirfarandi grein:
 
