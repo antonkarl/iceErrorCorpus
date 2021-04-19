@@ -273,7 +273,8 @@
     <corrected><w>Ég</w></corrected>
       <errors>
         <error xtype="extra-conjunction" idx="12-1" eid="0" />
-        <error xtype="missing-word" idx="12-2" eid="0" />
+        <error xtype="period-plus-conjunction" idx="12-1" eid="0" />
+        <error xtype="missing-sub" idx="12-2" eid="0" />
       </errors>
   </revision>
   <w>verð</w>
@@ -379,7 +380,7 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-inf-part" eid="0" />
       </errors>
   </revision>
   <w>samþykkja</w>

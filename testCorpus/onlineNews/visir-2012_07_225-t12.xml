@@ -195,7 +195,7 @@
     <corrected><c>“</c><w>segir</w></corrected>
       <errors>
         <error xtype="wrong-quots" idx="2-1" eid="0" />
-        <error xtype="missing-word" idx="2-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="2-2" eid="0" />
       </errors>
   </revision>
   <w>Kjartan</w>
@@ -281,7 +281,7 @@
     <original></original>
     <corrected><w>því</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-obj" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -374,8 +374,7 @@
     <original><w>Og</w></original>
     <corrected><w>Svo</w><w>er</w><w>frábært</w></corrected>
       <errors>
-        <error xtype="extra-conjunction" idx="8-1" eid="0" />
-        <error xtype="missing-word" idx="8-2" eid="0" />
+        <error xtype="conjunction" idx="8-1" eid="0" />
         <error xtype="dep" depId="9-1" eid="0" />
       </errors>
   </revision>
