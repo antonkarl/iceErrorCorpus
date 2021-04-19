@@ -82,7 +82,7 @@
     <original/>
     <corrected><w>í</w><w>órækt</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="5-1" eid="0"/>
+        <error xtype="missing-prep" idx="5-1" eid="0"/>
         <error xtype="dep" depId="4-1" eid="0"/>
       </errors>
   </revision>
@@ -173,7 +173,7 @@
     <original/>
     <corrected><w>hún</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-sub" eid="0"/>
       </errors>
   </revision>
   <w>þá</w>
@@ -219,7 +219,7 @@
         <error xtype="bracket4comma" idx="1-1" eid="0"/>
         <error xtype="missing-conjunction" idx="1-2" eid="0"/>
         <error xtype="missing-fin-verb" idx="1-3" eid="0" />
-        <error xtype="missing-word" idx="1-4" eid="0" />
+        <error xtype="missing-obj" idx="1-4" eid="0" />
       </errors>
   </revision>
   <w><hi>Uroleucon</hi></w>

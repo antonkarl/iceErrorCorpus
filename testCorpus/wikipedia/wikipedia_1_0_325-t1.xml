@@ -351,7 +351,7 @@
     <original></original>
     <corrected><w>í</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-prep" eid="0" />
       </errors>
   </revision>
   <w>þriðju</w>
@@ -428,7 +428,7 @@
     <original></original>
     <corrected><w>í</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-prep" eid="0" />
       </errors>
   </revision>
   <w>enda</w>
@@ -1213,7 +1213,7 @@
     <original><c>"</c><w>cortosis</w><c>"</c><w>kristöllum</w></original>
     <corrected><w>á</w><w>kortósis-kristöllum</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="61-1" eid="0" />
+        <error xtype="missing-prep" idx="61-1" eid="0" />
         <error xtype="extra-quots" idx="61-2" eid="0" />
         <error xtype="letter-rep" idx="61-3" eid="0" />
         <error xtype="missing-hyphen" idx="61-4" eid="0" />
@@ -1358,7 +1358,7 @@
     <original></original>
     <corrected><w>hann</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-obj" eid="0" />
       </errors>
   </revision>
   <w>um</w>
@@ -1536,7 +1536,7 @@
     <original></original>
     <corrected><w>hann</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>að</w>

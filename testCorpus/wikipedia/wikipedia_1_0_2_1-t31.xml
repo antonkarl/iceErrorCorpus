@@ -155,7 +155,7 @@
     <original><w>Var</w><w>tilnend</w></original>
     <corrected><w>Hún</w><w>var</w><w>tilnefnd</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="2-1" eid="0" />
+        <error xtype="missing-sub" idx="2-1" eid="0" />
         <error xtype="nonword" idx="2-2" eid="0" />
         <error xtype="missing-letter" idx="2-2" eid="0" />
       </errors>
@@ -238,7 +238,7 @@
     <original></original>
     <corrected><w>hún</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>komið</w>

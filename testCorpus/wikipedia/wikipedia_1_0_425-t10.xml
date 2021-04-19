@@ -271,7 +271,7 @@
     <original><w>síðan</w></original>
     <corrected><w>honum</w><w>svo</w></corrected>
       <errors>
-        <error xtype="missing-word" idx="11-1" eid="0" />
+        <error xtype="missing-sub" idx="11-1" eid="0" />
         <error xtype="wording" idx="11-2" eid="0" />
       </errors>
   </revision>
@@ -416,7 +416,7 @@
     <original><w>Sótti</w></original>
     <corrected><w>Þá</w><w>sótti</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-conjunction" eid="0" />
       </errors>
   </revision>
   <w>hann</w>
@@ -528,7 +528,7 @@
     <original></original>
     <corrected><w>hann</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>mjög</w>
@@ -590,7 +590,7 @@
     <original></original>
     <corrected><w>með</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-prep" eid="0" />
       </errors>
   </revision>
   <w>að</w>

@@ -606,7 +606,7 @@
     <corrected><w>Þá</w></corrected>
       <errors>
         <error xtype="wording" idx="23-1" eid="0"/>
-        <error xtype="missing-word" idx="23-1" eid="0"/>
+        <error xtype="missing-conjunction" idx="23-1" eid="0"/>
       </errors>
   </revision>
   <w>sat</w>
@@ -998,7 +998,7 @@
     <original/>
     <corrected><w>Þann</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0"/>
+        <error xtype="missing-dem-pro" eid="0"/>
       </errors>
   </revision>
   <w>9. apríl</w>
@@ -1006,7 +1006,7 @@
     <original><w>á</w></original>
     <corrected/>
       <errors>
-        <error xtype="extra-word" eid="0"/>
+        <error xtype="extra-prep" eid="0"/>
       </errors>
   </revision>
   <w>sama</w>
@@ -1090,7 +1090,7 @@
     <original><w>í</w></original>
     <corrected/>
       <errors>
-        <error xtype="extra-word" eid="0"/>
+        <error xtype="extra-prep" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
