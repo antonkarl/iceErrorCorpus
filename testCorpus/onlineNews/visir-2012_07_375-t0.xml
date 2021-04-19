@@ -298,7 +298,7 @@
     <original></original>
     <corrected><w>segir</w><c>,</c></corrected>
       <errors>
-        <error xtype="missing-word" idx="8-1" eid="0" />
+        <error xtype="missing-fin-verb" idx="8-1" eid="0" />
         <error xtype="missing-comma" idx="8-2" eid="0" />
       </errors>
   </revision>
@@ -502,7 +502,7 @@
     <corrected><w>segir</w><w>Grindvíkinga</w></corrected>
       <errors>
         <error xtype="extra-colon" idx="18-1" eid="0" />
-        <error xtype="missing-word" idx="18-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="18-2" eid="0" />
         <error xtype="dep" depId="18-2" eid="0" />
       </errors>
   </revision>
@@ -646,7 +646,7 @@
     <corrected><w>segir</w><w>ummæli</w></corrected>
       <errors>
         <error xtype="extra-colon" idx="24-1" eid="0" />
-        <error xtype="missing-word" idx="24-2" eid="0" />
+        <error xtype="missing-fin-verb" idx="24-2" eid="0" />
         <error xtype="dep" depId="24-2" eid="0" />
       </errors>
   </revision>

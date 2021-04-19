@@ -50,7 +50,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-conjunction" idx="1b-1" eid="0" />
+        <error xtype="though" idx="1b-1" eid="0" />
       </errors>
   </revision>
   <w>hann</w>
@@ -151,7 +152,8 @@
     <original></original>
     <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-conjunction" idx="1c-1" eid="0" />
+        <error xtype="though" idx="1c-1" eid="0" />
       </errors>
   </revision>
   <w>kálfarnir</w>

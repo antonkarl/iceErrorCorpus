@@ -168,7 +168,7 @@
     <corrected><c>.</c><w>Ég</w></corrected>
       <errors>
         <error xtype="conjunction4period" idx="4-1" eid="0" />
-        <error xtype="missing-word" idx="4-1" eid="0" />
+        <error xtype="missing-sub" idx="4-1" eid="0" />
       </errors>
   </revision>
   <w>var</w>
@@ -693,7 +693,7 @@
     <corrected><c>.</c><w>Hann</w></corrected>
       <errors>
         <error xtype="comma4period" idx="27-1" eid="0" />
-        <error xtype="missing-word" idx="27-2" eid="0" />
+        <error xtype="missing-sub" idx="27-2" eid="0" />
       </errors>
   </revision>
   <w>sagðist</w>
@@ -740,7 +740,7 @@
     <corrected><w>voru</w><c>:</c></corrected>
       <errors>
         <error xtype="extra-punctuation" eid="0" />
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
         <error xtype="missing-colon" idx="29-2" eid="0" />
       </errors>
   </revision>
@@ -974,7 +974,7 @@
     <original></original>
     <corrected><w>ég</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="missing-sub" eid="0" />
       </errors>
   </revision>
   <w>hef</w>
