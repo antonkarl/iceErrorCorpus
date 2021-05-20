@@ -341,15 +341,21 @@
   <w>svæði</w>
   <w>til</w>
   <w>að</w>
-  <w>eiga</w>
+  <revision id="10">
+    <original><w>eiga</w></original>
+    <corrected><w>hafa</w></corrected>
+      <errors>
+        <error xtype="collocation" idx="10-1" eid="0"/>
+      </errors>
+  </revision>
   <w>eitthvað</w>
   <revision id="11">
     <original><w>uppá</w><w>ermina</w></original>
-    <corrected><w>upp</w><w>í</w><w>erminnni</w></corrected>
+    <corrected><w>uppi</w><w>í</w><w>erminnni</w></corrected>
       <errors>
         <error xtype="merged-words" idx="20-1" eid="0"/>
         <error xtype="wrong-prep" idx="20-2" eid="0"/>
-        <error xtype="nominal-inflection" idx="20-3" eid="0"/>
+        <error xtype="dep" depId="10-1" eid="0"/>
       </errors>
   </revision>
   <w>í</w>

@@ -513,7 +513,7 @@
     <original><w>er</w><w>upprunnið</w></original>
     <corrected><w>á</w><w>rætur</w><w>að</w><w>rekja</w></corrected>
       <errors>
-        <error xtype="wording" eid="0"/>
+        <error xtype="wording" idx="29-1" eid="0"/>
       </errors>
   </revision>
   <w>annaðhvort</w>
@@ -521,8 +521,7 @@
     <original><w>frá</w><w>greifunum</w></original>
     <corrected><w>til</w><w>greifanna</w></corrected>
       <errors>
-        <error xtype="collocation" idx="12-1" eid="0"/>
-        <error xtype="wrong-prep" depId="12-1" eid="0"/>
+        <error xtype="dep" depId="29-1" eid="0"/>
       </errors>
   </revision>
   <w>af</w>
