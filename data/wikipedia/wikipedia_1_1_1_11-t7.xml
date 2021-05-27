@@ -2227,7 +2227,13 @@
   <w>mýs</w>
   <w>sem</w>
   <w>hafa</w>
-  <w>stökkbreyta</w>
+  <revision id="88a">
+    <original><w>stökkbreyta</w></original>
+    <corrected><w>stökkbreytta</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
   <w>β</w>
   <c>-</c>
   <w>3</w>
@@ -2531,7 +2537,7 @@
     <original><w>kann</w></original>
     <corrected><w>kunni</w></corrected>
       <errors>
-        <error xtype="ind4sub" eid="0" />
+        <error xtype="ind4sub-verb" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -2704,7 +2710,7 @@
     <original><w>hefur</w></original>
     <corrected><w>hafi</w></corrected>
       <errors>
-        <error xtype="ind4sub" eid="0" />
+        <error xtype="ind4sub-verb" eid="0" />
       </errors>
   </revision>
   <w>fengið</w>
@@ -3756,13 +3762,7 @@
   <w>og</w>
   <w>valerenal</w>
   <w>sem</w>
-  <revision id="149">
-    <original><w>eru</w></original>
-    <corrected><w>séu</w></corrected>
-      <errors>
-        <error xtype="ind4sub" eid="0" />
-      </errors>
-  </revision>
+  <w>eru</w>
   <w>ábyrg</w>
   <w>fyrir</w>
   <w>henni</w>

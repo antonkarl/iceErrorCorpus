@@ -258,10 +258,16 @@
   </revision>
   <w>líf</w>
   <revision id="12">
-    <original><w>móðurinnar</w><w>sé</w></original>
-    <corrected><w>móður</w><w>er</w></corrected>
+    <original><w>móðurinnar</w></original>
+    <corrected><w>móður</w></corrected>
       <errors>
         <error xtype="def4ind" idx="36-1" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="12a">
+    <original><w>sé</w></original>
+    <corrected><w>er</w></corrected>
+      <errors>
         <error xtype="sub4ind" idx="36-2" eid="0"/>
       </errors>
   </revision>

@@ -370,7 +370,7 @@
     <original><w>koma</w></original>
     <corrected><w>komi</w></corrected>
       <errors>
-        <error xtype="ind4sub" eid="0"/>
+        <error xtype="ind4sub-conj" eid="0"/>
       </errors>
   </revision>
   <w>þá</w>
@@ -760,7 +760,7 @@
     <original><w>er</w></original>
     <corrected><w>sé</w></corrected>
       <errors>
-        <error xtype="ind4sub" eid="0"/>
+        <error xtype="ind4sub-verb" eid="0"/>
       </errors>
   </revision>
   <w>alltaf</w>
@@ -774,13 +774,7 @@
   <w>segja</w>
   <w>að</w>
   <w>breytingar</w>
-  <revision id="37">
-    <original><w>eru</w></original>
-    <corrected><w>séu</w></corrected>
-      <errors>
-        <error xtype="ind4sub" eid="0"/>
-      </errors>
-  </revision>
+  <w>eru</w>
   <w>í</w>
   <w>vændum</w>
   <c>.</c>
@@ -1207,7 +1201,7 @@
     <original><w>mun</w></original>
     <corrected><w>muni</w></corrected>
       <errors>
-        <error xtype="ind4sub" eid="0"/>
+        <error xtype="ind4sub-verb" eid="0"/>
       </errors>
   </revision>
   <w>valda</w>
@@ -1220,7 +1214,7 @@
     <original><w>verður</w></original>
     <corrected><w>verði</w></corrected>
       <errors>
-        <error xtype="ind4sub" eid="0"/>
+        <error xtype="ind4sub-verb" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -1229,7 +1223,7 @@
     <original><w>verður</w></original>
     <corrected><w>verði</w></corrected>
       <errors>
-        <error xtype="ind4sub" eid="0"/>
+        <error xtype="ind4sub-verði" eid="0"/>
       </errors>
   </revision>
   <w>aftur</w>
@@ -1248,7 +1242,7 @@
     <original><w>verður</w></original>
     <corrected><w>verði</w></corrected>
       <errors>
-        <error xtype="ind4sub" eid="0"/>
+        <error xtype="ind4sub-verði" eid="0"/>
       </errors>
   </revision>
   <w>sett</w>

@@ -1588,10 +1588,16 @@
   <w>gjörðir</w>
   <w>hans</w>
   <revision id="77">
-    <original><w>eru</w><w>öll</w></original>
+    <original><w>eru</w></original>
     <corrected><w>séu</w></corrected>
       <errors>
-        <error xtype="ind4sub" eid="0"/>
+        <error xtype="ind4sub-conj" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="77a">
+    <original><w>öll</w></original>
+    <corrected></corrected>
+      <errors>
         <error xtype="extra-word" eid="0"/>
       </errors>
   </revision>

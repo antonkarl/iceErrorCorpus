@@ -234,7 +234,7 @@
     <original><w>verður</w></original>
     <corrected><w>verði</w></corrected>
       <errors>
-        <error xtype="ind4sub" eid="0"/>
+        <error xtype="ind4sub-verb" eid="0"/>
       </errors>
   </revision>
   <w>jöfn</w>
@@ -3024,7 +3024,7 @@
     <original><w>setur</w></original>
     <corrected><w>setji</w></corrected>
       <errors>
-        <error xtype="ind4sub" eid="0"/>
+        <error xtype="dep" depId="58-2" eid="0"/>
       </errors>
   </revision>
   <w>niður</w>

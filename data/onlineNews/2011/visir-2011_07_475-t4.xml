@@ -69,7 +69,13 @@
   <w>vefsíðu</w>
   <w>Ferðamálastofu</w>
   <w>en</w>
-  <w>þegar</w>
+  <revision id="2a">
+    <original><w>þegar</w></original>
+    <corrected><w>þar</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
+      </errors>
+  </revision>
   <w>segir</w>
   <w>að</w>
   <w>þessar</w>
@@ -78,7 +84,7 @@
     <corrected></corrected>
       <errors>
         <error xtype="wording" idx="2-1" eid="0" />
-        <error xtype="ind4sub" idx="2-1" eid="0" />
+        <error xtype="ind4sub-verb" idx="2-1" eid="0" />
       </errors>
   </revision>
   <w>upplýsingar</w>
@@ -185,7 +191,7 @@
     <original><w>koma</w></original>
     <corrected><w>komi</w></corrected>
       <errors>
-        <error xtype="ind4sub" eid="0" />
+        <error xtype="ind4sub-verb" eid="0" />
       </errors>
   </revision>
   <w>svo</w>

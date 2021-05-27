@@ -256,6 +256,13 @@
   <w>að</w>
   <w>útfæra</w>
   <w>þessarar</w>
+  <revision id="8a">
+    <original><w>þessarar</w></original>
+    <corrected><w>þessar</w></corrected>
+      <errors>
+        <error xtype="extra-letters" eid="0"/>
+      </errors>
+  </revision>
   <w>hugmyndir</w>
   <w>og</w>
   <w>hvernig</w>
@@ -293,13 +300,7 @@
   <w>stórir</w>
   <w>þættir</w>
   <w>sem</w>
-  <revision id="11">
-    <original><w>skilja</w></original>
-    <corrected><w>skilji</w></corrected>
-      <errors>
-        <error xtype="ind4sub" eid="0"/>
-      </errors>
-  </revision>
+  <w>skilja</w>
   <w>þau</w>
   <w>að</w>
   <w>eins</w>

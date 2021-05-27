@@ -828,17 +828,18 @@
   <w>tel</w>
   <w>að</w>
   <w>allir</w>
-  <revision id="19">
-    <original><w>geta</w></original>
-    <corrected><w>geti</w></corrected>
-      <errors>
-        <error xtype="ind4sub" eid="0"/>
-      </errors>
-  </revision>
+  <w>geta</w>
   <w>verið</w>
   <w>lífsglaðir</w>
   <w>þó</w>
   <w>svo</w>
+  <revision id="19-2">
+    <original><w></w></original>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0"/>
+      </errors>
+  </revision>
   <w>aðstæður</w>
   <w>sumra</w>
   <w>virðast</w>

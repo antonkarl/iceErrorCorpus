@@ -63,6 +63,14 @@
       </errors>
   </revision>
   <w>iðnarstörfum</w>
+  <revision id="2a">
+    <original><w>iðnarstörfum</w></original>
+    <corrected><w>iðnaðarstörfum</w></corrected>
+      <errors>
+        <error xtype="missing-letters" eid="0"/>
+      </errors>
+  </revision>
+
   <w>hefur</w>
   <revision id="3">
     <original><w>vakið</w><w>mikinn</w></original>
@@ -105,11 +113,11 @@
   <w>segja</w>
   <w>að</w>
   <w>innflytjendur</w>
+  <w>hafa</w>
   <revision id="5">
-    <original><w>hafa</w><w>mörg</w></original>
-    <corrected><w>hafi</w><w>margvísleg</w></corrected>
+    <original><w>mörg</w></original>
+    <corrected><w>margvísleg</w></corrected>
       <errors>
-        <error xtype="ind4sub" idx="46-1" eid="0"/>
         <error xtype="wording" idx="46-2" eid="0"/>
       </errors>
   </revision>
@@ -259,7 +267,7 @@
     <original><w>á</w></original>
     <corrected><w>eigi</w></corrected>
       <errors>
-        <error xtype="ind4sub" eid="0"/>
+        <error xtype="ind4sub-verb" eid="0"/>
       </errors>
   </revision>
   <w>undir</w>
@@ -277,13 +285,7 @@
   <w>að</w>
   <w>áhrif</w>
   <w>útlendinga</w>
-  <revision id="13">
-    <original><w>geta</w></original>
-    <corrected><w>geti</w></corrected>
-      <errors>
-        <error xtype="ind4sub" eid="0"/>
-      </errors>
-  </revision>
+  <w>geta</w>
   <w>verið</w>
   <w>svo</w>
   <w>sterk</w>
@@ -688,23 +690,23 @@
   <w>að</w>
   <w>ef</w>
   <w>ekkert</w>
-  <revision id="30">
-    <original><w>verður</w></original>
-    <corrected><w>verði</w></corrected>
-      <errors>
-        <error xtype="ind4sub" eid="0"/>
-      </errors>
-  </revision>
+  <w>verður</w>
   <w>gert</w>
   <w>við</w>
   <w>streymi</w>
   <w>útlendinga</w>
   <revision id="31">
-    <original><w>þá</w><w>á</w></original>
+    <original><w>þá</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="33-1" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="31a">
+    <original><w>á</w></original>
     <corrected><w>eigi</w></corrected>
       <errors>
         <error xtype="ind4sub" idx="33-1" eid="0"/>
-        <error xtype="extra-word" idx="33-1" eid="0"/>
       </errors>
   </revision>
   <w>íslenskan</w>
@@ -998,10 +1000,16 @@
   <w>að</w>
   <w>innflytjendur</w>
   <revision id="46">
-    <original><w>hópa</w><w>sér</w></original>
-    <corrected><w>hópi</w><w>sig</w></corrected>
+    <original><w>hópa</w></original>
+    <corrected><w>hópi</w></corrected>
       <errors>
         <error xtype="ind4sub" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="46a">
+    <original><w>sér</w></original>
+    <corrected><w>sig</w></corrected>
+      <errors>
         <error xtype="pro-inflection" eid="0"/>
         <error xtype="case-verb" eid="0" />
       </errors>

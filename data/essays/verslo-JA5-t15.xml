@@ -711,7 +711,7 @@
     <original><w>segja</w></original>
     <corrected><w>segi</w></corrected>
       <errors>
-        <error xtype="ind4sub" eid="0"/>
+        <error xtype="ind4sub-verb" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -921,12 +921,24 @@
   <w>má</w>
   <w>að</w>
   <w>fjölmiðlar</w>
-  <revision id="26">
-    <original><w>er</w><w>eitt</w><w>að</w></original>
-    <corrected><w>séu</w><w>ein</w><w>af</w></corrected>
+  <revision id="26-1">
+    <original><w>er</w></original>
+    <corrected><w>séu</w></corrected>
       <errors>
-        <error xtype="ind4sub" eid="0"/>
+        <error xtype="ind4sub-verb" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="26-2">
+    <original><w>eitt</w></original>
+    <corrected><w>ein</w></corrected>
+      <errors>
         <error xtype="agreement-concord" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="26-3">
+    <original><w>að</w></original>
+    <corrected><w>af</w></corrected>
+      <errors>
         <error xtype="wrong-prep" eid="0"/>
       </errors>
   </revision>

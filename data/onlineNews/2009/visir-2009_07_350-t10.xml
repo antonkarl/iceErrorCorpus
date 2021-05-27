@@ -271,10 +271,16 @@
   <w>áður</w>
   <w>en</w>
   <revision id="6">
-    <original><w>þeir</w><w>skrifi</w></original>
-    <corrected><w>það</w><w>skrifar</w></corrected>
+    <original><w>þeir</w></original>
+    <corrected><w>það</w></corrected>
       <errors>
         <error xtype="dep" depId="5-1" eid="0" />
+      </errors>
+  </revision>
+  <revision id="6a">
+    <original><w>skrifi</w></original>
+    <corrected><w>skrifar</w></corrected>
+      <errors>
         <error xtype="sub4ind" idx="6-1" eid="0" />
       </errors>
   </revision>

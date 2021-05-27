@@ -316,13 +316,7 @@
   <w>að</w>
   <w>einhvern</w>
   <w>daginn</w>
-  <revision id="12">
-    <original><w>á</w></original>
-    <corrected><w>eigi</w></corrected>
-      <errors>
-        <error xtype="ind4sub" eid="0"/>
-      </errors>
-  </revision>
+  <w>á</w>
   <w>maður</w>
   <w>eftir</w>
   <w>að</w>
@@ -619,7 +613,7 @@
     <original><w>sé</w></original>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="sub4ind" eid="0"/>
+        <error xtype="sub4ind-conj" eid="0"/>
       </errors>
   </revision>
   <w>stórt</w>
@@ -711,13 +705,7 @@
   <c>,</c>
   <w>hvaða</w>
   <w>leiðir</w>
-  <revision id="30">
-    <original><w>eru</w></original>
-    <corrected><w>sé</w></corrected>
-      <errors>
-        <error xtype="ind4sub" eid="0"/>
-      </errors>
-  </revision>
+  <w>sé</w>
   <w>hægt</w>
   <w>að</w>
   <w>velja</w>

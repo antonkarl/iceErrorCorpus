@@ -495,7 +495,7 @@
     <original><w>var</w></original>
     <corrected><w>væri</w></corrected>
       <errors>
-        <error xtype="ind4sub" eid="0" />
+        <error xtype="ind4sub-verb" eid="0" />
       </errors>
   </revision>
   <w>rangt</w>
@@ -513,7 +513,13 @@
   <w>grafinn</w>
   <w>upp</w>
   <w>og</w>
-  <w>ransakaður</w>
+  <revision id="15a">
+    <original><w>ransakaður</w></original>
+    <corrected><w>rannsakaður</w></corrected>
+      <errors>
+        <error xtype="n4nn" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="26">
@@ -854,13 +860,21 @@
 </s>
 <s n="41">
   <w>Sumir</w>
+  <revision id="24a">
+    <original><w>Sumir</w></original>
+    <corrected><w>Sumum</w></corrected>
+      <errors>
+        <error xtype="case-verb" idx="24-2" eid="0" />
+      </errors>
+  </revision>
   <revision id="24">
     <original><w>fjölskyldumeiðlimir</w><w>af</w></original>
-    <corrected><w>fjölskyldumeðlimir</w></corrected>
+    <corrected><w>fjölskyldumeðlimum</w></corrected>
       <errors>
         <error xtype="extra-letter" idx="24-1" eid="0" />
         <error xtype="nonword" idx="24-1" eid="0" />
         <error xtype="extra-word" idx="24-2" eid="0" />
+        <error xtype="case-verb" idx="24-2" eid="0" />
       </errors>
   </revision>
   <w>fórnarlamba</w>

@@ -544,9 +544,15 @@
   <w>ég</w>
   <revision id="27">
     <original><w>get</w></original>
-    <corrected><w>gæti</w><c>,</c></corrected>
+    <corrected><w>gæti</w></corrected>
       <errors>
-        <error xtype="ind4sub" idx="66-1" eid="0"/>
+        <error xtype="ind4sub-verb" idx="66-1" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="27">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
         <error xtype="missing-comma" idx="66-2" eid="0"/>
       </errors>
   </revision>
@@ -739,7 +745,7 @@
     <original><w>erum</w></original>
     <corrected><w>séum</w></corrected>
       <errors>
-        <error xtype="ind4sub" eid="0"/>
+        <error xtype="ind4sub-verb" eid="0"/>
       </errors>
   </revision>
   <w>neydd</w>
@@ -917,7 +923,7 @@
     <original><w>hafði</w></original>
     <corrected><w>hefði</w></corrected>
       <errors>
-        <error xtype="ind4sub" eid="0"/>
+        <error xtype="ind4sub-conj" eid="0"/>
       </errors>
   </revision>
   <w>skráð</w>
@@ -1769,7 +1775,7 @@
     <original><w>ert</w></original>
     <corrected><w>sért</w></corrected>
       <errors>
-        <error xtype="ind4sub" eid="0"/>
+        <error xtype="ind4sub-verb" eid="0"/>
       </errors>
   </revision>
   <w>einn</w>

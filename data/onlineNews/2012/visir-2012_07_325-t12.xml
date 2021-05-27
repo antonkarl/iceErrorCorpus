@@ -69,7 +69,7 @@
     <original><w>nálgist</w></original>
     <corrected><w>nálgast</w></corrected>
       <errors>
-        <error xtype="sub4ind" eid="0" />
+        <error xtype="sub4ind-conj" eid="0" />
       </errors>
   </revision>
   <w>byggð</w>
@@ -207,13 +207,7 @@
       </errors>
   </revision>
   <w>honum</w>
-  <revision id="8">
-    <original><w>hefur</w></original>
-    <corrected><w>hafi</w></corrected>
-      <errors>
-        <error xtype="ind4sub" eid="0" />
-      </errors>
-  </revision>
+  <w>hefur</w>
   <w>tekist</w>
   <w>að</w>
   <w>sleppa</w>

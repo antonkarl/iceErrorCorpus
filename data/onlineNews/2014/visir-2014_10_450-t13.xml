@@ -216,6 +216,13 @@
       </errors>
   </revision>
   <w>ein</w>
+  <revision id="8">
+    <original><w>ein</w></original>
+    <corrected><w>eina</w></corrected>
+      <errors>
+        <error xtype="case-verb" eid="0" />
+      </errors>
+  </revision>
   <w>af</w>
   <w>nokkrum</w>
   <w>ástæðum</w>
@@ -233,7 +240,7 @@
     <original><w>eru</w></original>
     <corrected><w>séu</w></corrected>
       <errors>
-        <error xtype="ind4sub" eid="0" />
+        <error xtype="ind4sub-verb" eid="0" />
       </errors>
   </revision>
   <w>flutt</w>

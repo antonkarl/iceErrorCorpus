@@ -479,13 +479,7 @@
   <w>því</w>
   <w>að</w>
   <w>þú</w>
-  <revision id="8">
-    <original><w>átt</w></original>
-    <corrected><w>eigir</w></corrected>
-      <errors>
-        <error xtype="ind4sub" eid="0"/>
-      </errors>
-  </revision>
+  <w>átt</w>
   <w>aldrei</w>
   <w>eftir</w>
   <w>að</w>
@@ -564,7 +558,7 @@
     <original><w>skorti</w></original>
     <corrected><w>skortir</w></corrected>
       <errors>
-        <error xtype="sub4ind" eid="0" />
+        <error xtype="sub4ind-conj" eid="0" />
       </errors>
   </revision>
   <w>ættu</w>
@@ -2201,7 +2195,7 @@
     <original><w>sér</w></original>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="wording" eid="0"/>
+        <error xtype="sub4ind" eid="0"/>
       </errors>
   </revision>
   <w>rangt</w>
