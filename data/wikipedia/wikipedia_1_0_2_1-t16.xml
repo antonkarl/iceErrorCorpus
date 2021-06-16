@@ -745,22 +745,17 @@
   <w>að</w>
   <w>færa</w>
   <w>sönnur</w>
-  <revision id="18">
-    <original><w>á</w></original>
-    <corrected><w>fyrir</w></corrected>
-      <errors>
-        <error xtype="wrong-prep" eid="0" />
-      </errors>
-  </revision>
+  <w>á</w>
   <w>nýju</w>
   <revision id="19">
-    <original><w>siglingaleið</w></original>
-    <corrected><w>siglingaleiðinni</w></corrected>
+    <original><w>siglingaleið</w><w>sinni</w></original>
+    <corrected><w>siglingaleiðina</w><w>sína</w></corrected>
       <errors>
-        <error xtype="ind4def" eid="0" />
+        <error xtype="ind4def" idx="19-1" eid="0" />
+        <error xtype="pro-inflection" idx="19-2" eid="0" />
+        <error xtype="case-prep" idx="19-2" eid="0" />
       </errors>
   </revision>
-  <w>sinni</w>
   <c>.</c>
 </s>
 <s n="38">

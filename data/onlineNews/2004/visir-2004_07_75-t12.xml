@@ -177,7 +177,7 @@
     <original><w>í</w></original>
     <corrected><w>á</w></corrected>
       <errors>
-        <error xtype="wrong-prep" eid="0" />
+        <error xtype="dep" depId="5-1" eid="0" />
       </errors>
   </revision>
   <w>þessum</w>
@@ -185,7 +185,7 @@
     <original><w>bisness</w></original>
     <corrected><w>starfsvettvangi</w></corrected>
       <errors>
-        <error xtype="fw4ice" eid="0" />
+        <error xtype="fw4ice" idx="5-1" eid="0" />
       </errors>
   </revision>
   <c>.</c>

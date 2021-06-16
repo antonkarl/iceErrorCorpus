@@ -127,8 +127,7 @@
     <original><w>fram</w></original>
     <corrected><w>fyrir</w></corrected>
       <errors>
-        <error xtype="collocation" idx="4-1" eid="0"/>
-        <error xtype="wrong-prep" idx="4-1" eid="0"/>
+        <error xtype="collocation" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
@@ -1021,13 +1020,7 @@
   <w>þess</w>
   <w>að</w>
   <w>hringja</w>
-  <revision id="30">
-    <original><w>á</w></original>
-    <corrected><w>í</w></corrected>
-      <errors>
-        <error xtype="wrong-prep" eid="0"/>
-      </errors>
-  </revision>
+  <w>á</w>
   <w>Neyðarlínuna</w>
   <w>sem</w>
   <w>kemur</w>

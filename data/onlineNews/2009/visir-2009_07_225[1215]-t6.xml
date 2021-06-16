@@ -290,7 +290,7 @@
     <original><w>af</w></original>
     <corrected><w>frá</w></corrected>
       <errors>
-        <error xtype="wrong-prep" idx="5-1" eid="0" />
+        <error xtype="wrong-prep-coll" idx="5-1" eid="0" />
         <error xtype="collocation" idx="5-1" eid="0" />
       </errors>
   </revision>
@@ -312,7 +312,7 @@
     <original><w>til</w></original>
     <corrected><w>við</w></corrected>
       <errors>
-        <error xtype="wrong-prep" eid="0" />
+        <error xtype="wrong-prep-coll" eid="0" />
       </errors>
   </revision>
   <w>að</w>

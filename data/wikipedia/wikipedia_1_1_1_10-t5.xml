@@ -1306,7 +1306,7 @@
     <corrected><w>ska-taktinn</w><w>á</w></corrected>
       <errors>
         <error xtype="missing-hyphen" idx="55-1" eid="0"/>
-        <error xtype="wrong-prep" idx="55-2" eid="0"/>
+        <error xtype="wrong-prep-coll" idx="55-2" eid="0"/>
       </errors>
   </revision>
   <w>trommuslætti</w>
@@ -1362,7 +1362,7 @@
     <original><w>í</w></original>
     <corrected><w>á</w></corrected>
       <errors>
-        <error xtype="wrong-prep" eid="0"/>
+        <error xtype="wrong-prep-place" eid="0"/>
       </errors>
   </revision>
   <w>Jamaíku</w>
