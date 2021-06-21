@@ -92,8 +92,13 @@
   </revision>
   <w>Val</w>
   <w>de</w>
-  <w>Grace</w>
-  <w>hersjúkrahúsið</w>
+  <revision id="3b">
+    <original><w>Grace</w><w>hersjúkrahúsið</w></original>
+    <corrected><w>Grace-hersjúkrahúsið</w></corrected>
+      <errors>
+        <error xtype="missing-hyphen" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="4">
