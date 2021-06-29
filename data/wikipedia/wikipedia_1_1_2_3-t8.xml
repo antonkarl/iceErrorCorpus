@@ -168,27 +168,20 @@
   <w>gerðu</w>
   <w>það</w>
   <w>saknæmt</w>
-  <w>ef</w>
-  <w>aðrir</w>
-  <revision id="7">
-    <original><w>veittu</w></original>
-    <corrected><w>veita</w></corrected>
+  <revision id="7a">
+    <original><w>ef</w></original>
+    <corrected><w>að</w></corrected>
       <errors>
-        <error xtype="past4pres" eid="0" />
+        <error xtype="conjunction" eid="0" />
       </errors>
   </revision>
+  <w>aðrir</w>
+  <w>veittu</w>
   <w>aðgang</w>
   <w>að</w>
   <w>tækni</w>
   <w>sem</w>
-  <revision id="8">
-    <original><w>hefði</w></original>
-    <corrected><w>hefur</w></corrected>
-      <errors>
-        <error xtype="sub4ind" idx="8-1" eid="0" />
-        <error xtype="past4pres" idx="8-1" eid="0" />
-      </errors>
-  </revision>
+  <w>hefði</w>
   <w>þann</w>
   <w>tilgang</w>
   <w>að</w>
@@ -445,9 +438,9 @@
   <w>sem</w>
   <revision id="21">
     <original><w>falla</w></original>
-    <corrected><w>falli</w></corrected>
+    <corrected><w>fellur</w></corrected>
       <errors>
-        <error xtype="ind4sub" eid="0" />
+        <error xtype="agreement" eid="0" />
       </errors>
   </revision>
   <w>ekki</w>

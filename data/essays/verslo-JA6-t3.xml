@@ -1033,7 +1033,7 @@
     <original><w>er</w><w>að</w><w>sýna</w></original>
     <corrected><w>sýnir</w></corrected>
       <errors>
-        <error xtype="wording" eid="0"/>
+        <error xtype="cont4simple" eid="0"/>
       </errors>
   </revision>
   <w>fallegu</w>
@@ -1044,7 +1044,7 @@
     <original><w>segja</w></original>
     <corrected><w>segir</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0"/>
+        <error xtype="dep" depId="29" eid="0"/>
       </errors>
   </revision>
   <w>frá</w>
@@ -1061,7 +1061,7 @@
     <original><w>sé</w></original>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="sub4ind" eid="0"/>
+        <error xtype="sub4ind-conj" eid="0"/>
       </errors>
   </revision>
   <w>frábært</w>
@@ -1243,7 +1243,7 @@
     <original><w>sé</w></original>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="sub4ind" eid="0"/>
+        <error xtype="sub4ind-conj" eid="0"/>
       </errors>
   </revision>
   <w>góður</w>
@@ -1369,13 +1369,7 @@
   <w>ákveður</w>
   <w>hvort</w>
   <w>hann</w>
-  <revision id="43">
-    <original><w>sé</w></original>
-    <corrected><w>er</w></corrected>
-      <errors>
-        <error xtype="sub4ind" eid="0"/>
-      </errors>
-  </revision>
+  <w>sé</w>
   <w>hamingjusamur</w>
   <w>eða</w>
   <w>ekki</w>

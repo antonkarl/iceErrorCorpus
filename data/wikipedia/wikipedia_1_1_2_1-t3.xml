@@ -1411,11 +1411,17 @@
   <w>að</w>
   <w>gestirnir</w>
   <revision id="70">
-    <original><w>á</w><w>reifum</w><w>voru</w></original>
-    <corrected><w>í</w><w>rave-partíum</w><w>væru</w></corrected>
+    <original><w>á</w><w>reifum</w></original>
+    <corrected><w>í</w><w>rave-partíum</w></corrected>
       <errors>
         <error xtype="wording" eid="0" />
-        <error xtype="ind4sub" eid="0" />
+      </errors>
+  </revision>
+  <revision id="70a">
+    <original><w>voru</w></original>
+    <corrected><w>væru</w></corrected>
+      <errors>
+        <error xtype="ind4sub-verb" eid="0" />
       </errors>
   </revision>
   <w>miklir</w>

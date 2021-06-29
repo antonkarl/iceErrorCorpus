@@ -1312,14 +1312,19 @@
   <w>miklum</w>
   <w>blóma</w>
   <revision id="51">
-    <original><c>,</c><w>laun</w><w>hafi</w></original>
-    <corrected><c>.</c><w>Laun</w><w>hafa</w></corrected>
+    <original><c>,</c><w>laun</w></original>
+    <corrected><c>.</c><w>Laun</w></corrected>
       <errors>
         <error xtype="comma4period" eid="0"/>
-        <error xtype="sub4ind" eid="0"/>
       </errors>
   </revision>
-  <w>aldrei</w>
+  <revision id="51b">
+    <original><w>hafi</w></original>
+    <corrected><w>hafa</w></corrected>
+      <errors>
+        <error xtype="sub4ind" eid="0"/>
+      </errors>
+  </revision>  <w>aldrei</w>
   <w>verið</w>
   <w>hærri</w>
   <w>og</w>

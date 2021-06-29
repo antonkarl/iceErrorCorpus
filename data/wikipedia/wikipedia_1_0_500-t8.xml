@@ -114,16 +114,14 @@
   <w>bróðir</w>
   <w>hans</w>
   <w>sem</w>
+  <w>ætlar</w>
   <revision id="5">
-    <original><w>ætlar</w></original>
-    <corrected><w>sé</w></corrected>
+    <original><w>að</w><w>fara</w></original>
+    <corrected></corrected>
       <errors>
-        <error xtype="aux" idx="5-1" eid="0"/>
-        <error xtype="ind4sub" idx="5-1" eid="0"/>
+        <error xtype="extra-words" idx="5-1" eid="0"/>
       </errors>
   </revision>
-  <w>að</w>
-  <w>fara</w>
   <w>að</w>
   <w>gifta</w>
   <w>sig</w>
@@ -349,8 +347,7 @@
     <original><w>þó</w><w>að</w></original>
     <corrected><w>og</w></corrected>
       <errors>
-        <error xtype="extra-word" idx="13-1" eid="0"/>
-        <error xtype="conjunction" idx="13-2" eid="0"/>
+        <error xtype="conjunction" idx="13-1" eid="0"/>
       </errors>
   </revision>
   <w>Courtney</w>
@@ -360,7 +357,7 @@
     <original><w>séu</w></original>
     <corrected><w>eru</w></corrected>
       <errors>
-        <error xtype="sub4ind" eid="0"/>
+        <error xtype="dep" depId="13-1" eid="0"/>
       </errors>
   </revision>
   <w>báðar</w>

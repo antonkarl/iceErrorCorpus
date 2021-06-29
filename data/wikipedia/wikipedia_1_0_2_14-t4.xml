@@ -1389,11 +1389,17 @@
   <w>það</w>
   <w>að</w>
   <revision id="58">
-    <original><w>djass</w><w>bræðingsplötur</w><w>hafa</w></original>
-    <corrected><w>djassbræðingsplötur</w><w>hafi</w></corrected>
+    <original><w>djass</w><w>bræðingsplötur</w></original>
+    <corrected><w>djassbræðingsplötur</w></corrected>
       <errors>
         <error xtype="split-compound" idx="10-1" eid="0"/>
-        <error xtype="ind4sub" idx="10-2" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="58a">
+    <original>><w>hafa</w></original>
+    <corrected><w>hafi</w></corrected>
+      <errors>
+        <error xtype="ind4sub-conj" idx="10-2" eid="0"/>
       </errors>
   </revision>
   <w>ekki</w>

@@ -285,10 +285,16 @@
   <w>gjörðir</w>
   <w>hans</w>
   <revision id="5">
-    <original><w>eru</w><w>öll</w></original>
-    <corrected><w>séu</w><w>allar</w></corrected>
+    <original><w>eru</w></original>
+    <corrected><w>séu</w>></corrected>
       <errors>
-        <error xtype="ind4sub" eid="0"/>
+        <error xtype="ind4sub-conj" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="5a">
+    <original><w>öll</w></original>
+    <corrected><w>allar</w></corrected>
+      <errors>
         <error xtype="agreement-pred" eid="0"/>
       </errors>
   </revision>

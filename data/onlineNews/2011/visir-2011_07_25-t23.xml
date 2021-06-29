@@ -96,11 +96,17 @@
     <original><w>voru</w></original>
     <corrected><w>væru</w></corrected>
       <errors>
-        <error xtype="ind4sub" eid="0" />
+        <error xtype="ind4sub-verb" eid="0" />
       </errors>
   </revision>
   <w>um</w>
-  <w>að</w>
+  <revision id="3">
+    <original><w>að</w></original>
+    <corrected><w></w></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
   <w>eldgos</w>
   <w>en</w>
   <w>hann</w>

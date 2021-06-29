@@ -33,13 +33,7 @@
   </revision>
   <w>að</w>
   <w>ég</w>
-  <revision id="2">
-    <original><w>verð</w></original>
-    <corrected><w>verði</w></corrected>
-      <errors>
-        <error xtype="ind4sub" eid="0"/>
-      </errors>
-  </revision>
+  <w>verð</w>
   <w>að</w>
   <w>lifa</w>
   <w>fyrir</w>
@@ -173,13 +167,7 @@
   <w>stundu</w>
   <w>og</w>
   <w>þá</w>
-  <revision id="3">
-    <original><w>er</w></original>
-    <corrected><w>væri</w></corrected>
-      <errors>
-        <error xtype="ind4sub" eid="0"/>
-      </errors>
-  </revision>
+  <w>er</w>
   <w>allt</w>
   <w>sem</w>
   <w>ég</w>
@@ -856,13 +844,7 @@
   <w>þegar</w>
   <w>allt</w>
   <w>erfiðið</w>
-  <revision id="18">
-    <original><w>er</w></original>
-    <corrected><w>sé</w></corrected>
-      <errors>
-        <error xtype="ind4sub" eid="0"/>
-      </errors>
-  </revision>
+  <w>er</w>
   <w>afstaðið</w>
   <w>geti</w>
   <w>ég</w>
@@ -1028,7 +1010,7 @@
     <original><w>hafa</w></original>
     <corrected><w>hafi</w></corrected>
       <errors>
-        <error xtype="ind4sub" eid="0"/>
+        <error xtype="ind4sub-conj" eid="0"/>
       </errors>
   </revision>
   <w>lagt</w>

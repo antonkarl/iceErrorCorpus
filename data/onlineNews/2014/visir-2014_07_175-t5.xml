@@ -17,8 +17,9 @@
 <s n="1">
   <revision id="1">
     <original><w>Pulsuátskeppni</w></original>
-    <corrected><w>Pulsuátkeppni</w></corrected>
+    <corrected><w>Pylsuátkeppni</w></corrected>
       <errors>
+        <error xtype="letter-rep" idx="1-1" eid="0" />
         <error xtype="extra-letter" idx="1-1" eid="0" />
         <error xtype="compound-collocation" idx="1-1" eid="0" />
       </errors>
@@ -37,7 +38,13 @@
   <c>.</c>
 </s>
 <s n="2">
-  <w>Pulsa</w>
+  <revision id="2a">
+    <original><w>Pulsa</w></original>
+    <corrected><w>Pylsa</w></corrected>
+      <errors>
+        <error xtype="letter-rep" eid="0" />
+      </errors>
+  </revision>
   <w>sat</w>
   <w>föst</w>
   <w>í</w>
@@ -176,7 +183,7 @@
     <original><w>standi</w></original>
     <corrected><w>stendur</w></corrected>
       <errors>
-        <error xtype="sub4ind" eid="0" />
+        <error xtype="sub4ind-conj" eid="0" />
       </errors>
   </revision>
   <w>til</w>

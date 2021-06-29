@@ -236,10 +236,16 @@
   <w>upplýsa</w>
   <w>hverjir</w>
   <revision id="17">
-    <original><w>þetta</w><w>voru</w></original>
-    <corrected><w>þeir</w><w>væru</w></corrected>
+    <original><w>þetta</w></original>
+    <corrected><w>þeir</w></corrected>
       <errors>
         <error xtype="dem4pers" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="17">
+    <original><w>voru</w></original>
+    <corrected><w>væru</w></corrected>
+      <errors>
         <error xtype="ind4sub" eid="0"/>
       </errors>
   </revision>

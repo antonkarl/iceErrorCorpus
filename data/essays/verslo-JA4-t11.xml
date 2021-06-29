@@ -204,13 +204,7 @@
   <w>máli</w>
   <w>hvort</w>
   <w>þau</w>
-  <revision id="14">
-    <original><w>syngja</w></original>
-    <corrected><w>syngi</w></corrected>
-      <errors>
-        <error xtype="ind4sub" eid="0"/>
-      </errors>
-  </revision>
+  <w>syngja</w>
   <w>vel</w>
   <w>eða</w>
   <w>illa</w>
@@ -311,7 +305,7 @@
     <original><w>er</w></original>
     <corrected><w>sé</w></corrected>
       <errors>
-        <error xtype="ind4sub" eid="0"/>
+        <error xtype="ind4sub-verb" eid="0"/>
       </errors>
   </revision>
   <w>leiðinleg</w>
@@ -787,7 +781,7 @@
     <original><w>fá</w></original>
     <corrected><w>fái</w></corrected>
       <errors>
-        <error xtype="ind4sub" eid="0"/>
+        <error xtype="ind4sub-conj" eid="0"/>
       </errors>
   </revision>
   <w>þessi</w>
@@ -799,7 +793,7 @@
     <original><w>láta</w></original>
     <corrected><w>láti</w></corrected>
       <errors>
-        <error xtype="ind4sub" eid="0"/>
+        <error xtype="ind4sub-conj" eid="0"/>
       </errors>
   </revision>
   <w>mömmu</w>

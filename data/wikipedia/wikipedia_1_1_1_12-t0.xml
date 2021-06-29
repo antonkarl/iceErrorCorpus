@@ -1569,28 +1569,14 @@
       </errors>
   </revision>
   <w>sem</w>
-  <revision id="45">
-    <original><w>þyrfti</w></original>
-    <corrected><w>þarf</w></corrected>
-      <errors>
-        <error xtype="past4pres" idx="45-1" eid="0" />
-        <error xtype="sub4ind" idx="45-1" eid="0" />
-      </errors>
-  </revision>
+  <w>þyrfti</w>
   <w>að</w>
   <w>hreinsa</w>
   <w>burt</w>
   <w>áður</w>
   <w>en</w>
   <w>hægt</w>
-  <revision id="46">
-    <original><w>væri</w></original>
-    <corrected><w>er</w></corrected>
-      <errors>
-        <error xtype="past4pres" idx="46-1" eid="0" />
-        <error xtype="sub4ind" idx="46-1" eid="0" />
-      </errors>
-  </revision>
+  <w>væri</w>
   <w>að</w>
   <w>vinna</w>
   <revision id="47">
@@ -1629,16 +1615,15 @@
   <w>lýsi</w>
   <w>sem</w>
   <w>unnið</w>
+  <w>væri</w>
+  <w>úr</w>
   <revision id="48">
-    <original><w>væri</w></original>
-    <corrected><w>er</w></corrected>
+    <original><w>þroski</w></original>
+    <corrected><w>þorski</w></corrected>
       <errors>
-        <error xtype="past4pres" idx="48-1" eid="0" />
-        <error xtype="sub4ind" idx="48-1" eid="0" />
+        <error xtype="swapped-letters" eid="0" />
       </errors>
   </revision>
-  <w>úr</w>
-  <w>þroski</w>
   <c>,</c>
   <w>ufsa</w>
   <w>eða</w>
