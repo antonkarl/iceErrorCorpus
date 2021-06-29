@@ -51,7 +51,7 @@
     <original><w>hlusta</w></original>
     <corrected><w>hlusti</w></corrected>
       <errors>
-        <error xtype="ind4sub" eid="0"/>
+        <error xtype="ind4sub-conj" eid="0"/>
       </errors>
   </revision>
   <w>á</w>
@@ -489,21 +489,9 @@
   <w>sama</w>
   <w>hvað</w>
   <w>aðrir</w>
-  <revision id="15">
-    <original><w>segja</w></original>
-    <corrected><w>segi</w></corrected>
-      <errors>
-        <error xtype="ind4sub" idx="39-1" eid="0"/>
-      </errors>
-  </revision>
+  <w>segja</w>
   <w>og</w>
-  <revision id="16">
-    <original><w>gera</w></original>
-    <corrected><w>geri</w></corrected>
-      <errors>
-        <error xtype="dep" depId="39-1" eid="0"/>
-      </errors>
-  </revision>
+  <w>gera</w>
   <c>.</c>
 </s><s n="14">
   <w>Eins</w>
@@ -817,7 +805,7 @@
     <original><w>erum</w></original>
     <corrected><w>séum</w></corrected>
       <errors>
-        <error xtype="ind4sub" eid="0"/>
+        <error xtype="ind4sub-verb" eid="0"/>
       </errors>
   </revision>
   <w>stærsta</w>
@@ -860,7 +848,7 @@
     <original><w>fær</w></original>
     <corrected><w>fái</w></corrected>
       <errors>
-        <error xtype="ind4sub" eid="0"/>
+        <error xtype="ind4sub-verb" eid="0"/>
       </errors>
   </revision>
   <w>börnin</w>
@@ -889,7 +877,7 @@
     <original><w>vita</w></original>
     <corrected><w>viti</w></corrected>
       <errors>
-        <error xtype="ind4sub" eid="0"/>
+        <error xtype="ind4sub-conj" eid="0"/>
       </errors>
   </revision>
   <w>ekki</w>
@@ -996,7 +984,7 @@
     <original><w>hljóta</w></original>
     <corrected><w>hljóti</w></corrected>
       <errors>
-        <error xtype="ind4sub" eid="0"/>
+        <error xtype="ind4sub-verb" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -1271,7 +1259,13 @@
   <w>sig</w>
   <w>bræður</w>
   <w>en</w>
-  <w>líta</w>
+  <revision id="44b">
+    <original><w>líta</w></original>
+    <corrected><w>líti</w></corrected>
+      <errors>
+        <error xtype="ind4sub" eid="0"/>
+      </errors>
+  </revision>
   <w>á</w>
   <revision id="45">
     <original><w>hina</w><w>sem</w></original>

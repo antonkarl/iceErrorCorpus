@@ -98,7 +98,13 @@
   </revision>
   <w>fram</w>
   <w>í</w>
-  <w>árskýrslu</w>
+  <revision id="2b">
+    <original><w>árskýrslu</w></original>
+    <corrected><w>ársskýrslu</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" eid="0" />
+      </errors>
+  </revision>
   <w>FSCS</w>
   <w>þar</w>
   <w>sem</w>
@@ -109,7 +115,7 @@
     <original><w>hefur</w></original>
     <corrected><w>hafi</w></corrected>
       <errors>
-        <error xtype="ind4sub" eid="0" />
+        <error xtype="ind4sub-verb" eid="0" />
       </errors>
   </revision>
   <w>sjóðurinn</w>

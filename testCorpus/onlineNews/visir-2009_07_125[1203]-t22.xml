@@ -80,12 +80,19 @@
   <w>og</w>
   <w>stórstjörnur</w>
   <w>og</w>
+  <revision id="1b">
+    <original></original>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="missing-conjunction" eid="0" />
+      </errors>
+  </revision>
   <w>það</w>
   <revision id="2">
     <original><w>munu</w></original>
     <corrected><w>muni</w></corrected>
       <errors>
-        <error xtype="ind4sub" eid="0" />
+        <error xtype="ind4sub-verb" eid="0" />
       </errors>
   </revision>
   <w>vanta</w>
@@ -244,7 +251,7 @@
     <original><w>myndi</w></original>
     <corrected><w>muni</w></corrected>
       <errors>
-        <error xtype="sub4ind" eid="0" />
+        <error xtype="past4pres" eid="0" />
       </errors>
   </revision>
   <w>lifa</w>

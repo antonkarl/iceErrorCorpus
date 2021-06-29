@@ -722,7 +722,7 @@
     <original><w>fái</w></original>
     <corrected><w>fær</w></corrected>
       <errors>
-        <error xtype="sub4ind" eid="0"/>
+        <error xtype="sub4ind-conj" eid="0"/>
       </errors>
   </revision>
   <w>ekki</w>
@@ -842,8 +842,8 @@
     <original><w>að</w><w>hafa</w></original>
     <corrected><w>maður</w><w>hafi</w></corrected>
       <errors>
-        <error xtype="wording" idx="9-1" eid="0"/>
-        <error xtype="ind4sub" idx="9-2" eid="0"/>
+        <error xtype="wording" idx="37-1" eid="0"/>
+        <error xtype="missing-sub" idx="37-1" eid="0"/>
       </errors>
   </revision>
   <w>peninga</w>
@@ -1008,7 +1008,7 @@
     <corrected><w>maður</w><w>vinni</w></corrected>
       <errors>
         <error xtype="wording" idx="10-1" eid="0"/>
-        <error xtype="ind4sub" idx="10-2" eid="0"/>
+        <error xtype="missing-sub" idx="10-1" eid="0"/>
       </errors>
   </revision>
   <c>.</c>

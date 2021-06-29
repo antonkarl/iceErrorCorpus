@@ -542,13 +542,7 @@
   <w>menntar</w>
   <w>þig</w>
   <w>þá</w>
-  <revision id="8">
-    <original><w>verður</w></original>
-    <corrected><w>verðir</w></corrected>
-      <errors>
-        <error xtype="ind4sub" eid="0"/>
-      </errors>
-  </revision>
+  <w>verður</w>
   <w>þú</w>
   <w>ríkur</w>
   <w>og</w>
@@ -1156,7 +1150,7 @@
     <original><w>er</w></original>
     <corrected><w>sé</w></corrected>
       <errors>
-        <error xtype="ind4sub" eid="0"/>
+        <error xtype="ind4sub-conj" eid="0"/>
       </errors>
   </revision>
   <w>vissulega</w>
