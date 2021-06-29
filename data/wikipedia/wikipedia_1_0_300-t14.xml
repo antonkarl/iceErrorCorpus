@@ -4274,7 +4274,8 @@
     <original><w>og</w></original>
     <corrected><w>við</w></corrected>
       <errors>
-        <error xtype="wrong-prep" eid="0" />
+        <error xtype="extra-conjunction" idx="142-1" eid="0" />
+        <error xtype="missing-prep" idx="142-2" eid="0" />
       </errors>
   </revision>
   <w>guð</w>

@@ -540,7 +540,7 @@
   <w>en</w>
   <revision id="18">
     <original><w>um</w></original>
-    <corrected><w>í</w></corrected>
+    <corrected><w>við</w></corrected>
       <errors>
         <error xtype="wrong-prep" eid="0"/>
       </errors>
@@ -548,7 +548,13 @@
   <w>byrjun</w>
   <w>9.</w>
   <w>áratugarins</w>
-  <w>sem</w>
+  <revision id="18b">
+    <original><w>sem</w></original>
+    <corrected><w>að</w></corrected>
+      <errors>
+        <error xtype="conjunction" eid="0"/>
+      </errors>
+  </revision>
   <w>þau</w>
   <w>urðu</w>
   <w>gríðarlega</w>

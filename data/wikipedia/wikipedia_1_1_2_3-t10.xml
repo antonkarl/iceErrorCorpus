@@ -1928,13 +1928,7 @@
   <w>mjög</w>
   <w>vinsælir</w>
   <w>söngleikir</w>
-  <revision id="134">
-    <original><w>út</w></original>
-    <corrected><w>fram</w></corrected>
-      <errors>
-        <error xtype="wrong-prep" eid="0" />
-      </errors>
-  </revision>
+  <w>út</w>
   <w>á</w>
   <w>sjöunda</w>
   <revision id="135">
@@ -4810,8 +4804,7 @@
     <original><w>á</w><w>Brodway</w></original>
     <corrected><w>í</w><w>leikhúsinu</w></corrected>
       <errors>
-        <error xtype="wrong-prep" idx="328-1" eid="0" />
-        <error xtype="wording" idx="328-2" eid="0" />
+        <error xtype="wording" eid="0" />
       </errors>
   </revision>
   <c>.</c>

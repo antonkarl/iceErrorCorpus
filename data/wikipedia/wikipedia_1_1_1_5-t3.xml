@@ -3240,8 +3240,9 @@
     <original><w>með</w><w>niðurstöðunni</w></original>
     <corrected><w>á</w><w>skoska</w><w>þinginu</w><c>,</c></corrected>
       <errors>
-        <error xtype="wrong-prep" idx="169-1" eid="0"/>
-        <error xtype="wording" idx="169-2" eid="0"/>
+        <error xtype="extra-prep" idx="169-1" eid="0"/>
+        <error xtype="extra-word" idx="169-1" eid="0"/>
+        <error xtype="dep" depId="213-1" eid="0"/>
         <error xtype="missing-comma" idx="169-3" eid="0"/>
       </errors>
   </revision>
@@ -3262,7 +3263,9 @@
     <original><w>þinginu</w></original>
     <corrected><w>móti</w></corrected>
       <errors>
-        <error xtype="wording" eid="0"/>
+        <error xtype="wording" idx="213-1" eid="0"/>
+        <error xtype="missing-word" idx="213-1" eid="0"/>
+        <error xtype="missing-word" idx="213-2" eid="0"/>
       </errors>
   </revision>
   <c>.</c>
