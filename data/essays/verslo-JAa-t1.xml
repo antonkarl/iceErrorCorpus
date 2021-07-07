@@ -128,7 +128,7 @@
     <corrected><w>á</w></corrected>
       <errors>
         <error xtype="collocation" idx="6-1" eid="0"/>
-        <error xtype="wrong-prep" idx="6-1" eid="0"/>
+        <error xtype="wrong-prep-coll" idx="6-1" eid="0"/>
       </errors>
   </revision>
   <w>daglegt</w>
@@ -534,7 +534,7 @@
     <original><w>á</w></original>
     <corrected><w>af</w></corrected>
       <errors>
-        <error xtype="wrong-prep" eid="0"/>
+        <error xtype="wrong-prep-coll" eid="0"/>
       </errors>
   </revision>
   <w>útlendingum</w>
@@ -714,7 +714,7 @@
     <original><w>í</w></original>
     <corrected><w>á</w></corrected>
       <errors>
-        <error xtype="wrong-prep" eid="0"/>
+        <error xtype="wrong-prep-coll" eid="0"/>
       </errors>
   </revision>
   <w>hættu</w>

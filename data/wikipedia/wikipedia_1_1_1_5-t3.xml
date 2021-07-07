@@ -819,7 +819,7 @@
     <original><w>á</w></original>
     <corrected><w>í</w></corrected>
       <errors>
-        <error xtype="wrong-prep" eid="0"/>
+        <error xtype="wrong-prep-place" eid="0"/>
       </errors>
   </revision>
   <w>Bretlandi</w>
@@ -2270,7 +2270,7 @@
     <corrected><w>á</w></corrected>
       <errors>
         <error xtype="collocation" idx="153-1" eid="0"/>
-        <error xtype="wrong-prep" idx="153-1" eid="0"/>
+        <error xtype="wrong-prep-coll" idx="153-1" eid="0"/>
       </errors>
   </revision>
   <w>þjóðaratkvæðagreiðslu</w>
@@ -3157,7 +3157,7 @@
     <original><w>á</w></original>
     <corrected><w>í</w></corrected>
       <errors>
-        <error xtype="wrong-prep" eid="0"/>
+        <error xtype="wrong-prep-place" eid="0"/>
       </errors>
   </revision>
   <w>Bretlandi</w>

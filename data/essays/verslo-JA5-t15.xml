@@ -335,7 +335,7 @@
     <corrected><w>af</w></corrected>
       <errors>
         <error xtype="collocation" idx="12-1" eid="0"/>
-        <error xtype="wrong-prep" idx="12-1" eid="0"/>
+        <error xtype="wrong-prep-coll" idx="12-1" eid="0"/>
       </errors>
   </revision>
   <revision id="13">
@@ -367,7 +367,7 @@
     <corrected><w>á</w></corrected>
       <errors>
         <error xtype="collocation" idx="14-1" eid="0"/>
-        <error xtype="wrong-prep" idx="14-1" eid="0"/>
+        <error xtype="wrong-prep-coll" idx="14-1" eid="0"/>
       </errors>
   </revision>
   <w>sama</w>
@@ -445,7 +445,7 @@
     <original><w>um</w></original>
     <corrected><w>til</w></corrected>
       <errors>
-        <error xtype="wrong-prep" eid="0"/>
+        <error xtype="wrong-prep-coll" eid="0"/>
       </errors>
   </revision>
   <w>að</w>

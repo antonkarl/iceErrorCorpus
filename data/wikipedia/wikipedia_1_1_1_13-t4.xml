@@ -1011,7 +1011,7 @@
     <corrected><w>við</w></corrected>
       <errors>
         <error xtype="collocation" idx="28-1" eid="0"/>
-        <error xtype="wrong-prep" idx="28-1" eid="0"/>
+        <error xtype="wrong-prep-coll" idx="28-1" eid="0"/>
       </errors>
   </revision>
   <w>að</w>
@@ -1396,7 +1396,7 @@
     <original><w>á</w></original>
     <corrected><w>af</w></corrected>
       <errors>
-        <error xtype="wrong-prep" eid="0"/>
+        <error xtype="wrong-prep-coll" eid="0"/>
       </errors>
   </revision>
   <w>þungarokki</w>

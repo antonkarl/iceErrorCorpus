@@ -517,11 +517,11 @@
   <w>hin</w>
   <w>ýmsu</w>
   <w>hljóðmannsstörf</w>
+  <w>á</w>
   <revision id="11">
-    <original><w>á</w><w>Tresure</w></original>
-    <corrected><w>í</w><w>Treasure</w></corrected>
+    <original><w>Tresure</w></original>
+    <corrected><w>Treasure</w></corrected>
       <errors>
-        <error xtype="wrong-prep" eid="0"/>
         <error xtype="foreign-name" idx="16-1" eid="0"/>
         <error xtype="missing-letter" idx="16-1" eid="0"/>
       </errors>
@@ -701,13 +701,7 @@
   <w>fara</w>
   <w>að</w>
   <w>spila</w>
-  <revision id="15">
-    <original><w>á</w></original>
-    <corrected><w>í</w></corrected>
-      <errors>
-        <error xtype="wrong-prep" eid="0"/>
-      </errors>
-  </revision>
+  <w>á</w>
   <w>um</w>
   <w>kvöldið</w>
   <c>.</c>

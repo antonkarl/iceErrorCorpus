@@ -275,10 +275,10 @@
   <w>síðan</w>
   <revision id="9">
     <original><w>hornaugum</w><w>á</w><w>olíufyrirtækin</w></original>
-    <corrected><w>hornauga</w><w>til</w><w>olíufyrirtækjanna</w></corrected>
+    <corrected><w>olíufyrirtækin</w></corrected>
       <errors>
         <error xtype="dep" depId="8-1" eid="0"/>
-        <error xtype="wrong-prep" idx="9-1" eid="0"/>
+        <error xtype="extra-prep" idx="9-1" eid="0"/>
       </errors>
   </revision>
   <w>sem</w>
@@ -294,6 +294,13 @@
   <w>á</w>
   <w>gullnámunum</w>
   <w>sínum</w>
+  <revision id="10b">
+    <original></original>
+    <corrected><w>hornauga</w></corrected>
+      <errors>
+        <error xtype="dep" depId="8-1" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="11">
   <w>Nemendur</w>
