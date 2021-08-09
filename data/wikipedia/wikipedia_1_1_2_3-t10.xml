@@ -2963,8 +2963,11 @@
     <original><w>Jésús</w><w>Krist</w></original>
     <corrected><w>Jesú</w><w>Krists</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0" />
-        <error xtype="genitive" eid="0" />
+        <error xtype="extra-accent" idx="212-1" eid="0" />
+        <error xtype="nominal-inflection" idx="212-1" eid="0" />
+        <error xtype="genitive" idx="212-1" eid="0" />
+        <error xtype="nominal-inflection" idx="212-2" eid="0" />
+        <error xtype="genitive" idx="212-2" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -3054,9 +3057,6 @@
       <errors>
         <error xtype="missing-hyphen" idx="219-1" eid="0" />
         <error xtype="n4nn" idx="219-2" eid="0" />
-        <error xtype="nominal-inflection" idx="219-2" eid="0" />
-        <error xtype="case-prep" idx="219-2" eid="0" />
-        <error xtype="genitive" idx="219-2" eid="0" />
       </errors>
   </revision>
   <w>á</w>
