@@ -19,7 +19,13 @@
   <w>sýnir</w>
   <w>þrjá</w>
   <w>silfurlitaða</w>
-  <w>Andrésarkrossa</w>
+  <revision id="0">
+    <original><w>Andrésarkrossa</w></original>
+    <corrected><w>andrésarkrossa</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0"/>
+      </errors>
+  </revision>
   <w>á</w>
   <w>rauðum</w>
   <w>grunni</w>
@@ -75,7 +81,7 @@
   <w>í</w>
   <revision id="4">
     <original><w>kategoríunni</w><w>meðalstórar</w><w>borgir</w></original>
-    <corrected><w>flokki</w><w>meðalstórra</w><w>borga</w><c>)</c></corrected>
+    <corrected><w>flokki</w><w>meðalstórra</w><w>borga</w></corrected>
       <errors>
         <error xtype="fw4ice" idx="25-1" eid="0"/>
         <error xtype="dep" depId="25-2" eid="0"/>
@@ -139,7 +145,13 @@
   <w>þrjár</w>
   <w>grænar</w>
   <w>hæðir</w>
-  <c>,</c>
+  <revision id="7b">
+    <original><c>,</c></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-comma" eid="0"/>
+      </errors>
+  </revision>
   <w>sem</w>
   <w>merkja</w>
   <w>árbakka</w>
@@ -299,8 +311,7 @@
     <original><w>Frökkum</w><w>1747</w></original>
     <corrected><w>Frakka</w><w>árið 1747</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" idx="23-1" eid="0"/>
-        <error xtype="genitive" idx="23-1" eid="0" />
+        <error xtype="gen-escape" idx="23-1" eid="0"/>
         <error xtype="missing-word" idx="23-2" eid="0"/>
       </errors>
   </revision>
@@ -311,7 +322,14 @@
   <w>í</w>
   <w>austurríska</w>
   <w>erfðastríðinu</w>
-  <c>,</c>
+  <revision id="18b">
+    <original><c>,</c></original>
+    <corrected/>
+      <errors>
+        <error xtype="extra-comma" idx="18b-1" eid="0"/>
+        <error xtype="comma-plus-conjunction" idx="18b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>en</w>
   <w>þeim</w>
   <w>var</w>
