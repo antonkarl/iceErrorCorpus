@@ -870,7 +870,7 @@
     <original><w>gerð</w></original>
     <corrected><w>gerði</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0" />
+        <error xtype="verb-inflection" eid="0" />
       </errors>
   </revision>
   <w>því</w>
@@ -1863,8 +1863,14 @@
   <w>sér</w>
   <w>stað</w>
   <w>og</w>
-  <w>metnaðarfullar</w>
-  <w>áætlanir</w>
+  <revision id="120b">
+    <original><w>metnaðarfullar</w><w>áætlanir</w></original>
+    <corrected><w>metnaðarfullum</w><w>áætlunum</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" idx="120b-1" eid="0" />
+        <error xtype="case-verb" idx="120b-1" eid="0" />
+      </errors>
+  </revision>
   <w>um</w>
   <w>lagningu</w>
   <w>teina</w>

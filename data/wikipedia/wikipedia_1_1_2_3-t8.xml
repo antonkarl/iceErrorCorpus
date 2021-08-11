@@ -395,7 +395,13 @@
   <w>það</w>
   <w>sem</w>
   <w>er</w>
-  <w>meira</w>
+  <revision id="17b">
+    <original><w>meira</w></original>
+    <corrected><w>meiri</w></corrected>
+      <errors>
+        <error xtype="agreement-concord" eid="0" />
+      </errors>
+  </revision>
   <w>takmörkun</w>
   <w>á</w>
   <revision id="18">
@@ -432,7 +438,7 @@
     <original><w>vegu</w></original>
     <corrected><w>þann</w><w>hátt</w></corrected>
       <errors>
-        <error xtype="wording" eid="0" />
+        <error xtype="wording" idx="20-1" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
@@ -440,7 +446,7 @@
     <original><w>falla</w></original>
     <corrected><w>fellur</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0" />
+        <error xtype="dep" depId="20-1" eid="0" />
       </errors>
   </revision>
   <w>ekki</w>
@@ -452,7 +458,7 @@
     <original><w>ættu</w></original>
     <corrected><w>ætti</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0" />
+        <error xtype="dep" depId="20-1" eid="0" />
       </errors>
   </revision>
   <w>ekki</w>

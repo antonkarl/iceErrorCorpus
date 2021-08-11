@@ -163,7 +163,14 @@
   <w>tilskipun</w>
   <w>um</w>
   <w>lögskylda</w>
-  <w>þjóðaratkvæðagreiðlsu</w>
+  <revision id="6b">
+    <original><w>þjóðaratkvæðagreiðlsu</w></original>
+    <corrected><w>þjóðaratkvæðagreiðslu</w></corrected>
+      <errors>
+        <error xtype="swapped-letters" idx="6b-1" eid="0"/>
+        <error xtype="nonword" idx="6b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>ekki</w>
   <w>verið</w>
   <w>gefin</w>
@@ -2960,7 +2967,8 @@
     <corrected><w>þjóðaratkvæðagreiðslur</w><w>gegndu</w></corrected>
       <errors>
         <error xtype="swapped-letters" idx="286-1" eid="0"/>
-        <error xtype="agreement" idx="286-2" eid="0"/>
+        <error xtype="nonword" idx="286-1" eid="0"/>
+        <error xtype="pres4past" idx="286-2" eid="0"/>
       </errors>
   </revision>
   <w>aðeins</w>

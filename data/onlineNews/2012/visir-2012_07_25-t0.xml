@@ -47,18 +47,29 @@
 </s>
 <s n="2">
   <w>Sao</w>
-  <w>Paulo</w>
-  <w>liðið</w>
+  <revision id="0">
+    <original><w>Paulo</w><w>liðið</w></original>
+    <corrected><w>Paulo-liðið</w></corrected>
+      <errors>
+        <error xtype="missing-hyphen" eid="0" />
+      </errors>
+  </revision>
   <w>er</w>
   <w>í</w>
   <w>miklum</w>
   <w>fjárhagsvandræðum</w>
   <w>og</w>
   <revision id="1">
-    <original><w>voru</w><w>tilbúnir</w></original>
-    <corrected><w>var</w><w>tilbúið</w></corrected>
+    <original><w>voru</w></original>
+    <corrected><w>var</w></corrected>
       <errors>
         <error xtype="agreement" eid="0" />
+      </errors>
+  </revision>
+  <revision id="1b">
+    <original><w>tilbúnir</w></original>
+    <corrected><w>tilbúið</w></corrected>
+      <errors>
         <error xtype="agreement-pred" eid="0" />
       </errors>
   </revision>

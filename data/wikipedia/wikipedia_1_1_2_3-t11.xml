@@ -861,11 +861,17 @@
 <s n="24">
   <w>Vinsældir</w>
   <revision id="67">
-    <original><w>gó-gó</w><w>tónlistarinnar</w><w>óx</w></original>
-    <corrected><w>gó-gó-tónlistarinnar</w><w>uxu</w></corrected>
+    <original><w>gó-gó</w><w>tónlistarinnar</w></original>
+    <corrected><w>gó-gó-tónlistarinnar</w></corrected>
       <errors>
-        <error xtype="missing-hyphen" idx="67-1" eid="0" />
-        <error xtype="agreement" idx="67-2" eid="0" />
+        <error xtype="missing-hyphen" eid="0" />
+      </errors>
+  </revision>
+  <revision id="67b">
+    <original><w>óx</w></original>
+    <corrected><w>uxu</w></corrected>
+      <errors>
+        <error xtype="agreement" eid="0" />
       </errors>
   </revision>
   <w>á</w>
@@ -1926,7 +1932,7 @@
     <original><w>voru</w></original>
     <corrected><w>var</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0" />
+        <error xtype="dep" depId="138-1" eid="0" />
       </errors>
   </revision>
   <w>ómissandi</w>

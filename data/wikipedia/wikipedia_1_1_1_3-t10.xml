@@ -86,9 +86,7 @@
     <original><w>voru</w><w>mörg</w></original>
     <corrected><w>var</w><w>mörgum</w></corrected>
       <errors>
-        <error xtype="agreement" idx="19-1" eid="0"/>
-        <error xtype="nominal-inflection" idx="19-2" eid="0"/>
-        <error xtype="case-verb" idx="19-2" eid="0" />
+        <error xtype="wording" idx="3-1" eid="0"/>
       </errors>
   </revision>
   <w>hverfanna</w>
@@ -96,7 +94,7 @@
     <original><w>lokuð</w></original>
     <corrected><w>lokað</w></corrected>
       <errors>
-        <error xtype="verb-inflection" eid="0"/>
+        <error xtype="dep" depId="3-1" eid="0"/>
       </errors>
   </revision>
   <w>eða</w>

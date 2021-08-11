@@ -98,7 +98,14 @@
         <error xtype="missing-quots" idx="1-1" eid="0"/>
       </errors>
   </revision>
-  <w>Allt</w>
+  <revision id="1b">
+    <original><w>Allt</w></original>
+    <corrected><w>Öllu</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" idx="1b-1" eid="0"/>
+        <error xtype="collocation-idiom" idx="1b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>sem</w>
   <revision id="2">
     <original><w>heiti</w></original>
@@ -115,11 +122,17 @@
   <w>róða</w>
   <c>,</c>
   <revision id="3">
-    <original><w>skrifa</w></original>
-    <corrected><c>“</c><w>skrifar</w></corrected>
+    <original></original>
+    <corrected><c>“</c></corrected>
       <errors>
         <error xtype="dep" depId="1-1" eid="0"/>
-        <error xtype="agreement" idx="3-1" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="3b">
+    <original><w>skrifa</w></original>
+    <corrected><w>skrifar</w></corrected>
+      <errors>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>Jón</w>

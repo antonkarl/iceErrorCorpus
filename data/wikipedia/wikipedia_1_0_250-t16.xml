@@ -1303,11 +1303,17 @@
   <w>Lífslíkurnar</w>
   <w>í</w>
   <revision id="98">
-    <original><w>Mozambique</w><w>er</w></original>
-    <corrected><w>Mósambík</w><w>eru</w></corrected>
+    <original><w>Mozambique</w></original>
+    <corrected><w>Mósambík</w></corrected>
       <errors>
-        <error xtype="fw4ice" idx="95-1" eid="0"/>
-        <error xtype="agreement" idx="95-2" eid="0"/>
+        <error xtype="fw4ice"eid="0"/>
+      </errors>
+  </revision>
+  <revision id="98b">
+    <original><w>er</w></original>
+    <corrected><w>eru</w></corrected>
+      <errors>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>helmingi</w>
@@ -1415,13 +1421,7 @@
   <w>Rúmlega</w>
   <w>60%</w>
   <w>þjóðarinnar</w>
-  <revision id="108">
-    <original><w>eru</w></original>
-    <corrected><w>er</w></corrected>
-      <errors>
-        <error xtype="agreement" eid="0"/>
-      </errors>
-  </revision>
+  <w>eru</w>
   <w>ólæs</w>
   <w>og</w>
   <w>óskrifandi</w>

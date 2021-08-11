@@ -3176,9 +3176,9 @@
   <w>herflota</w>
   <revision id="187">
     <original><w>þeirra</w><w>og</w><w>árásir</w></original>
-    <corrected><w>sjóræningjann</w><c>.</c><w>Árásir</w></corrected>
+    <corrected><w>sjóræningjanna</w><c>.</c><w>Árásir</w></corrected>
       <errors>
-        <error xtype="wording" idx="187-1" eid="0" />
+        <error xtype="pro4noun" idx="187-1" eid="0" />
         <error xtype="conjunction4period" idx="187-2" eid="0" />
       </errors>
   </revision>
@@ -3190,7 +3190,7 @@
     <corrected><w>bundu</w></corrected>
       <errors>
         <error xtype="extra-conjunction" idx="188-1" eid="0" />
-        <error xtype="agreement" idx="188-2" eid="0" />
+        <error xtype="dep" depId="188-1" eid="0" />
       </errors>
   </revision>
   <w>endi</w>

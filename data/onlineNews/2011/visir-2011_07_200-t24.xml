@@ -2368,10 +2368,16 @@
   <w>og</w>
   <w>hávaði</w>
   <revision id="78">
-    <original><w>var</w><w>stoppaður</w></original>
-    <corrected><w>voru</w><w>stöðvuð</w></corrected>
+    <original><w>var</w></original>
+    <corrected><w>voru</w></corrected>
       <errors>
         <error xtype="agreement" eid="0" />
+      </errors>
+  </revision>
+  <revision id="78b">
+    <original><w>stoppaður</w></original>
+    <corrected><w>stöðvuð</w></corrected>
+      <errors>
         <error xtype="agreement-pred" eid="0" />
       </errors>
   </revision>

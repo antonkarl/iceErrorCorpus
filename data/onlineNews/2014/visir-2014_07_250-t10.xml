@@ -241,12 +241,24 @@
   <w>í</w>
   <w>garðinum</w>
   <revision id="1">
-    <original><w>séu</w><w>skoðuð</w></original>
-    <corrected><c>,</c><w>sé</w><w>skoðaður</w></corrected>
+    <original></original>
+    <corrected><c>,</c></corrected>
       <errors>
-        <error xtype="missing-comma" idx="1-1" eid="0" />
-        <error xtype="agreement" idx="1-2" eid="0" />
-        <error xtype="agreement-pred" idx="1-3" eid="0" />
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
+  <revision id="1b">
+    <original><w>séu</w></original>
+    <corrected><w>sé</w></corrected>
+      <errors>
+        <error xtype="agreement" eid="0" />
+      </errors>
+  </revision>
+  <revision id="1c">
+    <original><w>skoðuð</w></original>
+    <corrected><w>skoðaður</w></corrected>
+      <errors>
+        <error xtype="agreement-pred" eid="0" />
       </errors>
   </revision>
   <w>reglulega</w>

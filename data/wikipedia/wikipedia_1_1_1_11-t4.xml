@@ -406,10 +406,16 @@
   <w>og</w>
   <revision id="19">
     <original><w>lögðu</w></original>
-    <corrected><w>lagði</w><w>það</w></corrected>
+    <corrected><w>lagði</w></corrected>
       <errors>
-        <error xtype="agreement" idx="19-1" eid="0" />
-        <error xtype="missing-obj" idx="19-2" eid="0" />
+        <error xtype="agreement" eid="0" />
+      </errors>
+  </revision>
+  <revision id="19b">
+    <original></original>
+    <corrected><w>það</w></corrected>
+      <errors>
+        <error xtype="missing-obj" eid="0" />
       </errors>
   </revision>
   <w>undir</w>
@@ -1922,7 +1928,13 @@
   <w>um</w>
   <w>80%</w>
   <w>ræktaðs</w>
-  <w>land</w>
+  <revision id="91">
+    <original><w>land</w></original>
+    <corrected><w>lands</w></corrected>
+      <errors>
+        <error xtype="gen-escape" eid="0" />
+      </errors>
+  </revision>
   <w>notað</w>
   <w>undir</w>
   <w>það</w>
@@ -2234,11 +2246,17 @@
   <w>helmingur</w>
   <w>Laosbúa</w>
   <revision id="105">
-    <original><w>séu</w><w>ólæsir</w></original>
-    <corrected><w>sé</w><w>ólæs</w></corrected>
+    <original><w>séu</w></original>
+    <corrected><w>sé</w></corrected>
       <errors>
-        <error xtype="agreement" idx="105-1" eid="0" />
-        <error xtype="agreement-pred" idx="105-1" eid="0" />
+        <error xtype="agreement" eid="0" />
+      </errors>
+  </revision>
+  <revision id="105b">
+    <original><w>ólæsir</w></original>
+    <corrected><w>ólæs</w></corrected>
+      <errors>
+        <error xtype="agreement-pred" eid="0" />
       </errors>
   </revision>
   <c>.</c>

@@ -387,11 +387,17 @@
   <w>árið 1981</w>
   <w>og</w>
   <revision id="16">
-    <original><w>spiluðu</w><w>bylturokk</w></original>
-    <corrected><w>spilaði</w><w>þrass</w></corrected>
+    <original><w>spiluðu</w></original>
+    <corrected><w>spilaði</w></corrected>
       <errors>
-        <error xtype="agreement" idx="16-1" eid="0" />
-        <error xtype="wording" idx="16-2" eid="0" />
+        <error xtype="agreement" eid="0" />
+      </errors>
+  </revision>
+  <revision id="16b">
+    <original><w>bylturokk</w></original>
+    <corrected><w>þrass</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
       </errors>
   </revision>
   <w>eins</w>
@@ -403,11 +409,7 @@
   <w>þessum</w>
   <w>tíma</w>
   <c>,</c>
-  <w>t</w>
-  <c>.</c>
-</s>
-<s n="13">
-  <w>d.</w>
+  <w>t.d.</w>
   <w>Metallica</w>
   <w>og</w>
   <w>Megadeth</w>

@@ -560,10 +560,16 @@
   <w>þannig</w>
   <w>hljómsveit</w>
   <revision id="44">
-    <original><w>voru</w><w>The</w><w>Archies</w></original>
-    <corrected><w>var</w><w><hi>The</hi></w><w><hi>Archies</hi></w></corrected>
+    <original><w>voru</w></original>
+    <corrected><w>var</w></corrected>
       <errors>
         <error xtype="agreement" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="44b">
+    <original><w>The</w><w>Archies</w></original>
+    <corrected><w><hi>The</hi></w><w><hi>Archies</hi></w></corrected>
+      <errors>
         <error xtype="nonit4it" eid="0"/>
       </errors>
   </revision>

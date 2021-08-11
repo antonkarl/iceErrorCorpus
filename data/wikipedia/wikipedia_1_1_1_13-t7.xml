@@ -646,10 +646,16 @@
   <w>þverstæða</w>
   <w>Epikúrosar</w>
   <revision id="9">
-    <original><w>er</w></original>
-    <corrected><c>,</c><w>eru</w></corrected>
+    <original></original>
+    <corrected><c>,</c></corrected>
       <errors>
         <error xtype="missing-comma" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="9b">
+    <original><w>er</w></original>
+    <corrected><w>eru</w></corrected>
+      <errors>
         <error xtype="agreement" eid="0"/>
       </errors>
   </revision>

@@ -232,7 +232,7 @@
     <corrected><w>sem</w><w>slíkt</w><c>.</c><w>Þjóðríkið</w></corrected>
       <errors>
         <error xtype="wording" idx="6-1" eid="0" />
-        <error xtype="missing-period" idx="6-2" eid="0" />
+        <error xtype="conjunction4period" idx="6-2" eid="0" />
       </errors>
   </revision>
   <w>hangir</w>
@@ -270,21 +270,8 @@
   <w>og</w>
   <w>fáir</w>
   <w>telja</w>
-  <revision id="7">
-    <original></original>
-    <corrected><w>að</w></corrected>
-      <errors>
-        <error xtype="missing-conjunction" eid="0" />
-      </errors>
-  </revision>
   <w>þjóðríkið</w>
-  <revision id="8">
-    <original><w>munu</w></original>
-    <corrected><w>muni</w></corrected>
-      <errors>
-        <error xtype="agreement" eid="0" />
-      </errors>
-  </revision>
+  <w>munu</w>
   <w>líða</w>
   <w>undir</w>
   <w>lok</w>

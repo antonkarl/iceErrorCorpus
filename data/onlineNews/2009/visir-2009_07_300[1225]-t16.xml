@@ -458,23 +458,17 @@
   <w>á</w>
   <w>mánuði</w>
   <w>fyrir</w>
+  <w>gluggalausan</w>
   <revision id="12">
-    <original><w>gluggalausan</w><w>kofann</w></original>
-    <corrected><w>gluggalausa</w><w>kofa</w></corrected>
+    <original><w>kofann</w></original>
+    <corrected><w>kofa</w></corrected>
       <errors>
-        <error xtype="dep" depId="12-1" eid="0" />
-        <error xtype="def4ind" idx="12-1" eid="0" />
+        <error xtype="def4ind" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
   <w>hvorki</w>
-  <revision id="13">
-    <original><w>hafði</w></original>
-    <corrected><w>höfðu</w></corrected>
-      <errors>
-        <error xtype="agreement" eid="0" />
-      </errors>
-  </revision>
+  <w>hafði</w>
   <w>rafmagn</w>
   <w>né</w>
   <w>rennandi</w>

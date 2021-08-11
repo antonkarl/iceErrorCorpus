@@ -1131,9 +1131,15 @@
   <w>og</w>
   <revision id="11">
     <original><w>eru</w></original>
-    <corrected><w>er</w><w>nú</w></corrected>
+    <corrected><w>er</w></corrected>
       <errors>
         <error xtype="agreement" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="11b">
+    <original></original>
+    <corrected><w>nú</w></corrected>
+      <errors>
         <error xtype="missing-word" eid="0"/>
       </errors>
   </revision>

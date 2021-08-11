@@ -254,11 +254,17 @@
   <w>strendur</w>
   <w>Evrópu</w>
   <revision id="9">
-    <original><w>verður</w><w>upp</w><w>undir</w></original>
-    <corrected><w>verða</w><w>allt</w><w>að</w></corrected>
+    <original><w>verður</w></original>
+    <corrected><w>verða</w></corrected>
       <errors>
-        <error xtype="agreement" idx="9-1" eid="0" />
-        <error xtype="wording" idx="9-2" eid="0" />
+        <error xtype="agreement" eid="0" />
+      </errors>
+  </revision>
+  <revision id="9b">
+    <original><w>upp</w><w>undir</w></original>
+    <corrected><w>allt</w><w>að</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
       </errors>
   </revision>
   <w>15</w>

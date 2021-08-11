@@ -874,7 +874,8 @@
     <original><w>er</w><w>þvælingur</w></original>
     <corrected><w>var</w><w>erill</w></corrected>
       <errors>
-        <error xtype="wording" eid="0" />
+        <error xtype="pres4past" idx="38-1" eid="0" />
+        <error xtype="wording" idx="38-2" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -892,7 +893,7 @@
     <original><w>liggja</w></original>
     <corrected><w>lágu</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0" />
+        <error xtype="pres4past" eid="0" />
       </errors>
   </revision>
   <w>eftir</w>

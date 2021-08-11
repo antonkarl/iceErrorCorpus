@@ -1456,7 +1456,7 @@
     <corrected><w>sem</w><w>gerði</w></corrected>
       <errors>
         <error xtype="conjunction" idx="79-1" eid="0" />
-        <error xtype="agreement" idx="79-2" eid="0" />
+        <error xtype="wording" idx="79-2" eid="0" />
       </errors>
   </revision>
   <w>hann</w>
@@ -3618,12 +3618,24 @@
   </revision>
   <w>Eurostar</w>
   <revision id="227">
-    <original><w>háhraðalestir</w><w>tengir</w><w>St</w><w>Pancras-lestarstöð</w></original>
-    <corrected><w>tengja</w><w>St.Pancras-lestarstöð</w></corrected>
+    <original><w>háhraðalestir</w></original>
+    <corrected></corrected>
       <errors>
         <error xtype="wording" idx="227-1" eid="0" />
-        <error xtype="agreement" idx="227-2" eid="0" />
-        <error xtype="foreign-name" idx="227-3" eid="0" />
+      </errors>
+  </revision>
+  <revision id="227b">
+    <original><w>tengir</w></original>
+    <corrected><w>tengja</w></corrected>
+      <errors>
+        <error xtype="agreement" eid="0" />
+      </errors>
+  </revision>
+  <revision id="227c">
+    <original><w>St</w><w>Pancras-lestarstöð</w></original>
+    <corrected><w>St.Pancras-lestarstöð</w></corrected>
+      <errors>
+        <error xtype="foreign-name" eid="0" />
       </errors>
   </revision>
   <w>við</w>

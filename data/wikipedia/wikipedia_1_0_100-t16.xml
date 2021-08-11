@@ -856,10 +856,16 @@
   <w>landsins</w>
   <revision id="26">
     <original><w>eru</w></original>
-    <corrected><w>er</w><w>ein</w><w>stór</w></corrected>
+    <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="agreement" idx="26-1" eid="0" />
-        <error xtype="missing-words" idx="26-2" eid="0" />
+        <error xtype="agreement" eid="0" />
+      </errors>
+  </revision>
+  <revision id="26b">
+    <original></original>
+    <corrected><w>ein</w><w>stór</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0" />
       </errors>
   </revision>
   <w>gresja</w>

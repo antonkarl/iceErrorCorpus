@@ -466,11 +466,17 @@
   <w>og</w>
   <w>Stefáns</w>
   <revision id="11">
-    <original><w>hafa</w></original>
-    <corrected><c>,</c><w>hefur</w></corrected>
+    <original></original>
+    <corrected><c>,</c></corrected>
       <errors>
         <error xtype="dep" depId="10-1" eid="0" />
-        <error xtype="agreement" idx="11-1" eid="0" />
+      </errors>
+  </revision>
+  <revision id="11b">
+    <original><w>hafa</w></original>
+    <corrected><w>hefur</w></corrected>
+      <errors>
+        <error xtype="agreement" eid="0" />
       </errors>
   </revision>
   <w>verið</w>

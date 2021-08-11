@@ -353,11 +353,17 @@
   <w>um</w>
   <w>Evrópusæti</w>
   <revision id="11">
-    <original><w>hefur</w></original>
-    <corrected><w>og</w><w>hafa</w></corrected>
+    <original></original>
+    <corrected><w>og</w></corrected>
       <errors>
         <error xtype="missing-conjunction" eid="0" />
-        <error xtype="agreement" idx="11-1" eid="0" />
+      </errors>
+  </revision>
+  <revision id="11b">
+    <original><w>hefur</w></original>
+    <corrected><w>hafa</w></corrected>
+      <errors>
+        <error xtype="agreement" eid="0" />
       </errors>
   </revision>
   <w>nú</w>

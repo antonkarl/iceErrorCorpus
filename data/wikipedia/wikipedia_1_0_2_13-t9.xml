@@ -1319,6 +1319,7 @@
       <errors>
         <error xtype="missing-semicolon" idx="63-1" eid="0"/>
         <error xtype="def4ind" idx="63-2" eid="0"/>
+        <error xtype="plural4singular" idx="63-2" eid="0"/>
       </errors>
   </revision>
   <w>fyrir</w>
@@ -1329,7 +1330,7 @@
     <original><w>eru</w></original>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0"/>
+        <error xtype="dep" depId="63-2" eid="0"/>
       </errors>
   </revision>
   <w>frá</w>

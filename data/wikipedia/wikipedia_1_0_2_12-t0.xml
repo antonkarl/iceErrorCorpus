@@ -65,14 +65,27 @@
   </revision>
   <w>standa</w>
   <w>fjarri</w>
-  <w>umdæmanna</w>
+  <revision id="2b">
+    <original><w>umdæmanna</w></original>
+    <corrected><w>umdæmunum</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" idx="2b-1" eid="0"/>
+        <error xtype="case-collocation" idx="2b-1" eid="0"/>
+      </errors>
+  </revision>
   <w>tólf</w>
   <w>þar</w>
   <w>sem</w>
   <w>matarskortur</w>
   <w>og</w>
   <w>kúgun</w>
-  <w>ræður</w>
+  <revision id="2c">
+    <original><w>ræður</w></original>
+    <corrected><w>ráða</w></corrected>
+      <errors>
+        <error xtype="agreement" eid="0"/>
+      </errors>
+  </revision>
   <w>ríkjum</w>
   <c>,</c>
   <w>en</w>

@@ -20,7 +20,7 @@
     <original></original>
     <corrected><c>,</c></corrected>
       <errors>
-        <error xtype="missing-comma" eid="0" />
+        <error xtype="missing-commas" idx="1-1" eid="0" />
       </errors>
   </revision>
   <w>einnig</w>
@@ -36,7 +36,7 @@
     <original></original>
     <corrected><c>,</c></corrected>
       <errors>
-        <error xtype="missing-comma" eid="0" />
+        <error xtype="dep" depId="1-1" eid="0" />
       </errors>
   </revision>
   <w>er</w>

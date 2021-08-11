@@ -328,11 +328,17 @@
   <w>samtök</w>
   <w>sem</w>
   <revision id="23">
-    <original><w>hét</w><c>‘</c><c>‘</c></original>
-    <corrected><w>hétu</w><c>„</c></corrected>
+    <original><w>hét</w></original>
+    <corrected><w>hétu</w></corrected>
       <errors>
-        <error xtype="agreement" idx="23-1" eid="0"/>
-        <error xtype="wrong-quot" idx="23-2" eid="0"/>
+        <error xtype="agreement" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="23b">
+    <original><c>‘</c><c>‘</c></original>
+    <corrected><c>„</c></corrected>
+      <errors>
+        <error xtype="wrong-quot" eid="0"/>
       </errors>
   </revision>
   <w>The</w>
@@ -1417,12 +1423,18 @@
   <w>í</w>
   <w>félaginu</w>
   <revision id="101">
-    <original><w>voru</w><w>aðalega</w></original>
-    <corrected><w>var</w><w>aðallega</w></corrected>
+    <original><w>voru</w></original>
+    <corrected><w>var</w></corrected>
       <errors>
         <error xtype="agreement" eid="0"/>
-        <error xtype="missing-letter" idx="3-1" eid="0"/>
-        <error xtype="nonword" idx="3-1" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="101b">
+    <original><w>aðalega</w></original>
+    <corrected><w>aðallega</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="101b-1" eid="0"/>
+        <error xtype="nonword" idx="101b-1" eid="0"/>
       </errors>
   </revision>
   <w>lágstéttarfólk</w>

@@ -229,13 +229,31 @@
   <w>í</w>
   <w>Danmörku</w>
   <revision id="12">
-    <original><w>og</w><w>hituðu</w></original>
-    <corrected><c>.</c><w>Hún</w><w>hitaði</w><w>einnig</w></corrected>
+    <original><w>og</w></original>
+    <corrected><c>.</c></corrected>
       <errors>
-        <error xtype="conjunction4period" idx="12-1" eid="0" />
-        <error xtype="missing-sub" idx="12-2" eid="0" />
-        <error xtype="agreement" idx="12-3" eid="0" />
-        <error xtype="missing-word" idx="12-4" eid="0" />
+        <error xtype="conjunction4period" eid="0" />
+      </errors>
+  </revision>
+  <revision id="12b">
+    <original></original>
+    <corrected><w>Hún</w></corrected>
+      <errors>
+        <error xtype="missing-sub" eid="0" />
+      </errors>
+  </revision>
+  <revision id="12c">
+    <original><w>hituðu</w></original>
+    <corrected><w>hitaði</w></corrected>
+      <errors>
+        <error xtype="agreement" eid="0" />
+      </errors>
+  </revision>
+  <revision id="12d">
+    <original></original>
+    <corrected><w>einnig</w></corrected>
+      <errors>
+        <error xtype="missing-word" eid="0" />
       </errors>
   </revision>
   <w>upp</w>

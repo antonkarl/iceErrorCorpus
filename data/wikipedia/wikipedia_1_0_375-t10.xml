@@ -64,17 +64,36 @@
   <w>í</w>
   <w>leti</w>
   <w>eru</w>
-  <revision id="3">
-    <original><w>kaldhæðnislegar</w></original>
-    <corrected><w>írónískar</w></corrected>
+  <revision id="2b">
+    <original><w>eru</w></original>
+    <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="wording" eid="0"/>
+        <error xtype="agreement" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="2c">
+    <original><w>kaldhæðnislegar</w></original>
+    <corrected><w>kaldhæðnisleg</w></corrected>
+      <errors>
+        <error xtype="agreement-pred" eid="0" />
       </errors>
   </revision>
   <c>,</c>
   <w>því</w>
-  <w>þær</w>
-  <w>gera</w>
+  <revision id="2d">
+    <original><w>þær</w></original>
+    <corrected><w>hún</w></corrected>
+      <errors>
+        <error xtype="agreement-pro" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="2e">
+    <original><w>gera</w></original>
+    <corrected><w>gerir</w></corrected>
+      <errors>
+        <error xtype="agreement" eid="0"/>
+      </errors>
+  </revision>
   <w>hann</w>
   <w>eflaust</w>
   <w>að</w>
@@ -234,6 +253,13 @@
 </s><s n="10">
   <w>Á</w>
   <w>meðan</w>
+  <revision id="7b">
+    <original/>
+    <corrected><w>á</w></corrected>
+      <errors>
+        <error xtype="missing-prep" eid="0"/>
+      </errors>
+  </revision>
   <w>átakinu</w>
   <w>á</w>
   <w>Íslandi</w>
@@ -480,7 +506,13 @@
   <w>að</w>
   <w>Íslendingar</w>
   <w>væru</w>
-  <w>komnar</w>
+  <revision id="18b">
+    <original><w>komnar</w></original>
+    <corrected><w>komnir</w></corrected>
+      <errors>
+        <error xtype="agreement-pred" eid="0"/>
+      </errors>
+  </revision>
   <w>á</w>
   <w>lista</w>
   <w>yfir</w>
@@ -606,13 +638,11 @@
   </revision>
   <w><hi>Big</hi></w>
   <w><hi>Bang</hi></w>
-  <w><i/></w>
-  <c>(</c>
-  <w>Time</w>
-  <w>to</w>
-  <w>dance</w>
-  <c>)</c>
-  <w><i/></w>
+  <c><hi>(</hi></c>
+  <w><hi>Time</hi></w>
+  <w><hi>to</hi></w>
+  <w><hi>dance</hi></w>
+  <c><hi>)</hi></c>
   <w>í</w>
   <w>4.</w>
   <w>sæti</w>
@@ -1370,25 +1400,21 @@
   <w>þáttarins</w>
   <c>.</c>
 </s><s n="55">
-  <w>Uppáhalds</w>
-  <w>frasinn</w>
-  <w>hans</w>
-  <w>er</w>
   <revision id="63">
-    <original><c>"</c></original>
-    <corrected><c>„</c></corrected>
+    <original><w>Uppáhalds</w><w>frasinn</w></original>
+    <corrected><w>Uppáhaldsfrasinn</w></corrected>
       <errors>
-        <error xtype="wrong-quots" eid="0"/>
+        <error xtype="split-compound" eid="0"/>
       </errors>
   </revision>
-  <w>ég</w>
-  <w>á</w>
-  <w>þetta</w>
+  <w>hans</w>
+  <w>er</w>
   <revision id="64">
-    <original><c>"</c></original>
-    <corrected><c>“</c></corrected>
+    <original><w><hi>ég</hi></w><w><hi>á</hi></w><w><hi>þetta</hi></w></original>
+    <corrected><c>„</c><w>ég</w><w>á</w><w>þetta</w><c>“</c></corrected>
       <errors>
-        <error xtype="wrong-quots" eid="0"/>
+        <error xtype="it4nonit" idx="64-1" eid="0"/>
+        <error xtype="missing-quots" idx="64-1" eid="0"/>
       </errors>
   </revision>
   <w>og</w>
@@ -1596,9 +1622,9 @@
   </revision>
   <revision id="77a">
     <original><w>öll</w></original>
-    <corrected></corrected>
+    <corrected><w>allar</w></corrected>
       <errors>
-        <error xtype="extra-word" eid="0"/>
+        <error xtype="agreement-pred" eid="0"/>
       </errors>
   </revision>
   <w>skemmdarverk</w>

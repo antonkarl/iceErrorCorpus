@@ -557,10 +557,16 @@
   <w>ásamt</w>
   <w>Verzlunarskólablaðinu</w>
   <revision id="26">
-    <original><w>gáfu</w></original>
-    <corrected><c>,</c><w>gaf</w></corrected>
+    <original></original>
+    <corrected><c>,</c></corrected>
       <errors>
         <error xtype="missing-comma" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="26b">
+    <original><w>gáfu</w></original>
+    <corrected><w>gaf</w></corrected>
+      <errors>
         <error xtype="agreement" eid="0"/>
       </errors>
   </revision>

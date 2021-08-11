@@ -535,9 +535,9 @@
     <original><c>;</c><w>héldu</w></original>
     <corrected><c>.</c><w>Liðið</w><w>hélt</w></corrected>
       <errors>
-        <error xtype="semicolon4period" eid="0" />
-        <error xtype="missing-sub" eid="0" />
-        <error xtype="agreement" eid="0" />
+        <error xtype="semicolon4period" idx="22-1" eid="0" />
+        <error xtype="missing-sub" idx="22-2" eid="0" />
+        <error xtype="dep" depId="22-2" eid="0" />
       </errors>
   </revision>
   <w>boltanum</w>
