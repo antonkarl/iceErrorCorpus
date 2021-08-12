@@ -61,7 +61,7 @@
     <original><w>hlaða</w><w>hana</w><w>yfir</w></original>
     <corrected><w>hleður</w><w>henni</w><w>niður</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0"/>
+        <error xtype="dep" depId="1-1" eid="0"/>
         <error xtype="case-verb" eid="0"/>
         <error xtype="wrong-prep" eid="0" />
       </errors>

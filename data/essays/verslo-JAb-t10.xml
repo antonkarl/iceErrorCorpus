@@ -574,9 +574,15 @@
   <w>prófum</w>
   <revision id="12">
     <original><w>hefur</w></original>
-    <corrected><w>hafa</w><w>meðfæddir</w><w>tónlistarhæfileikar</w></corrected>
+    <corrected><w>hafa</w></corrected>
       <errors>
-        <error xtype="agreement" idx="31-1" eid="0"/>
+        <error xtype="agreement" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="12b">
+    <original></original>
+    <corrected><w>meðfæddir</w><w>tónlistarhæfileikar</w></corrected>
+      <errors>
         <error xtype="wording" idx="31-2" eid="0"/>
       </errors>
   </revision>

@@ -553,11 +553,17 @@
   <w>af</w>
   <w>fólki</w>
   <revision id="14">
-    <original><w>leggja</w></original>
-    <corrected><c>,</c><w>leggur</w></corrected>
+    <original></original>
+    <corrected><c>,</c></corrected>
       <errors>
         <error xtype="dep" depId="14-1" eid="0"/>
-        <error xtype="agreement" idx="15-1" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="14b">
+    <original><w>leggja</w></original>
+    <corrected><w>leggur</w></corrected>
+      <errors>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>áherslu</w>
@@ -1042,16 +1048,17 @@
   <w>á</w>
   <c>.</c>
 </s><s n="48">
-  <w>Tækifæri</w>
-  <w>í</w>
-  <w>útlöndum</w>
   <revision id="28">
-    <original><w>er</w></original>
-    <corrected><w>eru</w></corrected>
+    <original><w>Tækifæri</w></original>
+    <corrected><w>Tækifærum</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0"/>
+        <error xtype="nominal-inflection" idx="28-1" eid="0"/>
+        <error xtype="case-verb" idx="28-1" eid="0"/>
       </errors>
   </revision>
+  <w>í</w>
+  <w>útlöndum</w>
+  <w>er</w>
   <w>að</w>
   <w>fjölga</w>
   <c>.</c>

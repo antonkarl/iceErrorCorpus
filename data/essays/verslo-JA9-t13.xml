@@ -263,11 +263,17 @@
   <w>prófum</w>
   <w>nemanda</w>
   <revision id="9">
-    <original><w>bekk</w><w>geta</w></original>
+    <original><w>bekk</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="9b">
+    <original><w>geta</w></original>
     <corrected><w>getur</w></corrected>
       <errors>
-        <error xtype="extra-word" idx="28-1" eid="0"/>
-        <error xtype="agreement" idx="28-2" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>haft</w>

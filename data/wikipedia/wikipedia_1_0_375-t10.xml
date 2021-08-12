@@ -84,14 +84,14 @@
     <original><w>þær</w></original>
     <corrected><w>hún</w></corrected>
       <errors>
-        <error xtype="agreement-pro" eid="0"/>
+        <error xtype="agreement-pro" idx="2d-1" eid="0"/>
       </errors>
   </revision>
   <revision id="2e">
     <original><w>gera</w></original>
     <corrected><w>gerir</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0"/>
+        <error xtype="dep" depId="2d-1" eid="0"/>
       </errors>
   </revision>
   <w>hann</w>

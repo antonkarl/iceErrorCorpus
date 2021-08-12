@@ -516,11 +516,17 @@
   <w>karlar</w>
   <c>,</c>
   <revision id="13">
-    <original><w>sé</w><w>borgað</w></original>
-    <corrected><w>séu</w><w>borguð</w></corrected>
+    <original><w>sé</w></original>
+    <corrected><w>séu</w></corrected>
       <errors>
-        <error xtype="agreement" idx="5-1" eid="0"/>
-        <error xtype="agreement-pred" idx="5-2" eid="0"/>
+        <error xtype="agreement" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="13b">
+    <original><w>borgað</w></original>
+    <corrected><w>borguð</w></corrected>
+      <errors>
+        <error xtype="agreement-pred" eid="0"/>
       </errors>
   </revision>
   <w>lægri</w>
