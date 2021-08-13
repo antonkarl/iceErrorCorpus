@@ -448,8 +448,7 @@
     <original><w>setja</w></original>
     <corrected><w>setjum</w></corrected>
       <errors>
-        <error xtype="agreement" idx="28-1" eid="0"/>
-        <error xtype="singular4plural" idx="28-1" eid="0"/>  
+        <error xtype="agreement-conj" eid="0"/> 
       </errors>
   </revision>
   <w>einfaldlega</w>
@@ -504,7 +503,7 @@
     <original><w>gerir</w></original>
     <corrected><w>gera</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0"/>
+        <error xtype="agreement-conj" eid="0"/>
       </errors>
   </revision>
   <w>það</w>
