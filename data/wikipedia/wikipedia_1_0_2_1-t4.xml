@@ -1618,8 +1618,13 @@
   <w>meðlima</w>
   <w>við</w>
   <w>ensku</w>
-  <w>síðpönk</w>
-  <w>sveitina</w>
+  <revision id="40c">
+    <original><w>síðpönk</w><w>sveitina</w></original>
+    <corrected><w>síðpönksveitina</w></corrected>
+      <errors>
+        <error xtype="split-compound" eid="0" />
+      </errors>
+  </revision>
   <w>Killing</w>
   <w>Joke</w>
   <w>spratt</w>
@@ -1645,7 +1650,7 @@
     <original><w>hættu</w></original>
     <corrected><w>hætti</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0" />
+        <error xtype="agreement-subpost" eid="0" />
       </errors>
   </revision>
   <w>Þeyr</w>

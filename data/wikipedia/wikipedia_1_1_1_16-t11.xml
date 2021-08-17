@@ -133,11 +133,17 @@
   <w>reiði</w>
   <w>sinni</w>
   <revision id="8">
-    <original><w>þá</w><w>hófu</w></original>
+    <original><w>þá</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="8b">
+    <original><w>hófu</w></original>
     <corrected><w>hóf</w></corrected>
       <errors>
-        <error xtype="extra-word" idx="33-1" eid="0"/>
-        <error xtype="agreement" eid="0"/>
+        <error xtype="agreement-subpost" eid="0"/>
       </errors>
   </revision>
   <w>félagið</w>
@@ -1426,7 +1432,7 @@
     <original><w>voru</w></original>
     <corrected><w>var</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0"/>
+        <error xtype="agreement-subpost" eid="0"/>
       </errors>
   </revision>
   <revision id="101b">
