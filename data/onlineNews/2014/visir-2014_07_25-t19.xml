@@ -240,7 +240,13 @@
 </s>
 <s n="11">
   <w>Konur</w>
-  <w>er</w>
+  <revision id="5b">
+    <original><w>er</w></original>
+    <corrected><w>eru</w></corrected>
+      <errors>
+        <error xtype="agreement-sub" eid="0" />
+      </errors>
+  </revision>
   <w>líka</w>
   <w>sendar</w>
   <w>hingað</w>
@@ -258,7 +264,7 @@
     <original><w>er</w></original>
     <corrected><w>eru</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0" />
+        <error xtype="agreement-subpost" eid="0" />
       </errors>
   </revision>
   <w>yfirleitt</w>

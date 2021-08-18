@@ -265,7 +265,7 @@
     <original><w>eiga</w></original>
     <corrected><w>á</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0"/>
+        <error xtype="agreement-sub" eid="0"/>
       </errors>
   </revision>
   <w>eftir</w>
@@ -744,7 +744,7 @@
     <corrected><w>sé</w></corrected>
       <errors>
         <error xtype="ind4sub-verb" idx="16-1" eid="0"/>
-        <error xtype="agreement" idx="16-1" eid="0"/>
+        <error xtype="agreement-sub" idx="16-1" eid="0"/>
       </errors>
   </revision>
   <w>á</w>
