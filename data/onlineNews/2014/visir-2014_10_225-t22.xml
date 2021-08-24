@@ -65,19 +65,24 @@
   <w>ættbálkinn</w>
   <c>.</c>
 </s><s n="3">
-  <w>Þeir</w>
+  <revision id="1b">
+    <original><w>Þeir</w></original>
+    <corrected><w>Þau</w></corrected>
+      <errors>
+        <error xtype="gendered" eid="0"/>
+      </errors>
+  </revision>
   <w>sem</w>
   <w>komust</w>
   <w>lífs</w>
   <w>af</w>
   <w>fengu</w>
+  <w>flest</w>
   <revision id="2">
-    <original><w>flest</w><w>annan</w></original>
-    <corrected><w>flestir</w><w>annars</w></corrected>
+    <original><w>annan</w></original>
+    <corrected><w>annars</w></corrected>
       <errors>
-        <error xtype="agreement-pro" idx="2-1" eid="0"/>
-        <error xtype="pro-inflection" idx="2-2" eid="0"/>
-        <error xtype="genitive" idx="2-2" eid="0" />
+        <error xtype="agreement-concord" eid="0" />
       </errors>
   </revision>
   <w>og</w>

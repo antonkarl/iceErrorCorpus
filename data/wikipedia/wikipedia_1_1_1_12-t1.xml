@@ -2201,7 +2201,7 @@
     <original><w>veitir</w></original>
     <corrected><w>veiti</w></corrected>
       <errors>
-        <error xtype="ind4sub" eid="0" />
+        <error xtype="ind4sub-verb" eid="0" />
       </errors>
   </revision>
   <w>sæluvímu</w>
@@ -2246,10 +2246,16 @@
   <w>fyrsta</w>
   <w>Mósebók</w>
   <revision id="108">
-    <original><w>renna</w><w>stoðir</w></original>
-    <corrected><w>renni</w><w>stoðum</w></corrected>
+    <original><w>renna</w></original>
+    <corrected><w>renni</w></corrected>
       <errors>
-        <error xtype="ind4sub" idx="108-1" eid="0" />
+        <error xtype="ind4sub-verb" idx="108-1" eid="0" />
+      </errors>
+  </revision>
+  <revision id="108a">
+    <original><w>stoðir</w></original>
+    <corrected><w>stoðum</w></corrected>
+      <errors>
         <error xtype="nominal-inflection" idx="108-2" eid="0" />
         <error xtype="case-verb" idx="108-2" eid="0" />
       </errors>

@@ -690,10 +690,16 @@
   <w>að</w>
   <w>konfúsíanismi</w>
   <revision id="30">
-    <original><w>er</w><w>uppruninn</w></original>
-    <corrected><w>sé</w><w>upprunninn</w></corrected>
+    <original><w>er</w></original>
+    <corrected><w>sé</w></corrected>
       <errors>
-        <error xtype="ind4sub" idx="23-1" eid="0"/>
+        <error xtype="ind4sub-conj" idx="23-1" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="30a">
+    <original><w>uppruninn</w></original>
+    <corrected><w>upprunninn</w></corrected>
+      <errors>
         <error xtype="n4nn" idx="23-2" eid="0"/>
       </errors>
   </revision>
@@ -704,7 +710,7 @@
     <original><w>hefur</w></original>
     <corrected><w>hafi</w></corrected>
       <errors>
-        <error xtype="ind4sub" eid="0"/>
+        <error xtype="ind4sub-conj" eid="0"/>
       </errors>
   </revision>
   <w>haft</w>

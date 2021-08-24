@@ -218,10 +218,16 @@
   <w>að</w>
   <w>hann</w>
   <revision id="5">
-    <original><w>telur</w><w>afarólíklegt</w></original>
-    <corrected><w>telji</w><w>afar</w><w>ólíklegt</w></corrected>
+    <original><w>telur</w></original>
+    <corrected><w>telji</w></corrected>
       <errors>
         <error xtype="ind4sub" idx="5-1" eid="0" />
+      </errors>
+  </revision>
+  <revision id="5a">
+    <original><w>afarólíklegt</w></original>
+    <corrected><w>afar</w><w>ólíklegt</w></corrected>
+      <errors>
         <error xtype="merged-words" idx="5-2" eid="0" />
       </errors>
   </revision>

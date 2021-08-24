@@ -4274,7 +4274,8 @@
     <original><w>og</w></original>
     <corrected><w>við</w></corrected>
       <errors>
-        <error xtype="wrong-prep" eid="0" />
+        <error xtype="extra-conjunction" idx="142-1" eid="0" />
+        <error xtype="missing-prep" idx="142-2" eid="0" />
       </errors>
   </revision>
   <w>guð</w>
@@ -6680,11 +6681,11 @@
   <w>stunda</w>
   <w>skurðgoðadýrkun</w>
   <w>og</w>
+  <w>eiga</w>
   <revision id="258">
-    <original><w>eiga</w></original>
-    <corrected><w>eigi</w><w>því</w></corrected>
+    <original></original>
+    <corrected><w>því</w></corrected>
       <errors>
-        <error xtype="ind4sub" eid="0" />
         <error xtype="missing-word" eid="0" />
       </errors>
   </revision>
@@ -6882,7 +6883,13 @@
         <error xtype="ind4sub" eid="0" />
       </errors>
   </revision>
-  <w>eingyðismen</w>
+  <revision id="267">
+    <original><w>eingyðismen</w></original>
+    <corrected><w>eingyðismenn</w></corrected>
+      <errors>
+        <error xtype="n4nn" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s>
 <s n="214">
@@ -7758,7 +7765,7 @@
     <original><w>fer</w></original>
     <corrected><w>fari</w></corrected>
       <errors>
-        <error xtype="ind4sub" eid="0" />
+        <error xtype="ind4sub-conj" eid="0" />
       </errors>
   </revision>
   <w>með</w>
@@ -9009,7 +9016,7 @@
     <original><w>hefur</w></original>
     <corrected><w>hafi</w></corrected>
       <errors>
-        <error xtype="ind4sub" eid="0" />
+        <error xtype="ind4sub-conj" eid="0" />
       </errors>
   </revision>
   <w>ekki</w>

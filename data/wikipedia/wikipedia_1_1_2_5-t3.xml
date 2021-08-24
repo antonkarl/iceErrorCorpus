@@ -63,9 +63,8 @@
   <w>hann</w>
   <revision id="5">
     <original><w>hafi</w></original>
-    <corrected><w>hafði</w></corrected>
+    <corrected><w>hefði</w></corrected>
       <errors>
-        <error xtype="sub4ind" idx="5-1" eid="0" />
         <error xtype="pres4past" idx="5-1" eid="0" />
       </errors>
   </revision>
@@ -420,7 +419,7 @@
     <original><w>gömlu</w></original>
     <corrected><w>gamla</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0" />
+        <error xtype="adjective-inflection" eid="0" />
         <error xtype="genitive" eid="0" />
       </errors>
   </revision>
@@ -549,13 +548,7 @@
   <w>setti</w>
   <w>Karla</w>
   <w>klút</w>
-  <revision id="48">
-    <original><w>fyrir</w></original>
-    <corrected><w>yfir</w></corrected>
-      <errors>
-        <error xtype="wrong-prep" eid="0" />
-      </errors>
-  </revision>
+  <w>fyrir</w>
   <w>munninn</w>
   <w>á</w>
   <w>henni</w>

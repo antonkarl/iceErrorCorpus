@@ -372,13 +372,7 @@
   <w>að</w>
   <w>skilja</w>
   <w>hvað</w>
-  <revision id="1">
-    <original><w>færi</w></original>
-    <corrected><w>fór</w></corrected>
-      <errors>
-        <error xtype="sub4ind" eid="0"/>
-      </errors>
-  </revision>
+  <w>færi</w>
   <w>þeirra</w>
   <w>á</w>
   <w>milli</w>
@@ -703,7 +697,7 @@
     <original><w>hafði</w></original>
     <corrected><w>hefði</w></corrected>
       <errors>
-        <error xtype="ind4sub" eid="0"/>
+        <error xtype="ind4sub-conj" eid="0"/>
       </errors>
   </revision>
   <w>verið</w>

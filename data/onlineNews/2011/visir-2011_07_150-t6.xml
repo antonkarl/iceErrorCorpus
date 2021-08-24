@@ -75,11 +75,17 @@
   <w>segir</w>
   <w>að</w>
   <revision id="1">
-    <original><w>Innleiðingin</w><w>nær</w></original>
-    <corrected><w>innleiðingin</w><w>nái</w></corrected>
+    <original><w>Innleiðingin</w></original>
+    <corrected><w>innleiðingin</w></corrected>
       <errors>
         <error xtype="upper4lower-noninitial" idx="1-1" eid="0" />
-        <error xtype="ind4sub" idx="1-2" eid="0" />
+      </errors>
+  </revision>
+  <revision id="1a">
+    <original><w>nær</w></original>
+    <corrected><w>nái</w></corrected>
+      <errors>
+        <error xtype="ind4sub-verb" idx="1-2" eid="0" />
       </errors>
   </revision>
   <w>til</w>

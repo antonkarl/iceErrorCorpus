@@ -915,21 +915,10 @@
   <w>nemendum</w>
   <w>menntaskóla</w>
   <c>,</c>
-  <revision id="31">
-    <original><w>fyrir</w></original>
-    <corrected><w>vegna</w></corrected>
-      <errors>
-        <error xtype="wrong-prep" idx="31-1" eid="0"/>
-      </errors>
-  </revision>
+  <w>fyrir</w>
   <w>gríðarlega</w>
-  <revision id="32">
-    <original><w>mikilfenglegum</w><w>mótmælum</w></original>
-    <corrected><w>mikilfenglegra</w><w>mótmæla</w></corrected>
-      <errors>
-        <error xtype="dep" depId="31-1" eid="0"/>
-      </errors>
-  </revision>
+  <w>mikilfenglegum</w>
+  <w>mótmælum</w>
   <c>,</c>
   <w>sem</w>
   <w>greinilega</w>
@@ -1323,14 +1312,19 @@
   <w>miklum</w>
   <w>blóma</w>
   <revision id="51">
-    <original><c>,</c><w>laun</w><w>hafi</w></original>
-    <corrected><c>.</c><w>Laun</w><w>hafa</w></corrected>
+    <original><c>,</c><w>laun</w></original>
+    <corrected><c>.</c><w>Laun</w></corrected>
       <errors>
         <error xtype="comma4period" eid="0"/>
-        <error xtype="sub4ind" eid="0"/>
       </errors>
   </revision>
-  <w>aldrei</w>
+  <revision id="51b">
+    <original><w>hafi</w></original>
+    <corrected><w>hafa</w></corrected>
+      <errors>
+        <error xtype="sub4ind" eid="0"/>
+      </errors>
+  </revision>  <w>aldrei</w>
   <w>verið</w>
   <w>hærri</w>
   <w>og</w>

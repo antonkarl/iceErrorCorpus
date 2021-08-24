@@ -608,7 +608,13 @@
   <w>þrátt</w>
   <w>fyrir</w>
   <w>næstum</w>
-  <w>í</w>
+  <revision id="34a">
+    <original><w>í</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0" />
+      </errors>
+  </revision>
   <w>tvöfalt</w>
   <revision id="35">
     <original><w>meiri</w></original>
