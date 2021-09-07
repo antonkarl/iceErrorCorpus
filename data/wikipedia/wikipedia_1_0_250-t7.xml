@@ -280,7 +280,7 @@
     <original><w>örvað</w></original>
     <corrected><w>leitt</w><w>til</w><w>aukinnar</w></corrected>
       <errors>
-        <error xtype="wording" eid="0"/>
+        <error xtype="wording" idX="4-1" eid="0"/>
       </errors>
   </revision>
   <w>fjárfestingar</w>
@@ -289,7 +289,7 @@
     <original><w>vöxt</w></original>
     <corrected><w>vaxtar</w></corrected>
       <errors>
-        <error xtype="agreement-concord" eid="0"/>
+        <error xtype="dep" depId="4-1" eid="0"/>
       </errors>
   </revision>
   <w>fyrirtækja</w>

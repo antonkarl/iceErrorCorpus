@@ -445,7 +445,8 @@
     <corrected><c>:</c><w>skerta</w></corrected>
       <errors>
         <error xtype="comma4colon" idx="9-1" eid="0" />
-        <error xtype="agreement-concord" idx="9-2" eid="0" />
+        <error xtype="nominal-inflection" idx="9-2" eid="0" />
+        <error xtype="case-prep" idx="9-2" eid="0" />
       </errors>
   </revision>
   <w>félagshæfni</w>
@@ -456,6 +457,7 @@
       <errors>
         <error xtype="dep" depId="10-1" eid="0" />
         <error xtype="nominal-inflection" idx="10-1" eid="0" />
+        <error xtype="case-prep" idx="10-1" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -463,7 +465,8 @@
     <original><w>áráttukennd</w></original>
     <corrected><w>áráttukennda</w></corrected>
       <errors>
-        <error xtype="agreement-concord" eid="0" />
+        <error xtype="nominal-inflection" idx="11-1" eid="0" />
+        <error xtype="case-prep" idx="11-1" eid="0" />
       </errors>
   </revision>
   <w>hegðun</w>
@@ -472,7 +475,8 @@
     <original><w>undarleg</w></original>
     <corrected><w>undarlega</w></corrected>
       <errors>
-        <error xtype="agreement-concord" eid="0" />
+        <error xtype="nominal-inflection" idx="12-1" eid="0" />
+        <error xtype="case-prep" idx="12-1" eid="0" />
       </errors>
   </revision>
   <w>skynjun</w>
@@ -481,7 +485,8 @@
     <original><w>óvenjuleg</w></original>
     <corrected><w>óvenjulega</w></corrected>
       <errors>
-        <error xtype="agreement-concord" eid="0" />
+        <error xtype="nominal-inflection" idx="13-1" eid="0" />
+        <error xtype="case-prep" idx="13-1" eid="0" />
       </errors>
   </revision>
   <w>færni</w>
@@ -1953,7 +1958,7 @@
     <original><w>ofsafengin</w></original>
     <corrected><w>ofsafenginn</w></corrected>
       <errors>
-        <error xtype="agreement-concord" eid="0" />
+        <error xtype="n4nn" eid="0" />
       </errors>
   </revision>
   <w>áhuga</w>
