@@ -200,7 +200,8 @@
     <original><w>hundruðir</w><w>manna</w></original>
     <corrected><w>hundruð</w><w>farþega</w></corrected>
       <errors>
-        <error xtype="gendered" eid="0" />
+        <error xtype="nonword" idx="9-1" eid="0" />
+        <error xtype="gendered" idx="9-2" eid="0" />
       </errors>
   </revision>
   <w>voru</w>

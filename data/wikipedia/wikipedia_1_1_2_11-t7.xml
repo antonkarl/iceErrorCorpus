@@ -246,7 +246,7 @@
     <original><w>kalla</w></original>
     <corrected><w>kallað</w></corrected>
       <errors>
-        <error xtype="agreement-concord" eid="0" />
+        <error xtype="missing-letter" eid="0" />
       </errors>
   </revision>
   <w>Brasilía</w>
@@ -726,7 +726,7 @@
     <original><w>Fyrsta</w></original>
     <corrected><w>Fyrstu</w></corrected>
       <errors>
-        <error xtype="agreement-concord" eid="0" />
+        <error xtype="dep" depId="28-1" eid="0" />
       </errors>
   </revision>
   <w>tilraun</w>
@@ -741,7 +741,7 @@
     <original></original>
     <corrected><w>lýst</w></corrected>
       <errors>
-        <error xtype="missing-word" eid="0" />
+        <error xtype="wording" idx="28-1" eid="0" />
       </errors>
   </revision>
   <w>í</w>

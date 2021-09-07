@@ -98,7 +98,8 @@
     <original><w>ogi</w></original>
     <corrected><w>og</w></corrected>
       <errors>
-        <error xtype="nonword" eid="0" />
+        <error xtype="extra-letter" idx="0-1" eid="0" />
+        <error xtype="nonword" idx="0-1" eid="0" />
       </errors>
   </revision>
   <w>endurspeglaðist</w>

@@ -333,8 +333,8 @@
     <original><w>Sérhvert</w></original>
     <corrected><w>Sérhverju</w></corrected>
       <errors>
-        <error xtype="pro-inflection" eid="0"/>
-        <error xtype="agreement-concord" eid="0" />
+        <error xtype="nominal-inflection" idx="7-1" eid="0"/>
+        <error xtype="case-verb" idx="7-1" eid="0" />
       </errors>
   </revision>
   <w>hverfi</w>
@@ -343,8 +343,8 @@
     <original><w>klaustur</w></original>
     <corrected><w>klaustri</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
-        <error xtype="case-verb" eid="0" />
+        <error xtype="nominal-inflection" idx="8-1" eid="0"/>
+        <error xtype="case-verb" idx="8-1" eid="0" />
       </errors>
   </revision>
   <w>var</w>

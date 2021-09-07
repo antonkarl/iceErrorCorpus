@@ -728,10 +728,10 @@
     <original><w>svokallaðan</w></original>
     <corrected><w>svokallaða</w><c>„</c><w>bókarsöngleiki</w><c>“</c><c>(</c><w>e.</w></corrected>
       <errors>
-        <error xtype="agreement-concord" idx="43-1" eid="0" />
-        <error xtype="fw4ice" idx="43-2" eid="0" />
-        <error xtype="missing-quots" idx="43-3" eid="0" />
-        <error xtype="missing-bracket" idx="43-4" eid="0" />
+        <error xtype="dep" depId="43-1" eid="0" />
+        <error xtype="fw4ice" idx="43-1" eid="0" />
+        <error xtype="missing-quots" idx="43-2" eid="0" />
+        <error xtype="missing-bracket" idx="43-3" eid="0" />
       </errors>
   </revision>
   <w><hi>book</hi></w>
@@ -2768,7 +2768,7 @@
     <original><w>þeirra</w><w>þjóðfélagshópum</w></original>
     <corrected><w>þeim</w><w>þjóðfélagshópi</w></corrected>
       <errors>
-        <error xtype="agreement-concord" idx="197-1" eid="0" />
+        <error xtype="wording" idx="197-1" eid="0" />
         <error xtype="plural4singular" idx="197-2" eid="0" />
       </errors>
   </revision>

@@ -170,7 +170,7 @@
         <error xtype="missing-fin-verb" idx="9-2" eid="0" />
         <error xtype="missing-word" idx="9-2" eid="0" />
         <error xtype="adjective-inflection" idx="9-3" eid="0" />
-        <error xtype="agreement-concord" idx="9-3" eid="0" />
+        <error xtype="singular4plural" idx="9-3" eid="0" />
         <error xtype="nominal-inflection" idx="9-4" eid="0" />
         <error xtype="singular4plural" idx="9-4" eid="0" />
         <error xtype="bracket4comma" idx="9-5" eid="0" />
@@ -1167,7 +1167,7 @@
     <original><w>sérstakt</w></original>
     <corrected><w>sérstök</w></corrected>
       <errors>
-        <error xtype="agreement-concord" eid="0" />
+        <error xtype="singular4plural" eid="0" />
       </errors>
   </revision>
   <w>tungumál</w>
