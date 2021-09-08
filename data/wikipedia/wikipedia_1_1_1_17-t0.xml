@@ -449,8 +449,9 @@
     <original><w>þ.</w><w>e.</w><w>sameiginlegt</w></original>
     <corrected><w>þ.e.</w><w>sameiginlegu</w></corrected>
       <errors>
-        <error xtype="extra-space" eid="0"/>
-        <error xtype="agreement-concord" eid="0"/>
+        <error xtype="extra-space" idx="8-1" eid="0"/>
+        <error xtype="nominal-inflection" idx="8-2" eid="0"/>
+        <error xtype="case-verb" idx="8-2" eid="0"/>
       </errors>
   </revision>
   <w>ríki</w>

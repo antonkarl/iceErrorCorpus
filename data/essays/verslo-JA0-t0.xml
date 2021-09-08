@@ -814,7 +814,8 @@
     <original><w>hin</w></original>
     <corrected><w>sá</w><w>hinn</w></corrected>
       <errors>
-        <error xtype="agreement-concord" eid="0"/>
+        <error xtype="n4nn" idx="26-1" eid="0"/>
+        <error xtype="missing-dem-pro" idx="26-2" eid="0"/>
       </errors>
   </revision>
   <w>sami</w>
@@ -1112,7 +1113,7 @@
     <original><w>hin</w></original>
     <corrected><w>hinn</w></corrected>
       <errors>
-        <error xtype="agreement-concord" eid="0"/>
+        <error xtype="n4nn" eid="0"/>
       </errors>
   </revision>
   <w>fullkomna</w>
