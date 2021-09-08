@@ -189,10 +189,7 @@
     <original><w>þjóðarbrotana</w></original>
     <corrected><w>þjóðarbrotanna</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" idx="4-1" eid="0" />
-        <error xtype="case-prep" idx="4-1" eid="0" />
-        <error xtype="genitive" idx="4-1" eid="0" />
-        <error xtype="n4nn" idx="4-1" eid="0" />
+        <error xtype="n4nn" eid="0" />
       </errors>
   </revision>
   <revision id="4b">
@@ -205,7 +202,13 @@
   <w>sem</w>
   <w>voru</w>
   <w>í</w>
-  <w>ríkistjórn</w>
+  <revision id="4c">
+    <original><w>ríkistjórn</w></original>
+    <corrected><w>ríkisstjórn</w></corrected>
+      <errors>
+        <error xtype="compound-collocation" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
   <revision id="5">
     <original><w>tútsa</w></original>
@@ -361,9 +364,7 @@
     <original><w>þjóðarmorðana</w></original>
     <corrected><w>þjóðarmorðanna</w></corrected>
       <errors>
-        <error xtype="n4nn" idx="17-1" eid="0" />
-        <error xtype="nominal-inflection" idx="17-1" eid="0" />
-        <error xtype="genitive" idx="17-1" eid="0" />
+        <error xtype="n4nn" eid="0" />
       </errors>
   </revision>
   <c>.</c>

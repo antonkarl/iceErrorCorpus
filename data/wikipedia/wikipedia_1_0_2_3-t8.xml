@@ -585,8 +585,7 @@
     <original><w>Tyrkjaveldi</w></original>
     <corrected><w>Tyrkjaveldis</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
-        <error xtype="genitive" eid="0" />
+        <error xtype="gen-escape" eid="0" />
       </errors>
   </revision>
   <c>.</c>

@@ -343,16 +343,19 @@
     <original><w>Belgana</w></original>
     <corrected><w>Belganna</w></corrected>
       <errors>
-        <error xtype="n4nn" idx="17-1" eid="0" />
-        <error xtype="nominal-inflection" idx="17-1" eid="0" />
-        <error xtype="genitive" idx="17-1" eid="0" />
+        <error xtype="n4nn" eid="0" />
       </errors>
   </revision>
   <w>og</w>
   <w>Fellaini</w>
   <w>fékk</w>
-  <w>ágætis</w>
-  <w>skallafæri</w>
+  <revision id="17b">
+    <original><w>ágætis</w><w>skallafæri</w></original>
+    <corrected><w>ágætisskallafæri</w></corrected>
+      <errors>
+        <error xtype="split-compound" eid="0" />
+      </errors>
+  </revision>
   <w>stuttu</w>
   <w>síðar</w>
   <c>.</c>

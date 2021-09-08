@@ -22,22 +22,16 @@
   <w>hefur</w>
   <w>lokið</w>
   <w>fjármögnun</w>
+  <w>upp</w>
   <revision id="1">
-    <original><w>upp</w></original>
-    <corrected></corrected>
+    <original></original>
+    <corrected><w>á</w></corrected>
       <errors>
-        <error xtype="extra-word" eid="0" />
+        <error xtype="missing-prep" eid="0" />
       </errors>
   </revision>
   <w>680</w>
-  <revision id="2">
-    <original><w>milljónir</w></original>
-    <corrected><w>milljóna</w></corrected>
-      <errors>
-        <error xtype="nominal-inflection" eid="0" />
-        <error xtype="genitive" eid="0" />
-      </errors>
-  </revision>
+  <w>milljónir</w>
   <w>króna</w>
   <w>og</w>
   <w>voru</w>

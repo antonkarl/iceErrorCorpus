@@ -15,13 +15,8 @@
 </teiHeader>
 <text><body><p n="1">
 <s n="0">
-  <revision id="1">
-    <original><w>Steven</w><w>Caulker</w></original>
-    <corrected><w>Steven</w><w>Caulker</w><c>,</c><w>sem</w><w>er</w><w>tvítugur</w><w>miðvörður</w><c>,</c></corrected>
-      <errors>
-        <error xtype="wording" idx="1-1" eid="0" />
-      </errors>
-  </revision>
+  <w>Steven</w>
+  <w>Caulker</w>
   <w>skrifaði</w>
   <w>í</w>
   <w>dag</w>
@@ -44,8 +39,7 @@
     <original><w>Þór</w></original>
     <corrected><w>Þórs</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" idx="2-1" eid="0" />
-        <error xtype="genitive" idx="2-1" eid="0" />
+        <error xtype="gen-escape" eid="0" />
       </errors>
   </revision>
   <w>Sigurðssonar</w>

@@ -352,32 +352,35 @@
   <w>sem</w>
   <w>var</w>
   <w>ráðgjafi</w>
-  <w>Schumacher</w>
-  <w>fjölskyldunnar</w>
+  <revision id="9b">
+    <original><w>Schumacher</w><w>fjölskyldunnar</w></original>
+    <corrected><w>Schumacher-fjölskyldunnar</w></corrected>
+      <errors>
+        <error xtype="missing-hyphen" eid="0" />
+      </errors>
+  </revision>
   <w>á</w>
   <w>fyrstu</w>
   <w>stigum</w>
   <w>meðferðar</w>
   <revision id="10">
-    <original><w>Michael</w></original>
-    <corrected><w>Michaels</w></corrected>
+    <original><w>Michael</w><w>Schumacher</w></original>
+    <corrected><w>Michaels</w><w>Schumachers</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0" />
-        <error xtype="genitive" eid="0" />
+        <error xtype="foreign-name" idx="10-1" eid="0" />
+        <error xtype="gen-escape" idx="10-1" eid="0" />
       </errors>
   </revision>
-  <w>Schumacher</w>
   <c>,</c>
   <w>er</w>
   <w>væntanlegur</w>
   <w>á</w>
-  <w>Mie</w>
-  <w>sjúkrahúsið</w>
   <revision id="11">
-    <original><c>,</c></original>
-    <corrected></corrected>
+    <original><w>Mie</w><w>sjúkrahúsið</w><c>,</c></original>
+    <corrected><w>Mie-sjúkrahúsið</w></corrected>
       <errors>
-        <error xtype="extra-comma" eid="0" />
+        <error xtype="missing-hyphen" idx="11-1" eid="0" />
+        <error xtype="extra-comma" idx="11-2" eid="0" />
       </errors>
   </revision>
   <w>þar</w>

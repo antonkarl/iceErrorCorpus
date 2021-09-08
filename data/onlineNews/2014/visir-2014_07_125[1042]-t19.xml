@@ -240,9 +240,15 @@
   <w>voru</w>
   <w>myrtir</w>
   <w>hinn</w>
-  <w>12 júní</w>
-  <w>síðast</w>
-  <w>liðinn</w>
+  <revision id="0">
+    <original><w>12 júní</w><w>síðast</w><w>liðinn</w></original>
+    <corrected><w>12. júní</w><w>síðastliðinn</w></corrected>
+      <errors>
+        <error xtype="missing-period" idx="0-1" eid="0" />
+        <error xtype="abbreviation-period" idx="0-1" eid="0" />
+        <error xtype="split-word" idx="0-2" eid="0" />
+      </errors>
+  </revision>
   <w>við</w>
   <w>landamærin</w>
   <w>að</w>
@@ -269,8 +275,7 @@
     <original><w>ungmenn</w></original>
     <corrected><w>ungmenna</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0" />
-        <error xtype="genitive" eid="0" />
+        <error xtype="gen-escape" eid="0" />
       </errors>
   </revision>
   <w>drap</w>

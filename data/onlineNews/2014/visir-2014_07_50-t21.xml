@@ -1991,9 +1991,7 @@
     <original><w>gestana</w></original>
     <corrected><w>gestanna</w></corrected>
       <errors>
-        <error xtype="missing-letter" idx="40-1" eid="0" />
-        <error xtype="nominal-inflection" idx="40-1" eid="0" />
-        <error xtype="genitive" idx="40-1" eid="0" />
+        <error xtype="n4nn" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -2974,8 +2972,7 @@
     <original><w>kvennalandsliðinu</w></original>
     <corrected><w>kvennalandsliðsins</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0" />
-        <error xtype="genitive" eid="0" />
+        <error xtype="gen-escape" eid="0" />
       </errors>
   </revision>
   <w>á</w>

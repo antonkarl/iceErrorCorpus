@@ -2033,8 +2033,7 @@
     <original><w>plötufyrirtæki</w></original>
     <corrected><w>plötufyrirtækis</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0" />
-        <error xtype="genitive" eid="0" />
+        <error xtype="gen-escape" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
@@ -2051,13 +2050,11 @@
   <w>þar</w>
   <w>á</w>
   <w>meðal</w>
-  <w>var</w>
   <revision id="57">
-    <original><w>síðpönkarinn</w></original>
+    <original><w>var</w><w>síðpönkarinn</w></original>
     <corrected><w>síðpönkarann</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0" />
-        <error xtype="case-verb" eid="0" />
+        <error xtype="wording" eid="0" />
       </errors>
   </revision>
   <w>Nick</w>
@@ -2068,14 +2065,12 @@
   <w>Þegar</w>
   <w>ferill</w>
   <revision id="58">
-    <original><w>Purrkur</w></original>
-    <corrected><w>Purrks</w></corrected>
+    <original><w>Purrkur</w><w>Pillnikk</w></original>
+    <corrected><w>Purrks</w><w>Pillnikks</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0" />
-        <error xtype="genitive" eid="0" />
+        <error xtype="gen-escape" eid="0" />
       </errors>
   </revision>
-  <w>Pillnikk</w>
   <w>var</w>
   <w>á</w>
   <w>enda</w>

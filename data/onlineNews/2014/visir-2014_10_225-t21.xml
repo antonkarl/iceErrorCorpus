@@ -16,7 +16,14 @@
 <text><body><p n="1">
 <s n="1">
   <w>Fyrirliðatíð</w>
-  <w>Watson</w>
+  <revision id="0">
+    <original><w>Watson</w></original>
+    <corrected><w>Watsons</w></corrected>
+      <errors>
+        <error xtype="gen-escape" idx="0-1" eid="0"/>
+        <error xtype="foreign-name" idx="0-1" eid="0"/>
+      </errors>
+  </revision>
   <w>var</w>
   <w>ekki</w>
   <w>góð</w>
@@ -63,8 +70,8 @@
     <original><w>Watson</w></original>
     <corrected><w>Watsons</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
-        <error xtype="genitive" eid="0" />
+        <error xtype="gen-escape" idx="4-1" eid="0" />
+        <error xtype="foreign-name" idx="4-1" eid="0"/>
       </errors>
   </revision>
   <w>eins</w>
@@ -97,8 +104,8 @@
     <original><w>Ted</w><w>Bishop</w></original>
     <corrected><w>Teds</w><w>Bishops</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
-        <error xtype="genitive" eid="0" />
+        <error xtype="foreign-name" idx="5-1" eid="0"/>
+        <error xtype="gen-escape" idx="5-1" eid="0" />
       </errors>
   </revision>
   <w>voru</w>
@@ -190,13 +197,12 @@
   <w>hafa</w>
   <w>svarað</w>
   <w>gagnrýni</w>
-  <w>Ian</w>
   <revision id="10">
-    <original><w>Poulter</w></original>
-    <corrected><w>Poulters</w></corrected>
+    <original><w>Ian</w><w>Poulter</w></original>
+    <corrected><w>Ians</w><w>Poulters</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
-        <error xtype="genitive" eid="0" />
+        <error xtype="foreign-name" idx="10-1" eid="0"/>
+        <error xtype="gen-escape" idx="10-1" eid="0" />
       </errors>
   </revision>
   <w>á</w>
@@ -365,8 +371,8 @@
     <original><w>Bishop</w></original>
     <corrected><w>Bishops</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
-        <error xtype="genitive" eid="0" />
+        <error xtype="foreign-name" idx="23-1" eid="0"/>
+        <error xtype="gen-escape" idx="23-1" eid="0" />
       </errors>
   </revision>
   <w>þóttu</w>

@@ -102,9 +102,21 @@
   <w>Á</w>
   <w>fjórða</w>
   <w>þúsund</w>
-  <w>kennarar</w>
+  <revision id="2b">
+    <original><w>kennarar</w></original>
+    <corrected><w>kennara</w></corrected>
+      <errors>
+        <error xtype="gen-escape" eid="0" />
+      </errors>
+  </revision>
   <w>og</w>
-  <w>sérfræðingar</w>
+  <revision id="2c">
+    <original><w>sérfræðingar</w></original>
+    <corrected><w>sérfræðinga</w></corrected>
+      <errors>
+        <error xtype="gen-escape" eid="0" />
+      </errors>
+  </revision>
   <w>starfa</w>
   <w>við</w>
   <w>skólann</w>
@@ -116,8 +128,7 @@
     <original><w>nemendur</w></original>
     <corrected><w>nemenda</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0" />
-        <error xtype="genitive" eid="0" />
+        <error xtype="gen-escape" eid="0" />
       </errors>
   </revision>
   <w>stunda</w>
