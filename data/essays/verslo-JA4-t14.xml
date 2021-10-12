@@ -170,8 +170,7 @@
     <original><w>Sigmunds</w></original>
     <corrected><w>Sigmundar</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
-        <error xtype="genitive" eid="0" />
+        <error xtype="nonword" eid="0"/>
       </errors>
   </revision>
   <c>:</c>
@@ -1820,8 +1819,7 @@
     <original><w>Sigmunds</w></original>
     <corrected><w>Sigmundar</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
-        <error xtype="genitive" eid="0" />
+        <error xtype="nonword" eid="0"/>
       </errors>
   </revision>
   <w>segja</w>
@@ -2814,7 +2812,7 @@
     <corrected><w>sjálftrausts</w></corrected>
       <errors>
         <error xtype="nominal-inflection" idx="106-1" eid="0"/>
-        <error xtype="genitive" idx="106-1" eid="0"/>
+        <error xtype="gen-escape" idx="106-1" eid="0"/>
       </errors>
   </revision>
   <w>nú</w>
