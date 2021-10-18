@@ -244,7 +244,14 @@
   <w>með</w>
   <w>hann</w>
   <w>á</w>
-  <w>spítalanum</w>
+   <revision id="11b">
+    <original><w>spítalanum</w></original>
+    <corrected><w>spítalann</w></corrected>
+      <errors>
+        <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="case-prep" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="10">
   <w>Hann</w>
