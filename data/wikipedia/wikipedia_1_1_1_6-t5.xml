@@ -544,7 +544,13 @@
   </revision>
   <w>er</w>
   <w>lögð</w>
-  <w>er</w>
+    <revision id="19b">
+    <original><w>er</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="repeat-word-split" eid="0"/>
+      </errors>
+  </revision>
   <w>stund</w>
   <w>á</w>
   <w>leiklist</w>
