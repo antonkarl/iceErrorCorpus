@@ -187,15 +187,19 @@
 </s><s n="4">
   <w>Eftir</w>
   <w>að</w>
-  <w>klára</w>
   <revision id="17">
-    <original><w>jafn-toppur</w></original>
-    <corrected><w>deildina</w><w>jafnt</w></corrected>
+    <original><w>klára</w><w>jafn-toppur</w><w>með</w></original>
+    <corrected><w>hafa</w><w>klárað</w><w>deildina</w><w>með</w><w>jafn</w><w>mörg</w><w>stig</w><w>og</w></corrected>
       <errors>
+        <error xtype="missing-fin-verb" idx="17-1" eid="0"/>
+        <error xtype="verb-inflection" idx="17-2" eid="0"/>
+        <error xtype="missing-word" idx="17-3" eid="0"/>
+        <error xtype="extra-word" idx="17-4" eid="0"/>
+        <error xtype="nonword" idx="17-4" eid="0"/>
+        <error xtype="wording" idx="17-5" eid="0"/>
         <error xtype="wording" eid="0"/>
       </errors>
   </revision>
-  <w>með</w>
   <w>Dumbarton</w>
   <revision id="18">
     <original><c>,</c><w>umspili</w><w>haldin</w></original>
