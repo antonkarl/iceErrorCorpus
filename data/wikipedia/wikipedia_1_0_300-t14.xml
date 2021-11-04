@@ -2562,7 +2562,7 @@
     <original><w>fullyrðið</w></original>
     <corrected><w>fullyrðir</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0" />
+        <error xtype="agreement-sub" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -5784,12 +5784,17 @@
   <w>tuttugustu</w>
   <w>öldina</w>
   <revision id="206">
-    <original><w>höfðu</w><w>Saud</w><w>fjölskyldan</w></original>
-    <corrected><w>hafði</w><w>Saud-fjölskyldan</w></corrected>
+    <original><w>höfðu</w></original>
+    <corrected><w>hafði</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0" />
-        <error xtype="split-compound" idx="206-1" eid="0" />
-        <error xtype="missing-hyphen" idx="206-1" eid="0" />
+        <error xtype="agreement-subpost" eid="0" />
+      </errors>
+  </revision>
+  <revision id="206b">
+    <original><w>Saud</w><w>fjölskyldan</w></original>
+    <corrected><w>Saud-fjölskyldan</w></corrected>
+      <errors>
+        <error xtype="missing-hyphen" eid="0" />
       </errors>
   </revision>
   <w>lagt</w>
@@ -5800,8 +5805,7 @@
     <original><w>Najd</w><w>svæðið</w></original>
     <corrected><w>Najd-svæðið</w></corrected>
       <errors>
-        <error xtype="split-compound" idx="207-1" eid="0" />
-        <error xtype="missing-hyphen" idx="207-1" eid="0" />
+        <error xtype="missing-hyphen" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -6075,7 +6079,7 @@
     <original></original>
     <corrected><w>Drúsar</w><c>(</c><w>e.</w></corrected>
       <errors>
-        <error xtype="fw4ice" eid="0" />
+        <error xtype="fw4ice" idx="222-1" eid="0" />
         <error xtype="missing-bracket" eid="0" />
       </errors>
   </revision>
@@ -6085,7 +6089,7 @@
     <corrected><c>)</c><w>eiga</w></corrected>
       <errors>
         <error xtype="missing-bracket" eid="0" />
-        <error xtype="agreement" eid="0" />
+        <error xtype="dep" depId="222-1" eid="0" />
       </errors>
   </revision>
   <w>uppruna</w>
@@ -6943,7 +6947,7 @@
     <original><w>múslímskum</w></original>
     <corrected><w>múslímsku</w></corrected>
       <errors>
-        <error xtype="agreement-concord" eid="0" />
+        <error xtype="adjective-inflection" eid="0" />
       </errors>
   </revision>
   <w>trúarhreyfingunum</w>

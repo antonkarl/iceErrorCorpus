@@ -170,7 +170,7 @@
         <error xtype="missing-fin-verb" idx="9-2" eid="0" />
         <error xtype="missing-word" idx="9-2" eid="0" />
         <error xtype="adjective-inflection" idx="9-3" eid="0" />
-        <error xtype="agreement-concord" idx="9-3" eid="0" />
+        <error xtype="singular4plural" idx="9-3" eid="0" />
         <error xtype="nominal-inflection" idx="9-4" eid="0" />
         <error xtype="singular4plural" idx="9-4" eid="0" />
         <error xtype="bracket4comma" idx="9-5" eid="0" />
@@ -856,10 +856,16 @@
   <w>landsins</w>
   <revision id="26">
     <original><w>eru</w></original>
-    <corrected><w>er</w><w>ein</w><w>stór</w></corrected>
+    <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="agreement" idx="26-1" eid="0" />
-        <error xtype="missing-words" idx="26-2" eid="0" />
+        <error xtype="agreement-sub" eid="0" />
+      </errors>
+  </revision>
+  <revision id="26b">
+    <original></original>
+    <corrected><w>ein</w><w>stór</w></corrected>
+      <errors>
+        <error xtype="missing-words" eid="0" />
       </errors>
   </revision>
   <w>gresja</w>
@@ -1161,7 +1167,7 @@
     <original><w>sérstakt</w></original>
     <corrected><w>sérstök</w></corrected>
       <errors>
-        <error xtype="agreement-concord" eid="0" />
+        <error xtype="singular4plural" eid="0" />
       </errors>
   </revision>
   <w>tungumál</w>

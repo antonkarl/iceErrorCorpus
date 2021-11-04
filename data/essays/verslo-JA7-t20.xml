@@ -657,11 +657,17 @@
   <w>annað</w>
   <w>og</w>
   <revision id="7">
-    <original><w>það</w><w>sé</w></original>
+    <original><w>það</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="7b">
+    <original><w>sé</w></original>
     <corrected><w>séu</w></corrected>
       <errors>
-        <error xtype="extra-word" idx="9-1" eid="0"/>
-        <error xtype="agreement" idx="9-1" eid="0"/>
+        <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
   <w>hinir</w>

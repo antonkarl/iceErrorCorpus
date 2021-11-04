@@ -96,7 +96,7 @@
     <original></original>
     <corrected><w>Hljómsveitin</w></corrected>
       <errors>
-        <error xtype="missing-sub" eid="0" />
+        <error xtype="wording" eid="0" />
       </errors>
   </revision>
   <w>Pops</w>
@@ -108,7 +108,7 @@
     <original><w>komu</w></original>
     <corrected><w>kom</w><w>tónlist</w><w>hennar</w></corrected>
       <errors>
-        <error xtype="agreement" idx="2-1" eid="0" />
+        <error xtype="dep" depId="2-2" eid="0" />
         <error xtype="missing-sub" idx="2-2" eid="0" />
       </errors>
   </revision>

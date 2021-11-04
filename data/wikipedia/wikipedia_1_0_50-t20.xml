@@ -245,7 +245,13 @@
   <w>50</w>
   <w>nefndir</w>
   <w>og</w>
-  <w>hundruðir</w>
+  <revision id="7b">
+    <original><w>hundruðir</w></original>
+    <corrected><w>hundruð</w></corrected>
+      <errors>
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
   <w>nemenda</w>
   <revision id="8">
     <original></original>

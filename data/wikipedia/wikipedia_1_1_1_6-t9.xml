@@ -55,7 +55,7 @@
     <original><w>reyndust</w></original>
     <corrected><w>reyndist</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0"/>
+        <error xtype="agreement-subpost" eid="0"/>
       </errors>
   </revision>
   <w>vera</w>
@@ -414,8 +414,7 @@
     <original><w>eru</w><w>Ford-verksmiðjur</w></original>
     <corrected><w>er</w><w>Ford</w></corrected>
       <errors>
-        <error xtype="agreement" idx="11-1" eid="0"/>
-        <error xtype="wording" idx="11-2" eid="0"/>
+        <error xtype="wording" idx="11-1" eid="0"/>
       </errors>
   </revision>
   <w>en</w>
@@ -424,7 +423,7 @@
     <corrected><w>í</w><w>verksmiðjum</w><w>þess</w></corrected>
       <errors>
         <error xtype="wording" idx="12-1" eid="0"/>
-        <error xtype="dep" depId="11-2" eid="0"/>
+        <error xtype="dep" depId="11-1" eid="0"/>
       </errors>
   </revision>
   <w>starfa</w>

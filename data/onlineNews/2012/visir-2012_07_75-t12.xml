@@ -42,7 +42,13 @@
   <w>laxveiðanna</w>
   <w>í</w>
   <w>Borgarbyggð</w>
-  <c>;</c>
+  <revision id="1">
+    <original><c>;</c></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="semicolon4comma" eid="0" />
+      </errors>
+  </revision>
   <w>bein</w>
   <c>,</c>
   <w>óbein</w>
@@ -51,10 +57,16 @@
   <w>áhrif</w>
   <c>,</c>
   <revision id="3">
-    <original><w>eru</w><w>áætluð</w></original>
-    <corrected><w>er</w><w>áætlað</w></corrected>
+    <original><w>eru</w></original>
+    <corrected><w>er</w></corrected>
       <errors>
         <error xtype="agreement" eid="0" />
+      </errors>
+  </revision>
+  <revision id="3b">
+    <original><w>áætluð</w></original>
+    <corrected><w>áætlað</w></corrected>
+      <errors>
         <error xtype="agreement-pred" eid="0" />
       </errors>
   </revision>
@@ -225,10 +237,16 @@
   <w>áhrif</w>
   <c>,</c>
   <revision id="11">
-    <original><w>eru</w><w>áætluð</w></original>
-    <corrected><w>er</w><w>áætlað</w></corrected>
+    <original><w>eru</w></original>
+    <corrected><w>er</w></corrected>
       <errors>
         <error xtype="agreement" eid="0" />
+      </errors>
+  </revision>
+  <revision id="11b">
+    <original><w>áætluð</w></original>
+    <corrected><w>áætlað</w></corrected>
+      <errors>
         <error xtype="agreement-pred" eid="0" />
       </errors>
   </revision>

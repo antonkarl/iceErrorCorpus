@@ -64,11 +64,17 @@
   <w>mínum</w>
   <w>félögum</w>
   <revision id="3">
-    <original><w>höfðum</w></original>
-    <corrected><c>,</c><w>hafði</w></corrected>
+    <original></original>
+    <corrected><c>,</c></corrected>
       <errors>
         <error xtype="dep" depId="13-1" eid="0"/>
-        <error xtype="agreement" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="3b">
+    <original><w>höfðum</w></original>
+    <corrected><w>hafði</w></corrected>
+      <errors>
+        <error xtype="agreement-sub" eid="0"/>
       </errors>
   </revision>
   <w>tekið</w>
@@ -271,7 +277,7 @@
     <original><w>vill</w></original>
     <corrected><w>vil</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0"/>
+        <error xtype="agreement-subpost" eid="0"/>
       </errors>
   </revision>
   <w>ég</w>
@@ -682,8 +688,7 @@
     <original><w>undanfarinn</w></original>
     <corrected><w>undanfarin</w></corrected>
       <errors>
-        <error xtype="agreement-concord" idx="34-1" eid="0"/>
-        <error xtype="nn4n" idx="34-1" eid="0"/>
+        <error xtype="nn4n" eid="0"/>
       </errors>
   </revision>
   <w>fjögur</w>

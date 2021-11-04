@@ -320,10 +320,16 @@
   <w>og</w>
   <w>frambolurinn</w>
   <revision id="7">
-    <original><w>er</w><w>samvaxinn</w></original>
-    <corrected><w>eru</w><w>samvaxin</w></corrected>
+    <original><w>er</w></original>
+    <corrected><w>eru</w></corrected>
       <errors>
         <error xtype="agreement" eid="0" />
+      </errors>
+  </revision>
+  <revision id="7b">
+    <original><w>samvaxinn</w></original>
+    <corrected><w>samvaxin</w></corrected>
+      <errors>
         <error xtype="agreement-pred" eid="0" />
       </errors>
   </revision>
@@ -332,7 +338,7 @@
     <original><w>myndar</w></original>
     <corrected><w>mynda</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0" />
+        <error xtype="agreement-conj" eid="0" />
       </errors>
   </revision>
   <w>höfuðbol</w>
@@ -1758,7 +1764,7 @@
     <original><w>enginn</w><w>eggja</w><w>framleiðsla</w></original>
     <corrected><w>engin</w><w>eggjaframleiðsla</w></corrected>
       <errors>
-        <error xtype="agreement-concord" idx="55-1" eid="0" />
+        <error xtype="nn4n" idx="55-1" eid="0" />
         <error xtype="split-compound" idx="55-2" eid="0" />
       </errors>
   </revision>

@@ -328,7 +328,7 @@
   <w>stuttmyndin</w>
   <revision id="15">
     <original><w>Red´s</w><w>Dream</w></original>
-    <corrected><w><hi>Red´s</hi></w><w><hi>Dream</hi></w></corrected>
+    <corrected><w><hi>Red's</hi></w><w><hi>Dream</hi></w></corrected>
       <errors>
         <error xtype="nonit4it" eid="0" />
       </errors>
@@ -366,7 +366,7 @@
     <corrected><w>manneskju</w><w>sáust</w></corrected>
       <errors>
         <error xtype="wording" idx="18-1" eid="0" />
-        <error xtype="agreement" idx="18-2" eid="0" />
+        <error xtype="pres4past" idx="18-2" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -1724,7 +1724,7 @@
     <original><w>kjósa</w><w>stærstu</w><w>kvikmyndagerðamenn</w></original>
     <corrected><w>kýs</w><w>stærsta</w><w>kvikmyndargerðafólk</w></corrected>
       <errors>
-        <error xtype="agreement" idx='108-1' eid="0" />
+        <error xtype="dep" depId="108-2" eid="0" />
         <error xtype="dep" depId="108-2" eid="0" />
         <error xtype="gendered" idx="108-2" eid="0" />
       </errors>

@@ -33,8 +33,13 @@
   <w>séð</w>
   <w>á</w>
   <w>afleiðingum</w>
-  <w>Icesave</w>
-  <w>samkomulagsins</w>
+  <revision id="0">
+    <original><w>Icesave</w><w>samkomulagsins</w></original>
+    <corrected><w>Icesave-samkomulagsins</w></corrected>
+      <errors>
+        <error xtype="missing-hyphen" eid="0" />
+      </errors>
+  </revision>
   <w>séu</w>
   <w>gallaðir</w>
   <c>.</c>
@@ -197,11 +202,17 @@
   <w>sem</w>
   <w>landið</w>
   <revision id="4">
-    <original><w>munu</w><w>hljóta</w></original>
-    <corrected><w>mun</w><w>verða</w><w>fyrir</w></corrected>
+    <original><w>munu</w></original>
+    <corrected><w>mun</w></corrected>
       <errors>
-        <error xtype="agreement" idx="4-1" eid="0" />
-        <error xtype="wording" idx="4-2" eid="0" />
+        <error xtype="agreement" eid="0" />
+      </errors>
+  </revision>
+  <revision id="4b">
+    <original><w>hljóta</w></original>
+    <corrected><w>verða</w><w>fyrir</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0" />
       </errors>
   </revision>
   <w>fresti</w>

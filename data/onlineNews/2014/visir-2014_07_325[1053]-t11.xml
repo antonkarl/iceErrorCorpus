@@ -563,12 +563,12 @@
   <w>þorp</w>
   <w>Palestínumanna</w>
   <c>,</c>
-  <w>hundruðir</w>
   <revision id="6">
-    <original><w>manns</w></original>
-    <corrected><w>manna</w></corrected>
+    <original><w>hundruðir</w><w>manns</w></original>
+    <corrected><w>hundruð</w><w>manna</w></corrected>
       <errors>
-        <error xtype="singular4plural" eid="0" />
+        <error xtype="nonword" idx="6-1" eid="0" />
+        <error xtype="singular4plural" idx="6-2" eid="0" />
       </errors>
   </revision>
   <w>hafa</w>

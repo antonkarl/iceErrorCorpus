@@ -51,12 +51,18 @@
   <w>á</w>
   <w>fyrstu</w>
   <w>þáttaröðinni</w>
-  <w>þáttaröðinni</w>
+  <revision id="1b">
+    <original><w>þáttaröðinni</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="repeat-word" eid="0"/>
+      </errors>
+  </revision>
   <revision id="2">
     <original><w>hófst</w></original>
     <corrected><w>hófust</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0"/>
+        <error xtype="agreement-sub" eid="0"/>
       </errors>
   </revision>
   <w>þann</w>

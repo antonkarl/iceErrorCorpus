@@ -157,7 +157,7 @@
     <original><w>er</w></original>
     <corrected><w>eru</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0"/>
+        <error xtype="agreement-sub" eid="0"/>
       </errors>
   </revision>
   <w>enn</w>
@@ -2639,7 +2639,7 @@
     <corrected><w>Rússlandi</w><w>hefur</w></corrected>
       <errors>
         <error xtype="dep" depId="93-1" eid="0"/>
-        <error xtype="agreement" eid="0"/>
+        <error xtype="dep" depId="115-1" eid="0"/>
         <error xtype="act4pass" idx="115-1" eid="0"/>
       </errors>
   </revision>

@@ -483,11 +483,17 @@
   <w>þar</w>
   <w>sem</w>
   <revision id="42">
-    <original><w>notaðir</w><w>eru</w></original>
-    <corrected><w>notaður</w><w>er</w></corrected>
+    <original><w>notaðir</w></original>
+    <corrected><w>notaður</w></corrected>
       <errors>
         <error xtype="agreement-pred" eid="0"/>
-        <error xtype="agreement" eid="0" />
+      </errors>
+  </revision>
+  <revision id="42b">
+    <original><w>eru</w></original>
+    <corrected><w>er</w></corrected>
+      <errors>
+        <error xtype="agreement-subpost" eid="0" />
       </errors>
   </revision>
   <w>hlýr</w>
@@ -821,11 +827,17 @@
   <w>Special</w>
   <w>D.</w>
   <revision id="64">
-    <original><w>Goa</w><w>trance</w><w>eiga</w></original>
-    <corrected><w>Goa-trans</w><w>á</w></corrected>
+    <original><w>Goa</w><w>trance</w></original>
+    <corrected><w>Goa-trans</w></corrected>
       <errors>
         <error xtype="missing-hyphen" idx="50-1" eid="0"/>
         <error xtype="fw4ice" idx="50-1" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="64b">
+    <original><w>eiga</w></original>
+    <corrected><w>á</w></corrected>
+      <errors>
         <error xtype="agreement" eid="0"/>
       </errors>
   </revision>

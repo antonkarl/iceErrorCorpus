@@ -188,8 +188,7 @@
     <original><w>sjálfum</w></original>
     <corrected><w>sjálfu</w></corrected>
       <errors>
-        <error xtype="agreement-concord" idx="20b-1" eid="0"/>
-        <error xtype="extra-letter" idx="20b-1" eid="0"/>
+        <error xtype="agreement-pro" eid="0"/>
       </errors>
   </revision>
   <w>sér</w>
@@ -536,7 +535,7 @@
     <original><w>viðurkenna</w></original>
     <corrected><w>viðurkennir</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0"/>
+        <error xtype="agreement-sub" eid="0"/>
       </errors>
   </revision>
   <w>samkynhneigð</w>
@@ -551,7 +550,8 @@
     <original><w>viðurkenna</w><w>þau</w></original>
     <corrected><w>viðurkennir</w><w>það</w></corrected>
       <errors>
-        <error xtype="agreement-pro" eid="0"/>
+        <error xtype="dep" depId="21-1" eid="0"/>
+        <error xtype="agreement-pro" idx="21-1" eid="0"/>
       </errors>
   </revision>
   <w>þá</w>

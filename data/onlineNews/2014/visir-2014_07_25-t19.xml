@@ -240,7 +240,13 @@
 </s>
 <s n="11">
   <w>Konur</w>
-  <w>er</w>
+  <revision id="5b">
+    <original><w>er</w></original>
+    <corrected><w>eru</w></corrected>
+      <errors>
+        <error xtype="agreement-sub" eid="0" />
+      </errors>
+  </revision>
   <w>líka</w>
   <w>sendar</w>
   <w>hingað</w>
@@ -258,7 +264,7 @@
     <original><w>er</w></original>
     <corrected><w>eru</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0" />
+        <error xtype="agreement-subpost" eid="0" />
       </errors>
   </revision>
   <w>yfirleitt</w>
@@ -400,14 +406,7 @@
   <w>algjörlega</w>
   <w>markaður</w>
   <w>fyrir</w>
-  <revision id="10">
-    <original><w>slíka</w></original>
-    <corrected><w>slíkri</w></corrected>
-      <errors>
-        <error xtype="agreement-concord" idx="10-1" eid="0" />
-        <error xtype="adjective-inflection" idx="10-1" eid="0" />
-      </errors>
-  </revision>
+  <w>slíka</w>
   <w>þjónustu</w>
   <w>á</w>
   <w>Íslandi</w>

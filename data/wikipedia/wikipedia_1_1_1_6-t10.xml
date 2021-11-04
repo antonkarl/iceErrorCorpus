@@ -597,11 +597,17 @@
   <w>en</w>
   <w>þeir</w>
   <revision id="46">
-    <original><w>hefði</w><w>vitað</w></original>
-    <corrected><w>hefðu</w><w>verið</w></corrected>
+    <original><w>hefði</w></original>
+    <corrected><w>hefðu</w></corrected>
       <errors>
-        <error xtype="agreement" idx="44-1" eid="0"/>
-        <error xtype="wording" idx="44-2" eid="0"/>
+        <error xtype="agreement-sub" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="46b">
+    <original><w>vitað</w></original>
+    <corrected><w>verið</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
       </errors>
   </revision>
   <w>svo</w>

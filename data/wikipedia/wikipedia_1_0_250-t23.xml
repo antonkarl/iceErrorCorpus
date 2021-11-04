@@ -34,12 +34,18 @@
   <w>helmingur</w>
   <w>landsmanna</w>
   <revision id="1">
-    <original><w>eru</w><w>múslimar</w></original>
-    <corrected><w>er</w><w>íslamstrúar</w></corrected>
+    <original><w>eru</w></original>
+    <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="agreement" idx="23-1" eid="0"/>
-        <error xtype="wording" idx="23-2" eid="0"/>
-        <error xtype="taboo-word" idx="23-2" eid="0"/>
+        <error xtype="agreement" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="1b">
+    <original><w>múslimar</w></original>
+    <corrected><w>íslamstrúar</w></corrected>
+      <errors>
+        <error xtype="wording" idx="1b-1" eid="0"/>
+        <error xtype="taboo-word" idx="1b-1" eid="0"/>
       </errors>
   </revision>
   <c>,</c>

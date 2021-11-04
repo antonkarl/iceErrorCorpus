@@ -1511,8 +1511,8 @@
     <original><w>efnuði</w></original>
     <corrected><w>efnuðu</w></corrected>
       <errors>
-        <error xtype="adjective-inflection" eid="0"/>
-        <error xtype="agreement-concord" eid="0"/>
+        <error xtype="letter-rep" idx="52-1" eid="0"/>
+        <error xtype="nonword" idx="52-1" eid="0"/>
       </errors>
   </revision>
   <w>fólki</w>
@@ -2488,7 +2488,7 @@
     <original><w>þróaðir</w></original>
     <corrected><w>þróaði</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0"/>
+        <error xtype="agreement-sub" eid="0"/>
       </errors>
   </revision>
   <w>kenningar</w>

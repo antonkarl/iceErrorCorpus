@@ -462,11 +462,18 @@
   <w>sex</w>
   <w>æfingar</w>
   <revision id="15">
-    <original><w>er</w><w>byggar</w></original>
-    <corrected><w>eru</w><w>byggðar</w></corrected>
+    <original><w>er</w></original>
+    <corrected><w>eru</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0" />
-        <error xtype="agreement-pred" eid="0" />
+        <error xtype="agreement-sub" eid="0" />
+      </errors>
+  </revision>
+  <revision id="15b">
+    <original><w>byggar</w></original>
+    <corrected><w>byggðar</w></corrected>
+      <errors>
+        <error xtype="missing-letter" eid="0" />
+        <error xtype="nonword" eid="0" />
       </errors>
   </revision>
   <w>á</w>

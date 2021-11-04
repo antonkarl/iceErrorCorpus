@@ -62,7 +62,6 @@
         <error xtype="split-word" eid="0"/>
       </errors>
   </revision>
-  <w>iðnarstörfum</w>
   <revision id="2a">
     <original><w>iðnarstörfum</w></original>
     <corrected><w>iðnaðarstörfum</w></corrected>
@@ -70,7 +69,6 @@
         <error xtype="missing-letters" eid="0"/>
       </errors>
   </revision>
-
   <w>hefur</w>
   <revision id="3">
     <original><w>vakið</w><w>mikinn</w></original>
@@ -309,10 +307,16 @@
   <w>til</w>
   <w>Íslands</w>
   <revision id="15">
-    <original><w>eru</w><w>menntaðir</w></original>
-    <corrected><w>er</w><w>menntaður</w></corrected>
+    <original><w>eru</w></original>
+    <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0"/>
+        <error xtype="agreement-sub" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="15b">
+    <original><w>menntaðir</w></original>
+    <corrected><w>menntaður</w></corrected>
+      <errors>
         <error xtype="agreement-pred" eid="0" />
       </errors>
   </revision>
@@ -620,7 +624,7 @@
     <original><w>er</w></original>
     <corrected><w>eru</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0"/>
+        <error xtype="agreement-sub" eid="0"/>
       </errors>
   </revision>
   <w>mun</w>
@@ -823,7 +827,7 @@
     <original><w>er</w></original>
     <corrected><w>eru</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0"/>
+        <error xtype="agreement-sub" eid="0"/>
       </errors>
   </revision>
   <w>í</w>
@@ -1124,7 +1128,7 @@
     <original><w>komu</w></original>
     <corrected><w>kom</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0"/>
+        <error xtype="agreement-sub" eid="0"/>
       </errors>
   </revision>
   <w>í</w>

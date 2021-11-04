@@ -728,10 +728,10 @@
     <original><w>svokallaðan</w></original>
     <corrected><w>svokallaða</w><c>„</c><w>bókarsöngleiki</w><c>“</c><c>(</c><w>e.</w></corrected>
       <errors>
-        <error xtype="agreement-concord" idx="43-1" eid="0" />
-        <error xtype="fw4ice" idx="43-2" eid="0" />
-        <error xtype="missing-quots" idx="43-3" eid="0" />
-        <error xtype="missing-bracket" idx="43-4" eid="0" />
+        <error xtype="dep" depId="43-1" eid="0" />
+        <error xtype="fw4ice" idx="43-1" eid="0" />
+        <error xtype="missing-quots" idx="43-2" eid="0" />
+        <error xtype="missing-bracket" idx="43-3" eid="0" />
       </errors>
   </revision>
   <w><hi>book</hi></w>
@@ -2768,7 +2768,7 @@
     <original><w>þeirra</w><w>þjóðfélagshópum</w></original>
     <corrected><w>þeim</w><w>þjóðfélagshópi</w></corrected>
       <errors>
-        <error xtype="agreement-concord" idx="197-1" eid="0" />
+        <error xtype="wording" idx="197-1" eid="0" />
         <error xtype="plural4singular" idx="197-2" eid="0" />
       </errors>
   </revision>
@@ -3561,11 +3561,17 @@
   <w>hjá</w>
   <w>áhorfendum</w>
   <revision id="250">
-    <original><w>eru</w><w>Littla</w><w>Hryllingsbúðin</w></original>
-    <corrected><w>er</w><w><hi>Litla</hi></w><w><hi>hryllingsbúðin</hi></w></corrected>
+    <original><w>eru</w></original>
+    <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="agreement" idx="250-1" eid="0" />
-        <error xtype="nonit4it" idx="250-2" eid="0" />
+        <error xtype="agreement" eid="0" />
+      </errors>
+  </revision>
+  <revision id="250b">
+    <original><w>Littla</w><w>Hryllingsbúðin</w></original>
+    <corrected><w><hi>Litla</hi></w><w><hi>hryllingsbúðin</hi></w></corrected>
+      <errors>
+        <error xtype="nonit4it" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
@@ -4000,7 +4006,7 @@
     <original><w>er</w></original>
     <corrected><w>eru</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0" />
+        <error xtype="agreement-sub" eid="0" />
       </errors>
   </revision>
   <w>eftir</w>
@@ -4702,12 +4708,18 @@
   <w>svo</w>
   <w>heillandi</w>
   <revision id="322">
-    <original><w>eru</w><w>fjölbreytileinn</w></original>
-    <corrected><w>er</w><w>fjölbreytileikinn</w></corrected>
+    <original><w>eru</w></original>
+    <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="agreement" idx="322-1" eid="0" />
-        <error xtype="missing-letters" idx="322-2" eid="0" />
-        <error xtype="nonword" idx="322-2" eid="0" />
+        <error xtype="agreement" eid="0" />
+      </errors>
+  </revision>
+  <revision id="322b">
+    <original><w>fjölbreytileinn</w></original>
+    <corrected><w>fjölbreytileikinn</w></corrected>
+      <errors>
+        <error xtype="missing-letters" idx="322b-1" eid="0" />
+        <error xtype="nonword" idx="322b-1" eid="0" />
       </errors>
   </revision>
   <w>sem</w>

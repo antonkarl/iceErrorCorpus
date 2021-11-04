@@ -856,7 +856,8 @@
     <original><w>vill</w></original>
     <corrected><w>vil</w></corrected>
       <errors>
-        <error xtype="agreement" idx="33-1" eid="0"/>
+        <error xtype="agreement-sub" idx="33-1" eid="0"/>
+        <error xtype="want" idx="33-1" eid="0"/>
       </errors>
   </revision>
   <w>lifa</w>

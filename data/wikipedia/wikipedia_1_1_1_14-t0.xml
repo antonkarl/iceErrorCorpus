@@ -1212,11 +1212,17 @@
   <c>-</c>
   <w>2002</w>
   <revision id="31">
-    <original><c>,</c><w>kom</w></original>
-    <corrected><w>og</w><w>komu</w></corrected>
+    <original><c>,</c></original>
+    <corrected><w>og</w></corrected>
       <errors>
-        <error xtype="comma4conjunction" idx="12-1" eid="0"/>
-        <error xtype="agreement" idx="12-2" eid="0"/>
+        <error xtype="comma4conjunction" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="31b">
+    <original><w>kom</w></original>
+    <corrected><w>komu</w></corrected>
+      <errors>
+        <error xtype="agreement-subpost" eid="0"/>
       </errors>
   </revision>
   <w>í</w>

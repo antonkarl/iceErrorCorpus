@@ -19,11 +19,17 @@
   <w>nokkra</w>
   <w>áratugi</w>
   <revision id="1">
-    <original><w>þá</w><w>eiga</w></original>
+    <original><w>þá</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="1b">
+    <original><w>eiga</w></original>
     <corrected><w>á</w></corrected>
       <errors>
-        <error xtype="extra-word" idx="8-1" eid="0"/>
-        <error xtype="agreement" idx="8-2" eid="0"/>
+        <error xtype="agreement-subpost" eid="0"/>
       </errors>
   </revision>
   <w>þálifandi</w>
@@ -1018,10 +1024,16 @@
   <w>bensíni</w>
   <c>,</c>
   <revision id="49">
-    <original><w>eru</w><w>komnir</w></original>
-    <corrected><w>er</w><w>kominn</w></corrected>
+    <original><w>eru</w></original>
+    <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0"/>
+        <error xtype="agreement-sub" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="49b">
+    <original><w>komnir</w></original>
+    <corrected><w>kominn</w></corrected>
+      <errors>
         <error xtype="agreement-pred" eid="0" />
       </errors>
   </revision>

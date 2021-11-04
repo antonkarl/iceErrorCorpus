@@ -672,7 +672,7 @@
     <original><w>er</w></original>
     <corrected><w>eru</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0"/>
+        <error xtype="agreement-subpost" eid="0"/>
       </errors>
   </revision>
   <w>á</w>
@@ -1319,6 +1319,7 @@
       <errors>
         <error xtype="missing-semicolon" idx="63-1" eid="0"/>
         <error xtype="def4ind" idx="63-2" eid="0"/>
+        <error xtype="plural4singular" idx="63-2" eid="0"/>
       </errors>
   </revision>
   <w>fyrir</w>
@@ -1329,7 +1330,7 @@
     <original><w>eru</w></original>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0"/>
+        <error xtype="dep" depId="63-2" eid="0"/>
       </errors>
   </revision>
   <w>frá</w>
@@ -1350,8 +1351,7 @@
     <original><w>heilann</w></original>
     <corrected><w>heilan</w></corrected>
       <errors>
-        <error xtype="nn4n" idx="66-1" eid="0"/>
-        <error xtype="agreement-concord" idx="66-1" eid="0"/>
+        <error xtype="nn4n" eid="0"/>
       </errors>
   </revision>
   <w>frosinn</w>

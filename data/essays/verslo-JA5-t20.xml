@@ -338,10 +338,16 @@
   <w>ekki</w>
   <w>öllum</w>
   <revision id="4">
-    <original><w>þykja</w></original>
-    <corrected><c>,</c><w>þykir</w></corrected>
+    <original></original>
+    <corrected><c>,</c></corrected>
       <errors>
         <error xtype="dep" depId="4-1" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="4b">
+    <original><w>þykja</w></original>
+    <corrected><w>þykir</w></corrected>
+      <errors>
         <error xtype="agreement" eid="0"/>
       </errors>
   </revision>

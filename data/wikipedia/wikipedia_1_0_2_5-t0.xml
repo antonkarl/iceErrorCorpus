@@ -497,7 +497,7 @@
     <original><w>hafði</w></original>
     <corrected><w>höfðu</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0"/>
+        <error xtype="agreement-sub" eid="0"/>
       </errors>
   </revision>
   <w>öðruvísi</w>
@@ -1484,7 +1484,7 @@
     <original><w>mikla</w></original>
     <corrected><w>mikillar</w></corrected>
       <errors>
-        <error xtype="agreement-concord" eid="0"/>
+        <error xtype="gen-escape" eid="0"/>
       </errors>
   </revision>
   <w>velgengni</w>

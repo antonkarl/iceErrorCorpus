@@ -342,10 +342,16 @@
   <w>helmingur</w>
   <w>þeirra</w>
   <revision id="15">
-    <original><w>eru</w><w>rómversk-kaþólskir</w></original>
-    <corrected><w>er</w><w>rómversk-kaþólskur</w></corrected>
+    <original><w>eru</w></original>
+    <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0"/>
+        <error xtype="agreement-sub" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="15b">
+    <original><w>rómversk-kaþólskir</w></original>
+    <corrected><w>rómversk-kaþólskur</w></corrected>
+      <errors>
         <error xtype="agreement-pred" eid="0" />
       </errors>
   </revision>

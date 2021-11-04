@@ -44,12 +44,11 @@
   <w>síðasta</w>
   <w>mánuði</w>
   <w>að</w>
-  <w>þau</w>
   <revision id="1">
-    <original><w>væri</w></original>
-    <corrected><w>væru</w></corrected>
+    <original><w>þau</w></original>
+    <corrected><w>það</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0" />
+        <error xtype="agreement-pro" eid="0" />
       </errors>
   </revision>
   <w>að</w>

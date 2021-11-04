@@ -124,20 +124,24 @@
     <original><w>hefur</w></original>
     <corrected><w>hafa</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0" />
+        <error xtype="wording" idx="3-1" eid="0" />
       </errors>
   </revision>
   <w>nú</w>
   <w>selst</w>
-  <w>í</w>
+  <revision id="3b">
+    <original><w>í</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="dep" depId="3-1" eid="0" />
+      </errors>
+  </revision>
   <w>rúmlega</w>
   <revision id="4">
     <original><w>11 milljón</w><w>eintökum</w></original>
     <corrected><w>11</w><w>milljónir</w><w>eintaka</w></corrected>
       <errors>
-        <error xtype="agreement-concord" idx="4-1" eid="0" />
-        <error xtype="nominal-inflection" idx="4-2" eid="0" />
-        <error xtype="genitive" idx="4-2" eid="0" />
+        <error xtype="dep" depId="3-1" eid="0" />
       </errors>
   </revision>
   <c>.</c>

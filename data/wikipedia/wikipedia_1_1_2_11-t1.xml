@@ -929,10 +929,16 @@
   <w>viðarhólkar</w>
   <w>sem</w>
   <revision id="53">
-    <original><w>eru</w><w>slegnir</w></original>
-    <corrected><w>er</w><w>slegið</w></corrected>
+    <original><w>eru</w></original>
+    <corrected><w>er</w></corrected>
       <errors>
         <error xtype="agreement" eid="0" />
+      </errors>
+  </revision>
+  <revision id="53b">
+    <original><w>slegnir</w></original>
+    <corrected><w>slegið</w></corrected>
+      <errors>
         <error xtype="agreement-pred" eid="0" />
       </errors>
   </revision>
@@ -1731,7 +1737,7 @@
     <original><w>er</w></original>
     <corrected><w>eru</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0" />
+        <error xtype="agreement-sub" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -1984,7 +1990,7 @@
     <original><w>er</w></original>
     <corrected><w>eru</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0" />
+        <error xtype="agreement-subpost" eid="0" />
       </errors>
   </revision>
   <w>hljóðfærin</w>

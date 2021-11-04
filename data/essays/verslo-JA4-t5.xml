@@ -594,7 +594,7 @@
     <original><w>kom</w></original>
     <corrected><w>koma</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0"/>
+        <error xtype="agreement-subpost" eid="0"/>
       </errors>
   </revision>
   <w>bylgjur</w>
@@ -679,22 +679,10 @@
   <w>og</w>
   <w>umhyggja</w>
   <w>sem</w>
-  <revision id="23">
-    <original><w>fylgja</w></original>
-    <corrected><w>fylgir</w></corrected>
-      <errors>
-        <error xtype="agreement" eid="0"/>
-      </errors>
-  </revision>
+  <w>fylgja</w>
   <w>afkvæmum</w>
   <w>okkar</w>
-  <revision id="24">
-    <original><w>hafa</w></original>
-    <corrected><w>hefur</w></corrected>
-      <errors>
-        <error xtype="agreement" eid="0"/>
-      </errors>
-  </revision>
+  <w>hafa</w>
   <w>orðið</w>
   <w>undir</w>
   <w>í</w>

@@ -1474,7 +1474,7 @@
     <original><w>tældu</w></original>
     <corrected><w>tældi</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0" />
+        <error xtype="agreement-sub" eid="0" />
       </errors>
   </revision>
   <w>áheyrendur</w>
@@ -1618,8 +1618,13 @@
   <w>meðlima</w>
   <w>við</w>
   <w>ensku</w>
-  <w>síðpönk</w>
-  <w>sveitina</w>
+  <revision id="40c">
+    <original><w>síðpönk</w><w>sveitina</w></original>
+    <corrected><w>síðpönksveitina</w></corrected>
+      <errors>
+        <error xtype="split-compound" eid="0" />
+      </errors>
+  </revision>
   <w>Killing</w>
   <w>Joke</w>
   <w>spratt</w>
@@ -1645,7 +1650,7 @@
     <original><w>hættu</w></original>
     <corrected><w>hætti</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0" />
+        <error xtype="agreement-subpost" eid="0" />
       </errors>
   </revision>
   <w>Þeyr</w>
@@ -2198,7 +2203,8 @@
     <original><w>erlenda</w></original>
     <corrected><w>erlendri</w></corrected>
       <errors>
-        <error xtype="agreement-concord" eid="0" />
+        <error xtype="nominal-inflection" idx="66-1" eid="0" />
+        <error xtype="case-prep" idx="66-1" eid="0" />
       </errors>
   </revision>
   <w>grundu</w>

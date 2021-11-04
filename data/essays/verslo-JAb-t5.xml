@@ -21,7 +21,7 @@
     <original><w>hafa</w></original>
     <corrected><w>hefur</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0"/>
+        <error xtype="agreement-sub" eid="0"/>
       </errors>
   </revision>
   <w>enga</w>
@@ -32,7 +32,7 @@
     <original><w>þurfa</w></original>
     <corrected><w>þarf</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0"/>
+        <error xtype="agreement-sub" eid="0"/>
       </errors>
   </revision>
   <w>stundum</w>
@@ -257,7 +257,7 @@
     <original><w>þurfa</w></original>
     <corrected><w>þarf</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0"/>
+        <error xtype="agreement-conj" eid="0"/>
       </errors>
   </revision>
   <w>því</w>
@@ -498,7 +498,7 @@
     <original><w>hafa</w></original>
     <corrected><w>hefur</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0"/>
+        <error xtype="agreement-conj" eid="0"/>
       </errors>
   </revision>
   <w>haft</w>
@@ -1238,7 +1238,7 @@
     <corrected><w>myndi</w><w>engin</w></corrected>
       <errors>
         <error xtype="u4y" idx="12-1" eid="0"/>
-        <error xtype="agreement-concord" eid="0"/>
+        <error xtype="nn4n" idx="12-2" eid="0"/>
       </errors>
   </revision>
   <w>menntun</w>

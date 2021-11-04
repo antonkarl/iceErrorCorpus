@@ -1811,10 +1811,16 @@
   <w>Hér</w>
   <revision id="61">
     <original><w>er</w></original>
-    <corrected><w>eru</w><w>tækifærin</w></corrected>
+    <corrected><w>eru</w></corrected>
       <errors>
-        <error xtype="agreement" idx="53-1" eid="0"/>
-        <error xtype="wording" idx="53-2" eid="0"/>
+        <error xtype="agreement-subpost" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="61b">
+    <original></original>
+    <corrected><w>tækifærin</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
       </errors>
   </revision>
   <w>þó</w>

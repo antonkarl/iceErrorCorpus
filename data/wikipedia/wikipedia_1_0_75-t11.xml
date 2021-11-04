@@ -823,10 +823,16 @@
   <w>hreyfa</w>
   <w>sig</w>
   <revision id="40">
-    <original><w>eru</w><w>einstakar</w></original>
-    <corrected><w>er</w><w>einstök</w></corrected>
+    <original><w>eru</w></original>
+    <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0" />
+        <error xtype="agreement-sub" eid="0" />
+      </errors>
+  </revision>
+  <revision id="40b">
+    <original><w>einstakar</w></original>
+    <corrected><w>einstök</w></corrected>
+      <errors>
         <error xtype="agreement-pred" eid="0" />
       </errors>
   </revision>

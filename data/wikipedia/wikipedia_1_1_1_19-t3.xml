@@ -479,7 +479,8 @@
     <original><w>fjóru</w></original>
     <corrected><w>fjórum</w></corrected>
       <errors>
-        <error xtype="agreement-concord" eid="0"/>
+        <error xtype="missing-letter" idx="19-1" eid="0"/>
+        <error xtype="nonword" idx="19-1" eid="0"/>
       </errors>
   </revision>
   <w>hliðum</w>

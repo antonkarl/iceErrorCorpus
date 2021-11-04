@@ -388,8 +388,8 @@
     <original><w>austur</w></original>
     <corrected><w>eystri</w></corrected>
       <errors>
-        <error xtype="adjective-inflection" eid="0"/>
-        <error xtype="agreement-concord" eid="0" />
+        <error xtype="split-compound" idx="13-1" eid="0"/>
+        <error xtype="wording" idx="13-1" eid="0" />
       </errors>
   </revision>
   <w>arminum</w>
@@ -463,8 +463,8 @@
     <original><w>vestur</w></original>
     <corrected><w>vestri</w></corrected>
       <errors>
-        <error xtype="adjective-inflection" eid="0"/>
-        <error xtype="agreement-concord" eid="0" />
+        <error xtype="split-compound" idx="17-1" eid="0"/>
+        <error xtype="wording" idx="17-1" eid="0" />
       </errors>
   </revision>
   <w>arminum</w>
@@ -1098,7 +1098,7 @@
     <original><w>eru</w></original>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0"/>
+        <error xtype="agreement-sub" eid="0"/>
       </errors>
   </revision>
   <w>36</w>

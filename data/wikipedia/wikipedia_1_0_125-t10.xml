@@ -29,10 +29,16 @@
   </revision>
   <w><hi>Altocumulus</hi></w>
   <revision id="2">
-    <original><c>)</c><w>eru</w></original>
-    <corrected><c>,</c><w>er</w></corrected>
+    <original><c>)</c></original>
+    <corrected><c>,</c></corrected>
       <errors>
         <error xtype="bracket4comma" eid="0" />
+      </errors>
+  </revision>
+  <revision id="2b">
+    <original><w>eru</w></original>
+    <corrected><w>er</w></corrected>
+      <errors>
         <error xtype="agreement" eid="0" />
       </errors>
   </revision>

@@ -269,7 +269,7 @@
     <original><w>Á</w><w>sumum</w><w>stöðum</w></original>
     <corrected><w>Sumir</w><w>staðir</w></corrected>
       <errors>
-        <error xtype="wording" eid="0"/>
+        <error xtype="wording" idx="7-1" eid="0"/>
       </errors>
   </revision>
   <w>í</w>
@@ -278,8 +278,7 @@
     <original><w>er</w><w>yfirfullt</w></original>
     <corrected><w>eru</w><w>yfirfullir</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0"/>
-        <error xtype="agreement-pred" eid="0" />
+        <error xtype="dep" depId="7-1" eid="0"/>
       </errors>
   </revision>
   <w>af</w>
@@ -561,13 +560,7 @@
   <w>þeim</w>
   <w>innflytjendum</w>
   <w>sem</w>
-  <revision id="16">
-    <original><w>koma</w></original>
-    <corrected><w>kemur</w></corrected>
-      <errors>
-        <error xtype="agreement" eid="0"/>
-      </errors>
-  </revision>
+  <w>koma</w>
   <w>hingað</w>
   <w>til</w>
   <w>landsins</w>
@@ -575,7 +568,7 @@
     <original><w>eru</w></original>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0"/>
+        <error xtype="agreement-sub" eid="0"/>
       </errors>
   </revision>
   <w>frá</w>

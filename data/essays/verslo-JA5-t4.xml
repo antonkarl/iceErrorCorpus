@@ -52,10 +52,17 @@
   </revision>
   <w>ég</w>
   <revision id="2">
-    <original><w>vill</w><w>til</w></original>
+    <original><w>vill</w></original>
     <corrected><w>vil</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0"/>
+        <error xtype="agreement-sub" idx="2-1" eid="0"/>
+        <error xtype="want" idx="2-1" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="2b">
+    <original><w>til</w></original>
+    <corrected></corrected>
+      <errors>
         <error xtype="extra-word" eid="0"/>
       </errors>
   </revision>
@@ -1101,10 +1108,17 @@
   <w>heimilisvenjur</w>
   <w>sem</w>
   <revision id="23">
-    <original><w>að</w><w>hentar</w></original>
-    <corrected><w>henta</w></corrected>
+    <original><w>að</w></original>
+    <corrected></corrected>
       <errors>
         <error xtype="extra-conjunction" idx="17-1" eid="0"/>
+        <error xtype="style" idx="17-1" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="23b">
+    <original><w>hentar</w></original>
+    <corrected><w>henta</w></corrected>
+      <errors>
         <error xtype="agreement" eid="0"/>
       </errors>
   </revision>

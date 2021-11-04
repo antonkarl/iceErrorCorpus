@@ -294,10 +294,16 @@
   <w>brjóstaaðgerða</w>
   <w>stafi</w>
   <revision id="5">
-    <original><c>.</c><w>Það</w><w>séu</w></original>
-    <corrected><c>,</c><w>það</w><w>sé</w></corrected>
+    <original><c>.</c><w>Það</w></original>
+    <corrected><c>,</c><w>það</w></corrected>
       <errors>
         <error xtype="period4comma" eid="0" />
+      </errors>
+  </revision>
+  <revision id="5b">
+    <original><w>séu</w></original>
+    <corrected><w>sé</w></corrected>
+      <errors>
         <error xtype="agreement" eid="0" />
       </errors>
   </revision>

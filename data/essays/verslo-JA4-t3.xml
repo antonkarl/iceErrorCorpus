@@ -1426,7 +1426,7 @@
     <original><w>var</w></original>
     <corrected><w>voru</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0"/>
+        <error xtype="agreement-subpost" eid="0"/>
       </errors>
   </revision>
   <w>einungis</w>
@@ -1711,8 +1711,7 @@
     <original><w>vöru</w></original>
     <corrected><w>vörur</w></corrected>
       <errors>
-        <error xtype="singular4plural" idx="68-1" eid="0"/>
-        <error xtype="agreement-concord" idx="68-1" eid="0"/>
+        <error xtype="singular4plural" eid="0"/>
       </errors>
   </revision>
   <c>,</c>

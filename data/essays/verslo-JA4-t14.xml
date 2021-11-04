@@ -1604,9 +1604,9 @@
     <original><w>Takmörk</w><w>hugargetu</w></original>
     <corrected><w>Takmörkum</w><w>getu</w><w>hugans</w></corrected>
       <errors>
-        <error xtype="agreement-concord" idx="81-1" eid="0"/>
+        <error xtype="nominal-inflection" idx="81-1" eid="0"/>
+        <error xtype="case-verb" idx="81-1" eid="0"/>
         <error xtype="wording" idx="81-2" eid="0"/>
-        <error xtype="case-verb" idx="81-2" eid="0"/>
       </errors>
   </revision>
   <w>hefur</w>
@@ -3210,7 +3210,7 @@
     <original><w>sinn</w><w>gæfusmiður</w></original>
     <corrected><w>sinnar</w><w>gæfu</w><w>smiður</w></corrected>
       <errors>
-        <error xtype="agreement-concord" idx="123-1" eid="0"/>
+        <error xtype="collocation-idiom" idx="123-1" eid="0"/>
         <error xtype="merged-words" idx="123-1" eid="0"/>
       </errors>
   </revision>
@@ -3419,8 +3419,8 @@
     <original><w>augun</w><w>á</w></original>
     <corrected><w>augu</w></corrected>
       <errors>
-        <error xtype="def4ind" eid="0"/>
-        <error xtype="extra-word" eid="0"/>
+        <error xtype="def4ind" idx="120-1" eid="0"/>
+        <error xtype="extra-word" idx="120-2" eid="0"/>
       </errors>
   </revision>
   <w>mótherja</w>
@@ -3428,7 +3428,7 @@
     <original><w>sínum</w></original>
     <corrected><w>síns</w></corrected>
       <errors>
-        <error xtype="agreement-concord" eid="0"/>
+        <error xtype="dep" depId="120-2" eid="0"/>
       </errors>
   </revision>
   <c>.</c>

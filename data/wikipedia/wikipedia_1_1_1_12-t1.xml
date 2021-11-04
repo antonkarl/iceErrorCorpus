@@ -421,7 +421,8 @@
     <original><w>bókstaflegri</w></original>
     <corrected><w>bókstaflega</w></corrected>
       <errors>
-        <error xtype="agreement-concord" eid="0" />
+        <error xtype="nominal-inflection" idx="16-1" eid="0" />
+        <error xtype="case-prep" idx="16-1" eid="0" />
       </errors>
   </revision>
   <w>túlkun</w>
@@ -579,7 +580,7 @@
     <original><w>unni</w></original>
     <corrected><w>unnu</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0" />
+        <error xtype="verb-inflection" eid="0" />
       </errors>
   </revision>
   <w>sem</w>
@@ -1000,7 +1001,7 @@
     <original><w>hafa</w></original>
     <corrected><w>hefur</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0" />
+        <error xtype="agreement-subpost" eid="0" />
       </errors>
   </revision>
   <w>bæst</w>

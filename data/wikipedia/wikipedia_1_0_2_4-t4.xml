@@ -557,10 +557,16 @@
   <w>ásamt</w>
   <w>Verzlunarskólablaðinu</w>
   <revision id="26">
-    <original><w>gáfu</w></original>
-    <corrected><c>,</c><w>gaf</w></corrected>
+    <original></original>
+    <corrected><c>,</c></corrected>
       <errors>
         <error xtype="missing-comma" eid="0"/>
+      </errors>
+  </revision>
+  <revision id="26b">
+    <original><w>gáfu</w></original>
+    <corrected><w>gaf</w></corrected>
+      <errors>
         <error xtype="agreement" eid="0"/>
       </errors>
   </revision>
@@ -1387,9 +1393,9 @@
   <w>og</w>
   <revision id="45">
     <original><w>hundruðir</w></original>
-    <corrected><w>hundruði</w></corrected>
+    <corrected><w>hundruð</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
+        <error xtype="nonword" eid="0"/>
       </errors>
   </revision>
   <w>nemenda</w>

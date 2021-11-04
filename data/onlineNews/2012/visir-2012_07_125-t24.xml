@@ -304,7 +304,7 @@
     <original></original>
     <corrected><w>hvert</w></corrected>
       <errors>
-        <error xtype="dep" depId="7-2" eid="0" />
+        <error xtype="dep" depId="7-1" eid="0" />
       </errors>
   </revision>
   <w>í</w>
@@ -312,8 +312,7 @@
     <original><w>sitt</w><w>hvoru</w></original>
     <corrected><w>sínu</w></corrected>
       <errors>
-        <error xtype="agreement-concord" idx="7-1" eid="0" />
-        <error xtype="wording" idx="7-2" eid="0" />
+        <error xtype="each" idx="7-1" eid="0" />
       </errors>
   </revision>
   <w>horninu</w>

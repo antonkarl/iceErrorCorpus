@@ -3161,11 +3161,17 @@
   </revision>
   <w>sem</w>
   <revision id="128">
-    <original><w>er</w><w>bólgu</w><w>valdandi</w></original>
-    <corrected><w>eru</w><w>bólguvaldandi</w></corrected>
+    <original><w>er</w></original>
+    <corrected><w>eru</w></corrected>
       <errors>
-        <error xtype="agreement" idx="128-1" eid="0" />
-        <error xtype="split-compound" idx="128-2" eid="0" />
+        <error xtype="agreement" eid="0" />
+      </errors>
+  </revision>
+  <revision id="128b">
+    <original><w>bólgu</w><w>valdandi</w></original>
+    <corrected><w>bólguvaldandi</w></corrected>
+      <errors>
+        <error xtype="split-compound" eid="0" />
       </errors>
   </revision>
   <c>)</c>

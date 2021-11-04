@@ -337,8 +337,7 @@
     <original><w>undanfarin</w></original>
     <corrected><w>undanfarinn</w></corrected>
       <errors>
-        <error xtype="n4nn" idx="18-1" eid="0" />
-        <error xtype="agreement-concord" idx="18-1" eid="0" />
+        <error xtype="n4nn" eid="0" />
       </errors>
   </revision>
   <w>áratug</w>
@@ -652,12 +651,18 @@
   <w>ef</w>
   <w>merkingar</w>
   <revision id="35">
-    <original><w>vanta</w><w>þá</w></original>
+    <original><w>vanta</w></original>
     <corrected><w>vantar</w></corrected>
       <errors>
         <error xtype="agreement" eid="0" />
-        <error xtype="extra-word" idx="35-1" eid="0" />
-        <error xtype="style" idx="35-1" eid="0" />
+      </errors>
+  </revision>
+  <revision id="35b">
+    <original><w>þá</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" idx="35b-1" eid="0" />
+        <error xtype="style" idx="35b-1" eid="0" />
       </errors>
   </revision>
   <w>er</w>

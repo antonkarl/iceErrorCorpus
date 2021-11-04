@@ -180,13 +180,7 @@
   <w>Jarðvinna</w>
   <w>og</w>
   <w>mannvirkjagerð</w>
-  <revision id="3">
-    <original><w>séu</w></original>
-    <corrected><w>sé</w></corrected>
-      <errors>
-        <error xtype="agreement" eid="0" />
-      </errors>
-  </revision>
+  <w>séu</w>
   <w>í</w>
   <w>fullum</w>
   <w>gangi</w>
@@ -357,7 +351,7 @@
     <original><w>eru</w></original>
     <corrected><w>er</w></corrected>
       <errors>
-        <error xtype="agreement" eid="0" />
+        <error xtype="agreement-sub" eid="0" />
       </errors>
   </revision>
   <w>komin</w>

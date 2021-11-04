@@ -149,7 +149,8 @@
     <original><w>einni</w></original>
     <corrected><w>eina</w></corrected>
       <errors>
-        <error xtype="agreement-concord" eid="0"/>
+        <error xtype="nominal-inflection" idx="6-1" eid="0"/>
+        <error xtype="case-prep" idx="6-1" eid="0"/>
       </errors>
   </revision>
   <w>sambandsstjórn</w>

@@ -89,19 +89,13 @@
   <w>byggðakjarna</w>
   <w>sem</w>
   <w>stundum</w>
-  <revision id="3">
-    <original><w>eru</w></original>
-    <corrected><w>er</w></corrected>
-      <errors>
-        <error xtype="agreement" eid="0"/>
-      </errors>
-  </revision>
+  <w>eru</w>
   <w>langt</w>
   <revision id="4">
     <original><w>frá</w><w>hver</w><w>öðrum</w></original>
-    <corrected><w>á</w><w>milli</w></corrected>
+    <corrected><w>hver</w><w>frá</w><w>öðrum</w></corrected>
       <errors>
-        <error xtype="wording" eid="0"/>
+        <error xtype="each" eid="0"/>
       </errors>
   </revision>
   <c>.</c>

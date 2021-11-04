@@ -1193,8 +1193,7 @@
     <original><w>mikla</w></original>
     <corrected><w>mikilli</w></corrected>
       <errors>
-        <error xtype="adjective-inflection" eid="0"/>
-        <error xtype="agreement-concord" eid="0" />
+        <error xtype="dep" depId="24-2" eid="0"/>
       </errors>
   </revision>
   <w>loftun</w>
