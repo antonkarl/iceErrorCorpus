@@ -177,17 +177,18 @@
   <w>árlega</w>
   <w>berist</w>
   <w>þrjár</w>
+    <revision id="5b">
+    <original><w>samskonar</w></original>
+    <corrected><w>sams</w><w>konar</w></corrected>
+      <errors>
+        <error xtype="merged-words" eid="0" />
+        <error xtype="nonword" eid="0" />
+      </errors>
+  </revision>
   <w>samskonar</w>
   <w>tilkynningar</w>
   <w>til</w>
-  <revision id="5">
-    <original><w>sín</w></original>
-    <corrected><w>þeirra</w></corrected>
-      <errors>
-        <error xtype="reflexive4pro" idx="5-1" eid="0" />
-        <error xtype="singular4plural" idx="5-1" eid="0" />
-      </errors>
-  </revision>
+  <w>sín</w>
   <w>og</w>
   <w>telur</w>
   <w>hún</w>

@@ -1466,12 +1466,20 @@
   <w>halda</w>
   <w>henni</w>
   <w>hreinni</w>
-  <w>þá</w>
+    <revision id="41b">
+    <original><w>þá</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0"/>
+        <error xtype="style" eid="0"/>
+      </errors>
+  </revision>
   <revision id="42">
     <original><w>sé</w></original>
-    <corrected><w>verði</w></corrected>
+    <corrected><w>verður</w></corrected>
       <errors>
         <error xtype="aux" eid="0"/>
+        <error xtype="sub4ind" eid="0"/>
       </errors>
   </revision>
   <w>hægt</w>

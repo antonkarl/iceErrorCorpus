@@ -715,7 +715,14 @@
   </revision>
   <w>forseti</w>
   <w>tveggja</w>
-  <w>stóra</w>
+    <revision id="50-b">
+    <original><w>stóra</w></original>
+    <corrected><w>stórra</w></corrected>
+      <errors>
+        <error xtype="agreement-concord" idx="50b-1" eid="0"/>
+        <error xtype="adjective-inflection" idx="50b-1" eid="0"/>
+      </errors>
+  </revision>
   <revision id="51">
     <original><w>iðnaðarfyrirtækjar</w></original>
     <corrected><w>iðnaðarfyrirtækja</w></corrected>

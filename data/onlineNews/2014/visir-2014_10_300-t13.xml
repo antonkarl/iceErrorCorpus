@@ -531,10 +531,13 @@
   <w>liðinu</w>
   <w>og</w>
   <w>við</w>
-  <w>vorum</w>
-  <w>yfirleitt</w>
-  <w>að</w>
-  <w>leiða</w>
+    <revision id="32b">
+    <original><w>vorum</w><w>yfirleitt</w><w>að</w><w>leiða</w></original>
+    <corrected><w>leiddum</w><w>yfirleitt</w></corrected>
+      <errors>
+        <error xtype="cont4simple" eid="0"/>
+      </errors>
+  </revision>
   <w>leikina</w>
   <revision id="30">
     <original><c>,</c></original>

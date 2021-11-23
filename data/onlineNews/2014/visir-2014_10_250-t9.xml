@@ -113,26 +113,22 @@
   <c>.</c>
 </s>
 <s n="5">
-  <w>Ástand</w>
+ <w>Ástand</w>
   <w>konunnar</w>
   <w>er</w>
   <w>sagt</w>
   <w>í</w>
   <w>jafnvægi</w>
   <w>og</w>
-  <revision id="2b">
-    <original><w>náið</w><w>er</w></original>
-    <corrected></corrected>
-      <errors>
-        <error xtype="v3" idx="2b-1" eid="0" />
-      </errors>
-  </revision>
+  <w>náið</w>
+  <w>er</w>
   <w>fylgst</w>
   <revision id="2c">
     <original><w>er</w><w>náið</w></original>
     <corrected></corrected>
       <errors>
-        <error xtype="dep" depId="2b-1" eid="0" />
+        <error xtype="repeat-word-split" idx="2c-1" eid="0" />
+        <error xtype="repeat-word-split" idx="2c-2" eid="0" />
       </errors>
   </revision>
   <w>með</w>
