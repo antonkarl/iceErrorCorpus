@@ -168,7 +168,13 @@
   <w>hún</w>
   <w>er</w>
   <w>ekki</w>
-  <w>kominn</w>
+   <revision id="9b">
+    <original><w>kominn</w></original>
+    <corrected><w>komin</w></corrected>
+      <errors>
+        <error xtype="agreement-pred" eid="0"/>
+      </errors>
+  </revision>
   <w>niður</w>
   <w>fyrir</w>
   <revision id="10">

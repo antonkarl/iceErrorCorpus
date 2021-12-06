@@ -967,13 +967,7 @@
       </errors>
   </revision>
   <w>menn</w>
-  <revision id="36">
-    <original><w>mæta</w></original>
-    <corrected><w>mæti</w></corrected>
-      <errors>
-        <error xtype="dep" depId="35-1" eid="0" />
-      </errors>
-  </revision>
+  <w>mæta</w>
   <w>ekki</w>
   <w>með</w>
   <w>hausinn</w>
@@ -996,6 +990,13 @@
   <w>að</w>
   <w>afreka</w>
   <w>neitt</w>
+    <revision id="37b">
+    <original></original>
+    <corrected><c>.</c></corrected>
+      <errors>
+        <error xtype="missing-period" eid="0" />
+      </errors>
+  </revision>
   <w>Sverrir</w>
   <w>Sverrisson</w>
   <c>,</c>
