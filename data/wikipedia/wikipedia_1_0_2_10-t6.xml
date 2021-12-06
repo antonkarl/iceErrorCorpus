@@ -1102,8 +1102,7 @@
     <original><w>efnið</w></original>
     <corrected><w>efnis</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0" />
-        <error xtype="genitive" eid="0" />
+        <error xtype="gen-escape" eid="0" />
       </errors>
   </revision>
   <w>að</w>
@@ -1546,9 +1545,8 @@
     <original><w>hafnbann</w></original>
     <corrected><w>hafnbanns</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0" />
         <error xtype="case-prep" eid="0" />
-        <error xtype="genitive" eid="0" />
+        <error xtype="gen-escape" eid="0" />
       </errors>
   </revision>
   <w>Englendinga</w>

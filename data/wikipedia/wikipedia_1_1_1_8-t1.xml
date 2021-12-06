@@ -1193,7 +1193,7 @@
       <errors>
         <error xtype="pro-inflection" idx="42-1" eid="0"/>
         <error xtype="case-prep" idx="42-1" eid="0"/>
-        <error xtype="genitive" idx="42-1" eid="0"/>
+        <error xtype="gen-escape" idx="42-1" eid="0"/>
       </errors>
   </revision>
   <w>voru</w>
@@ -1460,8 +1460,7 @@
     <original><w>þekkingu</w></original>
     <corrected><w>þekkingar</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
-        <error xtype="genitive" eid="0"/>
+        <error xtype="gen-escape" eid="0"/>
       </errors>
   </revision>
   <w>á</w>
@@ -2032,8 +2031,8 @@
     <original><w>manni</w></original>
     <corrected><w>manna</w></corrected>
       <errors>
-        <error xtype="genitive" eid="0"/>
-        <error xtype="nominal-inflection" eid="0" />
+        <error xtype="gen-escape" idx="64-1" eid="0"/>
+        <error xtype="singular4plural" idx="64-1" eid="0" />
       </errors>
   </revision>
   <w>á</w>

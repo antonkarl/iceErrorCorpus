@@ -1477,9 +1477,7 @@
     <original><w>stéttarlausa</w></original>
     <corrected><w>stéttlausra</w></corrected>
       <errors>
-        <error xtype="adjective-inflection" idx="32-1" eid="0" />
-        <error xtype="genitive" idx="32-1" eid="0" />
-        <error xtype="extra-letters" idx="32-1" eid="0" />
+        <error xtype="agreement-concord" idx="32-1" eid="0" />
         <error xtype="compound-collocation" idx="32-1" eid="0" />
       </errors>
   </revision>
@@ -1903,23 +1901,20 @@
   <w>vegna</w>
   <w>pólitískra</w>
   <revision id="43">
-    <original><w>skoðanna</w></original>
-    <corrected><w>skoðana</w></corrected>
+    <original><w>skoðanna</w><w>Steinbeck</w></original>
+    <corrected><w>skoðana</w><w>Steinbecks</w></corrected>
       <errors>
         <error xtype="nn4n" idx="43-1" eid="0" />
         <error xtype="nonword" idx="43-1" eid="0" />
+        <error xtype="gen-escape" idx="43-2" eid="0" />
       </errors>
   </revision>
-  <w>Steinbeck</w>
   <c>,</c>
   <revision id="44">
     <original><w>gagnrýnin</w><w>sýn</w></original>
     <corrected><w>gagnrýninnar</w><w>sýnar</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" idx="44-1" eid="0" />
-        <error xtype="genitive" idx="44-1" eid="0" />
-        <error xtype="nominal-inflection" idx="44-2" eid="0" />
-        <error xtype="genitive" idx="44-2" eid="0" />
+        <error xtype="gen-escape" eid="0" />
       </errors>
   </revision>
   <w>hans</w>
@@ -1930,8 +1925,7 @@
     <original><w>samúð</w></original>
     <corrected><w>samúðar</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0" />
-        <error xtype="genitive" eid="0" />
+        <error xtype="gen-escape" eid="0" />
       </errors>
   </revision>
   <w>hans</w>

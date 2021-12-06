@@ -689,12 +689,17 @@
     <original><w>Franklin</w></original>
     <corrected><w>Franklins</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
-        <error xtype="genitive" eid="0" />
+        <error xtype="gen-escape" eid="0" />
       </errors>
   </revision>
   <w>B.</w>
-  <w>Gowen</w>
+  <revision id="48b">
+    <original><w>Gowen</w></original>
+    <corrected><w>Gowens</w></corrected>
+      <errors>
+        <error xtype="gen-escape" eid="0" />
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="21">
   <revision id="49">

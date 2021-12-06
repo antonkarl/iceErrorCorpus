@@ -162,14 +162,19 @@
     <corrected><w>norsk-íslenskrar</w><w>síldar</w></corrected>
       <errors>
         <error xtype="dep" depId="1-1" eid="0"/>
-        <error xtype="nominal-inflection" idx="1-1" eid="0"/>
-        <error xtype="genitive" idx="1-1" eid="0" />
+        <error xtype="gen-escape" idx="1-1" eid="0" />
       </errors>
   </revision>
   <w>í</w>
   <w>Norðaustur-Atlantshafi</w>
   <w>á</w>
-  <w>næst</w>
+  <revision id="4b">
+    <original><w>næst</w></original>
+    <corrected><w>næsta</w></corrected>
+      <errors>
+        <error xtype="agreement-concord" eid="0"/>
+      </errors>
+  </revision>
   <w>ári</w>
   <c>.</c>
 </s><s n="8">

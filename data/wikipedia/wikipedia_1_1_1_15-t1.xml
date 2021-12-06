@@ -212,9 +212,8 @@
     <original><w>skipstjórinn</w><w>Firefly-geimskipinu</w></original>
     <corrected><w>skipstjóri</w><w>Firefly-geimskipsins</w></corrected>
       <errors>
-        <error xtype="def4ind" eid="0"/>
-        <error xtype="nominal-inflection" eid="0"/>
-        <error xtype="genitive" eid="0" />
+        <error xtype="def4ind" idx="8-1" eid="0"/>
+        <error xtype="gen-escape" idx="8-2" eid="0" />
       </errors>
   </revision>
   <w>Serenity</w>

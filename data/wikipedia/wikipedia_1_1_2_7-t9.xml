@@ -49,7 +49,8 @@
     <original><w>hipp</w><w>hopp</w></original>
     <corrected><w>hipphopps</w></corrected>
       <errors>
-        <error xtype="split-compound" eid="0" />
+        <error xtype="split-compound" idx="3-1" eid="0" />
+        <error xtype="gen-escape" idx="3-1" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -61,8 +62,7 @@
     <original><w>fönk</w></original>
     <corrected><w>fönks</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0" />
-        <error xtype="genitive" eid="0" />
+        <error xtype="gen-escape" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -1435,8 +1435,7 @@
     <original><w>plata</w></original>
     <corrected><w>platna</w></corrected>
       <errors>
-        <error xtype="genitive" idx="67-1" eid="0" />
-        <error xtype="nominal-inflection" idx="67-1" eid="0" />
+        <error xtype="gen-escape" eid="0" />
       </errors>
   </revision>
   <w>um</w>

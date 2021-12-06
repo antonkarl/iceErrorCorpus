@@ -346,8 +346,7 @@
     <original><w>vændi</w></original>
     <corrected><w>vændis</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
-        <error xtype="genitive" eid="0" />
+        <error xtype="gen-escape" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -355,8 +354,7 @@
     <original><w>fjárhættuspil</w></original>
     <corrected><w>fjárhættuspila</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
-        <error xtype="genitive" eid="0" />
+        <error xtype="gen-escape" eid="0" />
       </errors>
   </revision>
   <c>,</c>

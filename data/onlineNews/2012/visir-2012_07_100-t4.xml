@@ -49,8 +49,9 @@
     <original><w>Anton</w><w>Ferdinand</w><c>,</c></original>
     <corrected><w>Antons</w><w>Ferdinands</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" idx="2-1" eid="0" />
-        <error xtype="genitive" idx="2-1" eid="0" />
+        <error xtype="foreign-name" idx="2-1" eid="0" />
+        <error xtype="gen-escape" idx="2-1" eid="0" />
+        <error xtype="extra-comma" idx="2-2" eid="0" />
       </errors>
   </revision>
   <w>leikmanns</w>

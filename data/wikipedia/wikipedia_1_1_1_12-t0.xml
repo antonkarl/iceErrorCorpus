@@ -1814,7 +1814,13 @@
   <w>framleiða</w>
   <w>egg</w>
   <c>,</c>
-  <w>munir</w>
+  <revision id="56b">
+    <original><w>munir</w></original>
+    <corrected><w>munur</w></corrected>
+      <errors>
+        <error xtype="plural4singular" eid="0" />
+      </errors>
+  </revision>
   <w>milli</w>
   <revision id="57">
     <original><w>verkefni</w></original>

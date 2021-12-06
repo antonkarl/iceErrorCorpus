@@ -235,9 +235,8 @@
     <original><w>sektargreiðsla</w></original>
     <corrected><w>sektargreiðslna</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
         <error xtype="case-prep" eid="0" />
-        <error xtype="genitive" eid="0" />
+        <error xtype="gen-escape" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -286,14 +285,7 @@
   <w>höfðuð</w>
   <w>á</w>
   <w>hendur</w>
-  <revision id="7">
-    <original><w>EFTA-ríki</w></original>
-    <corrected><w>EFTA-ríkis</w></corrected>
-      <errors>
-        <error xtype="nominal-inflection" eid="0"/>
-        <error xtype="genitive" eid="0" />
-      </errors>
-  </revision>
+  <w>EFTA-ríki</w>
   <w>af</w>
   <w>hálfu</w>
   <w>eftirlitsstofnunar</w>

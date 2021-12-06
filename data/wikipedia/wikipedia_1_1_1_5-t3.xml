@@ -398,9 +398,7 @@
     <original><w>einstök</w><w>kjördæmi</w><w>sem</w></original>
     <corrected><w>einstakra</w><w>kjördæma</w><w>og</w></corrected>
       <errors>
-        <error xtype="adjective-inflection" idx="235-1" eid="0"/>
-        <error xtype="nominal-inflection" idx="235-1" eid="0"/>
-        <error xtype="genitive" idx="235-1" eid="0" />
+        <error xtype="gen-escape" idx="235-1" eid="0" />
         <error xtype="conjunction" idx="235-2" eid="0"/>
       </errors>
   </revision>
@@ -2466,8 +2464,7 @@
     <corrected><w>írsku</w><w>heimastjórnarlaganna</w></corrected>
       <errors>
         <error xtype="upper4lower-common" idx="42-1" eid="0"/>
-        <error xtype="nominal-inflection" idx="42-2" eid="0"/>
-        <error xtype="genitive" idx="42-2" eid="0" />
+        <error xtype="gen-escape" idx="42-2" eid="0" />
       </errors>
   </revision>
   <w>1914</w>

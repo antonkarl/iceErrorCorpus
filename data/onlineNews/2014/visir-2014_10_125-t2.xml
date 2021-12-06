@@ -24,14 +24,19 @@
   <w>tug</w>
   <w>barnabóka</w>
   <c>,</c>
-  <w>skáldsaga</w>
+  <revision id="0">
+    <original><w>skáldsaga</w></original>
+    <corrected><w>skáldsagna</w></corrected>
+      <errors>
+        <error xtype="gen-escape" eid="0" />
+      </errors>
+  </revision>
   <c>,</c>
   <revision id="1">
     <original><w>myndabækur</w></original>
     <corrected><w>myndabóka</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
-        <error xtype="genitive" eid="0" />
+        <error xtype="gen-escape" eid="0" />
       </errors>
   </revision>
   <w>fyrir</w>

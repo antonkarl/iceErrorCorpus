@@ -1425,8 +1425,7 @@
     <original><w>alheimstónlist</w></original>
     <corrected><w>alheimstónlistar</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
-        <error xtype="genitive" eid="0" />
+        <error xtype="gen-escape" eid="0" />
       </errors>
   </revision>
   <w>en</w>
@@ -1435,13 +1434,15 @@
   <w>það</w>
   <w>er</w>
   <w>krátrokk</w>
-  <w>ennþá</w>
-  <w>talið</w>
   <revision id="29">
-    <original><w>sem</w></original>
-    <corrected/>
+    <original><w>ennþá</w><w>talið</w><w>sem</w></original>
+    <corrected><w>enn</w><w>þá</w><w>talin</w><w>vera</w></corrected>
       <errors>
-        <error xtype="extra-conjunction" eid="0"/>
+        <error xtype="merged-words" idx="29-1" eid="0"/>
+        <error xtype="nonword" idx="29-1" eid="0"/>
+        <error xtype="agreement-pred" idx="29-2" eid="0"/>
+        <error xtype="extra-conjunction" idx="29-3" eid="0"/>
+        <error xtype="missing-word" idx="29-4" eid="0"/>
       </errors>
   </revision>
   <w>tónlistarstefna</w>

@@ -2329,13 +2329,7 @@
   <w>til</w>
   <w>krakka</w>
   <c>,</c>
-  <revision id="143">
-    <original><w>tyggigúmmí</w></original>
-    <corrected><w>tyggjó</w></corrected>
-      <errors>
-        <error xtype="wording" eid="0"/>
-      </errors>
-  </revision>
+  <w>tyggigúmmí</w>
   <w>hefur</w>
   <w>alltaf</w>
   <w>verið</w>
@@ -2346,9 +2340,8 @@
     <original><w>krakkar</w></original>
     <corrected><w>krakka</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
         <error xtype="case-prep" eid="0" />
-        <error xtype="genitive" eid="0" />
+        <error xtype="gen-escape" eid="0" />
       </errors>
   </revision>
   <w>og</w>

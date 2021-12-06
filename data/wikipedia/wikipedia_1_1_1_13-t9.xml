@@ -1199,9 +1199,8 @@
     <original><w>Vestur-Berlín</w></original>
     <corrected><w>Vestur-Berlínar</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
         <error xtype="case-prep" eid="0" />
-        <error xtype="genitive" eid="0" />
+        <error xtype="gen-escape" eid="0" />
       </errors>
   </revision>
   <c>.</c>
@@ -1383,8 +1382,7 @@
     <original><w>efnið</w></original>
     <corrected><w>efnis</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" idx="38-1" eid="0"/>
-        <error xtype="genitive" idx="38-1" eid="0" />
+        <error xtype="gen-escape" idx="38-1" eid="0" />
         <error xtype="def4ind" idx="38-1" eid="0"/>
       </errors>
   </revision>

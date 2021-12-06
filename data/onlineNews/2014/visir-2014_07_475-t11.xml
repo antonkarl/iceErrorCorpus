@@ -41,14 +41,33 @@
   <w>10</w>
   <w>kílómetra</w>
   <w>leið</w>
+  <revision id="0">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
   <w>þegar</w>
   <w>við</w>
   <w>gengum</w>
   <w>fram</w>
   <w>á</w>
-  <w>Rússneskt</w>
+  <revision id="0b">
+    <original><w>Rússneskt</w></original>
+    <corrected><w>rússneskt</w></corrected>
+      <errors>
+        <error xtype="upper4lower-common" eid="0" />
+      </errors>
+  </revision>
   <w>hlustunardufl</w>
-  <w>í</w>
+  <revision id="0c">
+    <original><w>í</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-prep" eid="0" />
+      </errors>
+  </revision>
   <w>við</w>
   <w>svokallað</w>
   <w>Vestrahorn</w>
@@ -72,9 +91,8 @@
     <original><w>Stokksnes</w></original>
     <corrected><w>Stokksness</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0" />
         <error xtype="case-prep" eid="0" />
-        <error xtype="genitive" eid="0" />
+        <error xtype="gen-escape" eid="0" />
       </errors>
   </revision>
   <c>,</c>
@@ -85,6 +103,13 @@
   <c>,</c>
   <w>einn</w>
   <w>ættarmótsgestanna</w>
+  <revision id="1b">
+    <original></original>
+    <corrected><c>,</c></corrected>
+      <errors>
+        <error xtype="missing-comma" eid="0" />
+      </errors>
+  </revision>
   <w>aðspurð</w>
   <w>um</w>
   <w>duflið</w>

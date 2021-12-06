@@ -41,11 +41,9 @@
     <original><w>Reykjanesbraut</w><c>/</c><w>Sæbraut</w></original>
     <corrected><w>Reykjanesbrautar</w><w>og</w><w>Sæbrautar</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0" />
-        <error xtype="genitive" eid="0" />
-        <error xtype="symbol4word" eid="0" />
-        <error xtype="nominal-inflection" eid="0" />
-        <error xtype="genitive" eid="0" />
+        <error xtype="gen-escape" idx="1-1" eid="0" />
+        <error xtype="symbol4word" idx="1-2" eid="0" />
+        <error xtype="gen-escape" idx="1-3" eid="0" />
       </errors>
   </revision>
   <w>en</w>

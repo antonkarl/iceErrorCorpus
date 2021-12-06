@@ -120,8 +120,6 @@
       <errors>
         <error xtype="missing-hyphen" idx="5-1" eid="0" />
         <error xtype="n4nn" idx="5-2" eid="0" />
-        <error xtype="nominal-inflection" idx="5-2" eid="0" />
-        <error xtype="genitive" idx="5-2" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -692,10 +690,7 @@
     <original><w>félagana</w></original>
     <corrected><w>félaganna</w></corrected>
       <errors>
-        <error xtype="n4nn" idx="35-1" eid="0" />
-        <error xtype="nominal-inflection" idx="35-1" eid="0" />
-        <error xtype="case-prep" idx="35-1" eid="0" />
-        <error xtype="genitive" idx="35-1" eid="0" />
+        <error xtype="n4nn" eid="0" />
       </errors>
   </revision>
   <c>.</c>

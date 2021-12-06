@@ -415,7 +415,14 @@
   <w>viðskiptaskilmála</w>
   <c>.</c>
 </s><s n="11">
-  <w>Forvarsmenn</w>
+  <revision id="17b">
+    <original><w>Forvarsmenn</w></original>
+    <corrected><w>Forsvarsmenn</w></corrected>
+      <errors>
+        <error xtype="missing-letter" idx="17b-1" eid="0"/>
+        <error xtype="nonword" idx="17b-1" eid="0" />
+      </errors>
+  </revision>
   <w>fyrirtækisins</w>
   <w>ISNIC</w>
   <w>tiltóku</w>
@@ -428,7 +435,13 @@
   <w>var</w>
   <w>á</w>
   <w>lén</w>
-  <w>samtakanna</w>
+  <revision id="17c">
+    <original><w>samtakanna</w></original>
+    <corrected></corrected>
+      <errors>
+        <error xtype="extra-word" eid="0"/>
+      </errors>
+  </revision>
   <w>íslamska</w>
   <revision id="18">
     <original><w>ríkið</w></original>

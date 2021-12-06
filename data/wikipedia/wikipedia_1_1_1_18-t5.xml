@@ -935,10 +935,10 @@
     <original><w>lifrum</w></original>
     <corrected><c>,</c><w>lirfa</w></corrected>
       <errors>
-        <error xtype="missing-comma" eid="0"/>
-        <error xtype="nominal-inflection" eid="0"/>
-        <error xtype="case-prep" eid="0" />
-        <error xtype="genitive" eid="0" />
+        <error xtype="missing-comma" idx="36-1" eid="0"/>
+        <error xtype="swapped-letters" idx="36-2" eid="0" />
+        <error xtype="case-prep" idx="36-2" eid="0" />
+        <error xtype="gen-escape" idx="36-2" eid="0" />
       </errors>
   </revision>
   <w>og</w>
@@ -946,9 +946,8 @@
     <original><w>litlum</w><w>krabbadýrum</w></original>
     <corrected><w>lítilla</w><w>krabbadýra</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0"/>
         <error xtype="case-prep" eid="0" />
-        <error xtype="genitive" eid="0" />
+        <error xtype="gen-escape" eid="0" />
       </errors>
   </revision>
   <c>.</c>

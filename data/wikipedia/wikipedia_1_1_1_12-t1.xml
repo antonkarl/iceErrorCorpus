@@ -1011,8 +1011,7 @@
     <corrected><w>Rastafari-hreyfingarinnar</w></corrected>
       <errors>
         <error xtype="missing-hyphen" idx="48-1" eid="0" />
-        <error xtype="nominal-inflection" idx="48-1" eid="0" />
-        <error xtype="genitive" idx="48-1" eid="0" />
+        <error xtype="gen-escape" idx="48-1" eid="0" />
       </errors>
   </revision>
   <w>fólk</w>
@@ -1190,8 +1189,7 @@
     <original><w>Opinberunarbók</w></original>
     <corrected><w>Opinberunarbókar</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0" />
-        <error xtype="genitive" eid="0" />
+        <error xtype="gen-escape" eid="0" />
       </errors>
   </revision>
   <w>Jóhannesar</w>
@@ -1984,13 +1982,14 @@
   <w>þessum</w>
   <w>tyllidögum</w>
   <revision id="96">
-    <original><w>þeirra</w></original>
+    <original><w>þeirra</w><w>þá</w></original>
     <corrected><w>rasta</w></corrected>
       <errors>
-        <error xtype="pro4noun" eid="0" />
+        <error xtype="pro4noun" idx="96-1" eid="0" />
+        <error xtype="extra-word" idx="96-2" eid="0" />
+        <error xtype="style" idx="96-2" eid="0" />
       </errors>
   </revision>
-  <w>þá</w>
   <w>fara</w>
   <w>þeir</w>
   <w>með</w>
@@ -2003,9 +2002,8 @@
     <original><w>faðirvorið</w><w>einnig</w></original>
     <corrected><w>faðirvorsins</w><c>.</c><w>Þeir</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" idx="97-1" eid="0" />
         <error xtype="case-prep" idx="97-1" eid="0" />
-        <error xtype="genitive" idx="97-1" eid="0" />
+        <error xtype="gen-escape" idx="97-1" eid="0" />
         <error xtype="missing-period" idx="97-2" eid="0" />
         <error xtype="extra-word" idx="97-3" eid="0" />
         <error xtype="dep" depId="98-1" eid="0" />
@@ -2114,8 +2112,7 @@
     <original><w>Messías</w></original>
     <corrected><w>Messíasar</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0" />
-        <error xtype="genitive" eid="0" />
+        <error xtype="gen-escape" eid="0" />
       </errors>
   </revision>
   <w>en</w>
@@ -2133,9 +2130,8 @@
     <original><w>ætt</w></original>
     <corrected><w>ættar</w></corrected>
       <errors>
-        <error xtype="nominal-inflection" eid="0" />
-        <error xtype="case-prep" eid="0" />
-        <error xtype="genitive" eid="0" />
+        <error xtype="case-prep" idx="103-1" eid="0" />
+        <error xtype="gen-escape" idx="103-1" eid="0" />
       </errors>
   </revision>
   <w>Salómons</w>

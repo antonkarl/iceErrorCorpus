@@ -1373,9 +1373,13 @@
   <w>og</w>
   <w>var</w>
   <w>keisarafjölskyldan</w>
-  <w>þungt</w>
-  <w>haldin</w>
-  <w>áhyggjum</w>
+  <revision id="66b">
+    <original><w>þungt</w><w>haldin</w><w>áhyggjum</w></original>
+    <corrected><w>haldin</w><w>þungum</w><w>áhyggjum</w></corrected>
+      <errors>
+        <error xtype="wording" eid="0"/>
+      </errors>
+  </revision>
   <c>.</c>
 </s><s n="42">
   <w>Í</w>
